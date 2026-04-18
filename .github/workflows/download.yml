@@ -1,0 +1,24 @@
+name: Remote Download to Artifact
+on:
+  workflow_dispatch:
+    inputs:
+      file_url:
+        description: 'لینک مستقیم فایل را اینجا وارد کنید'
+        required: true
+        default: ''
+
+jobs:
+  download_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download File
+        run: |
+          # دانلود فایل با استفاده از wget
+          wget "${{ github.event.inputs.file_url }}" -O downloaded_file
+          
+      - name: Upload to GitHub Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: my-downloaded-file
+          path: downloaded_file
+          retention-days: 1 # فایل فقط ۱ روز ذخیره بماند (برای امنیت بیشتر)
