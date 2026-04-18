@@ -1,0 +1,37 @@
+name: Download to Repository
+
+on:
+  workflow_dispatch:
+    inputs:
+      file_url:
+        description: 'لینک مستقیم فایل'
+        required: true
+        default: ''
+
+jobs:
+  fetch_and_push:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # مهم: اجازه push
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Download file
+        run: |
+          wget "${{ github.event.inputs.file_url }}" -O downloaded_file
+
+      - name: Move file into repo
+        run: |
+          mv downloaded_file download.tmp  # فایل موقت با نام دلخواه
+          ls -lah
+
+      - name: Commit & push
+        run: |
+          git config user.email "github-actions@github.com"
+          git config user.name "GitHub Actions"
+          git add download.tmp
+          git commit -m "Downloaded file"
+          git push
