@@ -1,39 +1,91 @@
-name: Download And Save
+name: Smart Downloader
 
 on:
   workflow_dispatch:
     inputs:
       file_url:
-        description: 'File URL'
+        description: "Direct file URL"
         required: true
 
 jobs:
   download:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download file
+      - name: Install tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y zip p7zip-full
+
+      - name: Download file (robust)
         run: |
           URL="${{ github.event.inputs.file_url }}"
-          FILENAME=$(basename "$URL")
-          curl -L "$URL" -o "$FILENAME"
-          echo "FILENAME=$FILENAME" >> $GITHUB_ENV
+          echo "Downloading from $URL"
 
-      - name: Upload artifact (backup)
-        uses: actions/upload-artifact@v4
-        with:
-          name: downloaded-file
-          path: ${{ env.FILENAME }}
+          curl -L --retry 10 --retry-delay 5 -C - "$URL" -o file.tmp
 
-      - name: Commit to repo
+          NAME=$(basename "$URL")
+          mv file.tmp "$NAME"
+
+          echo "FILENAME=$NAME" >> $GITHUB_ENV
+
+      - name: Detect size
+        run: |
+          SIZE=$(stat -c%s "$FILENAME")
+          echo "SIZE=$SIZE"
+          echo "SIZE=$SIZE" >> $GITHUB_ENV
+
+      - name: Prepare split if >100MB
+        run: |
+          LIMIT=$((100*1024*1024))
+
+          if [ "$SIZE" -gt "$LIMIT" ]; then
+            echo "Large file → splitting"
+
+            mkdir parts
+
+            zip -s 95m "parts/${FILENAME}.zip" "$FILENAME"
+
+            rm "$FILENAME"
+
+            echo "MODE=split" >> $GITHUB_ENV
+          else
+            echo "MODE=single" >> $GITHUB_ENV
+          fi
+
+      - name: Commit to repo (try)
+        continue-on-error: true
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add "${{ env.FILENAME }}"
-          git commit -m "add downloaded file"
+          git config user.email "actions@github.com"
+
+          if [ "$MODE" = "single" ]; then
+            git add "$FILENAME"
+          else
+            git add parts/*
+          fi
+
+          git commit -m "downloaded file"
           git push
+
+      - name: Detect commit result
+        run: |
+          if git ls-files | grep -q .; then
+            echo "REPO_OK=true" >> $GITHUB_ENV
+          else
+            echo "REPO_OK=false" >> $GITHUB_ENV
+          fi
+
+      - name: Create Release if repo failed
+        if: env.REPO_OK == 'false'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: download-${{ github.run_id }}
+          name: Download ${{ github.run_id }}
+          files: |
+            ${{ env.FILENAME }}
+            parts/*
