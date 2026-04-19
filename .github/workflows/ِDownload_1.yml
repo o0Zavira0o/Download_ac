@@ -1,37 +1,39 @@
-name: Download to Repository
+name: Download And Save
 
 on:
   workflow_dispatch:
     inputs:
       file_url:
-        description: 'لینک مستقیم فایل'
+        description: 'File URL'
         required: true
-        default: ''
 
 jobs:
-  fetch_and_push:
+  download:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write   # مهم: اجازه push
+      contents: write
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Download file
         run: |
-          wget "${{ github.event.inputs.file_url }}" -O downloaded_file
+          URL="${{ github.event.inputs.file_url }}"
+          FILENAME=$(basename "$URL")
+          curl -L "$URL" -o "$FILENAME"
+          echo "FILENAME=$FILENAME" >> $GITHUB_ENV
 
-      - name: Move file into repo
-        run: |
-          mv downloaded_file download.tmp  # فایل موقت با نام دلخواه
-          ls -lah
+      - name: Upload artifact (backup)
+        uses: actions/upload-artifact@v4
+        with:
+          name: downloaded-file
+          path: ${{ env.FILENAME }}
 
-      - name: Commit & push
+      - name: Commit to repo
         run: |
+          git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git config user.name "GitHub Actions"
-          git add download.tmp
-          git commit -m "Downloaded file"
+          git add "${{ env.FILENAME }}"
+          git commit -m "add downloaded file"
           git push
