@@ -1,0 +1,54 @@
+name: Fetch Archived Article Links (Foreign Affairs/Policy/New Yorker)
+
+on:
+  schedule:
+    # هر ۶ ساعت یکبار اجرا کن (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # اینو بذار تا دستی هم بتونی اجرا کنی
+
+permissions:
+  contents: write  # لازمه برای push کردن فایل جدید
+
+jobs:
+  fetch-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Private Repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4 feedparser lxml
+
+      - name: Run Fetcher Script
+        id: fetcher
+        run: python scripts/fetcher.py
+        env:
+          # توی اینترنت ملی ممکنه dns مشکل داشته باشه. از dns عمومی گوگل استفاده کن.
+          PYTHONUNBUFFERED: 1
+
+      - name: Commit and Push Archive Links
+        # این مرحله حتی اگر اسکریپت فقط یه لینک هم پیدا کنه، فایلو آپدیت می‌کنه
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # فایل لاگ رو هم اضافه می‌کنیم تا بتونی ارورها رو ببینی (چون دسترسی به تب Actions نداری)
+          git add articles/ 
+          git add log.txt || echo "No log file created"
+          
+          # فقط اگر تغییری بود commit کن
+          if ! git diff --cached --quiet; then
+            git commit -m "Update article archive links [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
