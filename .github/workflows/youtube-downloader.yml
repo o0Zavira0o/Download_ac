@@ -17,11 +17,11 @@ jobs:
     steps:
       - name: 🔃 Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 📥 Install yt-dlp
+      - name: 📥 Install dependencies (yt-dlp & ffmpeg)
         run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
           sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
           sudo chmod a+rx /usr/local/bin/yt-dlp
 
@@ -29,59 +29,43 @@ jobs:
         env:
           URL: ${{ github.event.inputs.youtube_url }}
         run: |
-          mkdir -p ./temp_download
-          # دانلود با نام موقت، اما دریافت عنوان واقعی
+          mkdir -p downloads
+          # دانلود و استانداردسازی خودکار نام فایل
           yt-dlp \
             -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" \
             --merge-output-format mp4 \
-            --print "%(title)s.%(ext)s" \
-            -o "./temp_download/%(title)s.%(ext)s" \
-            "$URL" > ./video_filename.txt
+            --restrict-filenames \
+            -o "downloads/%(title)s.%(ext)s" \
+            "$URL"
 
-      - name: 🧼 Sanitize filename and create ZIP
+      - name: 📦 Check size and process (Zip & Split if needed)
         run: |
-          # خواندن نام فایل واقعی
-          RAW_NAME=$(cat ./video_filename.txt)
-          # پاک‌سازی کاراکترهای غیرمجاز برای فایل‌سیستم
-          SAFE_NAME=$(echo "$RAW_NAME" | tr -cd '[:alnum:]._- ' | tr ' ' '_' | sed 's/__/_/g')
-          # اگر خالی بود، نام پیش‌فرض
-          if [[ -z "$SAFE_NAME" ]]; then
-            SAFE_NAME="youtube_video.mp4"
-          fi
-
-          echo "Sanitized filename: $SAFE_NAME"
-
-          # پیدا کردن فایل واقعی (چون yt-dlp ممکن است نام را کوتاه کند)
-          ACTUAL_FILE=$(ls ./temp_download/*.mp4 | head -n1)
-          cp "$ACTUAL_FILE" "./temp_download/${SAFE_NAME}"
-
-          # ساخت ZIP
-          cd temp_download
-          zip -r "../${SAFE_NAME}.zip" "${SAFE_NAME}"
-
-      - name: ✂️ Split ZIP if larger than 100MB
-        run: |
-          FILE=$(ls *.zip | head -n1)
+          cd downloads
+          FILE=$(ls *.mp4 | head -n1)
           FILE_SIZE=$(stat -c%s "$FILE")
-          MAX_SIZE=$((100 * 1024 * 1024))  # 100 MB
+          MAX_SIZE=$((95 * 1024 * 1024)) # 95 MB threshold
 
           if [ "$FILE_SIZE" -gt "$MAX_SIZE" ]; then
-            echo "File size: $FILE_SIZE bytes (>100MB). Splitting into 95MB chunks..."
-            mkdir -p downloads
-            # تقسیم با پسوند .zip.001, .zip.002, ...
-            split -b 95M --numeric-suffixes=1 --suffix-length=3 "$FILE" "downloads/${FILE}."
-            # تغییر پسوند به فرمت استاندارد
-            cd downloads
-            for f in *.zip.*; do
-              if [[ -f "$f" ]]; then
-                mv "$f" "${f}.tmp"
-                mv "${f}.tmp" "$(echo "$f" | sed 's/\.zip\.\([0-9]\{3\}\)$/.zip.\1/')"
-              fi
-            done
-            cd ..
+            echo "File size is > 95MB. Zipping and splitting..."
+            ZIP_NAME="${FILE%.*}.zip"
+            
+            # فشرده سازی فایل
+            zip -r "$ZIP_NAME" "$FILE"
+            
+            # حذف فایل MP4 اصلی برای جلوگیری از آپلود آن
+            rm "$FILE" 
+            
+            # بررسی حجم فایل زیپ
+            ZIP_SIZE=$(stat -c%s "$ZIP_NAME")
+            if [ "$ZIP_SIZE" -gt "$MAX_SIZE" ]; then
+               echo "Zip is still > 95MB. Splitting..."
+               # تکه تکه کردن به پارت های 95 مگابایتی
+               split -b 95M -d "$ZIP_NAME" "${ZIP_NAME}.part"
+               # حذف فایل زیپ یکپارچه و بزرگ
+               rm "$ZIP_NAME"
+            fi
           else
-            mkdir -p downloads
-            mv "$FILE" downloads/
+            echo "File size is <= 95MB. Pushing directly."
           fi
 
       - name: 📤 Commit and push to repo
@@ -89,5 +73,5 @@ jobs:
           git config --global user.name "YT Downloader Bot"
           git config --global user.email "bot@github.com"
           git add downloads/
-          git commit -m "📥 Added: $(basename $(ls downloads/* | head -n1))"
+          git commit -m "📥 Added new video/parts"
           git push
