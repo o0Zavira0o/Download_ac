@@ -14,12 +14,12 @@ HISTORY_FILE = "processed_urls.txt"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 TIMEOUT = 25
 ARCHIVE_SUBMIT_URL = "https://archive.is/submit/"
-MAX_AGE_HOURS = 48  # مقالات با عمر کمتر از 48 ساعت
+MAX_AGE_HOURS = 48   # نگهداری ۴۸ ساعت
 
 SOURCES = [
     {
         "name": "Foreign_Affairs",
-        "rss": "https://www.foreignaffairs.com/rss.xml",  # فید اصلی
+        "rss": "https://www.foreignaffairs.com/rss.xml",
         "base_url": "https://www.foreignaffairs.com"
     },
     {
@@ -31,7 +31,7 @@ SOURCES = [
         "name": "New_Yorker_Magazine",
         "rss": "https://www.newyorker.com/feed/everything",
         "base_url": "https://www.newyorker.com",
-        "url_filter": "/magazine/"  # فقط مواردی که این عبارت در URL باشد
+        "url_filter": "/magazine/"
     }
 ]
 
@@ -69,12 +69,14 @@ def fetch_from_rss(rss_url, name, url_filter=None):
     articles = []
     write_log(f"Fetching RSS: {rss_url}")
     try:
-        headers = {"User-Agent": USER_AGENT}
-        # برخی فیدها نیاز به Accept دارند
+        headers = {
+            "User-Agent": USER_AGENT,
+            "Accept": "application/rss+xml, application/xml, text/xml, */*"
+        }
         r = requests.get(rss_url, headers=headers, timeout=TIMEOUT)
         r.raise_for_status()
         feed = feedparser.parse(r.text)
-        if feed.bozo:
+        if feed.bozo and not feed.entries:
             write_log(f"RSS bozo: {feed.bozo_exception}")
         cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
         for entry in feed.entries:
@@ -82,7 +84,7 @@ def fetch_from_rss(rss_url, name, url_filter=None):
             if not link:
                 continue
             if url_filter and url_filter not in link:
-                continue  # مثلاً New Yorker فقط magazine
+                continue
             pub_date = None
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
                 pub_date = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
@@ -103,7 +105,6 @@ def fetch_from_rss(rss_url, name, url_filter=None):
     return articles
 
 def scrape_newyorker_magazine_html():
-    """اسکرپ مستقیم صفحه مجله برای اطمینان از دریافت مقالات"""
     url = "https://www.newyorker.com/magazine"
     articles = []
     try:
@@ -118,7 +119,6 @@ def scrape_newyorker_magazine_html():
             full_url = urljoin("https://www.newyorker.com", href)
             if '/magazine/' not in full_url:
                 continue
-            # تلاش برای استخراج تاریخ از URL (مثلاً /magazine/2026/04/22/)
             m = re.search(r'/magazine/(\d{4})/(\d{2})/(\d{2})/', full_url)
             if m:
                 y, mth, d = map(int, m.groups())
@@ -130,7 +130,6 @@ def scrape_newyorker_magazine_html():
                         "link": full_url,
                         "pub_date": pub_date.isoformat()
                     })
-        # حذف تکراری
         uniq = []
         seen = set()
         for art in articles:
@@ -144,30 +143,24 @@ def scrape_newyorker_magazine_html():
         return []
 
 def extract_archive_snapshot(html_content):
-    """بگرد دنبال لینک اصلی اسنپ‌شات در HTML برگشتی از archive.is"""
     soup = BeautifulSoup(html_content, 'html.parser')
-    # 1. متای og:url
     meta = soup.find("meta", property="og:url")
     if meta and meta.get("content") and "archive.is" in meta["content"]:
         return meta["content"]
-    # 2. لینک داخل div.THUMBS-BLOCK
     link_tag = soup.select_one('div.THUMBS-BLOCK a')
     if link_tag and link_tag.get('href'):
         href = link_tag['href']
         if href.startswith('/'):
             href = 'https://archive.is' + href
         return href
-    # 3. لینک در input با نام url
     inp = soup.find("input", {"name": "url"})
     if inp and inp.get("value") and "archive.is" in inp["value"]:
         return inp["value"]
     return None
 
 def get_real_archive_url(original_url):
-    """تلاش برای دریافت لینک واقعی archive.is (نه submit)"""
     headers = {"User-Agent": USER_AGENT, "Referer": "https://archive.is/"}
     try:
-        # اول چک کنیم قبلاً آرشیو شده؟
         check_url = f"https://archive.is/submit/?url={quote_plus(original_url)}"
         r = requests.get(check_url, headers=headers, timeout=TIMEOUT)
         if r.status_code == 200:
@@ -175,8 +168,6 @@ def get_real_archive_url(original_url):
             if snap and "/submit/" not in snap:
                 write_log(f"✓ Already archived: {snap}")
                 return snap
-
-        # اگر نشد، submit کنیم
         data = {"url": original_url, "anyway": "1"}
         r_post = requests.post(ARCHIVE_SUBMIT_URL, data=data, headers=headers, timeout=30)
         if r_post.status_code == 200:
@@ -184,132 +175,138 @@ def get_real_archive_url(original_url):
             if snap and "/submit/" not in snap:
                 write_log(f"✓ Newly archived: {snap}")
                 return snap
-        # اگر همش شکست خورد، برمیگردیم None
-        write_log(f"⚠️ Could not extract snapshot for {original_url}")
+        write_log(f"⚠️ No snapshot for {original_url}")
         return None
     except Exception as e:
         write_log(f"Archive error: {e}")
         return None
 
 def load_existing_output():
-    """فایل latest_archives.txt موجود را می‌خواند و مقالات فعلی را استخراج می‌کند"""
+    """مقاله‌های باقی‌مانده در فایل فعلی را با چک کردن完整性 برمی‌گرداند"""
     out_path = os.path.join(REPO_DIR, "latest_archives.txt")
     if not os.path.exists(out_path):
         return []
     entries = []
-    with open(out_path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-    i = 0
-    while i < len(lines):
-        if lines[i].startswith("[") and "]" in lines[i]:
-            entry = {}
-            header = lines[i].strip()
-            entry['source'] = header.split(']')[0][1:]
-            entry['title'] = header.split(']',1)[1].strip()
-            if i+1 < len(lines) and lines[i+1].startswith("Published:"):
-                pub_str = lines[i+1].replace("Published:", "").strip()
-                entry['pub_date'] = pub_str
-                i += 1
-            if i+1 < len(lines) and lines[i+1].startswith("Original:"):
-                orig = lines[i+1].replace("Original:", "").strip()
-                entry['original_url'] = orig
-                i += 1
-            if i+1 < len(lines) and lines[i+1].startswith("Archive :"):
-                arch = lines[i+1].replace("Archive :", "").strip()
-                entry['archive_url'] = arch
-                i += 1
-            if i+1 < len(lines) and lines[i+1].startswith("---"):
-                i += 1
-            entries.append(entry)
-        i += 1
+    try:
+        with open(out_path, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
+            if line.startswith("[") and "]" in line:
+                entry = {}
+                header = line
+                entry['source'] = header.split(']')[0][1:]
+                entry['title'] = header.split(']', 1)[1].strip() if ']' in header else ""
+                # خواندن خطوط بعدی
+                if i+1 < len(lines) and lines[i+1].startswith("Published:"):
+                    entry['pub_date'] = lines[i+1].replace("Published:", "").strip()
+                    i += 1
+                if i+1 < len(lines) and lines[i+1].startswith("Original:"):
+                    entry['original_url'] = lines[i+1].replace("Original:", "").strip()
+                    i += 1
+                if i+1 < len(lines) and lines[i+1].startswith("Archive :"):
+                    entry['archive_url'] = lines[i+1].replace("Archive :", "").strip()
+                    i += 1
+                # رد شدن از خط جداکننده
+                if i+1 < len(lines) and lines[i+1].startswith("---"):
+                    i += 1
+                # فقط در صورتی ذخیره می‌کنیم که همهٔ فیلدها موجود باشند
+                if all(k in entry for k in ('source', 'title', 'original_url', 'archive_url', 'pub_date')):
+                    entries.append(entry)
+                else:
+                    write_log(f"Skipping incomplete entry starting: {line}")
+            i += 1
+    except Exception as e:
+        write_log(f"Error reading existing output: {e}")
+        return []   # اگر فایل خراب بود، از صفر شروع کن
     return entries
 
 def main():
-    write_log("=== Job Started (v3 archive.is) ===")
-    os.makedirs(REPO_DIR, exist_ok=True)
+    write_log("=== Job Started (v4) ===")
+    try:
+        os.makedirs(REPO_DIR, exist_ok=True)
+        history = load_history()
+        write_log(f"History: {len(history)} URLs")
 
-    history = load_history()
-    write_log(f"History: {len(history)} URLs")
+        new_articles = []
+        for src in SOURCES:
+            arts = fetch_from_rss(src["rss"], src["name"], src.get("url_filter"))
+            for art in arts:
+                if art["link"] not in history:
+                    new_articles.append({
+                        "source": src["name"],
+                        "title": art["title"],
+                        "original_url": art["link"],
+                        "pub_date": art["pub_date"]
+                    })
 
-    new_articles = []
-
-    # 1. RSS منابع
-    for src in SOURCES:
-        url_filter = src.get("url_filter", None)
-        arts = fetch_from_rss(src["rss"], src["name"], url_filter)
-        for art in arts:
+        ny_extra = scrape_newyorker_magazine_html()
+        for art in ny_extra:
             if art["link"] not in history:
-                new_articles.append({
-                    "source": src["name"],
+                new_articles.append(art)
+
+        write_log(f"Total new articles to archive: {len(new_articles)}")
+
+        new_archive_entries = []
+        new_urls_set = set()
+        for art in new_articles:
+            write_log(f"Archiving: {art['original_url']}")
+            time.sleep(4)   # کمی بیشتر صبر کن
+            arch_url = get_real_archive_url(art["original_url"])
+            if arch_url:
+                new_archive_entries.append({
+                    "source": art["source"],
                     "title": art["title"],
-                    "original_url": art["link"],
+                    "original_url": art["original_url"],
+                    "archive_url": arch_url,
                     "pub_date": art["pub_date"]
                 })
+                new_urls_set.add(art["original_url"])
+            else:
+                write_log(f"Failed: {art['original_url']}")
 
-    # 2. اسکرپ اضافی نیویورکر (جهت اطمینان)
-    ny_extra = scrape_newyorker_magazine_html()
-    for art in ny_extra:
-        if art["link"] not in history:
-            new_articles.append(art)
+        if new_urls_set:
+            save_history(new_urls_set)
 
-    write_log(f"Total new articles to archive: {len(new_articles)}")
-
-    # 3. آرشیو کردن
-    new_archive_entries = []
-    new_urls_set = set()
-    for art in new_articles:
-        write_log(f"Archiving: {art['original_url']}")
-        time.sleep(3)  # احترام
-        arch_url = get_real_archive_url(art["original_url"])
-        if arch_url:
-            new_archive_entries.append({
-                "source": art["source"],
-                "title": art["title"],
-                "original_url": art["original_url"],
-                "archive_url": arch_url,
-                "pub_date": art["pub_date"]
-            })
-            new_urls_set.add(art["original_url"])
-        else:
-            write_log(f"Failed: {art['original_url']}")
-
-    if new_urls_set:
-        save_history(new_urls_set)
-
-    # 4. بازسازی فایل خروجی (فقط مقالات ۴۸ ساعت گذشته)
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
-    final_entries = []
-    # ابتدا مقالات جدید رو اضافه کن
-    final_entries.extend(new_archive_entries)
-    # حالا از فایل موجود آنهایی که هنوز در ۴۸ ساعت هستند و duplicate نیستند را نگه داریم
-    existing = load_existing_output()
-    existing_urls = {e['original_url'] for e in existing}
-    for old in existing:
-        # اگر url قدیمی در بین جدیدها نیست و هنوز تاریخش در بازه‌ست
-        if old['original_url'] not in new_urls_set:
+        # ساختن لیست نهایی (تازه‌ها + قدیمی‌های معتبر)
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
+        existing = load_existing_output()
+        final_entries = []
+        kept_urls = set()
+        # اول تازه‌ها را اضافه کن
+        for e in new_archive_entries:
+            final_entries.append(e)
+            kept_urls.add(e['original_url'])
+        # سپس قدیمی‌هایی که تاریخشان هنوز در بازه است و duplicate نیستند
+        for e in existing:
+            if e['original_url'] in kept_urls:
+                continue
             try:
-                pub_dt = datetime.fromisoformat(old['pub_date'])
+                pub_dt = datetime.fromisoformat(e['pub_date'])
                 if pub_dt >= cutoff:
-                    # نیاز به آرشیو مجدد؟ احتمالاً لینک آرشیو همان است که ذخیره شده
-                    final_entries.append(old)
+                    final_entries.append(e)
+                    kept_urls.add(e['original_url'])
             except:
                 pass
 
-    # نوشتن فایل
-    out_path = os.path.join(REPO_DIR, "latest_archives.txt")
-    with open(out_path, "w", encoding="utf-8") as f:
-        f.write(f"# Last Run: {datetime.now().strftime('%Y-%m-%d %H:%M')} UTC\n")
-        f.write(f"# Articles published in last {MAX_AGE_HOURS} hours\n\n")
-        if final_entries:
-            for e in final_entries:
-                f.write(f"[{e['source']}] {e['title']}\n")
-                f.write(f"Published: {e['pub_date']}\n")
-                f.write(f"Original: {e['original_url']}\n")
-                f.write(f"Archive : {e['archive_url']}\n")
-                f.write("---\n")
-        else:
-            f.write("No articles archived in this run.\n")
-    write_log(f"Output written with {len(final_entries)} entries.")
+        out_path = os.path.join(REPO_DIR, "latest_archives.txt")
+        with open(out_path, "w", encoding="utf-8") as f:
+            f.write(f"# Last Run: {datetime.now().strftime('%Y-%m-%d %H:%M')} UTC\n")
+            f.write(f"# Articles published in last {MAX_AGE_HOURS} hours\n\n")
+            if final_entries:
+                for e in final_entries:
+                    f.write(f"[{e['source']}] {e['title']}\n")
+                    f.write(f"Published: {e['pub_date']}\n")
+                    f.write(f"Original: {e['original_url']}\n")
+                    f.write(f"Archive : {e['archive_url']}\n")
+                    f.write("---\n")
+            else:
+                f.write("No articles archived in this run.\n")
+        write_log(f"Output written with {len(final_entries)} entries.")
+    except Exception as e:
+        write_log(f"FATAL ERROR: {str(e)}")
+        raise   # بازهم خطا را بالا می‌دهد تا workflow فیل شود، ولی لاگ ذخیره شده
     write_log("=== Job Finished ===")
 
 if __name__ == "__main__":
