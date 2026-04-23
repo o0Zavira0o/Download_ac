@@ -31,20 +31,13 @@ jobs:
         env:
           PYTHONUNBUFFERED: 1
 
-      - name: Commit and Push Archive Links
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          
-          # اضافه کردن فایل‌های ضروری (اگر وجود ندارن خطا نده)
-          git add articles/ 2>/dev/null || true
-          git add log.txt 2>/dev/null || true
-          git add processed_urls.txt 2>/dev/null || true
-          
-          # بررسی وجود تغییرات
-          if git status --porcelain | grep -q .; then
-            git commit -m "Update article archive links [skip ci]"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+      - name: Commit and Push Changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: github-actions[bot]@users.noreply.github.com
+          message: 'Update article archive links [skip ci]'
+          add: 'articles log.txt processed_urls.txt'
+          push: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
