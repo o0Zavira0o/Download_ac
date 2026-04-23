@@ -1,4 +1,4 @@
-name: 🎥 YouTube Downloader Bot
+name: 🎥 YouTube Downloader (Artifacts)
 
 on:
   workflow_dispatch:
@@ -11,26 +11,21 @@ on:
 jobs:
   download:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: 🔃 Checkout repository
-        uses: actions/checkout@v4
-
-      - name: 📥 Install dependencies (yt-dlp & ffmpeg)
+      - name: 📥 Install dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg
           sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
           sudo chmod a+rx /usr/local/bin/yt-dlp
 
-      - name: 🚀 Download video (highest quality)
+      - name: 🚀 Download video
         env:
           URL: ${{ github.event.inputs.youtube_url }}
         run: |
           mkdir -p downloads
-          # دانلود و استانداردسازی خودکار نام فایل
+          # دانلود بهترین کیفیت
           yt-dlp \
             -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" \
             --merge-output-format mp4 \
@@ -38,40 +33,9 @@ jobs:
             -o "downloads/%(title)s.%(ext)s" \
             "$URL"
 
-      - name: 📦 Check size and process (Zip & Split if needed)
-        run: |
-          cd downloads
-          FILE=$(ls *.mp4 | head -n1)
-          FILE_SIZE=$(stat -c%s "$FILE")
-          MAX_SIZE=$((95 * 1024 * 1024)) # 95 MB threshold
-
-          if [ "$FILE_SIZE" -gt "$MAX_SIZE" ]; then
-            echo "File size is > 95MB. Zipping and splitting..."
-            ZIP_NAME="${FILE%.*}.zip"
-            
-            # فشرده سازی فایل
-            zip -r "$ZIP_NAME" "$FILE"
-            
-            # حذف فایل MP4 اصلی برای جلوگیری از آپلود آن
-            rm "$FILE" 
-            
-            # بررسی حجم فایل زیپ
-            ZIP_SIZE=$(stat -c%s "$ZIP_NAME")
-            if [ "$ZIP_SIZE" -gt "$MAX_SIZE" ]; then
-               echo "Zip is still > 95MB. Splitting..."
-               # تکه تکه کردن به پارت های 95 مگابایتی
-               split -b 95M -d "$ZIP_NAME" "${ZIP_NAME}.part"
-               # حذف فایل زیپ یکپارچه و بزرگ
-               rm "$ZIP_NAME"
-            fi
-          else
-            echo "File size is <= 95MB. Pushing directly."
-          fi
-
-      - name: 📤 Commit and push to repo
-        run: |
-          git config --global user.name "YT Downloader Bot"
-          git config --global user.email "bot@github.com"
-          git add downloads/
-          git commit -m "📥 Added new video/parts"
-          git push
+      - name: 📦 Upload Video as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: YouTube-Video
+          path: downloads/
+          retention-days: 5 # فایل بعد از ۵ روز از سرور گیت‌هاب پاک می‌شود
