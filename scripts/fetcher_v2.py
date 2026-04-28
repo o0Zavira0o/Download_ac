@@ -5,12 +5,11 @@ import os
 import re
 import time
 from datetime import datetime, timedelta, timezone
-from urllib.parse import urljoin, quote_plus, urlparse
+from urllib.parse import urljoin
 
 import feedparser
 import requests
 from bs4 import BeautifulSoup
-
 
 # ------------------------------
 # تنظیمات
@@ -25,14 +24,7 @@ USER_AGENT = (
     "Chrome/120.0.0.0 Safari/537.36"
 )
 TIMEOUT = 30
-MAX_AGE_HOURS = 48  # فقط 48 ساعت گذشته
-
-ARCHIVE_DOMAINS = [
-    "archive.is",
-    "archive.ph",
-    "archive.md",
-    "archive.today",
-]
+MAX_AGE_HOURS = 48  # فقط ۴۸ ساعت اخیر
 
 SOURCES = [
     {
@@ -53,7 +45,6 @@ SOURCES = [
     },
 ]
 
-
 # ------------------------------
 # لاگ
 # ------------------------------
@@ -72,7 +63,7 @@ def write_log(msg: str) -> None:
 
 
 # ------------------------------
-# تاریخچه URLها
+# تاریخچهٔ URLها
 # ------------------------------
 def ensure_history_file() -> None:
     if not os.path.exists(HISTORY_FILE):
@@ -96,7 +87,7 @@ def save_history(new_urls: set) -> set:
 
 
 # ------------------------------
-# توابع کمک برای RSS
+# کمک برای RSS
 # ------------------------------
 def parse_date_rfc2822(date_str: str):
     from email.utils import parsedate_to_datetime
@@ -238,163 +229,85 @@ def scrape_newyorker_magazine_html() -> list:
 
 
 # ------------------------------
-# تشخیص اسنپ‌شات معتبر archive.*
+# Wayback Machine (web.archive.org)
 # ------------------------------
-def is_snapshot_url(url: str) -> bool:
-    """آیا این URL یک اسنپ‌شات واقعی در یکی از دامنه‌های archive.* است؟"""
-    if not any(dom in url for dom in ARCHIVE_DOMAINS):
-        return False
-
-    bad_substrings = [
-        "/submit",
-        "/search",
-        "/tag/",
-        "/tags/",
-        "/feed",
-        "/list/",
-    ]
-    bad_params = ["?q=", "&q=", "?run=", "&run="]
-
-    if any(bad in url for bad in bad_substrings + bad_params):
-        return False
-
-    # آدرس صفحه‌ی اصلی دامنه نباشد
-    parsed = urlparse(url)
-    if parsed.path in ("", "/"):
-        return False
-
-    return True
-
-
-def extract_archive_snapshot(html_content: str, domain: str) -> str | None:
+def get_wayback_latest_snapshot(original_url: str) -> str | None:
     """
-    تلاش برای پیدا کردن URL اسنپ‌شات در HTML برگردانده شده از archive.*
-    domain فقط برای ساختن URL کامل از لینک‌های نسبی استفاده می‌شود.
+    ۱) با API /wayback/available آخرین اسنپ‌شات موجود را می‌گیرد.
+    ۲) اگر نبود، None برمی‌گرداند (ساخت اسنپ‌شات جدید را تابع دیگر انجام می‌دهد).
     """
-    soup = BeautifulSoup(html_content, "html.parser")
-
-    # 1) meta refresh با url=...
-    meta_refresh = soup.find(
-        "meta",
-        attrs={"http-equiv": lambda v: v and v.lower() == "refresh"},
-    )
-    if meta_refresh and meta_refresh.get("content"):
-        m = re.search(r"url=(.+)", meta_refresh["content"], flags=re.I)
-        if m:
-            href = m.group(1).strip().strip("'\"")
-            if href.startswith("//"):
-                href = "https:" + href
-            elif href.startswith("/"):
-                href = f"https://{domain}{href}"
-            if is_snapshot_url(href):
-                return href
-
-    # 2) canonical یا og:url که روی archive.* باشد
-    for tag_name, attr_name in (("link", "href"), ("meta", "content")):
-        el = soup.find(tag_name, attrs={"rel": "canonical"}) if tag_name == "link" else soup.find(
-            tag_name, attrs={"property": "og:url"}
+    api_url = "https://archive.org/wayback/available"
+    headers = {"User-Agent": USER_AGENT}
+    try:
+        r = requests.get(
+            api_url,
+            params={"url": original_url},
+            headers=headers,
+            timeout=TIMEOUT,
         )
-        if el and el.get(attr_name):
-            candidate = el[attr_name].strip()
-            if candidate.startswith("//"):
-                candidate = "https:" + candidate
-            if is_snapshot_url(candidate):
-                return candidate
+        if not (200 <= r.status_code < 300):
+            write_log(f"Wayback available API status {r.status_code} for {original_url}")
+            return None
 
-    # 3) لینک‌های داخل صفحه (a[href])
-    for a in soup.find_all("a", href=True):
-        href = a["href"].strip()
-        if href.startswith("//"):
-            href = "https:" + href
-        elif href.startswith("/"):
-            href = f"https://{domain}{href}"
-        if is_snapshot_url(href):
-            return href
-
-    return None
+        data = r.json()
+        closest = data.get("archived_snapshots", {}).get("closest")
+        if closest and closest.get("available") and closest.get("status") == "200":
+            snap_url = closest.get("url")
+            if snap_url:
+                write_log(f"Wayback existing snapshot: {snap_url}")
+                return snap_url
+        return None
+    except Exception as e:
+        write_log(f"Wayback available API error for {original_url}: {e}")
+        return None
 
 
-def get_real_archive_url(original_url: str) -> str | None:
+def create_wayback_snapshot(original_url: str) -> str | None:
     """
-    برای original_url روی چند دامنه archive.*:
-    - اول GET /submit/?url=... را تست می‌کند (ممکن است به اسنپ‌شات redirect کند)
-    - بعد اگر لازم شد POST /submit/ را تست می‌کند
-    - در هر مرحله اول از resp.url (آدرس نهایی پس از redirect) استفاده می‌کند
-    - در صورت نیاز HTML را برای یافتن اسنپ‌شات واقعی parse می‌کند
+    تلاش برای ساخت اسنپ‌شات جدید در Wayback:
+      GET https://web.archive.org/save/<url>
+    و برداشتن مسیر از هدر Content-Location.
     """
-    headers = {
-        "User-Agent": USER_AGENT,
-        "Referer": "https://archive.is/",
-    }
+    save_url = f"https://web.archive.org/save/{original_url}"
+    headers = {"User-Agent": USER_AGENT}
+    try:
+        r = requests.get(save_url, headers=headers, timeout=TIMEOUT)
+        # Wayback معمولاً با 200/302 جواب می‌دهد و Content-Location می‌گذارد
+        cl = r.headers.get("Content-Location")
+        if cl:
+            if not cl.startswith("http"):
+                snap_url = "https://web.archive.org" + cl
+            else:
+                snap_url = cl
+            write_log(f"Wayback new snapshot created: {snap_url}")
+            return snap_url
+        else:
+            write_log(f"Wayback save: no Content-Location for {original_url}")
+            return None
+    except Exception as e:
+        write_log(f"Wayback save error for {original_url}: {e}")
+        return None
 
-    for domain in ARCHIVE_DOMAINS:
-        base = f"https://{domain}"
 
-        # --- فاز ۱: GET ---
-        try:
-            check_url = f"{base}/submit/?url={quote_plus(original_url)}"
-            write_log(f"Checking archive snapshot on {domain} (GET)...")
-            resp = requests.get(
-                check_url,
-                headers=headers,
-                timeout=TIMEOUT,
-                allow_redirects=True,
-            )
-            write_log(
-                f"{domain} GET status {resp.status_code}, final URL {resp.url}"
-            )
+def get_archive_snapshot_url(original_url: str) -> str | None:
+    """
+    تابع اصلی برای گرفتن URL اسنپ‌شات:
+      - ابتدا سعی می‌کند آخرین اسنپ‌شات موجود در Wayback را بگیرد.
+      - اگر نبود، یک‌بار تلاش می‌کند اسنپ‌شات جدید بسازد.
+    """
+    # فاز ۱: آخرین اسنپ‌شات موجود
+    snap = get_wayback_latest_snapshot(original_url)
+    if snap:
+        return snap
 
-            if 200 <= resp.status_code < 400:
-                candidate = resp.url
-                if is_snapshot_url(candidate):
-                    write_log(f"Existing snapshot on {domain}: {candidate}")
-                    return candidate
-
-                # اگر HTML داریم، سعی کن از داخلش اسنپ‌شات را پیدا کنی
-                if "text/html" in resp.headers.get("Content-Type", ""):
-                    snap = extract_archive_snapshot(resp.text, domain)
-                    if snap and is_snapshot_url(snap):
-                        write_log(f"Existing snapshot (HTML) on {domain}: {snap}")
-                        return snap
-        except Exception as e:
-            write_log(f"{domain} GET error: {e}")
-
-        # --- فاز ۲: POST (تلاش برای ایجاد اسنپ‌شات جدید) ---
-        try:
-            submit_url = f"{base}/submit/"
-            data = {"url": original_url, "anyway": "1"}
-            write_log(f"Submitting to {domain} (POST)...")
-            resp = requests.post(
-                submit_url,
-                data=data,
-                headers=headers,
-                timeout=TIMEOUT,
-                allow_redirects=True,
-            )
-            write_log(
-                f"{domain} POST status {resp.status_code}, final URL {resp.url}"
-            )
-
-            if 200 <= resp.status_code < 400:
-                candidate = resp.url
-                if is_snapshot_url(candidate):
-                    write_log(f"New snapshot on {domain}: {candidate}")
-                    return candidate
-
-                if "text/html" in resp.headers.get("Content-Type", ""):
-                    snap = extract_archive_snapshot(resp.text, domain)
-                    if snap and is_snapshot_url(snap):
-                        write_log(f"New snapshot (HTML) on {domain}: {snap}")
-                        return snap
-        except Exception as e:
-            write_log(f"{domain} POST error: {e}")
-
-    write_log(f"No valid snapshot found for {original_url}")
-    return None
+    # فاز ۲: ساخت اسنپ‌شات جدید
+    time.sleep(2)  # کمی مکث بین available و save
+    snap = create_wayback_snapshot(original_url)
+    return snap
 
 
 # ------------------------------
-# خواندن خروجی موجود
+# خواندن فایل خروجی موجود
 # ------------------------------
 def load_existing_output() -> list:
     """
@@ -468,9 +381,8 @@ def load_existing_output() -> list:
 # main
 # ------------------------------
 def main():
-    # لاگ قبلی را خالی کن
     reset_log()
-    write_log("=== Job Started (fetcher_v2, improved) ===")
+    write_log("=== Job Started (Wayback-based fetcher_v2) ===")
 
     try:
         os.makedirs(REPO_DIR, exist_ok=True)
@@ -479,7 +391,7 @@ def main():
         history = load_history()
         write_log(f"History loaded: {len(history)} URLs")
 
-        # ۱) RSS
+        # ۱) جمع‌آوری از RSS
         new_articles: list[dict] = []
         for src in SOURCES:
             rss_articles = fetch_from_rss(
@@ -491,7 +403,7 @@ def main():
                 if art["original_url"] not in history:
                     new_articles.append(art)
 
-        # ۲) HTML New Yorker magazine
+        # ۲) HTML برای New Yorker magazine
         ny_html_articles = scrape_newyorker_magazine_html()
         for art in ny_html_articles:
             if art["original_url"] not in history:
@@ -499,16 +411,16 @@ def main():
 
         write_log(f"Total new articles to process: {len(new_articles)}")
 
-        # ۳) آرشیو
+        # ۳) آرشیو کردن در Wayback
         new_archive_entries = []
         new_urls_set = set()
 
         new_articles.sort(key=lambda a: a["pub_date"])
 
         for art in new_articles:
-            write_log(f"Archiving: {art['original_url']}")
-            time.sleep(4)  # کمی تاخیر برای جلوگیری از rate limit
-            arch_url = get_real_archive_url(art["original_url"])
+            write_log(f"Archiving (Wayback): {art['original_url']}")
+            time.sleep(3)  # کمی تاخیر برای پرهیز از فشار زیاد
+            arch_url = get_archive_snapshot_url(art["original_url"])
             if arch_url:
                 new_archive_entries.append(
                     {
@@ -521,13 +433,13 @@ def main():
                 )
                 new_urls_set.add(art["original_url"])
             else:
-                write_log(f"Failed to archive: {art['original_url']}")
+                write_log(f"Failed to archive (Wayback): {art['original_url']}")
 
         if new_urls_set:
             save_history(new_urls_set)
             write_log(f"History updated, +{len(new_urls_set)} URLs")
 
-        # ۴) ترکیب با خروجی قبلی و حذف قدیمی‌ها
+        # ۴) ترکیب با خروجی قبلی و حذف قدیمی‌تر از ۴۸ ساعت
         cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
         existing_entries = load_existing_output()
         final_entries = []
