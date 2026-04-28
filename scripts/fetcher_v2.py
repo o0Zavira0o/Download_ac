@@ -5,14 +5,15 @@ import os
 import re
 import time
 from datetime import datetime, timedelta, timezone
-from urllib.parse import urljoin, quote_plus
+from urllib.parse import urljoin, quote_plus, urlparse
 
 import feedparser
 import requests
 from bs4 import BeautifulSoup
 
+
 # ------------------------------
-# تنظیمات اصلی
+# تنظیمات
 # ------------------------------
 REPO_DIR = "articles"
 LOG_FILE = "log.txt"
@@ -24,7 +25,7 @@ USER_AGENT = (
     "Chrome/120.0.0.0 Safari/537.36"
 )
 TIMEOUT = 30
-MAX_AGE_HOURS = 48  # فقط ۴۸ ساعت آخر
+MAX_AGE_HOURS = 48  # فقط 48 ساعت گذشته
 
 ARCHIVE_DOMAINS = [
     "archive.is",
@@ -54,8 +55,14 @@ SOURCES = [
 
 
 # ------------------------------
-# کمک‌های عمومی و لاگ
+# لاگ
 # ------------------------------
+def reset_log() -> None:
+    """در ابتدای هر اجرا، فایل لاگ را خالی می‌کند."""
+    with open(LOG_FILE, "w", encoding="utf-8") as f:
+        f.write("")
+
+
 def write_log(msg: str) -> None:
     ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     line = f"[{ts}] {msg}"
@@ -64,8 +71,10 @@ def write_log(msg: str) -> None:
         f.write(line + "\n")
 
 
+# ------------------------------
+# تاریخچه URLها
+# ------------------------------
 def ensure_history_file() -> None:
-    """مطمئن می‌شود فایل history وجود دارد (برای git add)."""
     if not os.path.exists(HISTORY_FILE):
         open(HISTORY_FILE, "a", encoding="utf-8").close()
 
@@ -87,7 +96,7 @@ def save_history(new_urls: set) -> set:
 
 
 # ------------------------------
-# خواندن تاریخ از RSS
+# توابع کمک برای RSS
 # ------------------------------
 def parse_date_rfc2822(date_str: str):
     from email.utils import parsedate_to_datetime
@@ -172,9 +181,6 @@ def fetch_from_rss(rss_url: str, source_name: str, url_filter: str | None = None
 # اسکرپ HTML برای نیویورکر مجله
 # ------------------------------
 def scrape_newyorker_magazine_html() -> list:
-    """
-    خروجی: مثل RSS، با کلید original_url
-    """
     url = "https://www.newyorker.com/magazine"
     articles = []
     write_log("Scraping New Yorker magazine HTML...")
@@ -195,7 +201,6 @@ def scrape_newyorker_magazine_html() -> list:
             if "/magazine/" not in full_url:
                 continue
 
-            # تاریخ را از URL درمی‌آوریم /magazine/YYYY/MM/DD/
             m = re.search(r"/magazine/(\d{4})/(\d{2})/(\d{2})/", full_url)
             if not m:
                 continue
@@ -216,7 +221,6 @@ def scrape_newyorker_magazine_html() -> list:
                 }
             )
 
-        # حذف تکراری‌ها
         uniq = []
         seen = set()
         for art in articles:
@@ -234,79 +238,76 @@ def scrape_newyorker_magazine_html() -> list:
 
 
 # ------------------------------
-# تشخیص URL اسنپ‌شات آرشیو
+# تشخیص اسنپ‌شات معتبر archive.*
 # ------------------------------
 def is_snapshot_url(url: str) -> bool:
-    """
-    تلاش برای تشخیص اینکه آیا URL یک اسنپ‌شات واقعی است
-    و نه صفحهٔ جستجو/submit.
-    """
-    if "archive." not in url:
-        return False
-    if "/submit" in url:
-        return False
-    if "/search" in url:
-        return False
-    if "?q=" in url:
-        return False
-    if "?run=" in url:
+    """آیا این URL یک اسنپ‌شات واقعی در یکی از دامنه‌های archive.* است؟"""
+    if not any(dom in url for dom in ARCHIVE_DOMAINS):
         return False
 
-    # نخواهیم خود هوم‌پیج یا چیزی شبیه آن را
-    stripped = url.rstrip("/")
-    for dom in ARCHIVE_DOMAINS:
-        home = f"https://{dom}"
-        if stripped == home:
-            return False
+    bad_substrings = [
+        "/submit",
+        "/search",
+        "/tag/",
+        "/tags/",
+        "/feed",
+        "/list/",
+    ]
+    bad_params = ["?q=", "&q=", "?run=", "&run="]
+
+    if any(bad in url for bad in bad_substrings + bad_params):
+        return False
+
+    # آدرس صفحه‌ی اصلی دامنه نباشد
+    parsed = urlparse(url)
+    if parsed.path in ("", "/"):
+        return False
 
     return True
 
 
-def extract_archive_snapshot(html_content: str) -> str | None:
+def extract_archive_snapshot(html_content: str, domain: str) -> str | None:
     """
     تلاش برای پیدا کردن URL اسنپ‌شات در HTML برگردانده شده از archive.*
+    domain فقط برای ساختن URL کامل از لینک‌های نسبی استفاده می‌شود.
     """
     soup = BeautifulSoup(html_content, "html.parser")
 
-    # 1) meta og:url
-    meta = soup.find("meta", attrs={"property": "og:url"})
-    if meta and meta.get("content"):
-        candidate = meta["content"].strip()
-        if candidate.startswith("//"):
-            candidate = "https:" + candidate
-        if is_snapshot_url(candidate):
-            return candidate
+    # 1) meta refresh با url=...
+    meta_refresh = soup.find(
+        "meta",
+        attrs={"http-equiv": lambda v: v and v.lower() == "refresh"},
+    )
+    if meta_refresh and meta_refresh.get("content"):
+        m = re.search(r"url=(.+)", meta_refresh["content"], flags=re.I)
+        if m:
+            href = m.group(1).strip().strip("'\"")
+            if href.startswith("//"):
+                href = "https:" + href
+            elif href.startswith("/"):
+                href = f"https://{domain}{href}"
+            if is_snapshot_url(href):
+                return href
 
-    # 2) input با name="url"
-    inp = soup.find("input", attrs={"name": "url"})
-    if inp and inp.get("value"):
-        candidate = inp["value"].strip()
-        if candidate.startswith("//"):
-            candidate = "https:" + candidate
-        if is_snapshot_url(candidate):
-            return candidate
+    # 2) canonical یا og:url که روی archive.* باشد
+    for tag_name, attr_name in (("link", "href"), ("meta", "content")):
+        el = soup.find(tag_name, attrs={"rel": "canonical"}) if tag_name == "link" else soup.find(
+            tag_name, attrs={"property": "og:url"}
+        )
+        if el and el.get(attr_name):
+            candidate = el[attr_name].strip()
+            if candidate.startswith("//"):
+                candidate = "https:" + candidate
+            if is_snapshot_url(candidate):
+                return candidate
 
-    # 3) لینک‌ها داخل بخش نتیجه / thumbnail ها
-    # الگوی قدیمی archive.is
-    thumbs = soup.select("div.THUMBS-BLOCK a[href]")
-    for a in thumbs:
-        href = a["href"]
-        if href.startswith("//"):
-            href = "https:" + href
-        elif href.startswith("/"):
-            # دامنه را از og:url یا یک دامنهٔ پیش‌فرض حدس بزنیم
-            href = "https://archive.is" + href
-        if is_snapshot_url(href):
-            return href
-
-    # 4) سایر لینک‌هایی که به archive.* اشاره می‌کنند
+    # 3) لینک‌های داخل صفحه (a[href])
     for a in soup.find_all("a", href=True):
-        href = a["href"]
+        href = a["href"].strip()
         if href.startswith("//"):
             href = "https:" + href
         elif href.startswith("/"):
-            # اینجا دقیق نمی‌دانیم کدام دامنه است؛ صرفاً رد می‌کنیم
-            continue
+            href = f"https://{domain}{href}"
         if is_snapshot_url(href):
             return href
 
@@ -315,10 +316,11 @@ def extract_archive_snapshot(html_content: str) -> str | None:
 
 def get_real_archive_url(original_url: str) -> str | None:
     """
-    برای original_url:
-    - روی هر دامنهٔ archive.* اول چک می‌کند اسنپ‌شات موجود هست یا نه
-    - اگر نبود، تلاش می‌کند یک اسنپ‌شات جدید بسازد
-    - اولین اسنپ‌شات معتبر را برمی‌گرداند
+    برای original_url روی چند دامنه archive.*:
+    - اول GET /submit/?url=... را تست می‌کند (ممکن است به اسنپ‌شات redirect کند)
+    - بعد اگر لازم شد POST /submit/ را تست می‌کند
+    - در هر مرحله اول از resp.url (آدرس نهایی پس از redirect) استفاده می‌کند
+    - در صورت نیاز HTML را برای یافتن اسنپ‌شات واقعی parse می‌کند
     """
     headers = {
         "User-Agent": USER_AGENT,
@@ -327,34 +329,65 @@ def get_real_archive_url(original_url: str) -> str | None:
 
     for domain in ARCHIVE_DOMAINS:
         base = f"https://{domain}"
-        try:
-            # 1) چک اسنپ‌شات موجود
-            check_url = f"{base}/submit/?url={quote_plus(original_url)}"
-            write_log(f"Checking archive snapshot on {domain}...")
-            r = requests.get(check_url, headers=headers, timeout=TIMEOUT)
-            if r.status_code == 200:
-                snap = extract_archive_snapshot(r.text)
-                if snap:
-                    write_log(f"Existing snapshot on {domain}: {snap}")
-                    return snap
-        except Exception as e:
-            write_log(f"{domain} check error: {e}")
 
-        # 2) ایجاد اسنپ‌شات اگر پیدا نشد
+        # --- فاز ۱: GET ---
+        try:
+            check_url = f"{base}/submit/?url={quote_plus(original_url)}"
+            write_log(f"Checking archive snapshot on {domain} (GET)...")
+            resp = requests.get(
+                check_url,
+                headers=headers,
+                timeout=TIMEOUT,
+                allow_redirects=True,
+            )
+            write_log(
+                f"{domain} GET status {resp.status_code}, final URL {resp.url}"
+            )
+
+            if 200 <= resp.status_code < 400:
+                candidate = resp.url
+                if is_snapshot_url(candidate):
+                    write_log(f"Existing snapshot on {domain}: {candidate}")
+                    return candidate
+
+                # اگر HTML داریم، سعی کن از داخلش اسنپ‌شات را پیدا کنی
+                if "text/html" in resp.headers.get("Content-Type", ""):
+                    snap = extract_archive_snapshot(resp.text, domain)
+                    if snap and is_snapshot_url(snap):
+                        write_log(f"Existing snapshot (HTML) on {domain}: {snap}")
+                        return snap
+        except Exception as e:
+            write_log(f"{domain} GET error: {e}")
+
+        # --- فاز ۲: POST (تلاش برای ایجاد اسنپ‌شات جدید) ---
         try:
             submit_url = f"{base}/submit/"
             data = {"url": original_url, "anyway": "1"}
-            write_log(f"Submitting to {domain}...")
-            r_post = requests.post(
-                submit_url, data=data, headers=headers, timeout=TIMEOUT
+            write_log(f"Submitting to {domain} (POST)...")
+            resp = requests.post(
+                submit_url,
+                data=data,
+                headers=headers,
+                timeout=TIMEOUT,
+                allow_redirects=True,
             )
-            if r_post.status_code == 200:
-                snap = extract_archive_snapshot(r_post.text)
-                if snap:
-                    write_log(f"New snapshot on {domain}: {snap}")
-                    return snap
+            write_log(
+                f"{domain} POST status {resp.status_code}, final URL {resp.url}"
+            )
+
+            if 200 <= resp.status_code < 400:
+                candidate = resp.url
+                if is_snapshot_url(candidate):
+                    write_log(f"New snapshot on {domain}: {candidate}")
+                    return candidate
+
+                if "text/html" in resp.headers.get("Content-Type", ""):
+                    snap = extract_archive_snapshot(resp.text, domain)
+                    if snap and is_snapshot_url(snap):
+                        write_log(f"New snapshot (HTML) on {domain}: {snap}")
+                        return snap
         except Exception as e:
-            write_log(f"{domain} submit error: {e}")
+            write_log(f"{domain} POST error: {e}")
 
     write_log(f"No valid snapshot found for {original_url}")
     return None
@@ -387,28 +420,24 @@ def load_existing_output() -> list:
                 entry["source"] = header.split("]")[0][1:]
                 entry["title"] = header.split("]", 1)[1].strip()
 
-                # Published
                 if i + 1 < len(lines) and lines[i + 1].startswith("Published:"):
                     entry["pub_date"] = (
                         lines[i + 1].replace("Published:", "").strip()
                     )
                     i += 1
 
-                # Original
                 if i + 1 < len(lines) and lines[i + 1].startswith("Original:"):
                     entry["original_url"] = (
                         lines[i + 1].replace("Original:", "").strip()
                     )
                     i += 1
 
-                # Archive
                 if i + 1 < len(lines) and lines[i + 1].startswith("Archive :"):
                     entry["archive_url"] = (
                         lines[i + 1].replace("Archive :", "").strip()
                     )
                     i += 1
 
-                # جداکننده
                 if i + 1 < len(lines) and lines[i + 1].startswith("---"):
                     i += 1
 
@@ -439,7 +468,10 @@ def load_existing_output() -> list:
 # main
 # ------------------------------
 def main():
-    write_log("=== Job Started (fetcher_v2) ===")
+    # لاگ قبلی را خالی کن
+    reset_log()
+    write_log("=== Job Started (fetcher_v2, improved) ===")
+
     try:
         os.makedirs(REPO_DIR, exist_ok=True)
         ensure_history_file()
@@ -447,7 +479,7 @@ def main():
         history = load_history()
         write_log(f"History loaded: {len(history)} URLs")
 
-        # ۱) گرفتن مقالات RSS
+        # ۱) RSS
         new_articles: list[dict] = []
         for src in SOURCES:
             rss_articles = fetch_from_rss(
@@ -459,7 +491,7 @@ def main():
                 if art["original_url"] not in history:
                     new_articles.append(art)
 
-        # ۲) HTML برای نیویورکر مجله
+        # ۲) HTML New Yorker magazine
         ny_html_articles = scrape_newyorker_magazine_html()
         for art in ny_html_articles:
             if art["original_url"] not in history:
@@ -467,16 +499,15 @@ def main():
 
         write_log(f"Total new articles to process: {len(new_articles)}")
 
-        # ۳) آرشیو کردن در archive.*
+        # ۳) آرشیو
         new_archive_entries = []
         new_urls_set = set()
 
-        # (اختیاری) مرتب‌سازی بر اساس تاریخ برای لاگ مرتب‌تر
         new_articles.sort(key=lambda a: a["pub_date"])
 
         for art in new_articles:
             write_log(f"Archiving: {art['original_url']}")
-            time.sleep(4)  # برای جلوگیری از rate-limit
+            time.sleep(4)  # کمی تاخیر برای جلوگیری از rate limit
             arch_url = get_real_archive_url(art["original_url"])
             if arch_url:
                 new_archive_entries.append(
@@ -502,12 +533,10 @@ def main():
         final_entries = []
         kept_urls = set()
 
-        # اول ورودی‌های جدید
         for e in new_archive_entries:
             final_entries.append(e)
             kept_urls.add(e["original_url"])
 
-        # بعد، قدیمی‌هایی که هنوز در بازه زمانی هستند و تکراری نیستند
         for e in existing_entries:
             if e["original_url"] in kept_urls:
                 continue
@@ -517,10 +546,8 @@ def main():
                     final_entries.append(e)
                     kept_urls.add(e["original_url"])
             except Exception:
-                # اگر تاریخ خراب بود، بی‌خیال
                 continue
 
-        # مرتب‌سازی نهایی (جدیدترها بالا)
         final_entries.sort(key=lambda e: e["pub_date"], reverse=True)
 
         # ۵) نوشتن خروجی
