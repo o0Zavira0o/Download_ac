@@ -40,7 +40,7 @@ jobs:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
           message: 'Update article archive links [skip ci]'
-          add: '.'          # همهٔ تغییرها را اضافه کن (ایمن‌تر از path خاص)
+          add: '.'
           push: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
