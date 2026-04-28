@@ -1,1445 +1,551 @@
-[2026-04-28 17:48:20] === Job Started (archive.is/ph/md prioritized) ===
-[2026-04-28 17:48:20] History loaded: 0 URLs
-
-[2026-04-28 17:48:20] Fetching RSS: Foreign_Affairs
-[2026-04-28 17:48:20] RSS Foreign_Affairs: 3 recent articles
-[2026-04-28 17:48:20] Fetching RSS: Foreign_Policy
-[2026-04-28 17:48:20] RSS Foreign_Policy: 13 recent articles
-[2026-04-28 17:48:20] Fetching RSS: New_Yorker_Magazine
-[2026-04-28 17:48:20] RSS New_Yorker_Magazine: 16 recent articles
-[2026-04-28 17:48:21] Scraping New Yorker magazine HTML...
-[2026-04-28 17:48:23] New Yorker HTML: 19 articles
-[2026-04-28 17:48:23] 
-Total new articles to archive: 51
-
-[2026-04-28 17:48:23] 
-[1/51] Archiving: The Iran War’s Threat to Turkey...
-[2026-04-28 17:48:23] URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
-
-[2026-04-28 17:48:25] Trying archive.is...
-[2026-04-28 17:48:25]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.foreignaffairs.com%2Fturkey%2Fi...
-[2026-04-28 17:48:26]   [archive.is] GET status: 429
-[2026-04-28 17:48:26]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:48:26]   [archive.is] POST status: 429
-[2026-04-28 17:48:26]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:48:26] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:48:28] Trying archive.ph...
-[2026-04-28 17:48:28]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.foreignaffairs.com%2Fturkey%2Fi...
-[2026-04-28 17:48:29]   [archive.ph] GET status: 429
-[2026-04-28 17:48:29]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:48:30]   [archive.ph] POST status: 429
-[2026-04-28 17:48:30]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:48:30] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:48:32] Trying archive.md...
-[2026-04-28 17:48:32]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.foreignaffairs.com%2Fturkey%2Fi...
-[2026-04-28 17:48:33]   [archive.md] GET status: 429
-[2026-04-28 17:48:33]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:48:34]   [archive.md] POST status: 429
-[2026-04-28 17:48:34]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:48:34] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:48:36] ✗ All archive domains failed for https://www.foreignaffairs.com/turkey/iran-wars-threat-turke...
-[2026-04-28 17:48:36] ✗ Could not archive from any domain
-
-[2026-04-28 17:48:36] 
-[2/51] Archiving: The Hormuz Hit to Helium...
-[2026-04-28 17:48:36] URL: https://foreignpolicy.com/2026/04/27/iran-war-hormuz-strait-helium-semiconductors-chips-supply-chain-prices/
-
-[2026-04-28 17:48:38] Trying archive.is...
-[2026-04-28 17:48:38]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:48:39]   [archive.is] GET status: 429
-[2026-04-28 17:48:39]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:48:40]   [archive.is] POST status: 429
-[2026-04-28 17:48:40]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:48:40] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:48:42] Trying archive.ph...
-[2026-04-28 17:48:42]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:48:42]   [archive.ph] GET status: 429
-[2026-04-28 17:48:42]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:48:43]   [archive.ph] POST status: 429
-[2026-04-28 17:48:43]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:48:43] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:48:45] Trying archive.md...
-[2026-04-28 17:48:45]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:48:46]   [archive.md] GET status: 429
-[2026-04-28 17:48:46]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:48:47]   [archive.md] POST status: 429
-[2026-04-28 17:48:47]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:48:47] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:48:49] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/27/iran-war-hormuz-strait-...
-[2026-04-28 17:48:49] ✗ Could not archive from any domain
-
-[2026-04-28 17:48:49] 
-[3/51] Archiving: Can the E.P.A. Survive Lee Zeldin?...
-[2026-04-28 17:48:49] URL: https://www.newyorker.com/magazine/2026/05/04/can-the-epa-survive-lee-zeldin
-
-[2026-04-28 17:48:51] Trying archive.is...
-[2026-04-28 17:48:51]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:48:51]   [archive.is] GET status: 429
-[2026-04-28 17:48:51]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:48:52]   [archive.is] POST status: 429
-[2026-04-28 17:48:52]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:48:52] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:48:54] Trying archive.ph...
-[2026-04-28 17:48:54]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:48:55]   [archive.ph] GET status: 429
-[2026-04-28 17:48:55]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:48:56]   [archive.ph] POST status: 429
-[2026-04-28 17:48:56]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:48:56] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:48:58] Trying archive.md...
-[2026-04-28 17:48:58]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:48:59]   [archive.md] GET status: 429
-[2026-04-28 17:48:59]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:48:59]   [archive.md] POST status: 429
-[2026-04-28 17:48:59]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:48:59] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:49:01] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/can-the-epa-su...
-[2026-04-28 17:49:01] ✗ Could not archive from any domain
-
-[2026-04-28 17:49:01] 
-[4/51] Archiving: Ellen Burstyn’s Inner Library...
-[2026-04-28 17:49:01] URL: https://www.newyorker.com/magazine/2026/05/04/ellen-burstyns-inner-library
-
-[2026-04-28 17:49:03] Trying archive.is...
-[2026-04-28 17:49:03]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:04]   [archive.is] GET status: 429
-[2026-04-28 17:49:04]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:49:04]   [archive.is] POST status: 429
-[2026-04-28 17:49:04]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:49:04] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:49:06] Trying archive.ph...
-[2026-04-28 17:49:06]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:07]   [archive.ph] GET status: 429
-[2026-04-28 17:49:07]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:49:08]   [archive.ph] POST status: 429
-[2026-04-28 17:49:08]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:49:08] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:49:10] Trying archive.md...
-[2026-04-28 17:49:10]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:12]   [archive.md] GET status: 429
-[2026-04-28 17:49:12]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:49:13]   [archive.md] POST status: 429
-[2026-04-28 17:49:13]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:49:13] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:49:15] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/ellen-burstyns...
-[2026-04-28 17:49:15] ✗ Could not archive from any domain
-
-[2026-04-28 17:49:15] 
-[5/51] Archiving: Laurie Metcalf’s Third Act...
-[2026-04-28 17:49:15] URL: https://www.newyorker.com/magazine/2026/05/04/laurie-metcalf-profile
-
-[2026-04-28 17:49:17] Trying archive.is...
-[2026-04-28 17:49:17]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:17]   [archive.is] GET status: 429
-[2026-04-28 17:49:17]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:49:18]   [archive.is] POST status: 429
-[2026-04-28 17:49:18]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:49:18] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:49:20] Trying archive.ph...
-[2026-04-28 17:49:20]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:21]   [archive.ph] GET status: 429
-[2026-04-28 17:49:21]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:49:22]   [archive.ph] POST status: 429
-[2026-04-28 17:49:22]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:49:22] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:49:24] Trying archive.md...
-[2026-04-28 17:49:24]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:25]   [archive.md] GET status: 429
-[2026-04-28 17:49:25]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:49:26]   [archive.md] POST status: 429
-[2026-04-28 17:49:26]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:49:26] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:49:28] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/laurie-metcalf...
-[2026-04-28 17:49:28] ✗ Could not archive from any domain
-
-[2026-04-28 17:49:28] 
-[6/51] Archiving: The Sqirl Redemption Arc...
-[2026-04-28 17:49:28] URL: https://www.newyorker.com/magazine/2026/05/04/the-sqirl-redemption-arc
-
-[2026-04-28 17:49:30] Trying archive.is...
-[2026-04-28 17:49:30]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:30]   [archive.is] GET status: 429
-[2026-04-28 17:49:30]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:49:31]   [archive.is] POST status: 429
-[2026-04-28 17:49:31]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:49:31] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:49:33] Trying archive.ph...
-[2026-04-28 17:49:33]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:34]   [archive.ph] GET status: 429
-[2026-04-28 17:49:34]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:49:35]   [archive.ph] POST status: 429
-[2026-04-28 17:49:35]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:49:35] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:49:37] Trying archive.md...
-[2026-04-28 17:49:37]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:38]   [archive.md] GET status: 429
-[2026-04-28 17:49:38]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:49:39]   [archive.md] POST status: 429
-[2026-04-28 17:49:39]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:49:39] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:49:41] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/the-sqirl-rede...
-[2026-04-28 17:49:41] ✗ Could not archive from any domain
-
-[2026-04-28 17:49:41] 
-[7/51] Archiving: “A Theory on the Origin of Language,” by Tishani Doshi...
-[2026-04-28 17:49:41] URL: https://www.newyorker.com/magazine/2026/05/04/a-theory-on-the-origin-of-language-tishani-doshi-poem
-
-[2026-04-28 17:49:43] Trying archive.is...
-[2026-04-28 17:49:43]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:44]   [archive.is] GET status: 429
-[2026-04-28 17:49:44]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:49:44]   [archive.is] POST status: 429
-[2026-04-28 17:49:44]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:49:44] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:49:46] Trying archive.ph...
-[2026-04-28 17:49:46]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:47]   [archive.ph] GET status: 429
-[2026-04-28 17:49:47]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:49:48]   [archive.ph] POST status: 429
-[2026-04-28 17:49:48]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:49:48] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:49:50] Trying archive.md...
-[2026-04-28 17:49:50]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:51]   [archive.md] GET status: 429
-[2026-04-28 17:49:51]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:49:52]   [archive.md] POST status: 429
-[2026-04-28 17:49:52]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:49:52] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:49:54] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/a-theory-on-th...
-[2026-04-28 17:49:54] ✗ Could not archive from any domain
-
-[2026-04-28 17:49:54] 
-[8/51] Archiving: “Death in Rome” and “The Hothouse,” Reviewed...
-[2026-04-28 17:49:54] URL: https://www.newyorker.com/magazine/2026/05/04/wolfgang-koeppen-book-review
-
-[2026-04-28 17:49:56] Trying archive.is...
-[2026-04-28 17:49:56]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:49:56]   [archive.is] GET status: 429
-[2026-04-28 17:49:56]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:49:57]   [archive.is] POST status: 429
-[2026-04-28 17:49:57]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:49:57] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:49:59] Trying archive.ph...
-[2026-04-28 17:49:59]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:00]   [archive.ph] GET status: 429
-[2026-04-28 17:50:00]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:50:00]   [archive.ph] POST status: 429
-[2026-04-28 17:50:00]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:50:00] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:50:02] Trying archive.md...
-[2026-04-28 17:50:02]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:03]   [archive.md] GET status: 429
-[2026-04-28 17:50:03]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:50:04]   [archive.md] POST status: 429
-[2026-04-28 17:50:04]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:50:04] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:50:06] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/wolfgang-koepp...
-[2026-04-28 17:50:06] ✗ Could not archive from any domain
-
-[2026-04-28 17:50:06] 
-[9/51] Archiving: Ava’s Life List...
-[2026-04-28 17:50:06] URL: https://www.newyorker.com/magazine/2026/05/04/avas-life-list
-
-[2026-04-28 17:50:08] Trying archive.is...
-[2026-04-28 17:50:08]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:08]   [archive.is] GET status: 429
-[2026-04-28 17:50:08]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:50:09]   [archive.is] POST status: 429
-[2026-04-28 17:50:09]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:50:09] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:50:11] Trying archive.ph...
-[2026-04-28 17:50:11]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:12]   [archive.ph] GET status: 429
-[2026-04-28 17:50:12]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:50:13]   [archive.ph] POST status: 429
-[2026-04-28 17:50:13]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:50:13] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:50:15] Trying archive.md...
-[2026-04-28 17:50:15]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:15]   [archive.md] GET status: 429
-[2026-04-28 17:50:15]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:50:16]   [archive.md] POST status: 429
-[2026-04-28 17:50:16]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:50:16] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:50:18] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/avas-life-list...
-[2026-04-28 17:50:18] ✗ Could not archive from any domain
-
-[2026-04-28 17:50:18] 
-[10/51] Archiving: Briefly Noted Book Reviews...
-[2026-04-28 17:50:18] URL: https://www.newyorker.com/magazine/2026/05/04/in-search-of-now-nothing-random-of-loss-lavender-no-way-home
-
-[2026-04-28 17:50:20] Trying archive.is...
-[2026-04-28 17:50:20]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:21]   [archive.is] GET status: 429
-[2026-04-28 17:50:21]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:50:21]   [archive.is] POST status: 429
-[2026-04-28 17:50:21]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:50:21] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:50:23] Trying archive.ph...
-[2026-04-28 17:50:23]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:24]   [archive.ph] GET status: 429
-[2026-04-28 17:50:24]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:50:25]   [archive.ph] POST status: 429
-[2026-04-28 17:50:25]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:50:25] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:50:27] Trying archive.md...
-[2026-04-28 17:50:27]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:28]   [archive.md] GET status: 429
-[2026-04-28 17:50:28]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:50:29]   [archive.md] POST status: 429
-[2026-04-28 17:50:29]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:50:29] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:50:31] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/in-search-of-n...
-[2026-04-28 17:50:31] ✗ Could not archive from any domain
-
-[2026-04-28 17:50:31] 
-[11/51] Archiving: “Tompkins Square,” by Anthony Walton...
-[2026-04-28 17:50:31] URL: https://www.newyorker.com/magazine/2026/05/04/tompkins-square-anthony-walton-poem
-
-[2026-04-28 17:50:33] Trying archive.is...
-[2026-04-28 17:50:33]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:34]   [archive.is] GET status: 429
-[2026-04-28 17:50:34]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:50:35]   [archive.is] POST status: 429
-[2026-04-28 17:50:35]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:50:35] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:50:37] Trying archive.ph...
-[2026-04-28 17:50:37]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:38]   [archive.ph] GET status: 429
-[2026-04-28 17:50:38]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:50:39]   [archive.ph] POST status: 429
-[2026-04-28 17:50:39]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:50:39] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:50:41] Trying archive.md...
-[2026-04-28 17:50:41]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:42]   [archive.md] GET status: 429
-[2026-04-28 17:50:42]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:50:43]   [archive.md] POST status: 429
-[2026-04-28 17:50:43]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:50:43] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:50:45] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/tompkins-squar...
-[2026-04-28 17:50:45] ✗ Could not archive from any domain
-
-[2026-04-28 17:50:45] 
-[12/51] Archiving: The Many Forms of Marcel Duchamp...
-[2026-04-28 17:50:45] URL: https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp-art-review-moma
-
-[2026-04-28 17:50:47] Trying archive.is...
-[2026-04-28 17:50:47]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:47]   [archive.is] GET status: 429
-[2026-04-28 17:50:47]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:50:48]   [archive.is] POST status: 429
-[2026-04-28 17:50:48]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:50:48] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:50:50] Trying archive.ph...
-[2026-04-28 17:50:50]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:51]   [archive.ph] GET status: 429
-[2026-04-28 17:50:51]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:50:52]   [archive.ph] POST status: 429
-[2026-04-28 17:50:52]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:50:52] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:50:54] Trying archive.md...
-[2026-04-28 17:50:54]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:50:55]   [archive.md] GET status: 429
-[2026-04-28 17:50:55]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:50:56]   [archive.md] POST status: 429
-[2026-04-28 17:50:56]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:50:56] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:50:58] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp...
-[2026-04-28 17:50:58] ✗ Could not archive from any domain
-
-[2026-04-28 17:50:58] 
-[13/51] Archiving: Medallions, Movement, and Mamdani at MOMA PS1...
-[2026-04-28 17:50:58] URL: https://www.newyorker.com/magazine/2026/05/04/medallions-movement-and-mamdani-at-moma-ps-1
-
-[2026-04-28 17:51:00] Trying archive.is...
-[2026-04-28 17:51:00]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:01]   [archive.is] GET status: 429
-[2026-04-28 17:51:01]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:51:01]   [archive.is] POST status: 429
-[2026-04-28 17:51:01]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:51:01] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:51:03] Trying archive.ph...
-[2026-04-28 17:51:03]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:04]   [archive.ph] GET status: 429
-[2026-04-28 17:51:04]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:51:05]   [archive.ph] POST status: 429
-[2026-04-28 17:51:05]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:51:05] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:51:07] Trying archive.md...
-[2026-04-28 17:51:07]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:08]   [archive.md] GET status: 429
-[2026-04-28 17:51:08]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:51:09]   [archive.md] POST status: 429
-[2026-04-28 17:51:09]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:51:09] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:51:11] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/medallions-mov...
-[2026-04-28 17:51:11] ✗ Could not archive from any domain
-
-[2026-04-28 17:51:11] 
-[14/51] Archiving: Reverend Billy Takes On Norman Foster’s New Monolith...
-[2026-04-28 17:51:11] URL: https://www.newyorker.com/magazine/2026/05/04/reverend-billy-takes-on-norman-fosters-new-monolith
-
-[2026-04-28 17:51:13] Trying archive.is...
-[2026-04-28 17:51:13]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:14]   [archive.is] GET status: 429
-[2026-04-28 17:51:14]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:51:15]   [archive.is] POST status: 429
-[2026-04-28 17:51:15]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:51:15] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:51:17] Trying archive.ph...
-[2026-04-28 17:51:17]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:18]   [archive.ph] GET status: 429
-[2026-04-28 17:51:18]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:51:19]   [archive.ph] POST status: 429
-[2026-04-28 17:51:19]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:51:19] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:51:21] Trying archive.md...
-[2026-04-28 17:51:21]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:22]   [archive.md] GET status: 429
-[2026-04-28 17:51:22]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:51:23]   [archive.md] POST status: 429
-[2026-04-28 17:51:23]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:51:23] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:51:25] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/reverend-billy...
-[2026-04-28 17:51:25] ✗ Could not archive from any domain
-
-[2026-04-28 17:51:25] 
-[15/51] Archiving: How Long Can Martha Graham’s Dance Revolution Last?...
-[2026-04-28 17:51:25] URL: https://www.newyorker.com/magazine/2026/05/04/how-long-can-martha-grahams-dance-revolution-last
-
-[2026-04-28 17:51:27] Trying archive.is...
-[2026-04-28 17:51:27]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:27]   [archive.is] GET status: 429
-[2026-04-28 17:51:27]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:51:28]   [archive.is] POST status: 429
-[2026-04-28 17:51:28]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:51:28] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:51:30] Trying archive.ph...
-[2026-04-28 17:51:30]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:31]   [archive.ph] GET status: 429
-[2026-04-28 17:51:31]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:51:32]   [archive.ph] POST status: 429
-[2026-04-28 17:51:32]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:51:32] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:51:34] Trying archive.md...
-[2026-04-28 17:51:34]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:35]   [archive.md] GET status: 429
-[2026-04-28 17:51:35]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:51:36]   [archive.md] POST status: 429
-[2026-04-28 17:51:36]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:51:36] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:51:38] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/how-long-can-m...
-[2026-04-28 17:51:38] ✗ Could not archive from any domain
-
-[2026-04-28 17:51:38] 
-[16/51] Archiving: Patrick Ball’s Path to Broadway and “Becky Shaw”...
-[2026-04-28 17:51:38] URL: https://www.newyorker.com/magazine/2026/05/04/patrick-balls-path-to-broadway-and-becky-shaw
-
-[2026-04-28 17:51:40] Trying archive.is...
-[2026-04-28 17:51:40]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:40]   [archive.is] GET status: 429
-[2026-04-28 17:51:40]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:51:41]   [archive.is] POST status: 429
-[2026-04-28 17:51:41]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:51:41] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:51:43] Trying archive.ph...
-[2026-04-28 17:51:43]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:44]   [archive.ph] GET status: 429
-[2026-04-28 17:51:44]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:51:45]   [archive.ph] POST status: 429
-[2026-04-28 17:51:45]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:51:45] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:51:47] Trying archive.md...
-[2026-04-28 17:51:47]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:48]   [archive.md] GET status: 429
-[2026-04-28 17:51:48]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:51:49]   [archive.md] POST status: 429
-[2026-04-28 17:51:49]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:51:49] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:51:51] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/patrick-balls-...
-[2026-04-28 17:51:51] ✗ Could not archive from any domain
-
-[2026-04-28 17:51:51] 
-[17/51] Archiving: Donald Trump’s Pardon Economy...
-[2026-04-28 17:51:51] URL: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-pardon-economy
-
-[2026-04-28 17:51:53] Trying archive.is...
-[2026-04-28 17:51:53]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:54]   [archive.is] GET status: 429
-[2026-04-28 17:51:54]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:51:54]   [archive.is] POST status: 429
-[2026-04-28 17:51:54]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:51:54] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:51:56] Trying archive.ph...
-[2026-04-28 17:51:56]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:51:57]   [archive.ph] GET status: 429
-[2026-04-28 17:51:57]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:51:58]   [archive.ph] POST status: 429
-[2026-04-28 17:51:58]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:51:58] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:52:00] Trying archive.md...
-[2026-04-28 17:52:00]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:52:01]   [archive.md] GET status: 429
-[2026-04-28 17:52:01]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:52:02]   [archive.md] POST status: 429
-[2026-04-28 17:52:02]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:52:02] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:52:04] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/donald-trumps-...
-[2026-04-28 17:52:04] ✗ Could not archive from any domain
-
-[2026-04-28 17:52:04] 
-[18/51] Archiving: What Happens When Someone Throws a Message in a Bottle Into ...
-[2026-04-28 17:52:04] URL: https://www.newyorker.com/magazine/2026/05/04/signed-sealed-delivered
-
-[2026-04-28 17:52:06] Trying archive.is...
-[2026-04-28 17:52:06]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:52:07]   [archive.is] GET status: 429
-[2026-04-28 17:52:07]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:52:07]   [archive.is] POST status: 429
-[2026-04-28 17:52:07]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:52:07] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:52:09] Trying archive.ph...
-[2026-04-28 17:52:09]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:52:10]   [archive.ph] GET status: 429
-[2026-04-28 17:52:10]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:52:12]   [archive.ph] POST status: 429
-[2026-04-28 17:52:12]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:52:12] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:52:14] Trying archive.md...
-[2026-04-28 17:52:14]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:52:14]   [archive.md] GET status: 429
-[2026-04-28 17:52:14]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:52:15]   [archive.md] POST status: 429
-[2026-04-28 17:52:15]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:52:15] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:52:17] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/signed-sealed-...
-[2026-04-28 17:52:17] ✗ Could not archive from any domain
-
-[2026-04-28 17:52:17] 
-[19/51] Archiving: Escaping the Hormuz Trap...
-[2026-04-28 17:52:17] URL: https://foreignpolicy.com/2026/04/27/hormuz-trap-oil-pipeline-iran-war-united-states-arab-israel/
-
-[2026-04-28 17:52:19] Trying archive.is...
-[2026-04-28 17:52:19]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:52:20]   [archive.is] GET status: 429
-[2026-04-28 17:52:20]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:52:21]   [archive.is] POST status: 429
-[2026-04-28 17:52:21]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:52:21] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:52:23] Trying archive.ph...
-[2026-04-28 17:52:23]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:52:23]   [archive.ph] GET status: 429
-[2026-04-28 17:52:23]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:52:24]   [archive.ph] POST status: 429
-[2026-04-28 17:52:24]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:52:24] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:52:26] Trying archive.md...
-[2026-04-28 17:52:26]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:52:27]   [archive.md] GET status: 429
-[2026-04-28 17:52:27]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:52:28]   [archive.md] POST status: 429
-[2026-04-28 17:52:28]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:52:28] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:52:30] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/27/hormuz-trap-oil-pipelin...
-[2026-04-28 17:52:30] ✗ Could not archive from any domain
-
-[2026-04-28 17:52:30] 
-[20/51] Archiving: What Five Decades of Summits Reveal About U.S.-China Relatio...
-[2026-04-28 17:52:30] URL: https://foreignpolicy.com/2026/04/27/trump-xi-summit-us-china-trade-deal-taiwan-geopolitics/
-
-[2026-04-28 17:52:32] Trying archive.is...
-[2026-04-28 17:52:32]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:52:32]   [archive.is] GET status: 429
-[2026-04-28 17:52:32]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:52:33]   [archive.is] POST status: 429
-[2026-04-28 17:52:33]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:52:33] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:52:35] Trying archive.ph...
-[2026-04-28 17:52:35]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:52:36]   [archive.ph] GET status: 429
-[2026-04-28 17:52:36]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:52:37]   [archive.ph] POST status: 429
-[2026-04-28 17:52:37]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:52:37] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:52:39] Trying archive.md...
-[2026-04-28 17:52:39]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:52:39]   [archive.md] GET status: 429
-[2026-04-28 17:52:39]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:52:40]   [archive.md] POST status: 429
-[2026-04-28 17:52:40]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:52:40] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:52:42] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/27/trump-xi-summit-us-chin...
-[2026-04-28 17:52:42] ✗ Could not archive from any domain
-
-[2026-04-28 17:52:42] 
-[21/51] Archiving: Israel and Syria’s Shared Fight Against Hezbollah...
-[2026-04-28 17:52:42] URL: https://foreignpolicy.com/2026/04/27/israel-syria-hezbollah-iran-sharaa-terrorism-lebanon/
-
-[2026-04-28 17:52:44] Trying archive.is...
-[2026-04-28 17:52:44]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:52:45]   [archive.is] GET status: 429
-[2026-04-28 17:52:45]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:52:45]   [archive.is] POST status: 429
-[2026-04-28 17:52:45]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:52:45] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:52:47] Trying archive.ph...
-[2026-04-28 17:52:47]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:52:48]   [archive.ph] GET status: 429
-[2026-04-28 17:52:48]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:52:49]   [archive.ph] POST status: 429
-[2026-04-28 17:52:49]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:52:49] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:52:51] Trying archive.md...
-[2026-04-28 17:52:51]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:52:52]   [archive.md] GET status: 429
-[2026-04-28 17:52:52]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:52:53]   [archive.md] POST status: 429
-[2026-04-28 17:52:53]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:52:53] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:52:55] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/27/israel-syria-hezbollah-...
-[2026-04-28 17:52:55] ✗ Could not archive from any domain
-
-[2026-04-28 17:52:55] 
-[22/51] Archiving: Beijing Is Using Influencers to Burnish Its Image...
-[2026-04-28 17:52:55] URL: https://foreignpolicy.com/2026/04/27/china-influencers-dubai-propaganda-chinamaxxing/
-
-[2026-04-28 17:52:57] Trying archive.is...
-[2026-04-28 17:52:57]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:52:57]   [archive.is] GET status: 429
-[2026-04-28 17:52:57]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:52:58]   [archive.is] POST status: 429
-[2026-04-28 17:52:58]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:52:58] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:53:00] Trying archive.ph...
-[2026-04-28 17:53:00]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:53:01]   [archive.ph] GET status: 429
-[2026-04-28 17:53:01]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:53:02]   [archive.ph] POST status: 429
-[2026-04-28 17:53:02]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:53:02] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:53:04] Trying archive.md...
-[2026-04-28 17:53:04]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:53:05]   [archive.md] GET status: 429
-[2026-04-28 17:53:05]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:53:06]   [archive.md] POST status: 429
-[2026-04-28 17:53:06]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:53:06] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:53:08] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/27/china-influencers-dubai...
-[2026-04-28 17:53:08] ✗ Could not archive from any domain
-
-[2026-04-28 17:53:08] 
-[23/51] Archiving: Iran Offers to Reopen the Strait of Hormuz...
-[2026-04-28 17:53:08] URL: https://foreignpolicy.com/2026/04/27/iran-reopen-strait-hormuz-postpone-nuclear-talks-us-blockade/
-
-[2026-04-28 17:53:10] Trying archive.is...
-[2026-04-28 17:53:10]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:53:11]   [archive.is] GET status: 429
-[2026-04-28 17:53:11]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:53:11]   [archive.is] POST status: 429
-[2026-04-28 17:53:11]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:53:11] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:53:13] Trying archive.ph...
-[2026-04-28 17:53:13]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:53:14]   [archive.ph] GET status: 429
-[2026-04-28 17:53:14]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:53:15]   [archive.ph] POST status: 429
-[2026-04-28 17:53:15]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:53:15] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:53:17] Trying archive.md...
-[2026-04-28 17:53:17]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:53:18]   [archive.md] GET status: 429
-[2026-04-28 17:53:18]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:53:19]   [archive.md] POST status: 429
-[2026-04-28 17:53:19]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:53:19] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:53:21] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/27/iran-reopen-strait-horm...
-[2026-04-28 17:53:21] ✗ Could not archive from any domain
-
-[2026-04-28 17:53:21] 
-[24/51] Archiving: The U.S. Shouldn’t Rule the Seas Forever...
-[2026-04-28 17:53:21] URL: https://foreignpolicy.com/2026/04/27/iran-us-war-hormuz-strait-blockade-trade-maritime-navy-strategy/
-
-[2026-04-28 17:53:23] Trying archive.is...
-[2026-04-28 17:53:23]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:53:24]   [archive.is] GET status: 429
-[2026-04-28 17:53:24]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:53:24]   [archive.is] POST status: 429
-[2026-04-28 17:53:24]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:53:24] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:53:26] Trying archive.ph...
-[2026-04-28 17:53:26]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:53:28]   [archive.ph] GET status: 429
-[2026-04-28 17:53:28]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:53:29]   [archive.ph] POST status: 429
-[2026-04-28 17:53:29]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:53:29] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:53:31] Trying archive.md...
-[2026-04-28 17:53:31]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F27%...
-[2026-04-28 17:53:32]   [archive.md] GET status: 429
-[2026-04-28 17:53:32]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:53:33]   [archive.md] POST status: 429
-[2026-04-28 17:53:33]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:53:33] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:53:35] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/27/iran-us-war-hormuz-stra...
-[2026-04-28 17:53:35] ✗ Could not archive from any domain
-
-[2026-04-28 17:53:35] 
-[25/51] Archiving: The Disposable Oligarchs...
-[2026-04-28 17:53:35] URL: https://www.foreignaffairs.com/united-states/disposable-oligarchs
-
-[2026-04-28 17:53:37] Trying archive.is...
-[2026-04-28 17:53:37]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.foreignaffairs.com%2Funited-sta...
-[2026-04-28 17:53:38]   [archive.is] GET status: 429
-[2026-04-28 17:53:38]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:53:39]   [archive.is] POST status: 429
-[2026-04-28 17:53:39]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:53:39] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:53:41] Trying archive.ph...
-[2026-04-28 17:53:41]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.foreignaffairs.com%2Funited-sta...
-[2026-04-28 17:53:43]   [archive.ph] GET status: 429
-[2026-04-28 17:53:43]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:53:44]   [archive.ph] POST status: 429
-[2026-04-28 17:53:44]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:53:44] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:53:46] Trying archive.md...
-[2026-04-28 17:53:46]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.foreignaffairs.com%2Funited-sta...
-[2026-04-28 17:53:47]   [archive.md] GET status: 429
-[2026-04-28 17:53:47]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:53:48]   [archive.md] POST status: 429
-[2026-04-28 17:53:48]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:53:48] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:53:50] ✗ All archive domains failed for https://www.foreignaffairs.com/united-states/disposable-olig...
-[2026-04-28 17:53:50] ✗ Could not archive from any domain
-
-[2026-04-28 17:53:50] 
-[26/51] Archiving: Let Iran Defeat Itself...
-[2026-04-28 17:53:50] URL: https://www.foreignaffairs.com/iran/let-iran-defeat-itself
-
-[2026-04-28 17:53:52] Trying archive.is...
-[2026-04-28 17:53:52]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.foreignaffairs.com%2Firan%2Flet...
-[2026-04-28 17:53:53]   [archive.is] GET status: 429
-[2026-04-28 17:53:53]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:53:55]   [archive.is] POST status: 429
-[2026-04-28 17:53:55]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:53:55] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:53:57] Trying archive.ph...
-[2026-04-28 17:53:57]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.foreignaffairs.com%2Firan%2Flet...
-[2026-04-28 17:53:57]   [archive.ph] GET status: 429
-[2026-04-28 17:53:57]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:53:59]   [archive.ph] POST status: 429
-[2026-04-28 17:53:59]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:53:59] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:54:01] Trying archive.md...
-[2026-04-28 17:54:01]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.foreignaffairs.com%2Firan%2Flet...
-[2026-04-28 17:54:02]   [archive.md] GET status: 429
-[2026-04-28 17:54:02]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:54:03]   [archive.md] POST status: 429
-[2026-04-28 17:54:03]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:54:03] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:54:05] ✗ All archive domains failed for https://www.foreignaffairs.com/iran/let-iran-defeat-itself...
-[2026-04-28 17:54:05] ✗ Could not archive from any domain
-
-[2026-04-28 17:54:05] 
-[27/51] Archiving: The Iran War Is Tearing Trump’s Coalition Apart...
-[2026-04-28 17:54:05] URL: https://foreignpolicy.com/2026/04/28/iran-war-trump-coalition-maga-america-first/
-
-[2026-04-28 17:54:07] Trying archive.is...
-[2026-04-28 17:54:07]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:54:08]   [archive.is] GET status: 429
-[2026-04-28 17:54:08]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:54:09]   [archive.is] POST status: 429
-[2026-04-28 17:54:09]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:54:09] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:54:11] Trying archive.ph...
-[2026-04-28 17:54:11]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:54:12]   [archive.ph] GET status: 429
-[2026-04-28 17:54:12]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:54:13]   [archive.ph] POST status: 429
-[2026-04-28 17:54:13]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:54:13] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:54:15] Trying archive.md...
-[2026-04-28 17:54:15]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:54:16]   [archive.md] GET status: 429
-[2026-04-28 17:54:16]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:54:17]   [archive.md] POST status: 429
-[2026-04-28 17:54:17]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:54:17] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:54:19] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/28/iran-war-trump-coalitio...
-[2026-04-28 17:54:19] ✗ Could not archive from any domain
-
-[2026-04-28 17:54:19] 
-[28/51] Archiving: What Congress Could Do to Stop the War...
-[2026-04-28 17:54:19] URL: https://foreignpolicy.com/2026/04/28/congress-stop-iran-war-budget/
-
-[2026-04-28 17:54:21] Trying archive.is...
-[2026-04-28 17:54:21]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:54:22]   [archive.is] GET status: 429
-[2026-04-28 17:54:22]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:54:23]   [archive.is] POST status: 429
-[2026-04-28 17:54:23]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:54:23] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:54:25] Trying archive.ph...
-[2026-04-28 17:54:25]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:54:26]   [archive.ph] GET status: 429
-[2026-04-28 17:54:26]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:54:27]   [archive.ph] POST status: 429
-[2026-04-28 17:54:27]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:54:27] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:54:29] Trying archive.md...
-[2026-04-28 17:54:29]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:54:30]   [archive.md] GET status: 429
-[2026-04-28 17:54:30]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:54:31]   [archive.md] POST status: 429
-[2026-04-28 17:54:31]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:54:31] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:54:33] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/28/congress-stop-iran-war-...
-[2026-04-28 17:54:33] ✗ Could not archive from any domain
-
-[2026-04-28 17:54:33] 
-[29/51] Archiving: Latin America’s Anti-Women Movement Is Spreading...
-[2026-04-28 17:54:33] URL: https://foreignpolicy.com/2026/04/28/chile-kast-latin-america-anti-women-movement-spreading/
-
-[2026-04-28 17:54:35] Trying archive.is...
-[2026-04-28 17:54:35]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:54:36]   [archive.is] GET status: 429
-[2026-04-28 17:54:36]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:54:37]   [archive.is] POST status: 429
-[2026-04-28 17:54:37]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:54:37] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:54:39] Trying archive.ph...
-[2026-04-28 17:54:39]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:54:40]   [archive.ph] GET status: 429
-[2026-04-28 17:54:40]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:54:41]   [archive.ph] POST status: 429
-[2026-04-28 17:54:41]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:54:41] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:54:43] Trying archive.md...
-[2026-04-28 17:54:43]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:54:44]   [archive.md] GET status: 429
-[2026-04-28 17:54:44]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:54:45]   [archive.md] POST status: 429
-[2026-04-28 17:54:45]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:54:45] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:54:47] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/28/chile-kast-latin-americ...
-[2026-04-28 17:54:47] ✗ Could not archive from any domain
-
-[2026-04-28 17:54:47] 
-[30/51] Archiving: Iran Is More Unified Than Ever...
-[2026-04-28 17:54:47] URL: https://foreignpolicy.com/2026/04/28/iran-leadership-government-unified-khamenei-qalibaf-public/
-
-[2026-04-28 17:54:49] Trying archive.is...
-[2026-04-28 17:54:49]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:54:50]   [archive.is] GET status: 429
-[2026-04-28 17:54:50]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:54:51]   [archive.is] POST status: 429
-[2026-04-28 17:54:51]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:54:51] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:54:53] Trying archive.ph...
-[2026-04-28 17:54:53]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:54:53]   [archive.ph] GET status: 429
-[2026-04-28 17:54:53]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:54:54]   [archive.ph] POST status: 429
-[2026-04-28 17:54:54]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:54:54] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:54:56] Trying archive.md...
-[2026-04-28 17:54:56]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:54:57]   [archive.md] GET status: 429
-[2026-04-28 17:54:57]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:54:58]   [archive.md] POST status: 429
-[2026-04-28 17:54:58]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:54:58] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:55:00] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/28/iran-leadership-governm...
-[2026-04-28 17:55:00] ✗ Could not archive from any domain
-
-[2026-04-28 17:55:00] 
-[31/51] Archiving: Russia’s War Boom Masks an Economic Implosion...
-[2026-04-28 17:55:00] URL: https://foreignpolicy.com/2026/04/28/russia-putin-war-ukraine-economy-industry-labor-shortage-demographic-implosion/
-
-[2026-04-28 17:55:02] Trying archive.is...
-[2026-04-28 17:55:02]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:55:02]   [archive.is] GET status: 429
-[2026-04-28 17:55:02]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:55:03]   [archive.is] POST status: 429
-[2026-04-28 17:55:03]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:55:03] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:55:05] Trying archive.ph...
-[2026-04-28 17:55:05]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:55:06]   [archive.ph] GET status: 429
-[2026-04-28 17:55:06]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:55:07]   [archive.ph] POST status: 429
-[2026-04-28 17:55:07]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:55:07] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:55:09] Trying archive.md...
-[2026-04-28 17:55:09]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:55:10]   [archive.md] GET status: 429
-[2026-04-28 17:55:10]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:55:10]   [archive.md] POST status: 429
-[2026-04-28 17:55:10]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:55:10] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:55:12] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/28/russia-putin-war-ukrain...
-[2026-04-28 17:55:12] ✗ Could not archive from any domain
-
-[2026-04-28 17:55:12] 
-[32/51] Archiving: Japan and China Are Edging Dangerously Close to Conflict...
-[2026-04-28 17:55:12] URL: https://foreignpolicy.com/2026/04/28/japan-china-taiwan-okinawa-history/
-
-[2026-04-28 17:55:14] Trying archive.is...
-[2026-04-28 17:55:14]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:55:15]   [archive.is] GET status: 429
-[2026-04-28 17:55:15]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:55:16]   [archive.is] POST status: 429
-[2026-04-28 17:55:16]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:55:16] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:55:18] Trying archive.ph...
-[2026-04-28 17:55:18]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:55:19]   [archive.ph] GET status: 429
-[2026-04-28 17:55:19]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:55:19]   [archive.ph] POST status: 429
-[2026-04-28 17:55:19]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:55:19] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:55:21] Trying archive.md...
-[2026-04-28 17:55:21]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fforeignpolicy.com%2F2026%2F04%2F28%...
-[2026-04-28 17:55:23]   [archive.md] GET status: 429
-[2026-04-28 17:55:23]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:55:24]   [archive.md] POST status: 429
-[2026-04-28 17:55:24]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:55:24] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:55:26] ✗ All archive domains failed for https://foreignpolicy.com/2026/04/28/japan-china-taiwan-okin...
-[2026-04-28 17:55:26] ✗ Could not archive from any domain
-
-[2026-04-28 17:55:26] 
-[33/51] Archiving: Donald Trump’s Spring Cleaning...
-[2026-04-28 17:55:26] URL: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-spring-cleaning
-
-[2026-04-28 17:55:28] Trying archive.is...
-[2026-04-28 17:55:28]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:55:29]   [archive.is] GET status: 429
-[2026-04-28 17:55:29]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:55:30]   [archive.is] POST status: 429
-[2026-04-28 17:55:30]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:55:30] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:55:32] Trying archive.ph...
-[2026-04-28 17:55:32]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:55:33]   [archive.ph] GET status: 429
-[2026-04-28 17:55:33]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:55:34]   [archive.ph] POST status: 429
-[2026-04-28 17:55:34]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:55:34] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:55:36] Trying archive.md...
-[2026-04-28 17:55:36]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:55:37]   [archive.md] GET status: 429
-[2026-04-28 17:55:37]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:55:38]   [archive.md] POST status: 429
-[2026-04-28 17:55:38]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:55:38] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:55:40] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/donald-trumps-...
-[2026-04-28 17:55:40] ✗ Could not archive from any domain
-
-[2026-04-28 17:55:40] 
-[34/51] Archiving: Reverend Billy Takes On Norman Foster’s New Monolith...
-[2026-04-28 17:55:40] URL: https://www.newyorker.com/magazine/2026/05/04/reverend-billy-takes-on-norman-fosters-new-monolith
-
-[2026-04-28 17:55:42] Trying archive.is...
-[2026-04-28 17:55:42]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:55:43]   [archive.is] GET status: 429
-[2026-04-28 17:55:43]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:55:44]   [archive.is] POST status: 429
-[2026-04-28 17:55:44]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:55:44] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:55:46] Trying archive.ph...
-[2026-04-28 17:55:46]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:55:48]   [archive.ph] GET status: 429
-[2026-04-28 17:55:48]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:55:49]   [archive.ph] POST status: 429
-[2026-04-28 17:55:49]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:55:49] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:55:51] Trying archive.md...
-[2026-04-28 17:55:51]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:55:52]   [archive.md] GET status: 429
-[2026-04-28 17:55:52]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:55:53]   [archive.md] POST status: 429
-[2026-04-28 17:55:53]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:55:53] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:55:55] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/reverend-billy...
-[2026-04-28 17:55:55] ✗ Could not archive from any domain
-
-[2026-04-28 17:55:55] 
-[35/51] Archiving: Medallions, Movement, and Mamdani at MOMA PS1...
-[2026-04-28 17:55:55] URL: https://www.newyorker.com/magazine/2026/05/04/medallions-movement-and-mamdani-at-moma-ps-1
-
-[2026-04-28 17:55:57] Trying archive.is...
-[2026-04-28 17:55:57]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:55:58]   [archive.is] GET status: 429
-[2026-04-28 17:55:58]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:55:59]   [archive.is] POST status: 429
-[2026-04-28 17:55:59]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:55:59] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:56:01] Trying archive.ph...
-[2026-04-28 17:56:01]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:56:02]   [archive.ph] GET status: 429
-[2026-04-28 17:56:02]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:56:03]   [archive.ph] POST status: 429
-[2026-04-28 17:56:03]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:56:03] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:56:05] Trying archive.md...
-[2026-04-28 17:56:05]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:56:07]   [archive.md] GET status: 429
-[2026-04-28 17:56:07]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:56:08]   [archive.md] POST status: 429
-[2026-04-28 17:56:08]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:56:08] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:56:10] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/medallions-mov...
-[2026-04-28 17:56:10] ✗ Could not archive from any domain
-
-[2026-04-28 17:56:10] 
-[36/51] Archiving: Patrick Ball’s Path to Broadway and “Becky Shaw”...
-[2026-04-28 17:56:10] URL: https://www.newyorker.com/magazine/2026/05/04/patrick-balls-path-to-broadway-and-becky-shaw
-
-[2026-04-28 17:56:12] Trying archive.is...
-[2026-04-28 17:56:12]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:56:13]   [archive.is] GET status: 429
-[2026-04-28 17:56:13]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:56:14]   [archive.is] POST status: 429
-[2026-04-28 17:56:14]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:56:14] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:56:16] Trying archive.ph...
-[2026-04-28 17:56:16]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:56:17]   [archive.ph] GET status: 429
-[2026-04-28 17:56:17]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:56:18]   [archive.ph] POST status: 429
-[2026-04-28 17:56:18]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:56:18] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:56:20] Trying archive.md...
-[2026-04-28 17:56:20]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:56:21]   [archive.md] GET status: 429
-[2026-04-28 17:56:21]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:56:23]   [archive.md] POST status: 429
-[2026-04-28 17:56:23]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:56:23] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:56:25] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/patrick-balls-...
-[2026-04-28 17:56:25] ✗ Could not archive from any domain
-
-[2026-04-28 17:56:25] 
-[37/51] Archiving: Ellen Burstyn’s Inner Library...
-[2026-04-28 17:56:25] URL: https://www.newyorker.com/magazine/2026/05/04/ellen-burstyns-inner-library
-
-[2026-04-28 17:56:27] Trying archive.is...
-[2026-04-28 17:56:27]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:56:28]   [archive.is] GET status: 429
-[2026-04-28 17:56:28]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:56:29]   [archive.is] POST status: 429
-[2026-04-28 17:56:29]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:56:29] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:56:31] Trying archive.ph...
-[2026-04-28 17:56:31]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:56:32]   [archive.ph] GET status: 429
-[2026-04-28 17:56:32]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:56:33]   [archive.ph] POST status: 429
-[2026-04-28 17:56:33]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:56:33] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:56:35] Trying archive.md...
-[2026-04-28 17:56:35]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:56:36]   [archive.md] GET status: 429
-[2026-04-28 17:56:36]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:56:37]   [archive.md] POST status: 429
-[2026-04-28 17:56:37]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:56:37] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:56:39] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/ellen-burstyns...
-[2026-04-28 17:56:39] ✗ Could not archive from any domain
-
-[2026-04-28 17:56:39] 
-[38/51] Archiving: Can the E.P.A. Survive Lee Zeldin?...
-[2026-04-28 17:56:39] URL: https://www.newyorker.com/magazine/2026/05/04/can-the-epa-survive-lee-zeldin
-
-[2026-04-28 17:56:41] Trying archive.is...
-[2026-04-28 17:56:41]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:56:42]   [archive.is] GET status: 429
-[2026-04-28 17:56:42]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:56:43]   [archive.is] POST status: 429
-[2026-04-28 17:56:43]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:56:43] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:56:45] Trying archive.ph...
-[2026-04-28 17:56:45]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:56:46]   [archive.ph] GET status: 429
-[2026-04-28 17:56:46]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:56:47]   [archive.ph] POST status: 429
-[2026-04-28 17:56:47]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:56:47] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:56:49] Trying archive.md...
-[2026-04-28 17:56:49]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:56:50]   [archive.md] GET status: 429
-[2026-04-28 17:56:50]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:56:51]   [archive.md] POST status: 429
-[2026-04-28 17:56:51]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:56:51] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:56:53] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/can-the-epa-su...
-[2026-04-28 17:56:53] ✗ Could not archive from any domain
-
-[2026-04-28 17:56:53] 
-[39/51] Archiving: What Happens When Someone Throws a Message in a Bottle Into ...
-[2026-04-28 17:56:53] URL: https://www.newyorker.com/magazine/2026/05/04/signed-sealed-delivered
-
-[2026-04-28 17:56:55] Trying archive.is...
-[2026-04-28 17:56:55]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:56:57]   [archive.is] GET status: 429
-[2026-04-28 17:56:57]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:56:58]   [archive.is] POST status: 429
-[2026-04-28 17:56:58]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:56:58] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:57:00] Trying archive.ph...
-[2026-04-28 17:57:00]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:01]   [archive.ph] GET status: 429
-[2026-04-28 17:57:01]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:57:02]   [archive.ph] POST status: 429
-[2026-04-28 17:57:02]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:57:02] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:57:04] Trying archive.md...
-[2026-04-28 17:57:04]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:05]   [archive.md] GET status: 429
-[2026-04-28 17:57:05]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:57:06]   [archive.md] POST status: 429
-[2026-04-28 17:57:06]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:57:06] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:57:08] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/signed-sealed-...
-[2026-04-28 17:57:08] ✗ Could not archive from any domain
-
-[2026-04-28 17:57:08] 
-[40/51] Archiving: Donald Trump’s Pardon Economy...
-[2026-04-28 17:57:08] URL: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-pardon-economy
-
-[2026-04-28 17:57:10] Trying archive.is...
-[2026-04-28 17:57:10]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:11]   [archive.is] GET status: 429
-[2026-04-28 17:57:11]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:57:12]   [archive.is] POST status: 429
-[2026-04-28 17:57:12]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:57:12] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:57:14] Trying archive.ph...
-[2026-04-28 17:57:14]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:15]   [archive.ph] GET status: 429
-[2026-04-28 17:57:15]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:57:16]   [archive.ph] POST status: 429
-[2026-04-28 17:57:16]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:57:16] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:57:18] Trying archive.md...
-[2026-04-28 17:57:18]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:19]   [archive.md] GET status: 429
-[2026-04-28 17:57:19]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:57:20]   [archive.md] POST status: 429
-[2026-04-28 17:57:20]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:57:20] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:57:22] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/donald-trumps-...
-[2026-04-28 17:57:22] ✗ Could not archive from any domain
-
-[2026-04-28 17:57:22] 
-[41/51] Archiving: Laurie Metcalf’s Third Act...
-[2026-04-28 17:57:22] URL: https://www.newyorker.com/magazine/2026/05/04/laurie-metcalf-profile
-
-[2026-04-28 17:57:24] Trying archive.is...
-[2026-04-28 17:57:24]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:25]   [archive.is] GET status: 429
-[2026-04-28 17:57:25]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:57:25]   [archive.is] POST status: 429
-[2026-04-28 17:57:25]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:57:25] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:57:27] Trying archive.ph...
-[2026-04-28 17:57:27]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:28]   [archive.ph] GET status: 429
-[2026-04-28 17:57:28]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:57:29]   [archive.ph] POST status: 429
-[2026-04-28 17:57:29]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:57:29] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:57:31] Trying archive.md...
-[2026-04-28 17:57:31]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:32]   [archive.md] GET status: 429
-[2026-04-28 17:57:32]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:57:33]   [archive.md] POST status: 429
-[2026-04-28 17:57:33]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:57:33] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:57:35] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/laurie-metcalf...
-[2026-04-28 17:57:35] ✗ Could not archive from any domain
-
-[2026-04-28 17:57:35] 
-[42/51] Archiving: Ava’s Life List...
-[2026-04-28 17:57:35] URL: https://www.newyorker.com/magazine/2026/05/04/avas-life-list
-
-[2026-04-28 17:57:37] Trying archive.is...
-[2026-04-28 17:57:37]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:37]   [archive.is] GET status: 429
-[2026-04-28 17:57:37]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:57:38]   [archive.is] POST status: 429
-[2026-04-28 17:57:38]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:57:38] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:57:40] Trying archive.ph...
-[2026-04-28 17:57:40]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:41]   [archive.ph] GET status: 429
-[2026-04-28 17:57:41]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:57:42]   [archive.ph] POST status: 429
-[2026-04-28 17:57:42]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:57:42] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:57:44] Trying archive.md...
-[2026-04-28 17:57:44]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:44]   [archive.md] GET status: 429
-[2026-04-28 17:57:44]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:57:45]   [archive.md] POST status: 429
-[2026-04-28 17:57:45]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:57:45] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:57:47] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/avas-life-list...
-[2026-04-28 17:57:47] ✗ Could not archive from any domain
-
-[2026-04-28 17:57:47] 
-[43/51] Archiving: “Process of Elimination”...
-[2026-04-28 17:57:47] URL: https://www.newyorker.com/magazine/2026/05/04/said-sayrafiezadeh-fiction-process-of-elimination
-
-[2026-04-28 17:57:49] Trying archive.is...
-[2026-04-28 17:57:49]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:50]   [archive.is] GET status: 429
-[2026-04-28 17:57:50]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:57:51]   [archive.is] POST status: 429
-[2026-04-28 17:57:51]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:57:51] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:57:53] Trying archive.ph...
-[2026-04-28 17:57:53]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:54]   [archive.ph] GET status: 429
-[2026-04-28 17:57:54]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:57:55]   [archive.ph] POST status: 429
-[2026-04-28 17:57:55]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:57:55] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:57:57] Trying archive.md...
-[2026-04-28 17:57:57]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:57:58]   [archive.md] GET status: 429
-[2026-04-28 17:57:58]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:57:59]   [archive.md] POST status: 429
-[2026-04-28 17:57:59]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:57:59] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:58:01] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/said-sayrafiez...
-[2026-04-28 17:58:01] ✗ Could not archive from any domain
-
-[2026-04-28 17:58:01] 
-[44/51] Archiving: The Many Forms of Marcel Duchamp...
-[2026-04-28 17:58:01] URL: https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp-art-review-moma
-
-[2026-04-28 17:58:03] Trying archive.is...
-[2026-04-28 17:58:03]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:58:04]   [archive.is] GET status: 429
-[2026-04-28 17:58:04]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:58:05]   [archive.is] POST status: 429
-[2026-04-28 17:58:05]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:58:05] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:58:07] Trying archive.ph...
-[2026-04-28 17:58:07]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:58:09]   [archive.ph] GET status: 429
-[2026-04-28 17:58:09]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:58:10]   [archive.ph] POST status: 429
-[2026-04-28 17:58:10]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:58:10] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:58:12] Trying archive.md...
-[2026-04-28 17:58:12]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:58:13]   [archive.md] GET status: 429
-[2026-04-28 17:58:13]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:58:14]   [archive.md] POST status: 429
-[2026-04-28 17:58:14]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:58:14] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:58:16] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp...
-[2026-04-28 17:58:16] ✗ Could not archive from any domain
-
-[2026-04-28 17:58:16] 
-[45/51] Archiving: A German Master’s Modernist Epic of Postwar Amnesia and Hypo...
-[2026-04-28 17:58:16] URL: https://www.newyorker.com/magazine/2026/05/04/wolfgang-koeppen-book-review
-
-[2026-04-28 17:58:18] Trying archive.is...
-[2026-04-28 17:58:18]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:58:19]   [archive.is] GET status: 429
-[2026-04-28 17:58:19]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:58:20]   [archive.is] POST status: 429
-[2026-04-28 17:58:20]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:58:20] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:58:22] Trying archive.ph...
-[2026-04-28 17:58:22]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:58:23]   [archive.ph] GET status: 429
-[2026-04-28 17:58:23]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:58:24]   [archive.ph] POST status: 429
-[2026-04-28 17:58:24]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:58:24] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:58:26] Trying archive.md...
-[2026-04-28 17:58:26]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:58:27]   [archive.md] GET status: 429
-[2026-04-28 17:58:27]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:58:28]   [archive.md] POST status: 429
-[2026-04-28 17:58:28]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:58:28] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:58:30] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/wolfgang-koepp...
-[2026-04-28 17:58:30] ✗ Could not archive from any domain
-
-[2026-04-28 17:58:30] 
-[46/51] Archiving: Briefly Noted...
-[2026-04-28 17:58:30] URL: https://www.newyorker.com/magazine/2026/05/04/in-search-of-now-nothing-random-of-loss-lavender-no-way-home
-
-[2026-04-28 17:58:32] Trying archive.is...
-[2026-04-28 17:58:32]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:58:33]   [archive.is] GET status: 429
-[2026-04-28 17:58:33]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:58:34]   [archive.is] POST status: 429
-[2026-04-28 17:58:34]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:58:34] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:58:36] Trying archive.ph...
-[2026-04-28 17:58:36]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:58:37]   [archive.ph] GET status: 429
-[2026-04-28 17:58:37]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:58:38]   [archive.ph] POST status: 429
-[2026-04-28 17:58:38]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:58:38] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:58:40] Trying archive.md...
-[2026-04-28 17:58:40]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:58:41]   [archive.md] GET status: 429
-[2026-04-28 17:58:41]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:58:42]   [archive.md] POST status: 429
-[2026-04-28 17:58:42]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:58:42] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:58:44] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/in-search-of-n...
-[2026-04-28 17:58:44] ✗ Could not archive from any domain
-
-[2026-04-28 17:58:44] 
-[47/51] Archiving: The Sqirl Redemption Arc...
-[2026-04-28 17:58:44] URL: https://www.newyorker.com/magazine/2026/05/04/the-sqirl-redemption-arc
-
-[2026-04-28 17:58:46] Trying archive.is...
-[2026-04-28 17:58:46]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:58:53]   [archive.is] GET status: 429
-[2026-04-28 17:58:53]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:58:55]   [archive.is] POST status: 429
-[2026-04-28 17:58:55]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:58:55] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:58:57] Trying archive.ph...
-[2026-04-28 17:58:57]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:58:58]   [archive.ph] GET status: 429
-[2026-04-28 17:58:58]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:58:59]   [archive.ph] POST status: 429
-[2026-04-28 17:58:59]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:58:59] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:59:01] Trying archive.md...
-[2026-04-28 17:59:01]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:03]   [archive.md] GET status: 429
-[2026-04-28 17:59:03]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:59:04]   [archive.md] POST status: 429
-[2026-04-28 17:59:04]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:59:04] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:59:06] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/the-sqirl-rede...
-[2026-04-28 17:59:06] ✗ Could not archive from any domain
-
-[2026-04-28 17:59:06] 
-[48/51] Archiving: How Long Can Martha Graham’s Dance Revolution Last?...
-[2026-04-28 17:59:06] URL: https://www.newyorker.com/magazine/2026/05/04/how-long-can-martha-grahams-dance-revolution-last
-
-[2026-04-28 17:59:08] Trying archive.is...
-[2026-04-28 17:59:08]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:09]   [archive.is] GET status: 429
-[2026-04-28 17:59:09]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:59:10]   [archive.is] POST status: 429
-[2026-04-28 17:59:10]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:59:10] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:59:12] Trying archive.ph...
-[2026-04-28 17:59:12]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:13]   [archive.ph] GET status: 429
-[2026-04-28 17:59:13]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:59:15]   [archive.ph] POST status: 429
-[2026-04-28 17:59:15]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:59:15] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:59:17] Trying archive.md...
-[2026-04-28 17:59:17]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:18]   [archive.md] GET status: 429
-[2026-04-28 17:59:18]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:59:19]   [archive.md] POST status: 429
-[2026-04-28 17:59:19]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:59:19] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:59:21] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/how-long-can-m...
-[2026-04-28 17:59:21] ✗ Could not archive from any domain
-
-[2026-04-28 17:59:21] 
-[49/51] Archiving: “Half Man” Tests the Limits of Brotherly Love...
-[2026-04-28 17:59:21] URL: https://www.newyorker.com/magazine/2026/05/04/half-man-tv-review-hbo
-
-[2026-04-28 17:59:23] Trying archive.is...
-[2026-04-28 17:59:23]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:24]   [archive.is] GET status: 429
-[2026-04-28 17:59:24]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:59:25]   [archive.is] POST status: 429
-[2026-04-28 17:59:25]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:59:25] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:59:27] Trying archive.ph...
-[2026-04-28 17:59:27]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:28]   [archive.ph] GET status: 429
-[2026-04-28 17:59:28]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:59:29]   [archive.ph] POST status: 429
-[2026-04-28 17:59:29]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:59:29] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:59:31] Trying archive.md...
-[2026-04-28 17:59:31]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:32]   [archive.md] GET status: 429
-[2026-04-28 17:59:32]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:59:33]   [archive.md] POST status: 429
-[2026-04-28 17:59:33]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:59:33] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:59:35] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/half-man-tv-re...
-[2026-04-28 17:59:35] ✗ Could not archive from any domain
-
-[2026-04-28 17:59:35] 
-[50/51] Archiving: “Tompkins Square”...
-[2026-04-28 17:59:35] URL: https://www.newyorker.com/magazine/2026/05/04/tompkins-square-anthony-walton-poem
-
-[2026-04-28 17:59:37] Trying archive.is...
-[2026-04-28 17:59:37]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:38]   [archive.is] GET status: 429
-[2026-04-28 17:59:38]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:59:39]   [archive.is] POST status: 429
-[2026-04-28 17:59:39]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:59:39] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:59:41] Trying archive.ph...
-[2026-04-28 17:59:41]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:42]   [archive.ph] GET status: 429
-[2026-04-28 17:59:42]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:59:43]   [archive.ph] POST status: 429
-[2026-04-28 17:59:43]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:59:43] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:59:45] Trying archive.md...
-[2026-04-28 17:59:45]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:47]   [archive.md] GET status: 429
-[2026-04-28 17:59:47]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 17:59:48]   [archive.md] POST status: 429
-[2026-04-28 17:59:48]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 17:59:48] ✗ archive.md failed, trying next domain...
-[2026-04-28 17:59:50] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/tompkins-squar...
-[2026-04-28 17:59:50] ✗ Could not archive from any domain
-
-[2026-04-28 17:59:50] 
-[51/51] Archiving: “A Theory on the Origin of Language”...
-[2026-04-28 17:59:50] URL: https://www.newyorker.com/magazine/2026/05/04/a-theory-on-the-origin-of-language-tishani-doshi-poem
-
-[2026-04-28 17:59:52] Trying archive.is...
-[2026-04-28 17:59:52]   [archive.is] GET https://archive.is/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:52]   [archive.is] GET status: 429
-[2026-04-28 17:59:52]   [archive.is] POST to https://archive.is/submit/
-[2026-04-28 17:59:53]   [archive.is] POST status: 429
-[2026-04-28 17:59:53]   [archive.is] POST returned 429, skipping extraction
-[2026-04-28 17:59:53] ✗ archive.is failed, trying next domain...
-[2026-04-28 17:59:55] Trying archive.ph...
-[2026-04-28 17:59:55]   [archive.ph] GET https://archive.ph/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:56]   [archive.ph] GET status: 429
-[2026-04-28 17:59:56]   [archive.ph] POST to https://archive.ph/submit/
-[2026-04-28 17:59:57]   [archive.ph] POST status: 429
-[2026-04-28 17:59:57]   [archive.ph] POST returned 429, skipping extraction
-[2026-04-28 17:59:57] ✗ archive.ph failed, trying next domain...
-[2026-04-28 17:59:59] Trying archive.md...
-[2026-04-28 17:59:59]   [archive.md] GET https://archive.md/submit/?url=https%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2026...
-[2026-04-28 17:59:59]   [archive.md] GET status: 429
-[2026-04-28 17:59:59]   [archive.md] POST to https://archive.md/submit/
-[2026-04-28 18:00:00]   [archive.md] POST status: 429
-[2026-04-28 18:00:00]   [archive.md] POST returned 429, skipping extraction
-[2026-04-28 18:00:00] ✗ archive.md failed, trying next domain...
-[2026-04-28 18:00:02] ✗ All archive domains failed for https://www.newyorker.com/magazine/2026/05/04/a-theory-on-th...
-[2026-04-28 18:00:02] ✗ Could not archive from any domain
-
-[2026-04-28 18:00:02] 
-=== Output written with 0 entries ===
-[2026-04-28 18:00:02] === Job Finished ===
+[2026-04-28 18:27:31] === Job Started (archive.is / archive.ph / archive.md) ===
+[2026-04-28 18:27:31] History loaded: 0 URLs
+
+[2026-04-28 18:27:31] Fetching RSS for Foreign_Affairs: https://www.foreignaffairs.com/rss.xml
+[2026-04-28 18:27:31] RSS Foreign_Affairs: 3 recent articles.
+[2026-04-28 18:27:31] Fetching RSS for Foreign_Policy: https://foreignpolicy.com/feed/
+[2026-04-28 18:27:31] RSS Foreign_Policy: 14 recent articles.
+[2026-04-28 18:27:31] Fetching RSS for New_Yorker_Magazine: https://www.newyorker.com/feed/everything
+[2026-04-28 18:27:31] RSS New_Yorker_Magazine: 16 recent articles.
+[2026-04-28 18:27:31] Scraping New Yorker magazine HTML page...
+[2026-04-28 18:27:31] New Yorker HTML: 19 recent magazine articles.
+[2026-04-28 18:27:31] 
+Total new articles to process: 52
+
+[2026-04-28 18:27:31] [1/52] Article: The Iran War’s Threat to Turkey
+[2026-04-28 18:27:31] Original URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 18:27:36] Trying domain archive.is for URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 18:27:36]   [archive.is] direct lookup: https://archive.is/https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 18:27:38]   [archive.is] direct lookup status: 429
+[2026-04-28 18:27:38] !! Disabling archive.is for this run: 429 Too Many Requests during direct lookup
+[2026-04-28 18:27:38] ✗ No snapshot via archive.is, checking next domain...
+
+[2026-04-28 18:27:40] Trying domain archive.ph for URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 18:27:40]   [archive.ph] direct lookup: https://archive.ph/https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 18:27:41]   [archive.ph] direct lookup status: 429
+[2026-04-28 18:27:41] !! Disabling archive.ph for this run: 429 Too Many Requests during direct lookup
+[2026-04-28 18:27:41] ✗ No snapshot via archive.ph, checking next domain...
+
+[2026-04-28 18:27:43] Trying domain archive.md for URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 18:27:43]   [archive.md] direct lookup: https://archive.md/https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 18:27:44]   [archive.md] direct lookup status: 429
+[2026-04-28 18:27:44] !! Disabling archive.md for this run: 429 Too Many Requests during direct lookup
+[2026-04-28 18:27:44] ✗ No snapshot via archive.md, checking next domain...
+
+[2026-04-28 18:27:46] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:27:46] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:27:46] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:27:46] Result: FAILED (no snapshot)
+
+[2026-04-28 18:27:46] [2/52] Article: The Hormuz Hit to Helium
+[2026-04-28 18:27:46] Original URL: https://foreignpolicy.com/2026/04/27/iran-war-hormuz-strait-helium-semiconductors-chips-supply-chain-prices/
+[2026-04-28 18:27:51] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:27:51] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:27:51] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:27:51] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:27:51] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:27:51] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:27:51] Result: FAILED (no snapshot)
+
+[2026-04-28 18:27:51] [3/52] Article: Can the E.P.A. Survive Lee Zeldin?
+[2026-04-28 18:27:51] Original URL: https://www.newyorker.com/magazine/2026/05/04/can-the-epa-survive-lee-zeldin
+[2026-04-28 18:27:56] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:27:56] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:27:56] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:27:56] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:27:56] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:27:56] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:27:56] Result: FAILED (no snapshot)
+
+[2026-04-28 18:27:56] [4/52] Article: Ellen Burstyn’s Inner Library
+[2026-04-28 18:27:56] Original URL: https://www.newyorker.com/magazine/2026/05/04/ellen-burstyns-inner-library
+[2026-04-28 18:28:01] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:28:01] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:28:01] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:28:01] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:01] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:01] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:01] Result: FAILED (no snapshot)
+
+[2026-04-28 18:28:01] [5/52] Article: Laurie Metcalf’s Third Act
+[2026-04-28 18:28:01] Original URL: https://www.newyorker.com/magazine/2026/05/04/laurie-metcalf-profile
+[2026-04-28 18:28:06] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:28:06] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:28:06] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:28:06] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:06] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:06] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:06] Result: FAILED (no snapshot)
+
+[2026-04-28 18:28:06] [6/52] Article: The Sqirl Redemption Arc
+[2026-04-28 18:28:06] Original URL: https://www.newyorker.com/magazine/2026/05/04/the-sqirl-redemption-arc
+[2026-04-28 18:28:11] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:28:11] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:28:11] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:28:11] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:11] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:11] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:11] Result: FAILED (no snapshot)
+
+[2026-04-28 18:28:11] [7/52] Article: “A Theory on the Origin of Language,” by Tishani Doshi
+[2026-04-28 18:28:11] Original URL: https://www.newyorker.com/magazine/2026/05/04/a-theory-on-the-origin-of-language-tishani-doshi-poem
+[2026-04-28 18:28:16] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:28:16] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:28:16] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:28:16] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:16] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:16] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:16] Result: FAILED (no snapshot)
+
+[2026-04-28 18:28:16] [8/52] Article: “Death in Rome” and “The Hothouse,” Reviewed
+[2026-04-28 18:28:16] Original URL: https://www.newyorker.com/magazine/2026/05/04/wolfgang-koeppen-book-review
+[2026-04-28 18:28:21] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:28:21] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:28:21] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:28:21] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:21] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:21] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:21] Result: FAILED (no snapshot)
+
+[2026-04-28 18:28:21] [9/52] Article: Ava’s Life List
+[2026-04-28 18:28:21] Original URL: https://www.newyorker.com/magazine/2026/05/04/avas-life-list
+[2026-04-28 18:28:26] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:28:26] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:28:26] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:28:26] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:26] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:26] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:26] Result: FAILED (no snapshot)
+
+[2026-04-28 18:28:26] [10/52] Article: Briefly Noted Book Reviews
+[2026-04-28 18:28:26] Original URL: https://www.newyorker.com/magazine/2026/05/04/in-search-of-now-nothing-random-of-loss-lavender-no-way-home
+[2026-04-28 18:28:31] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:28:31] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:28:31] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:28:31] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:31] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:31] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:31] Result: FAILED (no snapshot)
+
+[2026-04-28 18:28:31] [11/52] Article: “Tompkins Square,” by Anthony Walton
+[2026-04-28 18:28:31] Original URL: https://www.newyorker.com/magazine/2026/05/04/tompkins-square-anthony-walton-poem
+[2026-04-28 18:28:36] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:28:36] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:28:36] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:28:36] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:36] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:36] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:36] Result: FAILED (no snapshot)
+
+[2026-04-28 18:28:36] [12/52] Article: The Many Forms of Marcel Duchamp
+[2026-04-28 18:28:36] Original URL: https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp-art-review-moma
+[2026-04-28 18:28:41] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:28:41] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:28:41] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:28:41] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:41] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:41] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:41] Result: FAILED (no snapshot)
+
+[2026-04-28 18:28:41] [13/52] Article: Medallions, Movement, and Mamdani at MOMA PS1
+[2026-04-28 18:28:41] Original URL: https://www.newyorker.com/magazine/2026/05/04/medallions-movement-and-mamdani-at-moma-ps-1
+[2026-04-28 18:28:46] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:28:46] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:28:46] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:28:46] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:46] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:46] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:46] Result: FAILED (no snapshot)
+
+[2026-04-28 18:28:46] [14/52] Article: Reverend Billy Takes On Norman Foster’s New Monolith
+[2026-04-28 18:28:46] Original URL: https://www.newyorker.com/magazine/2026/05/04/reverend-billy-takes-on-norman-fosters-new-monolith
+[2026-04-28 18:28:51] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:28:51] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:28:51] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:28:51] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:51] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:51] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:51] Result: FAILED (no snapshot)
+
+[2026-04-28 18:28:51] [15/52] Article: How Long Can Martha Graham’s Dance Revolution Last?
+[2026-04-28 18:28:51] Original URL: https://www.newyorker.com/magazine/2026/05/04/how-long-can-martha-grahams-dance-revolution-last
+[2026-04-28 18:28:56] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:28:56] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:28:56] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:28:56] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:56] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:56] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:28:56] Result: FAILED (no snapshot)
+
+[2026-04-28 18:28:56] [16/52] Article: Patrick Ball’s Path to Broadway and “Becky Shaw”
+[2026-04-28 18:28:56] Original URL: https://www.newyorker.com/magazine/2026/05/04/patrick-balls-path-to-broadway-and-becky-shaw
+[2026-04-28 18:29:01] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:29:01] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:29:01] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:29:01] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:01] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:01] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:01] Result: FAILED (no snapshot)
+
+[2026-04-28 18:29:01] [17/52] Article: Donald Trump’s Pardon Economy
+[2026-04-28 18:29:01] Original URL: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-pardon-economy
+[2026-04-28 18:29:06] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:29:06] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:29:06] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:29:06] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:06] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:06] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:06] Result: FAILED (no snapshot)
+
+[2026-04-28 18:29:06] [18/52] Article: What Happens When Someone Throws a Message in a Bottle Into the Sea?
+[2026-04-28 18:29:06] Original URL: https://www.newyorker.com/magazine/2026/05/04/signed-sealed-delivered
+[2026-04-28 18:29:11] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:29:11] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:29:11] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:29:11] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:11] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:11] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:11] Result: FAILED (no snapshot)
+
+[2026-04-28 18:29:11] [19/52] Article: Escaping the Hormuz Trap
+[2026-04-28 18:29:11] Original URL: https://foreignpolicy.com/2026/04/27/hormuz-trap-oil-pipeline-iran-war-united-states-arab-israel/
+[2026-04-28 18:29:16] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:29:16] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:29:16] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:29:16] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:16] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:16] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:16] Result: FAILED (no snapshot)
+
+[2026-04-28 18:29:16] [20/52] Article: What Five Decades of Summits Reveal About U.S.-China Relations
+[2026-04-28 18:29:16] Original URL: https://foreignpolicy.com/2026/04/27/trump-xi-summit-us-china-trade-deal-taiwan-geopolitics/
+[2026-04-28 18:29:21] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:29:21] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:29:21] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:29:21] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:21] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:21] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:21] Result: FAILED (no snapshot)
+
+[2026-04-28 18:29:21] [21/52] Article: Israel and Syria’s Shared Fight Against Hezbollah
+[2026-04-28 18:29:21] Original URL: https://foreignpolicy.com/2026/04/27/israel-syria-hezbollah-iran-sharaa-terrorism-lebanon/
+[2026-04-28 18:29:26] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:29:26] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:29:26] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:29:26] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:26] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:26] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:26] Result: FAILED (no snapshot)
+
+[2026-04-28 18:29:26] [22/52] Article: Beijing Is Using Influencers to Burnish Its Image
+[2026-04-28 18:29:26] Original URL: https://foreignpolicy.com/2026/04/27/china-influencers-dubai-propaganda-chinamaxxing/
+[2026-04-28 18:29:31] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:29:31] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:29:31] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:29:31] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:31] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:31] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:31] Result: FAILED (no snapshot)
+
+[2026-04-28 18:29:31] [23/52] Article: Iran Offers to Reopen the Strait of Hormuz
+[2026-04-28 18:29:31] Original URL: https://foreignpolicy.com/2026/04/27/iran-reopen-strait-hormuz-postpone-nuclear-talks-us-blockade/
+[2026-04-28 18:29:36] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:29:36] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:29:36] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:29:36] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:36] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:36] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:36] Result: FAILED (no snapshot)
+
+[2026-04-28 18:29:36] [24/52] Article: The U.S. Shouldn’t Rule the Seas Forever
+[2026-04-28 18:29:36] Original URL: https://foreignpolicy.com/2026/04/27/iran-us-war-hormuz-strait-blockade-trade-maritime-navy-strategy/
+[2026-04-28 18:29:41] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:29:41] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:29:41] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:29:41] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:41] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:41] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:41] Result: FAILED (no snapshot)
+
+[2026-04-28 18:29:41] [25/52] Article: Let Iran Defeat Itself
+[2026-04-28 18:29:41] Original URL: https://www.foreignaffairs.com/iran/let-iran-defeat-itself
+[2026-04-28 18:29:46] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:29:46] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:29:46] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:29:46] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:46] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:46] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:46] Result: FAILED (no snapshot)
+
+[2026-04-28 18:29:46] [26/52] Article: The Disposable Oligarchs
+[2026-04-28 18:29:46] Original URL: https://www.foreignaffairs.com/united-states/disposable-oligarchs
+[2026-04-28 18:29:51] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:29:51] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:29:51] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:29:51] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:51] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:51] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:51] Result: FAILED (no snapshot)
+
+[2026-04-28 18:29:51] [27/52] Article: The Iran War Is Tearing Trump’s Coalition Apart
+[2026-04-28 18:29:51] Original URL: https://foreignpolicy.com/2026/04/28/iran-war-trump-coalition-maga-america-first/
+[2026-04-28 18:29:56] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:29:56] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:29:56] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:29:56] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:56] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:56] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:29:56] Result: FAILED (no snapshot)
+
+[2026-04-28 18:29:56] [28/52] Article: What Congress Could Do to Stop the War
+[2026-04-28 18:29:56] Original URL: https://foreignpolicy.com/2026/04/28/congress-stop-iran-war-budget/
+[2026-04-28 18:30:01] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:30:01] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:30:01] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:30:01] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:01] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:01] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:01] Result: FAILED (no snapshot)
+
+[2026-04-28 18:30:01] [29/52] Article: Latin America’s Anti-Women Movement Is Spreading
+[2026-04-28 18:30:01] Original URL: https://foreignpolicy.com/2026/04/28/chile-kast-latin-america-anti-women-movement-spreading/
+[2026-04-28 18:30:06] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:30:06] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:30:06] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:30:06] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:06] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:06] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:06] Result: FAILED (no snapshot)
+
+[2026-04-28 18:30:06] [30/52] Article: Iran Is More Unified Than Ever
+[2026-04-28 18:30:06] Original URL: https://foreignpolicy.com/2026/04/28/iran-leadership-government-unified-khamenei-qalibaf-public/
+[2026-04-28 18:30:11] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:30:11] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:30:11] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:30:11] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:11] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:11] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:11] Result: FAILED (no snapshot)
+
+[2026-04-28 18:30:11] [31/52] Article: Russia’s War Boom Masks an Economic Implosion
+[2026-04-28 18:30:11] Original URL: https://foreignpolicy.com/2026/04/28/russia-putin-war-ukraine-economy-industry-labor-shortage-demographic-implosion/
+[2026-04-28 18:30:16] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:30:16] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:30:16] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:30:16] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:16] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:16] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:16] Result: FAILED (no snapshot)
+
+[2026-04-28 18:30:16] [32/52] Article: Japan and China Are Edging Dangerously Close to Conflict
+[2026-04-28 18:30:16] Original URL: https://foreignpolicy.com/2026/04/28/japan-china-taiwan-okinawa-history/
+[2026-04-28 18:30:21] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:30:21] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:30:21] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:30:21] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:21] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:21] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:21] Result: FAILED (no snapshot)
+
+[2026-04-28 18:30:21] [33/52] Article: Why Iran Isn’t Blinking Yet
+[2026-04-28 18:30:21] Original URL: https://foreignpolicy.com/2026/04/28/iran-war-hormuz-trump-oil-storage-blockade-energy/
+[2026-04-28 18:30:26] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:30:26] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:30:26] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:30:26] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:26] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:26] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:26] Result: FAILED (no snapshot)
+
+[2026-04-28 18:30:26] [34/52] Article: Donald Trump’s Spring Cleaning
+[2026-04-28 18:30:26] Original URL: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-spring-cleaning
+[2026-04-28 18:30:31] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:30:31] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:30:31] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:30:31] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:31] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:31] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:31] Result: FAILED (no snapshot)
+
+[2026-04-28 18:30:31] [35/52] Article: Reverend Billy Takes On Norman Foster’s New Monolith
+[2026-04-28 18:30:31] Original URL: https://www.newyorker.com/magazine/2026/05/04/reverend-billy-takes-on-norman-fosters-new-monolith
+[2026-04-28 18:30:36] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:30:36] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:30:36] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:30:36] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:36] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:36] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:36] Result: FAILED (no snapshot)
+
+[2026-04-28 18:30:36] [36/52] Article: Medallions, Movement, and Mamdani at MOMA PS1
+[2026-04-28 18:30:36] Original URL: https://www.newyorker.com/magazine/2026/05/04/medallions-movement-and-mamdani-at-moma-ps-1
+[2026-04-28 18:30:41] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:30:41] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:30:41] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:30:41] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:41] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:41] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:41] Result: FAILED (no snapshot)
+
+[2026-04-28 18:30:41] [37/52] Article: Patrick Ball’s Path to Broadway and “Becky Shaw”
+[2026-04-28 18:30:41] Original URL: https://www.newyorker.com/magazine/2026/05/04/patrick-balls-path-to-broadway-and-becky-shaw
+[2026-04-28 18:30:46] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:30:46] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:30:46] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:30:46] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:46] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:46] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:46] Result: FAILED (no snapshot)
+
+[2026-04-28 18:30:46] [38/52] Article: Ellen Burstyn’s Inner Library
+[2026-04-28 18:30:46] Original URL: https://www.newyorker.com/magazine/2026/05/04/ellen-burstyns-inner-library
+[2026-04-28 18:30:51] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:30:51] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:30:51] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:30:51] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:51] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:51] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:51] Result: FAILED (no snapshot)
+
+[2026-04-28 18:30:51] [39/52] Article: Can the E.P.A. Survive Lee Zeldin?
+[2026-04-28 18:30:51] Original URL: https://www.newyorker.com/magazine/2026/05/04/can-the-epa-survive-lee-zeldin
+[2026-04-28 18:30:56] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:30:56] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:30:56] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:30:56] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:56] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:56] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:30:56] Result: FAILED (no snapshot)
+
+[2026-04-28 18:30:56] [40/52] Article: What Happens When Someone Throws a Message in a Bottle Into the Sea?
+[2026-04-28 18:30:56] Original URL: https://www.newyorker.com/magazine/2026/05/04/signed-sealed-delivered
+[2026-04-28 18:31:01] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:31:01] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:31:01] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:31:01] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:01] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:01] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:01] Result: FAILED (no snapshot)
+
+[2026-04-28 18:31:01] [41/52] Article: Donald Trump’s Pardon Economy
+[2026-04-28 18:31:01] Original URL: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-pardon-economy
+[2026-04-28 18:31:06] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:31:06] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:31:06] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:31:06] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:06] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:06] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:06] Result: FAILED (no snapshot)
+
+[2026-04-28 18:31:06] [42/52] Article: Laurie Metcalf’s Third Act
+[2026-04-28 18:31:06] Original URL: https://www.newyorker.com/magazine/2026/05/04/laurie-metcalf-profile
+[2026-04-28 18:31:11] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:31:11] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:31:11] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:31:11] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:11] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:11] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:11] Result: FAILED (no snapshot)
+
+[2026-04-28 18:31:11] [43/52] Article: Ava’s Life List
+[2026-04-28 18:31:11] Original URL: https://www.newyorker.com/magazine/2026/05/04/avas-life-list
+[2026-04-28 18:31:16] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:31:16] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:31:16] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:31:16] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:16] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:16] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:16] Result: FAILED (no snapshot)
+
+[2026-04-28 18:31:16] [44/52] Article: “Process of Elimination”
+[2026-04-28 18:31:16] Original URL: https://www.newyorker.com/magazine/2026/05/04/said-sayrafiezadeh-fiction-process-of-elimination
+[2026-04-28 18:31:21] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:31:21] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:31:21] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:31:21] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:21] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:21] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:21] Result: FAILED (no snapshot)
+
+[2026-04-28 18:31:21] [45/52] Article: The Many Forms of Marcel Duchamp
+[2026-04-28 18:31:21] Original URL: https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp-art-review-moma
+[2026-04-28 18:31:26] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:31:26] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:31:26] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:31:26] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:26] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:26] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:26] Result: FAILED (no snapshot)
+
+[2026-04-28 18:31:26] [46/52] Article: A German Master’s Modernist Epic of Postwar Amnesia and Hypocrisy
+[2026-04-28 18:31:26] Original URL: https://www.newyorker.com/magazine/2026/05/04/wolfgang-koeppen-book-review
+[2026-04-28 18:31:31] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:31:31] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:31:31] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:31:31] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:31] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:31] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:31] Result: FAILED (no snapshot)
+
+[2026-04-28 18:31:31] [47/52] Article: Briefly Noted
+[2026-04-28 18:31:31] Original URL: https://www.newyorker.com/magazine/2026/05/04/in-search-of-now-nothing-random-of-loss-lavender-no-way-home
+[2026-04-28 18:31:36] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:31:36] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:31:36] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:31:36] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:36] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:36] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:36] Result: FAILED (no snapshot)
+
+[2026-04-28 18:31:36] [48/52] Article: The Sqirl Redemption Arc
+[2026-04-28 18:31:36] Original URL: https://www.newyorker.com/magazine/2026/05/04/the-sqirl-redemption-arc
+[2026-04-28 18:31:41] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:31:41] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:31:41] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:31:41] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:41] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:41] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:41] Result: FAILED (no snapshot)
+
+[2026-04-28 18:31:41] [49/52] Article: How Long Can Martha Graham’s Dance Revolution Last?
+[2026-04-28 18:31:41] Original URL: https://www.newyorker.com/magazine/2026/05/04/how-long-can-martha-grahams-dance-revolution-last
+[2026-04-28 18:31:46] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:31:46] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:31:46] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:31:46] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:46] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:46] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:46] Result: FAILED (no snapshot)
+
+[2026-04-28 18:31:46] [50/52] Article: “Half Man” Tests the Limits of Brotherly Love
+[2026-04-28 18:31:46] Original URL: https://www.newyorker.com/magazine/2026/05/04/half-man-tv-review-hbo
+[2026-04-28 18:31:51] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:31:51] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:31:51] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:31:51] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:51] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:51] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:51] Result: FAILED (no snapshot)
+
+[2026-04-28 18:31:51] [51/52] Article: “Tompkins Square”
+[2026-04-28 18:31:51] Original URL: https://www.newyorker.com/magazine/2026/05/04/tompkins-square-anthony-walton-poem
+[2026-04-28 18:31:56] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:31:56] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:31:56] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:31:56] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:56] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:56] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:31:56] Result: FAILED (no snapshot)
+
+[2026-04-28 18:31:56] [52/52] Article: “A Theory on the Origin of Language”
+[2026-04-28 18:31:56] Original URL: https://www.newyorker.com/magazine/2026/05/04/a-theory-on-the-origin-of-language-tishani-doshi-poem
+[2026-04-28 18:32:01] [archive.is] disabled earlier, skipping.
+[2026-04-28 18:32:01] [archive.ph] disabled earlier, skipping.
+[2026-04-28 18:32:01] [archive.md] disabled earlier, skipping.
+[2026-04-28 18:32:01] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:32:01] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:32:01] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 18:32:01] Result: FAILED (no snapshot)
+
+[2026-04-28 18:32:01] === Output written with 0 entries ===
+[2026-04-28 18:32:01] === Job Finished ===
