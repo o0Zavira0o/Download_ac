@@ -1,551 +1,551 @@
-[2026-04-28 19:47:39] === Job Started (archive.is / archive.ph / archive.md) ===
-[2026-04-28 19:47:39] History loaded: 0 URLs
+[2026-04-28 21:11:39] === Job Started (archive.is / archive.ph / archive.md) ===
+[2026-04-28 21:11:39] History loaded: 0 URLs
 
-[2026-04-28 19:47:39] Fetching RSS for Foreign_Affairs: https://www.foreignaffairs.com/rss.xml
-[2026-04-28 19:47:39] RSS Foreign_Affairs: 3 recent articles.
-[2026-04-28 19:47:39] Fetching RSS for Foreign_Policy: https://foreignpolicy.com/feed/
-[2026-04-28 19:47:40] RSS Foreign_Policy: 14 recent articles.
-[2026-04-28 19:47:40] Fetching RSS for New_Yorker_Magazine: https://www.newyorker.com/feed/everything
-[2026-04-28 19:47:40] RSS New_Yorker_Magazine: 16 recent articles.
-[2026-04-28 19:47:40] Scraping New Yorker magazine HTML page...
-[2026-04-28 19:47:40] New Yorker HTML: 19 recent magazine articles.
-[2026-04-28 19:47:40] 
+[2026-04-28 21:11:39] Fetching RSS for Foreign_Affairs: https://www.foreignaffairs.com/rss.xml
+[2026-04-28 21:11:39] RSS Foreign_Affairs: 3 recent articles.
+[2026-04-28 21:11:39] Fetching RSS for Foreign_Policy: https://foreignpolicy.com/feed/
+[2026-04-28 21:11:39] RSS Foreign_Policy: 14 recent articles.
+[2026-04-28 21:11:39] Fetching RSS for New_Yorker_Magazine: https://www.newyorker.com/feed/everything
+[2026-04-28 21:11:39] RSS New_Yorker_Magazine: 16 recent articles.
+[2026-04-28 21:11:39] Scraping New Yorker magazine HTML page...
+[2026-04-28 21:11:40] New Yorker HTML: 19 recent magazine articles.
+[2026-04-28 21:11:40] 
 Total new articles to process: 52
 
-[2026-04-28 19:47:40] [1/52] Article: The Iran War’s Threat to Turkey
-[2026-04-28 19:47:40] Original URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
-[2026-04-28 19:47:45] Trying domain archive.is for URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
-[2026-04-28 19:47:45]   [archive.is] direct lookup: https://archive.is/https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
-[2026-04-28 19:47:46]   [archive.is] direct lookup status: 429
-[2026-04-28 19:47:46] !! Disabling archive.is for this run: 429 Too Many Requests during direct lookup
-[2026-04-28 19:47:46] ✗ No snapshot via archive.is, checking next domain...
+[2026-04-28 21:11:40] [1/52] Article: The Iran War’s Threat to Turkey
+[2026-04-28 21:11:40] Original URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 21:11:45] Trying domain archive.is for URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 21:11:45]   [archive.is] direct lookup: https://archive.is/https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 21:11:46]   [archive.is] direct lookup status: 429
+[2026-04-28 21:11:46] !! Disabling archive.is for this run: 429 Too Many Requests during direct lookup
+[2026-04-28 21:11:46] ✗ No snapshot via archive.is, checking next domain...
 
-[2026-04-28 19:47:48] Trying domain archive.ph for URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
-[2026-04-28 19:47:48]   [archive.ph] direct lookup: https://archive.ph/https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
-[2026-04-28 19:47:50]   [archive.ph] direct lookup status: 429
-[2026-04-28 19:47:50] !! Disabling archive.ph for this run: 429 Too Many Requests during direct lookup
-[2026-04-28 19:47:50] ✗ No snapshot via archive.ph, checking next domain...
+[2026-04-28 21:11:48] Trying domain archive.ph for URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 21:11:48]   [archive.ph] direct lookup: https://archive.ph/https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 21:11:50]   [archive.ph] direct lookup status: 429
+[2026-04-28 21:11:50] !! Disabling archive.ph for this run: 429 Too Many Requests during direct lookup
+[2026-04-28 21:11:50] ✗ No snapshot via archive.ph, checking next domain...
 
-[2026-04-28 19:47:52] Trying domain archive.md for URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
-[2026-04-28 19:47:52]   [archive.md] direct lookup: https://archive.md/https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
-[2026-04-28 19:47:53]   [archive.md] direct lookup status: 429
-[2026-04-28 19:47:53] !! Disabling archive.md for this run: 429 Too Many Requests during direct lookup
-[2026-04-28 19:47:53] ✗ No snapshot via archive.md, checking next domain...
+[2026-04-28 21:11:52] Trying domain archive.md for URL: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 21:11:52]   [archive.md] direct lookup: https://archive.md/https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
+[2026-04-28 21:11:54]   [archive.md] direct lookup status: 429
+[2026-04-28 21:11:54] !! Disabling archive.md for this run: 429 Too Many Requests during direct lookup
+[2026-04-28 21:11:54] ✗ No snapshot via archive.md, checking next domain...
 
-[2026-04-28 19:47:55] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:47:55] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:47:55] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:47:55] Result: FAILED (no snapshot)
+[2026-04-28 21:11:56] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:11:56] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:11:56] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:11:56] Result: FAILED (no snapshot)
 
-[2026-04-28 19:47:55] [2/52] Article: The Hormuz Hit to Helium
-[2026-04-28 19:47:55] Original URL: https://foreignpolicy.com/2026/04/27/iran-war-hormuz-strait-helium-semiconductors-chips-supply-chain-prices/
-[2026-04-28 19:48:00] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:48:00] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:48:00] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:48:00] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:00] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:00] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:00] Result: FAILED (no snapshot)
+[2026-04-28 21:11:56] [2/52] Article: The Hormuz Hit to Helium
+[2026-04-28 21:11:56] Original URL: https://foreignpolicy.com/2026/04/27/iran-war-hormuz-strait-helium-semiconductors-chips-supply-chain-prices/
+[2026-04-28 21:12:01] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:12:01] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:12:01] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:12:01] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:01] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:01] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:01] Result: FAILED (no snapshot)
 
-[2026-04-28 19:48:00] [3/52] Article: Briefly Noted Book Reviews
-[2026-04-28 19:48:00] Original URL: https://www.newyorker.com/magazine/2026/05/04/in-search-of-now-nothing-random-of-loss-lavender-no-way-home
-[2026-04-28 19:48:05] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:48:05] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:48:05] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:48:05] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:05] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:05] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:05] Result: FAILED (no snapshot)
+[2026-04-28 21:12:01] [3/52] Article: Briefly Noted Book Reviews
+[2026-04-28 21:12:01] Original URL: https://www.newyorker.com/magazine/2026/05/04/in-search-of-now-nothing-random-of-loss-lavender-no-way-home
+[2026-04-28 21:12:06] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:12:06] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:12:06] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:12:06] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:06] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:06] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:06] Result: FAILED (no snapshot)
 
-[2026-04-28 19:48:05] [4/52] Article: “Tompkins Square,” by Anthony Walton
-[2026-04-28 19:48:05] Original URL: https://www.newyorker.com/magazine/2026/05/04/tompkins-square-anthony-walton-poem
-[2026-04-28 19:48:10] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:48:10] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:48:10] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:48:10] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:10] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:10] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:10] Result: FAILED (no snapshot)
+[2026-04-28 21:12:06] [4/52] Article: “Tompkins Square,” by Anthony Walton
+[2026-04-28 21:12:06] Original URL: https://www.newyorker.com/magazine/2026/05/04/tompkins-square-anthony-walton-poem
+[2026-04-28 21:12:11] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:12:11] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:12:11] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:12:11] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:11] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:11] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:11] Result: FAILED (no snapshot)
 
-[2026-04-28 19:48:10] [5/52] Article: Ellen Burstyn’s Inner Library
-[2026-04-28 19:48:10] Original URL: https://www.newyorker.com/magazine/2026/05/04/ellen-burstyns-inner-library
-[2026-04-28 19:48:15] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:48:15] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:48:15] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:48:15] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:15] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:15] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:15] Result: FAILED (no snapshot)
+[2026-04-28 21:12:11] [5/52] Article: Ellen Burstyn’s Inner Library
+[2026-04-28 21:12:11] Original URL: https://www.newyorker.com/magazine/2026/05/04/ellen-burstyns-inner-library
+[2026-04-28 21:12:16] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:12:16] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:12:16] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:12:16] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:16] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:16] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:16] Result: FAILED (no snapshot)
 
-[2026-04-28 19:48:15] [6/52] Article: Laurie Metcalf’s Third Act
-[2026-04-28 19:48:15] Original URL: https://www.newyorker.com/magazine/2026/05/04/laurie-metcalf-profile
-[2026-04-28 19:48:20] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:48:20] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:48:20] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:48:20] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:20] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:20] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:20] Result: FAILED (no snapshot)
+[2026-04-28 21:12:16] [6/52] Article: Laurie Metcalf’s Third Act
+[2026-04-28 21:12:16] Original URL: https://www.newyorker.com/magazine/2026/05/04/laurie-metcalf-profile
+[2026-04-28 21:12:21] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:12:21] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:12:21] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:12:21] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:21] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:21] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:21] Result: FAILED (no snapshot)
 
-[2026-04-28 19:48:20] [7/52] Article: The Sqirl Redemption Arc
-[2026-04-28 19:48:20] Original URL: https://www.newyorker.com/magazine/2026/05/04/the-sqirl-redemption-arc
-[2026-04-28 19:48:25] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:48:25] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:48:25] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:48:25] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:25] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:25] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:25] Result: FAILED (no snapshot)
+[2026-04-28 21:12:21] [7/52] Article: The Sqirl Redemption Arc
+[2026-04-28 21:12:21] Original URL: https://www.newyorker.com/magazine/2026/05/04/the-sqirl-redemption-arc
+[2026-04-28 21:12:26] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:12:26] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:12:26] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:12:26] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:26] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:26] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:26] Result: FAILED (no snapshot)
 
-[2026-04-28 19:48:25] [8/52] Article: “A Theory on the Origin of Language,” by Tishani Doshi
-[2026-04-28 19:48:25] Original URL: https://www.newyorker.com/magazine/2026/05/04/a-theory-on-the-origin-of-language-tishani-doshi-poem
-[2026-04-28 19:48:30] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:48:30] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:48:30] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:48:30] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:30] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:30] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:30] Result: FAILED (no snapshot)
+[2026-04-28 21:12:26] [8/52] Article: “A Theory on the Origin of Language,” by Tishani Doshi
+[2026-04-28 21:12:26] Original URL: https://www.newyorker.com/magazine/2026/05/04/a-theory-on-the-origin-of-language-tishani-doshi-poem
+[2026-04-28 21:12:31] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:12:31] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:12:31] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:12:31] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:31] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:31] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:31] Result: FAILED (no snapshot)
 
-[2026-04-28 19:48:30] [9/52] Article: “Death in Rome” and “The Hothouse,” Reviewed
-[2026-04-28 19:48:30] Original URL: https://www.newyorker.com/magazine/2026/05/04/wolfgang-koeppen-book-review
-[2026-04-28 19:48:35] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:48:35] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:48:35] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:48:35] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:35] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:35] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:35] Result: FAILED (no snapshot)
+[2026-04-28 21:12:31] [9/52] Article: “Death in Rome” and “The Hothouse,” Reviewed
+[2026-04-28 21:12:31] Original URL: https://www.newyorker.com/magazine/2026/05/04/wolfgang-koeppen-book-review
+[2026-04-28 21:12:36] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:12:36] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:12:36] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:12:36] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:36] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:36] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:36] Result: FAILED (no snapshot)
 
-[2026-04-28 19:48:35] [10/52] Article: The Many Forms of Marcel Duchamp
-[2026-04-28 19:48:35] Original URL: https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp-art-review-moma
-[2026-04-28 19:48:40] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:48:40] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:48:40] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:48:40] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:40] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:40] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:40] Result: FAILED (no snapshot)
+[2026-04-28 21:12:36] [10/52] Article: The Many Forms of Marcel Duchamp
+[2026-04-28 21:12:36] Original URL: https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp-art-review-moma
+[2026-04-28 21:12:41] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:12:41] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:12:41] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:12:41] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:41] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:41] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:41] Result: FAILED (no snapshot)
 
-[2026-04-28 19:48:40] [11/52] Article: Can the E.P.A. Survive Lee Zeldin?
-[2026-04-28 19:48:40] Original URL: https://www.newyorker.com/magazine/2026/05/04/can-the-epa-survive-lee-zeldin
-[2026-04-28 19:48:45] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:48:45] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:48:45] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:48:45] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:45] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:45] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:45] Result: FAILED (no snapshot)
+[2026-04-28 21:12:41] [11/52] Article: Ava’s Life List
+[2026-04-28 21:12:41] Original URL: https://www.newyorker.com/magazine/2026/05/04/avas-life-list
+[2026-04-28 21:12:46] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:12:46] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:12:46] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:12:46] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:46] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:46] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:46] Result: FAILED (no snapshot)
 
-[2026-04-28 19:48:45] [12/52] Article: Ava’s Life List
-[2026-04-28 19:48:45] Original URL: https://www.newyorker.com/magazine/2026/05/04/avas-life-list
-[2026-04-28 19:48:50] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:48:50] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:48:50] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:48:50] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:50] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:50] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:50] Result: FAILED (no snapshot)
+[2026-04-28 21:12:46] [12/52] Article: Can the E.P.A. Survive Lee Zeldin?
+[2026-04-28 21:12:46] Original URL: https://www.newyorker.com/magazine/2026/05/04/can-the-epa-survive-lee-zeldin
+[2026-04-28 21:12:51] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:12:51] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:12:51] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:12:51] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:51] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:51] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:51] Result: FAILED (no snapshot)
 
-[2026-04-28 19:48:50] [13/52] Article: Medallions, Movement, and Mamdani at MOMA PS1
-[2026-04-28 19:48:50] Original URL: https://www.newyorker.com/magazine/2026/05/04/medallions-movement-and-mamdani-at-moma-ps-1
-[2026-04-28 19:48:55] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:48:55] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:48:55] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:48:55] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:55] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:55] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:48:55] Result: FAILED (no snapshot)
+[2026-04-28 21:12:51] [13/52] Article: Medallions, Movement, and Mamdani at MOMA PS1
+[2026-04-28 21:12:51] Original URL: https://www.newyorker.com/magazine/2026/05/04/medallions-movement-and-mamdani-at-moma-ps-1
+[2026-04-28 21:12:56] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:12:56] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:12:56] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:12:56] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:56] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:56] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:12:56] Result: FAILED (no snapshot)
 
-[2026-04-28 19:48:55] [14/52] Article: Reverend Billy Takes On Norman Foster’s New Monolith
-[2026-04-28 19:48:55] Original URL: https://www.newyorker.com/magazine/2026/05/04/reverend-billy-takes-on-norman-fosters-new-monolith
-[2026-04-28 19:49:00] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:49:00] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:49:00] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:49:00] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:00] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:00] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:00] Result: FAILED (no snapshot)
+[2026-04-28 21:12:56] [14/52] Article: Reverend Billy Takes On Norman Foster’s New Monolith
+[2026-04-28 21:12:56] Original URL: https://www.newyorker.com/magazine/2026/05/04/reverend-billy-takes-on-norman-fosters-new-monolith
+[2026-04-28 21:13:01] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:13:01] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:13:01] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:13:01] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:01] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:01] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:01] Result: FAILED (no snapshot)
 
-[2026-04-28 19:49:00] [15/52] Article: How Long Can Martha Graham’s Dance Revolution Last?
-[2026-04-28 19:49:00] Original URL: https://www.newyorker.com/magazine/2026/05/04/how-long-can-martha-grahams-dance-revolution-last
-[2026-04-28 19:49:05] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:49:05] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:49:05] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:49:05] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:05] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:05] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:05] Result: FAILED (no snapshot)
+[2026-04-28 21:13:01] [15/52] Article: How Long Can Martha Graham’s Dance Revolution Last?
+[2026-04-28 21:13:01] Original URL: https://www.newyorker.com/magazine/2026/05/04/how-long-can-martha-grahams-dance-revolution-last
+[2026-04-28 21:13:06] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:13:06] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:13:06] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:13:06] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:06] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:06] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:06] Result: FAILED (no snapshot)
 
-[2026-04-28 19:49:05] [16/52] Article: Patrick Ball’s Path to Broadway and “Becky Shaw”
-[2026-04-28 19:49:05] Original URL: https://www.newyorker.com/magazine/2026/05/04/patrick-balls-path-to-broadway-and-becky-shaw
-[2026-04-28 19:49:10] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:49:10] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:49:10] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:49:10] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:10] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:10] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:10] Result: FAILED (no snapshot)
+[2026-04-28 21:13:06] [16/52] Article: Patrick Ball’s Path to Broadway and “Becky Shaw”
+[2026-04-28 21:13:06] Original URL: https://www.newyorker.com/magazine/2026/05/04/patrick-balls-path-to-broadway-and-becky-shaw
+[2026-04-28 21:13:11] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:13:11] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:13:11] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:13:11] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:11] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:11] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:11] Result: FAILED (no snapshot)
 
-[2026-04-28 19:49:10] [17/52] Article: Donald Trump’s Pardon Economy
-[2026-04-28 19:49:10] Original URL: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-pardon-economy
-[2026-04-28 19:49:15] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:49:15] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:49:15] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:49:15] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:15] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:15] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:15] Result: FAILED (no snapshot)
+[2026-04-28 21:13:11] [17/52] Article: Donald Trump’s Pardon Economy
+[2026-04-28 21:13:11] Original URL: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-pardon-economy
+[2026-04-28 21:13:16] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:13:16] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:13:16] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:13:16] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:16] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:16] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:16] Result: FAILED (no snapshot)
 
-[2026-04-28 19:49:15] [18/52] Article: What Happens When Someone Throws a Message in a Bottle Into the Sea?
-[2026-04-28 19:49:15] Original URL: https://www.newyorker.com/magazine/2026/05/04/signed-sealed-delivered
-[2026-04-28 19:49:20] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:49:20] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:49:20] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:49:20] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:20] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:20] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:20] Result: FAILED (no snapshot)
+[2026-04-28 21:13:16] [18/52] Article: What Happens When Someone Throws a Message in a Bottle Into the Sea?
+[2026-04-28 21:13:16] Original URL: https://www.newyorker.com/magazine/2026/05/04/signed-sealed-delivered
+[2026-04-28 21:13:21] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:13:21] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:13:21] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:13:21] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:21] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:21] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:21] Result: FAILED (no snapshot)
 
-[2026-04-28 19:49:20] [19/52] Article: Escaping the Hormuz Trap
-[2026-04-28 19:49:20] Original URL: https://foreignpolicy.com/2026/04/27/hormuz-trap-oil-pipeline-iran-war-united-states-arab-israel/
-[2026-04-28 19:49:25] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:49:25] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:49:25] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:49:25] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:25] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:25] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:25] Result: FAILED (no snapshot)
+[2026-04-28 21:13:21] [19/52] Article: Escaping the Hormuz Trap
+[2026-04-28 21:13:21] Original URL: https://foreignpolicy.com/2026/04/27/hormuz-trap-oil-pipeline-iran-war-united-states-arab-israel/
+[2026-04-28 21:13:26] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:13:26] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:13:26] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:13:26] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:26] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:26] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:26] Result: FAILED (no snapshot)
 
-[2026-04-28 19:49:25] [20/52] Article: What Five Decades of Summits Reveal About U.S.-China Relations
-[2026-04-28 19:49:25] Original URL: https://foreignpolicy.com/2026/04/27/trump-xi-summit-us-china-trade-deal-taiwan-geopolitics/
-[2026-04-28 19:49:30] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:49:30] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:49:30] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:49:30] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:30] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:30] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:30] Result: FAILED (no snapshot)
+[2026-04-28 21:13:26] [20/52] Article: What Five Decades of Summits Reveal About U.S.-China Relations
+[2026-04-28 21:13:26] Original URL: https://foreignpolicy.com/2026/04/27/trump-xi-summit-us-china-trade-deal-taiwan-geopolitics/
+[2026-04-28 21:13:31] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:13:31] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:13:31] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:13:31] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:31] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:31] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:31] Result: FAILED (no snapshot)
 
-[2026-04-28 19:49:30] [21/52] Article: Israel and Syria’s Shared Fight Against Hezbollah
-[2026-04-28 19:49:30] Original URL: https://foreignpolicy.com/2026/04/27/israel-syria-hezbollah-iran-sharaa-terrorism-lebanon/
-[2026-04-28 19:49:35] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:49:35] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:49:35] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:49:35] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:35] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:35] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:35] Result: FAILED (no snapshot)
+[2026-04-28 21:13:31] [21/52] Article: Israel and Syria’s Shared Fight Against Hezbollah
+[2026-04-28 21:13:31] Original URL: https://foreignpolicy.com/2026/04/27/israel-syria-hezbollah-iran-sharaa-terrorism-lebanon/
+[2026-04-28 21:13:36] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:13:36] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:13:36] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:13:36] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:36] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:36] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:36] Result: FAILED (no snapshot)
 
-[2026-04-28 19:49:35] [22/52] Article: Beijing Is Using Influencers to Burnish Its Image
-[2026-04-28 19:49:35] Original URL: https://foreignpolicy.com/2026/04/27/china-influencers-dubai-propaganda-chinamaxxing/
-[2026-04-28 19:49:40] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:49:40] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:49:40] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:49:40] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:40] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:40] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:40] Result: FAILED (no snapshot)
+[2026-04-28 21:13:36] [22/52] Article: Beijing Is Using Influencers to Burnish Its Image
+[2026-04-28 21:13:36] Original URL: https://foreignpolicy.com/2026/04/27/china-influencers-dubai-propaganda-chinamaxxing/
+[2026-04-28 21:13:41] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:13:41] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:13:41] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:13:41] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:41] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:41] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:41] Result: FAILED (no snapshot)
 
-[2026-04-28 19:49:40] [23/52] Article: Iran Offers to Reopen the Strait of Hormuz
-[2026-04-28 19:49:40] Original URL: https://foreignpolicy.com/2026/04/27/iran-reopen-strait-hormuz-postpone-nuclear-talks-us-blockade/
-[2026-04-28 19:49:45] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:49:45] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:49:45] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:49:45] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:45] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:45] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:45] Result: FAILED (no snapshot)
+[2026-04-28 21:13:41] [23/52] Article: Iran Offers to Reopen the Strait of Hormuz
+[2026-04-28 21:13:41] Original URL: https://foreignpolicy.com/2026/04/27/iran-reopen-strait-hormuz-postpone-nuclear-talks-us-blockade/
+[2026-04-28 21:13:46] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:13:46] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:13:46] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:13:46] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:46] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:46] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:46] Result: FAILED (no snapshot)
 
-[2026-04-28 19:49:45] [24/52] Article: The U.S. Shouldn’t Rule the Seas Forever
-[2026-04-28 19:49:45] Original URL: https://foreignpolicy.com/2026/04/27/iran-us-war-hormuz-strait-blockade-trade-maritime-navy-strategy/
-[2026-04-28 19:49:50] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:49:50] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:49:50] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:49:50] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:50] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:50] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:50] Result: FAILED (no snapshot)
+[2026-04-28 21:13:46] [24/52] Article: The U.S. Shouldn’t Rule the Seas Forever
+[2026-04-28 21:13:46] Original URL: https://foreignpolicy.com/2026/04/27/iran-us-war-hormuz-strait-blockade-trade-maritime-navy-strategy/
+[2026-04-28 21:13:51] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:13:51] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:13:51] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:13:51] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:51] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:51] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:51] Result: FAILED (no snapshot)
 
-[2026-04-28 19:49:50] [25/52] Article: Let Iran Defeat Itself
-[2026-04-28 19:49:50] Original URL: https://www.foreignaffairs.com/iran/let-iran-defeat-itself
-[2026-04-28 19:49:55] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:49:55] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:49:55] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:49:55] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:55] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:55] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:49:55] Result: FAILED (no snapshot)
+[2026-04-28 21:13:51] [25/52] Article: Let Iran Defeat Itself
+[2026-04-28 21:13:51] Original URL: https://www.foreignaffairs.com/iran/let-iran-defeat-itself
+[2026-04-28 21:13:56] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:13:56] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:13:56] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:13:56] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:56] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:56] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:13:56] Result: FAILED (no snapshot)
 
-[2026-04-28 19:49:55] [26/52] Article: The Disposable Oligarchs
-[2026-04-28 19:49:55] Original URL: https://www.foreignaffairs.com/united-states/disposable-oligarchs
-[2026-04-28 19:50:00] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:50:00] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:50:00] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:50:00] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:00] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:00] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:00] Result: FAILED (no snapshot)
+[2026-04-28 21:13:56] [26/52] Article: The Disposable Oligarchs
+[2026-04-28 21:13:56] Original URL: https://www.foreignaffairs.com/united-states/disposable-oligarchs
+[2026-04-28 21:14:01] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:14:01] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:14:01] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:14:01] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:01] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:01] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:01] Result: FAILED (no snapshot)
 
-[2026-04-28 19:50:00] [27/52] Article: The Iran War Is Tearing Trump’s Coalition Apart
-[2026-04-28 19:50:00] Original URL: https://foreignpolicy.com/2026/04/28/iran-war-trump-coalition-maga-america-first/
-[2026-04-28 19:50:05] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:50:05] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:50:05] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:50:05] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:05] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:05] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:05] Result: FAILED (no snapshot)
+[2026-04-28 21:14:01] [27/52] Article: The Iran War Is Tearing Trump’s Coalition Apart
+[2026-04-28 21:14:01] Original URL: https://foreignpolicy.com/2026/04/28/iran-war-trump-coalition-maga-america-first/
+[2026-04-28 21:14:06] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:14:06] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:14:06] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:14:06] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:06] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:06] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:06] Result: FAILED (no snapshot)
 
-[2026-04-28 19:50:05] [28/52] Article: What Congress Could Do to Stop the War
-[2026-04-28 19:50:05] Original URL: https://foreignpolicy.com/2026/04/28/congress-stop-iran-war-budget/
-[2026-04-28 19:50:10] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:50:10] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:50:10] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:50:10] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:10] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:10] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:10] Result: FAILED (no snapshot)
+[2026-04-28 21:14:06] [28/52] Article: What Congress Could Do to Stop the War
+[2026-04-28 21:14:06] Original URL: https://foreignpolicy.com/2026/04/28/congress-stop-iran-war-budget/
+[2026-04-28 21:14:11] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:14:11] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:14:11] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:14:11] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:11] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:11] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:11] Result: FAILED (no snapshot)
 
-[2026-04-28 19:50:10] [29/52] Article: Latin America’s Anti-Women Movement Is Spreading
-[2026-04-28 19:50:10] Original URL: https://foreignpolicy.com/2026/04/28/chile-kast-latin-america-anti-women-movement-spreading/
-[2026-04-28 19:50:15] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:50:15] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:50:15] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:50:15] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:15] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:15] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:15] Result: FAILED (no snapshot)
+[2026-04-28 21:14:11] [29/52] Article: Latin America’s Anti-Women Movement Is Spreading
+[2026-04-28 21:14:11] Original URL: https://foreignpolicy.com/2026/04/28/chile-kast-latin-america-anti-women-movement-spreading/
+[2026-04-28 21:14:16] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:14:16] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:14:16] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:14:16] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:16] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:16] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:16] Result: FAILED (no snapshot)
 
-[2026-04-28 19:50:15] [30/52] Article: Iran Is More Unified Than Ever
-[2026-04-28 19:50:15] Original URL: https://foreignpolicy.com/2026/04/28/iran-leadership-government-unified-khamenei-qalibaf-public/
-[2026-04-28 19:50:20] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:50:20] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:50:20] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:50:20] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:20] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:20] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:20] Result: FAILED (no snapshot)
+[2026-04-28 21:14:16] [30/52] Article: Iran Is More Unified Than Ever
+[2026-04-28 21:14:16] Original URL: https://foreignpolicy.com/2026/04/28/iran-leadership-government-unified-khamenei-qalibaf-public/
+[2026-04-28 21:14:21] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:14:21] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:14:21] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:14:21] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:21] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:21] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:21] Result: FAILED (no snapshot)
 
-[2026-04-28 19:50:20] [31/52] Article: Russia’s War Boom Masks an Economic Implosion
-[2026-04-28 19:50:20] Original URL: https://foreignpolicy.com/2026/04/28/russia-putin-war-ukraine-economy-industry-labor-shortage-demographic-implosion/
-[2026-04-28 19:50:25] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:50:25] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:50:25] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:50:25] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:25] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:25] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:25] Result: FAILED (no snapshot)
+[2026-04-28 21:14:21] [31/52] Article: Russia’s War Boom Masks an Economic Implosion
+[2026-04-28 21:14:21] Original URL: https://foreignpolicy.com/2026/04/28/russia-putin-war-ukraine-economy-industry-labor-shortage-demographic-implosion/
+[2026-04-28 21:14:26] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:14:26] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:14:26] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:14:26] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:26] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:26] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:26] Result: FAILED (no snapshot)
 
-[2026-04-28 19:50:25] [32/52] Article: Japan and China Are Edging Dangerously Close to Conflict
-[2026-04-28 19:50:25] Original URL: https://foreignpolicy.com/2026/04/28/japan-china-taiwan-okinawa-history/
-[2026-04-28 19:50:30] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:50:30] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:50:30] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:50:30] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:30] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:30] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:30] Result: FAILED (no snapshot)
+[2026-04-28 21:14:26] [32/52] Article: Japan and China Are Edging Dangerously Close to Conflict
+[2026-04-28 21:14:26] Original URL: https://foreignpolicy.com/2026/04/28/japan-china-taiwan-okinawa-history/
+[2026-04-28 21:14:31] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:14:31] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:14:31] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:14:31] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:31] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:31] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:31] Result: FAILED (no snapshot)
 
-[2026-04-28 19:50:30] [33/52] Article: Why Iran Isn’t Blinking Yet
-[2026-04-28 19:50:30] Original URL: https://foreignpolicy.com/2026/04/28/iran-war-hormuz-trump-oil-storage-blockade-energy/
-[2026-04-28 19:50:35] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:50:35] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:50:35] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:50:35] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:35] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:35] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:35] Result: FAILED (no snapshot)
+[2026-04-28 21:14:31] [33/52] Article: Why Iran Isn’t Blinking Yet
+[2026-04-28 21:14:31] Original URL: https://foreignpolicy.com/2026/04/28/iran-war-hormuz-trump-oil-storage-blockade-energy/
+[2026-04-28 21:14:36] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:14:36] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:14:36] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:14:36] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:36] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:36] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:36] Result: FAILED (no snapshot)
 
-[2026-04-28 19:50:35] [34/52] Article: Donald Trump’s Spring Cleaning
-[2026-04-28 19:50:35] Original URL: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-spring-cleaning
-[2026-04-28 19:50:40] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:50:40] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:50:40] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:50:40] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:40] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:40] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:40] Result: FAILED (no snapshot)
+[2026-04-28 21:14:36] [34/52] Article: Donald Trump’s Spring Cleaning
+[2026-04-28 21:14:36] Original URL: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-spring-cleaning
+[2026-04-28 21:14:41] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:14:41] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:14:41] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:14:41] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:41] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:41] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:41] Result: FAILED (no snapshot)
 
-[2026-04-28 19:50:40] [35/52] Article: Reverend Billy Takes On Norman Foster’s New Monolith
-[2026-04-28 19:50:40] Original URL: https://www.newyorker.com/magazine/2026/05/04/reverend-billy-takes-on-norman-fosters-new-monolith
-[2026-04-28 19:50:45] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:50:45] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:50:45] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:50:45] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:45] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:45] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:45] Result: FAILED (no snapshot)
+[2026-04-28 21:14:41] [35/52] Article: Reverend Billy Takes On Norman Foster’s New Monolith
+[2026-04-28 21:14:41] Original URL: https://www.newyorker.com/magazine/2026/05/04/reverend-billy-takes-on-norman-fosters-new-monolith
+[2026-04-28 21:14:46] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:14:46] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:14:46] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:14:46] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:46] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:46] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:46] Result: FAILED (no snapshot)
 
-[2026-04-28 19:50:45] [36/52] Article: Medallions, Movement, and Mamdani at MOMA PS1
-[2026-04-28 19:50:45] Original URL: https://www.newyorker.com/magazine/2026/05/04/medallions-movement-and-mamdani-at-moma-ps-1
-[2026-04-28 19:50:50] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:50:50] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:50:50] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:50:50] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:50] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:50] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:50] Result: FAILED (no snapshot)
+[2026-04-28 21:14:46] [36/52] Article: Medallions, Movement, and Mamdani at MOMA PS1
+[2026-04-28 21:14:46] Original URL: https://www.newyorker.com/magazine/2026/05/04/medallions-movement-and-mamdani-at-moma-ps-1
+[2026-04-28 21:14:51] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:14:51] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:14:51] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:14:51] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:51] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:51] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:51] Result: FAILED (no snapshot)
 
-[2026-04-28 19:50:50] [37/52] Article: Patrick Ball’s Path to Broadway and “Becky Shaw”
-[2026-04-28 19:50:50] Original URL: https://www.newyorker.com/magazine/2026/05/04/patrick-balls-path-to-broadway-and-becky-shaw
-[2026-04-28 19:50:55] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:50:55] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:50:55] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:50:55] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:55] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:55] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:50:55] Result: FAILED (no snapshot)
+[2026-04-28 21:14:51] [37/52] Article: Patrick Ball’s Path to Broadway and “Becky Shaw”
+[2026-04-28 21:14:51] Original URL: https://www.newyorker.com/magazine/2026/05/04/patrick-balls-path-to-broadway-and-becky-shaw
+[2026-04-28 21:14:56] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:14:56] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:14:56] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:14:56] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:56] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:56] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:14:56] Result: FAILED (no snapshot)
 
-[2026-04-28 19:50:55] [38/52] Article: Ellen Burstyn’s Inner Library
-[2026-04-28 19:50:55] Original URL: https://www.newyorker.com/magazine/2026/05/04/ellen-burstyns-inner-library
-[2026-04-28 19:51:00] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:51:00] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:51:00] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:51:00] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:00] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:00] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:00] Result: FAILED (no snapshot)
+[2026-04-28 21:14:56] [38/52] Article: Ellen Burstyn’s Inner Library
+[2026-04-28 21:14:56] Original URL: https://www.newyorker.com/magazine/2026/05/04/ellen-burstyns-inner-library
+[2026-04-28 21:15:01] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:15:01] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:15:01] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:15:01] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:01] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:01] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:01] Result: FAILED (no snapshot)
 
-[2026-04-28 19:51:00] [39/52] Article: Can the E.P.A. Survive Lee Zeldin?
-[2026-04-28 19:51:00] Original URL: https://www.newyorker.com/magazine/2026/05/04/can-the-epa-survive-lee-zeldin
-[2026-04-28 19:51:05] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:51:05] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:51:05] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:51:05] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:05] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:05] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:05] Result: FAILED (no snapshot)
+[2026-04-28 21:15:01] [39/52] Article: Can the E.P.A. Survive Lee Zeldin?
+[2026-04-28 21:15:01] Original URL: https://www.newyorker.com/magazine/2026/05/04/can-the-epa-survive-lee-zeldin
+[2026-04-28 21:15:06] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:15:06] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:15:06] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:15:06] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:06] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:06] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:06] Result: FAILED (no snapshot)
 
-[2026-04-28 19:51:05] [40/52] Article: What Happens When Someone Throws a Message in a Bottle Into the Sea?
-[2026-04-28 19:51:05] Original URL: https://www.newyorker.com/magazine/2026/05/04/signed-sealed-delivered
-[2026-04-28 19:51:10] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:51:10] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:51:10] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:51:10] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:10] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:10] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:10] Result: FAILED (no snapshot)
+[2026-04-28 21:15:06] [40/52] Article: What Happens When Someone Throws a Message in a Bottle Into the Sea?
+[2026-04-28 21:15:06] Original URL: https://www.newyorker.com/magazine/2026/05/04/signed-sealed-delivered
+[2026-04-28 21:15:11] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:15:11] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:15:11] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:15:11] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:11] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:11] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:11] Result: FAILED (no snapshot)
 
-[2026-04-28 19:51:10] [41/52] Article: Donald Trump’s Pardon Economy
-[2026-04-28 19:51:10] Original URL: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-pardon-economy
-[2026-04-28 19:51:15] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:51:15] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:51:15] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:51:15] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:15] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:15] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:15] Result: FAILED (no snapshot)
+[2026-04-28 21:15:11] [41/52] Article: Donald Trump’s Pardon Economy
+[2026-04-28 21:15:11] Original URL: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-pardon-economy
+[2026-04-28 21:15:16] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:15:16] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:15:16] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:15:16] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:16] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:16] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:16] Result: FAILED (no snapshot)
 
-[2026-04-28 19:51:15] [42/52] Article: Laurie Metcalf’s Third Act
-[2026-04-28 19:51:15] Original URL: https://www.newyorker.com/magazine/2026/05/04/laurie-metcalf-profile
-[2026-04-28 19:51:20] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:51:20] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:51:20] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:51:20] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:20] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:20] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:20] Result: FAILED (no snapshot)
+[2026-04-28 21:15:16] [42/52] Article: Laurie Metcalf’s Third Act
+[2026-04-28 21:15:16] Original URL: https://www.newyorker.com/magazine/2026/05/04/laurie-metcalf-profile
+[2026-04-28 21:15:21] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:15:21] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:15:21] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:15:21] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:21] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:21] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:21] Result: FAILED (no snapshot)
 
-[2026-04-28 19:51:20] [43/52] Article: Ava’s Life List
-[2026-04-28 19:51:20] Original URL: https://www.newyorker.com/magazine/2026/05/04/avas-life-list
-[2026-04-28 19:51:25] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:51:25] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:51:25] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:51:25] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:25] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:25] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:25] Result: FAILED (no snapshot)
+[2026-04-28 21:15:21] [43/52] Article: Ava’s Life List
+[2026-04-28 21:15:21] Original URL: https://www.newyorker.com/magazine/2026/05/04/avas-life-list
+[2026-04-28 21:15:26] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:15:26] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:15:26] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:15:26] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:26] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:26] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:26] Result: FAILED (no snapshot)
 
-[2026-04-28 19:51:25] [44/52] Article: “Process of Elimination”
-[2026-04-28 19:51:25] Original URL: https://www.newyorker.com/magazine/2026/05/04/said-sayrafiezadeh-fiction-process-of-elimination
-[2026-04-28 19:51:30] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:51:30] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:51:30] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:51:30] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:30] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:30] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:30] Result: FAILED (no snapshot)
+[2026-04-28 21:15:26] [44/52] Article: “Process of Elimination”
+[2026-04-28 21:15:26] Original URL: https://www.newyorker.com/magazine/2026/05/04/said-sayrafiezadeh-fiction-process-of-elimination
+[2026-04-28 21:15:31] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:15:31] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:15:31] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:15:31] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:31] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:31] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:31] Result: FAILED (no snapshot)
 
-[2026-04-28 19:51:30] [45/52] Article: The Many Forms of Marcel Duchamp
-[2026-04-28 19:51:30] Original URL: https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp-art-review-moma
-[2026-04-28 19:51:35] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:51:35] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:51:35] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:51:35] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:35] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:35] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:35] Result: FAILED (no snapshot)
+[2026-04-28 21:15:31] [45/52] Article: The Many Forms of Marcel Duchamp
+[2026-04-28 21:15:31] Original URL: https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp-art-review-moma
+[2026-04-28 21:15:36] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:15:36] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:15:36] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:15:36] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:36] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:36] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:36] Result: FAILED (no snapshot)
 
-[2026-04-28 19:51:35] [46/52] Article: A German Master’s Modernist Epic of Postwar Amnesia and Hypocrisy
-[2026-04-28 19:51:35] Original URL: https://www.newyorker.com/magazine/2026/05/04/wolfgang-koeppen-book-review
-[2026-04-28 19:51:40] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:51:40] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:51:40] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:51:40] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:40] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:40] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:40] Result: FAILED (no snapshot)
+[2026-04-28 21:15:36] [46/52] Article: A German Master’s Modernist Epic of Postwar Amnesia and Hypocrisy
+[2026-04-28 21:15:36] Original URL: https://www.newyorker.com/magazine/2026/05/04/wolfgang-koeppen-book-review
+[2026-04-28 21:15:41] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:15:41] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:15:41] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:15:41] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:41] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:41] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:41] Result: FAILED (no snapshot)
 
-[2026-04-28 19:51:40] [47/52] Article: Briefly Noted
-[2026-04-28 19:51:40] Original URL: https://www.newyorker.com/magazine/2026/05/04/in-search-of-now-nothing-random-of-loss-lavender-no-way-home
-[2026-04-28 19:51:45] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:51:45] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:51:45] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:51:45] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:45] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:45] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:45] Result: FAILED (no snapshot)
+[2026-04-28 21:15:41] [47/52] Article: Briefly Noted
+[2026-04-28 21:15:41] Original URL: https://www.newyorker.com/magazine/2026/05/04/in-search-of-now-nothing-random-of-loss-lavender-no-way-home
+[2026-04-28 21:15:46] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:15:46] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:15:46] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:15:46] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:46] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:46] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:46] Result: FAILED (no snapshot)
 
-[2026-04-28 19:51:45] [48/52] Article: The Sqirl Redemption Arc
-[2026-04-28 19:51:45] Original URL: https://www.newyorker.com/magazine/2026/05/04/the-sqirl-redemption-arc
-[2026-04-28 19:51:50] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:51:50] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:51:50] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:51:50] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:50] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:50] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:50] Result: FAILED (no snapshot)
+[2026-04-28 21:15:46] [48/52] Article: The Sqirl Redemption Arc
+[2026-04-28 21:15:46] Original URL: https://www.newyorker.com/magazine/2026/05/04/the-sqirl-redemption-arc
+[2026-04-28 21:15:51] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:15:51] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:15:51] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:15:51] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:51] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:51] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:51] Result: FAILED (no snapshot)
 
-[2026-04-28 19:51:50] [49/52] Article: How Long Can Martha Graham’s Dance Revolution Last?
-[2026-04-28 19:51:50] Original URL: https://www.newyorker.com/magazine/2026/05/04/how-long-can-martha-grahams-dance-revolution-last
-[2026-04-28 19:51:55] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:51:55] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:51:55] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:51:55] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:55] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:55] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:51:55] Result: FAILED (no snapshot)
+[2026-04-28 21:15:51] [49/52] Article: How Long Can Martha Graham’s Dance Revolution Last?
+[2026-04-28 21:15:51] Original URL: https://www.newyorker.com/magazine/2026/05/04/how-long-can-martha-grahams-dance-revolution-last
+[2026-04-28 21:15:56] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:15:56] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:15:56] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:15:56] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:56] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:56] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:15:56] Result: FAILED (no snapshot)
 
-[2026-04-28 19:51:55] [50/52] Article: “Half Man” Tests the Limits of Brotherly Love
-[2026-04-28 19:51:55] Original URL: https://www.newyorker.com/magazine/2026/05/04/half-man-tv-review-hbo
-[2026-04-28 19:52:00] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:52:00] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:52:00] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:52:00] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:52:00] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:52:00] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:52:00] Result: FAILED (no snapshot)
+[2026-04-28 21:15:56] [50/52] Article: “Half Man” Tests the Limits of Brotherly Love
+[2026-04-28 21:15:56] Original URL: https://www.newyorker.com/magazine/2026/05/04/half-man-tv-review-hbo
+[2026-04-28 21:16:01] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:16:01] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:16:01] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:16:01] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:16:01] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:16:01] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:16:01] Result: FAILED (no snapshot)
 
-[2026-04-28 19:52:00] [51/52] Article: “Tompkins Square”
-[2026-04-28 19:52:00] Original URL: https://www.newyorker.com/magazine/2026/05/04/tompkins-square-anthony-walton-poem
-[2026-04-28 19:52:05] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:52:05] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:52:05] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:52:05] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:52:05] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:52:05] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:52:05] Result: FAILED (no snapshot)
+[2026-04-28 21:16:01] [51/52] Article: “Tompkins Square”
+[2026-04-28 21:16:01] Original URL: https://www.newyorker.com/magazine/2026/05/04/tompkins-square-anthony-walton-poem
+[2026-04-28 21:16:06] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:16:06] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:16:06] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:16:06] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:16:06] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:16:06] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:16:06] Result: FAILED (no snapshot)
 
-[2026-04-28 19:52:05] [52/52] Article: “A Theory on the Origin of Language”
-[2026-04-28 19:52:05] Original URL: https://www.newyorker.com/magazine/2026/05/04/a-theory-on-the-origin-of-language-tishani-doshi-poem
-[2026-04-28 19:52:10] [archive.is] disabled earlier, skipping.
-[2026-04-28 19:52:10] [archive.ph] disabled earlier, skipping.
-[2026-04-28 19:52:10] [archive.md] disabled earlier, skipping.
-[2026-04-28 19:52:10] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:52:10] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:52:10] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
-[2026-04-28 19:52:10] Result: FAILED (no snapshot)
+[2026-04-28 21:16:06] [52/52] Article: “A Theory on the Origin of Language”
+[2026-04-28 21:16:06] Original URL: https://www.newyorker.com/magazine/2026/05/04/a-theory-on-the-origin-of-language-tishani-doshi-poem
+[2026-04-28 21:16:11] [archive.is] disabled earlier, skipping.
+[2026-04-28 21:16:11] [archive.ph] disabled earlier, skipping.
+[2026-04-28 21:16:11] [archive.md] disabled earlier, skipping.
+[2026-04-28 21:16:11] Domain archive.is was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:16:11] Domain archive.ph was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:16:11] Domain archive.md was disabled because: 429 Too Many Requests during direct lookup
+[2026-04-28 21:16:11] Result: FAILED (no snapshot)
 
-[2026-04-28 19:52:10] === Output written with 0 entries ===
-[2026-04-28 19:52:10] === Job Finished ===
+[2026-04-28 21:16:11] === Output written with 0 entries ===
+[2026-04-28 21:16:11] === Job Finished ===
