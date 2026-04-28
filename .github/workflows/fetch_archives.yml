@@ -11,6 +11,7 @@ permissions:
 jobs:
   fetch-and-push:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Private Repo
         uses: actions/checkout@v4
@@ -24,12 +25,14 @@ jobs:
           python-version: '3.11'
 
       - name: Install Dependencies
-        run: pip install requests beautifulsoup4 feedparser lxml
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 feedparser lxml
 
       - name: Run Fetcher Script
         run: python scripts/fetcher_v2.py
         env:
-          PYTHONUNBUFFERED: 1
+          PYTHONUNBUFFERED: "1"
 
       - name: Commit and Push Changes
         uses: EndBug/add-and-commit@v9
@@ -37,7 +40,7 @@ jobs:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
           message: 'Update article archive links [skip ci]'
-          add: 'articles log.txt processed_urls.txt'
+          add: '.'          # همهٔ تغییرها را اضافه کن (ایمن‌تر از path خاص)
           push: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
