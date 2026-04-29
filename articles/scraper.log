@@ -1,0 +1,126 @@
+[2026-04-29 04:57:44 UTC] ================================================================================
+[2026-04-29 04:57:44 UTC] Starting archive snapshot retrieval (IMPROVED VERSION)
+[2026-04-29 04:57:44 UTC] ================================================================================
+[2026-04-29 04:57:44 UTC] Loaded 0 previously seen articles
+[2026-04-29 04:57:44 UTC] Scraping Foreign Affairs...
+[2026-04-29 04:57:45 UTC] Found 2 articles from Foreign Affairs
+[2026-04-29 04:57:48 UTC] Scraping Foreign Policy...
+[2026-04-29 04:57:48 UTC] Found 134 articles from Foreign Policy
+[2026-04-29 04:57:51 UTC] Scraping New Yorker...
+[2026-04-29 04:57:51 UTC] Found 43 articles from New Yorker
+[2026-04-29 04:57:54 UTC] 
+Total articles found: 179
+[2026-04-29 04:57:54 UTC] New articles to process: 179
+[2026-04-29 04:57:54 UTC] ⚠️  Limiting to 8 articles per run (found 179)
+[2026-04-29 04:57:54 UTC] 
+────────────────────────────────────────────────────────────────────────────────
+[2026-04-29 04:57:54 UTC] Processing article 1/8
+[2026-04-29 04:57:54 UTC] Title: East African Autocrats Blame “Outsiders” for Popular Discontent
+[2026-04-29 04:57:54 UTC] Source: Foreign Affairs
+[2026-04-29 04:57:54 UTC] 
+============================================================
+[2026-04-29 04:57:54 UTC] Looking for snapshot of: https://www.cfr.org/articles/east-african-autocrats-blame-outsiders-for-popular-discontent
+[2026-04-29 04:57:54 UTC] Trying archive.is...
+[2026-04-29 04:57:54 UTC] Requesting archive.is (direct lookup)...
+[2026-04-29 04:57:56 UTC] ⚠️  Rate limited by archive.is during direct lookup
+[2026-04-29 04:57:56 UTC] ⏸️  PAUSED archive.is for 180s (attempt 1/3): 429 during direct lookup
+[2026-04-29 04:57:56 UTC] Waiting 8s before trying next domain...
+[2026-04-29 04:58:04 UTC] Trying archive.ph...
+[2026-04-29 04:58:04 UTC] Requesting archive.ph (direct lookup)...
+[2026-04-29 04:58:05 UTC] ⚠️  Rate limited by archive.ph during direct lookup
+[2026-04-29 04:58:05 UTC] ⏸️  PAUSED archive.ph for 180s (attempt 1/3): 429 during direct lookup
+[2026-04-29 04:58:05 UTC] Waiting 8s before trying next domain...
+[2026-04-29 04:58:13 UTC] Trying archive.md...
+[2026-04-29 04:58:13 UTC] Requesting archive.md (direct lookup)...
+[2026-04-29 04:58:14 UTC] ⚠️  Rate limited by archive.md during direct lookup
+[2026-04-29 04:58:14 UTC] ⏸️  PAUSED archive.md for 180s (attempt 1/3): 429 during direct lookup
+[2026-04-29 04:58:14 UTC] ❌ FAILED: No snapshot found (tried 3 domains)
+[2026-04-29 04:58:14 UTC] 
+Waiting 20s before next article...
+[2026-04-29 04:58:34 UTC] 
+────────────────────────────────────────────────────────────────────────────────
+[2026-04-29 04:58:34 UTC] Processing article 2/8
+[2026-04-29 04:58:34 UTC] Title: Why the UAE Walked Out on OPEC—and What It Means for the Cartel
+[2026-04-29 04:58:34 UTC] Source: Foreign Affairs
+[2026-04-29 04:58:34 UTC] 
+============================================================
+[2026-04-29 04:58:34 UTC] Looking for snapshot of: https://www.cfr.org/articles/why-the-uae-walked-out-on-opec-and-what-it-means-for-the-cartel
+[2026-04-29 04:58:34 UTC] ⚠️  No available domains at the moment
+[2026-04-29 04:58:34 UTC] ❌ FAILED: No snapshot found (tried 0 domains)
+[2026-04-29 04:58:34 UTC] 
+Waiting 20s before next article...
+[2026-04-29 04:58:54 UTC] 
+────────────────────────────────────────────────────────────────────────────────
+[2026-04-29 04:58:54 UTC] Processing article 3/8
+[2026-04-29 04:58:54 UTC] Title: Hormuz blockade
+[2026-04-29 04:58:54 UTC] Source: Foreign Policy
+[2026-04-29 04:58:54 UTC] 
+============================================================
+[2026-04-29 04:58:54 UTC] Looking for snapshot of: https://foreignpolicy.com/2026/04/28/iran-war-hormuz-trump-oil-storage-blockade-energy/
+[2026-04-29 04:58:54 UTC] ⚠️  No available domains at the moment
+[2026-04-29 04:58:54 UTC] ❌ FAILED: No snapshot found (tried 0 domains)
+[2026-04-29 04:58:54 UTC] 
+Waiting 20s before next article...
+[2026-04-29 04:59:14 UTC] 
+────────────────────────────────────────────────────────────────────────────────
+[2026-04-29 04:59:14 UTC] Processing article 4/8
+[2026-04-29 04:59:14 UTC] Title: Global trade shocks
+[2026-04-29 04:59:14 UTC] Source: Foreign Policy
+[2026-04-29 04:59:14 UTC] 
+============================================================
+[2026-04-29 04:59:14 UTC] Looking for snapshot of: https://foreignpolicy.com/2026/04/27/iran-war-hormuz-strait-helium-semiconductors-chips-supply-chain-prices/
+[2026-04-29 04:59:14 UTC] ⚠️  No available domains at the moment
+[2026-04-29 04:59:14 UTC] ❌ FAILED: No snapshot found (tried 0 domains)
+[2026-04-29 04:59:14 UTC] 
+Waiting 20s before next article...
+[2026-04-29 04:59:34 UTC] 
+────────────────────────────────────────────────────────────────────────────────
+[2026-04-29 04:59:34 UTC] Processing article 5/8
+[2026-04-29 04:59:34 UTC] Title: Untitled
+[2026-04-29 04:59:34 UTC] Source: Foreign Policy
+[2026-04-29 04:59:34 UTC] 
+============================================================
+[2026-04-29 04:59:34 UTC] Looking for snapshot of: https://foreignpolicy.com/2026/04/28/iran-war-hormuz-trump-oil-storage-blockade-energy/
+[2026-04-29 04:59:34 UTC] ⚠️  No available domains at the moment
+[2026-04-29 04:59:34 UTC] ❌ FAILED: No snapshot found (tried 0 domains)
+[2026-04-29 04:59:34 UTC] 
+Waiting 20s before next article...
+[2026-04-29 04:59:54 UTC] 
+────────────────────────────────────────────────────────────────────────────────
+[2026-04-29 04:59:54 UTC] Processing article 6/8
+[2026-04-29 04:59:54 UTC] Title: Why Iran Isn’t Blinking Yet
+[2026-04-29 04:59:54 UTC] Source: Foreign Policy
+[2026-04-29 04:59:54 UTC] 
+============================================================
+[2026-04-29 04:59:54 UTC] Looking for snapshot of: https://foreignpolicy.com/2026/04/28/iran-war-hormuz-trump-oil-storage-blockade-energy/
+[2026-04-29 04:59:54 UTC] ⚠️  No available domains at the moment
+[2026-04-29 04:59:54 UTC] ❌ FAILED: No snapshot found (tried 0 domains)
+[2026-04-29 04:59:54 UTC] 
+Waiting 20s before next article...
+[2026-04-29 05:00:14 UTC] 
+────────────────────────────────────────────────────────────────────────────────
+[2026-04-29 05:00:14 UTC] Processing article 7/8
+[2026-04-29 05:00:14 UTC] Title: The Iran War Is Tearing Trump’s Coalition Apart
+[2026-04-29 05:00:14 UTC] Source: Foreign Policy
+[2026-04-29 05:00:14 UTC] 
+============================================================
+[2026-04-29 05:00:14 UTC] Looking for snapshot of: https://foreignpolicy.com/2026/04/28/iran-war-trump-coalition-maga-america-first/
+[2026-04-29 05:00:14 UTC] ⚠️  No available domains at the moment
+[2026-04-29 05:00:14 UTC] ❌ FAILED: No snapshot found (tried 0 domains)
+[2026-04-29 05:00:14 UTC] 
+Waiting 20s before next article...
+[2026-04-29 05:00:34 UTC] 
+────────────────────────────────────────────────────────────────────────────────
+[2026-04-29 05:00:34 UTC] Processing article 8/8
+[2026-04-29 05:00:34 UTC] Title: What Congress Could Do to Stop the War
+[2026-04-29 05:00:34 UTC] Source: Foreign Policy
+[2026-04-29 05:00:34 UTC] 
+============================================================
+[2026-04-29 05:00:34 UTC] Looking for snapshot of: https://foreignpolicy.com/2026/04/28/congress-stop-iran-war-budget/
+[2026-04-29 05:00:34 UTC] ⚠️  No available domains at the moment
+[2026-04-29 05:00:34 UTC] ❌ FAILED: No snapshot found (tried 0 domains)
+[2026-04-29 05:00:34 UTC] Output written with 0 entries
+[2026-04-29 05:00:34 UTC] 
+================================================================================
+[2026-04-29 05:00:34 UTC] SUMMARY: Processed 8 articles, archived 0
+[2026-04-29 05:00:34 UTC] ================================================================================
