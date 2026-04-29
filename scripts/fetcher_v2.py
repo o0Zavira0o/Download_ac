@@ -1,594 +1,464 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+"""
+Fetch latest articles from Foreign Affairs, Foreign Policy, and New Yorker,
+then retrieve their archive.is/ph/md snapshots.
+Improved version with better rate-limit handling.
+"""
 
 import os
 import re
+import sys
 import time
-from datetime import datetime, timedelta, timezone
-from urllib.parse import urljoin, quote_plus, urlparse
+from datetime import datetime, timezone
+from typing import List, Dict, Optional
+from urllib.parse import quote_plus, urlparse
 
-import feedparser
 import requests
 from bs4 import BeautifulSoup
 
-# ------------------------------
-# تنظیمات اصلی
-# ------------------------------
-REPO_DIR = "articles"
-LOG_FILE = "log.txt"
-HISTORY_FILE = "processed_urls.txt"
-
+# ─────────────────────────────────────────────────────────────────────────────
+# Configuration
+# ─────────────────────────────────────────────────────────────────────────────
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/120.0.0.0 Safari/537.36"
 )
-TIMEOUT = 20
-MAX_AGE_HOURS = 48           # نگه‌داشتن ۴۸ ساعت آخر
-REQUEST_DELAY = 5            # مکث بین مقاله‌ها (ثانیه)
+TIMEOUT = 30
+REQUEST_DELAY = 20  # افزایش از ۵ به ۲۰ ثانیه
+INTER_DOMAIN_DELAY = 8  # تأخیر بین دامنه‌ها
+MAX_ARTICLES_PER_RUN = 8  # محدودیت تعداد مقالات در هر اجرا
+RETRY_COOLDOWN = 180  # ۳ دقیقه مکث بعد از 429
 
-ARCHIVE_DOMAINS = [
-    "archive.is",
-    "archive.ph",
-    "archive.md",
-]
+ARCHIVE_DOMAINS = ["archive.is", "archive.ph", "archive.md"]
 
-# وضعیت هر دامنه در این اجرای workflow
-DOMAIN_STATUS = {
-    dom: {"enabled": True, "reason": None} for dom in ARCHIVE_DOMAINS
+SOURCES = {
+    "Foreign Affairs": "https://www.foreignaffairs.com",
+    "Foreign Policy": "https://foreignpolicy.com",
+    "New Yorker": "https://www.newyorker.com",
 }
 
-SOURCES = [
-    {
-        "name": "Foreign_Affairs",
-        "rss": "https://www.foreignaffairs.com/rss.xml",
-    },
-    {
-        "name": "Foreign_Policy",
-        "rss": "https://foreignpolicy.com/feed/",
-    },
-    {
-        "name": "New_Yorker_Magazine",
-        "rss": "https://www.newyorker.com/feed/everything",
-        "url_filter": "/magazine/",
-    },
-]
+OUTPUT_FILE = "articles/latest_archives.txt"
+SEEN_FILE = "articles/seen_articles.txt"
+LOG_FILE = "articles/scraper.log"
 
-# ------------------------------
-# لاگ
-# ------------------------------
-def reset_log() -> None:
-    with open(LOG_FILE, "w", encoding="utf-8") as f:
-        f.write("")
+# ─────────────────────────────────────────────────────────────────────────────
+# Domain status tracking with retry logic
+# ─────────────────────────────────────────────────────────────────────────────
+DOMAIN_STATUS = {
+    domain: {
+        "enabled": True,
+        "reason": None,
+        "retry_after": None,
+        "fail_count": 0,
+        "last_success": None,
+    }
+    for domain in ARCHIVE_DOMAINS
+}
+
+current_domain_index = 0  # برای round-robin
 
 
-def write_log(msg: str) -> None:
-    ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    line = f"[{ts}] {msg}"
-    print(line)
+def write_log(message: str):
+    """Write timestamped log message."""
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    log_line = f"[{timestamp}] {message}\n"
+    print(log_line.rstrip())
     with open(LOG_FILE, "a", encoding="utf-8") as f:
-        f.write(line + "\n")
+        f.write(log_line)
 
 
-# ------------------------------
-# تاریخچه
-# ------------------------------
-def ensure_history_file() -> None:
-    if not os.path.exists(HISTORY_FILE):
-        open(HISTORY_FILE, "a", encoding="utf-8").close()
+def disable_domain_temporarily(domain: str, reason: str, cooldown: int = RETRY_COOLDOWN):
+    """Temporarily disable domain with retry capability."""
+    st = DOMAIN_STATUS[domain]
+    st["fail_count"] += 1
+    
+    # بعد از ۳ خطای متوالی، کاملاً غیرفعال کن
+    if st["fail_count"] >= 3:
+        st["enabled"] = False
+        st["reason"] = f"{reason} (after {st['fail_count']} consecutive failures)"
+        write_log(f"❌ PERMANENTLY disabled {domain}: {st['reason']}")
+    else:
+        st["retry_after"] = time.time() + cooldown
+        write_log(
+            f"⏸️  PAUSED {domain} for {cooldown}s (attempt {st['fail_count']}/3): {reason}"
+        )
 
 
-def load_history() -> set:
-    if not os.path.exists(HISTORY_FILE):
+def can_use_domain(domain: str) -> bool:
+    """Check if domain is available for use."""
+    st = DOMAIN_STATUS[domain]
+    
+    if not st["enabled"]:
+        return False
+    
+    # اگر در حال مکث است
+    if st["retry_after"] and time.time() < st["retry_after"]:
+        return False
+    
+    # اگر زمان مکث تمام شده، دوباره فعال کن
+    if st["retry_after"] and time.time() >= st["retry_after"]:
+        st["retry_after"] = None
+        st["fail_count"] = max(0, st["fail_count"] - 1)  # کاهش تعداد خطا
+        write_log(f"✅ Re-enabled {domain} after cooldown")
+    
+    return True
+
+
+def mark_domain_success(domain: str):
+    """Mark successful request to domain."""
+    st = DOMAIN_STATUS[domain]
+    st["last_success"] = time.time()
+    st["fail_count"] = max(0, st["fail_count"] - 1)  # کاهش تدریجی fail count
+
+
+def get_next_available_domain() -> Optional[str]:
+    """Get next available domain using round-robin."""
+    global current_domain_index
+    
+    for _ in range(len(ARCHIVE_DOMAINS)):
+        domain = ARCHIVE_DOMAINS[current_domain_index]
+        current_domain_index = (current_domain_index + 1) % len(ARCHIVE_DOMAINS)
+        
+        if can_use_domain(domain):
+            return domain
+    
+    return None
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Utility functions
+# ─────────────────────────────────────────────────────────────────────────────
+def load_seen_articles() -> set:
+    """Load previously seen article URLs."""
+    if not os.path.exists(SEEN_FILE):
         return set()
-    with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-        return {line.strip() for line in f if line.strip()}
+    with open(SEEN_FILE, "r", encoding="utf-8") as f:
+        return set(line.strip() for line in f if line.strip())
 
 
-def save_history(new_urls: set) -> None:
-    history = load_history()
-    history.update(new_urls)
-    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-        for url in sorted(history):
+def save_seen_articles(seen: set):
+    """Save seen article URLs."""
+    os.makedirs(os.path.dirname(SEEN_FILE), exist_ok=True)
+    with open(SEEN_FILE, "w", encoding="utf-8") as f:
+        for url in sorted(seen):
             f.write(url + "\n")
 
 
-# ------------------------------
-# RSS helpers
-# ------------------------------
-def parse_date_rfc2822(date_str: str):
-    from email.utils import parsedate_to_datetime
+def fetch_page(url: str) -> Optional[str]:
+    """Fetch page content with error handling."""
     try:
-        dt = parsedate_to_datetime(date_str)
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        return dt
-    except Exception:
+        headers = {"User-Agent": USER_AGENT}
+        resp = requests.get(url, headers=headers, timeout=TIMEOUT)
+        resp.raise_for_status()
+        return resp.text
+    except Exception as e:
+        write_log(f"Error fetching {url}: {e}")
         return None
 
 
-def fetch_from_rss(rss_url: str, source_name: str, url_filter: str | None = None) -> list:
+# ─────────────────────────────────────────────────────────────────────────────
+# Article extraction
+# ─────────────────────────────────────────────────────────────────────────────
+def extract_foreign_affairs_articles(html: str, base_url: str) -> List[Dict]:
+    """Extract articles from Foreign Affairs."""
+    soup = BeautifulSoup(html, "html.parser")
     articles = []
-    write_log(f"Fetching RSS for {source_name}: {rss_url}")
-
-    try:
-        headers = {"User-Agent": USER_AGENT}
-        r = requests.get(rss_url, headers=headers, timeout=TIMEOUT)
-        r.raise_for_status()
-
-        feed = feedparser.parse(r.text)
-        cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
-
-        for entry in feed.entries:
-            link = entry.get("link")
-            if not link:
-                continue
-            if url_filter and url_filter not in link:
-                continue
-
-            pub_date = None
-            if getattr(entry, "published_parsed", None):
-                pub_date = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
-            elif getattr(entry, "updated_parsed", None):
-                pub_date = datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc)
-            elif getattr(entry, "published", None):
-                pub_date = parse_date_rfc2822(entry.published)
-
-            if not pub_date or pub_date < cutoff:
-                continue
-
-            title = entry.get("title", "No Title").strip()
-            articles.append(
-                {
-                    "source": source_name,
-                    "title": title,
-                    "original_url": link,
-                    "pub_date": pub_date.isoformat(),
-                }
-            )
-
-        write_log(f"RSS {source_name}: {len(articles)} recent articles.")
-    except Exception as e:
-        write_log(f"RSS error [{source_name}]: {e}")
-
+    
+    for link in soup.select("a[href*='/articles/']"):
+        href = link.get("href", "")
+        if not href or "/articles/" not in href:
+            continue
+        
+        full_url = href if href.startswith("http") else base_url + href
+        title = link.get_text(strip=True) or "Untitled"
+        
+        articles.append({"title": title, "url": full_url, "source": "Foreign Affairs"})
+    
     return articles
 
 
-# ------------------------------
-# New Yorker HTML scrape
-# ------------------------------
-def scrape_newyorker_magazine_html() -> list:
-    url = "https://www.newyorker.com/magazine"
+def extract_foreign_policy_articles(html: str, base_url: str) -> List[Dict]:
+    """Extract articles from Foreign Policy."""
+    soup = BeautifulSoup(html, "html.parser")
     articles = []
-    write_log("Scraping New Yorker magazine HTML page...")
-
-    try:
-        headers = {"User-Agent": USER_AGENT}
-        r = requests.get(url, headers=headers, timeout=TIMEOUT)
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, "html.parser")
-
-        cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
-
-        for a in soup.select('a[data-link-type="article"], a[href*="/magazine/"]'):
-            href = a.get("href")
-            if not href:
-                continue
-            full_url = urljoin("https://www.newyorker.com", href)
-            if "/magazine/" not in full_url:
-                continue
-
-            m = re.search(r"/magazine/(\d{4})/(\d{2})/(\d{2})/", full_url)
-            if not m:
-                continue
-
-            y, mth, d = map(int, m.groups())
-            pub_date = datetime(y, mth, d, tzinfo=timezone.utc)
-            if pub_date < cutoff:
-                continue
-
-            title = a.get_text(strip=True) or "Magazine Article"
-            articles.append(
-                {
-                    "source": "New_Yorker_Magazine",
-                    "title": title,
-                    "original_url": full_url,
-                    "pub_date": pub_date.isoformat(),
-                }
-            )
-
-        uniq = []
-        seen = set()
-        for art in articles:
-            if art["original_url"] not in seen:
-                seen.add(art["original_url"])
-                uniq.append(art)
-
-        write_log(f"New Yorker HTML: {len(uniq)} recent magazine articles.")
-        return uniq
-
-    except Exception as e:
-        write_log(f"New Yorker HTML error: {e}")
-        return []
+    
+    for link in soup.select("a[href*='/20']"):
+        href = link.get("href", "")
+        if not href or not re.search(r"/\d{4}/\d{2}/\d{2}/", href):
+            continue
+        
+        full_url = href if href.startswith("http") else base_url + href
+        title = link.get_text(strip=True) or "Untitled"
+        
+        articles.append({"title": title, "url": full_url, "source": "Foreign Policy"})
+    
+    return articles
 
 
-# ------------------------------
-# Archive helpers
-# ------------------------------
-def disable_domain(domain: str, reason: str) -> None:
-    st = DOMAIN_STATUS.get(domain)
-    if st and st["enabled"]:
-        st["enabled"] = False
-        st["reason"] = reason
-        write_log(f"!! Disabling {domain} for this run: {reason}")
+def extract_newyorker_articles(html: str, base_url: str) -> List[Dict]:
+    """Extract articles from New Yorker."""
+    soup = BeautifulSoup(html, "html.parser")
+    articles = []
+    
+    for link in soup.select("a[href*='/magazine/'], a[href*='/news/'], a[href*='/culture/']"):
+        href = link.get("href", "")
+        if not href:
+            continue
+        
+        full_url = href if href.startswith("http") else base_url + href
+        title = link.get_text(strip=True) or "Untitled"
+        
+        articles.append({"title": title, "url": full_url, "source": "New Yorker"})
+    
+    return articles
 
 
-def normalize_snapshot_url(domain: str, url: str) -> str:
-    url = url.strip()
-    if url.startswith("//"):
-        url = "https:" + url
-    elif url.startswith("/"):
-        url = f"https://{domain}{url}"
-    return url
+def scrape_latest_articles() -> List[Dict]:
+    """Scrape latest articles from all sources."""
+    all_articles = []
+    
+    for source_name, base_url in SOURCES.items():
+        write_log(f"Scraping {source_name}...")
+        html = fetch_page(base_url)
+        
+        if not html:
+            write_log(f"Failed to fetch {source_name}")
+            continue
+        
+        if source_name == "Foreign Affairs":
+            articles = extract_foreign_affairs_articles(html, base_url)
+        elif source_name == "Foreign Policy":
+            articles = extract_foreign_policy_articles(html, base_url)
+        elif source_name == "New Yorker":
+            articles = extract_newyorker_articles(html, base_url)
+        else:
+            articles = []
+        
+        write_log(f"Found {len(articles)} articles from {source_name}")
+        all_articles.extend(articles)
+        
+        time.sleep(3)  # مکث بین سایت‌ها
+    
+    return all_articles
 
 
-def is_short_snapshot_url(domain: str, url: str) -> bool:
-    url = normalize_snapshot_url(domain, url)
-    p = urlparse(url)
-    if domain not in p.netloc:
-        return False
-    if "/submit" in p.path or "/search" in p.path:
-        return False
-    m = re.match(r"^/([A-Za-z0-9]{3,12})(?:[/?#]|$)", p.path)
-    return bool(m)
-
-
-def is_long_snapshot_url(domain: str, url: str) -> bool:
-    url = normalize_snapshot_url(domain, url)
-    p = urlparse(url)
-    if domain not in p.netloc:
-        return False
-    if "/submit" in p.path or "/search" in p.path:
-        return False
-    m = re.match(r"^/\d{8,14}/https?://", p.path)
-    return bool(m)
-
-
-def fetch_url_from_domain(domain: str, full_url: str, purpose: str):
-    """
-    یک GET ساده روی دامنهٔ مشخص؛
-    روی 429، 5xx، timeout و connection error آن دامنه را برای باقی اجرای فعلی غیرفعال می‌کند.
-    """
-    if not DOMAIN_STATUS[domain]["enabled"]:
+# ─────────────────────────────────────────────────────────────────────────────
+# Archive snapshot retrieval (IMPROVED)
+# ─────────────────────────────────────────────────────────────────────────────
+def fetch_url_from_domain(domain: str, url: str, context: str) -> Optional[requests.Response]:
+    """Fetch URL from archive domain with improved error handling."""
+    if not can_use_domain(domain):
         return None
-
-    headers = {
-        "User-Agent": USER_AGENT,
-        "Referer": f"https://{domain}/",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    }
-
-    write_log(f"  [{domain}] {purpose}: {full_url[:120]}")
-
+    
     try:
-        resp = requests.get(
-            full_url,
-            headers=headers,
-            timeout=TIMEOUT,
-            allow_redirects=True,
-        )
+        headers = {
+            "User-Agent": USER_AGENT,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Connection": "keep-alive",
+        }
+        
+        write_log(f"Requesting {domain} ({context})...")
+        resp = requests.get(url, headers=headers, timeout=TIMEOUT, allow_redirects=True)
+        
+        if resp.status_code == 429:
+            write_log(f"⚠️  Rate limited by {domain} during {context}")
+            disable_domain_temporarily(domain, f"429 during {context}")
+            return None
+        
+        if resp.status_code == 404:
+            write_log(f"No snapshot found on {domain} (404)")
+            return None
+        
+        resp.raise_for_status()
+        mark_domain_success(domain)
+        return resp
+        
     except requests.exceptions.Timeout:
-        disable_domain(domain, f"timeout during {purpose}")
+        write_log(f"Timeout on {domain} during {context}")
         return None
-    except requests.exceptions.ConnectionError as e:
-        disable_domain(domain, f"connection error during {purpose}: {e}")
+    except requests.exceptions.RequestException as e:
+        write_log(f"Request error on {domain}: {e}")
+        if "429" in str(e):
+            disable_domain_temporarily(domain, f"429 in exception during {context}")
         return None
     except Exception as e:
-        disable_domain(domain, f"unexpected error during {purpose}: {e}")
+        write_log(f"Unexpected error on {domain}: {e}")
         return None
 
-    status = resp.status_code
-    write_log(f"  [{domain}] {purpose} status: {status}")
 
-    if status == 429:
-        disable_domain(domain, f"429 Too Many Requests during {purpose}")
-        return None
-    if 500 <= status < 600:
-        disable_domain(domain, f"{status} server error during {purpose}")
-        return None
-    if status >= 400:
-        # مثل 404 یا 403: دامنه هنوز قابل استفاده است، فقط این URL اسنپ‌شات ندارد.
-        write_log(f"  [{domain}] {purpose} returned {status}, continuing without disabling domain.")
-        return None
-
-    return resp
-
-
-def extract_snapshot_from_response(domain: str, resp, original_url: str) -> str | None:
-    """
-    سعی می‌کند:
-    ۱) اگر خود resp.url از نوع snapshot است، همان را برگرداند.
-    ۲) اگر نه، HTML را parse کند و از آن اسنپ‌شات‌ها را بیرون بکشد.
-    """
+def extract_snapshot_from_response(domain: str, resp: requests.Response, original_url: str) -> Optional[str]:
+    """Extract snapshot URL from response."""
     final_url = resp.url
-    if is_short_snapshot_url(domain, final_url) or is_long_snapshot_url(domain, final_url):
-        snap = normalize_snapshot_url(domain, final_url)
-        write_log(f"  [{domain}] Final URL is snapshot: {snap}")
-        return snap
-
-    # اگر به صفحهٔ نتایج یا صفحهٔ فرم رسیدیم، HTML را بررسی می‌کنیم
-    snap = extract_snapshot_url_from_html(resp.text, domain, original_url)
-    if snap:
-        write_log(f"  [{domain}] Snapshot found in HTML: {snap}")
-        return snap
-
-    return None
-
-
-def extract_snapshot_url_from_html(html_content: str, domain: str, original_url: str) -> str | None:
-    """
-    HTML برگشتی از archive.{is,ph,md} را parse می‌کند و دنبال لینک آخرین snapshot می‌گردد.
-    منطق:
-      - لینک‌هایی که path شبیه /maUkD دارند (کد کوتاه)
-      - اگر نبود، لینک‌های timestampی مثل /20260428123456/https://...
-    """
-    soup = BeautifulSoup(html_content, "html.parser")
-
-    short_candidates: list[str] = []
-    long_candidates: list[str] = []
-
-    for a in soup.find_all("a", href=True):
-        raw_href = a.get("href", "").strip()
-        if not raw_href:
-            continue
-
-        url = normalize_snapshot_url(domain, raw_href)
-        if domain not in url:
-            continue
-
-        p = urlparse(url)
-        path = p.path or "/"
-
-        if "/submit" in path or "/search" in path:
-            continue
-
-        if re.match(r"^/([A-Za-z0-9]{3,12})(?:[/?#]|$)", path):
-            if url not in short_candidates:
-                short_candidates.append(url)
-        elif re.match(r"^/\d{8,14}/https?://", path):
-            if url not in long_candidates:
-                long_candidates.append(url)
-
-    if short_candidates:
-        # فرض: جدیدترین snapshot بالای لیست است
-        return short_candidates[0]
-    if long_candidates:
-        return long_candidates[0]
-
-    return None
-
-
-def get_latest_snapshot_from_domain(domain: str, original_url: str) -> str | None:
-    """
-    روی یک دامنه:
-      ۱) سعی می‌کند GET به https://domain/<original_url> (مثل چیزی که دستی می‌زنی).
-      ۲) اگر از آن چیزی درنیامد، GET به https://domain/search/?q=<original_url>.
-    """
-    if not DOMAIN_STATUS[domain]["enabled"]:
+    
+    # اگر به صفحه submit redirect شده، snapshot وجود ندارد
+    if "/submit/" in final_url.lower():
         return None
+    
+    # اگر URL اصلی در final_url هست، snapshot پیدا شده
+    parsed_original = urlparse(original_url)
+    if parsed_original.netloc in final_url:
+        write_log(f"✓ Found snapshot: {final_url}")
+        return final_url
+    
+    return None
 
-    # مرحله ۱: مستقیم /<original_url>
+
+def get_latest_snapshot_from_domain(domain: str, original_url: str) -> Optional[str]:
+    """
+    Get latest snapshot from specific archive domain.
+    ONLY uses direct lookup (no search page) to minimize requests.
+    """
+    if not can_use_domain(domain):
+        return None
+    
+    # فقط direct lookup
     direct_url = f"https://{domain}/{original_url}"
     resp = fetch_url_from_domain(domain, direct_url, "direct lookup")
+    
     if resp:
-        snap = extract_snapshot_from_response(domain, resp, original_url)
-        if snap:
-            return snap
-
-    # مرحله ۲: صفحهٔ search
-    search_url = f"https://{domain}/search/?q={quote_plus(original_url)}"
-    resp = fetch_url_from_domain(domain, search_url, "search page")
-    if resp:
-        snap = extract_snapshot_from_response(domain, resp, original_url)
-        if snap:
-            return snap
-
+        snapshot = extract_snapshot_from_response(domain, resp, original_url)
+        if snapshot:
+            return snapshot
+    
     return None
 
 
-def get_archive_snapshot_url(original_url: str) -> str | None:
+def get_archive_snapshot(original_url: str) -> Optional[str]:
     """
-    تابع اصلی آرشیو:
-      - به ترتیب روی archive.is → archive.ph → archive.md تست می‌کند.
-      - اولین دامنه‌ای که snapshot معتبر برگرداند، نتیجهٔ نهایی است.
-      - اگر هیچ‌کدام نشد، در لاگ توضیح می‌دهد که چه شد.
+    Try to get archive snapshot using round-robin domain selection.
     """
-    for domain in ARCHIVE_DOMAINS:
-        if not DOMAIN_STATUS[domain]["enabled"]:
-            write_log(f"[{domain}] disabled earlier, skipping.")
+    write_log(f"\n{'='*60}")
+    write_log(f"Looking for snapshot of: {original_url}")
+    
+    # سعی در استفاده از دامنه‌های مختلف
+    tried_domains = []
+    
+    for attempt in range(len(ARCHIVE_DOMAINS)):
+        domain = get_next_available_domain()
+        
+        if not domain:
+            write_log("⚠️  No available domains at the moment")
+            break
+        
+        if domain in tried_domains:
             continue
-
-        write_log(f"Trying domain {domain} for URL: {original_url}")
-        snap = get_latest_snapshot_from_domain(domain, original_url)
-        if snap:
-            write_log(f"✓ Success on {domain}: {snap}")
-            return snap
-
-        write_log(f"✗ No snapshot via {domain}, checking next domain...\n")
-        time.sleep(2)  # مکث کوتاه بین دامنه‌ها
-
-    # اگر هیچ دامنه‌ای جواب نداد، دلیل غیرفعال شدن‌ها را لاگ کن
-    for dom, st in DOMAIN_STATUS.items():
-        if not st["enabled"] and st["reason"]:
-            write_log(f"Domain {dom} was disabled because: {st['reason']}")
-
+        
+        tried_domains.append(domain)
+        write_log(f"Trying {domain}...")
+        
+        snapshot = get_latest_snapshot_from_domain(domain, original_url)
+        
+        if snapshot:
+            write_log(f"✅ SUCCESS via {domain}")
+            return snapshot
+        
+        # مکث بین دامنه‌ها
+        if attempt < len(ARCHIVE_DOMAINS) - 1:
+            write_log(f"Waiting {INTER_DOMAIN_DELAY}s before trying next domain...")
+            time.sleep(INTER_DOMAIN_DELAY)
+    
+    write_log(f"❌ FAILED: No snapshot found (tried {len(tried_domains)} domains)")
     return None
 
 
-# ------------------------------
-# خواندن خروجی موجود
-# ------------------------------
-def load_existing_output() -> list:
-    out_path = os.path.join(REPO_DIR, "latest_archives.txt")
-    if not os.path.exists(out_path):
-        return []
-
-    entries = []
-    try:
-        with open(out_path, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-
-        i = 0
-        while i < len(lines):
-            line = lines[i].strip()
-            if line.startswith("[") and "]" in line:
-                entry = {}
-                header = line
-                parts = header.split("]", 1)
-                entry["source"] = parts[0][1:]
-                entry["title"] = parts[1].strip() if len(parts) > 1 else ""
-
-                if i + 1 < len(lines) and lines[i + 1].startswith("Published:"):
-                    entry["pub_date"] = lines[i + 1].replace("Published:", "").strip()
-                    i += 1
-
-                if i + 1 < len(lines) and lines[i + 1].startswith("Original:"):
-                    entry["original_url"] = lines[i + 1].replace("Original:", "").strip()
-                    i += 1
-
-                if i + 1 < len(lines) and lines[i + 1].startswith("Archive :"):
-                    entry["archive_url"] = lines[i + 1].replace("Archive :", "").strip()
-                    i += 1
-
-                if i + 1 < len(lines) and lines[i + 1].startswith("---"):
-                    i += 1
-
-                if all(
-                    k in entry
-                    for k in ("source", "title", "original_url", "archive_url", "pub_date")
-                ):
-                    entries.append(entry)
-
-            i += 1
-
-    except Exception as e:
-        write_log(f"Error reading existing output: {e}")
-        return []
-
-    return entries
-
-
-# ------------------------------
-# main
-# ------------------------------
+# ─────────────────────────────────────────────────────────────────────────────
+# Main workflow
+# ─────────────────────────────────────────────────────────────────────────────
 def main():
-    reset_log()
-    write_log("=== Job Started (archive.is / archive.ph / archive.md) ===")
-
-    try:
-        os.makedirs(REPO_DIR, exist_ok=True)
-        ensure_history_file()
-
-        history = load_history()
-        write_log(f"History loaded: {len(history)} URLs\n")
-
-        # ۱) جمع‌آوری مقالات جدید
-        new_articles: list[dict] = []
-        for src in SOURCES:
-            rss_articles = fetch_from_rss(
-                rss_url=src["rss"],
-                source_name=src["name"],
-                url_filter=src.get("url_filter"),
-            )
-            for art in rss_articles:
-                if art["original_url"] not in history:
-                    new_articles.append(art)
-
-        ny_html_articles = scrape_newyorker_magazine_html()
-        for art in ny_html_articles:
-            if art["original_url"] not in history:
-                new_articles.append(art)
-
-        write_log(f"\nTotal new articles to process: {len(new_articles)}\n")
-
-        # ۲) آرشیو در archive.is / .ph / .md
-        new_archive_entries = []
-        new_urls_set = set()
-        new_articles.sort(key=lambda a: a["pub_date"])
-
-        for idx, art in enumerate(new_articles, 1):
-            write_log(f"[{idx}/{len(new_articles)}] Article: {art['title'][:80]}")
-            write_log(f"Original URL: {art['original_url']}")
+    write_log("="*80)
+    write_log("Starting archive snapshot retrieval (IMPROVED VERSION)")
+    write_log("="*80)
+    
+    # Load seen articles
+    seen = load_seen_articles()
+    write_log(f"Loaded {len(seen)} previously seen articles")
+    
+    # Scrape latest articles
+    all_articles = scrape_latest_articles()
+    write_log(f"\nTotal articles found: {len(all_articles)}")
+    
+    # Filter new articles
+    new_articles = [a for a in all_articles if a["url"] not in seen]
+    write_log(f"New articles to process: {len(new_articles)}")
+    
+    if not new_articles:
+        write_log("No new articles found. Exiting.")
+        return
+    
+    # محدود کردن تعداد مقالات
+    if len(new_articles) > MAX_ARTICLES_PER_RUN:
+        write_log(f"⚠️  Limiting to {MAX_ARTICLES_PER_RUN} articles per run (found {len(new_articles)})")
+        new_articles = new_articles[:MAX_ARTICLES_PER_RUN]
+    
+    # Process articles
+    archived = []
+    
+    for idx, article in enumerate(new_articles, 1):
+        write_log(f"\n{'─'*80}")
+        write_log(f"Processing article {idx}/{len(new_articles)}")
+        write_log(f"Title: {article['title']}")
+        write_log(f"Source: {article['source']}")
+        
+        snapshot_url = get_archive_snapshot(article["url"])
+        
+        if snapshot_url:
+            archived.append({
+                "title": article["title"],
+                "source": article["source"],
+                "original_url": article["url"],
+                "snapshot_url": snapshot_url,
+            })
+        
+        # Mark as seen
+        seen.add(article["url"])
+        
+        # مکث بین مقالات
+        if idx < len(new_articles):
+            write_log(f"\nWaiting {REQUEST_DELAY}s before next article...")
             time.sleep(REQUEST_DELAY)
+    
+    # Save results
+    save_seen_articles(seen)
+    write_output(archived)
+    
+    write_log("\n" + "="*80)
+    write_log(f"SUMMARY: Processed {len(new_articles)} articles, archived {len(archived)}")
+    write_log("="*80)
 
-            arch_url = get_archive_snapshot_url(art["original_url"])
-            if arch_url:
-                new_archive_entries.append(
-                    {
-                        "source": art["source"],
-                        "title": art["title"],
-                        "original_url": art["original_url"],
-                        "archive_url": arch_url,
-                        "pub_date": art["pub_date"],
-                    }
-                )
-                new_urls_set.add(art["original_url"])
-                write_log("Result: SUCCESS\n")
-            else:
-                write_log("Result: FAILED (no snapshot)\n")
 
-        if new_urls_set:
-            save_history(new_urls_set)
-            write_log(f"History updated: +{len(new_urls_set)} URLs\n")
-
-        # ۳) ترکیب با خروجی قبلی و حذف مقالات قدیمی‌تر از ۴۸ ساعت
-        cutoff = datetime.now(timezone.utc) - timedelta(hours=MAX_AGE_HOURS)
-        existing = load_existing_output()
-        final_entries = []
-        kept_urls = set()
-
-        for e in new_archive_entries:
-            final_entries.append(e)
-            kept_urls.add(e["original_url"])
-
-        for e in existing:
-            if e["original_url"] in kept_urls:
-                continue
-            try:
-                pub_dt = datetime.fromisoformat(e["pub_date"])
-                if pub_dt >= cutoff:
-                    final_entries.append(e)
-                    kept_urls.add(e["original_url"])
-            except Exception:
-                pass
-
-        final_entries.sort(key=lambda e: e["pub_date"], reverse=True)
-
-        # ۴) نوشتن فایل خروجی
-        out_path = os.path.join(REPO_DIR, "latest_archives.txt")
-        now_utc = datetime.now(timezone.utc)
-        with open(out_path, "w", encoding="utf-8") as f:
-            f.write(f"# Last Run: {now_utc.strftime('%Y-%m-%d %H:%M')} UTC\n")
-            f.write(f"# Articles published in last {MAX_AGE_HOURS} hours\n\n")
-
-            if final_entries:
-                for e in final_entries:
-                    f.write(f"[{e['source']}] {e['title']}\n")
-                    f.write(f"Published: {e['pub_date']}\n")
-                    f.write(f"Original: {e['original_url']}\n")
-                    f.write(f"Archive : {e['archive_url']}\n")
-                    f.write("---\n")
-            else:
-                f.write("No articles archived in this run.\n")
-
-        write_log(f"=== Output written with {len(final_entries)} entries ===")
-
-    except Exception as e:
-        write_log(f"FATAL ERROR: {e}")
-        raise
-    finally:
-        write_log("=== Job Finished ===")
+def write_output(archived: List[Dict]):
+    """Write archived articles to output file."""
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+    
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write("# Latest Archived Articles\n")
+        f.write(f"Generated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}\n\n")
+        
+        if not archived:
+            f.write("No articles archived in this run.\n")
+            write_log(f"Output written with 0 entries")
+            return
+        
+        for item in archived:
+            f.write(f"## {item['title']}\n")
+            f.write(f"**Source:** {item['source']}\n")
+            f.write(f"**Original:** {item['original_url']}\n")
+            f.write(f"**Archive:** {item['snapshot_url']}\n\n")
+            f.write("---\n\n")
+    
+    write_log(f"✅ Output written with {len(archived)} entries to {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        write_log("\n⚠️  Interrupted by user")
+        sys.exit(1)
+    except Exception as e:
+        write_log(f"\n❌ Fatal error: {e}")
+        import traceback
+        write_log(traceback.format_exc())
+        sys.exit(1)
