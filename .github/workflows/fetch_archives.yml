@@ -1,8 +1,8 @@
-name: Fetch Archived Article Links (Foreign Affairs/Policy/New Yorker)
+name: Fetch Latest Articles (FA / FP / New Yorker)
 
 on:
   schedule:
-    - cron: '0 * * * *'  # هر ساعت
+    - cron: '0 */2 * * *'   # هر ۲ ساعت یکبار، دقیقه ۰
   workflow_dispatch:
 
 permissions:
@@ -27,7 +27,7 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4 feedparser lxml
+          pip install requests beautifulsoup4 feedparser
 
       - name: Run Fetcher Script
         run: python scripts/fetcher_v2.py
@@ -39,7 +39,7 @@ jobs:
         with:
           author_name: github-actions[bot]
           author_email: github-actions[bot]@users.noreply.github.com
-          message: 'Update article archive links [skip ci]'
+          message: 'Update latest articles [skip ci]'
           add: '.'
           push: true
         env:
