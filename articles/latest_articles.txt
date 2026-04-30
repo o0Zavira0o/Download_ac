@@ -1,6 +1,10 @@
-# Last Run: 2026-04-30 21:03 UTC
+# Last Run: 2026-04-30 22:55 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Iran War Nears 60-Day War Powers Deadline
+Published: 2026-04-30T19:34:19+00:00
+Link: https://foreignpolicy.com/2026/04/30/hegseth-senate-testimony-iran-war-60-days-war-powers-resolution/
+---
 [Foreign_Policy] Giorgia Meloni’s Populist Formula Failed
 Published: 2026-04-30T18:27:52+00:00
 Link: https://foreignpolicy.com/2026/04/30/italy-giorgia-meloni-populist-economy-nationalism-referendum-approval/
@@ -144,8 +148,4 @@ Link: https://www.foreignaffairs.com/iran/let-iran-defeat-itself
 [Foreign_Affairs] The Disposable Oligarchs
 Published: 2026-04-28T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/disposable-oligarchs
----
-[Foreign_Policy] The U.S. Shouldn’t Rule the Seas Forever
-Published: 2026-04-27T21:16:50+00:00
-Link: https://foreignpolicy.com/2026/04/27/iran-us-war-hormuz-strait-blockade-trade-maritime-navy-strategy/
 ---
