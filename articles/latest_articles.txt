@@ -1,6 +1,18 @@
-# Last Run: 2026-04-30 03:21 UTC
+# Last Run: 2026-04-30 06:28 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] For What AI Could Do to Democracies, Look to the Petrostates
+Published: 2026-04-30T04:01:40+00:00
+Link: https://foreignpolicy.com/2026/04/30/petrostates-ai-democracies/
+---
+[Foreign_Affairs] The New Resource Curse
+Published: 2026-04-30T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/new-resource-curse
+---
+[Foreign_Affairs] What Drove Down America’s Fentanyl Deaths?
+Published: 2026-04-30T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/what-drove-down-americas-fentanyl-deaths
+---
 [Foreign_Policy] Where Is Iran’s Enriched Uranium?
 Published: 2026-04-29T21:38:53+00:00
 Link: https://foreignpolicy.com/2026/04/29/iran-nuclear-program-iaea-grossi-isfahan-enriched-uranium-us-war-hegseth-caine/
@@ -204,8 +216,4 @@ Link: https://www.newyorker.com/magazine/2026/05/04/signed-sealed-delivered
 [Foreign_Policy] The Hormuz Hit to Helium
 Published: 2026-04-27T09:00:26+00:00
 Link: https://foreignpolicy.com/2026/04/27/iran-war-hormuz-strait-helium-semiconductors-chips-supply-chain-prices/
----
-[Foreign_Affairs] The Iran War’s Threat to Turkey
-Published: 2026-04-27T04:00:00+00:00
-Link: https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
 ---
