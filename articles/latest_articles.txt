@@ -1,6 +1,10 @@
-# Last Run: 2026-04-30 10:08 UTC
+# Last Run: 2026-04-30 13:59 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] An Ayatollah for the Aggrieved
+Published: 2026-04-30T12:18:04+00:00
+Link: https://foreignpolicy.com/2026/04/30/iran-ayatollah-turkey-pakistan-israel-india-iraq-aggrieved/
+---
 [Foreign_Policy] The Eulogy That Explains Israel’s Current Tragedy
 Published: 2026-04-30T09:03:14+00:00
 Link: https://foreignpolicy.com/2026/04/30/israel-dayan-eulogy-palestine-tragedy/
@@ -148,8 +152,4 @@ Link: https://foreignpolicy.com/2026/04/27/israel-syria-hezbollah-iran-sharaa-te
 [Foreign_Policy] What Five Decades of Summits Reveal About U.S.-China Relations
 Published: 2026-04-27T15:33:06+00:00
 Link: https://foreignpolicy.com/2026/04/27/trump-xi-summit-us-china-trade-deal-taiwan-geopolitics/
----
-[Foreign_Policy] Escaping the Hormuz Trap
-Published: 2026-04-27T13:45:53+00:00
-Link: https://foreignpolicy.com/2026/04/27/hormuz-trap-oil-pipeline-iran-war-united-states-arab-israel/
 ---
