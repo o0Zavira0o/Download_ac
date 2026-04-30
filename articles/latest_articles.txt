@@ -1,4 +1,4 @@
-# Last Run: 2026-04-30 15:51 UTC
+# Last Run: 2026-04-30 17:23 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] An Ayatollah for the Aggrieved
@@ -140,8 +140,4 @@ Link: https://foreignpolicy.com/2026/04/27/iran-us-war-hormuz-strait-blockade-tr
 [Foreign_Policy] Iran Offers to Reopen the Strait of Hormuz
 Published: 2026-04-27T20:50:27+00:00
 Link: https://foreignpolicy.com/2026/04/27/iran-reopen-strait-hormuz-postpone-nuclear-talks-us-blockade/
----
-[Foreign_Policy] Beijing Is Using Influencers to Burnish Its Image
-Published: 2026-04-27T16:02:01+00:00
-Link: https://foreignpolicy.com/2026/04/27/china-influencers-dubai-propaganda-chinamaxxing/
 ---
