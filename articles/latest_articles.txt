@@ -1,4 +1,4 @@
-# Last Run: 2026-04-30 13:59 UTC
+# Last Run: 2026-04-30 15:51 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] An Ayatollah for the Aggrieved
@@ -144,12 +144,4 @@ Link: https://foreignpolicy.com/2026/04/27/iran-reopen-strait-hormuz-postpone-nu
 [Foreign_Policy] Beijing Is Using Influencers to Burnish Its Image
 Published: 2026-04-27T16:02:01+00:00
 Link: https://foreignpolicy.com/2026/04/27/china-influencers-dubai-propaganda-chinamaxxing/
----
-[Foreign_Policy] Israel and Syria’s Shared Fight Against Hezbollah
-Published: 2026-04-27T15:34:35+00:00
-Link: https://foreignpolicy.com/2026/04/27/israel-syria-hezbollah-iran-sharaa-terrorism-lebanon/
----
-[Foreign_Policy] What Five Decades of Summits Reveal About U.S.-China Relations
-Published: 2026-04-27T15:33:06+00:00
-Link: https://foreignpolicy.com/2026/04/27/trump-xi-summit-us-china-trade-deal-taiwan-geopolitics/
 ---
