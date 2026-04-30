@@ -1,6 +1,10 @@
-# Last Run: 2026-04-30 06:28 UTC
+# Last Run: 2026-04-30 10:08 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Eulogy That Explains Israel’s Current Tragedy
+Published: 2026-04-30T09:03:14+00:00
+Link: https://foreignpolicy.com/2026/04/30/israel-dayan-eulogy-palestine-tragedy/
+---
 [Foreign_Policy] For What AI Could Do to Democracies, Look to the Petrostates
 Published: 2026-04-30T04:01:40+00:00
 Link: https://foreignpolicy.com/2026/04/30/petrostates-ai-democracies/
@@ -148,72 +152,4 @@ Link: https://foreignpolicy.com/2026/04/27/trump-xi-summit-us-china-trade-deal-t
 [Foreign_Policy] Escaping the Hormuz Trap
 Published: 2026-04-27T13:45:53+00:00
 Link: https://foreignpolicy.com/2026/04/27/hormuz-trap-oil-pipeline-iran-war-united-states-arab-israel/
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/in-search-of-now-nothing-random-of-loss-lavender-no-way-home
----
-[New_Yorker_Magazine] “Tompkins Square,” by Anthony Walton
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/tompkins-square-anthony-walton-poem
----
-[New_Yorker_Magazine] Ellen Burstyn’s Inner Library
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/ellen-burstyns-inner-library
----
-[New_Yorker_Magazine] Laurie Metcalf’s Third Act
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/laurie-metcalf-profile
----
-[New_Yorker_Magazine] The Sqirl Redemption Arc
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/the-sqirl-redemption-arc
----
-[New_Yorker_Magazine] “A Theory on the Origin of Language,” by Tishani Doshi
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/a-theory-on-the-origin-of-language-tishani-doshi-poem
----
-[New_Yorker_Magazine] “Death in Rome” and “The Hothouse,” Reviewed
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/wolfgang-koeppen-book-review
----
-[New_Yorker_Magazine] The Many Forms of Marcel Duchamp
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/marcel-duchamp-art-review-moma
----
-[New_Yorker_Magazine] Ava’s Life List
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/avas-life-list
----
-[New_Yorker_Magazine] Can the E.P.A. Survive Lee Zeldin?
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/can-the-epa-survive-lee-zeldin
----
-[New_Yorker_Magazine] Medallions, Movement, and Mamdani at MOMA PS1
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/medallions-movement-and-mamdani-at-moma-ps-1
----
-[New_Yorker_Magazine] Reverend Billy Takes On Norman Foster’s New Monolith
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/reverend-billy-takes-on-norman-fosters-new-monolith
----
-[New_Yorker_Magazine] How Long Can Martha Graham’s Dance Revolution Last?
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/how-long-can-martha-grahams-dance-revolution-last
----
-[New_Yorker_Magazine] Patrick Ball’s Path to Broadway and “Becky Shaw”
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/patrick-balls-path-to-broadway-and-becky-shaw
----
-[New_Yorker_Magazine] Donald Trump’s Pardon Economy
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/donald-trumps-pardon-economy
----
-[New_Yorker_Magazine] What Happens When Someone Throws a Message in a Bottle Into the Sea?
-Published: 2026-04-27T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/04/signed-sealed-delivered
----
-[Foreign_Policy] The Hormuz Hit to Helium
-Published: 2026-04-27T09:00:26+00:00
-Link: https://foreignpolicy.com/2026/04/27/iran-war-hormuz-strait-helium-semiconductors-chips-supply-chain-prices/
 ---
