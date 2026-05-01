@@ -1,6 +1,10 @@
-# Last Run: 2026-04-30 22:55 UTC
+# Last Run: 2026-05-01 03:31 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The View From Europe
+Published: 2026-04-30T22:12:55+00:00
+Link: https://foreignpolicy.com/2026/04/30/hormuz-iran-trump-nato-belgium-francken/
+---
 [Foreign_Policy] Iran War Nears 60-Day War Powers Deadline
 Published: 2026-04-30T19:34:19+00:00
 Link: https://foreignpolicy.com/2026/04/30/hegseth-senate-testimony-iran-war-60-days-war-powers-resolution/
