@@ -1,12 +1,11 @@
 from __future__ import annotations
 
-import json
 import logging
 import re
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
-from typing import List, Dict, Any, Set, Optional
+from typing import List, Dict, Set, Optional
 from urllib.parse import urljoin, urlparse
 
 import requests
@@ -24,7 +23,9 @@ class BlogConfig:
     url: str
 
 
-# اگر سایت روی https است، http را به https تغییر بده
+# ✅ اینجا می‌تونی بلاگ‌های جدید اضافه/کم کنی:
+# مثال اضافه کردن کاربر جدید:
+#   BlogConfig("NewUser", "http://zavat.pw/blogs/NewUser"),
 BLOGS: List[BlogConfig] = [
     BlogConfig("yoyoloit",   "http://zavat.pw/blogs/yoyoloit"),
     BlogConfig("IrGens",     "http://zavat.pw/blogs/IrGens"),
@@ -72,7 +73,6 @@ DATA_DIR = ROOT_DIR / "zavat_data"
 LOGS_DIR = DATA_DIR / "logs"
 IMAGES_DIR = DATA_DIR / "images"
 MD_DIR = DATA_DIR / "md"
-STATE_FILE = DATA_DIR / "state.json"
 
 USER_AGENT = (
     "Mozilla/5.0 (compatible; ZavatWatcher/1.0; +https://github.com/your-username/your-repo)"
@@ -96,11 +96,11 @@ class PostInfo:
     details: str
     url: str
     image_rel_path: Optional[str] = None     # مسیر نسبی برای Markdown
-    source_image_url: Optional[str] = None   # آدرس تصویر روی خود سایت
+    source_image_url: Optional[str] = None   # آدرس تصویر روی سایت
 
 
 # -----------------------
-# مدیریت دایرکتوری و state
+# دایرکتوری و «دیده‌شده‌ها» از روی لاگ‌ها
 # -----------------------
 
 def ensure_dirs() -> None:
@@ -108,20 +108,27 @@ def ensure_dirs() -> None:
         d.mkdir(parents=True, exist_ok=True)
 
 
-def load_state() -> Dict[str, Any]:
-    if not STATE_FILE.exists():
-        return {"seen_urls": []}
-    try:
-        with STATE_FILE.open("r", encoding="utf-8") as f:
-            return json.load(f)
-    except Exception as exc:
-        LOGGER.warning("Could not read state file, starting fresh: %s", exc)
-        return {"seen_urls": []}
+def load_seen_urls_from_logs() -> Set[str]:
+    """
+    همه URLهایی که قبلا در لاگ‌های متنی نوشته شده‌اند را جمع می‌کند.
+    این جایگزین state.json است.
+    """
+    seen: Set[str] = set()
+    if not LOGS_DIR.exists():
+        return seen
 
+    for path in LOGS_DIR.glob("*.txt"):
+        try:
+            with path.open("r", encoding="utf-8") as f:
+                for line in f:
+                    if line.startswith("Link   : "):
+                        url = line.split("Link   : ", 1)[1].strip()
+                        if url:
+                            seen.add(url)
+        except Exception as exc:
+            LOGGER.warning("Could not read log file %s: %s", path, exc)
 
-def save_state(state: Dict[str, Any]) -> None:
-    with STATE_FILE.open("w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
+    return seen
 
 
 # -----------------------
@@ -202,7 +209,6 @@ def find_cover_image_for_link(link: Tag, base_url: str) -> Optional[str]:
     """
     در صفحه‌ی بلاگ، نزدیک‌ترین تصویری را که بعد از لینک پست می‌آید
     و در همان بلاک (پست) قرار دارد پیدا می‌کند.
-    از بالا به پایین در چند سطح والد می‌گردد.
     """
     current: Optional[Tag] = link
 
@@ -244,14 +250,14 @@ def extract_posts_from_blog(
     """
     container = get_content_container(soup)
     posts: List[PostInfo] = []
-    seen_urls: Set[str] = set()
+    seen_urls_page: Set[str] = set()
 
     for a in container.find_all("a", href=True):
         full_url = looks_like_post_url(blog.url, a["href"])
         if not full_url:
             continue
 
-        if full_url in seen_urls:
+        if full_url in seen_urls_page:
             continue
 
         title = a.get_text(strip=True)
@@ -260,7 +266,7 @@ def extract_posts_from_blog(
 
         image_url = find_cover_image_for_link(a, blog.url)
 
-        seen_urls.add(full_url)
+        seen_urls_page.add(full_url)
         posts.append(
             PostInfo(
                 blog=blog.name,
@@ -309,7 +315,6 @@ def extract_details_from_post(soup: BeautifulSoup) -> str:
       English | 2026 | ISBN: 1350557420 | 249 pages | True PDF EPUB | 8.72 MB
     """
 
-    # کلمات کلیدی‌ای که معمولا در خط اطلاعات کتاب/فایل دیده می‌شوند
     keywords = [
         "isbn",
         "pages",
@@ -490,8 +495,10 @@ def append_posts_to_daily_markdown(posts: List[PostInfo]) -> None:
 
 def main() -> None:
     ensure_dirs()
-    state = load_state()
-    seen_urls: Set[str] = set(state.get("seen_urls", []))
+
+    # ✅ حالا «دیده‌شده‌ها» از روی خود لاگ‌ها خوانده می‌شود، نه state.json
+    seen_urls: Set[str] = load_seen_urls_from_logs()
+    LOGGER.info("Loaded %d seen URLs from logs", len(seen_urls))
 
     session = make_session()
     new_posts: List[PostInfo] = []
@@ -511,7 +518,6 @@ def main() -> None:
             LOGGER.info("New post detected: %s", post.url)
             post_soup = fetch_soup(session, post.url)
             if post_soup is not None:
-                # عنوان را اگر بشود از خود صفحه پست بهتر دربیاوریم
                 new_title = extract_title_from_post(post_soup)
                 if new_title:
                     post.title = new_title
@@ -520,7 +526,6 @@ def main() -> None:
             else:
                 post.details = "—"
 
-            # دانلود تصویر اگر روی صفحه بلاگ برایش تصویری پیدا شده
             if post.source_image_url:
                 post.image_rel_path = download_image_by_url(
                     session, post.source_image_url, post.url
@@ -537,9 +542,6 @@ def main() -> None:
         LOGGER.info("Found %d new posts.", len(new_posts))
         append_posts_to_daily_log(new_posts)
         append_posts_to_daily_markdown(new_posts)
-
-    state["seen_urls"] = sorted(seen_urls)
-    save_state(state)
 
 
 if __name__ == "__main__":
