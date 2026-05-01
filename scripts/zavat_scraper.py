@@ -50,6 +50,17 @@ CONTENT_PREFIXES = [
     "/video/",
 ]
 
+# الگوهایی که اگر در آدرس تصویر باشند، یعنی احتمالا بنر/حمایت/لوگو هستند
+UNWANTED_IMAGE_SUBSTRINGS = [
+    "donate",
+    "donation",
+    "bitcoin",
+    "support",
+    "banner",
+    "ads",
+    "logo",
+]
+
 # منطقه زمانی لاگ‌ها
 try:
     TZ = ZoneInfo("Asia/Tehran")
@@ -92,7 +103,6 @@ class PostInfo:
 # -----------------------
 
 def ensure_dirs() -> None:
-    # ترتیب مهم نیست، parents=True همه را می‌سازد
     for d in (LOGS_DIR, IMAGES_DIR, MD_DIR):
         d.mkdir(parents=True, exist_ok=True)
 
@@ -250,6 +260,7 @@ def extract_details_from_post(soup: BeautifulSoup) -> str:
       English | 2026 | ISBN: 1350557420 | 249 pages | True PDF EPUB | 8.72 MB
     """
 
+    # کلمات کلیدی‌ای که معمولا در خط اطلاعات کتاب/فایل دیده می‌شوند
     keywords = [
         "isbn",
         "pages",
@@ -322,53 +333,75 @@ def extract_details_from_post(soup: BeautifulSoup) -> str:
 def extract_cover_image_url(soup: BeautifulSoup, base_url: str) -> Optional[str]:
     """
     از صفحه پست، سعی می‌کند URL کاور/پوستر را پیدا کند.
+    اولویت:
+      1) تصویری که از هاست‌های pixhost.* می‌آید (ترجیحاً /avaxhome/ و medium)
+      2) سایر تصویرها، به شرطی که بنر/حمایت/لوگو نباشند
     """
+
     container = get_content_container(soup)
-    candidates = []
 
-    # چند سلکتور محتمل
-    selectors = [
-        "img[itemprop=image]",
-        "div.fullnews img",
-        "div.full-news img",
-        "div.full img",
-        "div#dle-content img",
-        "article img",
-    ]
-    for sel in selectors:
-        for img in container.select(sel):
-            if img not in candidates:
-                candidates.append(img)
-
-    if not candidates:
-        candidates = container.find_all("img", src=True)
-
-    def candidate_src(img_tag) -> Optional[str]:
-        src = img_tag.get("src") or img_tag.get("data-src")
-        if not src:
-            return None
-        src_l = src.lower()
-        if not any(ext in src_l for ext in [".jpg", ".jpeg", ".png", ".webp", ".gif"]):
-            return None
-        # ترجیحاً چیزهایی که شبیه پوشه‌ی آپلود هستند
-        if any(x in src_l for x in ["/uploads/", "/covers/", "/images/"]):
-            return src
-        return None
-
-    # مرحله ۱: تصویرهایی که در مسیرشان uploads/covers/images دارند
-    for img in candidates:
-        src = candidate_src(img)
-        if src:
+    # 1) <a href="https://pixhost.icu/..."><img src="..."></a>
+    for a in container.find_all("a", href=True):
+        href = a["href"]
+        if "pixhost." in href:
+            img = a.find("img", src=True)
+            if not img:
+                continue
+            src = img.get("src") or img.get("data-src")
+            if not src:
+                continue
+            if src.startswith("http://") or src.startswith("https://"):
+                return src
             return urljoin(base_url, src)
 
-    # مرحله ۲: هر تصویر با پسوند تصویری
-    for img in candidates:
+    # 2) هر <img> که src شامل pixhost.* باشد
+    pixhost_candidates: List[str] = []
+    for img in container.find_all("img", src=True):
         src = img.get("src") or img.get("data-src")
         if not src:
             continue
         src_l = src.lower()
-        if any(ext in src_l for ext in [".jpg", ".jpeg", ".png", ".webp", ".gif"]):
-            return urljoin(base_url, src)
+        if "pixhost." in src_l:
+            pixhost_candidates.append(src)
+
+    def pick_best(cands: List[str]) -> Optional[str]:
+        if not cands:
+            return None
+        # ترجیح: شامل /avaxhome/
+        for c in cands:
+            if "/avaxhome/" in c.lower():
+                return c
+        # ترجیح بعدی: medium
+        for c in cands:
+            if "medium" in c.lower():
+                return c
+        # در نهایت: اولین
+        return cands[0]
+
+    best_pix = pick_best(pixhost_candidates)
+    if best_pix:
+        if best_pix.startswith("http://") or best_pix.startswith("https://"):
+            return best_pix
+        return urljoin(base_url, best_pix)
+
+    # 3) fallback: سایر تصویرها، با فیلتر روی پسوند و حذف بنر/لوگو/حمایت
+    good_candidates: List[str] = []
+    for img in container.find_all("img", src=True):
+        src = img.get("src") or img.get("data-src")
+        if not src:
+            continue
+        src_l = src.lower()
+        if not any(ext in src_l for ext in [".jpg", ".jpeg", ".png", ".webp", ".gif"]):
+            continue
+        if any(bad in src_l for bad in UNWANTED_IMAGE_SUBSTRINGS):
+            continue
+        good_candidates.append(src)
+
+    if good_candidates:
+        src = good_candidates[0]
+        if src.startswith("http://") or src.startswith("https://"):
+            return src
+        return urljoin(base_url, src)
 
     return None
 
@@ -425,7 +458,7 @@ def download_cover_image(
     else:
         LOGGER.info("Image already exists for %s -> %s", post_url, dest)
 
-    # مسیر نسبی از داخل پوشه md/ (یک سطح بالاتر + images)
+    # مسیر نسبی از دید پوشه md/ (یک سطح بالاتر + images)
     rel_path = Path("..") / "images" / filename
     return rel_path.as_posix()
 
@@ -509,7 +542,7 @@ def main() -> None:
             LOGGER.info("New post detected: %s", post.url)
             post_soup = fetch_soup(session, post.url)
             if post_soup is not None:
-                # عنوان بهتر از خود صفحه پست
+                # عنوان را اگر بشود از خود صفحه پست بهتر دربیاوریم
                 new_title = extract_title_from_post(post_soup)
                 if new_title:
                     post.title = new_title
