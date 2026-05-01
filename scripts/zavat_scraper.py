@@ -5,11 +5,12 @@ import re
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
-from typing import List, Dict, Set, Optional
+from typing import List, Set, Optional
 from urllib.parse import urljoin, urlparse
 
 import requests
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup
+from bs4.element import Tag
 from zoneinfo import ZoneInfo
 
 
@@ -342,7 +343,6 @@ def extract_details_from_post(soup: BeautifulSoup) -> str:
 
     candidates: List[str] = []
 
-    # اول دنبال خطوطی می‌گردیم که هم طول مناسب دارند، هم '|' دارند هم شامل یکی از keywordها هستند
     for text in soup.stripped_strings:
         t = " ".join(text.split())
         if len(t) < 20 or len(t) > 300:
@@ -352,7 +352,6 @@ def extract_details_from_post(soup: BeautifulSoup) -> str:
         if "|" in t and any(k in lower for k in keywords):
             candidates.append(t)
 
-    # اگر خطی که شامل ISBN است پیدا شد، همان را ترجیح می‌دهیم
     for c in candidates:
         if "isbn" in c.lower():
             return c
@@ -360,7 +359,6 @@ def extract_details_from_post(soup: BeautifulSoup) -> str:
     if candidates:
         return candidates[0]
 
-    # اگر هنوز چیزی نداریم، دوباره ولی بدون شرط '|'، فقط بر اساس کی‌ورد
     fallback: List[str] = []
     for text in soup.stripped_strings:
         t = " ".join(text.split())
@@ -497,7 +495,6 @@ def append_posts_to_daily_markdown(posts: List[PostInfo]) -> None:
 def main() -> None:
     ensure_dirs()
 
-    # ✅ حالا «دیده‌شده‌ها» از روی خود لاگ‌ها خوانده می‌شود، نه state.json
     seen_urls: Set[str] = load_seen_urls_from_logs()
     LOGGER.info("Loaded %d seen URLs from logs", len(seen_urls))
 
