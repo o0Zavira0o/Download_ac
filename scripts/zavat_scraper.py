@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -25,14 +26,13 @@ class BlogConfig:
 
 # اگر سایت روی https است، http را به https تغییر بده
 BLOGS: List[BlogConfig] = [
-    BlogConfig("yoyoloit", "http://zavat.pw/blogs/yoyoloit"),
-    BlogConfig("IrGens", "http://zavat.pw/blogs/IrGens"),
+    BlogConfig("yoyoloit",   "http://zavat.pw/blogs/yoyoloit"),
+    BlogConfig("IrGens",     "http://zavat.pw/blogs/IrGens"),
     BlogConfig("AvaxGenius", "http://zavat.pw/blogs/AvaxGenius"),
-    BlogConfig("hill0", "http://zavat.pw/blogs/hill0"),
+    BlogConfig("hill0",      "http://zavat.pw/blogs/hill0"),
 ]
 
-# آدرس‌هایی که «صفحه پست» محسوب می‌شوند (نه منوی اصلی)
-# فقط لینک‌هایی با این پیشوندها + پسوند .html به‌عنوان پست حساب می‌شوند
+# آدرس‌هایی که «صفحه پست» محسوب می‌شوند
 CONTENT_PREFIXES = [
     "/ebooks/",
     "/magazines/",
@@ -59,6 +59,8 @@ except Exception:
 ROOT_DIR = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT_DIR / "zavat_data"
 LOGS_DIR = DATA_DIR / "logs"
+IMAGES_DIR = DATA_DIR / "images"
+MD_DIR = DATA_DIR / "md"
 STATE_FILE = DATA_DIR / "state.json"
 
 USER_AGENT = (
@@ -82,6 +84,7 @@ class PostInfo:
     title: str
     details: str
     url: str
+    image_rel_path: Optional[str] = None  # مسیر نسبی تصویر برای markdown
 
 
 # -----------------------
@@ -89,8 +92,9 @@ class PostInfo:
 # -----------------------
 
 def ensure_dirs() -> None:
-    LOGS_DIR.mkdir(parents=True, exist_ok=True)
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    # ترتیب مهم نیست، parents=True همه را می‌سازد
+    for d in (LOGS_DIR, IMAGES_DIR, MD_DIR):
+        d.mkdir(parents=True, exist_ok=True)
 
 
 def load_state() -> Dict[str, Any]:
@@ -212,6 +216,10 @@ def extract_posts_from_blog(
     return posts
 
 
+# -----------------------
+# عنوان و جزئیات از صفحه پست
+# -----------------------
+
 def extract_title_from_post(soup: BeautifulSoup) -> str:
     """
     تلاش برای پیدا کردن عنوان واقعی از صفحه پست (h1، h2، title).
@@ -242,7 +250,6 @@ def extract_details_from_post(soup: BeautifulSoup) -> str:
       English | 2026 | ISBN: 1350557420 | 249 pages | True PDF EPUB | 8.72 MB
     """
 
-    # کلمات کلیدی‌ای که معمولا در خط اطلاعات کتاب/فایل دیده می‌شوند
     keywords = [
         "isbn",
         "pages",
@@ -309,7 +316,122 @@ def extract_details_from_post(soup: BeautifulSoup) -> str:
 
 
 # -----------------------
-# نوشتن لاگ روزانه
+# استخراج و دانلود کاور
+# -----------------------
+
+def extract_cover_image_url(soup: BeautifulSoup, base_url: str) -> Optional[str]:
+    """
+    از صفحه پست، سعی می‌کند URL کاور/پوستر را پیدا کند.
+    """
+    container = get_content_container(soup)
+    candidates = []
+
+    # چند سلکتور محتمل
+    selectors = [
+        "img[itemprop=image]",
+        "div.fullnews img",
+        "div.full-news img",
+        "div.full img",
+        "div#dle-content img",
+        "article img",
+    ]
+    for sel in selectors:
+        for img in container.select(sel):
+            if img not in candidates:
+                candidates.append(img)
+
+    if not candidates:
+        candidates = container.find_all("img", src=True)
+
+    def candidate_src(img_tag) -> Optional[str]:
+        src = img_tag.get("src") or img_tag.get("data-src")
+        if not src:
+            return None
+        src_l = src.lower()
+        if not any(ext in src_l for ext in [".jpg", ".jpeg", ".png", ".webp", ".gif"]):
+            return None
+        # ترجیحاً چیزهایی که شبیه پوشه‌ی آپلود هستند
+        if any(x in src_l for x in ["/uploads/", "/covers/", "/images/"]):
+            return src
+        return None
+
+    # مرحله ۱: تصویرهایی که در مسیرشان uploads/covers/images دارند
+    for img in candidates:
+        src = candidate_src(img)
+        if src:
+            return urljoin(base_url, src)
+
+    # مرحله ۲: هر تصویر با پسوند تصویری
+    for img in candidates:
+        src = img.get("src") or img.get("data-src")
+        if not src:
+            continue
+        src_l = src.lower()
+        if any(ext in src_l for ext in [".jpg", ".jpeg", ".png", ".webp", ".gif"]):
+            return urljoin(base_url, src)
+
+    return None
+
+
+def build_slug_from_url(url: str) -> str:
+    """
+    از URL پست، یک نام فایل امن می‌سازد مثل:
+    /ebooks/1350557420.html -> ebooks_1350557420
+    """
+    parsed = urlparse(url)
+    path = parsed.path.strip("/")
+    if not path:
+        return "post"
+
+    parts = path.split("/")
+    last = parts[-1]
+    if "." in last:
+        last = last.rsplit(".", 1)[0]
+    parts[-1] = last
+    slug = "_".join(parts)
+    slug = re.sub(r"[^a-zA-Z0-9_-]+", "-", slug)
+    return slug or "post"
+
+
+def download_cover_image(
+    session: requests.Session, soup: BeautifulSoup, post_url: str
+) -> Optional[str]:
+    """
+    تصویر کاور را دانلود کرده و داخل zavat_data/images ذخیره می‌کند.
+    خروجی: مسیر نسبی برای استفاده داخل Markdown مثل ../images/ebooks_1350557420.jpg
+    """
+    img_url = extract_cover_image_url(soup, post_url)
+    if not img_url:
+        return None
+
+    parsed = urlparse(img_url)
+    ext = Path(parsed.path).suffix.lower()
+    if ext not in [".jpg", ".jpeg", ".png", ".webp", ".gif"]:
+        ext = ".jpg"
+
+    slug = build_slug_from_url(post_url)
+    filename = f"{slug}{ext}"
+    dest = IMAGES_DIR / filename
+
+    if not dest.exists():
+        try:
+            resp = session.get(img_url, timeout=25)
+            resp.raise_for_status()
+            dest.write_bytes(resp.content)
+            LOGGER.info("Downloaded image for %s -> %s", post_url, dest)
+        except Exception as exc:
+            LOGGER.error("Error downloading image %s: %s", img_url, exc)
+            return None
+    else:
+        LOGGER.info("Image already exists for %s -> %s", post_url, dest)
+
+    # مسیر نسبی از داخل پوشه md/ (یک سطح بالاتر + images)
+    rel_path = Path("..") / "images" / filename
+    return rel_path.as_posix()
+
+
+# -----------------------
+# نوشتن لاگ روزانه (متنی)
 # -----------------------
 
 def append_posts_to_daily_log(posts: List[PostInfo]) -> None:
@@ -328,6 +450,36 @@ def append_posts_to_daily_log(posts: List[PostInfo]) -> None:
             f.write(f"Title  : {post.title}\n")
             f.write(f"Details: {post.details}\n")
             f.write(f"Link   : {post.url}\n\n")
+
+
+# -----------------------
+# نوشتن لاگ روزانه (Markdown با تصویر)
+# -----------------------
+
+def append_posts_to_daily_markdown(posts: List[PostInfo]) -> None:
+    if not posts:
+        return
+
+    now = datetime.now(TZ)
+    date_str = now.strftime("%Y-%m-%d")
+    time_str = now.strftime("%H:%M:%S")
+    md_path = MD_DIR / f"{date_str}.md"
+
+    is_new = not md_path.exists()
+
+    with md_path.open("a", encoding="utf-8") as f:
+        if is_new:
+            f.write(f"# Zavat feed - {date_str}\n\n")
+
+        for post in posts:
+            f.write("---\n\n")
+            f.write(f"**Time:** {time_str} ({TZ.key})  \n")
+            f.write(f"**Blog:** {post.blog}  \n\n")
+            f.write(f"**Title:** {post.title}  \n\n")
+            f.write(f"**Details:** {post.details}  \n\n")
+            f.write(f"**Link:** {post.url}  \n\n")
+            if post.image_rel_path:
+                f.write(f"![cover]({post.image_rel_path})\n\n")
 
 
 # -----------------------
@@ -357,14 +509,18 @@ def main() -> None:
             LOGGER.info("New post detected: %s", post.url)
             post_soup = fetch_soup(session, post.url)
             if post_soup is not None:
-                # عنوان را اگر بشود از خود صفحه پست بهتر دربیاوریم
+                # عنوان بهتر از خود صفحه پست
                 new_title = extract_title_from_post(post_soup)
                 if new_title:
                     post.title = new_title
 
                 post.details = extract_details_from_post(post_soup)
+
+                # دانلود کاور و تنظیم مسیر نسبی برای Markdown
+                post.image_rel_path = download_cover_image(session, post_soup, post.url)
             else:
                 post.details = "—"
+                post.image_rel_path = None
 
             new_posts.append(post)
             seen_urls.add(post.url)
@@ -374,6 +530,7 @@ def main() -> None:
     else:
         LOGGER.info("Found %d new posts.", len(new_posts))
         append_posts_to_daily_log(new_posts)
+        append_posts_to_daily_markdown(new_posts)
 
     state["seen_urls"] = sorted(seen_urls)
     save_state(state)
