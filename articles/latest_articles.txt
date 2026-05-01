@@ -1,6 +1,14 @@
-# Last Run: 2026-05-01 20:55 UTC
+# Last Run: 2026-05-01 22:53 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’
+Published: 2026-05-01T20:58:38+00:00
+Link: https://foreignpolicy.com/2026/05/01/trump-60-days-war-powers-resolution-unconstitutional-iran-us-congress/
+---
+[Foreign_Policy] Will the Next Fed Chairman Be More Compliant With Trump?
+Published: 2026-05-01T20:44:22+00:00
+Link: https://foreignpolicy.com/2026/05/01/adam-tooze-kevin-warsh-federal-reserve-trump-interest-rates/
+---
 [Foreign_Policy] ‘Project Hail Mary’ and the Politics of Science Fiction
 Published: 2026-05-01T19:00:34+00:00
 Link: https://foreignpolicy.com/2026/05/01/project-hail-mary-politics-science-fiction-techno-optimism/
@@ -164,16 +172,4 @@ Link: https://www.foreignaffairs.com/iran/how-war-saved-iranian-regime
 [Foreign_Affairs] The Transatlantic MAGA Fantasy
 Published: 2026-04-29T04:00:00+00:00
 Link: https://www.foreignaffairs.com/europe/transatlantic-maga-fantasy
----
-[Foreign_Policy] King Charles III: ‘A Partnership Born Out of Dispute’
-Published: 2026-04-28T22:23:19+00:00
-Link: https://foreignpolicy.com/2026/04/28/king-charles-speech-us-congress-full-text-transcript/
----
-[Foreign_Policy] King Charles III Delivers Pointed Message in Address to U.S. Congress
-Published: 2026-04-28T22:14:54+00:00
-Link: https://foreignpolicy.com/2026/04/28/king-charles-speech-congress-trump-nato-ukraine-diversity/
----
-[Foreign_Policy] China Pulls the Plug on Meta’s AI Acquisition
-Published: 2026-04-28T21:24:31+00:00
-Link: https://foreignpolicy.com/2026/04/28/china-blocks-ai-meta-manus-deal-national-security/
 ---
