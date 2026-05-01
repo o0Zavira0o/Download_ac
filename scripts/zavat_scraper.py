@@ -10,7 +10,7 @@ from typing import List, Dict, Any, Set, Optional
 from urllib.parse import urljoin, urlparse
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 from zoneinfo import ZoneInfo
 
 
@@ -95,7 +95,8 @@ class PostInfo:
     title: str
     details: str
     url: str
-    image_rel_path: Optional[str] = None  # مسیر نسبی تصویر برای markdown
+    image_rel_path: Optional[str] = None     # مسیر نسبی برای Markdown
+    source_image_url: Optional[str] = None   # آدرس تصویر روی خود سایت
 
 
 # -----------------------
@@ -197,12 +198,49 @@ def looks_like_post_url(base_url: str, href: str) -> Optional[str]:
     return None
 
 
+def find_cover_image_for_link(link: Tag, base_url: str) -> Optional[str]:
+    """
+    در صفحه‌ی بلاگ، نزدیک‌ترین تصویری را که بعد از لینک پست می‌آید
+    و در همان بلاک (پست) قرار دارد پیدا می‌کند.
+    از بالا به پایین در چند سطح والد می‌گردد.
+    """
+    current: Optional[Tag] = link
+
+    # حداکثر تا 4 لایه بالاتر از لینک را بررسی می‌کنیم
+    for _ in range(4):
+        if current is None or not isinstance(current, Tag):
+            break
+
+        found_link = False
+        for node in current.descendants:
+            if node is link:
+                found_link = True
+                continue
+            if not found_link:
+                continue
+            if isinstance(node, Tag) and node.name == "img":
+                src = node.get("src") or node.get("data-src")
+                if not src:
+                    continue
+                src_l = src.lower()
+                if not any(ext in src_l for ext in [".jpg", ".jpeg", ".png", ".webp", ".gif"]):
+                    continue
+                if any(bad in src_l for bad in UNWANTED_IMAGE_SUBSTRINGS):
+                    continue
+                return urljoin(base_url, src)
+
+        current = current.parent  # یک سطح بالاتر
+
+    return None
+
+
 def extract_posts_from_blog(
     soup: BeautifulSoup,
     blog: BlogConfig,
 ) -> List[PostInfo]:
     """
-    فقط لینک‌های واقعی پست‌ها را از داخل ناحیه محتوای بلاگ استخراج می‌کند.
+    فقط لینک‌های واقعی پست‌ها را از داخل ناحیه محتوای بلاگ استخراج می‌کند
+    و برای هر کدام، تصویر کاور را از همان صفحه بلاگ پیدا می‌کند.
     """
     container = get_content_container(soup)
     posts: List[PostInfo] = []
@@ -220,8 +258,19 @@ def extract_posts_from_blog(
         if not title:
             continue
 
+        image_url = find_cover_image_for_link(a, blog.url)
+
         seen_urls.add(full_url)
-        posts.append(PostInfo(blog=blog.name, title=title, details="", url=full_url))
+        posts.append(
+            PostInfo(
+                blog=blog.name,
+                title=title,
+                details="",
+                url=full_url,
+                image_rel_path=None,
+                source_image_url=image_url,
+            )
+        )
 
     return posts
 
@@ -327,84 +376,8 @@ def extract_details_from_post(soup: BeautifulSoup) -> str:
 
 
 # -----------------------
-# استخراج و دانلود کاور
+# دانلود تصویر
 # -----------------------
-
-def extract_cover_image_url(soup: BeautifulSoup, base_url: str) -> Optional[str]:
-    """
-    از صفحه پست، سعی می‌کند URL کاور/پوستر را پیدا کند.
-    اولویت:
-      1) تصویری که از هاست‌های pixhost.* می‌آید (ترجیحاً /avaxhome/ و medium)
-      2) سایر تصویرها، به شرطی که بنر/حمایت/لوگو نباشند
-    """
-
-    container = get_content_container(soup)
-
-    # 1) <a href="https://pixhost.icu/..."><img src="..."></a>
-    for a in container.find_all("a", href=True):
-        href = a["href"]
-        if "pixhost." in href:
-            img = a.find("img", src=True)
-            if not img:
-                continue
-            src = img.get("src") or img.get("data-src")
-            if not src:
-                continue
-            if src.startswith("http://") or src.startswith("https://"):
-                return src
-            return urljoin(base_url, src)
-
-    # 2) هر <img> که src شامل pixhost.* باشد
-    pixhost_candidates: List[str] = []
-    for img in container.find_all("img", src=True):
-        src = img.get("src") or img.get("data-src")
-        if not src:
-            continue
-        src_l = src.lower()
-        if "pixhost." in src_l:
-            pixhost_candidates.append(src)
-
-    def pick_best(cands: List[str]) -> Optional[str]:
-        if not cands:
-            return None
-        # ترجیح: شامل /avaxhome/
-        for c in cands:
-            if "/avaxhome/" in c.lower():
-                return c
-        # ترجیح بعدی: medium
-        for c in cands:
-            if "medium" in c.lower():
-                return c
-        # در نهایت: اولین
-        return cands[0]
-
-    best_pix = pick_best(pixhost_candidates)
-    if best_pix:
-        if best_pix.startswith("http://") or best_pix.startswith("https://"):
-            return best_pix
-        return urljoin(base_url, best_pix)
-
-    # 3) fallback: سایر تصویرها، با فیلتر روی پسوند و حذف بنر/لوگو/حمایت
-    good_candidates: List[str] = []
-    for img in container.find_all("img", src=True):
-        src = img.get("src") or img.get("data-src")
-        if not src:
-            continue
-        src_l = src.lower()
-        if not any(ext in src_l for ext in [".jpg", ".jpeg", ".png", ".webp", ".gif"]):
-            continue
-        if any(bad in src_l for bad in UNWANTED_IMAGE_SUBSTRINGS):
-            continue
-        good_candidates.append(src)
-
-    if good_candidates:
-        src = good_candidates[0]
-        if src.startswith("http://") or src.startswith("https://"):
-            return src
-        return urljoin(base_url, src)
-
-    return None
-
 
 def build_slug_from_url(url: str) -> str:
     """
@@ -426,41 +399,37 @@ def build_slug_from_url(url: str) -> str:
     return slug or "post"
 
 
-def download_cover_image(
-    session: requests.Session, soup: BeautifulSoup, post_url: str
+def download_image_by_url(
+    session: requests.Session, img_url: str, post_url: str
 ) -> Optional[str]:
     """
-    تصویر کاور را دانلود کرده و داخل zavat_data/images ذخیره می‌کند.
-    خروجی: مسیر نسبی برای استفاده داخل Markdown مثل ../images/ebooks_1350557420.jpg
+    تصویر را از آدرس مستقیم img_url دانلود می‌کند و داخل zavat_data/images می‌گذارد.
+    خروجی: مسیر نسبی برای استفاده در Markdown مثل ../images/ebooks_1350557420.jpg
     """
-    img_url = extract_cover_image_url(soup, post_url)
-    if not img_url:
-        return None
+    try:
+        parsed = urlparse(img_url)
+        ext = Path(parsed.path).suffix.lower()
+        if ext not in [".jpg", ".jpeg", ".png", ".webp", ".gif"]:
+            ext = ".jpg"
 
-    parsed = urlparse(img_url)
-    ext = Path(parsed.path).suffix.lower()
-    if ext not in [".jpg", ".jpeg", ".png", ".webp", ".gif"]:
-        ext = ".jpg"
+        slug = build_slug_from_url(post_url)
+        filename = f"{slug}{ext}"
+        dest = IMAGES_DIR / filename
 
-    slug = build_slug_from_url(post_url)
-    filename = f"{slug}{ext}"
-    dest = IMAGES_DIR / filename
-
-    if not dest.exists():
-        try:
+        if not dest.exists():
             resp = session.get(img_url, timeout=25)
             resp.raise_for_status()
             dest.write_bytes(resp.content)
             LOGGER.info("Downloaded image for %s -> %s", post_url, dest)
-        except Exception as exc:
-            LOGGER.error("Error downloading image %s: %s", img_url, exc)
-            return None
-    else:
-        LOGGER.info("Image already exists for %s -> %s", post_url, dest)
+        else:
+            LOGGER.info("Image already exists for %s -> %s", post_url, dest)
 
-    # مسیر نسبی از دید پوشه md/ (یک سطح بالاتر + images)
-    rel_path = Path("..") / "images" / filename
-    return rel_path.as_posix()
+        rel_path = Path("..") / "images" / filename
+        return rel_path.as_posix()
+
+    except Exception as exc:
+        LOGGER.error("Error downloading image %s: %s", img_url, exc)
+        return None
 
 
 # -----------------------
@@ -548,11 +517,15 @@ def main() -> None:
                     post.title = new_title
 
                 post.details = extract_details_from_post(post_soup)
-
-                # دانلود کاور و تنظیم مسیر نسبی برای Markdown
-                post.image_rel_path = download_cover_image(session, post_soup, post.url)
             else:
                 post.details = "—"
+
+            # دانلود تصویر اگر روی صفحه بلاگ برایش تصویری پیدا شده
+            if post.source_image_url:
+                post.image_rel_path = download_image_by_url(
+                    session, post.source_image_url, post.url
+                )
+            else:
                 post.image_rel_path = None
 
             new_posts.append(post)
