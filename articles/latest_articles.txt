@@ -1,6 +1,30 @@
-# Last Run: 2026-05-01 16:59 UTC
+# Last Run: 2026-05-01 19:16 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] ‘Project Hail Mary’ and the Politics of Science Fiction
+Published: 2026-05-01T19:00:34+00:00
+Link: https://foreignpolicy.com/2026/05/01/project-hail-mary-politics-science-fiction-techno-optimism/
+---
+[Foreign_Policy] Saffron’s Last Gasp
+Published: 2026-05-01T18:45:19+00:00
+Link: https://foreignpolicy.com/2026/05/01/saffron-iran-war-supply-chain-hungry-hegemon/
+---
+[Foreign_Policy] The Real Origin of the World’s Most Famous Female Serial Killer
+Published: 2026-05-01T18:30:58+00:00
+Link: https://foreignpolicy.com/2026/05/01/blood-countess-shelley-puhak-review-historical-record/
+---
+[Foreign_Policy] ‘Hokum’ Is Haunted by Ireland’s Dark History
+Published: 2026-05-01T18:15:41+00:00
+Link: https://foreignpolicy.com/2026/05/01/hokum-movie-review-adam-scott-ireland-history-horror-magdalene-laundries/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-05-01T18:10:49+00:00
+Link: https://foreignpolicy.com/2026/05/01/news-quiz-iran-war-hormuz-uae-opec-colombia-conference-mali-russia/
+---
+[Foreign_Policy] Two Novels Take on the Post-American Dream
+Published: 2026-05-01T18:00:16+00:00
+Link: https://foreignpolicy.com/2026/05/01/international-fiction-releases-new-skin-sarah-wang/
+---
 [Foreign_Policy] Israel’s Slow War on the West Bank
 Published: 2026-05-01T15:55:55+00:00
 Link: https://foreignpolicy.com/2026/05/01/west-bank-israel-settlers-violence-palestinian-authority-smotrich/
@@ -152,12 +176,4 @@ Link: https://foreignpolicy.com/2026/04/28/king-charles-speech-congress-trump-na
 [Foreign_Policy] China Pulls the Plug on Meta’s AI Acquisition
 Published: 2026-04-28T21:24:31+00:00
 Link: https://foreignpolicy.com/2026/04/28/china-blocks-ai-meta-manus-deal-national-security/
----
-[Foreign_Policy] Why Iran Isn’t Blinking Yet
-Published: 2026-04-28T17:40:22+00:00
-Link: https://foreignpolicy.com/2026/04/28/iran-war-hormuz-trump-oil-storage-blockade-energy/
----
-[Foreign_Policy] Japan and China Are Edging Dangerously Close to Conflict
-Published: 2026-04-28T17:07:41+00:00
-Link: https://foreignpolicy.com/2026/04/28/japan-china-taiwan-okinawa-history/
 ---
