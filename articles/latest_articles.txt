@@ -1,6 +1,18 @@
-# Last Run: 2026-05-01 11:08 UTC
+# Last Run: 2026-05-01 13:22 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Real Meaning of the UAE’s OPEC Exit
+Published: 2026-05-01T12:14:11+00:00
+Link: https://foreignpolicy.com/2026/05/01/uae-opec-exit-meaning-oil-middle-east/
+---
+[Foreign_Policy] Colombia’s Anti-Fossil Fuel Conference
+Published: 2026-05-01T12:00:54+00:00
+Link: https://foreignpolicy.com/2026/05/01/santa-marta-climate-conference-fossil-fuels-colombia-netherlands-un-cop/
+---
+[Foreign_Policy] Trump’s Plan B for Tariffs Rests on Shaky Foundations
+Published: 2026-05-01T10:00:53+00:00
+Link: https://foreignpolicy.com/2026/05/01/trump-tariffs-ustr-iran-plan-b/
+---
 [Foreign_Affairs] Libya’s False Peace
 Published: 2026-05-01T04:00:00+00:00
 Link: https://www.foreignaffairs.com/libya/libyas-false-peace
@@ -132,8 +144,4 @@ Link: https://foreignpolicy.com/2026/04/28/iran-war-hormuz-trump-oil-storage-blo
 [Foreign_Policy] Japan and China Are Edging Dangerously Close to Conflict
 Published: 2026-04-28T17:07:41+00:00
 Link: https://foreignpolicy.com/2026/04/28/japan-china-taiwan-okinawa-history/
----
-[Foreign_Policy] Russia’s War Boom Masks an Economic Implosion
-Published: 2026-04-28T12:11:51+00:00
-Link: https://foreignpolicy.com/2026/04/28/russia-putin-war-ukraine-economy-industry-labor-shortage-demographic-implosion/
 ---
