@@ -5,7 +5,7 @@ import logging
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
-from typing import List, Dict, Any, Set
+from typing import List, Dict, Any, Set, Optional
 from urllib.parse import urljoin, urlparse
 
 import requests
@@ -17,54 +17,45 @@ from zoneinfo import ZoneInfo
 # تنظیمات کلی
 # -----------------------
 
-# بلاگ‌هایی که باید چک شوند
-BLOGS = [
-    # فقط در صورت نیاز URLها را ویرایش کن
-    # حتما https را استفاده کن
-    # (اگر سایت روی http است، همان را بزن)
-    # مثال:
-    # BlogConfig(name="yoyoloit", url="https://zavat.pw/blogs/yoyoloit"),
-]
-
-# چون نمی‌توانم به سایت وصل شوم، اینجا پرش را به‌صورت استاتیک می‌گذارم.
-# تو اگر لازم شد فقط http/https را اصلاح کن.
-BLOGS = [
-    # اگر سایت روی http است، اینها را به http تغییر بده:
-    # مثلا "http://zavat.pw/blogs/yoyoloit"
-    # در غیر این صورت https استفاده کن.
-    # من پیش‌فرض را https گذاشتم:
-    # اگر جواب نداد، فقط https را به http عوض کن.
-    # ===============================
-    # این ۴ خط را مطابق خواسته‌ات استفاده کن:
-    # ===============================
-    # BlogConfig("yoyoloit", "http://zavat.pw/blogs/yoyoloit"),
-    # BlogConfig("IrGens", "http://zavat.pw/blogs/IrGens"),
-    # BlogConfig("AvaxGenius", "http://zavat.pw/blogs/AvaxGenius"),
-    # BlogConfig("hill0", "http://zavat.pw/blogs/hill0"),
-]
-
-# برای اینکه بالا واقعا کار کند باید BlogConfig را تعریف کنیم:
 @dataclass(frozen=True)
 class BlogConfig:
     name: str
     url: str
 
 
-BLOGS = [
+# اگر سایت روی https است، http را به https تغییر بده
+BLOGS: List[BlogConfig] = [
     BlogConfig("yoyoloit", "http://zavat.pw/blogs/yoyoloit"),
     BlogConfig("IrGens", "http://zavat.pw/blogs/IrGens"),
-    BlogConfig("AvaxGenius", "http://zavat.pw/blogs/IrGens".replace("IrGens", "AvaxGenius")),  # اصلاح ساده
+    BlogConfig("AvaxGenius", "http://zavat.pw/blogs/AvaxGenius"),
     BlogConfig("hill0", "http://zavat.pw/blogs/hill0"),
 ]
 
+# آدرس‌هایی که «صفحه پست» محسوب می‌شوند (نه منوی اصلی)
+# فقط لینک‌هایی با این پیشوندها + پسوند .html به‌عنوان پست حساب می‌شوند
+CONTENT_PREFIXES = [
+    "/ebooks/",
+    "/magazines/",
+    "/comics/",
+    "/newspapers/",
+    "/music/",
+    "/audiobooks/",
+    "/software/",
+    "/games/",
+    "/graphics/",
+    "/girls/",
+    "/hraphile/",
+    "/tvseries/",
+    "/anime/",
+    "/video/",
+]
 
-# منطقه زمانی: تهران
+# منطقه زمانی لاگ‌ها
 try:
     TZ = ZoneInfo("Asia/Tehran")
 except Exception:
     TZ = ZoneInfo("UTC")
 
-# مسیرهای فایل‌ها (نسبت به ریشه ریپو)
 ROOT_DIR = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT_DIR / "zavat_data"
 LOGS_DIR = DATA_DIR / "logs"
@@ -94,7 +85,7 @@ class PostInfo:
 
 
 # -----------------------
-# مدیریت state
+# مدیریت دایرکتوری و state
 # -----------------------
 
 def ensure_dirs() -> None:
@@ -128,7 +119,7 @@ def make_session() -> requests.Session:
     return session
 
 
-def fetch_soup(session: requests.Session, url: str) -> BeautifulSoup | None:
+def fetch_soup(session: requests.Session, url: str) -> Optional[BeautifulSoup]:
     try:
         resp = session.get(url, timeout=25)
         resp.raise_for_status()
@@ -138,123 +129,187 @@ def fetch_soup(session: requests.Session, url: str) -> BeautifulSoup | None:
         return None
 
 
+def get_content_container(soup: BeautifulSoup) -> BeautifulSoup:
+    """
+    سعی می‌کند فقط ناحیه محتوای اصلی (نه منو و سایدبار) را بگیرد.
+    اگر پیدا نشد، کل صفحه را برمی‌گرداند.
+    """
+    candidates = [
+        {"id": "dle-content"},
+        {"id": "content"},
+        {"id": "main"},
+        {"id": "page"},
+        {"class_": "content"},
+        {"class_": "main"},
+    ]
+    for kw in candidates:
+        el = soup.find(**kw)
+        if el:
+            return el
+    return soup
+
+
+def looks_like_post_url(base_url: str, href: str) -> Optional[str]:
+    """
+    بررسی می‌کند که یک href، لینک واقعیِ یک پست (کتاب/مجله/موزیک/...) است یا نه.
+    شرط‌ها:
+      - روی همان دامنه باشد
+      - پسوند .html داشته باشد
+      - مسیرش با یکی از CONTENT_PREFIXES شروع شود
+      - لینکِ ریشه‌ی دسته‌ها مثل /music یا /ebooks خودش حساب نشود
+    """
+    if not href or href.startswith("#"):
+        return None
+
+    full = urljoin(base_url, href)
+    parsed = urlparse(full)
+    base_parsed = urlparse(base_url)
+
+    # روی همان دامنه
+    if parsed.netloc and parsed.netloc != base_parsed.netloc:
+        return None
+
+    path = parsed.path or "/"
+    path_lower = path.lower()
+
+    if not path_lower.endswith(".html"):
+        return None
+
+    for prefix in CONTENT_PREFIXES:
+        p = prefix.rstrip("/").lower()
+        if path_lower.startswith(p + "/"):
+            return full
+
+    return None
+
+
 def extract_posts_from_blog(
     soup: BeautifulSoup,
     blog: BlogConfig,
 ) -> List[PostInfo]:
     """
-    تلاش می‌کند همه پست‌های موجود در صفحه بلاگ را پیدا کند.
-    از روی HTML واقعی ممکن است لازم باشد این تابع را کم‌وزیاد کنی.
+    فقط لینک‌های واقعی پست‌ها را از داخل ناحیه محتوای بلاگ استخراج می‌کند.
     """
-
+    container = get_content_container(soup)
     posts: List[PostInfo] = []
     seen_urls: Set[str] = set()
 
-    base_netloc = urlparse(blog.url).netloc
-    blog_path = urlparse(blog.url).path.rstrip("/")
-
-    # سناریو ۱: ساختار شبیه WordPress، پست‌ها داخل <article>
-    for article in soup.select("article"):
-        link = article.find("a", href=True)
-        if not link:
-            continue
-        href = link["href"]
-        full_url = urljoin(blog.url, href)
-
-        # فقط لینک‌هایی که روی همان دامنه هستند
-        if urlparse(full_url).netloc != base_netloc:
-            continue
-
-        # خود صفحه بلاگ را رد کن
-        if urlparse(full_url).path.rstrip("/") == blog_path:
-            continue
-
-        title = link.get_text(strip=True)
-        if not title:
+    for a in container.find_all("a", href=True):
+        full_url = looks_like_post_url(blog.url, a["href"])
+        if not full_url:
             continue
 
         if full_url in seen_urls:
             continue
 
+        title = a.get_text(strip=True)
+        if not title:
+            continue
+
         seen_urls.add(full_url)
         posts.append(PostInfo(blog=blog.name, title=title, details="", url=full_url))
-
-    # اگر چیزی پیدا نشد، fallback عمومی روی همه <a>ها
-    if not posts:
-        for link in soup.find_all("a", href=True):
-            href = link["href"]
-            if not href or href.startswith("#"):
-                continue
-            full_url = urljoin(blog.url, href)
-            parsed = urlparse(full_url)
-
-            # فقط همان دامنه
-            if parsed.netloc != base_netloc:
-                continue
-
-            # خود بلاگ یا صفحه‌های pagination/تگ/کَتگوری را رد کن تا حد امکان
-            path = parsed.path.rstrip("/")
-            if path == blog_path:
-                continue
-            if any(x in path.lower() for x in ["tag", "category", "page", "search"]):
-                continue
-
-            title = link.get_text(strip=True)
-            if not title:
-                continue
-
-            if full_url in seen_urls:
-                continue
-
-            seen_urls.add(full_url)
-            posts.append(PostInfo(blog=blog.name, title=title, details="", url=full_url))
 
     return posts
 
 
+def extract_title_from_post(soup: BeautifulSoup) -> str:
+    """
+    تلاش برای پیدا کردن عنوان واقعی از صفحه پست (h1، h2، title).
+    """
+    for sel in ["h1", "h2", "h3"]:
+        tag = soup.find(sel)
+        if tag:
+            text = tag.get_text(strip=True)
+            if text:
+                return text
+
+    if soup.title:
+        t = soup.title.get_text(strip=True)
+        # اگر توی title ساختار سایت هم بود، سعی می‌کنیم فقط بخش عنوان را برداریم
+        for sep in [" » ", " | ", " - "]:
+            if sep in t:
+                t = t.split(sep, 1)[0].strip()
+                break
+        return t
+
+    return ""
+
+
 def extract_details_from_post(soup: BeautifulSoup) -> str:
     """
-    تلاش می‌کند از داخل متن پست، چیزهایی شبیه «فرمت»، «حجم»، «MB», «EPUB», «PDF» را پیدا کند
-    و چند خط مرتبط را کنار هم به‌عنوان جزئیات برگرداند.
+    از صفحه پست، یک خط حاوی اطلاعات فرمت/حجم/ISBN/... را پیدا می‌کند.
+    مثل:
+      English | 2026 | ISBN: 1350557420 | 249 pages | True PDF EPUB | 8.72 MB
     """
 
+    # کلمات کلیدی‌ای که معمولا در خط اطلاعات کتاب/فایل دیده می‌شوند
     keywords = [
-        "فرمت", "حجم", "format", "size",
-        "mb", "gb", "kb",
-        "مگابایت", "گیگابایت", "کیلوبایت",
-        "pdf", "epub", "mobi",
+        "isbn",
+        "pages",
+        "true pdf",
+        "pdf",
+        "epub",
+        "mobi",
+        "azw",
+        "djvu",
+        "fb2",
+        "mp3",
+        "flac",
+        "m4b",
+        "mkv",
+        "mp4",
+        "avi",
+        "mb",
+        "gb",
+        "kb",
+        "مگابایت",
+        "گیگابایت",
+        "کیلوبایت",
     ]
 
     candidates: List[str] = []
+
+    # اول دنبال خطوطی می‌گردیم که هم طول مناسب دارند، هم '|' دارند هم شامل یکی از keywordها هستند
     for text in soup.stripped_strings:
-        t = text.strip()
-        if not t:
+        t = " ".join(text.split())
+        if len(t) < 20 or len(t) > 300:
             continue
-        low = t.lower()
-        if any(k in low for k in keywords):
-            # از تکرار جلوگیری کنیم
-            if t not in candidates:
-                candidates.append(t)
 
-        if len(candidates) >= 5:
-            break
+        lower = t.lower()
+        if "|" in t and any(k in lower for k in keywords):
+            candidates.append(t)
 
-    if not candidates:
-        return "—"
-
-    # اگر متن خیلی طولانی بود، کمی کوتاهش کنیم
-    cleaned: List[str] = []
+    # اگر خطی که شامل ISBN است پیدا شد، همان را ترجیح می‌دهیم
     for c in candidates:
-        c = " ".join(c.split())
-        if len(c) > 200:
-            c = c[:200] + "..."
-        cleaned.append(c)
+        if "isbn" in c.lower():
+            return c
 
-    return " | ".join(cleaned)
+    if candidates:
+        return candidates[0]
+
+    # اگر هنوز چیزی نداریم، دوباره ولی بدون شرط '|'، فقط بر اساس کی‌ورد
+    fallback: List[str] = []
+    for text in soup.stripped_strings:
+        t = " ".join(text.split())
+        if len(t) < 20 or len(t) > 300:
+            continue
+
+        lower = t.lower()
+        if any(k in lower for k in keywords):
+            fallback.append(t)
+
+    for c in fallback:
+        if "isbn" in c.lower():
+            return c
+
+    if fallback:
+        return fallback[0]
+
+    return "—"
 
 
 # -----------------------
-# نوشتن در فایل لاگ روزانه
+# نوشتن لاگ روزانه
 # -----------------------
 
 def append_posts_to_daily_log(posts: List[PostInfo]) -> None:
@@ -295,15 +350,18 @@ def main() -> None:
 
         posts = extract_posts_from_blog(soup, blog)
 
-        # فقط پست‌هایی که قبلا ندیده‌ایم
         for post in posts:
             if post.url in seen_urls:
                 continue
 
             LOGGER.info("New post detected: %s", post.url)
-            # برای هر پست جدید، صفحه خودش را هم باز می‌کنیم تا جزئیات فرمت/حجم را درآوریم
             post_soup = fetch_soup(session, post.url)
             if post_soup is not None:
+                # عنوان را اگر بشود از خود صفحه پست بهتر دربیاوریم
+                new_title = extract_title_from_post(post_soup)
+                if new_title:
+                    post.title = new_title
+
                 post.details = extract_details_from_post(post_soup)
             else:
                 post.details = "—"
@@ -317,7 +375,6 @@ def main() -> None:
         LOGGER.info("Found %d new posts.", len(new_posts))
         append_posts_to_daily_log(new_posts)
 
-    # state را ذخیره کن
     state["seen_urls"] = sorted(seen_urls)
     save_state(state)
 
