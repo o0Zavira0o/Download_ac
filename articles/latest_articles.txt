@@ -1,4 +1,4 @@
-# Last Run: 2026-05-01 09:48 UTC
+# Last Run: 2026-05-01 11:08 UTC
 # Articles published in last 72 hours
 
 [Foreign_Affairs] Libya’s False Peace
@@ -136,8 +136,4 @@ Link: https://foreignpolicy.com/2026/04/28/japan-china-taiwan-okinawa-history/
 [Foreign_Policy] Russia’s War Boom Masks an Economic Implosion
 Published: 2026-04-28T12:11:51+00:00
 Link: https://foreignpolicy.com/2026/04/28/russia-putin-war-ukraine-economy-industry-labor-shortage-demographic-implosion/
----
-[Foreign_Policy] Iran Is More Unified Than Ever
-Published: 2026-04-28T10:29:45+00:00
-Link: https://foreignpolicy.com/2026/04/28/iran-leadership-government-unified-khamenei-qalibaf-public/
 ---
