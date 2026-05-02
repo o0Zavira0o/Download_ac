@@ -1,4 +1,4 @@
-# Last Run: 2026-05-02 19:04 UTC
+# Last Run: 2026-05-02 20:44 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’
@@ -124,8 +124,4 @@ Link: https://foreignpolicy.com/2026/04/29/hegseth-testimony-congress-hasc-iran-
 [Foreign_Policy] India Rethinks Energy Security Amid War
 Published: 2026-04-29T21:13:40+00:00
 Link: https://foreignpolicy.com/2026/04/29/india-energy-security-iran-war-uae-green-technology/
----
-[Foreign_Policy] Where Is Pakistan Again?
-Published: 2026-04-29T20:32:45+00:00
-Link: https://foreignpolicy.com/2026/04/29/pakistan-world-bank-imf-middle-east-saudi-arabia-india-south-asia/
 ---
