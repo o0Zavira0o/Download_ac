@@ -1,4 +1,4 @@
-# Last Run: 2026-05-02 10:54 UTC
+# Last Run: 2026-05-02 13:15 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’
@@ -140,16 +140,4 @@ Link: https://foreignpolicy.com/2026/04/29/south-africa-ambassador-us-roelf-meye
 [Foreign_Policy] The Global Economic Impact from the Iran Conflict
 Published: 2026-04-29T17:32:18+00:00
 Link: https://foreignpolicy.com/2026/04/29/gopinath-foreign-policy-live-fpl-agrawal-iran-war-hormuz-blockade-global-economic-impact-oil-gas/
----
-[Foreign_Policy] War Is Killing Ukraine’s Oligarchy
-Published: 2026-04-29T12:21:28+00:00
-Link: https://foreignpolicy.com/2026/04/29/ukraine-oligarchs-war-corruption/
----
-[Foreign_Policy] Hedging Is the New Normal
-Published: 2026-04-29T11:30:16+00:00
-Link: https://foreignpolicy.com/2026/04/29/hedging-strategy-geopolitics-international-affairs-global-order/
----
-[Foreign_Policy] The EU Is the New Go-To Middle Power
-Published: 2026-04-29T11:03:04+00:00
-Link: https://foreignpolicy.com/2026/04/29/eu-european-union-middle-powers-trade-agreements-geopolitics/
 ---
