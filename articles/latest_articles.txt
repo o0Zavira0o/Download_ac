@@ -1,4 +1,4 @@
-# Last Run: 2026-05-02 06:08 UTC
+# Last Run: 2026-05-02 09:08 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’
@@ -93,6 +93,10 @@ Link: https://foreignpolicy.com/2026/04/30/francken-belgium-iran-war-hegseth-tru
 Published: 2026-04-30T12:18:04+00:00
 Link: https://foreignpolicy.com/2026/04/30/iran-ayatollah-turkey-pakistan-israel-india-iraq-aggrieved/
 ---
+[New_Yorker_Magazine] “Schmigadoon!” and “The Lost Boys” Are Killer Revamps
+Published: 2026-04-30T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/05/11/the-lost-boys-theatre-review-schmigadoon
+---
 [Foreign_Policy] The Eulogy That Explains Israel’s Current Tragedy
 Published: 2026-04-30T09:03:14+00:00
 Link: https://foreignpolicy.com/2026/04/30/israel-dayan-eulogy-palestine-tragedy/
@@ -148,12 +152,4 @@ Link: https://foreignpolicy.com/2026/04/29/hedging-strategy-geopolitics-internat
 [Foreign_Policy] The EU Is the New Go-To Middle Power
 Published: 2026-04-29T11:03:04+00:00
 Link: https://foreignpolicy.com/2026/04/29/eu-european-union-middle-powers-trade-agreements-geopolitics/
----
-[Foreign_Policy] The Taiwan Evacuation Trap
-Published: 2026-04-29T09:00:56+00:00
-Link: https://foreignpolicy.com/2026/04/29/taiwan-china-us-war-invasion-crisis-evacuation-civilians/
----
-[Foreign_Policy] German Foreign Policy Has Finally Grown Up
-Published: 2026-04-29T08:45:06+00:00
-Link: https://foreignpolicy.com/2026/04/29/germany-foreign-policy-merz-trump-grown-up/
 ---
