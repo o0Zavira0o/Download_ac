@@ -25,14 +25,13 @@ class BlogConfig:
 
 
 # ✅ اینجا می‌تونی بلاگ‌های جدید اضافه/کم کنی:
-# مثال اضافه کردن کاربر جدید:
+# مثال:
 #   BlogConfig("NewUser", "http://zavat.pw/blogs/NewUser"),
 BLOGS: List[BlogConfig] = [
     BlogConfig("yoyoloit",   "http://zavat.pw/blogs/yoyoloit"),
     BlogConfig("IrGens",     "http://zavat.pw/blogs/IrGens"),
     BlogConfig("AvaxGenius", "http://zavat.pw/blogs/AvaxGenius"),
     BlogConfig("hill0",      "http://zavat.pw/blogs/hill0"),
-    BlogConfig("crazy-slim", "http://zavat.pw/blogs/crazy-slim"),
 ]
 
 # آدرس‌هایی که «صفحه پست» محسوب می‌شوند
@@ -53,7 +52,7 @@ CONTENT_PREFIXES = [
     "/video/",
 ]
 
-# الگوهایی که اگر در آدرس تصویر باشند، یعنی احتمالا بنر/حمایت/لوگو هستند
+# تصویرهایی که احتمالا بنر/حمایت/لوگو هستند
 UNWANTED_IMAGE_SUBSTRINGS = [
     "donate",
     "donation",
@@ -176,11 +175,6 @@ def get_content_container(soup: BeautifulSoup) -> BeautifulSoup:
 def looks_like_post_url(base_url: str, href: str) -> Optional[str]:
     """
     بررسی می‌کند که یک href، لینک واقعیِ یک پست (کتاب/مجله/موزیک/...) است یا نه.
-    شرط‌ها:
-      - روی همان دامنه باشد
-      - پسوند .html داشته باشد
-      - مسیرش با یکی از CONTENT_PREFIXES شروع شود
-      - لینکِ ریشه‌ی دسته‌ها مثل /music یا /ebooks خودش حساب نشود
     """
     if not href or href.startswith("#"):
         return None
@@ -247,7 +241,7 @@ def extract_posts_from_blog(
     blog: BlogConfig,
 ) -> List[PostInfo]:
     """
-    فقط لینک‌های واقعی پست‌ها را از داخل ناحیه محتوای بلاگ استخراج می‌کند
+    لینک‌های واقعی پست‌ها را از داخل ناحیه محتوای بلاگ استخراج می‌کند
     و برای هر کدام، تصویر کاور را از همان صفحه بلاگ پیدا می‌کند.
     """
     container = get_content_container(soup)
@@ -300,7 +294,6 @@ def extract_title_from_post(soup: BeautifulSoup) -> str:
 
     if soup.title:
         t = soup.title.get_text(strip=True)
-        # اگر توی title ساختار سایت هم بود، سعی می‌کنیم فقط بخش عنوان را برداریم
         for sep in [" » ", " | ", " - "]:
             if sep in t:
                 t = t.split(sep, 1)[0].strip()
@@ -313,8 +306,6 @@ def extract_title_from_post(soup: BeautifulSoup) -> str:
 def extract_details_from_post(soup: BeautifulSoup) -> str:
     """
     از صفحه پست، یک خط حاوی اطلاعات فرمت/حجم/ISBN/... را پیدا می‌کند.
-    مثل:
-      English | 2026 | ISBN: 1350557420 | 249 pages | True PDF EPUB | 8.72 MB
     """
 
     keywords = [
@@ -437,10 +428,10 @@ def download_image_by_url(
 
 
 # -----------------------
-# نوشتن لاگ روزانه (متنی)
+# نوشتن لاگ روزانه (متنی) – *اضافه‌شدن در بالا*
 # -----------------------
 
-def append_posts_to_daily_log(posts: List[PostInfo]) -> None:
+def prepend_posts_to_daily_log(posts: List[PostInfo]) -> None:
     if not posts:
         return
 
@@ -449,20 +440,30 @@ def append_posts_to_daily_log(posts: List[PostInfo]) -> None:
     time_str = now.strftime("%H:%M:%S")
     log_path = LOGS_DIR / f"{date_str}.txt"
 
-    with log_path.open("a", encoding="utf-8") as f:
-        for post in posts:
-            f.write("=" * 80 + "\n")
-            f.write(f"{date_str} {time_str} ({TZ.key}) | {post.blog}\n")
-            f.write(f"Title  : {post.title}\n")
-            f.write(f"Details: {post.details}\n")
-            f.write(f"Link   : {post.url}\n\n")
+    # بلوک متن پست‌های جدید
+    lines: List[str] = []
+    for post in posts:
+        lines.append("=" * 80 + "\n")
+        lines.append(f"{date_str} {time_str} ({TZ.key}) | {post.blog}\n")
+        lines.append(f"Title  : {post.title}\n")
+        lines.append(f"Details: {post.details}\n")
+        lines.append(f"Link   : {post.url}\n\n")
+
+    new_block = "".join(lines)
+
+    old_content = ""
+    if log_path.exists():
+        old_content = log_path.read_text(encoding="utf-8")
+
+    # جدیدها بالا، قدیمی‌ها پایین
+    log_path.write_text(new_block + old_content, encoding="utf-8")
 
 
 # -----------------------
-# نوشتن لاگ روزانه (Markdown با تصویر)
+# نوشتن لاگ روزانه (Markdown با تصویر) – *اضافه‌شدن در بالا*
 # -----------------------
 
-def append_posts_to_daily_markdown(posts: List[PostInfo]) -> None:
+def prepend_posts_to_daily_markdown(posts: List[PostInfo]) -> None:
     if not posts:
         return
 
@@ -471,21 +472,33 @@ def append_posts_to_daily_markdown(posts: List[PostInfo]) -> None:
     time_str = now.strftime("%H:%M:%S")
     md_path = MD_DIR / f"{date_str}.md"
 
-    is_new = not md_path.exists()
+    header = f"# Zavat feed - {date_str}\n\n"
 
-    with md_path.open("a", encoding="utf-8") as f:
-        if is_new:
-            f.write(f"# Zavat feed - {date_str}\n\n")
+    if md_path.exists():
+        old = md_path.read_text(encoding="utf-8")
+        if old.startswith(header):
+            old_body = old[len(header):]
+        else:
+            # اگر دستی ویرایش شده باشد، کلش را به‌عنوان body می‌گیریم
+            old_body = old
+    else:
+        old_body = ""
 
-        for post in posts:
-            f.write("---\n\n")
-            f.write(f"**Time:** {time_str} ({TZ.key})  \n")
-            f.write(f"**Blog:** {post.blog}  \n\n")
-            f.write(f"**Title:** {post.title}  \n\n")
-            f.write(f"**Details:** {post.details}  \n\n")
-            f.write(f"**Link:** {post.url}  \n\n")
-            if post.image_rel_path:
-                f.write(f"![cover]({post.image_rel_path})\n\n")
+    # بلوک Markdown پست‌های جدید
+    blocks: List[str] = []
+    for post in posts:
+        blocks.append("---\n\n")
+        blocks.append(f"**Time:** {time_str} ({TZ.key})  \n")
+        blocks.append(f"**Blog:** {post.blog}  \n\n")
+        blocks.append(f"**Title:** {post.title}  \n\n")
+        blocks.append(f"**Details:** {post.details}  \n\n")
+        blocks.append(f"**Link:** {post.url}  \n\n")
+        if post.image_rel_path:
+            blocks.append(f"![cover]({post.image_rel_path})\n\n")
+
+    new_block = "".join(blocks)
+
+    md_path.write_text(header + new_block + old_body, encoding="utf-8")
 
 
 # -----------------------
@@ -538,8 +551,8 @@ def main() -> None:
         LOGGER.info("No new posts found.")
     else:
         LOGGER.info("Found %d new posts.", len(new_posts))
-        append_posts_to_daily_log(new_posts)
-        append_posts_to_daily_markdown(new_posts)
+        prepend_posts_to_daily_log(new_posts)
+        prepend_posts_to_daily_markdown(new_posts)
 
 
 if __name__ == "__main__":
