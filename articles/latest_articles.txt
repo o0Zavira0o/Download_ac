@@ -1,4 +1,4 @@
-# Last Run: 2026-05-02 20:44 UTC
+# Last Run: 2026-05-02 22:44 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’
@@ -112,16 +112,4 @@ Link: https://www.foreignaffairs.com/united-states/new-resource-curse
 [Foreign_Affairs] What Drove Down America’s Fentanyl Deaths?
 Published: 2026-04-30T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/what-drove-down-americas-fentanyl-deaths
----
-[Foreign_Policy] Where Is Iran’s Enriched Uranium?
-Published: 2026-04-29T21:38:53+00:00
-Link: https://foreignpolicy.com/2026/04/29/iran-nuclear-program-iaea-grossi-isfahan-enriched-uranium-us-war-hegseth-caine/
----
-[Foreign_Policy] ‘Resign Immediately’: Democrats Grill Hegseth on Iran War
-Published: 2026-04-29T21:38:05+00:00
-Link: https://foreignpolicy.com/2026/04/29/hegseth-testimony-congress-hasc-iran-war-trump-defense/
----
-[Foreign_Policy] India Rethinks Energy Security Amid War
-Published: 2026-04-29T21:13:40+00:00
-Link: https://foreignpolicy.com/2026/04/29/india-energy-security-iran-war-uae-green-technology/
 ---
