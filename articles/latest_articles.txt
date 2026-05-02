@@ -1,4 +1,4 @@
-# Last Run: 2026-05-02 02:48 UTC
+# Last Run: 2026-05-02 06:08 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’
@@ -156,20 +156,4 @@ Link: https://foreignpolicy.com/2026/04/29/taiwan-china-us-war-invasion-crisis-e
 [Foreign_Policy] German Foreign Policy Has Finally Grown Up
 Published: 2026-04-29T08:45:06+00:00
 Link: https://foreignpolicy.com/2026/04/29/germany-foreign-policy-merz-trump-grown-up/
----
-[Foreign_Policy] Why Indonesia Floated a Malacca Toll
-Published: 2026-04-29T05:00:35+00:00
-Link: https://foreignpolicy.com/2026/04/29/indonesia-malacca-strait-toll-shipping-trade/
----
-[Foreign_Affairs] The Real Threat to Taiwan
-Published: 2026-04-29T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/real-threat-taiwan
----
-[Foreign_Affairs] How the War Saved the Iranian Regime
-Published: 2026-04-29T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/how-war-saved-iranian-regime
----
-[Foreign_Affairs] The Transatlantic MAGA Fantasy
-Published: 2026-04-29T04:00:00+00:00
-Link: https://www.foreignaffairs.com/europe/transatlantic-maga-fantasy
 ---
