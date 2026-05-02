@@ -32,6 +32,7 @@ BLOGS: List[BlogConfig] = [
     BlogConfig("IrGens",     "http://zavat.pw/blogs/IrGens"),
     BlogConfig("AvaxGenius", "http://zavat.pw/blogs/AvaxGenius"),
     BlogConfig("hill0",      "http://zavat.pw/blogs/hill0"),
+    BlogConfig("crazy-slim", "http://zavat.pw/blogs/crazy-slim",
 ]
 
 # آدرس‌هایی که «صفحه پست» محسوب می‌شوند
