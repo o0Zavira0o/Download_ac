@@ -11,7 +11,8 @@ API_KEY = os.environ["YOUTUBE_API_KEY"]
 SEARCH_QUERIES = [
     "solidworks tutorial",
     "solidworks project",
-    "سالیدورکس آموزش",
+    "Cad design",
+    "Restoration",
 ]
 
 # چند ساعت قبل را می‌خواهی؟ (برای 24 ساعت گذشته)
