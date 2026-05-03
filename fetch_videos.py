@@ -34,7 +34,7 @@ TOPICS = {
         "title": "آموزش‌ها و پروژه‌های SolidWorks",
         "queries": [
             "\"advanced solidworks\" | \"solidworks complex mechanism\" | \"solidworks motion study\" | \"solidworks kinematic\"",
-            "solidworks \"nâng cao\" | \"mô phỏng cơ cấu\" | \"thiết kế máy\" | \"lắp ráp chuyên sâu
+            "solidworks \"nâng cao\" | \"mô phỏng cơ cấu\" | \"thiết kế máy\" | \"lắp ráp chuyên sâu\"",
         ],
         "channels": [
             # مثال: اگر یک کانال سالیدورکس مورد علاقه داری، این‌طور اضافه کن:
