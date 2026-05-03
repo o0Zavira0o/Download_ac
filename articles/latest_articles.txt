@@ -1,4 +1,4 @@
-# Last Run: 2026-05-03 06:27 UTC
+# Last Run: 2026-05-03 09:24 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’
@@ -96,8 +96,4 @@ Link: https://foreignpolicy.com/2026/04/30/iran-ayatollah-turkey-pakistan-israel
 [New_Yorker_Magazine] “Schmigadoon!” and “The Lost Boys” Are Killer Revamps
 Published: 2026-04-30T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/05/11/the-lost-boys-theatre-review-schmigadoon
----
-[Foreign_Policy] The Eulogy That Explains Israel’s Current Tragedy
-Published: 2026-04-30T09:03:14+00:00
-Link: https://foreignpolicy.com/2026/04/30/israel-dayan-eulogy-palestine-tragedy/
 ---
