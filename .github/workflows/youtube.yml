@@ -1,8 +1,8 @@
-name: Fetch SolidWorks YouTube videos
+name: Fetch YouTube topics
 
 on:
   schedule:
-    # هر روز ساعت 8:30 صبح UTC (تقریباً 12 ظهر ایران، بسته به ساعت تابستونی)
+    # هر روز ساعت 8:30 صبح UTC (تقریباً 12 ظهر ایران؛ بسته به ساعت تابستانی)
     - cron: "30 8 * * *"
   workflow_dispatch:  # امکان اجرای دستی
 
@@ -34,6 +34,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add videos.md
-          git commit -m "Update SolidWorks videos list [skip ci]" || echo "No changes to commit"
+          git add reports
+          git commit -m "Update YouTube reports [skip ci]" || echo "No changes to commit"
           git push
