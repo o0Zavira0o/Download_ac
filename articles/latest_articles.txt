@@ -1,4 +1,4 @@
-# Last Run: 2026-05-03 20:45 UTC
+# Last Run: 2026-05-03 22:44 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’
@@ -68,8 +68,4 @@ Link: https://www.foreignaffairs.com/libya/libyas-false-peace
 [Foreign_Affairs] China and America Are Courting Nuclear Catastrophe
 Published: 2026-05-01T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/china-and-america-are-courting-nuclear-catastrophe
----
-[Foreign_Policy] The View From Europe
-Published: 2026-04-30T22:12:55+00:00
-Link: https://foreignpolicy.com/2026/04/30/hormuz-iran-trump-nato-belgium-francken/
 ---
