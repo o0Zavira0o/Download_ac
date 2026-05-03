@@ -44,6 +44,11 @@ TOPICS = {
             #     "channel_id": "UCxxxxxxxxxxxx",  # آیدی کانال
             #     "name": "Awesome SolidWorks Channel",
             # },
+            {
+                "channel_id": "UCE_xxLon-l7ROImMMGafOmQ",
+                "name": "Pham Hau Training",
+            }
+            
         ],
     },
     "asmr": {
