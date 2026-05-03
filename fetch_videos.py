@@ -31,12 +31,20 @@ SEEN_FILE = OUTPUT_ROOT / "seen_videos.json"
 # موضوعات (تاپیک‌ها) و کلیدواژه‌ها/کانال‌ها
 TOPICS = {
     "solidworks": {
-        "title": "آموزش‌ها و پروژه‌های SolidWorks",
+        "title": "طراحی مکانیزم‌ها و آموزش‌های پیشرفته SolidWorks",
         "queries": [
-            "solidworks tutorial",
-            "solidworks project",
-            "Cad design",
-            "Restoration",
+            "advanced solidworks tutorial",
+            "solidworks complex mechanism",
+            "solidworks advanced assembly step by step",
+            "solidworks motion study mechanism",
+            "solidworks mechanical animation",
+            "solidworks top-down design tutorial",
+            "solidworks kinematic simulation",
+            "solidworks complex parts modeling",
+            "hướng dẫn solidworks nâng cao", 
+            "mô phỏng cơ cấu solidworks",
+            "thiết kế máy solidworks",
+            "lắp ráp solidworks chuyên sâu",
         ],
         "channels": [
             # مثال: اگر یک کانال سالیدورکس مورد علاقه داری، این‌طور اضافه کن:
