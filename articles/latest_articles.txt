@@ -1,4 +1,4 @@
-# Last Run: 2026-05-03 10:57 UTC
+# Last Run: 2026-05-03 13:15 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’
@@ -88,8 +88,4 @@ Link: https://foreignpolicy.com/2026/04/30/syria-reconstruction-sharaa-trump-bar
 [Foreign_Policy] ‘Everything Depends on Our Attitudes’
 Published: 2026-04-30T18:09:01+00:00
 Link: https://foreignpolicy.com/2026/04/30/francken-belgium-iran-war-hegseth-trump-hormuz-nato/
----
-[Foreign_Policy] An Ayatollah for the Aggrieved
-Published: 2026-04-30T12:18:04+00:00
-Link: https://foreignpolicy.com/2026/04/30/iran-ayatollah-turkey-pakistan-israel-india-iraq-aggrieved/
 ---
