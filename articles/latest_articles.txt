@@ -1,4 +1,4 @@
-# Last Run: 2026-05-03 03:23 UTC
+# Last Run: 2026-05-03 06:27 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’
@@ -100,16 +100,4 @@ Link: https://www.newyorker.com/magazine/2026/05/11/the-lost-boys-theatre-review
 [Foreign_Policy] The Eulogy That Explains Israel’s Current Tragedy
 Published: 2026-04-30T09:03:14+00:00
 Link: https://foreignpolicy.com/2026/04/30/israel-dayan-eulogy-palestine-tragedy/
----
-[Foreign_Policy] For What AI Could Do to Democracies, Look to the Petrostates
-Published: 2026-04-30T04:01:40+00:00
-Link: https://foreignpolicy.com/2026/04/30/petrostates-ai-democracies/
----
-[Foreign_Affairs] The New Resource Curse
-Published: 2026-04-30T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/new-resource-curse
----
-[Foreign_Affairs] What Drove Down America’s Fentanyl Deaths?
-Published: 2026-04-30T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/what-drove-down-americas-fentanyl-deaths
 ---
