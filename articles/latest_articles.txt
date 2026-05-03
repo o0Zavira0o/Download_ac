@@ -1,4 +1,4 @@
-# Last Run: 2026-05-03 16:54 UTC
+# Last Run: 2026-05-03 19:03 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’
@@ -76,16 +76,4 @@ Link: https://foreignpolicy.com/2026/04/30/hormuz-iran-trump-nato-belgium-franck
 [Foreign_Policy] Iran War Nears 60-Day War Powers Deadline
 Published: 2026-04-30T19:34:19+00:00
 Link: https://foreignpolicy.com/2026/04/30/hegseth-senate-testimony-iran-war-60-days-war-powers-resolution/
----
-[Foreign_Policy] Giorgia Meloni’s Populist Formula Failed
-Published: 2026-04-30T18:27:52+00:00
-Link: https://foreignpolicy.com/2026/04/30/italy-giorgia-meloni-populist-economy-nationalism-referendum-approval/
----
-[Foreign_Policy] High-Rises Amid the Rubble in Syria
-Published: 2026-04-30T18:22:09+00:00
-Link: https://foreignpolicy.com/2026/04/30/syria-reconstruction-sharaa-trump-barrack-damascus-gulf-saudi-arabia/
----
-[Foreign_Policy] ‘Everything Depends on Our Attitudes’
-Published: 2026-04-30T18:09:01+00:00
-Link: https://foreignpolicy.com/2026/04/30/francken-belgium-iran-war-hegseth-trump-hormuz-nato/
 ---
