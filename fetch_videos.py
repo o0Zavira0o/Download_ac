@@ -49,7 +49,7 @@ TOPICS = {
     "asmr": {
         "title": "ویدیوهای ASMR",
         "queries": [
-            "ASMR restoration "no talking" -AI -generated -animation -3d -cgi",
+            "ASMR restoration no talking -AI -generated -animation -3d -cgi",
         ],
         "channels": [
             # این‌جا هم اگر کانال ASMR خاصی را خواستی مانیتور کنی اضافه کن
