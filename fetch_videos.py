@@ -33,10 +33,8 @@ TOPICS = {
     "solidworks": {
         "title": "آموزش‌ها و پروژه‌های SolidWorks",
         "queries": [
-            "solidworks complex mechanism",
-            "advanced solidworks",
-            "solidworks top-down design tutorial",
-            "hướng dẫn solidworks nâng cao",
+            "solidworks",
+            "cad design",
         ],
         "channels": [
             # مثال: اگر یک کانال سالیدورکس مورد علاقه داری، این‌طور اضافه کن:
@@ -49,7 +47,8 @@ TOPICS = {
     "asmr": {
         "title": "ویدیوهای ASMR",
         "queries": [
-            "ASMR restoration",
+            "ASMR",
+            "no talking",
         ],
         "channels": [
             # این‌جا هم اگر کانال ASMR خاصی را خواستی مانیتور کنی اضافه کن
@@ -58,7 +57,7 @@ TOPICS = {
     "CAD": {
         "title": "ویدیوهای CAD Design",
         "queries": [
-            "Advanced Cad design tutorial step by step",
+            "Advanced Cad",
         ],
         "channels": [
             # این‌جا هم اگر کانال ASMR خاصی را خواستی مانیتور کنی اضافه کن
