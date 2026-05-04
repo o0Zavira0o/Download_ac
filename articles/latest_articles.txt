@@ -1,6 +1,18 @@
-# Last Run: 2026-05-04 02:59 UTC
+# Last Run: 2026-05-04 06:41 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The End of the Axis of Abraham
+Published: 2026-05-04T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/end-axis-abraham
+---
+[Foreign_Affairs] Why the Next India-Pakistan War Will Escalate
+Published: 2026-05-04T04:00:00+00:00
+Link: https://www.foreignaffairs.com/india/why-next-india-pakistan-war-will-escalate
+---
+[Foreign_Affairs] Xi’s Forever Purge
+Published: 2026-05-04T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/xis-forever-purge
+---
 [Foreign_Policy] Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’
 Published: 2026-05-01T20:58:38+00:00
 Link: https://foreignpolicy.com/2026/05/01/trump-60-days-war-powers-resolution-unconstitutional-iran-us-congress/
@@ -60,12 +72,4 @@ Link: https://foreignpolicy.com/2026/05/01/santa-marta-climate-conference-fossil
 [Foreign_Policy] Trump’s Plan B for Tariffs Rests on Shaky Foundations
 Published: 2026-05-01T10:00:53+00:00
 Link: https://foreignpolicy.com/2026/05/01/trump-tariffs-ustr-iran-plan-b/
----
-[Foreign_Affairs] Libya’s False Peace
-Published: 2026-05-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/libya/libyas-false-peace
----
-[Foreign_Affairs] China and America Are Courting Nuclear Catastrophe
-Published: 2026-05-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/china-and-america-are-courting-nuclear-catastrophe
 ---
