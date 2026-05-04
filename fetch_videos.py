@@ -33,8 +33,9 @@ TOPICS = {
     "solidworks": {
         "title": "آموزش‌ها و پروژه‌های SolidWorks",
         "queries": [
-            "\"advanced solidworks\" | \"solidworks complex mechanism\" | \"solidworks motion study\" | \"solidworks kinematic\"",
-            "solidworks \"nâng cao\" | \"mô phỏng cơ cấu\" | \"thiết kế máy\" | \"lắp ráp chuyên sâu\"",
+            "solidworks tutorial",
+            "solidworks project",
+            "سالیدورکس آموزش",
         ],
         "channels": [
             # مثال: اگر یک کانال سالیدورکس مورد علاقه داری، این‌طور اضافه کن:
@@ -42,19 +43,13 @@ TOPICS = {
             #     "channel_id": "UCxxxxxxxxxxxx",  # آیدی کانال
             #     "name": "Awesome SolidWorks Channel",
             # },
-            {
-                "channel_id": "UCE_xxLon-l7ROImMMGafOmQ",
-                "name": "Pham Hau Training",
-            }
-            
         ],
     },
     "asmr": {
         "title": "ویدیوهای ASMR",
         "queries": [
             "asmr sleep",
-            "asmr",
-            "Oddly Satisfying",
+            "asmr فارسی",
         ],
         "channels": [
             # این‌جا هم اگر کانال ASMR خاصی را خواستی مانیتور کنی اضافه کن
