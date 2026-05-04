@@ -13,47 +13,53 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Install Python dependencies
-        run: pip install --quiet --upgrade requests
-
       - name: Download file
         id: download
         env:
           INPUT_URL: ${{ github.event.inputs.file_url }}
         run: |
           set -euo pipefail
-
           mkdir -p download
 
-          python - << 'PY'
+          python3 - << 'PY'
           import os
           import re
           import mimetypes
           import pathlib
           from urllib.parse import urlparse
-
-          import requests
+          from urllib.request import Request, urlopen
 
           url = os.environ["INPUT_URL"]
 
-          # زمان‌های timeout برای اتصال و خواندن
-          timeout = (10, 300)
+          # تمیز کردن نام فایل برای استفاده هم در مسیر و هم در نام آرتیفکت
+          def sanitize_filename(name: str, max_len: int = 200) -> str:
+              # کاراکترهای ممنوع برای GitHub Artifact / فایل‌سیستم
+              invalid = '":<>|*?\\/\r\n'
+              trans = {ord(c): " " for c in invalid}
+              name = name.translate(trans)
+              # جمع‌کردن فاصله‌های اضافی
+              name = re.sub(r"\s+", " ", name).strip()
+              if not name:
+                  name = "downloaded_file"
 
-          with requests.get(url, stream=True, allow_redirects=True, timeout=timeout) as r:
-              r.raise_for_status()
+              root, ext = os.path.splitext(name)
+              if not root:
+                  root = "file"
 
-              cd = r.headers.get("content-disposition", "") or ""
+              # کوتاه‌کردن در صورت خیلی طولانی بودن
+              if len(root) + len(ext) > max_len:
+                  root = root[: max_len - len(ext)]
+
+              return root + ext
+
+          # دانلود با کتابخانه استاندارد (بدون نیاز به pip install)
+          req = Request(url, headers={"User-Agent": "Mozilla/5.0"})
+          # timeout کلی (ثانیه)
+          with urlopen(req, timeout=300) as resp:
+              cd = resp.headers.get("Content-Disposition") or ""
               filename = None
 
-              # ۱) تلاش برای گرفتن نام فایل از Content-Disposition
+              # ۱) تلاش برای گرفتن نام از Content-Disposition
               m = re.search(
                   r'filename\*?=(?:UTF-8\'\')?"?([^\";]+)"?',
                   cd,
@@ -62,65 +68,52 @@ jobs:
               if m:
                   filename = m.group(1).strip().strip('"')
 
-              # ۲) اگر نشد، از انتهای URL (بعد از redirect نهایی) استفاده می‌کنیم
+              # ۲) اگر نبود، از انتهای URL نهایی بعد از ریدایرکت
               if not filename:
-                  path = urlparse(r.url).path
+                  path = urlparse(resp.geturl()).path
                   if path and path != "/":
                       filename = pathlib.PurePosixPath(path).name
 
-              # ۳) اگر باز هم چیزی نبود، یک نام پیش‌فرض
+              # ۳) نام پیش‌فرض
               if not filename:
                   filename = "downloaded_file"
 
-              # ۴) اگر پسوند ندارد، از روی Content-Type حدس می‌زنیم
-              if "." not in filename.split("/")[-1]:
-                  ctype = (r.headers.get("content-type") or "").split(";")[0].strip()
+              # ۴) اگر پسوند ندارد، از Content-Type حدس بزن
+              if "." not in os.path.basename(filename):
+                  ctype = (resp.headers.get("Content-Type") or "").split(";")[0].strip()
                   if ctype:
                       ext = mimetypes.guess_extension(ctype) or ""
                       if ext and not filename.endswith(ext):
                           filename += ext
 
-              # مسیر ذخیره‌ی فایل با همان نام اصلی
-              out_path = pathlib.Path("download") / filename
+              # ساخت نام امن برای دیسک و برای نام آرتیفکت
+              safe_filename = sanitize_filename(filename)
+
+              out_path = pathlib.Path("download") / safe_filename
               out_path.parent.mkdir(parents=True, exist_ok=True)
 
-              # دانلود chunk به chunk برای سرعت و پایداری
+              # دانلود تکه‌ای برای سرعت/پایداری
               with open(out_path, "wb") as f:
-                  for chunk in r.iter_content(chunk_size=1024 * 1024):
-                      if chunk:
-                          f.write(chunk)
+                  while True:
+                      chunk = resp.read(1024 * 1024)
+                      if not chunk:
+                          break
+                      f.write(chunk)
 
-              # --- ساخت نام امن و کوتاه‌شده برای artifact ---
-              # کاراکترهای ممنوع در نام آرتیفکت طبق قوانین GitHub
-              invalid_for_artifact = '":<>|*?\\/\r\n'
-              trans_table = {ord(c): " " for c in invalid_for_artifact}
-              artifact_name = filename.translate(trans_table)
+          print(f"Original filename (from server): {filename}")
+          print(f"Saved & uploaded as: {safe_filename}")
 
-              # حذف فاصله‌های اضافی
-              artifact_name = re.sub(r"\s+", " ", artifact_name).strip()
-              if not artifact_name:
-                  artifact_name = "downloaded_file"
-
-              # کوتاه‌کردن نام آرتیفکت تا حداکثر ۲۰۰ کاراکتر (با حفظ پسوند در حد امکان)
-              MAX_LEN = 200
-              if len(artifact_name) > MAX_LEN:
-                  root, ext = os.path.splitext(artifact_name)
-                  artifact_name = root[: MAX_LEN - len(ext)] + ext
-
-              print(f"Downloaded to: {out_path}")
-              print(f"Artifact name: {artifact_name}")
-
-              # خروجی‌ها برای step بعدی
-              with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
-                  print(f"file_path={out_path}", file=fh)        # مسیر واقعی فایل
-                  print(f"file_name={filename}", file=fh)        # نام اصلی فایل
-                  print(f"artifact_name={artifact_name}", file=fh)  # نام تمیز و کوتاه‌شده برای آرتیفکت
+          github_output = os.environ["GITHUB_OUTPUT"]
+          with open(github_output, "a", encoding="utf-8") as fh:
+              # مسیر فایلی که باید آپلود شود
+              print(f"file_path={out_path}", file=fh)
+              # همان نام تمیز‌شده به‌عنوان نام آرتیفکت
+              print(f"artifact_name={safe_filename}", file=fh)
           PY
 
       - name: Upload as artifact
         uses: actions/upload-artifact@v4
         with:
-          # از نام تمیزشده به‌عنوان نام آرتیفکت استفاده می‌کنیم
           name: ${{ steps.download.outputs.artifact_name }}
           path: ${{ steps.download.outputs.file_path }}
           if-no-files-found: error
