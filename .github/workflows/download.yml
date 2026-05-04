@@ -1,24 +1,109 @@
-name: Remote Download to Artifact
+name: Download file to artifact
+
 on:
   workflow_dispatch:
     inputs:
       file_url:
-        description: 'لینک مستقیم فایل را اینجا وارد کنید'
+        description: 'آدرس (URL) فایلی که می‌خواهید دانلود شود'
         required: true
-        default: ''
+        type: string
 
 jobs:
-  download_job:
+  download:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Download File
+      # اگر نیاز ندارید، می‌توانید checkout را حذف کنید
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Python dependencies
+        run: pip install --quiet --upgrade requests
+
+      - name: Download file
+        id: download
+        env:
+          INPUT_URL: ${{ github.event.inputs.file_url }}
         run: |
-          # دانلود فایل با استفاده از wget
-          wget "${{ github.event.inputs.file_url }}" -O downloaded_file
-          
-      - name: Upload to GitHub Artifacts
+          set -euo pipefail
+
+          mkdir -p download
+
+          python - << 'PY'
+          import os
+          import re
+          import mimetypes
+          import pathlib
+          from urllib.parse import urlparse
+
+          import requests
+
+          url = os.environ["INPUT_URL"]
+
+          # Timeout معقول برای اتصال و خواندن
+          timeout = (10, 300)  # (connect_timeout, read_timeout)
+
+          with requests.get(url, stream=True, allow_redirects=True, timeout=timeout) as r:
+              r.raise_for_status()
+
+              cd = r.headers.get("content-disposition", "") or ""
+              filename = None
+
+              # ۱) تلاش برای استخراج نام فایل از Content-Disposition
+              m = re.search(
+                  r'filename\*?=(?:UTF-8\'\')?"?([^\";]+)"?',
+                  cd,
+                  flags=re.IGNORECASE,
+              )
+              if m:
+                  filename = m.group(1).strip().strip('"')
+
+              # ۲) اگر نشد، استفاده از آخرین بخش مسیر URL (بعد از redirect نهایی)
+              if not filename:
+                  path = urlparse(r.url).path  # r.url آدرس نهایی بعد از redirect
+                  if path and path != "/":
+                      filename = pathlib.PurePosixPath(path).name
+
+              # ۳) نام پیش‌فرض اگر هیچ چیزی پیدا نشد
+              if not filename:
+                  filename = "downloaded_file"
+
+              # ۴) اگر پسوند مشخص ندارد، بر اساس Content-Type حدس بزن
+              if "." not in filename.split("/")[-1]:
+                  ctype = (r.headers.get("content-type") or "").split(";")[0].strip()
+                  if ctype:
+                      ext = mimetypes.guess_extension(ctype) or ""
+                      if ext and not filename.endswith(ext):
+                          filename += ext
+
+              out_path = pathlib.Path("download") / filename
+              out_path.parent.mkdir(parents=True, exist_ok=True)
+
+              # دانلود chunk به chunk برای فایل‌های بزرگ
+              with open(out_path, "wb") as f:
+                  for chunk in r.iter_content(chunk_size=1024 * 1024):
+                      if chunk:
+                          f.write(chunk)
+
+              print(f"Downloaded to: {out_path}")
+
+              # ارسال اطلاعات فایل به عنوان output برای step بعدی
+              with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
+                  print(f"file_path={out_path}", file=fh)
+                  print(f"file_name={filename}", file=fh)
+          PY
+
+      - name: Upload as artifact
         uses: actions/upload-artifact@v4
         with:
-          name: my-downloaded-file
-          path: downloaded_file
-          retention-days: 1 # فایل فقط ۱ روز ذخیره بماند (برای امنیت بیشتر)
+          # نام Artifact همان نام فایل دانلودشده است
+          name: ${{ steps.download.outputs.file_name }}
+          path: ${{ steps.download.outputs.file_path }}
+          if-no-files-found: error
+          # مدت نگه‌داری Artifact (قابل تغییر)
+          retention-days: 7
