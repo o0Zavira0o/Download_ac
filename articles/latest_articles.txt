@@ -1,6 +1,14 @@
-# Last Run: 2026-05-04 10:16 UTC
+# Last Run: 2026-05-04 14:06 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump’s War Exposes the Weakness of Middle Powers
+Published: 2026-05-04T10:56:02+00:00
+Link: https://foreignpolicy.com/2026/05/04/middle-powers-geopolitics-global-order-trump-war-iran-china/
+---
+[Foreign_Policy] The End of America’s Soft Power
+Published: 2026-05-04T09:37:27+00:00
+Link: https://foreignpolicy.com/2026/05/04/trump-soft-power-usa/
+---
 [Foreign_Policy] This Energy Crisis Is Undoing the Last Ones
 Published: 2026-05-04T09:10:57+00:00
 Link: https://foreignpolicy.com/2026/05/04/energy-crisis-history-20th-century-west-order/
@@ -52,24 +60,4 @@ Link: https://foreignpolicy.com/2026/05/01/international-fiction-releases-new-sk
 [Foreign_Policy] Israel’s Slow War on the West Bank
 Published: 2026-05-01T15:55:55+00:00
 Link: https://foreignpolicy.com/2026/05/01/west-bank-israel-settlers-violence-palestinian-authority-smotrich/
----
-[Foreign_Policy] The Deeper Pattern Behind China’s Military Purges
-Published: 2026-05-01T13:49:51+00:00
-Link: https://foreignpolicy.com/2026/05/01/xi-jinping-china-military-factions-purges-centenary/
----
-[Foreign_Policy] Why Trump Might Come to Regret the Iran War
-Published: 2026-05-01T13:26:49+00:00
-Link: https://foreignpolicy.com/2026/05/01/trump-iran-war-regret-cease-fire/
----
-[Foreign_Affairs] The Price of Peace With Iran
-Published: 2026-05-01T13:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/price-peace-iran
----
-[Foreign_Policy] The Real Meaning of the UAE’s OPEC Exit
-Published: 2026-05-01T12:14:11+00:00
-Link: https://foreignpolicy.com/2026/05/01/uae-opec-exit-meaning-oil-middle-east/
----
-[Foreign_Policy] Colombia’s Anti-Fossil Fuel Conference
-Published: 2026-05-01T12:00:54+00:00
-Link: https://foreignpolicy.com/2026/05/01/santa-marta-climate-conference-fossil-fuels-colombia-netherlands-un-cop/
 ---
