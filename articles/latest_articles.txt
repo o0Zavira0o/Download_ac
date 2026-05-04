@@ -1,6 +1,10 @@
-# Last Run: 2026-05-04 06:41 UTC
+# Last Run: 2026-05-04 10:16 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] This Energy Crisis Is Undoing the Last Ones
+Published: 2026-05-04T09:10:57+00:00
+Link: https://foreignpolicy.com/2026/05/04/energy-crisis-history-20th-century-west-order/
+---
 [Foreign_Affairs] The End of the Axis of Abraham
 Published: 2026-05-04T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/end-axis-abraham
@@ -68,8 +72,4 @@ Link: https://foreignpolicy.com/2026/05/01/uae-opec-exit-meaning-oil-middle-east
 [Foreign_Policy] Colombia’s Anti-Fossil Fuel Conference
 Published: 2026-05-01T12:00:54+00:00
 Link: https://foreignpolicy.com/2026/05/01/santa-marta-climate-conference-fossil-fuels-colombia-netherlands-un-cop/
----
-[Foreign_Policy] Trump’s Plan B for Tariffs Rests on Shaky Foundations
-Published: 2026-05-01T10:00:53+00:00
-Link: https://foreignpolicy.com/2026/05/01/trump-tariffs-ustr-iran-plan-b/
 ---
