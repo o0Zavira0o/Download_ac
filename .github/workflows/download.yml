@@ -13,7 +13,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # اگر نیاز ندارید، می‌توانید checkout را حذف کنید
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -45,8 +44,8 @@ jobs:
 
           url = os.environ["INPUT_URL"]
 
-          # Timeout معقول برای اتصال و خواندن
-          timeout = (10, 300)  # (connect_timeout, read_timeout)
+          # زمان‌های timeout برای اتصال و خواندن
+          timeout = (10, 300)
 
           with requests.get(url, stream=True, allow_redirects=True, timeout=timeout) as r:
               r.raise_for_status()
@@ -54,7 +53,7 @@ jobs:
               cd = r.headers.get("content-disposition", "") or ""
               filename = None
 
-              # ۱) تلاش برای استخراج نام فایل از Content-Disposition
+              # ۱) تلاش برای گرفتن نام فایل از Content-Disposition
               m = re.search(
                   r'filename\*?=(?:UTF-8\'\')?"?([^\";]+)"?',
                   cd,
@@ -63,17 +62,17 @@ jobs:
               if m:
                   filename = m.group(1).strip().strip('"')
 
-              # ۲) اگر نشد، استفاده از آخرین بخش مسیر URL (بعد از redirect نهایی)
+              # ۲) اگر نشد، از انتهای URL (بعد از redirect نهایی) استفاده می‌کنیم
               if not filename:
-                  path = urlparse(r.url).path  # r.url آدرس نهایی بعد از redirect
+                  path = urlparse(r.url).path
                   if path and path != "/":
                       filename = pathlib.PurePosixPath(path).name
 
-              # ۳) نام پیش‌فرض اگر هیچ چیزی پیدا نشد
+              # ۳) اگر باز هم چیزی نبود، یک نام پیش‌فرض
               if not filename:
                   filename = "downloaded_file"
 
-              # ۴) اگر پسوند مشخص ندارد، بر اساس Content-Type حدس بزن
+              # ۴) اگر پسوند ندارد، از روی Content-Type حدس می‌زنیم
               if "." not in filename.split("/")[-1]:
                   ctype = (r.headers.get("content-type") or "").split(";")[0].strip()
                   if ctype:
@@ -81,29 +80,48 @@ jobs:
                       if ext and not filename.endswith(ext):
                           filename += ext
 
+              # مسیر ذخیره‌ی فایل با همان نام اصلی
               out_path = pathlib.Path("download") / filename
               out_path.parent.mkdir(parents=True, exist_ok=True)
 
-              # دانلود chunk به chunk برای فایل‌های بزرگ
+              # دانلود chunk به chunk برای سرعت و پایداری
               with open(out_path, "wb") as f:
                   for chunk in r.iter_content(chunk_size=1024 * 1024):
                       if chunk:
                           f.write(chunk)
 
-              print(f"Downloaded to: {out_path}")
+              # --- ساخت نام امن و کوتاه‌شده برای artifact ---
+              # کاراکترهای ممنوع در نام آرتیفکت طبق قوانین GitHub
+              invalid_for_artifact = '":<>|*?\\/\r\n'
+              trans_table = {ord(c): " " for c in invalid_for_artifact}
+              artifact_name = filename.translate(trans_table)
 
-              # ارسال اطلاعات فایل به عنوان output برای step بعدی
+              # حذف فاصله‌های اضافی
+              artifact_name = re.sub(r"\s+", " ", artifact_name).strip()
+              if not artifact_name:
+                  artifact_name = "downloaded_file"
+
+              # کوتاه‌کردن نام آرتیفکت تا حداکثر ۲۰۰ کاراکتر (با حفظ پسوند در حد امکان)
+              MAX_LEN = 200
+              if len(artifact_name) > MAX_LEN:
+                  root, ext = os.path.splitext(artifact_name)
+                  artifact_name = root[: MAX_LEN - len(ext)] + ext
+
+              print(f"Downloaded to: {out_path}")
+              print(f"Artifact name: {artifact_name}")
+
+              # خروجی‌ها برای step بعدی
               with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
-                  print(f"file_path={out_path}", file=fh)
-                  print(f"file_name={filename}", file=fh)
+                  print(f"file_path={out_path}", file=fh)        # مسیر واقعی فایل
+                  print(f"file_name={filename}", file=fh)        # نام اصلی فایل
+                  print(f"artifact_name={artifact_name}", file=fh)  # نام تمیز و کوتاه‌شده برای آرتیفکت
           PY
 
       - name: Upload as artifact
         uses: actions/upload-artifact@v4
         with:
-          # نام Artifact همان نام فایل دانلودشده است
-          name: ${{ steps.download.outputs.file_name }}
+          # از نام تمیزشده به‌عنوان نام آرتیفکت استفاده می‌کنیم
+          name: ${{ steps.download.outputs.artifact_name }}
           path: ${{ steps.download.outputs.file_path }}
           if-no-files-found: error
-          # مدت نگه‌داری Artifact (قابل تغییر)
           retention-days: 7
