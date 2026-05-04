@@ -1,4 +1,4 @@
-# Last Run: 2026-05-04 17:44 UTC
+# Last Run: 2026-05-04 19:44 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S. War in Iran Leaves Ukraine’s Air Defense in Limbo
@@ -44,28 +44,4 @@ Link: https://foreignpolicy.com/2026/05/01/trump-60-days-war-powers-resolution-u
 [Foreign_Policy] Will the Next Fed Chairman Be More Compliant With Trump?
 Published: 2026-05-01T20:44:22+00:00
 Link: https://foreignpolicy.com/2026/05/01/adam-tooze-kevin-warsh-federal-reserve-trump-interest-rates/
----
-[Foreign_Policy] ‘Project Hail Mary’ and the Politics of Science Fiction
-Published: 2026-05-01T19:00:34+00:00
-Link: https://foreignpolicy.com/2026/05/01/project-hail-mary-politics-science-fiction-techno-optimism/
----
-[Foreign_Policy] Saffron’s Last Gasp
-Published: 2026-05-01T18:45:19+00:00
-Link: https://foreignpolicy.com/2026/05/01/saffron-iran-war-supply-chain-hungry-hegemon/
----
-[Foreign_Policy] The Real Origin of the World’s Most Famous Female Serial Killer
-Published: 2026-05-01T18:30:58+00:00
-Link: https://foreignpolicy.com/2026/05/01/blood-countess-shelley-puhak-review-historical-record/
----
-[Foreign_Policy] ‘Hokum’ Is Haunted by Ireland’s Dark History
-Published: 2026-05-01T18:15:41+00:00
-Link: https://foreignpolicy.com/2026/05/01/hokum-movie-review-adam-scott-ireland-history-horror-magdalene-laundries/
----
-[Foreign_Policy] What in the World?
-Published: 2026-05-01T18:10:49+00:00
-Link: https://foreignpolicy.com/2026/05/01/news-quiz-iran-war-hormuz-uae-opec-colombia-conference-mali-russia/
----
-[Foreign_Policy] Two Novels Take on the Post-American Dream
-Published: 2026-05-01T18:00:16+00:00
-Link: https://foreignpolicy.com/2026/05/01/international-fiction-releases-new-skin-sarah-wang/
 ---
