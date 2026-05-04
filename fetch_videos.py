@@ -33,8 +33,10 @@ TOPICS = {
     "solidworks": {
         "title": "آموزش‌ها و پروژه‌های SolidWorks",
         "queries": [
-            "\"advanced solidworks\" | \"solidworks complex mechanism\" | \"solidworks motion study\" | \"solidworks kinematic\"",
-            "solidworks \"nâng cao\" | \"mô phỏng cơ cấu\" | \"thiết kế máy\" | \"lắp ráp chuyên sâu\"",
+            "solidworks complex mechanism",
+            "solidworks top-down design tutorial",
+            "hướng dẫn solidworks nâng cao",
+            "advanced cad design",
         ],
         "channels": [
             # مثال: اگر یک کانال سالیدورکس مورد علاقه داری، این‌طور اضافه کن:
