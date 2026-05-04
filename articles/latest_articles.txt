@@ -1,6 +1,18 @@
-# Last Run: 2026-05-04 14:06 UTC
+# Last Run: 2026-05-04 17:44 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] U.S. War in Iran Leaves Ukraine’s Air Defense in Limbo
+Published: 2026-05-04T15:43:41+00:00
+Link: https://foreignpolicy.com/2026/05/04/us-iran-war-ukraine-patriot-missiles-air-defense-purl/
+---
+[Foreign_Policy] Mali Is the Key to Understanding Africa’s Trajectory
+Published: 2026-05-04T15:07:22+00:00
+Link: https://foreignpolicy.com/2026/05/04/mali-insecurity-sahel-africa-trajectory/
+---
+[Foreign_Policy] When Rumors of a Drinking Problem Sunk a Cabinet Nomination
+Published: 2026-05-04T14:13:21+00:00
+Link: https://foreignpolicy.com/2026/05/04/tower-senator-bush-cabinet-nomination/
+---
 [Foreign_Policy] Trump’s War Exposes the Weakness of Middle Powers
 Published: 2026-05-04T10:56:02+00:00
 Link: https://foreignpolicy.com/2026/05/04/middle-powers-geopolitics-global-order-trump-war-iran-china/
@@ -56,8 +68,4 @@ Link: https://foreignpolicy.com/2026/05/01/news-quiz-iran-war-hormuz-uae-opec-co
 [Foreign_Policy] Two Novels Take on the Post-American Dream
 Published: 2026-05-01T18:00:16+00:00
 Link: https://foreignpolicy.com/2026/05/01/international-fiction-releases-new-skin-sarah-wang/
----
-[Foreign_Policy] Israel’s Slow War on the West Bank
-Published: 2026-05-01T15:55:55+00:00
-Link: https://foreignpolicy.com/2026/05/01/west-bank-israel-settlers-violence-palestinian-authority-smotrich/
 ---
