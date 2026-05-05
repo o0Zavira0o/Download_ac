@@ -27,6 +27,9 @@ CHANNELS = [
     {
         "url": "https://www.youtube.com/channel/UCFnsKhMbsX6IV_KPsMaA5PQ",
     },
+    {
+        "url": "https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q",
+    },
 ]
 
 # ========== توابع کمکی ==========
