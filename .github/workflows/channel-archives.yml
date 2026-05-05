@@ -1,0 +1,39 @@
+name: Update YouTube channel archives
+
+on:
+  schedule:
+    # هر روز ساعت 09:00 صبح UTC (حدود 12:30 ایران، بسته به ساعت تابستانی)
+    - cron: "0 9 * * *"
+  workflow_dispatch:  # امکان اجرای دستی
+
+jobs:
+  update-channels:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run channel archive script
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python fetch_channel_videos.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add channels
+          git commit -m "Update YouTube channel archives [skip ci]" || echo "No changes to commit"
+          git push
