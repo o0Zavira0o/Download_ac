@@ -57,7 +57,7 @@ TOPICS = {
     "CAD": {
         "title": "ویدیوهای CAD Design",
         "queries": [
-            "Advanced Cad",
+            "Construction planning",
         ],
         "channels": [
             # این‌جا هم اگر کانال ASMR خاصی را خواستی مانیتور کنی اضافه کن
