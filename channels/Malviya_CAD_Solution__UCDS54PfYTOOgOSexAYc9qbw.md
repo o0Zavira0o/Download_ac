@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-05-05T10:51:33Z_
+_آخرین به‌روزرسانی: 2026-05-06T07:27:04Z_
 
 
 لینک کانال: [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)
+
+
+- **تاریخ انتشار:** 2026-05-06 03:22:23 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Cut with wrap feature in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=aLm9JPfBPq4)  
+  ![](https://i.ytimg.com/vi/aLm9JPfBPq4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-05 15:39:53 (UTC)  
+  **مدت:** حدود 1.8 دقیقه  
+  **عنوان:** [Solidworks 3d modelling with surface feature #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=S9bbgJ9P7Q8)  
+  ![](https://i.ytimg.com/vi/S9bbgJ9P7Q8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-04 17:38:36 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-05T10:51:33Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [How to remove decimal digits zeros from dimensions in solidworks sketch #shorts #ytshorts](https://www.youtube.com/watch?v=XDTSV5BnITU)  
   ![](https://i.ytimg.com/vi/XDTSV5BnITU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-07 07:49:41 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Structure design in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=6LXiypDcMsk)  
-  ![](https://i.ytimg.com/vi/6LXiypDcMsk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-06 08:51:22 (UTC)  
-  **مدت:** حدود 29.7 دقیقه  
-  **عنوان:** [Solidworks Sheetmetal Structure Design | Step by Step tutorial](https://www.youtube.com/watch?v=644WiPnolaM)  
-  ![](https://i.ytimg.com/vi/644WiPnolaM/hqdefault.jpg)

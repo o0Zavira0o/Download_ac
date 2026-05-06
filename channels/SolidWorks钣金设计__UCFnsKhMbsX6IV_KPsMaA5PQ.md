@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال SolidWorks钣金设计
 
-_آخرین به‌روزرسانی: 2026-05-05T10:51:33Z_
+_آخرین به‌روزرسانی: 2026-05-06T07:27:04Z_
 
 
 لینک کانال: [SolidWorks钣金设计](https://www.youtube.com/channel/UCFnsKhMbsX6IV_KPsMaA5PQ)
