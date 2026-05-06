@@ -30,6 +30,16 @@ CHANNELS = [
     {
         "url": "https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q",
     },
+    {
+        "url": "https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA",
+    },
+    {
+        "url": "https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA",
+    },
+    {
+        "url": "https://www.youtube.com/channel/UCi_pluZoV81wOpEHXpfJelw",
+    },
+    
 ]
 
 # ========== توابع کمکی ==========
