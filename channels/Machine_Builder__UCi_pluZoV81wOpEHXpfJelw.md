@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Machine Builder
 
-_آخرین به‌روزرسانی: 2026-05-06T07:27:04Z_
+_آخرین به‌روزرسانی: 2026-05-06T10:45:39Z_
 
 
 لینک کانال: [Machine Builder](https://www.youtube.com/channel/UCi_pluZoV81wOpEHXpfJelw)
