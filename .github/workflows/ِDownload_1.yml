@@ -1,10 +1,10 @@
-name: Smart Downloader
+name: Smart Downloader v2
 
 on:
   workflow_dispatch:
     inputs:
-      file_url:
-        description: "Direct file URL"
+      file_urls:
+        description: "تا ۱۰ لینک، هر کدام در یک خط"
         required: true
 
 jobs:
@@ -21,71 +21,114 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y zip p7zip-full
 
-      - name: Download file (robust)
+      - name: Prepare folders
         run: |
-          URL="${{ github.event.inputs.file_url }}"
-          echo "Downloading from $URL"
+          mkdir -p downloads
+          mkdir -p parts
 
-          curl -L --retry 10 --retry-delay 5 -C - "$URL" -o file.tmp
-
-          NAME=$(basename "$URL")
-          mv file.tmp "$NAME"
-
-          echo "FILENAME=$NAME" >> $GITHUB_ENV
-
-      - name: Detect size
+      - name: Download and process URLs
         run: |
-          SIZE=$(stat -c%s "$FILENAME")
-          echo "SIZE=$SIZE"
-          echo "SIZE=$SIZE" >> $GITHUB_ENV
+          set -u
 
-      - name: Prepare split if >100MB
-        run: |
-          LIMIT=$((100*1024*1024))
+          LIMIT=$((100*1024*1024))   # 100MB
+          RUN_DIR="run-${{ github.run_id }}"
+          mkdir -p "parts/$RUN_DIR"
 
-          if [ "$SIZE" -gt "$LIMIT" ]; then
-            echo "Large file → splitting"
+          echo "Processing URLs for $RUN_DIR"
+          COUNT=0
 
-            mkdir parts
+          # خواندن هر خط به عنوان یک URL
+          while IFS= read -r URL; do
+            # حذف فاصله‌های ابتدا/انتها (زیاد حساس نیست، فقط برای تمیزی)
+            URL="$(echo "$URL" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')"
 
-            zip -s 95m "parts/${FILENAME}.zip" "$FILENAME"
+            # اگر خط خالی بود، رد کن
+            if [ -z "$URL" ]; then
+              continue
+            fi
 
-            rm "$FILENAME"
+            COUNT=$((COUNT+1))
+            if [ "$COUNT" -gt 10 ]; then
+              echo "بیش از ۱۰ لینک داده شده؛ بقیه نادیده گرفته می‌شوند."
+              break
+            fi
 
-            echo "MODE=split" >> $GITHUB_ENV
-          else
-            echo "MODE=single" >> $GITHUB_ENV
-          fi
+            echo "----------------------------------------"
+            echo "URL #$COUNT: $URL"
 
-      - name: Commit to repo (try)
-        continue-on-error: true
+            # استخراج اسم فایل از URL (بدون query string)
+            BASENAME=$(basename "${URL%%\?*}")
+            if [ -z "$BASENAME" ] || [ "$BASENAME" = "/" ]; then
+              BASENAME="file_$COUNT"
+            fi
+
+            OUT_PATH="downloads/$BASENAME"
+
+            # اگر قبلاً فایلی با این اسم وجود داشت، یکتا کن
+            if [ -e "$OUT_PATH" ]; then
+              TS=$(date +%s)
+              OUT_PATH="downloads/${TS}_$BASENAME"
+              BASENAME=$(basename "$OUT_PATH")
+            fi
+
+            echo "Downloading to: $OUT_PATH"
+
+            # دانلود مقاوم
+            curl -L --retry 10 --retry-delay 5 -C - "$URL" -o "$OUT_PATH"
+
+            # چک سایز
+            SIZE=$(stat -c%s "$OUT_PATH")
+            echo "Size: $SIZE bytes"
+
+            if [ "$SIZE" -gt "$LIMIT" ]; then
+              echo "Large file → splitting into 95MB parts"
+              # zip split شده داخل پوشه‌ی همین ران
+              zip -s 95m "parts/$RUN_DIR/${BASENAME}.zip" "$OUT_PATH"
+              # فایل اصلی را حذف می‌کنیم (فقط پارت‌ها بمانند)
+              rm "$OUT_PATH"
+            else
+              echo "Small file → keeping as a single file"
+              # فایل کوچک را هم داخل همون پوشه‌ی ران در parts می‌بریم
+              mv "$OUT_PATH" "parts/$RUN_DIR/$BASENAME"
+            fi
+
+          done <<< "${{ github.event.inputs.file_urls }}"
+
+          echo "All done for $RUN_DIR"
+          ls -R parts
+
+      - name: Commit to repo
+        id: commit
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          if [ "$MODE" = "single" ]; then
-            git add "$FILENAME"
-          else
-            git add parts/*
+          # همه خروجی‌ها در parts/ هستند
+          git add parts
+
+          # اگر چیزی برای کامیت کردن نیست
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            echo "pushed=false" >> $GITHUB_OUTPUT
+            exit 0
           fi
 
-          git commit -m "downloaded file"
-          git push
+          git commit -m "Downloaded files (run ${{ github.run_id }})"
 
-      - name: Detect commit result
-        run: |
-          if git ls-files | grep -q .; then
-            echo "REPO_OK=true" >> $GITHUB_ENV
+          # push را هندل کن، حتی اگر خطا دهد
+          if git push; then
+            echo "Push succeeded."
+            echo "pushed=true" >> $GITHUB_OUTPUT
           else
-            echo "REPO_OK=false" >> $GITHUB_ENV
+            echo "Push failed, will use release fallback."
+            echo "pushed=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Create Release if repo failed
-        if: env.REPO_OK == 'false'
+      - name: Create Release if repo push failed
+        if: steps.commit.outputs.pushed != 'true'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: download-${{ github.run_id }}
           name: Download ${{ github.run_id }}
           files: |
-            ${{ env.FILENAME }}
-            parts/*
+            parts/**/*
