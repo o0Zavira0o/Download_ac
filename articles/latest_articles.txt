@@ -1,6 +1,30 @@
-# Last Run: 2026-05-06 21:14 UTC
+# Last Run: 2026-05-06 22:57 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] U.S. Might Be Close to a Deal With Iran
+Published: 2026-05-06T21:21:50+00:00
+Link: https://foreignpolicy.com/2026/05/06/us-iran-war-peace-deal-memorandum-nuclear-enrichment-moratorium-strait-hormuz/
+---
+[Foreign_Policy] The BJP Scores Big in West Bengal
+Published: 2026-05-06T20:55:16+00:00
+Link: https://foreignpolicy.com/2026/05/06/india-bjp-state-elections-west-bengal-victory/
+---
+[Foreign_Policy] China Tests a Rare Tool in Its Sanctions Arsenal
+Published: 2026-05-06T20:26:50+00:00
+Link: https://foreignpolicy.com/2026/05/06/china-us-sanctions-ban-trump-xi-iran-war-oil-trade/
+---
+[Foreign_Policy] Washington Is Still Chasing the Perfect War
+Published: 2026-05-06T19:54:17+00:00
+Link: https://foreignpolicy.com/2026/05/06/united-states-iran-trump-iraq-afghanistan-war/
+---
+[Foreign_Policy] The Iran War Is Eroding Israel’s Nuclear Ambiguity
+Published: 2026-05-06T19:45:03+00:00
+Link: https://foreignpolicy.com/2026/05/06/iran-war-trump-netanyahu-israel-nuclear-weapons/
+---
+[Foreign_Policy] Why Did Beijing Kill a $2 Billion AI Deal?
+Published: 2026-05-06T19:27:53+00:00
+Link: https://foreignpolicy.com/2026/05/06/china-ai-singapore-manus-meta-us-competition/
+---
 [Foreign_Policy] Can a U.S.-Brokered State Budget Help Unite Libya?
 Published: 2026-05-06T18:57:32+00:00
 Link: https://foreignpolicy.com/2026/05/06/libya-unified-state-budget-rival-administrations-trump-middle-east/
