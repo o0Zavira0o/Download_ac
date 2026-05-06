@@ -1,10 +1,10 @@
-name: Smart Downloader v2
+name: Smart Downloader V3
 
 on:
   workflow_dispatch:
     inputs:
       file_urls:
-        description: "تا ۱۰ لینک، هر کدام در یک خط"
+        description: "لینک‌ها را با فاصله (Space) از هم جدا کنید (حداکثر ۱۰ لینک)"
         required: true
 
 jobs:
@@ -27,8 +27,12 @@ jobs:
           mkdir -p parts
 
       - name: Download and process URLs
+        # انتقال امن ورودی به متغیر محیطی برای جلوگیری از خطاهای Bash
+        env:
+          RAW_URLS: ${{ github.event.inputs.file_urls }}
         run: |
           set -u
+          set -f # غیرفعال کردن بسط کاراکترهای خاص مثل * برای امنیت بیشتر
 
           LIMIT=$((100*1024*1024))   # 100MB
           RUN_DIR="run-${{ github.run_id }}"
@@ -37,26 +41,25 @@ jobs:
           echo "Processing URLs for $RUN_DIR"
           COUNT=0
 
-          # خواندن هر خط به عنوان یک URL
-          while IFS= read -r URL; do
-            # حذف فاصله‌های ابتدا/انتها (زیاد حساس نیست، فقط برای تمیزی)
-            URL="$(echo "$URL" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')"
-
-            # اگر خط خالی بود، رد کن
+          # در اینجا متغیر RAW_URLS بدون کوتیشن نوشته شده تا Bash خودش 
+          # اسپیس‌ها و تب‌ها را به عنوان جداکننده تشخیص دهد.
+          for URL in $RAW_URLS; do
+            
+            # اگر خالی بود رد کن
             if [ -z "$URL" ]; then
               continue
             fi
 
             COUNT=$((COUNT+1))
             if [ "$COUNT" -gt 10 ]; then
-              echo "بیش از ۱۰ لینک داده شده؛ بقیه نادیده گرفته می‌شوند."
+              echo "⚠️ بیش از ۱۰ لینک وارد شده است؛ لینک‌های بعدی نادیده گرفته می‌شوند."
               break
             fi
 
             echo "----------------------------------------"
             echo "URL #$COUNT: $URL"
 
-            # استخراج اسم فایل از URL (بدون query string)
+            # استخراج اسم فایل از لینک
             BASENAME=$(basename "${URL%%\?*}")
             if [ -z "$BASENAME" ] || [ "$BASENAME" = "/" ]; then
               BASENAME="file_$COUNT"
@@ -64,7 +67,7 @@ jobs:
 
             OUT_PATH="downloads/$BASENAME"
 
-            # اگر قبلاً فایلی با این اسم وجود داشت، یکتا کن
+            # جلوگیری از تداخل اسم اگر دو فایل هم‌نام بودند
             if [ -e "$OUT_PATH" ]; then
               TS=$(date +%s)
               OUT_PATH="downloads/${TS}_$BASENAME"
@@ -73,26 +76,23 @@ jobs:
 
             echo "Downloading to: $OUT_PATH"
 
-            # دانلود مقاوم
+            # دانلود با قابلیت مقاومت در برابر قطعی
             curl -L --retry 10 --retry-delay 5 -C - "$URL" -o "$OUT_PATH"
 
-            # چک سایز
+            # بررسی حجم فایل
             SIZE=$(stat -c%s "$OUT_PATH")
             echo "Size: $SIZE bytes"
 
             if [ "$SIZE" -gt "$LIMIT" ]; then
               echo "Large file → splitting into 95MB parts"
-              # zip split شده داخل پوشه‌ی همین ران
               zip -s 95m "parts/$RUN_DIR/${BASENAME}.zip" "$OUT_PATH"
-              # فایل اصلی را حذف می‌کنیم (فقط پارت‌ها بمانند)
               rm "$OUT_PATH"
             else
               echo "Small file → keeping as a single file"
-              # فایل کوچک را هم داخل همون پوشه‌ی ران در parts می‌بریم
               mv "$OUT_PATH" "parts/$RUN_DIR/$BASENAME"
             fi
 
-          done <<< "${{ github.event.inputs.file_urls }}"
+          done
 
           echo "All done for $RUN_DIR"
           ls -R parts
@@ -103,10 +103,8 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          # همه خروجی‌ها در parts/ هستند
           git add parts
 
-          # اگر چیزی برای کامیت کردن نیست
           if git diff --cached --quiet; then
             echo "No changes to commit."
             echo "pushed=false" >> $GITHUB_OUTPUT
@@ -115,7 +113,6 @@ jobs:
 
           git commit -m "Downloaded files (run ${{ github.run_id }})"
 
-          # push را هندل کن، حتی اگر خطا دهد
           if git push; then
             echo "Push succeeded."
             echo "pushed=true" >> $GITHUB_OUTPUT
