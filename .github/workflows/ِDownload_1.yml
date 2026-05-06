@@ -1,4 +1,4 @@
-name: Smart Downloader V4
+name: Smart Downloader V5
 
 on:
   workflow_dispatch:
@@ -30,8 +30,7 @@ jobs:
         env:
           RAW_URLS: ${{ github.event.inputs.file_urls }}
         run: |
-          # GitHub به طور پیش‌فرض با -e اجرا می‌کند، اینجا آن را خاموش می‌کنیم
-          # تا با خطای یک کامند، کل اسکریپت متوقف نشود.
+          # GitHub به‌طور پیش‌فرض با -e اجرا می‌کند، اینجا برای هندل‌کردن خطاها غیرفعال می‌کنیم
           set +e
           set -u
           set -f  # غیرفعال کردن globbing مثل * برای امنیت بیشتر
@@ -41,11 +40,13 @@ jobs:
           mkdir -p "parts/$RUN_DIR"
           mkdir -p downloads
 
-          echo "Processing URLs for $RUN_DIR"
+          echo "Input URLs (space-separated):"
+          echo "$RAW_URLS"
+          echo "----------------------------------------"
+
           COUNT=0
           FAILED=0
 
-          # RAW_URLS بر اساس فاصله (space/tab/newline) به لینک‌های جدا تقسیم می‌شود
           for URL in $RAW_URLS; do
             if [ -z "$URL" ]; then
               continue
@@ -57,10 +58,13 @@ jobs:
               break
             fi
 
-            echo "----------------------------------------"
-            echo "URL #$COUNT: $URL"
+            echo "========================================"
+            echo "[$(date -u +'%H:%M:%S')] START URL #$COUNT:"
+            echo "$URL"
 
-            # نام فایل بر اساس URL (بدون query string)
+            start_ts=$(date +%s)
+
+            # استخراج نام پایه از URL
             BASENAME=$(basename "${URL%%\?*}")
             if [ -z "$BASENAME" ] || [ "$BASENAME" = "/" ]; then
               BASENAME="file_$COUNT"
@@ -68,24 +72,30 @@ jobs:
 
             OUT_PATH="downloads/$BASENAME"
 
-            # اگر قبلاً فایلی با همین نام دانلود شده بود، یکتا کن
+            # اگر فایلی با همین نام وجود داشت، یکتا کن
             if [ -e "$OUT_PATH" ]; then
               TS=$(date +%s)
               OUT_PATH="downloads/${TS}_$BASENAME"
               BASENAME=$(basename "$OUT_PATH")
             fi
 
-            echo "Downloading to: $OUT_PATH"
+            echo "Will download to: $OUT_PATH"
 
-            # دانلود مقاوم؛ اگر خطا داد، لینک بعدی را ادامه بده
-            if ! curl -L --retry 10 --retry-delay 5 -C - "$URL" -o "$OUT_PATH"; then
-              echo "Download failed for URL #$COUNT ($URL). Skipping."
+            # دانلود ترتیبی و مقاوم:
+            # --max-time 1200   : حداکثر ۲۰ دقیقه برای هر لینک
+            # --speed-limit 10k : اگر سرعت کمتر از ۱۰KB/s باشد
+            # --speed-time 300  : به مدت ۵ دقیقه، دانلود قطع می‌شود
+            if ! curl -L \
+                     --retry 5 --retry-delay 5 \
+                     --max-time 1200 \
+                     --speed-limit 10240 --speed-time 300 \
+                     -C - "$URL" -o "$OUT_PATH"; then
+              echo "Download FAILED for URL #$COUNT"
               FAILED=1
               rm -f "$OUT_PATH"
               continue
             fi
 
-            # خواندن سایز؛ اگر نشد، لینک را رد می‌کنیم
             SIZE=$(stat -c%s "$OUT_PATH" 2>/dev/null)
             if [ -z "$SIZE" ]; then
               echo "Could not determine size for $OUT_PATH. Skipping."
@@ -94,28 +104,27 @@ jobs:
               continue
             fi
 
-            echo "Size: $SIZE bytes"
+            echo "Downloaded size: $SIZE bytes"
 
             TARGET_DIR="parts/$RUN_DIR"
             mkdir -p "$TARGET_DIR"
 
-            # برای هر لینک یک base یکتا بر اساس شماره لینک می‌سازیم
+            # برای هر لینک یک نام امن و یکتا
             SAFE_BASE="${COUNT}_$BASENAME"
 
             if [ "$SIZE" -gt "$LIMIT" ]; then
-              echo "Large file → splitting into 95MB parts"
+              echo "Large file → splitting into 95MB parts (no compression)"
 
               OUT_ZIP="$TARGET_DIR/$SAFE_BASE.zip"
-
-              # اگر به هر دلیلی فایل همنام وجود داشت، اسم یکتا بساز
               idx=1
               while [ -e "$OUT_ZIP" ]; do
                 OUT_ZIP="$TARGET_DIR/${SAFE_BASE}_$idx.zip"
                 idx=$((idx+1))
               done
 
-              if ! zip -s 95m "$OUT_ZIP" "$OUT_PATH"; then
-                echo "zip failed for $OUT_PATH. Skipping this file."
+              # -0 یعنی بدون فشرده‌سازی (فقط split) ⇒ خیلی سریع‌تر
+              if ! zip -s 95m -0 "$OUT_ZIP" "$OUT_PATH"; then
+                echo "zip FAILED for $OUT_PATH. Skipping this file."
                 FAILED=1
                 rm -f "$OUT_PATH"
                 continue
@@ -133,21 +142,16 @@ jobs:
               fi
             fi
 
+            end_ts=$(date +%s)
+            dur=$((end_ts - start_ts))
+            echo "[$(date -u +'%H:%M:%S')] DONE URL #$COUNT in ${dur}s"
+
           done
 
-          echo "----------------------------------------"
-          if [ "$COUNT" -eq 0 ]; then
-            echo "No URLs provided after parsing input."
-          fi
-
-          if [ "$FAILED" -ne 0 ]; then
-            echo "Finished with some errors. Check logs above."
-          else
-            echo "All URLs processed successfully."
-          fi
-
-          echo "Listing parts directory:"
-          ls -R parts || true
+          echo "========================================"
+          echo "Processed $COUNT URL(s). Failures flag: $FAILED"
+          echo "Listing files under parts/:"
+          find parts -maxdepth 3 -type f -ls || true
 
       - name: Commit to repo
         id: commit
