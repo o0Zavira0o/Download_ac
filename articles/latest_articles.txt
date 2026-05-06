@@ -1,6 +1,10 @@
-# Last Run: 2026-05-06 06:32 UTC
+# Last Run: 2026-05-06 10:22 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Iran’s Survival Is Not Victory
+Published: 2026-05-06T08:51:51+00:00
+Link: https://foreignpolicy.com/2026/05/06/iran-war-survival-rhetoric-victory/
+---
 [Foreign_Policy] Iran Has All the Hallmarks of a Forever War
 Published: 2026-05-06T05:51:33+00:00
 Link: https://foreignpolicy.com/2026/05/06/iran-hallmarks-forever-war/
@@ -176,8 +180,4 @@ Link: https://www.foreignaffairs.com/india/why-next-india-pakistan-war-will-esca
 [Foreign_Affairs] Xi’s Forever Purge
 Published: 2026-05-04T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/xis-forever-purge
----
-[New_Yorker_Magazine] “Standings,” by Chang-rae Lee
-Published: 2026-05-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/11/chang-rae-lee-fiction-standings
 ---
