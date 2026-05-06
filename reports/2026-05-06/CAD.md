@@ -1,18 +1,18 @@
 # ویدیوهای CAD Design — ویدیوهای معمولی (بیش از ۴ دقیقه)
 
-_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-06T15:33:41Z_
+_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-06T19:09:39Z_
 
-- **تاریخ انتشار:** 2026-05-06 09:45:40 (UTC) — **کانال:** [DFL-UK](https://www.youtube.com/channel/UCFGovijRUXp5xIbXrCPRlqA)  
-  **مدت:** حدود 61.2 دقیقه  
-  **عنوان:** [Beyond the Court From Padel Design to Approval](https://www.youtube.com/watch?v=2reHUDhz9ZI)  
-  ![](https://i.ytimg.com/vi/2reHUDhz9ZI/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 17:00:07 (UTC) — **کانال:** [Modern Home Mastermind with beSpoke Brokers](https://www.youtube.com/channel/UCAWl7IHKJtGog76_pMFlHPw)  
+  **مدت:** حدود 36.8 دقیقه  
+  **عنوان:** [Building Smarter Homes: Matt Lamb on Construction, Craftsmanship & High-Performance Design](https://www.youtube.com/watch?v=5XcDRBvxBNk)  
+  ![](https://i.ytimg.com/vi/5XcDRBvxBNk/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 18:02:08 (UTC) — **کانال:** [AccuDirt Earthworks](https://www.youtube.com/channel/UCeSQt8rz7NBA3e3nsUtvlVw)  
-  **مدت:** حدود 13.8 دقیقه  
-  **عنوان:** [Before a Blade Hits the Dirt: How I Plan a House Pad from the Grading Plans](https://www.youtube.com/watch?v=oiTkAD89Pj8)  
-  ![](https://i.ytimg.com/vi/oiTkAD89Pj8/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 14:00:05 (UTC) — **کانال:** [BLACK CAT PRODUCTION](https://www.youtube.com/channel/UCWmpU1K0olV98aYQdetlnfg)  
+  **مدت:** حدود 18.1 دقیقه  
+  **عنوان:** [Planning to Build a House? Watch This First | Architect Yogesh Sood #architect  #interview #podcast](https://www.youtube.com/watch?v=14lHo1t0uoE)  
+  ![](https://i.ytimg.com/vi/14lHo1t0uoE/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 16:04:52 (UTC) — **کانال:** [PANDANOW](https://www.youtube.com/channel/UCEaAs7hcx0Qc-8MotAF1jww)  
-  **مدت:** حدود 144.5 دقیقه  
-  **عنوان:** [5-4 -2026 Rhinebeck Town Planning Board](https://www.youtube.com/watch?v=PZDmqy4ct0I)  
-  ![](https://i.ytimg.com/vi/PZDmqy4ct0I/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 08:20:45 (UTC) — **کانال:** [ABDUL RAHIM B. ABDUL HAMID FKA](https://www.youtube.com/channel/UCy1TFZupPuzeE4f0_i6qyJQ)  
+  **مدت:** حدود 78.7 دقیقه  
+  **عنوان:** [SEAA4113 LECTURE 8   INTRODUCTION TO PLANNING 2026](https://www.youtube.com/watch?v=6spQvSOTL_8)  
+  ![](https://i.ytimg.com/vi/6spQvSOTL_8/hqdefault.jpg)

@@ -1,38 +1,48 @@
 # ویدیوهای CAD Design — ویدیوهای کوتاه (Shorts، کمتر از 60 ثانیه)
 
-_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-06T15:33:41Z_
+_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-06T19:09:39Z_
 
-- **تاریخ انتشار:** 2026-05-06 13:07:12 (UTC) — **کانال:** [Civil Truth](https://www.youtube.com/channel/UC0ZIfdMiZzB87i-OzJrCw6A)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Why Bathroom Windows Are High? 🤔 #architecture #planning #shorts #civilengineering #construction #yt](https://www.youtube.com/watch?v=cl3Zz4HDPNI)  
-  ![](https://i.ytimg.com/vi/cl3Zz4HDPNI/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 18:06:34 (UTC) — **کانال:** [BuildDoc TV](https://www.youtube.com/channel/UCfzfi__JCxTb9MDlB3Da8vw)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [:“4 Kanal Luxury House Layout | Smart Construction Planning & Site Work](https://www.youtube.com/watch?v=Vv1D73DI0j4)  
+  ![](https://i.ytimg.com/vi/Vv1D73DI0j4/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 13:01:22 (UTC) — **کانال:** [BuildVerse X](https://www.youtube.com/channel/UCLUN2O8Rx7VaxVmCqnM9rUw)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [From Plan to Perfect Tunnel 😳 #shorts #construction #engineering](https://www.youtube.com/watch?v=hzQw4QR2O2g)  
-  ![](https://i.ytimg.com/vi/hzQw4QR2O2g/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 12:29:18 (UTC) — **کانال:** [Mr. Perfect Architect](https://www.youtube.com/channel/UCKXoy8Lrggdzuz69alrCvcw)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [From Empty Land to Modern Village #VillageTransformation #RuralDevelopment  #VillageBuild](https://www.youtube.com/watch?v=WDO5yIcP-2k)  
-  ![](https://i.ytimg.com/vi/WDO5yIcP-2k/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 11:30:40 (UTC) — **کانال:** [BHUVI HOMES](https://www.youtube.com/channel/UCTJ6iNrcMIupb1EWCuS9REA)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Our construction cost starts at just ₹____ / sqft 🏠💰Quality bhi top aur budget bhi control mein!](https://www.youtube.com/watch?v=ecAhekzDXag)  
-  ![](https://i.ytimg.com/vi/ecAhekzDXag/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 10:30:22 (UTC) — **کانال:** [Shriya Singhal Architects and Interiors](https://www.youtube.com/channel/UCeBbqzoang0e0pU4NEGvqkQ)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Big House ≠ Smart Investment | Architecture Myths](https://www.youtube.com/watch?v=bYiPluO0x3A)  
-  ![](https://i.ytimg.com/vi/bYiPluO0x3A/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 07:37:47 (UTC) — **کانال:** [Excel in Life](https://www.youtube.com/channel/UCgOTwQPZ0JhpQiwWXZl5CIA)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Slash Steel Wastage: 15% Reduction On-Site!](https://www.youtube.com/watch?v=r3TK48Q7tlc)  
-  ![](https://i.ytimg.com/vi/r3TK48Q7tlc/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 16:42:26 (UTC) — **کانال:** [Jose Rojas](https://www.youtube.com/channel/UCXfy-1swkMpLFdFYbBeKjbw)  
+- **تاریخ انتشار:** 2026-05-06 18:00:37 (UTC) — **کانال:** [BuildDay Pro](https://www.youtube.com/channel/UCHcA_ltztZWL1T3kC6TDNzQ)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [From planning to execution, every detail matters](https://www.youtube.com/watch?v=6-9fSXnYuiA)  
-  ![](https://i.ytimg.com/vi/6-9fSXnYuiA/hqdefault.jpg)
+  **عنوان:** [Bricklaying ASMR | BuildDay Pro 03](https://www.youtube.com/watch?v=Ylt854ju_zs)  
+  ![](https://i.ytimg.com/vi/Ylt854ju_zs/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 16:24:49 (UTC) — **کانال:** [Abdul Waleed ](https://www.youtube.com/channel/UCzzQ7P5WYHlAzlscEB0XLhg)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [for construction planning designing contact us🫠0/3/1/7/0/7/8/2/6/0/1 #design  #elevationdesign](https://www.youtube.com/watch?v=0gg0Ty36Brc)  
+  ![](https://i.ytimg.com/vi/0gg0Ty36Brc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 16:07:32 (UTC) — **کانال:** [DM Construction Services](https://www.youtube.com/channel/UCZDTKONeqI-EVghjHYdurkA)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [3-Week Kitchen Remodel?! See How Planning Made This Possible](https://www.youtube.com/watch?v=exaJnsaZeQo)  
+  ![](https://i.ytimg.com/vi/exaJnsaZeQo/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 15:00:38 (UTC) — **کانال:** [Shak from RTP Digital Solutions](https://www.youtube.com/channel/UCD09vMH6jue2bK2s9sTO6Iw)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Why Broad Prompts Fail in AI Projects—and How Clear Tasks Win](https://www.youtube.com/watch?v=BQB4i2ni7Q4)  
+  ![](https://i.ytimg.com/vi/BQB4i2ni7Q4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 15:00:28 (UTC) — **کانال:** [Quartz Construction & Remodeling San Jose CA](https://www.youtube.com/channel/UCBibAfOvKOXgJPtb3khT_NA)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Kitchen Remodeling in San Jose CA | Quartz Construction](https://www.youtube.com/watch?v=7bxklrRcacE)  
+  ![](https://i.ytimg.com/vi/7bxklrRcacE/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 14:34:12 (UTC) — **کانال:** [Innovative Engineer12](https://www.youtube.com/channel/UCED6fccVh2i-pAGCKslzWuQ)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Ghar Banane Se Pehle Kya Plan Kare|| घर बनाने से पहले क्या प्लान करना चाहिए़](https://www.youtube.com/watch?v=8AsLQY3U-rk)  
+  ![](https://i.ytimg.com/vi/8AsLQY3U-rk/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 13:48:32 (UTC) — **کانال:** [Arrugam Buildco](https://www.youtube.com/channel/UCu3pA5x70vOkfcixfopxbdg)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Build Your Dream Home Anywhere Within 100KM of Coimbatore!](https://www.youtube.com/watch?v=PGStHaIir1E)  
+  ![](https://i.ytimg.com/vi/PGStHaIir1E/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 08:05:15 (UTC) — **کانال:** [MODERN WOODWORKER](https://www.youtube.com/channel/UC2s-FP0IHDap55hJZCAh0sw)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Extreme Bluewater Catamaran Build from Scratch with Plans](https://www.youtube.com/watch?v=oNFJbil1b9s)  
+  ![](https://i.ytimg.com/vi/oNFJbil1b9s/hqdefault.jpg)
