@@ -38,8 +38,10 @@ CHANNELS = [
     },
     {
         "url": "https://www.youtube.com/channel/UCi_pluZoV81wOpEHXpfJelw",
+    },    
+    {
+        "url": "https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ",
     },
-    
 ]
 
 # ========== توابع کمکی ==========
