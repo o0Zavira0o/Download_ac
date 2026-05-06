@@ -1,588 +1,893 @@
 # ویدیوهای ASMR — ویدیوهای کوتاه (Shorts، کمتر از 60 ثانیه)
 
-_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-06T10:30:23Z_
+_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-06T15:33:41Z_
 
-- **تاریخ انتشار:** 2026-05-06 10:17:36 (UTC) — **کانال:** [ MRCE 7](https://www.youtube.com/channel/UCHk2R4IgZj00DyFBcd08Fsw)  
+- **تاریخ انتشار:** 2026-05-06 15:22:11 (UTC) — **کانال:** [Deep Relax ASMR](https://www.youtube.com/channel/UCvtcaqPQ4_CO-Ttjd9EZnzg)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [“99% of You Will Fall Asleep 😴 Deep Sleep ASMR (No Talking)”#asmr #sleep #deep #caim #notalking](https://www.youtube.com/watch?v=_k-_5YcBzyA)  
+  ![](https://i.ytimg.com/vi/_k-_5YcBzyA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 15:12:05 (UTC) — **کانال:** [SR.COMEDYKING](https://www.youtube.com/channel/UCA5CaC7cwohNPwy9moQYcMA)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [बिना बोले viral हों गया 😱No Talking challenge #comedy #viral #trending #funny bina bole viral](https://www.youtube.com/watch?v=70SWfUliwwg)  
+  ![](https://i.ytimg.com/vi/70SWfUliwwg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 15:04:50 (UTC) — **کانال:** [Barbershop Treatment | PREMIUM](https://www.youtube.com/channel/UCgegpHSLOki8HQ_qQSv3qhg)  
   **مدت:** حدود 0.0 دقیقه  
-  **عنوان:** [What’s Inside These Surprise Eggs? Full Reveal! #asmr #satisfyling #kinderjoy](https://www.youtube.com/watch?v=wXolWSGkXZ0)  
-  ![](https://i.ytimg.com/vi/wXolWSGkXZ0/hqdefault_live.jpg)
+  **عنوان:** [LIVE 🔴 ASMR | BACK MASSAGE In Real Barber Shop](https://www.youtube.com/watch?v=hQfmiuL66mI)  
+  ![](https://i.ytimg.com/vi/hQfmiuL66mI/hqdefault_live.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:14:59 (UTC) — **کانال:** [Chocolate candy & fun](https://www.youtube.com/channel/UCsDkoGzinfXU1-wuBZUWiOg)  
-  **مدت:** حدود 0.0 دقیقه  
-  **عنوان:** [Eggs Unboxing | Satisfying Videos | ASMR](https://www.youtube.com/watch?v=HIg2FfMc7ws)  
-  ![](https://i.ytimg.com/vi/HIg2FfMc7ws/hqdefault_live.jpg)
+- **تاریخ انتشار:** 2026-05-06 15:01:05 (UTC) — **کانال:** [Uncle Manipulator](https://www.youtube.com/channel/UCrg6lI1kYX6rg8AdsdSc5_A)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [XAUUSD Scalping Session #21.3 | No Talking | Live](https://www.youtube.com/watch?v=VlKcIoIfMYs)  
+  ![](https://i.ytimg.com/vi/VlKcIoIfMYs/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:01:33 (UTC) — **کانال:** [Louis Paws Unlimited 🐾](https://www.youtube.com/channel/UC6YRPbuzoByPqkfWm3ChGXA)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [you found a quiet moment. no music. no talking. just wind and wheat.stay as long as you need. #asmr](https://www.youtube.com/watch?v=u98hWZFSz8A)  
-  ![](https://i.ytimg.com/vi/u98hWZFSz8A/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 15:00:56 (UTC) — **کانال:** [ASMR Makeup No Talking](https://www.youtube.com/channel/UC8mhtWiYdupzRrUGkh5uNcw)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [ASMR Makeup No Talking Set Satisfying Unboxing Review Video Sounds Fast Nail Polish](https://www.youtube.com/watch?v=XCqrnryCjEs)  
+  ![](https://i.ytimg.com/vi/XCqrnryCjEs/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:01:22 (UTC) — **کانال:** [miss foxy](https://www.youtube.com/channel/UC89EuEZMeVi3g5R2P6PixTQ)  
+- **تاریخ انتشار:** 2026-05-06 15:00:52 (UTC) — **کانال:** [Kawaii Drawing Club](https://www.youtube.com/channel/UCNRA3clWMKbXpl2o5L7amRw)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Butter ASMR *coconut oil soap vs. glass vs. slime vs. plastic vs. plaster*🧈 #asmr #asmrforsleep](https://www.youtube.com/watch?v=uEUn94le6zw)  
-  ![](https://i.ytimg.com/vi/uEUn94le6zw/hqdefault.jpg)
+  **عنوان:** [1 Minute Drawing Challenge 🎨 | Relaxing Pencil Sounds ASMR (No Talking)](https://www.youtube.com/watch?v=Wm7PqSI8TUQ)  
+  ![](https://i.ytimg.com/vi/Wm7PqSI8TUQ/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:00:33 (UTC) — **کانال:** [Playday24](https://www.youtube.com/channel/UCAwuJE9JHSNuFVsYY3AErWA)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [RIDWAN KESENTRUM ‼️ #asmr #satisfying #fyp](https://www.youtube.com/watch?v=HaxuM_1mZZo)  
-  ![](https://i.ytimg.com/vi/HaxuM_1mZZo/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 14:56:43 (UTC) — **کانال:** [ValBlox](https://www.youtube.com/channel/UCrhfCeI8QL8NsTaZBKvI6mg)  
+  **مدت:** حدود 0.0 دقیقه  
+  **عنوان:** [LIVEE!! Roblox|Keyboard clicker | Asmr |grind games](https://www.youtube.com/watch?v=GxuT_OsKuoY)  
+  ![](https://i.ytimg.com/vi/GxuT_OsKuoY/hqdefault_live.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:00:04 (UTC) — **کانال:** [Satisfaction Chocolate ASMR](https://www.youtube.com/channel/UCUvzKobTf2NYxcdWdnU4RKA)  
+- **تاریخ انتشار:** 2026-05-06 14:54:57 (UTC) — **کانال:** [Suds Pop ](https://www.youtube.com/channel/UCyUe9k9ZPUyLXrKSsuHLcVQ)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Chocolate 🍫 Candy Explosion with Lollipop Crunch | Viral ASMR Compilation #shorts #chocolate #asmr](https://www.youtube.com/watch?v=1jAVyf_WqsI)  
-  ![](https://i.ytimg.com/vi/1jAVyf_WqsI/hqdefault.jpg)
+  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷](https://www.youtube.com/watch?v=7H4Vw2NMleQ)  
+  ![](https://i.ytimg.com/vi/7H4Vw2NMleQ/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:00:03 (UTC) — **کانال:** [Zin Cars & Truck](https://www.youtube.com/channel/UC7y_JVR2ywTu2Cvfw-zy-7w)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [ASMR Satisfying – Lexus LM300h 1:24 Remote Diecast Toy Car #automobile #car #toys](https://www.youtube.com/watch?v=aIbgd-P9V3M)  
-  ![](https://i.ytimg.com/vi/aIbgd-P9V3M/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 14:51:01 (UTC) — **کانال:** [Ambery Jabón ASMR](https://www.youtube.com/channel/UCeg8jdIjlmMJRWKbvc3ouUg)  
+  **مدت:** حدود 0.0 دقیقه  
+  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷](https://www.youtube.com/watch?v=OkytF6kOUSY)  
+  ![](https://i.ytimg.com/vi/OkytF6kOUSY/hqdefault_live.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 09:58:52 (UTC) — **کانال:** [GLOW WITH ASTHAA ](https://www.youtube.com/channel/UCJParxvQjxszGwQNuIlvhbA)  
+- **تاریخ انتشار:** 2026-05-06 14:44:22 (UTC) — **کانال:** [KHAWAR LORAI EMOJIS ](https://www.youtube.com/channel/UC24YzLWO99zurBm1kpJDmyg)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [center fruit eating asmr #youtubeshorts #shortsfeed #shorts #asmr #emojichallenge](https://www.youtube.com/watch?v=1K15XH-iS-U)  
+  ![](https://i.ytimg.com/vi/1K15XH-iS-U/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 14:30:15 (UTC) — **کانال:** [無糖しお - MutouShio -](https://www.youtube.com/channel/UCQU6SWDHJSaN4mcoRxK_kyw)  
+  **مدت:** حدود 0.0 دقیقه  
+  **عنوان:** [【アーカイブﾅｼASMR】GWの最後に♡心地よく眠れる奥行バツグン耳かき【耳かき/囁き/両耳ふー/whisper/Ear cleaning/#無糖しお】](https://www.youtube.com/watch?v=8gQwjycPbcg)  
+  ![](https://i.ytimg.com/vi/8gQwjycPbcg/hqdefault_live.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 14:21:00 (UTC) — **کانال:** [Alva My Toys ](https://www.youtube.com/channel/UCax5pRdSvO_7qK0vLtMRFDw)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Satisfying with Unboxing & Review Peppa Pig Playset Toys ASMR #shorts #peppapig #toys #asmr](https://www.youtube.com/watch?v=_ktwZDhKSWg)  
+  ![](https://i.ytimg.com/vi/_ktwZDhKSWg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 14:19:22 (UTC) — **کانال:** [Bader Al Safar](https://www.youtube.com/channel/UC42AMmteep9j7RAR2FuV4bw)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [ASMR Study Session |No Talking #ASMR #StudyWithMe #NoTalking #CalmVibes #Productivity #StudySession](https://www.youtube.com/watch?v=Ybl78sDytGM)  
-  ![](https://i.ytimg.com/vi/Ybl78sDytGM/hqdefault.jpg)
+  **عنوان:** [Food ASMR Eating a Dubai Chocolate 7UP bottle #food #asmr #mukbang #eating](https://www.youtube.com/watch?v=Hbcj5I7VJsY)  
+  ![](https://i.ytimg.com/vi/Hbcj5I7VJsY/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 09:54:35 (UTC) — **کانال:** [nikuhack](https://www.youtube.com/channel/UCrEoKQwpt9hTruiWVt-9jbw)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [ゴールデンウィークも終わりですね。 #asmr #nikuhack #肉屋](https://www.youtube.com/watch?v=-iIfKMbVFxw)  
-  ![](https://i.ytimg.com/vi/-iIfKMbVFxw/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 09:44:25 (UTC) — **کانال:** [Toca Drama Club](https://www.youtube.com/channel/UCny2wkJzCAzyA3NRhxWxTEA)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Designing the coziest summer home ☀️🌿 No talking #tocaboca #tocaadventure #tocabocagames #tocalife](https://www.youtube.com/watch?v=fs4TKwFtLn8)  
-  ![](https://i.ytimg.com/vi/fs4TKwFtLn8/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 09:43:37 (UTC) — **کانال:** [SAND WORLD PRO ](https://www.youtube.com/channel/UCE70YCA3Bi2jVPYNyvwWcMw)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Most Satisfying ⚒️ Sand Cake Breaking Relaxing ASMR Multiple Sand‎#shortsfeed#youtube#viral](https://www.youtube.com/watch?v=4telbByGLu0)  
-  ![](https://i.ytimg.com/vi/4telbByGLu0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 09:43:11 (UTC) — **کانال:** [artcraft90 ](https://www.youtube.com/channel/UCfpLgaAx0olqmUGY8pCNOxQ)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Most Satisfying ⚒️ Sand Cake Breaking Relaxing ASMR Multiple Sand #shortsfeed #youtube #viral](https://www.youtube.com/watch?v=hQIgyQ3eUqc)  
-  ![](https://i.ytimg.com/vi/hQIgyQ3eUqc/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 09:39:13 (UTC) — **کانال:** [Mukbang Giggles](https://www.youtube.com/channel/UCr8UJ9b9RE2CQEUATK20p1w)  
+- **تاریخ انتشار:** 2026-05-06 14:18:06 (UTC) — **کانال:** [BMD MOC](https://www.youtube.com/channel/UCFeyUWzNB8XHoEbE-XLlwHg)  
   **مدت:** حدود 0.0 دقیقه  
-  **عنوان:** [🔴 LIVE: Enjoy Delicious Southern & Northern Cuisine, Soft ASMR Sounds & Relaxing Mukbang Moments](https://www.youtube.com/watch?v=13cjE4K_jnA)  
-  ![](https://i.ytimg.com/vi/13cjE4K_jnA/hqdefault_live.jpg)
+  **عنوان:** [ASMR PEELING RAW EGGS LIVE #36](https://www.youtube.com/watch?v=OkZGepSaNeA)  
+  ![](https://i.ytimg.com/vi/OkZGepSaNeA/hqdefault_live.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 09:37:37 (UTC) — **کانال:** [Samriizz](https://www.youtube.com/channel/UCjo81GSfGlZJ2iW08LLdYTA)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Panda cake #asmr #cakedecorating #story #tutorial](https://www.youtube.com/watch?v=wa1rVl1p4q8)  
-  ![](https://i.ytimg.com/vi/wa1rVl1p4q8/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 09:32:50 (UTC) — **کانال:** [KHAWAR LORAI EMOJIS ](https://www.youtube.com/channel/UC24YzLWO99zurBm1kpJDmyg)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [rose jelly eating asmr #youtubeshorts #shortsfeed #shorts #asmr #emojichallenge](https://www.youtube.com/watch?v=ddadMPEuUqw)  
-  ![](https://i.ytimg.com/vi/ddadMPEuUqw/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 09:30:35 (UTC) — **کانال:** [Bongzi Toys](https://www.youtube.com/channel/UCESyf1TgrkV09WgWD6g77xA)  
+- **تاریخ انتشار:** 2026-05-06 14:14:27 (UTC) — **کانال:** [BeeHappy Nature Sounds](https://www.youtube.com/channel/UCm438etS7A7f8S2OumANoKg)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Satisfying with Unboxing & Review Miniature Ambulance Set Toys Kitchen Video | ASMR No Talking](https://www.youtube.com/watch?v=kJ5DfZbavtg)  
-  ![](https://i.ytimg.com/vi/kJ5DfZbavtg/hqdefault.jpg)
+  **عنوان:** [Catching a Lost Bee Swarm | 4K | no Talking](https://www.youtube.com/watch?v=XmZhy2QOtL0)  
+  ![](https://i.ytimg.com/vi/XmZhy2QOtL0/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 09:30:04 (UTC) — **کانال:** [Taste ki Paathshala](https://www.youtube.com/channel/UCP3QBTIvm8fmKq0TnCkNDlQ)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [CRISPY ONION FRITTERS 😍🔥| PYAAZ PAKODA #shorts #asmr #onionfritters #youtubeshorts #food](https://www.youtube.com/watch?v=sOlu514i614)  
-  ![](https://i.ytimg.com/vi/sOlu514i614/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 09:29:39 (UTC) — **کانال:** [STEVENHEART ](https://www.youtube.com/channel/UCt_9VIzA5rTRFlEpz9HXfzg)  
-  **مدت:** حدود 0.0 دقیقه  
-  **عنوان:** [ODDLY SATISFYING RAW EGG PEELING ASMR #76](https://www.youtube.com/watch?v=PZmanEmC2Wo)  
-  ![](https://i.ytimg.com/vi/PZmanEmC2Wo/hqdefault_live.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 09:25:46 (UTC) — **کانال:** [LIPSINㅣ립신](https://www.youtube.com/channel/UCGU7Qd4DgUFxZHxvNnh-jSg)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [🔥 Spicy Cheese Carbo Buldak + Korean Meat Patties & Dried Squid ASMR](https://www.youtube.com/watch?v=3mQoxQK2FCs)  
-  ![](https://i.ytimg.com/vi/3mQoxQK2FCs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 09:22:04 (UTC) — **کانال:** [Tan ASMR](https://www.youtube.com/channel/UC7PC3uDA37W1UKWoqOHh_qA)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [satisfying asmr #painapple](https://www.youtube.com/watch?v=4RGmpnS2mEw)  
-  ![](https://i.ytimg.com/vi/4RGmpnS2mEw/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 09:01:44 (UTC) — **کانال:** [예리몽 Yerimong](https://www.youtube.com/channel/UCpbsCo40VfyM-rpkE-p3dYw)  
+- **تاریخ انتشار:** 2026-05-06 14:04:14 (UTC) — **کانال:** [Smart Coconut Tv](https://www.youtube.com/channel/UCbqEeL8kZpXwuGjvAtZqh8w)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Satisfying Miniature: Random Squishy Blind Box Opening ASMR #1 (No talking)](https://www.youtube.com/watch?v=b0LyVnBR-O0)  
-  ![](https://i.ytimg.com/vi/b0LyVnBR-O0/hqdefault.jpg)
+  **عنوان:** [Asmr+satisfying fruits cutting sound  #asmr #cuttingskills #fruit](https://www.youtube.com/watch?v=j9ZE3TMSzdo)  
+  ![](https://i.ytimg.com/vi/j9ZE3TMSzdo/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 09:00:07 (UTC) — **کانال:** [Lolo Candy ASMR](https://www.youtube.com/channel/UCpOpQmjgQAqWtVWr5SO24Eg)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Yummy lollipop 🍭 😋 #asmr #funny #candy #toys #satisfying #trending #diy #dubai #USA #global #kids](https://www.youtube.com/watch?v=65j0KirT8K4)  
-  ![](https://i.ytimg.com/vi/65j0KirT8K4/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 14:01:35 (UTC) — **کانال:** [Soap Therapy ASMR](https://www.youtube.com/channel/UCmZq2JzqXqG8zo0RAWyIGjw)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Unpacking Beautiful Soap 🧼 No Talking 💎 #asmr #trendingshorts #soap_asmr #relaxasmr](https://www.youtube.com/watch?v=u8-Acjk8xQ8)  
+  ![](https://i.ytimg.com/vi/u8-Acjk8xQ8/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 08:54:02 (UTC) — **کانال:** [RC Car Toys95](https://www.youtube.com/channel/UCE6-O7FoWsQd9hzEHPzucpw)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Wow!!! Review Toys, RC Drift Racing Car, Unboxing No Talking](https://www.youtube.com/watch?v=QG1PTq-wvsk)  
-  ![](https://i.ytimg.com/vi/QG1PTq-wvsk/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 14:01:25 (UTC) — **کانال:** [CANDY TIME](https://www.youtube.com/channel/UCvBt8JmWsgMYshtlf8RioKw)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Sweet Sounds • Unboxing • No Talking 🍬✨ #satisfying #notalkingasmr #jellyjungle #candy #sweets](https://www.youtube.com/watch?v=qBFY8rhQdCA)  
+  ![](https://i.ytimg.com/vi/qBFY8rhQdCA/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 08:44:00 (UTC) — **کانال:** [【ご当地ヒーロー】  だらぁマン](https://www.youtube.com/channel/UCRJBAgrWIAsoCt1_HBI53LQ)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [グミ食べるasmr咀嚼音shorts動画です。 #asmr #咀嚼音 #サンリオ](https://www.youtube.com/watch?v=xqT15TAcWwM)  
-  ![](https://i.ytimg.com/vi/xqT15TAcWwM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 08:30:01 (UTC) — **کانال:** [The Sand Artwork ](https://www.youtube.com/channel/UCQTowhgtgXTKDJzpi935ztQ)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Most Satisfying ⚒️ Sand Cake Breaking Relaxing ASMR Multiple Sand  #shortsfeed #youtube #viral](https://www.youtube.com/watch?v=4mH_fQmiUd8)  
-  ![](https://i.ytimg.com/vi/4mH_fQmiUd8/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 08:30:00 (UTC) — **کانال:** [ASMR Makeup No Talking](https://www.youtube.com/channel/UC8mhtWiYdupzRrUGkh5uNcw)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [ASMR Makeup No Talking Set Satisfying Unboxing Review Video Sounds Fast Rainbow Eyeshadow](https://www.youtube.com/watch?v=-dZFqZSuqIk)  
-  ![](https://i.ytimg.com/vi/-dZFqZSuqIk/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 08:17:09 (UTC) — **کانال:** [ASMRSurge](https://www.youtube.com/channel/UCIKOy_q2VWDv1vzeoi7KgNw)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Wooden coasters #asmr #relax #triggersforsleep #satisfying #notalking](https://www.youtube.com/watch?v=WjScgExJ4to)  
-  ![](https://i.ytimg.com/vi/WjScgExJ4to/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 08:00:40 (UTC) — **کانال:** [BD Fire Fish Cutting Pro](https://www.youtube.com/channel/UCKmtRNXUUuBT-N2e7gPFPUQ)  
+- **تاریخ انتشار:** 2026-05-06 13:51:45 (UTC) — **کانال:** [Cosmetic Plus](https://www.youtube.com/channel/UCBZDZEocJ2kBIp6hn0SSEeQ)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Incredible Pangus Fish Cutting Skill | Pure Sound | No Talking #shorts](https://www.youtube.com/watch?v=_Y2xrYt9Z3U)  
-  ![](https://i.ytimg.com/vi/_Y2xrYt9Z3U/hqdefault.jpg)
+  **عنوان:** [Blue Pill Lipstick DIY💊💙💄 Satisfying Makeup ASMR #shorts #asmr #cosmeticrepair #beautyfix](https://www.youtube.com/watch?v=YKEC7CYdpmo)  
+  ![](https://i.ytimg.com/vi/YKEC7CYdpmo/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 08:00:33 (UTC) — **کانال:** [Bloom Brain](https://www.youtube.com/channel/UCNHoXXv4ijY0wyKtspSTiMw)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [ASMR सुनकर दिमाग Relax क्यों हो जाता है?](https://www.youtube.com/watch?v=OcUXpe3NK6g)  
-  ![](https://i.ytimg.com/vi/OcUXpe3NK6g/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 07:53:04 (UTC) — **کانال:** [POV by Alex](https://www.youtube.com/channel/UCuQqEu45I6ubaVTaL1UFsKA)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Crunchy Leaves ASMR 🍃 | Nature Sounds No Talking | POV by Alex](https://www.youtube.com/watch?v=JE6swsywTnc)  
-  ![](https://i.ytimg.com/vi/JE6swsywTnc/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 07:35:02 (UTC) — **کانال:** [Santosh ke duniya2](https://www.youtube.com/channel/UCRlceWP1PCm3R_gJEK2iJxA)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [New Style Relaxing Sand Cake Making 🦠 😜 🪾 #virashorts #asmr #ytshort](https://www.youtube.com/watch?v=e8mDMIFqaDY)  
-  ![](https://i.ytimg.com/vi/e8mDMIFqaDY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 07:32:51 (UTC) — **کانال:** [Pikas ASMR](https://www.youtube.com/channel/UCB7cBQfOmOVSYiJiH-2S8qg)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [No Talking ASMR 😌 Satisfying Candy Mix #shorts](https://www.youtube.com/watch?v=be8Z16vqqhA)  
-  ![](https://i.ytimg.com/vi/be8Z16vqqhA/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 07:31:01 (UTC) — **کانال:** [Santosh Ke duniya1](https://www.youtube.com/channel/UCZLDaz9icgAbvFuHI7nLA5A)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [WOW Sand Cake Smash 🍄Relaxing & Awesome ASMR with Op 🪾 Sand तोड़ने का मजा 😍 #shortsfeed #viral](https://www.youtube.com/watch?v=dzXHXFssYRY)  
-  ![](https://i.ytimg.com/vi/dzXHXFssYRY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 07:30:21 (UTC) — **کانال:** [Chandu Fun Vfx](https://www.youtube.com/channel/UChYIMncsLmcRxe1zZTtylow)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Drinking Tasty Maaza 🧃#asmr #mukbang #eatingsounds #ytshorts #shorts](https://www.youtube.com/watch?v=kyqaCqyrDwM)  
-  ![](https://i.ytimg.com/vi/kyqaCqyrDwM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 07:26:45 (UTC) — **کانال:** [Ak_rajesh_rrr__](https://www.youtube.com/channel/UCy_w_9vYwwiQ7pPhQMMkAVQ)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [#studytips #DIY #asmr#school#famliy #luffyedit #funny #comedy#humor #unitedkingdom #anime](https://www.youtube.com/watch?v=xvA--T72TNY)  
-  ![](https://i.ytimg.com/vi/xvA--T72TNY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 07:15:00 (UTC) — **کانال:** [Jabón Relajante ASMR](https://www.youtube.com/channel/UCBslT1yYRZhDcm_6tSGvopg)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷 #meditation #Relax #asmr](https://www.youtube.com/watch?v=6-3oQWo7nzs)  
-  ![](https://i.ytimg.com/vi/6-3oQWo7nzs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 07:14:34 (UTC) — **کانال:** [KHAWAR LORAI EMOJIS ](https://www.youtube.com/channel/UC24YzLWO99zurBm1kpJDmyg)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [chocolate eating asmr #youtubeshorts #shortsfeed #shorts #asmr #emojichallenge](https://www.youtube.com/watch?v=l4GnwoNvUXM)  
-  ![](https://i.ytimg.com/vi/l4GnwoNvUXM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 07:03:00 (UTC) — **کانال:** [Deborah Fashion Sport](https://www.youtube.com/channel/UCi6gP1Rm5szLOUPQvrZJdLw)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [It’s my birthday #happybirthday #triathlete #cyclist #cycling #bike #sports #motivation #asmr](https://www.youtube.com/watch?v=dQ8h-ZY5vIc)  
-  ![](https://i.ytimg.com/vi/dQ8h-ZY5vIc/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 07:01:26 (UTC) — **کانال:** [Roblox 🎮](https://www.youtube.com/channel/UCd0AP1dkxpsYcEnLuA6a88Q)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [This Roblox Keyboard Floor is 100% SATISFYING ASMR No Talking](https://www.youtube.com/watch?v=FTsYjKVXKHA)  
-  ![](https://i.ytimg.com/vi/FTsYjKVXKHA/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 06:57:37 (UTC) — **کانال:** [Roblox 🎮](https://www.youtube.com/channel/UCd0AP1dkxpsYcEnLuA6a88Q)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [This Roblox Keyboard Floor is 100% SATISFYING ASMR No Talking](https://www.youtube.com/watch?v=Q2Nfrk32cE4)  
-  ![](https://i.ytimg.com/vi/Q2Nfrk32cE4/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 06:55:49 (UTC) — **کانال:** [Rihan 10K](https://www.youtube.com/channel/UC7EfJm7lbmtYrpAaVG7E1kg)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [#chocolate #funny #food #stitch #oreo #notalking #satisfying #shortfeed](https://www.youtube.com/watch?v=FQau7YN1DOE)  
-  ![](https://i.ytimg.com/vi/FQau7YN1DOE/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 06:53:56 (UTC) — **کانال:** [BrassClicks](https://www.youtube.com/channel/UCZ3cY7Kb0SpnVYMqzoRlsLw)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Satisfying 9mm Ammo Stacking ASMR 🔊](https://www.youtube.com/watch?v=wykl8m71UQY)  
-  ![](https://i.ytimg.com/vi/wykl8m71UQY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 06:40:01 (UTC) — **کانال:** [Crispy Bites ASMR ](https://www.youtube.com/channel/UCY6IjqqjHawqaJDmHk22biA)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [SATISFYING Roasted Chicken Leg Piece Mukbang 🍗No Talking ASMR #shorts #shortsfeed  #trending #Lunch](https://www.youtube.com/watch?v=zySgAaZT4zs)  
-  ![](https://i.ytimg.com/vi/zySgAaZT4zs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 06:35:02 (UTC) — **کانال:** [Zxr Sushmita ](https://www.youtube.com/channel/UCdi0dhXto1uZtv12Uu3Hg7w)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [ASMR AMERICA'S ORIGINAL DUBBLE BUBBLE GUM (3 FRUIT FLAVORS) AND EATING...part3](https://www.youtube.com/watch?v=rtLzIj38qxQ)  
-  ![](https://i.ytimg.com/vi/rtLzIj38qxQ/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 05:55:08 (UTC) — **کانال:** [ASMR by YEK](https://www.youtube.com/channel/UC3NuOS9nQZQMIRb8LQbJG7A)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Labubu Popit Injection! 💩💩💩 #satisfying #squishy #labubu #popit #asmr #shorts](https://www.youtube.com/watch?v=x9hWnlcDYhA)  
-  ![](https://i.ytimg.com/vi/x9hWnlcDYhA/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 05:55:03 (UTC) — **کانال:** [mud Surprise](https://www.youtube.com/channel/UCsmLEPJjy6XdvyeS5EXUxXg)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [cleaning a  Pickled vegetables asmr satisfying mud #youtubeshorts #shorts](https://www.youtube.com/watch?v=8D_2simVN5w)  
-  ![](https://i.ytimg.com/vi/8D_2simVN5w/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 05:37:10 (UTC) — **کانال:** [Suvo+Shimu](https://www.youtube.com/channel/UCbNlDaIradxgyt_o0FmHIcw)  
+- **تاریخ انتشار:** 2026-05-06 13:48:08 (UTC) — **کانال:** [苺氷えな-itigori ena-](https://www.youtube.com/channel/UCDhFPOhFxEdegzifhkPrACg)  
   **مدت:** حدود 0.0 دقیقه  
-  **عنوان:** [satisfying video ASMR gemslollipop jelly candy 🍢🍫🍭🍬🍡🍫🍢🍭🍬🍡🍫🍢🍭🍬](https://www.youtube.com/watch?v=yLEh0ZrJVCw)  
-  ![](https://i.ytimg.com/vi/yLEh0ZrJVCw/hqdefault_live.jpg)
+  **عنوان:** [〚ASMR〛ふわ〜っと眠くなる♡耳かきで寝かしつけ‪ෆ‪.*吐息/梵天/綿棒/タオルマッサージ 〚個人Vtuber/苺氷えな〛](https://www.youtube.com/watch?v=OOAEowsXnMU)  
+  ![](https://i.ytimg.com/vi/OOAEowsXnMU/hqdefault_live.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 05:30:12 (UTC) — **کانال:** [Infinite ASMR](https://www.youtube.com/channel/UC9g3TqsygA0agtn3ev7o6IA)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Pineapple ASMR Cutting 🍍🔊 Extreme Satisfying Sounds (No Talking) #asmr #shorts](https://www.youtube.com/watch?v=TjpZmjaoSiA)  
-  ![](https://i.ytimg.com/vi/TjpZmjaoSiA/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 13:38:36 (UTC) — **کانال:** [FANTA DAY 2.2](https://www.youtube.com/channel/UCFfEwRnoSfsaQZYhRnU_3jw)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Relaxing POV River Fishing (No Talking)](https://www.youtube.com/watch?v=G0T_o5rY6Nc)  
+  ![](https://i.ytimg.com/vi/G0T_o5rY6Nc/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 05:30:12 (UTC) — **کانال:** [Funny Heads](https://www.youtube.com/channel/UCGZGUpNEj3eg1t-d23MZxEw)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Labubu Popit Hohoho! ⭐️🎲🌈 #satisfying #squishy #kineticsand #labubu #popit #asmr #shorts](https://www.youtube.com/watch?v=gfDhdKAjDk0)  
-  ![](https://i.ytimg.com/vi/gfDhdKAjDk0/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 13:35:00 (UTC) — **کانال:** [Foodie Deepak](https://www.youtube.com/channel/UC_G_0r1gyPzl84yb1x-pUuQ)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Cream Rolls Crossiant ASMR 🤣 Super Sounds #asmr #shorts](https://www.youtube.com/watch?v=BXlCgOXfEr0)  
+  ![](https://i.ytimg.com/vi/BXlCgOXfEr0/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 05:12:24 (UTC) — **کانال:** [CarShow 4U](https://www.youtube.com/channel/UC7QfymdciYOMLsPgpgspUow)  
+- **تاریخ انتشار:** 2026-05-06 13:34:46 (UTC) — **کانال:** [ARIFINMUKBANG](https://www.youtube.com/channel/UCDMdr6vkjKyB_PEnr68xGDw)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [ASMR FOOD | Emoji Mouth Magic 🥠🍪🥞 #asmr #food #mukbang #satisfying](https://www.youtube.com/watch?v=wfkPz99XhnA)  
+  ![](https://i.ytimg.com/vi/wfkPz99XhnA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 13:31:04 (UTC) — **کانال:** [Soap Carving ASMR](https://www.youtube.com/channel/UCQtwDaQ2hVIm4F908IMfxOw)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Rolls-Royce Phantom Series ll Immersive Asmr Experience #shorts #asmr #car #rollsroyce](https://www.youtube.com/watch?v=AS1pZ1IdiDE)  
-  ![](https://i.ytimg.com/vi/AS1pZ1IdiDE/hqdefault.jpg)
+  **عنوان:** [Soap ASMR | Most Satisfying ASMR for Stress Relief | No Talking ASMR | Relaxing Sounds #soap](https://www.youtube.com/watch?v=sCqyi-NPegU)  
+  ![](https://i.ytimg.com/vi/sCqyi-NPegU/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 04:55:01 (UTC) — **کانال:** [The Sand Artwork ](https://www.youtube.com/channel/UCQTowhgtgXTKDJzpi935ztQ)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Most Satisfying ⚒️ Sand Cake Breaking Relaxing ASMR Multiple Sand  #shortsfeed #youtube #viral](https://www.youtube.com/watch?v=k7odaZJKeCY)  
-  ![](https://i.ytimg.com/vi/k7odaZJKeCY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 04:49:32 (UTC) — **کانال:** [Vean Netherlands](https://www.youtube.com/channel/UCHySWtmjn_L8jBneAaQDF6g)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Focus mode: activated. No talking, just tattooing 🖤 #tattoohumor #tattooartistlife #tattooreels](https://www.youtube.com/watch?v=p_LUQEjiyzg)  
-  ![](https://i.ytimg.com/vi/p_LUQEjiyzg/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 04:48:33 (UTC) — **کانال:** [VEAN TATTOO Hungary](https://www.youtube.com/channel/UCV5jaVTsOHG__gJ-QPtJ4Ow)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Focus mode: activated. No talking, just tattooing 🖤 #tattoohumor #tattooartistlife #tattooreels](https://www.youtube.com/watch?v=S5LKSCUGGko)  
-  ![](https://i.ytimg.com/vi/S5LKSCUGGko/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 04:45:13 (UTC) — **کانال:** [VEAN TATTOO Deutschland](https://www.youtube.com/channel/UCCy6-rM-RcnNMQDyLFe9Hog)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Focus mode: activated. No talking, just tattooing 🖤 #tattoohumor #tattooartistlife #tattooreels](https://www.youtube.com/watch?v=VAYLboEqcFs)  
-  ![](https://i.ytimg.com/vi/VAYLboEqcFs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 04:30:40 (UTC) — **کانال:** [Zxr Sathi ](https://www.youtube.com/channel/UC-CUdP19y4nbB_H2sHMMKJg)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [ASMR AMERICA'S ORIGINAL DUBBLE BUBBLE GUM (3 FRUIT FLAVORS) AND EATING...part3](https://www.youtube.com/watch?v=mcPkLNWIVI4)  
-  ![](https://i.ytimg.com/vi/mcPkLNWIVI4/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 04:05:16 (UTC) — **کانال:** [🍩𝙄𝙩'𝙨 𝙨𝙝𝙧𝙪🍕](https://www.youtube.com/channel/UCt6HU1WJIMb5kZf1Of63H7w)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Asmr emojifood | @DangbeeEATING. |sub💝#shorts #mukbang #asmr #food #yt #subscribe #tiktok #fyp](https://www.youtube.com/watch?v=KBQP730Kq4o)  
-  ![](https://i.ytimg.com/vi/KBQP730Kq4o/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 04:00:58 (UTC) — **کانال:** [Mo Rangoli Shorts](https://www.youtube.com/channel/UCxV7ekY5SX786dHA358gxMw)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [simple Rangoli, satisfying rangoli, Easy rangsatisfying #asmroli, Tricks and tips,ASMR#rangoli](https://www.youtube.com/watch?v=txQCLCei6BE)  
-  ![](https://i.ytimg.com/vi/txQCLCei6BE/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 04:00:14 (UTC) — **کانال:** [Mickeymouse Mups](https://www.youtube.com/channel/UCYAegSbMZYXoGJ6qbIjn6Sw)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Satisfying Unboxing with Mickey Mouse cute, Super Mario Toys ASMR Video #mickeymouse](https://www.youtube.com/watch?v=DAsGNS68YE4)  
-  ![](https://i.ytimg.com/vi/DAsGNS68YE4/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 03:38:06 (UTC) — **کانال:** [Mukbang ice789](https://www.youtube.com/channel/UCqSpPymEktxvE7PZZ7bptzA)  
+- **تاریخ انتشار:** 2026-05-06 13:30:04 (UTC) — **کانال:** [Bobo. Toys](https://www.youtube.com/channel/UC-wiIRg470pvb1zD7r02nVQ)  
   **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Food ASMR Eating ice 😘♥️ #asmr #ice #mukbang #food #shorts #asmrsounds #eating](https://www.youtube.com/watch?v=LIJLmkxsj1o)  
-  ![](https://i.ytimg.com/vi/LIJLmkxsj1o/hqdefault.jpg)
+  **عنوان:** [[ASMR] Pink Miniature Kitchen: Satisfying Rainbow Mini Pasta Cooking (No Talking) #Shorts](https://www.youtube.com/watch?v=3KVCzHAsZ64)  
+  ![](https://i.ytimg.com/vi/3KVCzHAsZ64/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 03:35:14 (UTC) — **کانال:** [A](https://www.youtube.com/channel/UC14v3X8QDqYUBORwzQtJCtA)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [ASMR kinetic sand cutting slices no talking #kineticsand slicing helps #sleep #relaxing #satisfying](https://www.youtube.com/watch?v=7Y8I81C03us)  
-  ![](https://i.ytimg.com/vi/7Y8I81C03us/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 13:26:54 (UTC) — **کانال:** [CookSpire](https://www.youtube.com/channel/UCDtlUmSuoo3obYIRRtS1ETg)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [No Talking, Just Cooking 😍 Paneer Bhurji in Peaceful Weather #breakfast #food #recipe #cookingasmr](https://www.youtube.com/watch?v=NT9vhchM9KA)  
+  ![](https://i.ytimg.com/vi/NT9vhchM9KA/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 03:34:14 (UTC) — **کانال:** [Clariss ASMR](https://www.youtube.com/channel/UCbFgEu8c14SO8obNNgDk0nA)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [El pimentón crujiente #asmr #pimiento #triggersforsleep #tingles #relax #asmrtriggers #insomnio](https://www.youtube.com/watch?v=qJiMq-B9yLk)  
-  ![](https://i.ytimg.com/vi/qJiMq-B9yLk/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 03:09:13 (UTC) — **کانال:** [Neil V](https://www.youtube.com/channel/UCHQehUQCJ2vdAY4aQSWRp-g)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Prototype and Patrick Star Cute Toys ASMR #poppyplaytime #shorts #satisfying #unboxing #asmr](https://www.youtube.com/watch?v=l0ccWDNtLCw)  
-  ![](https://i.ytimg.com/vi/l0ccWDNtLCw/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 03:00:08 (UTC) — **کانال:** [Paula Legate](https://www.youtube.com/channel/UC78eiYHClWoihEPSvlKzbQw)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [ASMR no talking. #asmr #sounds #tapping](https://www.youtube.com/watch?v=8TDXYI3jHUw)  
-  ![](https://i.ytimg.com/vi/8TDXYI3jHUw/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 03:00:06 (UTC) — **کانال:** [Easy Rangoli Tricks](https://www.youtube.com/channel/UCWXBjGAz18qeB4cpBa84qiw)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Simple Rangoli 🌈❤️| Satisfying Rangoli | Easy Rangoli Tricks|ASMR #satisfying​#rangoli​#shorts​#asmr](https://www.youtube.com/watch?v=57wy2_jIsn0)  
-  ![](https://i.ytimg.com/vi/57wy2_jIsn0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 02:59:47 (UTC) — **کانال:** [Ranjani Candy](https://www.youtube.com/channel/UCn_BVXLoCCb08hgjAPKsf9Q)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [ASMR😍 Candy unik seperti pelangi 🌈 #candy #asmr #permenunik #ranjanicandy #sweet](https://www.youtube.com/watch?v=kepSKGDId2g)  
-  ![](https://i.ytimg.com/vi/kepSKGDId2g/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 02:58:02 (UTC) — **کانال:** [Future-1981](https://www.youtube.com/channel/UCDnvhMOmbI0_agpR_3z7vAQ)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [ASMR AMERICA'S 🧃🥰 ORIGINAL DUBBLE BUBBLE GUM (3 FRUIT FLAVORS) AND... Part2](https://www.youtube.com/watch?v=Cyxqg2UKEPM)  
-  ![](https://i.ytimg.com/vi/Cyxqg2UKEPM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 02:56:45 (UTC) — **کانال:** [Mukvix](https://www.youtube.com/channel/UCYUkAGtj2rIiRckmrehH5fA)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Juicy pork bite 🔥. #porkbelly #spicyfood #juicyfood #onebite #asmrfood #mukbang #notalking](https://www.youtube.com/watch?v=VGAqqu8RnlM)  
-  ![](https://i.ytimg.com/vi/VGAqqu8RnlM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 02:48:05 (UTC) — **کانال:** [Capy TV](https://www.youtube.com/channel/UC_vy0l_8fo4CuYu49eX-fDQ)  
-  **مدت:** حدود 0.0 دقیقه  
-  **عنوان:** [Satisfying Fruits Cutting ASMR Live 🍞🍕🍔🌶️🦑🌽🦐🦞🍟 #asmr](https://www.youtube.com/watch?v=x8W1DVaq2p0)  
-  ![](https://i.ytimg.com/vi/x8W1DVaq2p0/hqdefault_live.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 02:38:37 (UTC) — **کانال:** [Kang Ujang Satisfying ASMR Sound](https://www.youtube.com/channel/UC6Cqxs1gipoGSE1uOKThbqQ)  
+- **تاریخ انتشار:** 2026-05-06 13:21:30 (UTC) — **کانال:** [satisfying vs](https://www.youtube.com/channel/UCx5__nTgxtdPOyN6sAV3nkA)  
   **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Natural Crunch No Talking -  Saound Satisfying Rebung Cutting ☘️🌱🌿💯🔥](https://www.youtube.com/watch?v=ZZmI58_anN8)  
-  ![](https://i.ytimg.com/vi/ZZmI58_anN8/hqdefault.jpg)
+  **عنوان:** [Cute Purple and White Gum 🎁 #pineapple #asmr #satisfying](https://www.youtube.com/watch?v=jSGseJkbHUk)  
+  ![](https://i.ytimg.com/vi/jSGseJkbHUk/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 02:00:45 (UTC) — **کانال:** [VellaCrystal](https://www.youtube.com/channel/UC1CJ1ROzz7fFFjKRNpm0Ulg)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Larimar & Clear Quartz 💙 Pure, Clean, Perfectly Calm ✨#asmr #crystals #beads #handmade #jewelry](https://www.youtube.com/watch?v=rRSGTbIKe4I)  
-  ![](https://i.ytimg.com/vi/rRSGTbIKe4I/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 01:38:01 (UTC) — **کانال:** [Hugo Ramos](https://www.youtube.com/channel/UC-O1deNpI3WjV1QDmnZiSGA)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Las mejores tablas aserradas con motosierra 💪🔥 #chainsaw #sthil #madera #asmr #woodworking](https://www.youtube.com/watch?v=X9kHInNMECI)  
-  ![](https://i.ytimg.com/vi/X9kHInNMECI/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 01:26:23 (UTC) — **کانال:** [Chopchop ](https://www.youtube.com/channel/UCM_5o7-Ng1qkjFQvaiTGIPw)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [ASMR AMERICA'S🧃🥰ORIGINAL DUBBLE BUBBLE GUM (3 FRUIT FLAVORS) AND...Part2"](https://www.youtube.com/watch?v=bdFcRGeS9U0)  
-  ![](https://i.ytimg.com/vi/bdFcRGeS9U0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 01:25:42 (UTC) — **کانال:** [LEEJEFF-ASMR](https://www.youtube.com/channel/UCQa39SL_nlK7Wytpc2G6Htw)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Green Frog Eggs?! This POPPING Drink is SO Satisfying 🤯 #asmr](https://www.youtube.com/watch?v=j30wcX2BW1M)  
-  ![](https://i.ytimg.com/vi/j30wcX2BW1M/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 01:23:26 (UTC) — **کانال:** [Clips wala](https://www.youtube.com/channel/UCZk2kFlqDSthXHVS_oC93Tw)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [ASMR ALPENMILCH Ritter SPORT mini#DoctorTristan Peh#ASMR#shorts](https://www.youtube.com/watch?v=eQ_qroLmBIw)  
-  ![](https://i.ytimg.com/vi/eQ_qroLmBIw/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 01:08:45 (UTC) — **کانال:** [Nature Scraping ASMR](https://www.youtube.com/channel/UCuKzijTUZs-G80IvAPvcfwQ)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Extremely Satisfying Bamboo Scraping ASMR (No Talking)](https://www.youtube.com/watch?v=e7wWx1oSZx4)  
-  ![](https://i.ytimg.com/vi/e7wWx1oSZx4/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 01:00:23 (UTC) — **کانال:** [Shankara Car Toys](https://www.youtube.com/channel/UC1O9xbqeCFjuDclAwbc_omA)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [ASMR Unboxing and Testing Toys Truk Oleng and RC Tayo](https://www.youtube.com/watch?v=D57RIWx2KXg)  
-  ![](https://i.ytimg.com/vi/D57RIWx2KXg/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 00:49:10 (UTC) — **کانال:** [Pork Police Hunting](https://www.youtube.com/channel/UCM0Zif8aIHZk6LbubmKufLA)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Hard Corn ASMR Hog Bait](https://www.youtube.com/watch?v=GKSCzZvB1PQ)  
-  ![](https://i.ytimg.com/vi/GKSCzZvB1PQ/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 00:41:09 (UTC) — **کانال:** [Rishabh  Candy ](https://www.youtube.com/channel/UCRdbwjOcPjeAGN93pu0TmMA)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Lollipop opening#lollipop #asmr](https://www.youtube.com/watch?v=Mp0MXkrYwKM)  
-  ![](https://i.ytimg.com/vi/Mp0MXkrYwKM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 00:14:08 (UTC) — **کانال:** [ASMR Binaural Sounds](https://www.youtube.com/channel/UCZeTYsLK844Zt44pPMo4_1g)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [ASMR 4K Cinematic ASMR | Sizzling Wagyu Beef on Hot Stone (No Talking) #sleepaid](https://www.youtube.com/watch?v=hRvBrmTxPPE)  
-  ![](https://i.ytimg.com/vi/hRvBrmTxPPE/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 00:10:10 (UTC) — **کانال:** [Yamabuki ASMR](https://www.youtube.com/channel/UCgLWLopEFpKBJlmRVTrqafA)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [#slime サクサクスライム切る音発泡ビーズとクーピー【SlimeASMR】 #asmr #スライム](https://www.youtube.com/watch?v=WTQe9ZyGp4s)  
-  ![](https://i.ytimg.com/vi/WTQe9ZyGp4s/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 00:06:21 (UTC) — **کانال:** [Apê 66](https://www.youtube.com/channel/UCAJaXcqKhqQ5jhLd2NSwfcQ)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Limpeza satisfatória #shorts #asmr #fyp #fy](https://www.youtube.com/watch?v=HgZ5GUqUpDA)  
-  ![](https://i.ytimg.com/vi/HgZ5GUqUpDA/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 00:00:13 (UTC) — **کانال:** [CANDY 🍭 XSS](https://www.youtube.com/channel/UCFbyoaTWfIOsLkWKQxi0lUA)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [#asmr #funny #toys #candy #shorts](https://www.youtube.com/watch?v=G0W34_leD7o)  
-  ![](https://i.ytimg.com/vi/G0W34_leD7o/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 00:00:01 (UTC) — **کانال:** [Lavedabe official](https://www.youtube.com/channel/UCCzn9lT-WdPTeIE5DTlcPjg)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Sour Apple 🍏 flavor Granny ASMR #shorts #asmr #shortvideo #sourapple #granny #apple #ytshorts #viral](https://www.youtube.com/watch?v=0VD2e4SC3Oc)  
-  ![](https://i.ytimg.com/vi/0VD2e4SC3Oc/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 23:43:39 (UTC) — **کانال:** [Slime Community](https://www.youtube.com/channel/UCKJoLbl4t5g9VG7iQjvwOBw)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [🍫Dubai Chocolate #asmr #slime #dubaichocolate #asmrvideo  #shorts #waxcracking #asmrsounds](https://www.youtube.com/watch?v=g4cyywk1V84)  
-  ![](https://i.ytimg.com/vi/g4cyywk1V84/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 23:42:00 (UTC) — **کانال:** [ASMR Lencha-Pencha](https://www.youtube.com/channel/UCXjjGPR6xig70p66eatxpsw)  
+- **تاریخ انتشار:** 2026-05-06 13:19:15 (UTC) — **کانال:** [maliha ](https://www.youtube.com/channel/UCiLPMDW1hKb18NXzPT5pUeQ)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Fast & Aggressive ASMR Massage (No Talking) #asmr #relax](https://www.youtube.com/watch?v=tS3X3o_yZTs)  
-  ![](https://i.ytimg.com/vi/tS3X3o_yZTs/hqdefault.jpg)
+  **عنوان:** [#comady#ASMR#toxic #boyfriend#Usa#uk#ytshorts #maliha](https://www.youtube.com/watch?v=HvrVA3xgHCY)  
+  ![](https://i.ytimg.com/vi/HvrVA3xgHCY/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 23:30:12 (UTC) — **کانال:** [Candy Bath Babies](https://www.youtube.com/channel/UC8y3R4-WwEnPpB21MQbg2mg)  
+- **تاریخ انتشار:** 2026-05-06 13:16:47 (UTC) — **کانال:** [ASMR QURT](https://www.youtube.com/channel/UC44MTgoUEhyNW_ZJo-7r52Q)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [ASMR DOVCHA I QURT #asmr #qurt #fruit #food](https://www.youtube.com/watch?v=6M5KyGKi1aw)  
+  ![](https://i.ytimg.com/vi/6M5KyGKi1aw/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 13:16:00 (UTC) — **کانال:** [Tasty Gallery 11](https://www.youtube.com/channel/UCxrKQSBB7OKcUfqjQU6HQdg)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Tiffun slice mawa cake 🍥🎂#asmr #shorts](https://www.youtube.com/watch?v=xaVNw5FthZU)  
+  ![](https://i.ytimg.com/vi/xaVNw5FthZU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 13:13:07 (UTC) — **کانال:** [BrainTickle ASMR](https://www.youtube.com/channel/UCMo3a2rVjIzmvb_VOJyfPCw)  
+  **مدت:** حدود 0.0 دقیقه  
+  **عنوان:** [3 Rainbow Candy Bath 🛁🍭 LIVE Relaxing ASMR & Satisfying Sounds ✨#live #rainbow #asmr #satisfying](https://www.youtube.com/watch?v=wQKZE7aPscc)  
+  ![](https://i.ytimg.com/vi/wQKZE7aPscc/hqdefault_live.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 13:10:21 (UTC) — **کانال:** [Yuni CH. 切熊ゆに](https://www.youtube.com/channel/UClBEIFD7lKEJ2mQYUFaePtA)  
+  **مدت:** حدود 0.0 دقیقه  
+  **عنوان:** [【ASMR/3Dio】耳垢がごっそり取れる雑耳かき。癒しの耳掃除。睡眠┆囁き┆Earcleaning┆Whispering┆Vtuber【星めぐり学園/切熊ゆに】](https://www.youtube.com/watch?v=TvVVWcM-xWg)  
+  ![](https://i.ytimg.com/vi/TvVVWcM-xWg/hqdefault_live.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 13:06:55 (UTC) — **کانال:** [Roni Study & Life ](https://www.youtube.com/channel/UCKTZFENr4kVRyOmqM9n0H8w)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Study With Me (No Talking) 📚 | Focus + Aesthetic Study Setup #shorts](https://www.youtube.com/watch?v=mD6dJTUlkhY)  
+  ![](https://i.ytimg.com/vi/mD6dJTUlkhY/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 13:01:01 (UTC) — **کانال:** [Second Dimension Food](https://www.youtube.com/channel/UCPOSFvogf6ewH7c3QMO4jCQ)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [ASMR Hand Mukbang | Orange Jelly | White Peach Crispy Ice | Green Apple Chocolate #asmr #stressrelie](https://www.youtube.com/watch?v=RxkRXYu8yX8)  
+  ![](https://i.ytimg.com/vi/RxkRXYu8yX8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 13:00:43 (UTC) — **کانال:** [Squishy Fun Zone](https://www.youtube.com/channel/UC3rMH9hcnCt4aQifFUxwM0Q)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [INSANE Candy ASMR 🍬🔥 Ultra Crunch in 4K (So Satisfying!)#Shorts #ASMR #CandyASMR #usa #subscribe #4K](https://www.youtube.com/watch?v=XcOWm0y5ezY)  
-  ![](https://i.ytimg.com/vi/XcOWm0y5ezY/hqdefault.jpg)
+  **عنوان:** [Strawberry Heart Chicken Squishy #asmr](https://www.youtube.com/watch?v=L11n83VgJU0)  
+  ![](https://i.ytimg.com/vi/L11n83VgJU0/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 23:17:19 (UTC) — **کانال:** [LARGE PREHISTORIC WOODLOUSE 🔥](https://www.youtube.com/channel/UC5Ln1jBQUNtfNjKqgINPWag)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [genuinely sorry if this comes off as rude || #slimerant #rant #slimeasmr #asmr #projecthailmary](https://www.youtube.com/watch?v=zymEzri6YZ0)  
-  ![](https://i.ytimg.com/vi/zymEzri6YZ0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 23:05:17 (UTC) — **کانال:** [AsmrBulut](https://www.youtube.com/channel/UC23IVb_ToddlCtUZCaZ3JXQ)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [They Can’t Stop Laughing 😂🇻🇳 ASMR Massage](https://www.youtube.com/watch?v=epgt5oCMeVo)  
-  ![](https://i.ytimg.com/vi/epgt5oCMeVo/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 22:44:50 (UTC) — **کانال:** [Anjee Space](https://www.youtube.com/channel/UCp0Jh-b9ItkZp85Rl3GfoVg)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Cute candy😱 #funny #unpacking #weirdproducts #candy #asmr #weird #mukbang](https://www.youtube.com/watch?v=Kfol_mpKnzo)  
-  ![](https://i.ytimg.com/vi/Kfol_mpKnzo/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 22:40:24 (UTC) — **کانال:** [L1ly_r4nts<3](https://www.youtube.com/channel/UCsU0uJ9IKkNCce3L9h7uSvQ)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Take it plssss!! @cookiemoonbunnys_official #rant #slimerant #asmr #viral  #chain #fyp #crk](https://www.youtube.com/watch?v=Cec05QpYaak)  
-  ![](https://i.ytimg.com/vi/Cec05QpYaak/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 22:39:27 (UTC) — **کانال:** [WaxbyAHR](https://www.youtube.com/channel/UCaumNExzgIy_vOVT9pPzwgw)  
+- **تاریخ انتشار:** 2026-05-06 13:00:31 (UTC) — **کانال:** [Kawaii Drawing Club](https://www.youtube.com/channel/UCNRA3clWMKbXpl2o5L7amRw)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Thin wax tail surprise ✨🕸️ So satisfying! #asmr #waxbeads #satisfying #oddlysatisfying #shorts](https://www.youtube.com/watch?v=LTdxBUCIHFg)  
-  ![](https://i.ytimg.com/vi/LTdxBUCIHFg/hqdefault.jpg)
+  **عنوان:** [1 Minute Drawing Challenge 🎨 | Relaxing Pencil Sounds ASMR (No Talking)](https://www.youtube.com/watch?v=BrJ25-ZqYIs)  
+  ![](https://i.ytimg.com/vi/BrJ25-ZqYIs/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 22:19:02 (UTC) — **کانال:** [BungaBunga](https://www.youtube.com/channel/UCRFbhQbHJc4LN8tAnmVrMtg)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Lapis de Pimenta #asmr](https://www.youtube.com/watch?v=_9ISdNWnkCM)  
-  ![](https://i.ytimg.com/vi/_9ISdNWnkCM/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 13:00:23 (UTC) — **کانال:** [Journal Aesthetic](https://www.youtube.com/channel/UCgH4kepsOQGnta8NXx9B-lA)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [immersive journaling asmr no talking satisfying aesthetic 石塑粘土 粘土教程 解压 造景 2](https://www.youtube.com/watch?v=EMebvT3gc24)  
+  ![](https://i.ytimg.com/vi/EMebvT3gc24/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 22:16:27 (UTC) — **کانال:** [Almara Yusifova](https://www.youtube.com/channel/UCqXVgbpYFsRFkJgVNdmSjhA)  
+- **تاریخ انتشار:** 2026-05-06 13:00:12 (UTC) — **کانال:** [Mr. Lee ASMR](https://www.youtube.com/channel/UCU_06qjzuictUkp0Pyn1BGw)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Coloured Frog Eggs #asmr #sleep](https://www.youtube.com/watch?v=74ete3q9zlw)  
+  ![](https://i.ytimg.com/vi/74ete3q9zlw/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 13:00:11 (UTC) — **کانال:** [DRUM TECH & BEAT EDITS](https://www.youtube.com/channel/UCXhg_zVtJcAh0mHwODN4z7w)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Pink 🩷 #asmr #asmrsounds #asmrfood #relaxing](https://www.youtube.com/watch?v=AP3AVALswt0)  
-  ![](https://i.ytimg.com/vi/AP3AVALswt0/hqdefault.jpg)
+  **عنوان:** [Drum Practice (No Talking) 🔥 #drum  #chinesemusic  #drumset  #drums #drumming #드럼과스틱](https://www.youtube.com/watch?v=6wOMm66ehn8)  
+  ![](https://i.ytimg.com/vi/6wOMm66ehn8/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 22:03:14 (UTC) — **کانال:** [Spirited Cottage](https://www.youtube.com/channel/UCtnT1UUCoZTJd95pCWIcR1Q)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [ASMR Garden Build 🌿 Raised Bed Transformation From Scratch | @Spirited Cottage](https://www.youtube.com/watch?v=FfGnHVwdftQ)  
-  ![](https://i.ytimg.com/vi/FfGnHVwdftQ/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 21:49:30 (UTC) — **کانال:** [BungaBunga](https://www.youtube.com/channel/UCRFbhQbHJc4LN8tAnmVrMtg)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Chocolate com Pimenta #asmr](https://www.youtube.com/watch?v=QPK4AGvkG10)  
-  ![](https://i.ytimg.com/vi/QPK4AGvkG10/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 21:47:58 (UTC) — **کانال:** [Anna Luong](https://www.youtube.com/channel/UCRCUIOXGg3VI6Vah-ueb6kg)  
+- **تاریخ انتشار:** 2026-05-06 13:00:02 (UTC) — **کانال:** [Ayan Toys tv](https://www.youtube.com/channel/UC2HwHhmsXWoVJX9ElEdFaIw)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Its me time 👀#relate  #metime #scrolling #notalking #nonverbal](https://www.youtube.com/watch?v=Q3wCgfmV80k)  
-  ![](https://i.ytimg.com/vi/Q3wCgfmV80k/hqdefault.jpg)
+  **عنوان:** [💖 Super Relaxing Asmr No Talking #short](https://www.youtube.com/watch?v=0omJLJj2Jm4)  
+  ![](https://i.ytimg.com/vi/0omJLJj2Jm4/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 21:29:19 (UTC) — **کانال:** [Kim&Liz Too](https://www.youtube.com/channel/UCV_bAXpZqUzZ6SYfOUfwe9w)  
+- **تاریخ انتشار:** 2026-05-06 12:39:52 (UTC) — **کانال:** [Abang Bertopeng](https://www.youtube.com/channel/UCdJTwdRt2tWE4gC6MQ0NkrA)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Crunchy or mushy chocolate covered strawberries? #trufrupartner #food #fruit #asmr @trufruofficial](https://www.youtube.com/watch?v=sQi9KxdWrz8)  
-  ![](https://i.ytimg.com/vi/sQi9KxdWrz8/hqdefault.jpg)
+  **عنوان:** [Minum teh tarik dengan jus mangga ‼️😱 #asmr #funny #minuman #mukbang #videolucu #drink #shorts](https://www.youtube.com/watch?v=iPeJYrZ64Dk)  
+  ![](https://i.ytimg.com/vi/iPeJYrZ64Dk/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 21:15:58 (UTC) — **کانال:** [FPS](https://www.youtube.com/channel/UCE4kghdxL2taqenW7HBlong)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [ASMR | Star Wars - Celebrate May the 4th 🙂 #asmr #asmrsounds #starwars #may4th #satisfying](https://www.youtube.com/watch?v=bRTtubp4e0M)  
-  ![](https://i.ytimg.com/vi/bRTtubp4e0M/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 12:36:16 (UTC) — **کانال:** [artcraft90 ](https://www.youtube.com/channel/UCfpLgaAx0olqmUGY8pCNOxQ)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Most Satisfying ⚒️ Sand Cake Breaking Relaxing ASMR Multiple Sand #shortsfeed #youtube #viral](https://www.youtube.com/watch?v=-RlwdB0uWII)  
+  ![](https://i.ytimg.com/vi/-RlwdB0uWII/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 21:11:23 (UTC) — **کانال:** [MG Surprise Toys](https://www.youtube.com/channel/UCbF25Wg9FHi6wYhgKD-MHjw)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Cap Gun#asmr](https://www.youtube.com/watch?v=HvAEtE8JN0k)  
-  ![](https://i.ytimg.com/vi/HvAEtE8JN0k/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 21:07:43 (UTC) — **کانال:** [Our Handmade Escape | Authentic Cabin Vlogs](https://www.youtube.com/channel/UCsjGnYspSoPT9qzAEiJikkw)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [First grass mowing by the cabin. Handmade 3x6 Cabin Life (No Talking ASMR)](https://www.youtube.com/watch?v=jO-2tdByPlM)  
-  ![](https://i.ytimg.com/vi/jO-2tdByPlM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 20:58:22 (UTC) — **کانال:** [Viking Car Care](https://www.youtube.com/channel/UC86kkvj5qx6DiwaQdFI4DdA)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Super Satisfying Car Detailing ASMR 🔥🤩](https://www.youtube.com/watch?v=clGL-7p1LSE)  
-  ![](https://i.ytimg.com/vi/clGL-7p1LSE/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 20:56:02 (UTC) — **کانال:** [Cravico](https://www.youtube.com/channel/UC9fg1-yzsfrlo2vQMEiFhQg)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [DIY Cement Planter #gardening #satisfying #concrete #asmr](https://www.youtube.com/watch?v=g3WxS4NxGq8)  
-  ![](https://i.ytimg.com/vi/g3WxS4NxGq8/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 20:33:29 (UTC) — **کانال:** [Meg ](https://www.youtube.com/channel/UC9Cg6_kCJ9qUJW5ed447Geg)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [pack 132  / 1000 #pokemon #pokemoncards #pokemontcg #packopening #asmr](https://www.youtube.com/watch?v=9sn99R0UOD4)  
-  ![](https://i.ytimg.com/vi/9sn99R0UOD4/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 20:29:20 (UTC) — **کانال:** [Toyes Point ](https://www.youtube.com/channel/UCPVkrs6o_skgrDOBRPVLBTA)  
+- **تاریخ انتشار:** 2026-05-06 12:35:09 (UTC) — **کانال:** [Shin Shin E](https://www.youtube.com/channel/UCKtXND3h7Y-h2oEmpPHQ0vw)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [iphone Style Kids Pistol Gun #asmr #lighter #toys #kidsgun #toyguns](https://www.youtube.com/watch?v=YVTw57K-Bxo)  
-  ![](https://i.ytimg.com/vi/YVTw57K-Bxo/hqdefault.jpg)
+  **عنوان:** [Satisfying Unboxing Shin chan | Review ASMR Shin chan Compilation #asmr #funny #toys #shinchan](https://www.youtube.com/watch?v=hzAAosnmt7I)  
+  ![](https://i.ytimg.com/vi/hzAAosnmt7I/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 20:22:22 (UTC) — **کانال:** [Little Shine ](https://www.youtube.com/channel/UCA8EZJ4pvVCPtVnA1-Mw_3Q)  
+- **تاریخ انتشار:** 2026-05-06 12:30:02 (UTC) — **کانال:** [Alat yang menarik](https://www.youtube.com/channel/UC3XfMoLvGtXCyDBn7mboK-w)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [ASMR House Cleaning TikTok | Home Goods Unboxing #house #cleaningtiktok #homedecor #usa #uk](https://www.youtube.com/watch?v=1RCo9-B2OOQ)  
+  ![](https://i.ytimg.com/vi/1RCo9-B2OOQ/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 12:30:00 (UTC) — **کانال:** [asmraivideos](https://www.youtube.com/channel/UCn7BR7yD0QM-BiGEFI_k3bQ)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Team🥵o team🥶? #hechoenmexico #littleshine #satisfying #bodybutter #asmr #satisfyingvideo](https://www.youtube.com/watch?v=xf0hzrbHYR8)  
-  ![](https://i.ytimg.com/vi/xf0hzrbHYR8/hqdefault.jpg)
+  **عنوان:** [asmr no talking](https://www.youtube.com/watch?v=j99rkd6NU7c)  
+  ![](https://i.ytimg.com/vi/j99rkd6NU7c/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 20:12:31 (UTC) — **کانال:** [𝐻𝐿 𝒿𝑒𝓌𝑒𝓁𝓈](https://www.youtube.com/channel/UC7DujHl26NyKlYwblfF7NTA)  
+- **تاریخ انتشار:** 2026-05-06 12:23:53 (UTC) — **کانال:** [Lastochka](https://www.youtube.com/channel/UCm2yoCjrEceJiz32J6MpEqg)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [ASMR:CHOCOLATE FLAG MUKBANG #food #asmr](https://www.youtube.com/watch?v=DxU3VjK64Ps)  
+  ![](https://i.ytimg.com/vi/DxU3VjK64Ps/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 12:17:22 (UTC) — **کانال:** [SIMBA EMOJI EATING ](https://www.youtube.com/channel/UCS3MxfzTymj5g356NG0_6FA)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [do y'all want more asmr vids?  #shortsfeed #asmr](https://www.youtube.com/watch?v=syebAUHOuK8)  
-  ![](https://i.ytimg.com/vi/syebAUHOuK8/hqdefault.jpg)
+  **عنوان:** [food eating asmr #youtubeshorts #shortfeed #shorts #asmr #emojichallenge](https://www.youtube.com/watch?v=XIaszz0TZVQ)  
+  ![](https://i.ytimg.com/vi/XIaszz0TZVQ/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 20:00:19 (UTC) — **کانال:** [The Alpha Caveman](https://www.youtube.com/channel/UCm9Qh4MwJSX8QJwQMcT8B5g)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [MINECRAFT KINDER JOY EGG ASMR OPENING: UNBOXING 11](https://www.youtube.com/watch?v=UxzIA8Rgmak)  
-  ![](https://i.ytimg.com/vi/UxzIA8Rgmak/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 12:01:32 (UTC) — **کانال:** [Shankara Car Toys](https://www.youtube.com/channel/UC1O9xbqeCFjuDclAwbc_omA)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [ASMR Unboxing and Testing RC Tayo No Talking](https://www.youtube.com/watch?v=kYJAsCmE-6A)  
+  ![](https://i.ytimg.com/vi/kYJAsCmE-6A/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 20:00:13 (UTC) — **کانال:** [Calm Cuts](https://www.youtube.com/channel/UCBeeKht-F-sVj_-z_MhyeQQ)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [#shorts #asmr](https://www.youtube.com/watch?v=MOEVP9KjWRo)  
-  ![](https://i.ytimg.com/vi/MOEVP9KjWRo/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 20:00:01 (UTC) — **کانال:** [I am just Dingo 89](https://www.youtube.com/channel/UCnISZ_PeItr1hURrwa50r_w)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [ASMR Aldi Vimto pour into Eiffel tower glass #asmr](https://www.youtube.com/watch?v=1ZnVF-xRFc0)  
-  ![](https://i.ytimg.com/vi/1ZnVF-xRFc0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 19:16:47 (UTC) — **کانال:** [Albik Space](https://www.youtube.com/channel/UCEuIEZJCK3BDQrGHYJlIOog)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Testing Weirdest sweet Candy #unpacking #unboxing #candy #sweet #tasty #mukbang #asmr #shorts #vlog](https://www.youtube.com/watch?v=YU3T-UmYUK4)  
-  ![](https://i.ytimg.com/vi/YU3T-UmYUK4/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-05 19:14:42 (UTC) — **کانال:** [SQuiShYBoB5](https://www.youtube.com/channel/UCeQK3mmg8rraWbNEhgAlUww)  
+- **تاریخ انتشار:** 2026-05-06 12:01:22 (UTC) — **کانال:** [Ray Cartoys19](https://www.youtube.com/channel/UCsDZDz0XviYk7O4gD0VrJYg)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [#blindbag #papersquishy #trending #unboxing #diy #asmr #cuteblindbag # squishyBob5](https://www.youtube.com/watch?v=0e-pzKJGIy0)  
-  ![](https://i.ytimg.com/vi/0e-pzKJGIy0/hqdefault.jpg)
+  **عنوان:** [Unboxing and Review Toys RC Tayo The Little Bus No Talking With Natural Water Sounds.](https://www.youtube.com/watch?v=lmqOrUFD2Ss)  
+  ![](https://i.ytimg.com/vi/lmqOrUFD2Ss/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 19:06:00 (UTC) — **کانال:** [Alva My Toys ](https://www.youtube.com/channel/UCax5pRdSvO_7qK0vLtMRFDw)  
+- **تاریخ انتشار:** 2026-05-06 12:01:17 (UTC) — **کانال:** [Suds Pop ](https://www.youtube.com/channel/UCyUe9k9ZPUyLXrKSsuHLcVQ)  
   **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Satisfying with Unboxing & Review Bluey Go Out Toys ASMR #bluey #shorts #toys #asmr](https://www.youtube.com/watch?v=Kd4kCz1sDOI)  
-  ![](https://i.ytimg.com/vi/Kd4kCz1sDOI/hqdefault.jpg)
+  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷](https://www.youtube.com/watch?v=ggpLL5chcG4)  
+  ![](https://i.ytimg.com/vi/ggpLL5chcG4/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 18:43:15 (UTC) — **کانال:** [PeekWow](https://www.youtube.com/channel/UCcaQWLv8QYT3gHTxb4np18g)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Does anyone like this memopad?🙋❤✨#giftideas  #asmr #shorts  #peekwow](https://www.youtube.com/watch?v=4SDNqjXFtgU)  
-  ![](https://i.ytimg.com/vi/4SDNqjXFtgU/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 12:01:12 (UTC) — **کانال:** [Indian Taste Hub](https://www.youtube.com/channel/UCNiZuCWDI6I7asra7SoNLsA)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Watermelon Mojito ASMR | Ultimate Refreshing | No talking #asmr](https://www.youtube.com/watch?v=eHqCWXVPgVs)  
+  ![](https://i.ytimg.com/vi/eHqCWXVPgVs/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 18:30:06 (UTC) — **کانال:** [ice cup Korea](https://www.youtube.com/channel/UCjE7iTBpgZ5h9Hn3cEY3t2Q)  
+- **تاریخ انتشار:** 2026-05-06 11:47:14 (UTC) — **کانال:** [DRUM TECH & BEAT EDITS](https://www.youtube.com/channel/UCXhg_zVtJcAh0mHwODN4z7w)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Drum Practice (No Talking) 🔥 #drum  #chinesemusic  #drumset  #drums #drumming #드럼과스틱](https://www.youtube.com/watch?v=hbiJIoCb9cg)  
+  ![](https://i.ytimg.com/vi/hbiJIoCb9cg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:45:05 (UTC) — **کانال:** [Naeyu ASMR 💎 내 꿈은 자유](https://www.youtube.com/channel/UC508_UDytGrgTlElHyhvAhQ)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Trying Viral Korean Ice Cup ASMR🥤#icecup#southkorea#drink#asmr#7eleven#convenience#store#short#video](https://www.youtube.com/watch?v=TVrdehbDLXs)  
-  ![](https://i.ytimg.com/vi/TVrdehbDLXs/hqdefault.jpg)
+  **عنوان:** [Miniature Baby Shark & Pororo Fidget Toys No talking ASMR 🦈🍨아기상어 뽀로로 피젯토이](https://www.youtube.com/watch?v=Lyj_Xm7TvnM)  
+  ![](https://i.ytimg.com/vi/Lyj_Xm7TvnM/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 18:29:00 (UTC) — **کانال:** [Diecast Motors](https://www.youtube.com/channel/UCKm5QnN8npZtf-pxlU2L2Tg)  
+- **تاریخ انتشار:** 2026-05-06 11:41:48 (UTC) — **کانال:** [SHUMUK ASMR](https://www.youtube.com/channel/UCZ-9_3Kb2l35h_gBrlyLc-Q)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Chilli Chicken + Fried Rice ASMR 🔥 No Talking Eating Sounds #shorts](https://www.youtube.com/watch?v=L5loH9ETvP0)  
+  ![](https://i.ytimg.com/vi/L5loH9ETvP0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:36:56 (UTC) — **کانال:** [Alat yang menarik](https://www.youtube.com/channel/UC3XfMoLvGtXCyDBn7mboK-w)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [ASMR House Cleaning TikTok | Unboxing Home Must-Haves #house #cleaningtiktok #homedecor #usa #uk](https://www.youtube.com/watch?v=yB-pvfJiAyg)  
+  ![](https://i.ytimg.com/vi/yB-pvfJiAyg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:30:08 (UTC) — **کانال:** [Beautiful Diaries by Rae](https://www.youtube.com/channel/UCD_8bGCEBXRHfSUAoeIuHGA)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Study With Me ASMR 🌙📚 | Pomodoro + Cozy (No Talking)  #studywithme #studymotivation](https://www.youtube.com/watch?v=5O4Lob6o5Ig)  
+  ![](https://i.ytimg.com/vi/5O4Lob6o5Ig/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:29:31 (UTC) — **کانال:** [ZERO KitcheN](https://www.youtube.com/channel/UC82XktPvLnI1mQ0wvlF-WwA)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Masala Fish Curry ASMR #shorts](https://www.youtube.com/watch?v=7O5ARzcC44M)  
+  ![](https://i.ytimg.com/vi/7O5ARzcC44M/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:27:43 (UTC) — **کانال:** [Nature Camp Vibes](https://www.youtube.com/channel/UChizpgaCgUesX8kYVP1l1_w)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [I Found a Secret Snow Castle 🏰❄️ (No Talking, Pure Luxury Life)](https://www.youtube.com/watch?v=Pfrvqt8aSa8)  
+  ![](https://i.ytimg.com/vi/Pfrvqt8aSa8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:27:15 (UTC) — **کانال:** [SHION](https://www.youtube.com/channel/UCJ-flQmWqa8C7B68_TgKOOA)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [สะใจมากแกล้งแฟน…#ntn#funny#comedy#asmr](https://www.youtube.com/watch?v=Xa3QMUQlSCE)  
+  ![](https://i.ytimg.com/vi/Xa3QMUQlSCE/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:17:59 (UTC) — **کانال:** [Flavorista](https://www.youtube.com/channel/UCYxWq8f6VZGEW6C0Dr1sPSg)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [‎Gaint bento pack for picnic outing 🍱 #shorts #asmr #food #asmrfood #aesthetic  #cooking](https://www.youtube.com/watch?v=Wfys2hCu3uc)  
+  ![](https://i.ytimg.com/vi/Wfys2hCu3uc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:15:04 (UTC) — **کانال:** [Jabón Relajante ASMR](https://www.youtube.com/channel/UCBslT1yYRZhDcm_6tSGvopg)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷 #meditation #Relax #asmr](https://www.youtube.com/watch?v=S0d4GWWzUEA)  
+  ![](https://i.ytimg.com/vi/S0d4GWWzUEA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:10:57 (UTC) — **کانال:** [Sahar Makeup Things ](https://www.youtube.com/channel/UC-gSJeRmCHCGpTj1P4hpRwQ)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [ASMR Makeup on Watermelon 🍉 ( No Talking)#shorts](https://www.youtube.com/watch?v=Fma9WSBTwWM)  
+  ![](https://i.ytimg.com/vi/Fma9WSBTwWM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:01:03 (UTC) — **کانال:** [San Go Camp](https://www.youtube.com/channel/UCwvG4Wwlb_qLbqim37phkTw)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Bmw 3 Series Diecast Model Car Asmr #car #asmr #sports](https://www.youtube.com/watch?v=crQ10sJoxOo)  
-  ![](https://i.ytimg.com/vi/crQ10sJoxOo/hqdefault.jpg)
+  **عنوان:** [Solo Camping In Rain ASMR #solocamping #campinginrain #campingasmr #asmr #notalking](https://www.youtube.com/watch?v=XqcUWPCLFIQ)  
+  ![](https://i.ytimg.com/vi/XqcUWPCLFIQ/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 18:21:24 (UTC) — **کانال:** [Bader Al Safar](https://www.youtube.com/channel/UC42AMmteep9j7RAR2FuV4bw)  
+- **تاریخ انتشار:** 2026-05-06 11:00:34 (UTC) — **کانال:** [Slime World](https://www.youtube.com/channel/UCxM9C5QwuB8MEIclpKhXEjw)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [ASMR slime 💜🫟☂️🫟💜 #slimeworld #asmr #slime #asmrslime #asmrvideo #satisfying #relax #video](https://www.youtube.com/watch?v=JRKIFVRm0eI)  
+  ![](https://i.ytimg.com/vi/JRKIFVRm0eI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:00:30 (UTC) — **کانال:** [Toy Adventure Land](https://www.youtube.com/channel/UCltRcmt0mOBUBxFsXuGKA7w)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Satisfying ASMR & Potty Training toy #asmr #toys #satisfying](https://www.youtube.com/watch?v=9oJJYcd7agE)  
+  ![](https://i.ytimg.com/vi/9oJJYcd7agE/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:00:29 (UTC) — **کانال:** [The Expositors Collective](https://www.youtube.com/channel/UC94SXxSCtRkX1viuGbKOqTA)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [“What Even Is Prayer?” Teaching the Basics Without Talking down](https://www.youtube.com/watch?v=LfcZ3fkjG_s)  
+  ![](https://i.ytimg.com/vi/LfcZ3fkjG_s/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 11:00:00 (UTC) — **کانال:** [Joe Kilmister](https://www.youtube.com/channel/UCpcUnZt_d9P2q6ccqXw0FLw)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [No one's talking about these new colourful magnets fitting: DJI Mic Mini 2 📚🚦#dji #djimicmini2](https://www.youtube.com/watch?v=ujdSPuIW3SU)  
+  ![](https://i.ytimg.com/vi/ujdSPuIW3SU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:55:48 (UTC) — **کانال:** [AshleyDashley10](https://www.youtube.com/channel/UCEaxpwgro8NSp-SlThTmH_g)  
   **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Crushing 💩 #mukbang #asmr #food #satisfying](https://www.youtube.com/watch?v=TQW1Vf4YBF8)  
-  ![](https://i.ytimg.com/vi/TQW1Vf4YBF8/hqdefault.jpg)
+  **عنوان:** [edible gems😍✨ #candy #asmr #gems #mukbang](https://www.youtube.com/watch?v=iauRj1GE1FA)  
+  ![](https://i.ytimg.com/vi/iauRj1GE1FA/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-05 18:17:23 (UTC) — **کانال:** [Islam online](https://www.youtube.com/channel/UCUZ-IkklrYeiR3nS1C6BwLw)  
+- **تاریخ انتشار:** 2026-05-06 10:53:34 (UTC) — **کانال:** [tonni lifestyle😘](https://www.youtube.com/channel/UCgMamVIGelXahCS9meJV-2g)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [ASMR AMERICA'S ORIGINAL DUBBLE BUBBLE GUM (3 FRUIT FLAVORS) AND... part 3](https://www.youtube.com/watch?v=dw1mR3NG_dg)  
+  ![](https://i.ytimg.com/vi/dw1mR3NG_dg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:52:29 (UTC) — **کانال:** [Lightning ASMR](https://www.youtube.com/channel/UCrbFuFhC96tKVbR4gZ_CT9g)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Disney Pixar Cars Mater, Francesco Bernoulli, Sheriff ASMR No Talking #asmr #toys #lego](https://www.youtube.com/watch?v=m5JNDzWhf1o)  
+  ![](https://i.ytimg.com/vi/m5JNDzWhf1o/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:51:45 (UTC) — **کانال:** [Chloe Ch.猫小夜くろえ（猫小夜くろえ）](https://www.youtube.com/channel/UCk--7D107cvb6PKqAiAK5uQ)  
+  **مدت:** حدود 0.0 دقیقه  
+  **عنوان:** [⚡ASMR sp /  泡・タオル・パウダ・オイル - IROIRO -⚡【猫小夜くろえ/Vtuber】](https://www.youtube.com/watch?v=5b0XnGhcvqg)  
+  ![](https://i.ytimg.com/vi/5b0XnGhcvqg/hqdefault_live.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:50:40 (UTC) — **کانال:** [RC Car Toys95](https://www.youtube.com/channel/UCE6-O7FoWsQd9hzEHPzucpw)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Wow!!! Review Toys, RC Drift Racing Car, Unboxing No Talking](https://www.youtube.com/watch?v=891qDMXu244)  
+  ![](https://i.ytimg.com/vi/891qDMXu244/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:45:30 (UTC) — **کانال:** [Train GT](https://www.youtube.com/channel/UChwr5IqPRkQ7okvM-oe8g9g)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [ASMR Assembling 3 Classic Steam Train Toys, Rail Sounds | No Talking #shorts](https://www.youtube.com/watch?v=GjhogJNTRK0)  
+  ![](https://i.ytimg.com/vi/GjhogJNTRK0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:43:48 (UTC) — **کانال:** [Purrfectly Fluffy 🎀](https://www.youtube.com/channel/UCoIpwCBuGvy-gga2Q8TcrFg)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [all @bonkerspets 🍭 #cat #enrichment #asmr #catasmr #cute #asmrsounds #catfeeding #catfood #fyp](https://www.youtube.com/watch?v=n_TM9l1FXxU)  
+  ![](https://i.ytimg.com/vi/n_TM9l1FXxU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:36:05 (UTC) — **کانال:** [Khaomi ](https://www.youtube.com/channel/UC7Cnlf3KmVLJAUjvJ-LtRpg)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [ASMR | No Talking | Name Wax Cracking | Comment your name #asmr #asmrsounds  #waxcracking  #nameart](https://www.youtube.com/watch?v=7j3SGJ7hxUs)  
+  ![](https://i.ytimg.com/vi/7j3SGJ7hxUs/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:31:43 (UTC) — **کانال:** [Bite & Boom](https://www.youtube.com/channel/UCTxoMdd60swEo_nQey5ko7w)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Spicy Liver Fry ASMR 🥩🔥 | Desi Tawa Kaleji Masala #Shorts](https://www.youtube.com/watch?v=zzBKA3Ybb04)  
+  ![](https://i.ytimg.com/vi/zzBKA3Ybb04/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:31:17 (UTC) — **کانال:** [沙汰ナキアASMR - Nakia Ch.](https://www.youtube.com/channel/UC8mnrvXyUWJZ4bB5XBLZpjw)  
+  **مدت:** حدود 0.0 دقیقه  
+  **عنوان:** [【ASMR/KU100】とんとんコツコツ…はや～いタッピングで気持ちいい寝かしつけ♡高速タッピング・高速囁き・Fast Ear Tapping for Sleep【沙汰ナキア/睡眠導入】](https://www.youtube.com/watch?v=hzAfrxmcnn0)  
+  ![](https://i.ytimg.com/vi/hzAfrxmcnn0/hqdefault_live.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:15:02 (UTC) — **کانال:** [Jabón Relajante ASMR](https://www.youtube.com/channel/UCBslT1yYRZhDcm_6tSGvopg)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷 #meditation #Relax #asmr](https://www.youtube.com/watch?v=N2TvDhezw08)  
+  ![](https://i.ytimg.com/vi/N2TvDhezw08/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:13:32 (UTC) — **کانال:** [Havin86](https://www.youtube.com/channel/UCCODjazL6D6UVZ17JjnoupA)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Makan Berbagai Snack 2 Ribuan [Part 21] #asmr #mukbang #asmrindonesia #shorts](https://www.youtube.com/watch?v=EB5vPo_uP54)  
+  ![](https://i.ytimg.com/vi/EB5vPo_uP54/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:02:45 (UTC) — **کانال:** [Nội thất giá rẻ - Đồ gỗ hố nai](https://www.youtube.com/channel/UCBIDtMxLhTSfgwHGuuR3BSQ)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [This Nightstand Is Hiding Something #SecretStorage #SmartFurniture #HomeHacks #DIYProjects #ASMR](https://www.youtube.com/watch?v=lZuSvKf5Rlg)  
+  ![](https://i.ytimg.com/vi/lZuSvKf5Rlg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 10:00:11 (UTC) — **کانال:** [Ray Cartoys19](https://www.youtube.com/channel/UCsDZDz0XviYk7O4gD0VrJYg)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Unboxing and Testing Toys, Truk Oleng No Talking With Natural Water Sounds.](https://www.youtube.com/watch?v=7p1drjX_-rE)  
+  ![](https://i.ytimg.com/vi/7p1drjX_-rE/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 09:57:16 (UTC) — **کانال:** [cute box](https://www.youtube.com/channel/UC6xuDLosa4sekavfVUpJGPg)  
+  **مدت:** حدود 0.0 دقیقه  
+  **عنوان:** [Satisfying fruit and vegetable cutting #ASMR](https://www.youtube.com/watch?v=4-7f3bsKMl4)  
+  ![](https://i.ytimg.com/vi/4-7f3bsKMl4/hqdefault_live.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 09:30:25 (UTC) — **کانال:** [SliceSnap ASMR](https://www.youtube.com/channel/UCb8uMmGVOdJYnwBgSK_ZXjA)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Pizza Cut Sounds Too Cheesy 🍕 ASMR 🔪 No Talking #pizza #pizzalover #pizzatime #pizzaasmr #asmr](https://www.youtube.com/watch?v=S3chayZoGac)  
+  ![](https://i.ytimg.com/vi/S3chayZoGac/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 09:15:01 (UTC) — **کانال:** [Jabón Relajante ASMR](https://www.youtube.com/channel/UCBslT1yYRZhDcm_6tSGvopg)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷 #meditation #Relax #asmr](https://www.youtube.com/watch?v=J_NzfgUMo3A)  
+  ![](https://i.ytimg.com/vi/J_NzfgUMo3A/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 09:03:10 (UTC) — **کانال:** [KONTORA КУЗЬМА ЦЕХ MANUFACTURA URAL ](https://www.youtube.com/channel/UCtYY2zgqYCxrBdHF0ppOl-Q)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [ASMR Barbershop ✂️ No Talking | АСМР атмосфера барбершопа](https://www.youtube.com/watch?v=73vXO8NPEOI)  
+  ![](https://i.ytimg.com/vi/73vXO8NPEOI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 09:00:00 (UTC) — **کانال:** [大喰らいちはるん(自称)](https://www.youtube.com/channel/UCLJF3BtxVu5kB1b0W60IB7g)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [【ASMR】韓国スナック🍿韓国好きはたまらない味の再現度が高いお菓子が登場したよ❣️ナチュラルローソンで5/5から新発売だよ✊🏻#爆食 #モッパン #お菓子 #咀嚼音 #asmr #mukbang](https://www.youtube.com/watch?v=PdtL5-C5EqE)  
+  ![](https://i.ytimg.com/vi/PdtL5-C5EqE/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 08:39:26 (UTC) — **کانال:** [Vox Akuma【NIJISANJI EN】](https://www.youtube.com/channel/UCckdfYDGrjojJM28n5SHYrA)  
+  **مدت:** حدود 0.0 دقیقه  
+  **عنوان:** [【BUBBLE WRAP ASMR】PAPAPAPAPAPAPAPAPAPAPAPAPA【NIJISANJI EN | Vox Akuma】](https://www.youtube.com/watch?v=HrdNL2HkOuA)  
+  ![](https://i.ytimg.com/vi/HrdNL2HkOuA/hqdefault_live.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 08:24:01 (UTC) — **کانال:** [Jabón Relajante ASMR](https://www.youtube.com/channel/UCBslT1yYRZhDcm_6tSGvopg)  
+  **مدت:** حدود 0.0 دقیقه  
+  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷 #meditation #Relax #asmr](https://www.youtube.com/watch?v=OUkdwZHqPqU)  
+  ![](https://i.ytimg.com/vi/OUkdwZHqPqU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 08:07:39 (UTC) — **کانال:** [Brothers Asmr World ](https://www.youtube.com/channel/UCUhH3XwKBeKk5R6qonthfkQ)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [🍜 ASMR Hakka Noodles 🔥 | Street Style Wok Toss Sounds 🤤#shorts #short](https://www.youtube.com/watch?v=n6S58HRx-vw)  
+  ![](https://i.ytimg.com/vi/n6S58HRx-vw/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 07:52:44 (UTC) — **کانال:** [Susmita ari](https://www.youtube.com/channel/UCJebHW0KV85UWsvRiB1-BKw)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [ASMR🍡🍭🙀 AMERICA'S ORIGINAL DUBBLE BUBBLE GUM (3 FRUIT FLAVORS) AND... part 3](https://www.youtube.com/watch?v=Mmne3qyB7Dc)  
+  ![](https://i.ytimg.com/vi/Mmne3qyB7Dc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 07:49:47 (UTC) — **کانال:** [Bite & Boom](https://www.youtube.com/channel/UCTxoMdd60swEo_nQey5ko7w)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Spicy Garlic Prawns ASMR 🦐🔥 | Desi Street Style Tawa Fry #Shorts](https://www.youtube.com/watch?v=8xZniJNDxf4)  
+  ![](https://i.ytimg.com/vi/8xZniJNDxf4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 07:37:58 (UTC) — **کانال:** [ Cooking With ASMR ](https://www.youtube.com/channel/UClx1G4xoh3lBxz3CrWplD6A)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [CHOCOLATE DIP CONE #foodasmr #streetfood #shorts#food #cooking #asmr #indianasmrworld#streetfood #as](https://www.youtube.com/watch?v=Cl3WZxe4l7g)  
+  ![](https://i.ytimg.com/vi/Cl3WZxe4l7g/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 07:30:35 (UTC) — **کانال:** [Joyful Chandu](https://www.youtube.com/channel/UCSyuIvYMuibtSj0ZPYafdVA)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [ABSOLUT SOAP 😱🔥 MOST DRY SOAP CUTTING ASMR #asmr #soapcutting #асмрsoap #oddlysatisfying #softhand](https://www.youtube.com/watch?v=ZxJ0LXjzw5c)  
-  ![](https://i.ytimg.com/vi/ZxJ0LXjzw5c/hqdefault.jpg)
+  **عنوان:** [Eating Black Cream Biscuit 😋#eating #mukbang #asmr #asmreating #shorts](https://www.youtube.com/watch?v=wgJqWW2h-b4)  
+  ![](https://i.ytimg.com/vi/wgJqWW2h-b4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 07:30:28 (UTC) — **کانال:** [Crunchy World](https://www.youtube.com/channel/UCg-6VzUc7aJmNnrZ56Q5jyg)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Beads ASMR | No Talking | Super Satisfying Asmr 💫 #shorts #beads #asmr #satisfying #viral](https://www.youtube.com/watch?v=zi6YuOb-Wc8)  
+  ![](https://i.ytimg.com/vi/zi6YuOb-Wc8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 07:29:04 (UTC) — **کانال:** [kuli bangunan samarinda 89](https://www.youtube.com/channel/UC0kbVTxyyyzEsuaKPdGa6VA)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [asmr serba pokemon ϟϟ(๑⚈ ․̫ ⚈๑) #food #mukbang #funny #shortsfeed #jajanan #shorts #shortsfeed #fyp](https://www.youtube.com/watch?v=m406QqAEa4k)  
+  ![](https://i.ytimg.com/vi/m406QqAEa4k/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 07:29:03 (UTC) — **کانال:** [food ASMR videos.  ](https://www.youtube.com/channel/UCV5Dl7Yt41FSoWeLpFvTXJQ)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Fresh Apricot ASMR | Juicy Eating Sounds | No Talking 🍑 #aivideo #shorts #virlshort](https://www.youtube.com/watch?v=klR8AZjWRAg)  
+  ![](https://i.ytimg.com/vi/klR8AZjWRAg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 07:24:48 (UTC) — **کانال:** [Foodies ASMR ](https://www.youtube.com/channel/UC-AtrSCXYepD7M82h7KX9qg)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Eating Maggi ASMR #asmr #shorts #shortsfeed #eating #foodie #asmrvideo #eatingasmr #foodlover](https://www.youtube.com/watch?v=cf8ARLlQRqY)  
+  ![](https://i.ytimg.com/vi/cf8ARLlQRqY/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 07:00:31 (UTC) — **کانال:** [fjdfd、](https://www.youtube.com/channel/UCxDifhezsfqIO05vrCXx-ZQ)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Successful✅️ & unsuccessful ❎️days #asmr #youtubeshorts](https://www.youtube.com/watch?v=yopEagrVoks)  
+  ![](https://i.ytimg.com/vi/yopEagrVoks/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 06:58:34 (UTC) — **کانال:** [Mickey Sand Club](https://www.youtube.com/channel/UCdTnfkhsPvDXLMoHCXeeDjQ)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Kineticsand Satisfying Pop it Honey Bee Fidget Asmr #shorts #satisfying #funny #asmr #popit #fidget](https://www.youtube.com/watch?v=5vqrdBBiDuE)  
+  ![](https://i.ytimg.com/vi/5vqrdBBiDuE/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 06:43:13 (UTC) — **کانال:** [Rachitsarkar8990](https://www.youtube.com/channel/UCwjukq3n5h6096MwwjXTp7A)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [#typography #notalking #notviral #viralpost #viralplzz](https://www.youtube.com/watch?v=7NxdIp0FN6o)  
+  ![](https://i.ytimg.com/vi/7NxdIp0FN6o/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 06:42:44 (UTC) — **کانال:** [XyloFlow](https://www.youtube.com/channel/UCqKT2L3jzcxy6tO-dtcXTPg)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Squishy Kinetic Sand Hahaha! ⭐️⭐️⭐️ #asmr #satisfying #trend #viral #shorts](https://www.youtube.com/watch?v=73C4_-_WZMU)  
+  ![](https://i.ytimg.com/vi/73C4_-_WZMU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 06:27:04 (UTC) — **کانال:** [XyloFlow](https://www.youtube.com/channel/UCqKT2L3jzcxy6tO-dtcXTPg)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Labubu Popit Fidgets Injection!! 🎉⭐️🌈 #asmr #labubu #shorts](https://www.youtube.com/watch?v=Gupsn81I-Ks)  
+  ![](https://i.ytimg.com/vi/Gupsn81I-Ks/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 06:01:06 (UTC) — **کانال:** [My ASMR World](https://www.youtube.com/channel/UC-CSY5j8ecWzT7d_nhR2sQQ)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Mccain mini pizza samosa #pizza #asmr #mccain #samosa #airfryer #viral #trending](https://www.youtube.com/watch?v=4ldNkrf_0nI)  
+  ![](https://i.ytimg.com/vi/4ldNkrf_0nI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:58:54 (UTC) — **کانال:** [Ideal Farming ](https://www.youtube.com/channel/UCa5NNydb5xIiju8Z7au7htg)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Pineapple 🍍 Farming #agriculture #asmr #farmlife #rurallife #yummy #agro #garden #farming #farm #me](https://www.youtube.com/watch?v=m-1JdubzKmQ)  
+  ![](https://i.ytimg.com/vi/m-1JdubzKmQ/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:44:32 (UTC) — **کانال:** [Squishy Toysclean](https://www.youtube.com/channel/UCuKclV6sVIFl_0KZbCWpoIw)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [CLEANING SQUISHY ASMR (part#458) #shorts #asmr #toys #cartoon #maymun#funny#oddlysatisfying#cleaning](https://www.youtube.com/watch?v=3YqB10jrkcI)  
+  ![](https://i.ytimg.com/vi/3YqB10jrkcI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:39:01 (UTC) — **کانال:** [Squishy Guy](https://www.youtube.com/channel/UCkyZEgvKr23XHQX20HwLpgg)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Labubu Popit Injection! 💩💩💩 #satisfying #squishy #labubu #popit #asmr #shortsfeed](https://www.youtube.com/watch?v=k9YD4cyR2es)  
+  ![](https://i.ytimg.com/vi/k9YD4cyR2es/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:30:46 (UTC) — **کانال:** [🎀𝓷𝓪𝓽𝓼𝓾𝓴𝓲🧁](https://www.youtube.com/channel/UCKLdMQ7r_Uy9fXQ-pyvqo8Q)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [oh#tag #viral #slime #asmr #rant #slimerant #lice #hair #capcut #edit #real #joke #jokes #funny](https://www.youtube.com/watch?v=QJ8qdq_-PXg)  
+  ![](https://i.ytimg.com/vi/QJ8qdq_-PXg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:30:00 (UTC) — **کانال:** [SANJIRA FOOD ASMR](https://www.youtube.com/channel/UCivDwzRjrrzg4lg01D27-oA)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [ASMR: eating biryani with chicken leg piece 🍗 👌🏻😋 #asmr #trendingshorts #viralshort #shorts](https://www.youtube.com/watch?v=UMP8o_vO2Ak)  
+  ![](https://i.ytimg.com/vi/UMP8o_vO2Ak/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:24:30 (UTC) — **کانال:** [Its- FIZz☆](https://www.youtube.com/channel/UClPUX0-EYr0IzoDkRif3EMA)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [MUKBANG ASMR Food🌈🪼#asmr #mukbang#food#shorts#asmrfood#subscribe@Bunny_EATING0@Sunny_EATING_](https://www.youtube.com/watch?v=JM1Wdalw0Mk)  
+  ![](https://i.ytimg.com/vi/JM1Wdalw0Mk/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:23:47 (UTC) — **کانال:** [Funny Heads](https://www.youtube.com/channel/UCGZGUpNEj3eg1t-d23MZxEw)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Labubu Popit Injection! 🤬🤬🤬 #satisfying #squishy #labubu #popit #asmr #shorts](https://www.youtube.com/watch?v=LAJyz0XwEpE)  
+  ![](https://i.ytimg.com/vi/LAJyz0XwEpE/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:22:16 (UTC) — **کانال:** [Hari Mulyanto](https://www.youtube.com/channel/UC3px-Y9mDTJd3lryANqmm9Q)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [MENGUMPULKAN SEMUA BENTUK SENDOK NYAM - NYAM !!! #shorts #asmr](https://www.youtube.com/watch?v=wFSWVUTRsB4)  
+  ![](https://i.ytimg.com/vi/wFSWVUTRsB4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:20:01 (UTC) — **کانال:** [Ameet ](https://www.youtube.com/channel/UCGKg6JLV8n56HAVTxVspTLw)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [marble Run Race ASMR #289 Wooden Wave Course Colorful Marbles #marblerun #marblerunrace #asmr](https://www.youtube.com/watch?v=iCDfgk85jss)  
+  ![](https://i.ytimg.com/vi/iCDfgk85jss/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:17:05 (UTC) — **کانال:** [Spillz Stuff](https://www.youtube.com/channel/UCx44VpV3Bb6vFrEnxNRGnwA)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Block Blast Part 306 #asmr #blockblast #shortvideo](https://www.youtube.com/watch?v=Rd_sFYuHhrY)  
+  ![](https://i.ytimg.com/vi/Rd_sFYuHhrY/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:12:15 (UTC) — **کانال:** [mastipur😍🏝️](https://www.youtube.com/channel/UC889tjdHJ3OxuZbHoEpm3Ow)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [“गाँव की देसी पनीर बिरयानी 😍 लकड़ी के चूल्हे का असली स्वाद 🔥”#viral #shorts #trending #asmr](https://www.youtube.com/watch?v=CBMVWaaFn2Q)  
+  ![](https://i.ytimg.com/vi/CBMVWaaFn2Q/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:07:46 (UTC) — **کانال:** [pony 01](https://www.youtube.com/channel/UCwOtRDA8D-hFie2JC1WfuEQ)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Chinese 🇨🇳VS  Korean 🇰🇷 ⁉️ #ASMR #RAMEN #CURRY #food #foodforfoodies #chinesefood](https://www.youtube.com/watch?v=7vS3ZiXco08)  
+  ![](https://i.ytimg.com/vi/7vS3ZiXco08/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:07:06 (UTC) — **کانال:** [Color Mix](https://www.youtube.com/channel/UCitziykO6LIkm5I94Di4S7Q)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Create 3 colors from 3 colors: Black + Old Mauve + Yellow #asmr #mix #colormixing #colors #mixing](https://www.youtube.com/watch?v=pFZJwQtp7kI)  
+  ![](https://i.ytimg.com/vi/pFZJwQtp7kI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:05:56 (UTC) — **کانال:** [Tune Track ](https://www.youtube.com/channel/UCE-GR7sGzw22YlUbkU_rbnQ)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Perfect ASMR Satisfaction Video #shorts#blender #satisfying #looping#oddlysatisfying #marbles #asmr](https://www.youtube.com/watch?v=khRexaF2Ykw)  
+  ![](https://i.ytimg.com/vi/khRexaF2Ykw/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:01:05 (UTC) — **کانال:** [Bang Beni Channel](https://www.youtube.com/channel/UC4aALu58y0QXVRJlwKvKAyA)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [#ASMR Very Satisfying and Relaxing Video Kinetic Sand | #shorts 1091 #GiveItYourBestShort](https://www.youtube.com/watch?v=zPIqwjqfJzs)  
+  ![](https://i.ytimg.com/vi/zPIqwjqfJzs/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:00:55 (UTC) — **کانال:** [TKa Life](https://www.youtube.com/channel/UCU5IWn9wLhmeiLqaxl50DcA)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Oddly Relaxing POP-TUBE Hook Sound Play #asmr #satisfyingvideos #relaxing #oddasmr #crunchy](https://www.youtube.com/watch?v=lvtSd7HJwA4)  
+  ![](https://i.ytimg.com/vi/lvtSd7HJwA4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:00:53 (UTC) — **کانال:** [Subi Unboxing Toys](https://www.youtube.com/channel/UCRpy2V5isyZuvMoojQphxqA)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [ASMR Toy Unboxing Frozen Elsa & Snow White Disney Princess Set Toy | Satisfying Toy Sounds](https://www.youtube.com/watch?v=v1KQIzLl1Rg)  
+  ![](https://i.ytimg.com/vi/v1KQIzLl1Rg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 05:00:23 (UTC) — **کانال:** [3D PECHNIK](https://www.youtube.com/channel/UCu9lPbNWrmKL43c657WdEPw)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Не отвести взгляд: дымовые газы в канальной печи 🔥 #печь #asmr #наука](https://www.youtube.com/watch?v=RAQAccHAJhE)  
+  ![](https://i.ytimg.com/vi/RAQAccHAJhE/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:59:06 (UTC) — **کانال:** [Subi Unbox](https://www.youtube.com/channel/UCZA1CCYIT6gu9vAW0Dy7GSg)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [ASMR Unboxing Minnie Mouse & Pinkfong Bath Toy | Satisfying Toy Sounds with Subi Unbox](https://www.youtube.com/watch?v=kjRxiGItXLI)  
+  ![](https://i.ytimg.com/vi/kjRxiGItXLI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:53:49 (UTC) — **کانال:** [Davis_ising](https://www.youtube.com/channel/UCk6CfyoOhd9WSccjDtNmQnQ)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Let the results show no talking, just work #ResultsShow #NoExcuses #GymGrind #StayConsistent](https://www.youtube.com/watch?v=fwJJG2WXEs4)  
+  ![](https://i.ytimg.com/vi/fwJJG2WXEs4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:51:38 (UTC) — **کانال:** [Paru Greenx](https://www.youtube.com/channel/UCGLn9dbKFQ-XcU2PTmHIrcw)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Edible Taylor Swift ASMR!?@LukeDidThat #asmr #asmrsounds #viral 141](https://www.youtube.com/watch?v=20Jt9vNWInM)  
+  ![](https://i.ytimg.com/vi/20Jt9vNWInM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:51:00 (UTC) — **کانال:** [VEAN TATTOO UK](https://www.youtube.com/channel/UCuJ9msiwlXqo7271-_fkLqA)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Focus mode: activated. No talking, just tattooing 🖤 #tattoohumor #tattooartistlife #tattooreels](https://www.youtube.com/watch?v=oSXbELP3Jrg)  
+  ![](https://i.ytimg.com/vi/oSXbELP3Jrg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:45:51 (UTC) — **کانال:** [KHAWAR LORAI EMOJIS ](https://www.youtube.com/channel/UC24YzLWO99zurBm1kpJDmyg)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [football eating asmr #youtubeshorts #shortsfeed #shorts #asmr #emojichallenge](https://www.youtube.com/watch?v=VYTCx8_oVz0)  
+  ![](https://i.ytimg.com/vi/VYTCx8_oVz0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:42:51 (UTC) — **کانال:** [VEAN TATTOO](https://www.youtube.com/channel/UCgqwFayQBvxuKoi_Dy1jzVQ)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Focus mode: activated. No talking, just tattooing 🖤 #tattoohumor #tattooartistlife #tattooreels](https://www.youtube.com/watch?v=fviQWGMVmZ4)  
+  ![](https://i.ytimg.com/vi/fviQWGMVmZ4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:35:10 (UTC) — **کانال:** [Rita_ash18](https://www.youtube.com/channel/UCy86hZrJOWzWoRbV7dz1Uqg)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [lunch box || Bekal #lunchbox #bekal #asmr #bento #mbg](https://www.youtube.com/watch?v=AT1ARsxMCGs)  
+  ![](https://i.ytimg.com/vi/AT1ARsxMCGs/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:33:21 (UTC) — **کانال:** [Sand Reversed](https://www.youtube.com/channel/UCejQRN_PxYH6xm7s55UkCfw)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Kinetic Sand Cutting ASMR #kineticsand #shorts](https://www.youtube.com/watch?v=gVX0dAmODO0)  
+  ![](https://i.ytimg.com/vi/gVX0dAmODO0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:31:33 (UTC) — **کانال:** [Zxr Mallika ](https://www.youtube.com/channel/UC2B_Nre6HlvHIA-PwN-Ef2w)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [🍬🍬🍬🍬ASMR AMERICA'S ORIGINAL DUBBLE BUBBLE GUM FLAVOR AND EATING SOUNDS#asmr #shorts](https://www.youtube.com/watch?v=Coo_C-o6PnQ)  
+  ![](https://i.ytimg.com/vi/Coo_C-o6PnQ/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:30:32 (UTC) — **کانال:** [The Jungle Platters](https://www.youtube.com/channel/UCHeqmFSVLHmTAQHSa4EoB7A)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [Wood_Apple😍🔥😍 #ytshorts #shortsfeed #trendingshorts #viralshort #youtubeshorts #asmr #explore#fyp](https://www.youtube.com/watch?v=i1HaQTqS2cU)  
+  ![](https://i.ytimg.com/vi/i1HaQTqS2cU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:30:05 (UTC) — **کانال:** [Nusucandy](https://www.youtube.com/channel/UCBrnP7BtA1stOjeodGUoayQ)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [🥰 Satisfying Video ASMR Lollipops Chocolate and Candy Gummy Candy Unboxing Video Most Popular Candy](https://www.youtube.com/watch?v=BJYPQYlyZLc)  
+  ![](https://i.ytimg.com/vi/BJYPQYlyZLc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:25:49 (UTC) — **کانال:** [Facts2000.N](https://www.youtube.com/channel/UC1AQKFnh7gzBYoFnxTKEmQw)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [ਭਗਵੰਤ ਮਾਨ ਦਾ ਵਿਰੋਧੀਆਂ ਤੇ ਤਿੱਖਾ ਨਿਸ਼ਾਨਾ 🙏😱😳#punjabinews #asmr #latestnews #trendingnews](https://www.youtube.com/watch?v=4lNHeBbI8g8)  
+  ![](https://i.ytimg.com/vi/4lNHeBbI8g8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:17:17 (UTC) — **کانال:** [ASMR beads](https://www.youtube.com/channel/UCtQc5f3g9PJblGaBr2JBKZw)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [Reverse marble ASMR #satisfying #asmr #odlysatisfying #shortsfeed #reverse #beads #relaxing](https://www.youtube.com/watch?v=hn_Koy706kc)  
+  ![](https://i.ytimg.com/vi/hn_Koy706kc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:11:09 (UTC) — **کانال:** [Crunchy World](https://www.youtube.com/channel/UCg-6VzUc7aJmNnrZ56Q5jyg)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Beads ASMR | No Talking | Super Satisfying Asmr 💫 #shorts #beads #asmr #satisfying #viral](https://www.youtube.com/watch?v=Qf7fNPw2Xjw)  
+  ![](https://i.ytimg.com/vi/Qf7fNPw2Xjw/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:07:42 (UTC) — **کانال:** [Lollycandy](https://www.youtube.com/channel/UCsO227oyK_uFxECc1sa_Y9A)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [“Chocolate Biscuit Sticks ASMR 🍫 So Satisfying!” #asmr #shorts  #chocolate](https://www.youtube.com/watch?v=qyoqwrWQ6Ck)  
+  ![](https://i.ytimg.com/vi/qyoqwrWQ6Ck/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:05:51 (UTC) — **کانال:** [Huni Car](https://www.youtube.com/channel/UC_GKIc5_B_PtnZsYa2V9xoA)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Disney Pixar Cars Hot Wheels SpongeBob Mc Queen😍😲🫣 #asmr #toys](https://www.youtube.com/watch?v=64bBzsl2Ra8)  
+  ![](https://i.ytimg.com/vi/64bBzsl2Ra8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:01:02 (UTC) — **کانال:** [Zxr Bhula](https://www.youtube.com/channel/UC29FDlC9Jnzw5xiwaemRGKA)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [ASMR🍫🍭🍒🍇 AMERICA’S ORIGINAL DUBBLE BUBBLE GUM FLAVOR AND EATING SOUNDS  #asmr #shorts](https://www.youtube.com/watch?v=B0ZnWBmFgyQ)  
+  ![](https://i.ytimg.com/vi/B0ZnWBmFgyQ/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:00:25 (UTC) — **کانال:** [Rangoli Powar](https://www.youtube.com/channel/UCbmRdVkZjfLanfwpqAcH7Jw)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [simple Rangoli, satisfying rangoli, Easy rangsatisfying #asmroli, Tricks and tips,ASMR#rangoli](https://www.youtube.com/watch?v=Q358OIV11fU)  
+  ![](https://i.ytimg.com/vi/Q358OIV11fU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 04:00:07 (UTC) — **کانال:** [Ziyo Chef](https://www.youtube.com/channel/UCHMpT_DgToCH9rONcnaZ_Ug)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [#candy #funny #asmr #shorts #toys](https://www.youtube.com/watch?v=5yW3dRCmkWI)  
+  ![](https://i.ytimg.com/vi/5yW3dRCmkWI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:59:16 (UTC) — **کانال:** [むさえp](https://www.youtube.com/channel/UCMXbqlAPRKk9KjwFPz2sfzQ)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [苦手な掃除と整理整頓をasmrに #掃除](https://www.youtube.com/watch?v=DEebAT2V3Wc)  
+  ![](https://i.ytimg.com/vi/DEebAT2V3Wc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:49:51 (UTC) — **کانال:** [SweetPop ASMR ](https://www.youtube.com/channel/UCxdj5e-sODUJzf-4sFlzdqw)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Ultimate Chocolate & Candy Eating ASMR Challenge 🍫🍭 Crunch No Talking](https://www.youtube.com/watch?v=NdeqB_WIvqk)  
+  ![](https://i.ytimg.com/vi/NdeqB_WIvqk/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:44:54 (UTC) — **کانال:** [Hiamfoodie ](https://www.youtube.com/channel/UC3_-1wRToCtVCrN105wI-fw)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [🌾🥟🥟🌶️!! #youtube #youtubeshorts #ytshorts #shorts #shortsfeed #viral #trending #asmr #asmrsounds](https://www.youtube.com/watch?v=KUSWX7LDrpo)  
+  ![](https://i.ytimg.com/vi/KUSWX7LDrpo/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:44:00 (UTC) — **کانال:** [fruit colour ](https://www.youtube.com/channel/UCfzzb6_lgnnw-AlYJw1Gx1A)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Marshmallows cute  🍬🍬 #pineapple​ #asmr​ #satisfying](https://www.youtube.com/watch?v=DiptknATokc)  
+  ![](https://i.ytimg.com/vi/DiptknATokc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:41:58 (UTC) — **کانال:** [Life Farm](https://www.youtube.com/channel/UCFMMAoqTcK1MC1Idrmkj0LQ)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [So sweet eating figs fruit - Figs fruit farming life #yummy #asmr #satisfying #shorts #farming](https://www.youtube.com/watch?v=z8BfANWRUt8)  
+  ![](https://i.ytimg.com/vi/z8BfANWRUt8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:37:14 (UTC) — **کانال:** [Priscilla | Curated Motherhood](https://www.youtube.com/channel/UC7vrE0OvqrDBkT93yBgR4yA)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [cleaning my homeschool closet #asmr #cleanwithme](https://www.youtube.com/watch?v=sBCuXZzaBH0)  
+  ![](https://i.ytimg.com/vi/sBCuXZzaBH0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:23:30 (UTC) — **کانال:** [Dhodoy vlog](https://www.youtube.com/channel/UC2zqBF6Cet8NtWJd_bHmnsg)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [ASMR MOUSE DENTIST EATING BLACK COFFEE CANDY #satisfying #asmr #shorts #food #yummy #shortvideo](https://www.youtube.com/watch?v=rP2G9pamgxE)  
+  ![](https://i.ytimg.com/vi/rP2G9pamgxE/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:17:54 (UTC) — **کانال:** [Ets’nene](https://www.youtube.com/channel/UC6Yoyy77P-PUgUuj8JpKYsg)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [🍋💛#asmr #drink #lemon #satisfying](https://www.youtube.com/watch?v=KJ2X7AjQDKI)  
+  ![](https://i.ytimg.com/vi/KJ2X7AjQDKI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:03:25 (UTC) — **کانال:** [Emily Durham](https://www.youtube.com/channel/UCUApm5FZ_Z523Tr45rWZxog)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [BOOK TOUR *asmr style* #career #asmr](https://www.youtube.com/watch?v=ERypM1N0O8Q)  
+  ![](https://i.ytimg.com/vi/ERypM1N0O8Q/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:01:01 (UTC) — **کانال:** [Mo Rangoli](https://www.youtube.com/channel/UCdXEfANwsXZtYNnuwEgcW1w)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [simple Rangoli, satisfying rangoli, Easy rangsatisfying #asmroli, Tricks and tips,ASMR#rangoli](https://www.youtube.com/watch?v=pNq-dEOKTC0)  
+  ![](https://i.ytimg.com/vi/pNq-dEOKTC0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:00:53 (UTC) — **کانال:** [Bulch-ASMR](https://www.youtube.com/channel/UCen1XaXy1ip8U4_0nJQVo8g)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Satisfying Rainbow Balloons🟡 🟡 #pineapple, #asmr, #satisfying #edc #fishing #tools #popular #diy](https://www.youtube.com/watch?v=okFTpmi_u9Y)  
+  ![](https://i.ytimg.com/vi/okFTpmi_u9Y/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:00:47 (UTC) — **کانال:** [zxr kokai](https://www.youtube.com/channel/UC9NvkmbReDTOJ0pFDIeLGgg)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [🍡🍷🍒🍓😋✨🍿ASMR WARHEADS SOUR! TAFFY CANDY (3 TROPICAL FLAVORS) AND EATING SOUNDS](https://www.youtube.com/watch?v=SHsnn8RYfhI)  
+  ![](https://i.ytimg.com/vi/SHsnn8RYfhI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:00:47 (UTC) — **کانال:** [Shiyaler Golpo Bangla](https://www.youtube.com/channel/UC6O-ijvDJ2Bo0zBxWsmo8Dw)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Delicious Pistachio Unboxing ASMR videos Enjoy 🫠#pistachio #dryfruits](https://www.youtube.com/watch?v=lDpVIzN35bk)  
+  ![](https://i.ytimg.com/vi/lDpVIzN35bk/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:00:46 (UTC) — **کانال:** [Pawan Unbox & Eat](https://www.youtube.com/channel/UCOy5zQRCgg2ZQukmvwArRcg)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [#centerfruit #asmr @PawanUnboxEat](https://www.youtube.com/watch?v=r8gFA-T_yvU)  
+  ![](https://i.ytimg.com/vi/r8gFA-T_yvU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 03:00:07 (UTC) — **کانال:** [Luna Toy World](https://www.youtube.com/channel/UC7gGPBlsw2cAK6xxsrHf0zg)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Satisfying with Unboxing & Review Peppa Pig Flower Shop Playtime #asmr #unboxing #peppapig #toyhouse](https://www.youtube.com/watch?v=8sGmsFRIKYs)  
+  ![](https://i.ytimg.com/vi/8sGmsFRIKYs/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:57:02 (UTC) — **کانال:** [Vith Mukbang](https://www.youtube.com/channel/UCPY-5e_K9-azJu5jQLLoJCw)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Spicy Braised Pork Trotters Mukbang 족발 먹방 ASMR 🐷🔥| Vith Mukbang](https://www.youtube.com/watch?v=CbKrXovzvok)  
+  ![](https://i.ytimg.com/vi/CbKrXovzvok/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:51:51 (UTC) — **کانال:** [Egghouse](https://www.youtube.com/channel/UC1LHJ3H7jikJUmj9Lf2YjpQ)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Peppa Pig Treehouse And George's Fort Playset ASMR Videos | Relaxing Toy #asmr #peppapig](https://www.youtube.com/watch?v=YZTCQF7cd2I)  
+  ![](https://i.ytimg.com/vi/YZTCQF7cd2I/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:40:05 (UTC) — **کانال:** [Venus_2021](https://www.youtube.com/channel/UCdj1bFhtdiEemM817kDukRQ)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [ASMR AMERICA'S🧃🥰ORIGINAL DUBBLE BUBBLE GUM (3 FRUIT FLAVORS) AND...Part2](https://www.youtube.com/watch?v=JYrirSAdUcA)  
+  ![](https://i.ytimg.com/vi/JYrirSAdUcA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:40:00 (UTC) — **کانال:** [The Fresh Finder](https://www.youtube.com/channel/UCRUELXhxLcVy5b9OuWFNC4w)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Celebrity's Famous Misal in Pune ❤️ #trending #streetfood #asmr #comedy #funny #viral #shorts #fyp](https://www.youtube.com/watch?v=MVX0oO_6aHo)  
+  ![](https://i.ytimg.com/vi/MVX0oO_6aHo/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:37:17 (UTC) — **کانال:** [Gentle Chiropractic ASMR](https://www.youtube.com/channel/UCB4fI1U8ylH0Ro8Rs4YpCcg)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Satisfying Chiropractic ASMR ⚡ Manual Cracks, Massage, & Activator](https://www.youtube.com/watch?v=bvNPP7BGkow)  
+  ![](https://i.ytimg.com/vi/bvNPP7BGkow/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:34:06 (UTC) — **کانال:** [Sweet Spicy ASMR ](https://www.youtube.com/channel/UCE6cotRgbVsA2C3F2CB4VcQ)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [#remix #asmr ##opening #review #shorts #candyopening](https://www.youtube.com/watch?v=YSCNt6OrzrQ)  
+  ![](https://i.ytimg.com/vi/YSCNt6OrzrQ/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:31:54 (UTC) — **کانال:** [Venus_2021](https://www.youtube.com/channel/UCdj1bFhtdiEemM817kDukRQ)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [ASMR AMERICA'S🧃🥰ORIGINAL DUBBLE BUBBLE GUM (3 FRUIT FLAVORS) AND...Part2](https://www.youtube.com/watch?v=J2J_Xh4pdPM)  
+  ![](https://i.ytimg.com/vi/J2J_Xh4pdPM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:31:50 (UTC) — **کانال:** [Retro Print Lab](https://www.youtube.com/channel/UCBvlcNBV9SRAdMXSJvJLm8g)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Supersized Yoshi! 3D Voxel Model #yoshi #3dprinting #mario #asmr #satisfying](https://www.youtube.com/watch?v=8Rl5KmT5bIc)  
+  ![](https://i.ytimg.com/vi/8Rl5KmT5bIc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:30:34 (UTC) — **کانال:** [Sweet ASMR Gems Candy](https://www.youtube.com/channel/UCwoIJkepBJNRI_cIBmgGwZw)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [m&m's gems candy chocolate unboxing ASMR video #asmr #chocolate #candy #m&m's #gems](https://www.youtube.com/watch?v=d2_PqU9r4KY)  
+  ![](https://i.ytimg.com/vi/d2_PqU9r4KY/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:30:20 (UTC) — **کانال:** [Sweet ASMR Gems Candy](https://www.youtube.com/channel/UCwoIJkepBJNRI_cIBmgGwZw)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Kinderjoy chocolate unboxing asmr video #kinderjoy #chocolate #asmr #unboxing #shorts #ytshorts](https://www.youtube.com/watch?v=JM9f8jtlfyM)  
+  ![](https://i.ytimg.com/vi/JM9f8jtlfyM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:29:19 (UTC) — **کانال:** [QD](https://www.youtube.com/channel/UCFZadc6J1qk1bF_D2AIJ73Q)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [ASMR AMERICA’S 🍡 🍭 🍬 😜 ORIGINAL DUBBLE BUBBLE GUM FRUIT FLAVORS CANDY SOUND ASMR EATING CANDY 🍡 🍭](https://www.youtube.com/watch?v=1Rnk-DbWCB4)  
+  ![](https://i.ytimg.com/vi/1Rnk-DbWCB4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:27:57 (UTC) — **کانال:** [Funny Sandyz](https://www.youtube.com/channel/UCTKxSOdPodyqyGZQikbkG7g)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Beatifull bowl amezing 😡relax#funny #asmr #satisfying #shortsfeed](https://www.youtube.com/watch?v=BrLjebfjJGg)  
+  ![](https://i.ytimg.com/vi/BrLjebfjJGg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:26:07 (UTC) — **کانال:** [CRAZY_TV_ ](https://www.youtube.com/channel/UCMtfkmC9eO9S-NEKwpI81OQ)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [new Hide and seek chocolate biscuit 🍪 Unboxing #asmr #candyopening #candy #shorts](https://www.youtube.com/watch?v=iywhQsGEHtU)  
+  ![](https://i.ytimg.com/vi/iywhQsGEHtU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:24:43 (UTC) — **کانال:** [Piyush Prajapati](https://www.youtube.com/channel/UCgWJCJNah-_wZichzJZXNuA)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [0% vs 100% Soft Two Gold Sphere SoftBody Simulation#satisfying #asmr #blender3d#3danimation](https://www.youtube.com/watch?v=Y07JFS6YYLM)  
+  ![](https://i.ytimg.com/vi/Y07JFS6YYLM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:20:31 (UTC) — **کانال:** [Geniusmilan999](https://www.youtube.com/channel/UCJ2g30NW9H6jBopZduyGlvQ)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Random Pink Food ASMR Mukbang 🌸🦑💋n537 #3 #shorts #mukbang #asmr#eating](https://www.youtube.com/watch?v=0PDsUP64Kf8)  
+  ![](https://i.ytimg.com/vi/0PDsUP64Kf8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:20:00 (UTC) — **کانال:** [A _S  ](https://www.youtube.com/channel/UCIKn2nl0u69MkEZVFVtqw8w)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Choco-pie Chocolate Unwrapping🤩#chocopie#chocolate#asmr #tasty#shortvideo#viral#trending](https://www.youtube.com/watch?v=rISxjNd1qqg)  
+  ![](https://i.ytimg.com/vi/rISxjNd1qqg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:16:05 (UTC) — **کانال:** [ahinmukbangz](https://www.youtube.com/channel/UC4oFx6TJMlUbBBKKD93-62g)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Ultimate spicy 🔥 nashville hot chicken with spicy korean noodles #mukbang #asmr #@EatwithBoki](https://www.youtube.com/watch?v=9H4LQwyniLc)  
+  ![](https://i.ytimg.com/vi/9H4LQwyniLc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:15:46 (UTC) — **کانال:** [Funny Tom](https://www.youtube.com/channel/UCzc7oN3eX9eRKFPsrpSUtUw)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [ASMR AMERICA'S🧃🥰ORIGINAL DUBBLE BUBBLE GUM (3 FRUIT FLAVORS) AND...Part2](https://www.youtube.com/watch?v=asNnNLBlR0I)  
+  ![](https://i.ytimg.com/vi/asNnNLBlR0I/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:13:24 (UTC) — **کانال:** [サンフレッチェ広島 l SANFRECCE HIROSHIMA](https://www.youtube.com/channel/UC7JNMwOkj_zHjbXiXlDaAVA)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [【#ASMR】#森﨑浩司 アンバサダーがASMRに挑戦してみた！](https://www.youtube.com/watch?v=Lu83PJGSPKY)  
+  ![](https://i.ytimg.com/vi/Lu83PJGSPKY/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:09:00 (UTC) — **کانال:** [Andichannel](https://www.youtube.com/channel/UC_dFSw4spxc1XIzAp89EhZg)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Lego Mario Character Swap: Triple Suit Returnes #shorts #trending #funny #mario #asmr #toys #fy ,we](https://www.youtube.com/watch?v=IzutDNJhW-0)  
+  ![](https://i.ytimg.com/vi/IzutDNJhW-0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:06:46 (UTC) — **کانال:** [Printed Melody](https://www.youtube.com/channel/UCOkDzF-a2IRulp8ZfATbW_g)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Are you Team Clicky or Team Silent? ASMR Fidget Toy #shorts #3dprinting #fidgettoys #asmr](https://www.youtube.com/watch?v=44QwRO3AiS8)  
+  ![](https://i.ytimg.com/vi/44QwRO3AiS8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:06:43 (UTC) — **کانال:** [Melody-Daily-Maker](https://www.youtube.com/channel/UCkGFDiNG4_I4B6Tqz0tJCgA)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [every cup needs a little snuggle bear ! #shorts #3dprinting #fidgettoys #asmr](https://www.youtube.com/watch?v=NPZHBXN93Gw)  
+  ![](https://i.ytimg.com/vi/NPZHBXN93Gw/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 02:05:15 (UTC) — **کانال:** [Miniesplay by Len](https://www.youtube.com/channel/UCDZm2mnD3gHjWilST0Un6Tw)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Let’s cook yummy steak! #miniature #fake #toys #minitoys #food #asmr #youtubeshorts](https://www.youtube.com/watch?v=hZpXMc4xf98)  
+  ![](https://i.ytimg.com/vi/hZpXMc4xf98/hqdefault.jpg)
