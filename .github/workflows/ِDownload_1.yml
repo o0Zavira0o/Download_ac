@@ -1,4 +1,4 @@
-name: Smart Downloader V3
+name: Smart Downloader V4
 
 on:
   workflow_dispatch:
@@ -27,39 +27,40 @@ jobs:
           mkdir -p parts
 
       - name: Download and process URLs
-        # انتقال امن ورودی به متغیر محیطی برای جلوگیری از خطاهای Bash
         env:
           RAW_URLS: ${{ github.event.inputs.file_urls }}
         run: |
+          # GitHub به طور پیش‌فرض با -e اجرا می‌کند، اینجا آن را خاموش می‌کنیم
+          # تا با خطای یک کامند، کل اسکریپت متوقف نشود.
+          set +e
           set -u
-          set -f # غیرفعال کردن بسط کاراکترهای خاص مثل * برای امنیت بیشتر
+          set -f  # غیرفعال کردن globbing مثل * برای امنیت بیشتر
 
           LIMIT=$((100*1024*1024))   # 100MB
           RUN_DIR="run-${{ github.run_id }}"
           mkdir -p "parts/$RUN_DIR"
+          mkdir -p downloads
 
           echo "Processing URLs for $RUN_DIR"
           COUNT=0
+          FAILED=0
 
-          # در اینجا متغیر RAW_URLS بدون کوتیشن نوشته شده تا Bash خودش 
-          # اسپیس‌ها و تب‌ها را به عنوان جداکننده تشخیص دهد.
+          # RAW_URLS بر اساس فاصله (space/tab/newline) به لینک‌های جدا تقسیم می‌شود
           for URL in $RAW_URLS; do
-            
-            # اگر خالی بود رد کن
             if [ -z "$URL" ]; then
               continue
             fi
 
             COUNT=$((COUNT+1))
             if [ "$COUNT" -gt 10 ]; then
-              echo "⚠️ بیش از ۱۰ لینک وارد شده است؛ لینک‌های بعدی نادیده گرفته می‌شوند."
+              echo "More than 10 URLs supplied, ignoring the rest."
               break
             fi
 
             echo "----------------------------------------"
             echo "URL #$COUNT: $URL"
 
-            # استخراج اسم فایل از لینک
+            # نام فایل بر اساس URL (بدون query string)
             BASENAME=$(basename "${URL%%\?*}")
             if [ -z "$BASENAME" ] || [ "$BASENAME" = "/" ]; then
               BASENAME="file_$COUNT"
@@ -67,7 +68,7 @@ jobs:
 
             OUT_PATH="downloads/$BASENAME"
 
-            # جلوگیری از تداخل اسم اگر دو فایل هم‌نام بودند
+            # اگر قبلاً فایلی با همین نام دانلود شده بود، یکتا کن
             if [ -e "$OUT_PATH" ]; then
               TS=$(date +%s)
               OUT_PATH="downloads/${TS}_$BASENAME"
@@ -76,26 +77,77 @@ jobs:
 
             echo "Downloading to: $OUT_PATH"
 
-            # دانلود با قابلیت مقاومت در برابر قطعی
-            curl -L --retry 10 --retry-delay 5 -C - "$URL" -o "$OUT_PATH"
+            # دانلود مقاوم؛ اگر خطا داد، لینک بعدی را ادامه بده
+            if ! curl -L --retry 10 --retry-delay 5 -C - "$URL" -o "$OUT_PATH"; then
+              echo "Download failed for URL #$COUNT ($URL). Skipping."
+              FAILED=1
+              rm -f "$OUT_PATH"
+              continue
+            fi
 
-            # بررسی حجم فایل
-            SIZE=$(stat -c%s "$OUT_PATH")
+            # خواندن سایز؛ اگر نشد، لینک را رد می‌کنیم
+            SIZE=$(stat -c%s "$OUT_PATH" 2>/dev/null)
+            if [ -z "$SIZE" ]; then
+              echo "Could not determine size for $OUT_PATH. Skipping."
+              FAILED=1
+              rm -f "$OUT_PATH"
+              continue
+            fi
+
             echo "Size: $SIZE bytes"
+
+            TARGET_DIR="parts/$RUN_DIR"
+            mkdir -p "$TARGET_DIR"
+
+            # برای هر لینک یک base یکتا بر اساس شماره لینک می‌سازیم
+            SAFE_BASE="${COUNT}_$BASENAME"
 
             if [ "$SIZE" -gt "$LIMIT" ]; then
               echo "Large file → splitting into 95MB parts"
-              zip -s 95m "parts/$RUN_DIR/${BASENAME}.zip" "$OUT_PATH"
-              rm "$OUT_PATH"
+
+              OUT_ZIP="$TARGET_DIR/$SAFE_BASE.zip"
+
+              # اگر به هر دلیلی فایل همنام وجود داشت، اسم یکتا بساز
+              idx=1
+              while [ -e "$OUT_ZIP" ]; do
+                OUT_ZIP="$TARGET_DIR/${SAFE_BASE}_$idx.zip"
+                idx=$((idx+1))
+              done
+
+              if ! zip -s 95m "$OUT_ZIP" "$OUT_PATH"; then
+                echo "zip failed for $OUT_PATH. Skipping this file."
+                FAILED=1
+                rm -f "$OUT_PATH"
+                continue
+              fi
+
+              rm -f "$OUT_PATH"
             else
               echo "Small file → keeping as a single file"
-              mv "$OUT_PATH" "parts/$RUN_DIR/$BASENAME"
+              TARGET_PATH="$TARGET_DIR/$SAFE_BASE"
+              if ! mv "$OUT_PATH" "$TARGET_PATH"; then
+                echo "Failed to move $OUT_PATH to $TARGET_PATH. Skipping."
+                FAILED=1
+                rm -f "$OUT_PATH"
+                continue
+              fi
             fi
 
           done
 
-          echo "All done for $RUN_DIR"
-          ls -R parts
+          echo "----------------------------------------"
+          if [ "$COUNT" -eq 0 ]; then
+            echo "No URLs provided after parsing input."
+          fi
+
+          if [ "$FAILED" -ne 0 ]; then
+            echo "Finished with some errors. Check logs above."
+          else
+            echo "All URLs processed successfully."
+          fi
+
+          echo "Listing parts directory:"
+          ls -R parts || true
 
       - name: Commit to repo
         id: commit
