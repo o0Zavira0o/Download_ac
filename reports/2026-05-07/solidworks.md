@@ -1,383 +1,233 @@
 # آموزش‌ها و پروژه‌های SolidWorks — ویدیوهای معمولی (بیش از ۴ دقیقه)
 
-_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-07T06:01:59Z_
+_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-07T10:39:25Z_
 
-- **تاریخ انتشار:** 2026-05-07 05:45:06 (UTC) — **کانال:** [MechEdify](https://www.youtube.com/channel/UCSKhdtkZK9MujRdpOKlQDmw)  
-  **مدت:** حدود 5.6 دقیقه  
-  **عنوان:** [Aluminium Lamp Project | Part 04–05 – Washer & Nut Modeling | SolidWorks](https://www.youtube.com/watch?v=tn6gpUkqE2E)  
-  ![](https://i.ytimg.com/vi/tn6gpUkqE2E/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 04:30:23 (UTC) — **کانال:** [Scale Model Wheels & Design (SMW)](https://www.youtube.com/channel/UCYlQw-GY-BtakQH0RbHl8Wg)  
-  **مدت:** حدود 11.3 دقیقه  
-  **عنوان:** [Custom Rim Design from Scratch | REV Wheels 652 IROC Rim | Fusion 360 Speed Build](https://www.youtube.com/watch?v=7odY-zfmaaM)  
-  ![](https://i.ytimg.com/vi/7odY-zfmaaM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 03:20:16 (UTC) — **کانال:** [BMO_ Mechanical Designer](https://www.youtube.com/channel/UC8JG9KGdhD0qgSrLHSU4PVw)  
-  **مدت:** حدود 4.5 دقیقه  
-  **عنوان:** [Conception d’un arbre de transmission sur SolidWorks | Tutoriel complet débutant](https://www.youtube.com/watch?v=QkZFG3phKxw)  
-  ![](https://i.ytimg.com/vi/QkZFG3phKxw/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 03:13:08 (UTC) — **کانال:** [SmartCAD](https://www.youtube.com/channel/UCnDlwzPZadjiOK_6mkhWB5A)  
-  **مدت:** حدود 6.9 دقیقه  
-  **عنوان:** [SOLIDWORKS Chair Design Tutorial | 2D Drawing to Realistic 3D Model](https://www.youtube.com/watch?v=2hZDWHo_a68)  
-  ![](https://i.ytimg.com/vi/2hZDWHo_a68/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 03:00:51 (UTC) — **کانال:** [Somos todos SolidWorks](https://www.youtube.com/channel/UCAELd5cbAnbusXfAp1U5Pbw)  
-  **مدت:** حدود 17.9 دقیقه  
-  **عنوان:** [Peça 20](https://www.youtube.com/watch?v=mBw1nZ6b7yo)  
-  ![](https://i.ytimg.com/vi/mBw1nZ6b7yo/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 01:37:43 (UTC) — **کانال:** [Sakshyam Malla](https://www.youtube.com/channel/UCp6Tuooppg6QEorx9o32uZw)  
+- **تاریخ انتشار:** 2026-05-07 10:11:49 (UTC) — **کانال:** [SolidWorks Mastery](https://www.youtube.com/channel/UC4ZIv-srT_rGhhlt36n8Mvg)  
   **مدت:** حدود 5.1 دقیقه  
-  **عنوان:** [Electric Guitar in Solidworks](https://www.youtube.com/watch?v=E9o7wewoTsE)  
-  ![](https://i.ytimg.com/vi/E9o7wewoTsE/hqdefault.jpg)
+  **عنوان:** [Formation SolidWorks #5 | من الصفر للمبتدئين](https://www.youtube.com/watch?v=BBWSgj5i3OE)  
+  ![](https://i.ytimg.com/vi/BBWSgj5i3OE/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-07 01:10:51 (UTC) — **کانال:** [BM Prime Jewellers](https://www.youtube.com/channel/UCFRG6dd8lTwYvuVGlp1jNPA)  
-  **مدت:** حدود 5.2 دقیقه  
-  **عنوان:** [Rhino Jewelry Design Basic Tutorial Part 3 | OSnap Tools Explained](https://www.youtube.com/watch?v=KcgpT1lNj4w)  
-  ![](https://i.ytimg.com/vi/KcgpT1lNj4w/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 07:46:25 (UTC) — **کانال:** [Design Cad Mechanical](https://www.youtube.com/channel/UCIPplSpzC-KpKWBVZ3QquIQ)  
+  **مدت:** حدود 92.7 دقیقه  
+  **عنوان:** [LATHE MACHINE PART | 1 Design a Tailstock in SolidWorks | Tailstock Sub Assembly Tutorial](https://www.youtube.com/watch?v=2SNBPZEo5JM)  
+  ![](https://i.ytimg.com/vi/2SNBPZEo5JM/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-07 00:53:24 (UTC) — **کانال:** [Rahmat Bambang Samirun RBS](https://www.youtube.com/channel/UCVuj0uKD5fr9z9Bcg964ovA)  
-  **مدت:** حدود 102.0 دقیقه  
-  **عنوان:** [UAS SOLIDWORKS MESIN PENCACAH RUMPUT (RAHMAT BAMBANG SAMIRUN)  (236411014)](https://www.youtube.com/watch?v=af0AaUgQCkI)  
-  ![](https://i.ytimg.com/vi/af0AaUgQCkI/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 00:50:36 (UTC) — **کانال:** [Design To Work](https://www.youtube.com/channel/UCxXM96VvG4Ujk-QaQGzGhpw)  
-  **مدت:** حدود 13.4 دقیقه  
-  **عنوان:** [SolidWorks Mobile Cover Design Tutorial | Step by Step 3D Model (Beginner Friendly) | Design To Work](https://www.youtube.com/watch?v=yiHUGXvJAtA)  
-  ![](https://i.ytimg.com/vi/yiHUGXvJAtA/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 00:30:39 (UTC) — **کانال:** [Tech CNC Gyan](https://www.youtube.com/channel/UCAlgWYbvmToSQZUuXXHO1fQ)  
-  **مدت:** حدود 14.9 دقیقه  
-  **عنوان:** [ Mastered SolidWorks Linear Pattern in Under 15 Minutes #Linear Pattern #pattern](https://www.youtube.com/watch?v=gGsILJk8Ds0)  
-  ![](https://i.ytimg.com/vi/gGsILJk8Ds0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 00:15:01 (UTC) — **کانال:** [CIENCIAS E INGENIERIA TOTAL](https://www.youtube.com/channel/UCvC5enLANPPonv0Bi3t4NFg)  
-  **مدت:** حدود 9.2 دقیقه  
-  **عنوان:** [Cómo crear PLANTILLAS AUTOMÁTICAS en SolidWorks: Ahorra horas de trabajo | Video # 7](https://www.youtube.com/watch?v=QBgror5SUdY)  
-  ![](https://i.ytimg.com/vi/QBgror5SUdY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 00:05:36 (UTC) — **کانال:** [3D_Artists_cad_cam_cnc](https://www.youtube.com/channel/UCztjjCGxMSbhpVXz1zenbtQ)  
-  **مدت:** حدود 6.1 دقیقه  
-  **عنوان:** [Geomagic Design X Basic Block Design Extrude - Round_Lesson 6](https://www.youtube.com/watch?v=OJ_eHiibrKs)  
-  ![](https://i.ytimg.com/vi/OJ_eHiibrKs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 22:45:39 (UTC) — **کانال:** [aitouchene hajar](https://www.youtube.com/channel/UCb54Iu4UNClEj68oEdsfwWw)  
-  **مدت:** حدود 10.8 دقیقه  
-  **عنوان:** [CATIA V5 Tutorial | Twisted Bracket 3D Modeling for Beginners](https://www.youtube.com/watch?v=kbxKCK3Uv7o)  
-  ![](https://i.ytimg.com/vi/kbxKCK3Uv7o/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 22:30:02 (UTC) — **کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
-  **مدت:** حدود 23.1 دقیقه  
-  **عنوان:** [MODELAGEM NO SOLIDWORKS A PARTIR DE IMAGEM: PROJETO DE UM MACHADO #solidworks](https://www.youtube.com/watch?v=86QxRkzbfJs)  
-  ![](https://i.ytimg.com/vi/86QxRkzbfJs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 22:18:02 (UTC) — **کانال:** [Industrial AI Podcast](https://www.youtube.com/channel/UCSubAnUH8ZkfSBlNKogddxA)  
-  **مدت:** حدود 27.8 دقیقه  
-  **عنوان:** [The CAD AI Hype!?](https://www.youtube.com/watch?v=Aur2pzAe0Bo)  
-  ![](https://i.ytimg.com/vi/Aur2pzAe0Bo/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 22:05:24 (UTC) — **کانال:** [Jorge Enrique Mercado Nogales](https://www.youtube.com/channel/UC7R7lw3sI-nQQUJdoej3UcA)  
-  **مدت:** حدود 20.6 دقیقه  
-  **عنوان:** [PLANTILLA DE DIBUJO SOLIDWORKS](https://www.youtube.com/watch?v=LaCi0Hpau9s)  
-  ![](https://i.ytimg.com/vi/LaCi0Hpau9s/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 22:05:14 (UTC) — **کانال:** [Harmony Home 3D](https://www.youtube.com/channel/UCnJo3ovvyKA3_CKC9ezqzzA)  
-  **مدت:** حدود 28.6 دقیقه  
-  **عنوان:** [ENSAMBLE DE ENGRANAJES en SOLIDWORKS | Explosión, Animación y Planos](https://www.youtube.com/watch?v=IXZsm9WLxmo)  
-  ![](https://i.ytimg.com/vi/IXZsm9WLxmo/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 21:26:04 (UTC) — **کانال:** [Samin Intesar](https://www.youtube.com/channel/UCvaWidfj6nlbk7BiR7DPV7A)  
-  **مدت:** حدود 51.4 دقیقه  
-  **عنوان:** [AutoCAD](https://www.youtube.com/watch?v=nQ9FVegq2YE)  
-  ![](https://i.ytimg.com/vi/nQ9FVegq2YE/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 19:47:32 (UTC) — **کانال:** [CAD Mastery 2026](https://www.youtube.com/channel/UCcs0x77cIvujThwdWphFdeA)  
-  **مدت:** حدود 9.7 دقیقه  
-  **عنوان:** [How to Draw a Tee Fitting in AutoCAD 3D  Easy Practice Guide PART 02](https://www.youtube.com/watch?v=4yosbvWuS5k)  
-  ![](https://i.ytimg.com/vi/4yosbvWuS5k/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 19:24:27 (UTC) — **کانال:** [Civil Tech Academy](https://www.youtube.com/channel/UCzFDf8QvPHARsCQQI93Jxrg)  
-  **مدت:** حدود 105.1 دقیقه  
-  **عنوان:** [CLASS-05/BATCH-RVTA-02/REVIT ARCHITECTURE ](https://www.youtube.com/watch?v=glHjviO4Qt8)  
-  ![](https://i.ytimg.com/vi/glHjviO4Qt8/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 19:14:57 (UTC) — **کانال:** [civil engineering service center](https://www.youtube.com/channel/UCJhMeG3xHhPGUjBSEPLzFHg)  
-  **مدت:** حدود 27.4 دقیقه  
-  **عنوان:** [how to create a house plan in autocad](https://www.youtube.com/watch?v=w84VDYVd2PU)  
-  ![](https://i.ytimg.com/vi/w84VDYVd2PU/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 19:05:00 (UTC) — **کانال:** [3D Modeling Designer ](https://www.youtube.com/channel/UC-qLVizhKRIrmOsPskC4icA)  
-  **مدت:** حدود 4.7 دقیقه  
-  **عنوان:** [DESIGN AND MANUFACTURE & ASSEMBLY FOR ENGINE IN SOLIDWORK#mechanical #engine #3d #animantion ](https://www.youtube.com/watch?v=yR1-q-4tD5A)  
-  ![](https://i.ytimg.com/vi/yR1-q-4tD5A/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 19:00:56 (UTC) — **کانال:** [h2x](https://www.youtube.com/channel/UCduBW1y6ydUhplw10NeP1cw)  
+- **تاریخ انتشار:** 2026-05-07 07:38:26 (UTC) — **کانال:** [muguya](https://www.youtube.com/channel/UCCNyCeQl6sYkg7UItIwvG8g)  
   **مدت:** حدود 4.3 دقیقه  
-  **عنوان:** [Heat Load Calculations in h2x | Automatic Heat Loss & Gain, Sized HVAC System (Imperial)](https://www.youtube.com/watch?v=xx8ZC1EGc3s)  
-  ![](https://i.ytimg.com/vi/xx8ZC1EGc3s/hqdefault.jpg)
+  **عنوان:** [Tugas 2 Solidworks](https://www.youtube.com/watch?v=N7osFlkxrQs)  
+  ![](https://i.ytimg.com/vi/N7osFlkxrQs/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 18:59:00 (UTC) — **کانال:** [shawan chowdhury](https://www.youtube.com/channel/UCePgSqJbL9-fmzeG62JKuhQ)  
-  **مدت:** حدود 28.5 دقیقه  
-  **عنوان:** [Part 10 solidworks in hindi 2026](https://www.youtube.com/watch?v=3zCo9EkxR-4)  
-  ![](https://i.ytimg.com/vi/3zCo9EkxR-4/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 07:30:55 (UTC) — **کانال:** [Kwality Steel Works](https://www.youtube.com/channel/UCpLrOee0yX_UAruHfl0Q0lA)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [AutoCAD Kitchen Design Tutorial 🔥 | 2D Plan + 3D Base Model Step By Step](https://www.youtube.com/watch?v=uSheJiFoA3I)  
+  ![](https://i.ytimg.com/vi/uSheJiFoA3I/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 18:54:28 (UTC) — **کانال:** [SamGoz Engineering](https://www.youtube.com/channel/UCs7KvIul8mFPPuMVsUdd3Gw)  
-  **مدت:** حدود 49.3 دقیقه  
-  **عنوان:** [Structural Modeling from Architectural Plan (Part 2)](https://www.youtube.com/watch?v=TH9hBcNZmck)  
-  ![](https://i.ytimg.com/vi/TH9hBcNZmck/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 06:52:43 (UTC) — **کانال:** [Skyjet Academy](https://www.youtube.com/channel/UCgXUaSAu2I_Vd_iLH50tlgQ)  
+  **مدت:** حدود 25.1 دقیقه  
+  **عنوان:** [Solidworks - Surface - Tutorial - Exercise 6 | CAD Training in Coimbatore | Skyjet Academy](https://www.youtube.com/watch?v=1TVzBQU_I5M)  
+  ![](https://i.ytimg.com/vi/1TVzBQU_I5M/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 18:11:23 (UTC) — **کانال:** [Rayen Asfi](https://www.youtube.com/channel/UC-C-GCndfQ-YWbl7vjSnpHA)  
-  **مدت:** حدود 9.2 دقیقه  
-  **عنوان:** [Drawing a clevis bracket/yoke - SOLIDWORKS 2022](https://www.youtube.com/watch?v=PcuGitQqTUQ)  
-  ![](https://i.ytimg.com/vi/PcuGitQqTUQ/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 06:37:10 (UTC) — **کانال:** [Skyjet Academy](https://www.youtube.com/channel/UCgXUaSAu2I_Vd_iLH50tlgQ)  
+  **مدت:** حدود 18.9 دقیقه  
+  **عنوان:** [Solidworks - Surface - Tutorial - Exercise 4 | CAD Design Training in Coimbatore | Skyjet Academy](https://www.youtube.com/watch?v=hw4bLNHwJjY)  
+  ![](https://i.ytimg.com/vi/hw4bLNHwJjY/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 18:01:12 (UTC) — **کانال:** [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)  
-  **مدت:** حدود 144.5 دقیقه  
-  **عنوان:** [Part Design - RC Car Project 4.5 - EP2](https://www.youtube.com/watch?v=nuj_CTZI05s)  
-  ![](https://i.ytimg.com/vi/nuj_CTZI05s/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 17:57:53 (UTC) — **کانال:** [CADWORKS Tecnologia e Sistemas](https://www.youtube.com/channel/UCs_tJz9ggk00rjFMj-6BvqQ)  
-  **مدت:** حدود 49.4 دقیقه  
-  **عنوان:** [Webinar - SOLIDWORKS Simulation ou SIMULIA: qual é a diferença e quando usar cada um?](https://www.youtube.com/watch?v=YI4zrUUXg0g)  
-  ![](https://i.ytimg.com/vi/YI4zrUUXg0g/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 17:54:22 (UTC) — **کانال:** [Andika Fakhrurrozi](https://www.youtube.com/channel/UC-WFjCxHQ1qafE_e2n7mGkQ)  
-  **مدت:** حدود 28.5 دقیقه  
-  **عنوان:** [Modul 8 Sheet Metal | CAD CAM](https://www.youtube.com/watch?v=jLg4zjPe9F4)  
-  ![](https://i.ytimg.com/vi/jLg4zjPe9F4/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 17:33:37 (UTC) — **کانال:** [Engenharia Academy](https://www.youtube.com/channel/UCCA3uRdGO8dS4rGtxgVVL9w)  
-  **مدت:** حدود 57.0 دقیقه  
-  **عنوان:** [A Revolução das Máquinas - FEIMEC 2026](https://www.youtube.com/watch?v=IZorcEKdLhE)  
-  ![](https://i.ytimg.com/vi/IZorcEKdLhE/hqdefault_live.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 17:33:35 (UTC) — **کانال:** [Solidworks para Iniciantes - Projetistas Academy](https://www.youtube.com/channel/UC0EPyYs_CI9RFFAB77KRE8w)  
-  **مدت:** حدود 57.0 دقیقه  
-  **عنوان:** [A Revolução das Máquinas - FEIMEC 2026](https://www.youtube.com/watch?v=hfoho1X-YCU)  
-  ![](https://i.ytimg.com/vi/hfoho1X-YCU/hqdefault_live.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 17:00:04 (UTC) — **کانال:** [Parker](https://www.youtube.com/channel/UCwjp1Tobe0-Yne7Uao7sUWw)  
-  **مدت:** حدود 10.1 دقیقه  
-  **عنوان:** [Espinosa, Rosa, Grace, Hughes - Heat Transfer Steak Sim](https://www.youtube.com/watch?v=2mVRKXm737g)  
-  ![](https://i.ytimg.com/vi/2mVRKXm737g/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 16:30:06 (UTC) — **کانال:** [SoftGuidePro](https://www.youtube.com/channel/UCgifHVNjOwy_kOzxj1w_TTQ)  
-  **مدت:** حدود 7.4 دقیقه  
-  **عنوان:** [How to Convert AutoCAD to PDF (High Quality & Exact Scale)](https://www.youtube.com/watch?v=bmGeh5iV3BE)  
-  ![](https://i.ytimg.com/vi/bmGeh5iV3BE/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 16:28:00 (UTC) — **کانال:** [Ekidel](https://www.youtube.com/channel/UC7qee6E-iCtOGvBwfoRK6Nw)  
-  **مدت:** حدود 25.3 دقیقه  
-  **عنوان:** [Scale Structural Drawings to A1 Paper in AutoCAD 2026 | Full Tutorial I Ekidel I](https://www.youtube.com/watch?v=wTxwk07Dl8c)  
-  ![](https://i.ytimg.com/vi/wTxwk07Dl8c/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 16:21:23 (UTC) — **کانال:** [Satria Bintang](https://www.youtube.com/channel/UCJ9zh7OFef2uAS1xBdinF_w)  
+- **تاریخ انتشار:** 2026-05-07 06:33:12 (UTC) — **کانال:** [Skyjet Academy](https://www.youtube.com/channel/UCgXUaSAu2I_Vd_iLH50tlgQ)  
   **مدت:** حدود 9.8 دقیقه  
-  **عنوان:** [TUTORIAL MEMBUAT TIC TAC TOE DI SOLIDWORKS ](https://www.youtube.com/watch?v=a3BosaXY0Dk)  
-  ![](https://i.ytimg.com/vi/a3BosaXY0Dk/hqdefault.jpg)
+  **عنوان:** [Solidworks - Surface - Tutorial - Exercise 3 | BestTraining Institute in Coimbatore | Skyjet Academy](https://www.youtube.com/watch?v=7ONC03ZTp2c)  
+  ![](https://i.ytimg.com/vi/7ONC03ZTp2c/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 16:13:11 (UTC) — **کانال:** [AHM](https://www.youtube.com/channel/UCnmJFQDoClV88PtDXDJS3kA)  
-  **مدت:** حدود 14.2 دقیقه  
-  **عنوان:** [Solidworks VIDEO 5: Creando una estructura Parte2](https://www.youtube.com/watch?v=igseMmDPwwE)  
-  ![](https://i.ytimg.com/vi/igseMmDPwwE/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 16:12:46 (UTC) — **کانال:** [Ahmed E Nassar](https://www.youtube.com/channel/UCExzHvUmvXoJ0FWi230dDWA)  
-  **مدت:** حدود 14.2 دقیقه  
-  **عنوان:** [basic solidworks exercise in one step (0)](https://www.youtube.com/watch?v=TrNj3B_Iij4)  
-  ![](https://i.ytimg.com/vi/TrNj3B_Iij4/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 16:09:59 (UTC) — **کانال:** [AMIR CHILLING ](https://www.youtube.com/channel/UCO8iZMv9RqFF9fK5DPBkXUg)  
-  **مدت:** حدود 14.1 دقیقه  
-  **عنوان:** [AutoCad - Suzuki RC100 Block Drawing](https://www.youtube.com/watch?v=ChtyoEpllAI)  
-  ![](https://i.ytimg.com/vi/ChtyoEpllAI/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 15:38:11 (UTC) — **کانال:** [One Think](https://www.youtube.com/channel/UCavvLiu4MybZvrCcMzlpzaA)  
-  **مدت:** حدود 10.5 دقیقه  
-  **عنوان:** [Bolt design by Solidwork](https://www.youtube.com/watch?v=TiWjoePsZ1Q)  
-  ![](https://i.ytimg.com/vi/TiWjoePsZ1Q/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 15:29:28 (UTC) — **کانال:** [Solidworks for people](https://www.youtube.com/channel/UCiST6bCFZ6C6dfC6aMh2y7g)  
-  **مدت:** حدود 6.3 دقیقه  
-  **عنوان:** [2nd part of the box](https://www.youtube.com/watch?v=upIObHWJJ3M)  
-  ![](https://i.ytimg.com/vi/upIObHWJJ3M/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 15:25:46 (UTC) — **کانال:** [Prof. Roberval Rodrigues](https://www.youtube.com/channel/UChjTomvX5U_blm9Q4L02j1A)  
-  **مدت:** حدود 11.1 دقیقه  
-  **عنوان:** [Aula 1199 - Modelamento do Suporte Cônico com Nervuras no Autodesk Fusion](https://www.youtube.com/watch?v=9kHhx_3LIU8)  
-  ![](https://i.ytimg.com/vi/9kHhx_3LIU8/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 15:23:01 (UTC) — **کانال:** [CNC CAD CAM ANJAN KUMAR](https://www.youtube.com/channel/UCxtqufRr5ifESAjhdkE_ujA)  
-  **مدت:** حدود 22.0 دقیقه  
-  **عنوان:** [#36 Mastercam 2026 Solid Modeling Step by Step 🚀 | Full CNC Programming Course in Hindi |](https://www.youtube.com/watch?v=H3qlXxC0YwM)  
-  ![](https://i.ytimg.com/vi/H3qlXxC0YwM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 15:06:10 (UTC) — **کانال:** [Santosh Cad](https://www.youtube.com/channel/UC1p_wTb7cSDSso4SPjdarbA)  
-  **مدت:** حدود 4.8 دقیقه  
-  **عنوان:** [Gold Weight Calculation, 28KT,14KT,22KT, How to calculate gold Weight #cadjewelry ](https://www.youtube.com/watch?v=5CcnLrMDgO0)  
-  ![](https://i.ytimg.com/vi/5CcnLrMDgO0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:55:13 (UTC) — **کانال:** [Andika Panca](https://www.youtube.com/channel/UCUCe-Pg_aoREaL_tHH0EO7w)  
-  **مدت:** حدود 17.1 دقیقه  
-  **عنوان:** [SOLIDWORK 46](https://www.youtube.com/watch?v=5efrVLe_yq8)  
-  ![](https://i.ytimg.com/vi/5efrVLe_yq8/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:54:32 (UTC) — **کانال:** [Andika Panca](https://www.youtube.com/channel/UCUCe-Pg_aoREaL_tHH0EO7w)  
-  **مدت:** حدود 14.3 دقیقه  
-  **عنوان:** [SOLIDWORK 44](https://www.youtube.com/watch?v=2cF0F5XtESo)  
-  ![](https://i.ytimg.com/vi/2cF0F5XtESo/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:50:59 (UTC) — **کانال:** [Andika Panca](https://www.youtube.com/channel/UCUCe-Pg_aoREaL_tHH0EO7w)  
-  **مدت:** حدود 9.4 دقیقه  
-  **عنوان:** [SOLIDWORK 47](https://www.youtube.com/watch?v=eq1a_Z_F8JQ)  
-  ![](https://i.ytimg.com/vi/eq1a_Z_F8JQ/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:47:56 (UTC) — **کانال:** [CAD Craft](https://www.youtube.com/channel/UCKWyE7wgafmAgN743Qs5kKA)  
-  **مدت:** حدود 24.0 دقیقه  
-  **عنوان:** [How to Create a Water Bottle in Autodesk Fusion 360 | Fusion 360 Surface Design Tutorial ⚙️](https://www.youtube.com/watch?v=IQbrn_rhu9M)  
-  ![](https://i.ytimg.com/vi/IQbrn_rhu9M/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:47:21 (UTC) — **کانال:** [Andika Panca](https://www.youtube.com/channel/UCUCe-Pg_aoREaL_tHH0EO7w)  
-  **مدت:** حدود 18.3 دقیقه  
-  **عنوان:** [SOLIDWORK 35](https://www.youtube.com/watch?v=4bA2pH0FgMo)  
-  ![](https://i.ytimg.com/vi/4bA2pH0FgMo/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:46:23 (UTC) — **کانال:** [Andika Panca](https://www.youtube.com/channel/UCUCe-Pg_aoREaL_tHH0EO7w)  
-  **مدت:** حدود 6.5 دقیقه  
-  **عنوان:** [SOLIDWORK 48](https://www.youtube.com/watch?v=yfsIORsVfGw)  
-  ![](https://i.ytimg.com/vi/yfsIORsVfGw/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:35:44 (UTC) — **کانال:** [Andika Panca](https://www.youtube.com/channel/UCUCe-Pg_aoREaL_tHH0EO7w)  
-  **مدت:** حدود 4.0 دقیقه  
-  **عنوان:** [SOLIDWORK 41](https://www.youtube.com/watch?v=yb3JWuhIw_Q)  
-  ![](https://i.ytimg.com/vi/yb3JWuhIw_Q/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:30:03 (UTC) — **کانال:** [Andika Panca](https://www.youtube.com/channel/UCUCe-Pg_aoREaL_tHH0EO7w)  
-  **مدت:** حدود 12.5 دقیقه  
-  **عنوان:** [SOLIDWORK 37](https://www.youtube.com/watch?v=yQkGzVNojJc)  
-  ![](https://i.ytimg.com/vi/yQkGzVNojJc/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:21:23 (UTC) — **کانال:** [Robin Sarmiento](https://www.youtube.com/channel/UCHrBbv06lgryXFwYF2cuzIg)  
-  **مدت:** حدود 55.7 دقیقه  
-  **عنوان:** [Cómo crear piezas sin errores en SolidWorks](https://www.youtube.com/watch?v=lrqMDWCm6Ps)  
-  ![](https://i.ytimg.com/vi/lrqMDWCm6Ps/hqdefault_live.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:12:48 (UTC) — **کانال:** [Andika Panca](https://www.youtube.com/channel/UCUCe-Pg_aoREaL_tHH0EO7w)  
-  **مدت:** حدود 7.9 دقیقه  
-  **عنوان:** [SOLIDWORK 36](https://www.youtube.com/watch?v=pP9isQyOIwI)  
-  ![](https://i.ytimg.com/vi/pP9isQyOIwI/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:12:41 (UTC) — **کانال:** [Andika Panca](https://www.youtube.com/channel/UCUCe-Pg_aoREaL_tHH0EO7w)  
-  **مدت:** حدود 6.2 دقیقه  
-  **عنوان:** [SOLIDWORK 39](https://www.youtube.com/watch?v=7cCaAM3zR80)  
-  ![](https://i.ytimg.com/vi/7cCaAM3zR80/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:07:20 (UTC) — **کانال:** [Andika Panca](https://www.youtube.com/channel/UCUCe-Pg_aoREaL_tHH0EO7w)  
-  **مدت:** حدود 5.5 دقیقه  
-  **عنوان:** [SOLIDWORK 38](https://www.youtube.com/watch?v=HQPlQqIKrgU)  
-  ![](https://i.ytimg.com/vi/HQPlQqIKrgU/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 13:57:47 (UTC) — **کانال:** [XpertsCADD Centre](https://www.youtube.com/channel/UCXV2me0P6POJn1xQIA3Y0Dg)  
-  **مدت:** حدود 41.4 دقیقه  
-  **عنوان:** [Orthographic Views in AutoCAD #autocad #orthographicdrawing #cad](https://www.youtube.com/watch?v=JCSepPAjbfY)  
-  ![](https://i.ytimg.com/vi/JCSepPAjbfY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 13:55:24 (UTC) — **کانال:** [Adeeb Daniel](https://www.youtube.com/channel/UCk99nvzwTWUWH70TWEDxvjQ)  
-  **مدت:** حدود 6.7 دقیقه  
-  **عنوان:** [case mini project eas keyboard fidget keychain ](https://www.youtube.com/watch?v=ikAILNG0RXA)  
-  ![](https://i.ytimg.com/vi/ikAILNG0RXA/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 13:50:54 (UTC) — **کانال:** [Tobias Redman](https://www.youtube.com/channel/UCsv6X8s0uSQwdXWs97MiQ8Q)  
-  **مدت:** حدود 10.1 دقیقه  
-  **عنوان:** [Dice](https://www.youtube.com/watch?v=H7dPthOQyNM)  
-  ![](https://i.ytimg.com/vi/H7dPthOQyNM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 13:45:17 (UTC) — **کانال:** [EPD-Net](https://www.youtube.com/channel/UCXFiWVLFXwwxUU6uaT8m3JA)  
-  **مدت:** حدود 22.1 دقیقه  
-  **عنوان:** [3501 - Parametric Design for Climate-Responsive Architecture: Key Concepts and Frameworks](https://www.youtube.com/watch?v=n_0FGzv471E)  
-  ![](https://i.ytimg.com/vi/n_0FGzv471E/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 13:30:06 (UTC) — **کانال:** [Enginuity Lab](https://www.youtube.com/channel/UCzJBJ4gdvKeH_TDmzmW7ZNg)  
-  **مدت:** حدود 13.6 دقیقه  
-  **عنوان:** [CATIA V5 Disassemble & Healing Tutorial 🔧 Surface Repair & Cleanup in GSD | Beginner Series Part 71](https://www.youtube.com/watch?v=VOnpbZu9ITg)  
-  ![](https://i.ytimg.com/vi/VOnpbZu9ITg/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 13:30:00 (UTC) — **کانال:** [Tech Trend Zone](https://www.youtube.com/channel/UCjg5486RxKPJMV6ftR9K8Nw)  
+- **تاریخ انتشار:** 2026-05-07 06:24:51 (UTC) — **کانال:** [Skyjet Academy](https://www.youtube.com/channel/UCgXUaSAu2I_Vd_iLH50tlgQ)  
   **مدت:** حدود 9.5 دقیقه  
-  **عنوان:** [iPhone 18 Pro Max vs 17: RIP Dynamic Island! (First Look) 🪦](https://www.youtube.com/watch?v=0OejVhV8hxI)  
-  ![](https://i.ytimg.com/vi/0OejVhV8hxI/hqdefault.jpg)
+  **عنوان:** [Solidworks - Surface - Tutorial - Exercise 2 | Solidworks Coaching  in Coimbatore | Skyjet Academy](https://www.youtube.com/watch?v=8btnJ3z8L4Y)  
+  ![](https://i.ytimg.com/vi/8btnJ3z8L4Y/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 13:23:07 (UTC) — **کانال:** [Rantaka Sena Ramadhan](https://www.youtube.com/channel/UCirExd4f_9-mgRbICwcAYqQ)  
-  **مدت:** حدود 50.5 دقیقه  
-  **عنوان:** [SOLIDWORK ASEMBLY](https://www.youtube.com/watch?v=8CdhCeOlEV0)  
-  ![](https://i.ytimg.com/vi/8CdhCeOlEV0/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 06:21:13 (UTC) — **کانال:** [Skyjet Academy](https://www.youtube.com/channel/UCgXUaSAu2I_Vd_iLH50tlgQ)  
+  **مدت:** حدود 15.2 دقیقه  
+  **عنوان:** [Solidworks - Surface - Tutorial - Exercise 1 | Solidworks Training  in Coimbatore | Skyjet Academy](https://www.youtube.com/watch?v=X6mhN8JGHpU)  
+  ![](https://i.ytimg.com/vi/X6mhN8JGHpU/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 13:12:18 (UTC) — **کانال:** [Maia Zahra](https://www.youtube.com/channel/UCpGNhl6_-btPa0_nsho1GWw)  
-  **مدت:** حدود 23.2 دقیقه  
-  **عنوان:** [Modul 8 CAD](https://www.youtube.com/watch?v=Rb_lq-3BkE0)  
-  ![](https://i.ytimg.com/vi/Rb_lq-3BkE0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 13:01:03 (UTC) — **کانال:** [Jewelry CAD Studio ](https://www.youtube.com/channel/UC56ccovkpIERPnmp3C4jnzA)  
-  **مدت:** حدود 11.5 دقیقه  
-  **عنوان:** [Trending Cat CAD || #dhurandhar #cat #tutorial #jewellery ](https://www.youtube.com/watch?v=UMXCnsMAMok)  
-  ![](https://i.ytimg.com/vi/UMXCnsMAMok/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 12:30:29 (UTC) — **کانال:** [AUTOCAD EASY](https://www.youtube.com/channel/UCvRCkCXrYzHeWuJg7fOLHcQ)  
-  **مدت:** حدود 4.0 دقیقه  
-  **عنوان:** [RCC Slab & Lintel Level 🔥 | Building Detail Explained, Door & Window Detail, RCC Slab,  Plinth Level](https://www.youtube.com/watch?v=K_bjWKnmliY)  
-  ![](https://i.ytimg.com/vi/K_bjWKnmliY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 12:30:13 (UTC) — **کانال:** [Learnflow interior studio](https://www.youtube.com/channel/UCK3YNrkLprsFFoiKv__TKMQ)  
+- **تاریخ انتشار:** 2026-05-07 04:31:19 (UTC) — **کانال:** [Muhammad Yardan Al Faraj](https://www.youtube.com/channel/UCffV673QPPFdiQfUYTEaR6Q)  
   **مدت:** حدود 5.7 دقیقه  
-  **عنوان:** [Autocad क्यों सीखना चाहिए? किस किसको सीखना चाहिए??](https://www.youtube.com/watch?v=9tVwvzL_VOI)  
-  ![](https://i.ytimg.com/vi/9tVwvzL_VOI/hqdefault.jpg)
+  **عنوان:** [Tugas 2 Labsesion SOLIDWORKS](https://www.youtube.com/watch?v=GE_gxvhOjl0)  
+  ![](https://i.ytimg.com/vi/GE_gxvhOjl0/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:45:36 (UTC) — **کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
-  **مدت:** حدود 12.8 دقیقه  
-  **عنوان:** [Xuất bản vẽ chi tiết Solidworks](https://www.youtube.com/watch?v=Q_VTmgUe19c)  
-  ![](https://i.ytimg.com/vi/Q_VTmgUe19c/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 04:00:55 (UTC) — **کانال:** [Engineers in Saudi Arabia](https://www.youtube.com/channel/UCMujMmCjJYesz92HkhJlW0g)  
+  **مدت:** حدود 19.7 دقیقه  
+  **عنوان:** [AutoCAD Course – Lecture 15 / How to Create Footing & Excavation Plan in AutoCAD ](https://www.youtube.com/watch?v=m_LxVu0JMhQ)  
+  ![](https://i.ytimg.com/vi/m_LxVu0JMhQ/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:17:30 (UTC) — **کانال:** [Rangga Adinata](https://www.youtube.com/channel/UC5E9zTI83s7bAzhMKaclIXg)  
-  **مدت:** حدود 4.3 دقیقه  
-  **عنوان:** [SOLIDWORKS   EXERCISE - 97](https://www.youtube.com/watch?v=3k7qbiLLs5E)  
-  ![](https://i.ytimg.com/vi/3k7qbiLLs5E/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 04:00:03 (UTC) — **کانال:** [Design house Rm37 ](https://www.youtube.com/channel/UC4irHxCj8jhV-e9vyi0cGAg)  
+  **مدت:** حدود 20.6 دقیقه  
+  **عنوان:** [AutoCad Class (16) Elevation Plan](https://www.youtube.com/watch?v=2b0QJNQQBmo)  
+  ![](https://i.ytimg.com/vi/2b0QJNQQBmo/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:17:04 (UTC) — **کانال:** [Rangga Adinata](https://www.youtube.com/channel/UC5E9zTI83s7bAzhMKaclIXg)  
-  **مدت:** حدود 7.0 دقیقه  
-  **عنوان:** [SOLIDWORKS   EXERCISE - 96](https://www.youtube.com/watch?v=WSqaIUIWkuI)  
-  ![](https://i.ytimg.com/vi/WSqaIUIWkuI/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 03:55:26 (UTC) — **کانال:** [chingshun fu](https://www.youtube.com/channel/UCjV_EqO5iDO904FWzwNba9w)  
+  **مدت:** حدود 12.7 دقیقه  
+  **عنوان:** [牛老哥 SOLIDWORKS教學影片- 立體電繪丙級檢定_水龍頭把手](https://www.youtube.com/watch?v=yv40Sl7RgmM)  
+  ![](https://i.ytimg.com/vi/yv40Sl7RgmM/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:16:37 (UTC) — **کانال:** [Rangga Adinata](https://www.youtube.com/channel/UC5E9zTI83s7bAzhMKaclIXg)  
-  **مدت:** حدود 6.0 دقیقه  
-  **عنوان:** [SOLIDWORKS   EXERCISE - 95](https://www.youtube.com/watch?v=8I1Kkwyy5p4)  
-  ![](https://i.ytimg.com/vi/8I1Kkwyy5p4/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 03:50:26 (UTC) — **کانال:** [koled T4](https://www.youtube.com/channel/UChgD7uKOhnnlshkkn0SgR3Q)  
+  **مدت:** حدود 6.4 دقیقه  
+  **عنوان:** [Tugas solidwork 1](https://www.youtube.com/watch?v=Zc4R2K-HtJQ)  
+  ![](https://i.ytimg.com/vi/Zc4R2K-HtJQ/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:10:41 (UTC) — **کانال:** [Rangga Adinata](https://www.youtube.com/channel/UC5E9zTI83s7bAzhMKaclIXg)  
-  **مدت:** حدود 5.9 دقیقه  
-  **عنوان:** [SOLIDWORKS   EXERCISE - 88](https://www.youtube.com/watch?v=hE1IHmLgi9Y)  
-  ![](https://i.ytimg.com/vi/hE1IHmLgi9Y/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 02:17:21 (UTC) — **کانال:** [HotTakeTrends](https://www.youtube.com/channel/UCSzL677RiV77AHorFmIXgsg)  
+  **مدت:** حدود 4.1 دقیقه  
+  **عنوان:** [Valve Just Released Steam Controller CAD Files: Modders, Start Printing](https://www.youtube.com/watch?v=UexFsSaucrc)  
+  ![](https://i.ytimg.com/vi/UexFsSaucrc/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:08:51 (UTC) — **کانال:** [Rangga Adinata](https://www.youtube.com/channel/UC5E9zTI83s7bAzhMKaclIXg)  
+- **تاریخ انتشار:** 2026-05-07 01:33:44 (UTC) — **کانال:** [David Franco KRESKANTE](https://www.youtube.com/channel/UCX08X9oPc8q2sdYt8E7hypg)  
+  **مدت:** حدود 34.5 دقیقه  
+  **عنوان:** [👉Croquis en SolidWorks: el error que te hace reprobar el CSWA (y cómo evitarlo) E4](https://www.youtube.com/watch?v=v6EcrPsy6is)  
+  ![](https://i.ytimg.com/vi/v6EcrPsy6is/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-07 00:42:19 (UTC) — **کانال:** [Actualexam practice](https://www.youtube.com/channel/UCSAaivJlWGza7gi08HrO6CQ)  
+  **مدت:** حدود 41.4 دقیقه  
+  **عنوان:** [2026 ServiceNow CAD Practice Test Master The Application Developer Exam On Your First Try](https://www.youtube.com/watch?v=AEUo_3I-0-8)  
+  ![](https://i.ytimg.com/vi/AEUo_3I-0-8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-07 00:36:54 (UTC) — **کانال:** [Actual Exam Quizzes](https://www.youtube.com/channel/UCgHKD0gQbP3tlgJPObloHdQ)  
+  **مدت:** حدود 41.4 دقیقه  
+  **عنوان:** [Pass The 2026 ServiceNow CAD Exam With This Updated Practice Test And Developer Strategy](https://www.youtube.com/watch?v=UO9sTpQ6beM)  
+  ![](https://i.ytimg.com/vi/UO9sTpQ6beM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 23:50:33 (UTC) — **کانال:** [Excel_for_Real Estates](https://www.youtube.com/channel/UC0tYnnd4muD5F3uer7j8vfQ)  
+  **مدت:** حدود 11.3 دقیقه  
+  **عنوان:** [5 Drawing and Exploded จาก ใบงานที่ 4 ด้วย](https://www.youtube.com/watch?v=hZqQwjs9vwc)  
+  ![](https://i.ytimg.com/vi/hZqQwjs9vwc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 23:30:30 (UTC) — **کانال:** [Projetos Mecânicos](https://www.youtube.com/channel/UC8gbkxqgIlPXPhtn_ZzOrZg)  
+  **مدت:** حدود 28.1 دقیقه  
+  **عنوان:** [AULA 13 - AJUSTE DO BRAÇO DA ALAVANCA](https://www.youtube.com/watch?v=qByudsH9lXk)  
+  ![](https://i.ytimg.com/vi/qByudsH9lXk/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 23:00:33 (UTC) — **کانال:** [Cadify](https://www.youtube.com/channel/UCvGDMMy2LWqODPeXo49LhVg)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Autodesk Inventor Exercise 22 Tutorial | Step-by-Step Beginner Practice (2026)](https://www.youtube.com/watch?v=NDo9WGtllEc)  
+  ![](https://i.ytimg.com/vi/NDo9WGtllEc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 22:30:26 (UTC) — **کانال:** [Tinker](https://www.youtube.com/channel/UCG_01krHBjgwZoXOau-bCWA)  
+  **مدت:** حدود 12.9 دقیقه  
+  **عنوان:** [Hidden features on Tinkercad revealed: hidden in plain sight](https://www.youtube.com/watch?v=s20ISEgWOGg)  
+  ![](https://i.ytimg.com/vi/s20ISEgWOGg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 22:15:05 (UTC) — **کانال:** [triyeni](https://www.youtube.com/channel/UCRiknNLkNxGGvo4b_w4G8Cg)  
+  **مدت:** حدود 22.5 دقیقه  
+  **عنوان:** [[08] Sheet Metal Solidworks ](https://www.youtube.com/watch?v=Yg1eVFeVUj0)  
+  ![](https://i.ytimg.com/vi/Yg1eVFeVUj0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 20:30:47 (UTC) — **کانال:** [CAD CAM Lessons](https://www.youtube.com/channel/UCMDxOMPPh5i92Bahyg8BbdQ)  
+  **مدت:** حدود 17.5 دقیقه  
+  **عنوان:** [Onshape Tutorial for Beginners | Design a 3D Printable Part Step by Step](https://www.youtube.com/watch?v=9Iyy7VdZ_2k)  
+  ![](https://i.ytimg.com/vi/9Iyy7VdZ_2k/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 19:59:31 (UTC) — **کانال:** [ScanCad 3D](https://www.youtube.com/channel/UClvOOx5S0ud9CLiMf3Y2Xvw)  
+  **مدت:** حدود 5.6 دقیقه  
+  **عنوان:** [3ыshape 05-02-2026 N abatment](https://www.youtube.com/watch?v=xWljCeZaaAE)  
+  ![](https://i.ytimg.com/vi/xWljCeZaaAE/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 19:59:18 (UTC) — **کانال:** [Gear Solid](https://www.youtube.com/channel/UCs410A6Y1cG-psKVoSdkUAw)  
+  **مدت:** حدود 15.2 دقیقه  
+  **عنوان:** [The Strange Problem With AutoCAD Right Now](https://www.youtube.com/watch?v=bigWviZTtCc)  
+  ![](https://i.ytimg.com/vi/bigWviZTtCc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 19:30:16 (UTC) — **کانال:** [Tvashta ](https://www.youtube.com/channel/UCjOkdKB_GquW77R_yrZIUaw)  
+  **مدت:** حدود 11.3 دقیقه  
+  **عنوان:** [AUTOCAD Interface Elements explained( CLASS 01) by Tvashta](https://www.youtube.com/watch?v=iNAKZMOBdnU)  
+  ![](https://i.ytimg.com/vi/iNAKZMOBdnU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 18:44:30 (UTC) — **کانال:** [Muhammad Moiez](https://www.youtube.com/channel/UCcGnG7Z6lH3_5xUGBsOkBTA)  
+  **مدت:** حدود 5.2 دقیقه  
+  **عنوان:** [Designing a 7-Segment Display Circuit | 160 → 839 → 840 | Proteus & Verilog & Hardware](https://www.youtube.com/watch?v=ElyTvgb-aCQ)  
+  ![](https://i.ytimg.com/vi/ElyTvgb-aCQ/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 18:30:39 (UTC) — **کانال:** [Bhaskar's Training & Placements](https://www.youtube.com/channel/UCbaS3mEGNGbZn4OCzjLJ46A)  
   **مدت:** حدود 5.7 دقیقه  
-  **عنوان:** [SOLIDWORKS   EXERCISE - 86](https://www.youtube.com/watch?v=TDjnrPIkUzQ)  
-  ![](https://i.ytimg.com/vi/TDjnrPIkUzQ/hqdefault.jpg)
+  **عنوان:** [Project Review_Master CAD Bim Student_Chandana](https://www.youtube.com/watch?v=AaD7WRQPtdY)  
+  ![](https://i.ytimg.com/vi/AaD7WRQPtdY/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 10:01:21 (UTC) — **کانال:** [Rangga Adinata](https://www.youtube.com/channel/UC5E9zTI83s7bAzhMKaclIXg)  
-  **مدت:** حدود 7.7 دقیقه  
-  **عنوان:** [SOLIDWORKS   EXERCISE - 83](https://www.youtube.com/watch?v=Aq58-1LPoY4)  
-  ![](https://i.ytimg.com/vi/Aq58-1LPoY4/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 18:03:23 (UTC) — **کانال:** [InDeFor | Industrial Design with Foroozan](https://www.youtube.com/channel/UCp2BEDLUPMJYt7rRxB3yeAw)  
+  **مدت:** حدود 4.5 دقیقه  
+  **عنوان:** [Inventor 3D Modeling – Revolve Cut Tutorial 🔥 | Part 4 Beginner Guide](https://www.youtube.com/watch?v=DfFV3AVcuOs)  
+  ![](https://i.ytimg.com/vi/DfFV3AVcuOs/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 09:57:25 (UTC) — **کانال:** [Rangga Adinata](https://www.youtube.com/channel/UC5E9zTI83s7bAzhMKaclIXg)  
-  **مدت:** حدود 5.3 دقیقه  
-  **عنوان:** [SOLIDWORKS   EXERCISE - 77](https://www.youtube.com/watch?v=TSayA5TOeMI)  
-  ![](https://i.ytimg.com/vi/TSayA5TOeMI/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 18:00:15 (UTC) — **کانال:** [cs](https://www.youtube.com/channel/UCWlY8qyCKp6pf15EIPhTq8Q)  
+  **مدت:** حدود 7.5 دقیقه  
+  **عنوان:** [motor design #electrical engineering ](https://www.youtube.com/watch?v=Gps4chOLJlk)  
+  ![](https://i.ytimg.com/vi/Gps4chOLJlk/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 09:57:03 (UTC) — **کانال:** [Rangga Adinata](https://www.youtube.com/channel/UC5E9zTI83s7bAzhMKaclIXg)  
-  **مدت:** حدود 4.3 دقیقه  
-  **عنوان:** [SOLIDWORKS   EXERCISE - 76](https://www.youtube.com/watch?v=gNycHqcidMA)  
-  ![](https://i.ytimg.com/vi/gNycHqcidMA/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 17:59:14 (UTC) — **کانال:** [nTop Learn](https://www.youtube.com/channel/UCBjxGz0J_kvK4jUSFgS9edw)  
+  **مدت:** حدود 6.7 دقیقه  
+  **عنوان:** [ntop starCCM interop final](https://www.youtube.com/watch?v=-jrrkdrzjPo)  
+  ![](https://i.ytimg.com/vi/-jrrkdrzjPo/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 09:45:47 (UTC) — **کانال:** [Rangga Adinata](https://www.youtube.com/channel/UC5E9zTI83s7bAzhMKaclIXg)  
-  **مدت:** حدود 6.9 دقیقه  
-  **عنوان:** [SOLIDWORKS   EXERCISE - 67](https://www.youtube.com/watch?v=1Mjp1EFc2l8)  
-  ![](https://i.ytimg.com/vi/1Mjp1EFc2l8/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 17:39:49 (UTC) — **کانال:** [nTop Learn](https://www.youtube.com/channel/UCBjxGz0J_kvK4jUSFgS9edw)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [Exporting Surface Meshes with Boundary Conditions from nTop to Ansys Fluent](https://www.youtube.com/watch?v=wWQTxQ4IfrI)  
+  ![](https://i.ytimg.com/vi/wWQTxQ4IfrI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 17:36:45 (UTC) — **کانال:** [Sarah Ramos](https://www.youtube.com/channel/UCNOYVqot1Sh3RrZ7og40n9w)  
+  **مدت:** حدود 56.0 دقیقه  
+  **عنوان:** [TEC 210-26 - Class 8 - Healy Drafting](https://www.youtube.com/watch?v=xSFVnNkQqgg)  
+  ![](https://i.ytimg.com/vi/xSFVnNkQqgg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 17:35:17 (UTC) — **کانال:** [aitouchene hajar](https://www.youtube.com/channel/UCb54Iu4UNClEj68oEdsfwWw)  
+  **مدت:** حدود 7.8 دقیقه  
+  **عنوان:** [CATIA V5 Beginner Tutorial| Easy Part Design Exercise (Step-by-Step)](https://www.youtube.com/watch?v=inzHAnonWcU)  
+  ![](https://i.ytimg.com/vi/inzHAnonWcU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 17:31:50 (UTC) — **کانال:** [Red Transit Consultants, LLC](https://www.youtube.com/channel/UCmjoInJNPPHG3yo-19lsB1w)  
+  **مدت:** حدود 6.4 دقیقه  
+  **عنوان:** [Surface Productivity Tools [v4.0.0.1] - Import/Export Surface Analysis](https://www.youtube.com/watch?v=eC0-alcFoxU)  
+  ![](https://i.ytimg.com/vi/eC0-alcFoxU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 17:01:10 (UTC) — **کانال:** [Maik Design | Ingeniería al Límite](https://www.youtube.com/channel/UCo5fGUTn35SgbukLKmahMvg)  
+  **مدت:** حدود 28.8 دقیقه  
+  **عنوان:** [Tu primer ejercicio de revolucion en Onshape | Onshape desde cero #onshape](https://www.youtube.com/watch?v=pbyo3l18Hy0)  
+  ![](https://i.ytimg.com/vi/pbyo3l18Hy0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 17:00:16 (UTC) — **کانال:** [AutoCAD & Électricité](https://www.youtube.com/channel/UCi6b30oBcaE0_rCpH5sW-Lg)  
+  **مدت:** حدود 6.7 دقیقه  
+  **عنوان:** [3 ASTUCES DE PRÉCISION SUR AUTOCAD (Tangentes, Raccords & Saisie)](https://www.youtube.com/watch?v=8dAJgGDYoeo)  
+  ![](https://i.ytimg.com/vi/8dAJgGDYoeo/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 16:54:21 (UTC) — **کانال:** [Red Transit Consultants, LLC](https://www.youtube.com/channel/UCmjoInJNPPHG3yo-19lsB1w)  
+  **مدت:** حدود 4.2 دقیقه  
+  **عنوان:** [Surface Productivity Tools [v4.0.0.1] - Associated Styles](https://www.youtube.com/watch?v=LIqBcfqZXkM)  
+  ![](https://i.ytimg.com/vi/LIqBcfqZXkM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 16:19:59 (UTC) — **کانال:** [Red Transit Consultants, LLC](https://www.youtube.com/channel/UCmjoInJNPPHG3yo-19lsB1w)  
+  **مدت:** حدود 5.8 دقیقه  
+  **عنوان:** [Surface Productivity Tools [v4.0.0.1] - Import/Export Surface Labels](https://www.youtube.com/watch?v=K3BbI9C8UQI)  
+  ![](https://i.ytimg.com/vi/K3BbI9C8UQI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 16:00:42 (UTC) — **کانال:** [Fusion 360 Mastery](https://www.youtube.com/channel/UCKQR9Z95Lq22SJut6PZmjwA)  
+  **مدت:** حدود 7.5 دقیقه  
+  **عنوان:** [Fusion 360 From Zero | Beginner Step-by-Step Modeling Tutorial #25](https://www.youtube.com/watch?v=Ns8b9SxjTNY)  
+  ![](https://i.ytimg.com/vi/Ns8b9SxjTNY/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 16:00:14 (UTC) — **کانال:** [saeed mahmoud ](https://www.youtube.com/channel/UCWamemd8qvk33nYoy3ElE1w)  
+  **مدت:** حدود 8.9 دقیقه  
+  **عنوان:** [تصميم التروس العدلة من الصفر | إنشاء بروفايل السنة وتجميعها داخل الـ Assembly باحتراف](https://www.youtube.com/watch?v=AgwAk97iNTA)  
+  ![](https://i.ytimg.com/vi/AgwAk97iNTA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 15:42:52 (UTC) — **کانال:** [Samo Jerovsek](https://www.youtube.com/channel/UCZHMyRS810R3wQYtS7apY-g)  
+  **مدت:** حدود 13.4 دقیقه  
+  **عنوان:** [MODELED ORIGINAL 3D DESIGN FOR BYCICLE ON MY SCENE IN BLENDER 3D P1 OVERVIEW 1](https://www.youtube.com/watch?v=A5vq4k0QiBA)  
+  ![](https://i.ytimg.com/vi/A5vq4k0QiBA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 15:16:40 (UTC) — **کانال:** [cad_skills](https://www.youtube.com/channel/UCyfdILW7DgJ9mC77zb9S86Q)  
+  **مدت:** حدود 7.1 دقیقه  
+  **عنوان:** [Tutorial 7(Creating a Block)](https://www.youtube.com/watch?v=6JWmyIV0QIw)  
+  ![](https://i.ytimg.com/vi/6JWmyIV0QIw/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 15:06:35 (UTC) — **کانال:** [Ghy Team](https://www.youtube.com/channel/UCXEa3H6BhC2aBpRF3cpWeLg)  
+  **مدت:** حدود 82.5 دقیقه  
+  **عنوان:** [Rungta residence Dresser 20260506 095713UTC Meeting Recording 1](https://www.youtube.com/watch?v=-rm735ELt-4)  
+  ![](https://i.ytimg.com/vi/-rm735ELt-4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-06 15:01:43 (UTC) — **کانال:** [Ryuu - Blender Bros](https://www.youtube.com/channel/UCEOVGZ2rpLhR7gSPvaexxxQ)  
+  **مدت:** حدود 31.4 دقیقه  
+  **عنوان:** [Plasticity Beginner Tutorial: Modeling a Sci-Fi Medical Scanner](https://www.youtube.com/watch?v=uqYT4qxaHBQ)  
+  ![](https://i.ytimg.com/vi/uqYT4qxaHBQ/hqdefault.jpg)
