@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-05-06T20:33:30Z_
+_آخرین به‌روزرسانی: 2026-05-07T08:41:30Z_
 
 
 لینک کانال: [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)
+
+
+- **تاریخ انتشار:** 2026-05-06 22:30:02 (UTC)  
+  **مدت:** حدود 23.1 دقیقه  
+  **عنوان:** [MODELAGEM NO SOLIDWORKS A PARTIR DE IMAGEM: PROJETO DE UM MACHADO #solidworks](https://www.youtube.com/watch?v=86QxRkzbfJs)  
+  ![](https://i.ytimg.com/vi/86QxRkzbfJs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-04 22:30:10 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-06T20:33:30Z_
   **مدت:** حدود 29.6 دقیقه  
   **عنوان:** [AULA 17 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=xa5C44vXTAw)  
   ![](https://i.ytimg.com/vi/xa5C44vXTAw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-12-09 22:30:01 (UTC)  
-  **مدت:** حدود 32.9 دقیقه  
-  **عنوان:** [AULA 16 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=7ChXkQ2C3qY)  
-  ![](https://i.ytimg.com/vi/7ChXkQ2C3qY/hqdefault.jpg)
