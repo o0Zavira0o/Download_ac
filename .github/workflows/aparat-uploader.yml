@@ -138,21 +138,39 @@ jobs:
           def login_aparat(page):
             print("رفتن به صفحه لاگین ...")
             page.goto(SIGNIN_URL, wait_until="domcontentloaded")
-
+        
+            # دیباگ: ببینیم GitHub واقعاً چه صفحه‌ای را می‌بیند
+            try:
+                current_url = page.url
+                print("بعد از goto، URL فعلی:", current_url)
+                html = page.content()
+                print("۲٬۰۰۰ کاراکتر اول HTML صفحه لاگین:")
+                print(html[:2000])
+            except Exception as e:
+                print("خطا در خواندن محتوا/URL صفحه لاگین:", e)
+        
+            # حالا صریحاً منتظر input یوزرنیم می‌مانیم
+            try:
+                page.wait_for_selector(SELECTORS["login_username"], timeout=60000)
+            except Exception as e:
+                print("المان username پیدا نشد یا دیر ظاهر شد:", e)
+                # اگر به اینجا برسیم یعنی صفحه‌ای که GitHub می‌بیند لاگین معمولی نیست.
+                raise
+        
             # مرحله ۱: یوزرنیم
             page.fill(SELECTORS["login_username"], username)
             page.click(SELECTORS["login_continue_username"])
             page.wait_for_timeout(2000)
-
+        
             # مرحله ۲: پسورد
-            page.wait_for_selector(SELECTORS["login_password"], timeout=30000)
+            page.wait_for_selector(SELECTORS["login_password"], timeout=60000)
             page.fill(SELECTORS["login_password"], password)
             page.click(SELECTORS["login_continue_password"])
-
+        
             # کمی صبر برای ریدایرکت
             page.wait_for_timeout(5000)
-            print("فرض بر این است که لاگین موفق شده؛ اگر نشد باید این بخش را دقیق‌تر کنیم.")
-
+            print("لاگین انجام شد (فرض اولیه؛ اگر نشد، HTML بالا را بررسی می‌کنیم).")
+            
           def upload_one(page, video_path: Path, title: str):
             print(f"رفتن به صفحه آپلود: {UPLOAD_URL}")
             page.goto(UPLOAD_URL, wait_until="domcontentloaded")
