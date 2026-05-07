@@ -19,19 +19,18 @@ jobs:
   download_and_upload:
     runs-on: ubuntu-latest
 
-    # یوزرنیم و پسورد آپارات از Secrets خوانده می‌شود
     env:
       APARAT_USERNAME: ${{ secrets.APARAT_USERNAME }}
       APARAT_PASSWORD: ${{ secrets.APARAT_PASSWORD }}
 
     steps:
-      # Checkout لازم نیست، چون چیزی به ریپو نمی‌ریزیم
+      # checkout لازم نیست، چون چیزی به ریپو اضافه نمی‌کنیم
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"
+          # cache: "pip"  # کش را حذف کردیم تا نیاز به requirements.txt نباشد
 
       - name: Install Aparat SDK
         run: |
@@ -123,9 +122,9 @@ jobs:
             curl_cmd = [
               "curl", "-L",
               "--retry", "5", "--retry-delay", "5",
-              "--max-time", "1200",        # حداکثر ۲۰ دقیقه برای هر لینک
-              "--speed-limit", "10240",    # اگر سرعت < 10KB/s
-              "--speed-time", "300",       # به مدت ۵ دقیقه → قطع
+              "--max-time", "1200",
+              "--speed-limit", "10240",
+              "--speed-time", "300",
               "-C", "-",
               url,
               "-o", str(out_path),
