@@ -1,33 +1,23 @@
 # ویدیوهای CAD Design — ویدیوهای کوتاه (Shorts، کمتر از 60 ثانیه)
 
-_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-07T10:39:25Z_
+_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-07T15:12:28Z_
 
-- **تاریخ انتشار:** 2026-05-07 08:16:33 (UTC) — **کانال:** [MRS Builders & Constructions](https://www.youtube.com/channel/UCuwuvzwI57Wow4YrMoPezjQ)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [“Just pull 1 feet” – The dangerous sentence every homeowner should stop saying](https://www.youtube.com/watch?v=u76tH1m6FfQ)  
-  ![](https://i.ytimg.com/vi/u76tH1m6FfQ/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 11:47:19 (UTC) — **کانال:** [NEOTEQUE  Design and Trade](https://www.youtube.com/channel/UCjGwhuo-HjEIib6PfnY3dLA)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Dream Kitchen Planning & Interior Design ✨ | Modern Kitchen Transformation](https://www.youtube.com/watch?v=OsRvEtuu4vc)  
+  ![](https://i.ytimg.com/vi/OsRvEtuu4vc/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-07 08:00:31 (UTC) — **کانال:** [Eswari Group Official  ](https://www.youtube.com/channel/UCIjuFbDQWeav9nA3D2e4Hnw)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [From Empty Land to Dream Home | The Journey of Building Your Future with Eswari Group](https://www.youtube.com/watch?v=KKCdGp8ahDg)  
-  ![](https://i.ytimg.com/vi/KKCdGp8ahDg/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 07:01:01 (UTC) — **کانال:** [Genesis Design Studio ](https://www.youtube.com/channel/UCvhQTOZCMDAly8IMMQ_ljEw)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Bamboo Villa Construction 🔥 Multi-Level Luxury Eco Home #MultiLevelHouse#SustainableLiving](https://www.youtube.com/watch?v=uNozs0nBFHE)  
+  ![](https://i.ytimg.com/vi/uNozs0nBFHE/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-07 06:13:44 (UTC) — **کانال:** [Land Sketch Surveyors](https://www.youtube.com/channel/UCr1ospsizmMb74euGsErIaw)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [landsketch construction motion](https://www.youtube.com/watch?v=vxrcDf-1HO0)  
-  ![](https://i.ytimg.com/vi/vxrcDf-1HO0/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-07 03:40:00 (UTC) — **کانال:** [Perfect Practice](https://www.youtube.com/channel/UCcBNCaSdvVsZt740DGFxAZw)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [Perfect Practice:  Behind the Scenes at Perth Day Hospital](https://www.youtube.com/watch?v=M3hl9dfi1lE)  
+  ![](https://i.ytimg.com/vi/M3hl9dfi1lE/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-06 17:25:16 (UTC) — **کانال:** [Coakley International](https://www.youtube.com/channel/UC6n4NrXdLWNpId0cZm9DuVw)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [5-Year Construction Phase: Vertical Development Begins! #shorts](https://www.youtube.com/watch?v=0zRVQpQleQs)  
-  ![](https://i.ytimg.com/vi/0zRVQpQleQs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 15:08:26 (UTC) — **کانال:** [Sarva Homes](https://www.youtube.com/channel/UC-vfWvaZyB83ca8iz9vn_ig)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Planning a 2BHK home but confused about the budget? 🤔](https://www.youtube.com/watch?v=GTYM7LTsFsQ)  
-  ![](https://i.ytimg.com/vi/GTYM7LTsFsQ/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-06 14:16:43 (UTC) — **کانال:** [Naksha](https://www.youtube.com/channel/UCzWf7VrY4NCnFtgp0kOxtSw)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [House design #architecture #homedesign #elevationdesign #modernhouse #houseplan](https://www.youtube.com/watch?v=9BBCyYqt1jY)  
-  ![](https://i.ytimg.com/vi/9BBCyYqt1jY/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-06 22:03:10 (UTC) — **کانال:** [Olive Tree Builds](https://www.youtube.com/channel/UCg1rwpSag9o5lMMVacPzz2g)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [The #1 Issue in Construction Project Planning 🏗️](https://www.youtube.com/watch?v=kilS5MDMRd4)  
+  ![](https://i.ytimg.com/vi/kilS5MDMRd4/hqdefault.jpg)
