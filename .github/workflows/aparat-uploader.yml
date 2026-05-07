@@ -1,4 +1,4 @@
-name: Smart Downloader V11 - Aparat UI (Playwright)
+name: Smart Downloader to Arvan S3
 
 on:
   workflow_dispatch:
@@ -6,18 +6,25 @@ on:
       file_urls:
         description: "لینک‌ها را با فاصله (Space) از هم جدا کنید (حداکثر ۱۰ لینک)"
         required: true
+      s3_prefix:
+        description: "پیشوند در باکت (مثلاً videos/). برای هر اجرا پوشه run-<id> ساخته می‌شود."
+        required: false
+        default: "videos/"
       title_prefix:
-        description: "پیشوند عنوان‌ها (Video_ → Video_1, Video_2, ...)"
+        description: "پیشوند منطقی عنوان‌ها (فقط برای لاگ؛ روی S3 key تأثیر ندارد)"
         required: false
         default: "Video_"
 
 jobs:
-  download_and_ui_upload:
+  download_and_upload_arvan:
     runs-on: ubuntu-latest
 
     env:
-      APARAT_USERNAME: ${{ secrets.APARAT_USERNAME }}
-      APARAT_PASSWORD: ${{ secrets.APARAT_PASSWORD }}
+      AWS_ACCESS_KEY_ID: ${{ secrets.ARVAN_ACCESS_KEY }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.ARVAN_SECRET_KEY }}
+      ENDPOINT: "s3.ir-thr-at1.arvanstorage.ir"    # طبق چیزی که خودت نوشتی
+      BUCKET_NAME: "my-github-backup"             # نام باکت آروان
+      RUN_ID: ${{ github.run_id }}
 
     steps:
       - name: Set up Python
@@ -25,18 +32,18 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install Playwright (Python)
+      - name: Install boto3
         run: |
           python -m pip install --upgrade pip
-          python -m pip install playwright
-          python -m playwright install --with-deps chromium
+          python -m pip install boto3
 
       - name: Prepare folders
-        run: mkdir -p downloads
+        run: mkdir -p videos
 
-      - name: Download URLs and upload via Aparat UI
+      - name: Download URLs and upload to Arvan S3
         env:
           RAW_URLS: ${{ github.event.inputs.file_urls }}
+          S3_PREFIX_INPUT: ${{ github.event.inputs.s3_prefix }}
           TITLE_PREFIX: ${{ github.event.inputs.title_prefix }}
         run: |
           python - << 'PY'
@@ -48,16 +55,34 @@ jobs:
           from pathlib import Path
           from urllib.parse import urlparse
 
-          from playwright.sync_api import sync_playwright
+          import boto3
+          from botocore.config import Config
 
-          username = os.getenv("APARAT_USERNAME")
-          password = os.getenv("APARAT_PASSWORD")
+          # -------- خواندن تنظیمات آروان از env --------
+          access_key = os.getenv("AWS_ACCESS_KEY_ID") or ""
+          secret_key = os.getenv("AWS_SECRET_ACCESS_KEY") or ""
+          endpoint = os.getenv("ENDPOINT") or ""
+          bucket = os.getenv("BUCKET_NAME") or ""
+          run_id = os.getenv("RUN_ID", "local")
 
-          if not username or not password:
-            print("ERROR: APARAT_USERNAME / APARAT_PASSWORD تنظیم نشده.")
+          missing = [name for name, val in [
+              ("AWS_ACCESS_KEY_ID", access_key),
+              ("AWS_SECRET_ACCESS_KEY", secret_key),
+              ("ENDPOINT", endpoint),
+              ("BUCKET_NAME", bucket),
+          ] if not val]
+
+          if missing:
+            print("ERROR: مقادیر زیر تنظیم نشده‌اند:", ", ".join(missing))
             sys.exit(1)
 
-          raw_urls = os.environ.get("RAW_URLS", "").strip()
+          # اگر پروتکل نداشت، https را اضافه کن
+          if not endpoint.startswith("http://") and not endpoint.startswith("https://"):
+            endpoint_url = "https://" + endpoint
+          else:
+            endpoint_url = endpoint
+
+          raw_urls = os.getenv("RAW_URLS", "").strip()
           if not raw_urls:
             print("هیچ URLای در ورودی file_urls داده نشده.")
             sys.exit(0)
@@ -67,47 +92,41 @@ jobs:
             print(f"{len(urls)} لینک دریافت شد؛ فقط ۱۰ لینک اول پردازش می‌شود.")
             urls = urls[:10]
 
-          title_prefix = os.environ.get("TITLE_PREFIX", "Video_")
+          s3_prefix_input = os.getenv("S3_PREFIX_INPUT", "").strip()
+          if s3_prefix_input and not s3_prefix_input.endswith("/"):
+            s3_prefix_input += "/"
+          # برای جلوگیری از overwrite، هر اجرا داخل run-<id> می‌رود
+          base_prefix = f"{s3_prefix_input}run-{run_id}/"
 
-          downloads_dir = Path("downloads")
-          downloads_dir.mkdir(exist_ok=True)
+          title_prefix = os.getenv("TITLE_PREFIX", "Video_")
 
-          SIGNIN_URL = "https://www.aparat.com/signin"
-          UPLOAD_URL = "https://www.aparat.com/reactupload"
+          videos_dir = Path("videos")
+          videos_dir.mkdir(exist_ok=True)
 
-          # ------------------ SELECTORS ------------------
-          SELECTORS = {
-              # صفحه لاگین
-              "login_username": "#username",
-              "login_continue_username": "button.btn.btn-green.mt-12",
-              "login_password": "#password",
-              "login_continue_password": "button.btn.btn-green.mt-12.full-width-in-mobile",
+          # -------- ساخت کلاینت S3 (آروان) --------
+          print("در حال ساخت کلاینت S3 برای آروان ...")
+          session = boto3.session.Session(
+              aws_access_key_id=access_key,
+              aws_secret_access_key=secret_key,
+              region_name="ir-thr-at1",  # برای آروان معمولاً همین region است؛ اگر لازم شد می‌توانی عوضش کنی
+          )
+          s3 = session.client(
+              "s3",
+              endpoint_url=endpoint_url,
+              config=Config(signature_version="s3v4"),
+          )
 
-              # صفحه آپلود
-              "file_input": "#addFile input[type='file']",
-              "title_input": "#video-title",
-
-              "category_dropdown": "#FField_category > div > div > div",
-              "category_option_tanz": "#FField_category > div > div > div > div > div > div > div > div > div.selectbox-content.fade-enter-done > ul > li:nth-child(4)",
-
-              "tags_container": "#FField_tags",
-              "tags_input": "#FField_tags > div > div > div > div > div > div > div > div > div.selectbox-content.fade-enter-done > div > div > div > div > div > div > input",
-
-              "publish_time_dropdown": "#mainContentContainer > main > div.sc-iRFsWr.fevAeF > div > div.sc-icMgfS.fjPXZz.upload-form > div > div.box-content > form > div > div.left.extra-fields > div.sc-jFkwbb.jqsjJa",
-              "publish_time_option_save_unpublished": "#FField_publish_date > div > div > div > div > div > div > div > div > div.selectbox-content.fade-enter-done > ul > li:nth-child(3)",
-
-              "final_save_button": "#mainContentContainer > main > div.sc-iRFsWr.fevAeF > div > div.sc-icMgfS.fjPXZz.upload-form > div > div.box-content > form > div > div.form-buttons > button.sc-eFegNN.iQcnte.button",
-          }
-          # ------------------------------------------------
-
-          def safe_filename_from_url(url: str, index: int) -> str:
-            parsed = urlparse(url)
-            name = os.path.basename(parsed.path)
-            if not name or name == "/":
-              name = f"video_{index}.mp4"
-            if "." not in name:
-              name = name + ".mp4"
-            return f"{index}_{name}"
+          def extension_from_url(url: str) -> str:
+            """
+            تلاش برای پیدا کردن پسوند از روی URL. اگر چیزی پیدا نشد، .mp4 برمی‌گرداند.
+            """
+            path = urlparse(url).path
+            name = os.path.basename(path)
+            if "." in name:
+              ext = "." + name.split(".")[-1]
+              if len(ext) <= 6:  # پسوندهای معقول
+                return ext
+            return ".mp4"
 
           def download_file(url: str, out_path: Path) -> bool:
             if out_path.exists():
@@ -115,7 +134,7 @@ jobs:
             cmd = [
               "curl", "-L",
               "--retry", "5", "--retry-delay", "5",
-              "--max-time", "1200",
+              "--max-time", "1800",
               "--speed-limit", "10240",
               "--speed-time", "300",
               "-C", "-",
@@ -135,131 +154,40 @@ jobs:
             print(f"دانلود انجام شد: {out_path} ({size} bytes)")
             return True
 
-          def login_aparat(page):
-            print("رفتن به صفحه لاگین ...")
-            page.goto(SIGNIN_URL, wait_until="domcontentloaded")
-        
-            # دیباگ: ببینیم GitHub واقعاً چه صفحه‌ای را می‌بیند
+          def upload_to_s3(local_path: Path, key: str):
+            print(f"در حال آپلود به آروان: s3://{bucket}/{key}")
+            start = time.time()
+            s3.upload_file(str(local_path), bucket, key)
+            dur = time.time() - start
+            print(f"آپلود به آروان تمام شد در {dur:.1f}s")
+
+          for idx, url in enumerate(urls, start=1):
+            print("=" * 60)
+            print(f"[{time.strftime('%H:%M:%S', time.gmtime())}] START URL #{idx}: {url}")
+            start_t = time.time()
+
+            ext = extension_from_url(url)
+            logical_title = f"{title_prefix}{idx}"
+            local_name = f"{logical_title}{ext}"  # مثال: Video_1.mp4
+            local_path = videos_dir / local_name
+
+            if not download_file(url, local_path):
+              print(f"دانلود URL #{idx} ناموفق بود، رد می‌شود.")
+              continue
+
+            s3_key = f"{base_prefix}{local_name}"  # مثال: videos/run-1234/Video_1.mp4
+
             try:
-                current_url = page.url
-                print("بعد از goto، URL فعلی:", current_url)
-                html = page.content()
-                print("۲٬۰۰۰ کاراکتر اول HTML صفحه لاگین:")
-                print(html[:2000])
+              upload_to_s3(local_path, s3_key)
             except Exception as e:
-                print("خطا در خواندن محتوا/URL صفحه لاگین:", e)
-        
-            # حالا صریحاً منتظر input یوزرنیم می‌مانیم
-            try:
-                page.wait_for_selector(SELECTORS["login_username"], timeout=60000)
-            except Exception as e:
-                print("المان username پیدا نشد یا دیر ظاهر شد:", e)
-                # اگر به اینجا برسیم یعنی صفحه‌ای که GitHub می‌بیند لاگین معمولی نیست.
-                raise
-        
-            # مرحله ۱: یوزرنیم
-            page.fill(SELECTORS["login_username"], username)
-            page.click(SELECTORS["login_continue_username"])
-            page.wait_for_timeout(2000)
-        
-            # مرحله ۲: پسورد
-            page.wait_for_selector(SELECTORS["login_password"], timeout=60000)
-            page.fill(SELECTORS["login_password"], password)
-            page.click(SELECTORS["login_continue_password"])
-        
-            # کمی صبر برای ریدایرکت
-            page.wait_for_timeout(5000)
-            print("لاگین انجام شد (فرض اولیه؛ اگر نشد، HTML بالا را بررسی می‌کنیم).")
-            
-          def upload_one(page, video_path: Path, title: str):
-            print(f"رفتن به صفحه آپلود: {UPLOAD_URL}")
-            page.goto(UPLOAD_URL, wait_until="domcontentloaded")
+              print(f"آپلود به آروان برای URL #{idx} ناموفق بود:")
+              print(e)
+            finally:
+              if local_path.exists():
+                local_path.unlink()
 
-            # انتخاب فایل
-            print(f"انتخاب فایل: {video_path}")
-            page.wait_for_selector(SELECTORS["file_input"], timeout=60000)
-            page.set_input_files(SELECTORS["file_input"], str(video_path))
-
-            # پر کردن عنوان
-            print(f"پر کردن عنوان: {title}")
-            page.fill(SELECTORS["title_input"], title)
-
-            # انتخاب دسته‌بندی
-            try:
-              print("باز کردن منوی دسته‌بندی ...")
-              page.click(SELECTORS["category_dropdown"])
-              page.wait_for_timeout(1000)
-              print("انتخاب گزینه 'طنز و کمدی' ...")
-              page.click(SELECTORS["category_option_tanz"])
-            except Exception as e:
-              print(f"هشدار: انتخاب دسته‌بندی به مشکل خورد: {e} (ادامه می‌دهیم)")
-
-            # وارد کردن برچسب‌ها
-            try:
-              print("پر کردن برچسب‌ها: FUN,ASMR,RELAX")
-              page.click(SELECTORS["tags_container"])
-              page.wait_for_selector(SELECTORS["tags_input"], timeout=60000)
-              page.fill(SELECTORS["tags_input"], "FUN,ASMR,RELAX")
-              page.keyboard.press("Enter")
-            except Exception as e:
-              print(f"هشدار: پر کردن برچسب‌ها به مشکل خورد: {e} (ادامه می‌دهیم)")
-
-            # تنظیم زمان انتشار → ذخیره و عدم انتشار
-            try:
-              print("باز کردن منوی زمان انتشار ...")
-              page.click(SELECTORS["publish_time_dropdown"])
-              page.wait_for_timeout(1000)
-              print("انتخاب گزینه 'ذخیره و عدم انتشار' در منوی زمان انتشار ...")
-              page.click(SELECTORS["publish_time_option_save_unpublished"])
-            except Exception as e:
-              print(f"هشدار: انتخاب زمان انتشار به مشکل خورد: {e} (ادامه می‌دهیم)")
-
-            # صبر برای آپلود (۳ دقیقه؛ در صورت نیاز تغییر بده)
-            print("صبر برای آپلود (حدود ۳ دقیقه) ...")
-            page.wait_for_timeout(180000)
-
-            # کلیک روی دکمه نهایی «ذخیره و عدم انتشار»
-            try:
-              print("کلیک روی دکمه نهایی 'ذخیره و عدم انتشار' ...")
-              page.click(SELECTORS["final_save_button"])
-              page.wait_for_timeout(10000)
-              print("فرض بر این است که ویدیو ذخیره شده.")
-            except Exception as e:
-              print(f"هشدار: کلیک روی دکمه نهایی به مشکل خورد: {e}")
-
-          with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            context = browser.new_context()
-            page = context.new_page()
-
-            login_aparat(page)
-
-            for idx, url in enumerate(urls, start=1):
-              print("=" * 60)
-              print(f"[{time.strftime('%H:%M:%S', time.gmtime())}] START URL #{idx}: {url}")
-              start = time.time()
-
-              filename = safe_filename_from_url(url, idx)
-              out_path = downloads_dir / filename
-
-              if not download_file(url, out_path):
-                print(f"دانلود URL #{idx} ناموفق بود، رد می‌شود.")
-                continue
-
-              title = f"{title_prefix}{idx}"
-
-              try:
-                upload_one(page, out_path, title)
-              except Exception as e:
-                print(f"خطا هنگام آپلود URL #{idx}: {e}")
-              finally:
-                if out_path.exists():
-                  out_path.unlink()
-
-              dur = time.time() - start
-              print(f"[{time.strftime('%H:%M:%S', time.gmtime())}] DONE URL #{idx} in {dur:.1f}s")
-
-            browser.close()
+            dur = time.time() - start_t
+            print(f"[{time.strftime('%H:%M:%S', time.gmtime())}] DONE URL #{idx} in {dur:.1f}s")
 
           print("=" * 60)
           print("همه لینک‌ها پردازش شدند.")
