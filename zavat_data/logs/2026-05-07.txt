@@ -1,4 +1,238 @@
 ================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | IrGens
+Title  : First Look: OpenAI GPT-5.5
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 18m | 110 MB
+Link   : http://zavat.pw/ebooks/openai-gpt-5-5-first-look.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | IrGens
+Title  : First Look: Anthropic Claude Design
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 24m | 183 MB
+Link   : http://zavat.pw/ebooks/anthropic-claude-design-first-look.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | IrGens
+Title  : Filter and Refine Searches in Elasticsearch with Query DSL
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 54m | 156 MB
+Link   : http://zavat.pw/ebooks/elasticsearch-filter-refine-searches-query-dsl.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | IrGens
+Title  : Developing an Asynchronous ASP.NET Core 10 Web API
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h 58m | 790 MB
+Link   : http://zavat.pw/ebooks/developing-asynchronous-asp-net-core-10-web-api.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | IrGens
+Title  : Designing and Evolving ASP.NET Core 10 Web APIs
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 50m | 340 MB
+Link   : http://zavat.pw/ebooks/designing-evolving-asp-dot-net-core-10-web-apis.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | IrGens
+Title  : Connecting and Managing Traffic in Microsoft Azure
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 11m | 213 MB
+Link   : http://zavat.pw/ebooks/azure-connecting-managing-traffic.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | IrGens
+Title  : API Testing with Burp Suite
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 33m | 98.8 MB
+Link   : http://zavat.pw/ebooks/api-testing-burp-suite.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | AvaxGenius
+Title  : The Art of Decision Making: Applying AHP in Practice
+Details: English | PDF (True) | 2025 | 184 Pages | ISBN : 183769768X | 4.4 MB
+Link   : http://zavat.pw/ebooks/183769768XT.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | AvaxGenius
+Title  : Revolution: Modern Uprisings in Ancient Time
+Details: English | EPUB (True) | 2025 | 151 Pages | ISBN : 022684305X | 1.7 MB
+Link   : http://zavat.pw/ebooks/022684305XE.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : A Problem-Solving Approach to Electric Circuits: Volume II
+Details: English | 2026 | ISBN: 3031956338 | 351 Pages | EPUB (True) | 75 MB
+Link   : http://zavat.pw/ebooks/3031956338e.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : International The New York Times - 7 May 2026
+Details: English | 16 Pages | True PDF | 10 MB
+Link   : http://zavat.pw/newspapers/INYT-70526.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : Gangster of New York: A Violent Life in Nineteenth Century America
+Details: English | 2026 | ISBN: 1009710591 | 257 Pages | PDF | 10 MB
+Link   : http://zavat.pw/ebooks/1009710591.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : Mastering Data Engineering and Analytics with Databricks
+Details: English | 2024 | ISBN: 8196862040 | 526 Pages | EPUB (True) | 111 MB
+Link   : http://zavat.pw/ebooks/8196862040er.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : Watercolor Your Way to Peace
+Details: English | 2026 | ASIN: B0GJ3KCHGY | 255 Pages | EPUB | 106 MB
+Link   : http://zavat.pw/ebooks/B0GJ3KCHGY.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : Machine Learning Algorithms for Engineering Applications
+Details: English | 2022 | ISBN: 1685074499 | 234 Pages | PDF | 4.4 MB
+Link   : http://zavat.pw/ebooks/1685074499.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : Hands-On Artificial Intelligence on Amazon Web Services Decrease the time to market for AI and ML applications
+Details: English | 2019 | ISBN: 9781789534146 | 426 Pages | EPUB (True) | 18 MB
+Link   : http://zavat.pw/ebooks/9781789534146.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : Hands-On Ensemble Learning with Python
+Details: English | 2019 | ISBN: 9781789612851 | 284 pages | PDF | 5 MB
+Link   : http://zavat.pw/ebooks/9781789612851p.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : Hands-On Artificial Intelligence for Banking
+Details: English | 2020 | ISBN: 9781788830782 | 483 Pages | True EPUB | 5 MB
+Link   : http://zavat.pw/ebooks/9781788830782.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : Advanced Elasticsearch 7.0
+Details: English | 2019 | ISBN: 9781789957754 | 560 Pages | EPUB (True) | 75 MB
+Link   : http://zavat.pw/ebooks/9781789957754.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : The Applied Artificial Intelligence Workshop
+Details: English | 2020 | ISBN: 9781800205819 | 959 Pages | EPUB (True) | 13 MB
+Link   : http://zavat.pw/ebooks/9781800205819.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : Machine Learning for Factor Investing: Python Version
+Details: English | 2023 | ISBN: 0367639726 | 374 Pages | AZW3 | 35 MB
+Link   : http://zavat.pw/ebooks/0367639726az.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : Kubernetes for Absolute Beginners
+Details: English | 2026 | ASIN: B0GVK77GC1 | 267 Pages | MOBI | 10 MB
+Link   : http://zavat.pw/ebooks/B0GVK77GC1.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : Landscapes Across the Mediterranean―Volume 2
+Details: English | 2026 | ISBN: 3032091446 | 342 Pages | PDF (True) | 78 MB
+Link   : http://zavat.pw/ebooks/3032091446.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | hill0
+Title  : Artificial Intelligence: Theory and Applications, Volume 3
+Details: English | 2026 | ISBN: 303219184X | 413 Pages | PDF EPUB (True) | 86 MB
+Link   : http://zavat.pw/ebooks/303219184X.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : The Morning Call Morning Edition - 7 May 2026
+Details: English | 67 pages | True PDF | 38.7 MB
+Link   : http://zavat.pw/newspapers/TheMorningCallMorningEdition7May2026-25399.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : The Dallas Morning News - May 7, 2026
+Details: English | 33 pages | True PDF | 17.5 MB
+Link   : http://zavat.pw/newspapers/TheDallasMorningNewsMay72026-77763.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : Hartford Courant - 7 May 2026
+Details: English | 28 pages | True PDF | 52.4 MB
+Link   : http://zavat.pw/newspapers/HartfordCourant7May2026-82599.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : Sun Sentinel - 7 May 2026
+Details: English | 41 pages | True PDF | 29.4 MB
+Link   : http://zavat.pw/newspapers/SunSentinel7May2026-69973.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : The Beacon-News - 7 May 2026
+Details: English | 20 pages | True PDF | 10.8 MB
+Link   : http://zavat.pw/newspapers/TheBeaconNews7May2026-09246.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : The Boston Globe - 7 May 2026
+Details: English | 32 pages | True PDF | 6.8 MB
+Link   : http://zavat.pw/newspapers/TheBostonGlobe7May2026-21190.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : The Baltimore Sun Carroll County Times - 7 May 2026
+Details: English | 24 pages | True PDF | 26.4 MB
+Link   : http://zavat.pw/newspapers/TheBaltimoreSunCarrollCountyTimes7May2026-91950.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : Newsday - 7 May 2026
+Details: English | 88 pages | True PDF | 31.7 MB
+Link   : http://zavat.pw/newspapers/Newsday7May2026-56921.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : The Baltimore Sun - 7 May 2026
+Details: English | 40 pages | True PDF | 38.2 MB
+Link   : http://zavat.pw/newspapers/TheBaltimoreSun7May2026-91641.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : New York Post - May 7, 2026
+Details: English | 68 pages | True PDF | 33.6 MB
+Link   : http://zavat.pw/newspapers/NewYorkPostMay72026-69446.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : Orlando Sentinel - 7 May 2026
+Details: English | 45 pages | True PDF | 32.3 MB
+Link   : http://zavat.pw/newspapers/OrlandoSentinel7May2026-88080.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : Post-Tribune - 7 May 2026
+Details: English | 20 pages | True PDF | 10.5 MB
+Link   : http://zavat.pw/newspapers/PostTribune7May2026-79964.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : Lake County News-Sun - 7 May 2026
+Details: English | 20 pages | True PDF | 10.3 MB
+Link   : http://zavat.pw/newspapers/LakeCountyNewsSun7May2026-36681.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : Los Angeles Times - 7 May 2026
+Details: English | 40 pages | True PDF | 22.9 MB
+Link   : http://zavat.pw/newspapers/LosAngelesTimes7May2026-09005.html
+
+================================================================================
+2026-05-07 15:57:40 (Asia/Tehran) | crazy-slim
+Title  : Daily Southtown - 7 May 2026
+Details: English | 20 pages | True PDF | 10.6 MB
+Link   : http://zavat.pw/newspapers/DailySouthtown7May2026-77342.html
+
+================================================================================
 2026-05-07 09:16:41 (Asia/Tehran) | yoyoloit
 Title  : Make: Volume 97: Tech Craft
 Details: English | 2026 | ISBN: 168045899X | 132 pages | True PDF | 156.46 MB
