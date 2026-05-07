@@ -1,6 +1,14 @@
-# Last Run: 2026-05-07 02:59 UTC
+# Last Run: 2026-05-07 06:38 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] War Handed Public Space Back to Iran’s Regime
+Published: 2026-05-07T04:01:50+00:00
+Link: https://foreignpolicy.com/2026/05/07/war-iran-public-spaces-regime/
+---
+[Foreign_Affairs] This Is Not the World Russia Wants
+Published: 2026-05-07T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/not-world-russia-wants
+---
 [Foreign_Policy] U.S. Might Be Close to a Deal With Iran
 Published: 2026-05-06T21:21:50+00:00
 Link: https://foreignpolicy.com/2026/05/06/us-iran-war-peace-deal-memorandum-nuclear-enrichment-moratorium-strait-hormuz/
@@ -208,16 +216,4 @@ Link: https://foreignpolicy.com/2026/05/04/trump-soft-power-usa/
 [Foreign_Policy] This Energy Crisis Is Undoing the Last Ones
 Published: 2026-05-04T09:10:57+00:00
 Link: https://foreignpolicy.com/2026/05/04/energy-crisis-history-20th-century-west-order/
----
-[Foreign_Affairs] The End of the Axis of Abraham
-Published: 2026-05-04T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/end-axis-abraham
----
-[Foreign_Affairs] Why the Next India-Pakistan War Will Escalate
-Published: 2026-05-04T04:00:00+00:00
-Link: https://www.foreignaffairs.com/india/why-next-india-pakistan-war-will-escalate
----
-[Foreign_Affairs] Xi’s Forever Purge
-Published: 2026-05-04T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/xis-forever-purge
 ---
