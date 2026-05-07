@@ -1,4 +1,4 @@
-name: Smart Downloader V6 - Aparat Uploader
+name: Smart Downloader V7 - Aparat Direct API
 
 on:
   workflow_dispatch:
@@ -24,23 +24,20 @@ jobs:
       APARAT_PASSWORD: ${{ secrets.APARAT_PASSWORD }}
 
     steps:
-      # checkout لازم نیست، چون چیزی به ریپو اضافه نمی‌کنیم
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          # cache: "pip"  # کش را حذف کردیم تا نیاز به requirements.txt نباشد
 
-      - name: Install Aparat SDK
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install aparat-python
+          pip install requests
 
       - name: Prepare folders
         run: mkdir -p downloads
 
-      - name: Download URLs and upload to Aparat
+      - name: Download URLs and upload to Aparat (direct API)
         env:
           RAW_URLS: ${{ github.event.inputs.file_urls }}
           CATEGORY_ID: ${{ github.event.inputs.category_id }}
@@ -52,10 +49,13 @@ jobs:
           import time
           import shlex
           import subprocess
+          import hashlib
           from pathlib import Path
-          from urllib.parse import urlparse
+          from urllib.parse import urlparse, quote
 
-          from aparat import Aparat
+          import requests
+
+          AP_BASE = "https://www.aparat.com/etc/api"
 
           username = os.environ.get("APARAT_USERNAME")
           password = os.environ.get("APARAT_PASSWORD")
@@ -86,16 +86,85 @@ jobs:
           downloads_dir = Path("downloads")
           downloads_dir.mkdir(exist_ok=True)
 
-          print("در حال لاگین به آپارات...")
-          aparat = Aparat()
+          def aparat_login(user: str, pwd: str):
+            # lpass = sha1(MD5(password))
+            md5 = hashlib.md5(pwd.encode("utf-8")).hexdigest()
+            sha = hashlib.sha1(md5.encode("utf-8")).hexdigest()
+            url = f"{AP_BASE}/login/luser/{quote(user)}/lpass/{sha}"
+            print(f"Login URL: {url}")
+            r = requests.get(url, timeout=30)
+            r.raise_for_status()
+            data = r.json()
+            login_info = data.get("login") or data.get("profile") or data.get("user")
+            if not login_info:
+              raise RuntimeError(f"Login failed, response: {data}")
+            if login_info.get("banned") == "yes":
+              raise RuntimeError("User is banned according to Aparat response.")
+            if "ltoken" not in login_info:
+              raise RuntimeError(f"No ltoken in login response: {login_info}")
+            return login_info
+
+          def get_upload_form(luser: str, ltoken: str):
+            url = f"{AP_BASE}/uploadform/luser/{quote(luser)}/ltoken/{quote(ltoken)}"
+            print(f"Requesting upload form: {url}")
+            r = requests.get(url, timeout=30)
+            r.raise_for_status()
+            data = r.json()
+            # اولین آبجکت در خروجی را پیدا می‌کنیم
+            uf = data.get("uploadform") or data.get("uploadForm")
+            if not uf:
+              # اگر کلید مشخصی پیدا نشد، از اولین مقدار دیکشنری استفاده می‌کنیم
+              if isinstance(data, dict) and data:
+                uf = next(iter(data.values()))
+            if not uf or "formAction" not in uf:
+              raise RuntimeError(f"Invalid uploadform response: {data}")
+            form_action = uf.get("formAction") or uf.get("formaction")
+            frm_id = uf.get("frm-id") or uf.get("frm_id") or uf.get("frmid")
+            if not form_action or not frm_id:
+              raise RuntimeError(f"uploadform missing formAction/frm-id: {uf}")
+            return {"formAction": form_action, "frm-id": frm_id}
+
+          def upload_video(form, video_path: Path, title: str, category: int, tags, allow_comment=True, description="", video_pass=False):
+            form_action = form["formAction"]
+            frm_id = form["frm-id"]
+            tags_str = "-".join(tags) if tags else ""
+            comment = "yes" if allow_comment else "no"
+            video_pass_str = "true" if video_pass else "false"
+
+            print(f"POST to {form_action} with frm-id={frm_id}")
+            with video_path.open("rb") as f:
+              files = {"video": ("video.mp4", f, "video/mp4")}
+              data = {
+                "frm-id": str(frm_id),
+                "data[title]": title,
+                "data[category]": str(category),
+                "data[tags]": tags_str,
+                "data[comment]": comment,
+                "data[descr]": description,
+                "data[video_pass]": video_pass_str,
+              }
+              r = requests.post(form_action, data=data, files=files, timeout=1800)
+            r.raise_for_status()
+            # سرور ممکن است JSON یا متن ساده برگرداند؛ هر دو را هندل می‌کنیم
+            try:
+              resp = r.json()
+            except ValueError:
+              resp = r.text
+            return resp
+
+          print("در حال لاگین مستقیم به API آپارات...")
           try:
-            user = aparat.login(username, password)
+            user_info = aparat_login(username, password)
           except Exception as e:
-            print("Login به آپارات ناموفق بود:")
+            print("Login API به آپارات ناموفق بود:")
             print(e)
             sys.exit(1)
-          else:
-            print(f"با کاربر {getattr(user, 'username', username)} لاگین شد.")
+
+          luser = user_info.get("username") or username
+          ltoken = user_info["ltoken"]
+          print(f"Login OK. username={luser}, ltoken length={len(ltoken)}")
+
+          TAGS = ["auto-upload", "github-actions", "import"]
 
           def safe_filename_from_url(url: str, index: int) -> str:
             parsed = urlparse(url)
@@ -105,8 +174,6 @@ jobs:
             if "." not in name:
               name = name + ".mp4"
             return f"{index}_{name}"
-
-          TAGS = ["auto-upload", "github-actions", "import"]
 
           for idx, url in enumerate(urls, start=1):
             print("=" * 60)
@@ -147,28 +214,34 @@ jobs:
             print(f"دانلود انجام شد: {out_path} ({size} bytes)")
 
             title = f"{title_prefix}{idx}"
-            print(f"در حال آپلود به آپارات: title='{title}', category={category_id}")
-
+            print(f"در حال گرفتن upload form از آپارات برای URL #{idx} ...")
             try:
-              form = aparat.uploadForm(user.username, user.ltoken)
-              video = aparat.uploadPost(
+              form = get_upload_form(luser, ltoken)
+            except Exception as e:
+              print(f"گرفتن upload form ناموفق بود برای URL #{idx}:")
+              print(e)
+              out_path.unlink(missing_ok=True)
+              continue
+
+            print(f"در حال آپلود به آپارات: title='{title}', category={category_id}")
+            try:
+              resp = upload_video(
                 form=form,
-                video_path=str(out_path),
+                video_path=out_path,
                 title=title,
                 category=category_id,
                 tags=TAGS,
                 allow_comment=True,
-                descreption="",
+                description="",
                 video_pass=False,
               )
               print("پاسخ آپارات برای این ویدیو:")
-              print(video)
+              print(resp)
             except Exception as e:
               print(f"آپلود URL #{idx} ناموفق بود:")
               print(e)
             finally:
-              if out_path.exists():
-                out_path.unlink()
+              out_path.unlink(missing_ok=True)
 
             dur = time.time() - start
             print(f"[{time.strftime('%H:%M:%S', time.gmtime())}] DONE URL #{idx} in {dur:.1f}s")
