@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Design With Roozbe
 
-_آخرین به‌روزرسانی: 2026-05-07T11:14:56Z_
+_آخرین به‌روزرسانی: 2026-05-08T10:46:10Z_
 
 
 لینک کانال: [Design With Roozbe](https://www.youtube.com/channel/UCH2-aT4yIrfuuXkcgsuisYg)
+
+
+- **تاریخ انتشار:** 2026-05-07 14:00:58 (UTC)  
+  **مدت:** حدود 17.8 دقیقه  
+  **عنوان:** [CSWP Practice Problem 11.7 Solution | SolidWorks Exam Guide](https://www.youtube.com/watch?v=eCJrNYFH4sk)  
+  ![](https://i.ytimg.com/vi/eCJrNYFH4sk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-06 14:00:37 (UTC)  

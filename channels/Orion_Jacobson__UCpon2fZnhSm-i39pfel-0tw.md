@@ -1,15 +1,15 @@
 # آرشیو ویدیوهای کانال Orion Jacobson 
 
-_آخرین به‌روزرسانی: 2026-05-07T11:14:56Z_
+_آخرین به‌روزرسانی: 2026-05-08T10:46:10Z_
 
 
 لینک کانال: [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)
 
 
-- **تاریخ انتشار:** 2026-05-06 23:06:34 (UTC)  
-  **مدت:** حدود 121.4 دقیقه  
+- **تاریخ انتشار:** 2026-05-07 11:54:48 (UTC)  
+  **مدت:** حدود 89.8 دقیقه  
   **عنوان:** [Part Design - Music Device?](https://www.youtube.com/watch?v=YH2yYcXD0RQ)  
-  ![](https://i.ytimg.com/vi/YH2yYcXD0RQ/hqdefault_live.jpg)
+  ![](https://i.ytimg.com/vi/YH2yYcXD0RQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-06 18:01:12 (UTC)  
