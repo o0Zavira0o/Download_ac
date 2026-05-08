@@ -22,7 +22,7 @@ jobs:
     env:
       AWS_ACCESS_KEY_ID: ${{ secrets.ARVAN_ACCESS_KEY }}
       AWS_SECRET_ACCESS_KEY: ${{ secrets.ARVAN_SECRET_KEY }}
-      ENDPOINT: "s3.ir-thr-at1.arvanstorage.ir"    # طبق چیزی که خودت نوشتی
+      ENDPOINT: "hot.ir-central1.arvanstorage.ir"    # طبق چیزی که خودت نوشتی
       BUCKET_NAME: "my-github-backup"             # نام باکت آروان
       RUN_ID: ${{ github.run_id }}
 
@@ -108,8 +108,8 @@ jobs:
           session = boto3.session.Session(
               aws_access_key_id=access_key,
               aws_secret_access_key=secret_key,
-              region_name="ir-thr-at1",  # برای آروان معمولاً همین region است؛ اگر لازم شد می‌توانی عوضش کنی
-          )
+              region_name="ir-central1",  # برای آروان معمولاً همین region است؛ اگر لازم شد می‌توانی عوضش کنی
+          ) 
           s3 = session.client(
               "s3",
               endpoint_url=endpoint_url,
