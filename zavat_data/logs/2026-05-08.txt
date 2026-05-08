@@ -1,4 +1,16 @@
 ================================================================================
+2026-05-08 23:22:47 (Asia/Tehran) | hill0
+Title  : Message- and Event-Driven Systems with CQRS and Event Sourcing: Web and Cloud Architecture (Early Release)
+Details: English | 2026 | ISBN: 9780137998654 | 323 Pages | EPUB | 15 MB
+Link   : http://zavat.pw/ebooks/9780137998654.html
+
+================================================================================
+2026-05-08 23:22:47 (Asia/Tehran) | hill0
+Title  : Artificial General Intelligence (AGI)
+Details: English | 2026 | h264, yuv420p, 1920x1080 | 48000 Hz, 2channels | Duration: 44m | 129 MB
+Link   : http://zavat.pw/ebooks/9781808089916.html
+
+================================================================================
 2026-05-08 21:37:21 (Asia/Tehran) | hill0
 Title  : Build Your Own Blockchain (2nd Edition)
 Details: English | 2026 | ISBN: 3031991397 | 247 Pages | PDF EPUB (True) | 29 MB
