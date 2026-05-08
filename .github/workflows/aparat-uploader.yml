@@ -1,4 +1,4 @@
-name: Smart Downloader to Arvan S3
+name: Smart Downloader to ParsPack S3
 
 on:
   workflow_dispatch:
@@ -16,13 +16,13 @@ on:
         default: "Video_"
 
 jobs:
-  download_and_upload_arvan:
+  download_and_upload_parspack:
     runs-on: ubuntu-latest
 
     env:
-      AWS_ACCESS_KEY_ID: ${{ secrets.ARVAN_ACCESS_KEY }}
-      AWS_SECRET_ACCESS_KEY: ${{ secrets.ARVAN_SECRET_KEY }}
-      ENDPOINT: "s3.ir-thr-at1.arvanstorage.ir"    # طبق چیزی که خودت نوشتی
+      AWS_ACCESS_KEY_ID: ${{ secrets.PARSPACK_ACCESS }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.PARSPACK_SECRET }}
+      ENDPOINT: "c115621.parspack.net"    # طبق چیزی که خودت نوشتی
       BUCKET_NAME: "my-github-backup"             # نام باکت آروان
       RUN_ID: ${{ github.run_id }}
 
@@ -40,7 +40,7 @@ jobs:
       - name: Prepare folders
         run: mkdir -p videos
 
-      - name: Download URLs and upload to Arvan S3
+      - name: Download URLs and upload to ParsPack S3
         env:
           RAW_URLS: ${{ github.event.inputs.file_urls }}
           S3_PREFIX_INPUT: ${{ github.event.inputs.s3_prefix }}
@@ -108,7 +108,7 @@ jobs:
           session = boto3.session.Session(
               aws_access_key_id=access_key,
               aws_secret_access_key=secret_key,
-              region_name="ir-thr-at1",  # برای آروان معمولاً همین region است؛ اگر لازم شد می‌توانی عوضش کنی
+              region_name="c115621",  # برای آروان معمولاً همین region است؛ اگر لازم شد می‌توانی عوضش کنی
           )
           s3 = session.client(
               "s3",
