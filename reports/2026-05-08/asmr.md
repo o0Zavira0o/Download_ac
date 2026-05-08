@@ -1,363 +1,443 @@
 # ویدیوهای ASMR — ویدیوهای معمولی (بیش از ۴ دقیقه)
 
-_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-08T10:00:09Z_
-
-- **تاریخ انتشار:** 2026-05-08 09:30:30 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
-  **مدت:** حدود 19.5 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=c0aThrg8qak)  
-  ![](https://i.ytimg.com/vi/c0aThrg8qak/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 09:15:04 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
-  **مدت:** حدود 18.3 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=g9Eh6imVbWk)  
-  ![](https://i.ytimg.com/vi/g9Eh6imVbWk/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 09:15:00 (UTC) — **کانال:** [ASMR Jabón Relajante](https://www.youtube.com/channel/UCEaUxP1LE16mLyVYnPhTs5g)  
-  **مدت:** حدود 18.5 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=5m0AmhB0aGE)  
-  ![](https://i.ytimg.com/vi/5m0AmhB0aGE/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 09:00:47 (UTC) — **کانال:** [ASMR Jabón Relajante](https://www.youtube.com/channel/UCEaUxP1LE16mLyVYnPhTs5g)  
-  **مدت:** حدود 18.3 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=Sud5P80Lz1k)  
-  ![](https://i.ytimg.com/vi/Sud5P80Lz1k/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 08:45:03 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
-  **مدت:** حدود 21.8 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=HA9bh3AtXPc)  
-  ![](https://i.ytimg.com/vi/HA9bh3AtXPc/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 08:39:45 (UTC) — **کانال:** [Jabón Relajante ASMR](https://www.youtube.com/channel/UCBslT1yYRZhDcm_6tSGvopg)  
-  **مدت:** حدود 160.8 دقیقه  
-  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷 #meditation #Relax #asmr](https://www.youtube.com/watch?v=TcJPJsrKDUI)  
-  ![](https://i.ytimg.com/vi/TcJPJsrKDUI/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 08:30:35 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
-  **مدت:** حدود 20.1 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=WNvJslXLrr0)  
-  ![](https://i.ytimg.com/vi/WNvJslXLrr0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 08:20:34 (UTC) — **کانال:** [VISLI - T](https://www.youtube.com/channel/UC22igLBXZbrj2pfEwmuJ-5w)  
-  **مدت:** حدود 21.6 دقیقه  
-  **عنوان:** [Snake Clash! .io - MAX LEVEL EXPLOSION! 🐍 | 100% Action Gameplay (No Talking) | VISLI - T](https://www.youtube.com/watch?v=zy2YdF4GE1o)  
-  ![](https://i.ytimg.com/vi/zy2YdF4GE1o/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 08:00:37 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
-  **مدت:** حدود 21.2 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=Ks7QIioNqdY)  
-  ![](https://i.ytimg.com/vi/Ks7QIioNqdY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 07:45:09 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
-  **مدت:** حدود 16.4 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=x9FBfzQHkqs)  
-  ![](https://i.ytimg.com/vi/x9FBfzQHkqs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 06:45:08 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
-  **مدت:** حدود 12.9 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=zxN7bQBRQFM)  
-  ![](https://i.ytimg.com/vi/zxN7bQBRQFM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 06:36:20 (UTC) — **کانال:** [sobadz](https://www.youtube.com/channel/UCKkvdfcAttfIqhZvYyHFbZg)  
-  **مدت:** حدود 138.7 دقیقه  
-  **عنوان:** [Apex Legends Live Ranked Grind New Season 29 No Talking](https://www.youtube.com/watch?v=9uImdnNDpj8)  
-  ![](https://i.ytimg.com/vi/9uImdnNDpj8/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 06:30:15 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
-  **مدت:** حدود 13.1 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=YnwOeLOxTAk)  
-  ![](https://i.ytimg.com/vi/YnwOeLOxTAk/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 06:30:02 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
-  **مدت:** حدود 16.9 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=3QIEGS5vLFo)  
-  ![](https://i.ytimg.com/vi/3QIEGS5vLFo/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 06:27:49 (UTC) — **کانال:** [popular soaps 6 ](https://www.youtube.com/channel/UCOvPdTQ9AWcGzqcEZlkNHhQ)  
-  **مدت:** حدود 4.5 دقیقه  
-  **عنوان:** [Soap opening noise ASMR satisfying video ASMR no Talking (4:28 minutes)](https://www.youtube.com/watch?v=8mKMlPScNR0)  
-  ![](https://i.ytimg.com/vi/8mKMlPScNR0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 06:00:23 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
-  **مدت:** حدود 18.4 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=AjAL0_GPLgA)  
-  ![](https://i.ytimg.com/vi/AjAL0_GPLgA/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 05:40:15 (UTC) — **کانال:** [Jowbon Soap](https://www.youtube.com/channel/UCmDl5IJn-HQ4OPqJ6bLRuXA)  
-  **مدت:** حدود 5.0 دقیقه  
-  **عنوان:** [Ultimate Relaxing Soap ASMR | 5-Minute Calming Soap Unboxing | No Talking🧼](https://www.youtube.com/watch?v=OI3-vryliew)  
-  ![](https://i.ytimg.com/vi/OI3-vryliew/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 05:30:41 (UTC) — **کانال:** [Jabón Relajante ASMR](https://www.youtube.com/channel/UCBslT1yYRZhDcm_6tSGvopg)  
-  **مدت:** حدود 99.1 دقیقه  
-  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷 #meditation #Relax #asmr](https://www.youtube.com/watch?v=MWIIjOqbomk)  
-  ![](https://i.ytimg.com/vi/MWIIjOqbomk/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 05:25:00 (UTC) — **کانال:** [sleepygirlkelz](https://www.youtube.com/channel/UCcmWRcxa-yxDXtvmoQJuVYg)  
-  **مدت:** حدود 13.3 دقیقه  
-  **عنوان:** [asmr NBA playoff trivia ⛹️‍♂️](https://www.youtube.com/watch?v=Qwo8vMxZeYM)  
-  ![](https://i.ytimg.com/vi/Qwo8vMxZeYM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 05:11:01 (UTC) — **کانال:** [Sydney Bee ASMR](https://www.youtube.com/channel/UCyA1Hqq4GHYL6dhqEhnpqvA)  
-  **مدت:** حدود 33.5 دقیقه  
-  **عنوان:** [ASMR Answering your questions!|Q&A](https://www.youtube.com/watch?v=JOoWRg8G0IU)  
-  ![](https://i.ytimg.com/vi/JOoWRg8G0IU/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 05:00:43 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
-  **مدت:** حدود 13.7 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=cGONDd2I6J0)  
-  ![](https://i.ytimg.com/vi/cGONDd2I6J0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 04:03:19 (UTC) — **کانال:** [Nidhi_ASMR](https://www.youtube.com/channel/UCZY7RqbpM0ImXasNEs9J19g)  
-  **مدت:** حدود 35.9 دقیقه  
-  **عنوان:** [Sonam Does My Relaxing ASMR 🌙✨](https://www.youtube.com/watch?v=hI_diKhEHL8)  
-  ![](https://i.ytimg.com/vi/hI_diKhEHL8/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 04:00:29 (UTC) — **کانال:** [Joy](https://www.youtube.com/channel/UCAqeJgXDG4qvuZmnaBaw81Q)  
-  **مدت:** حدود 11.8 دقیقه  
-  **عنوان:** [ASMR mouth sounds, chewing squishy (pegajoso)](https://www.youtube.com/watch?v=HO6G7CDVUVE)  
-  ![](https://i.ytimg.com/vi/HO6G7CDVUVE/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 04:00:06 (UTC) — **کانال:** [Oddly Satisfying Soap ASMR](https://www.youtube.com/channel/UCQiUftflIJJcgdjoZ5heVTA)  
-  **مدت:** حدود 4.8 دقیقه  
-  **عنوان:** [ASMR Sleep No Talking Compilation | Soap Making Compilation 🧼](https://www.youtube.com/watch?v=2-f46mCMBoM)  
-  ![](https://i.ytimg.com/vi/2-f46mCMBoM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 03:31:22 (UTC) — **کانال:** [Latino Pasión](https://www.youtube.com/channel/UC_ewb-V7lCOfyt9Eo8G-zHQ)  
-  **مدت:** حدود 715.0 دقیقه  
-  **عنوان:** [Reggaeton 24/7 🔥 Best Latin Club Mix (No Talking)](https://www.youtube.com/watch?v=gkkk_BBxyQw)  
-  ![](https://i.ytimg.com/vi/gkkk_BBxyQw/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 03:23:23 (UTC) — **کانال:** [THELAZYGAMER](https://www.youtube.com/channel/UCatvLhk5mK6LfkiFk663z0Q)  
-  **مدت:** حدود 22.5 دقیقه  
-  **عنوان:** [phasmophobia livestream no talking](https://www.youtube.com/watch?v=dPncrVTG8ek)  
-  ![](https://i.ytimg.com/vi/dPncrVTG8ek/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 03:15:03 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
-  **مدت:** حدود 16.2 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=XQBR2EFNu7o)  
-  ![](https://i.ytimg.com/vi/XQBR2EFNu7o/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 03:05:04 (UTC) — **کانال:** [Nina Joy ASMR](https://www.youtube.com/channel/UCln-tasGugePWEiqFZ3_hcQ)  
-  **مدت:** حدود 38.1 دقیقه  
-  **عنوان:** [Sweets Unpacking ASMR 🍭 | Satisfying Video | ASMR No talking | Kinder Joy](https://www.youtube.com/watch?v=iUbLnzY7C2A)  
-  ![](https://i.ytimg.com/vi/iUbLnzY7C2A/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 03:01:23 (UTC) — **کانال:** [Ale ASMR](https://www.youtube.com/channel/UCjyp2TjwAsIxts1N0vbbpSA)  
-  **مدت:** حدود 23.2 دقیقه  
-  **عنوان:** [ASMR SPA CAPILAR Tratamiento, Masaje y Shampoo 🧼 ](https://www.youtube.com/watch?v=KO4BX2sABmQ)  
-  ![](https://i.ytimg.com/vi/KO4BX2sABmQ/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 02:37:04 (UTC) — **کانال:** [BearlyASMR](https://www.youtube.com/channel/UCV4le2TO5vZOrTJ1dkDd4og)  
-  **مدت:** حدود 14.7 دقیقه  
-  **عنوان:** [ASMR - Rolling things on the blue sponge (no talking)](https://www.youtube.com/watch?v=ep16Tik3Pxw)  
-  ![](https://i.ytimg.com/vi/ep16Tik3Pxw/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 02:31:31 (UTC) — **کانال:** [Vintage Asmr](https://www.youtube.com/channel/UCcxPe_OecoYXnjFOeQxU5Pg)  
-  **مدت:** حدود 22.7 دقیقه  
-  **عنوان:** [ASMR Unboxing - Relaxing & Hypnotic Sounds (No Talking)](https://www.youtube.com/watch?v=GLhFAeDwFIQ)  
-  ![](https://i.ytimg.com/vi/GLhFAeDwFIQ/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 02:15:01 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
-  **مدت:** حدود 16.6 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=n-7qG0c-x20)  
-  ![](https://i.ytimg.com/vi/n-7qG0c-x20/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 02:02:34 (UTC) — **کانال:** [Maycon Sagaz ASMR](https://www.youtube.com/channel/UCEpaQDFBhyCZp7W3Ao7vZaA)  
-  **مدت:** حدود 21.2 دقیقه  
-  **عنوان:** [ASMR para quem esta sem SONO nenhum](https://www.youtube.com/watch?v=xLtXoHxMkFk)  
-  ![](https://i.ytimg.com/vi/xLtXoHxMkFk/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 02:00:41 (UTC) — **کانال:** [Nokoe ASMR Anime Roleplay](https://www.youtube.com/channel/UCb3BU6CwePJtRfG_conAs9w)  
-  **مدت:** حدود 24.9 دقیقه  
-  **عنوان:** [GUARDAESPALDAS te CUIDA con AMOR ❤️🔫 ASMR Anime Roleplay](https://www.youtube.com/watch?v=g_ieTCZ7UuQ)  
-  ![](https://i.ytimg.com/vi/g_ieTCZ7UuQ/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 02:00:19 (UTC) — **کانال:** [Oddly Satisfying Soap ASMR](https://www.youtube.com/channel/UCQiUftflIJJcgdjoZ5heVTA)  
-  **مدت:** حدود 4.8 دقیقه  
-  **عنوان:** [ASMR Sleep No Talking Compilation | Soap Making Compilation 🧼](https://www.youtube.com/watch?v=BUPS_rYRibw)  
-  ![](https://i.ytimg.com/vi/BUPS_rYRibw/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 01:34:33 (UTC) — **کانال:** [ASMR Relaxing Soap Unboxing](https://www.youtube.com/channel/UCM4TzH_bDnFZUwjRMN3prhQ)  
-  **مدت:** حدود 361.3 دقیقه  
-  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷 #meditation #Relax #asmr](https://www.youtube.com/watch?v=grjL0_RIWVI)  
-  ![](https://i.ytimg.com/vi/grjL0_RIWVI/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 01:10:43 (UTC) — **کانال:** [Demi's Art Room](https://www.youtube.com/channel/UCE73qTz8stCOkyb5tvFYf1Q)  
-  **مدت:** حدود 6.4 دقیقه  
-  **عنوان:** [Color With Me | Aesthetic Makeup & Perfume 💄 ASMR No Talking | Marker Coloring](https://www.youtube.com/watch?v=xopaBH-0-UY)  
-  ![](https://i.ytimg.com/vi/xopaBH-0-UY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 01:01:34 (UTC) — **کانال:** [Tuo My](https://www.youtube.com/channel/UCGz4_SIgpp842PRtwu10KWQ)  
-  **مدت:** حدود 22.8 دقیقه  
-  **عنوان:** [talking about my interests (yap) ASMR ](https://www.youtube.com/watch?v=THukYS6s6UM)  
-  ![](https://i.ytimg.com/vi/THukYS6s6UM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 01:00:57 (UTC) — **کانال:** [RainsOnRepeat](https://www.youtube.com/channel/UCMDFR7Y_Or6xs5GU3OF0P3Q)  
-  **مدت:** حدود 60.0 دقیقه  
-  **عنوان:** [Mountain Wind - High Altitude Ambience | Sleep Sounds, No Talking](https://www.youtube.com/watch?v=zZ5P2K8pNoY)  
-  ![](https://i.ytimg.com/vi/zZ5P2K8pNoY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 01:00:49 (UTC) — **کانال:** [Dessert World](https://www.youtube.com/channel/UCfRtID12Tz0kT5phY7XZECA)  
-  **مدت:** حدود 8.7 دقیقه  
-  **عنوان:** [ASMR S'MORES DIP, CHOCOLATE ICE CREAM, MARSHMALLOW Compilation | No Talking| Only Bites ](https://www.youtube.com/watch?v=m_dHvOKovAk)  
-  ![](https://i.ytimg.com/vi/m_dHvOKovAk/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 01:00:29 (UTC) — **کانال:** [MORIX](https://www.youtube.com/channel/UCMRGHFsA9YtFVZLYkaAEqog)  
-  **مدت:** حدود 10.2 دقیقه  
-  **عنوان:** [ASMR SPICY BONE MARROW| No Talking | Crunchy Mukbang | Only Bites |Compilation |SPICY Food ](https://www.youtube.com/watch?v=cpU8_I2C87k)  
-  ![](https://i.ytimg.com/vi/cpU8_I2C87k/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 01:00:22 (UTC) — **کانال:** [Quiet Night Co.](https://www.youtube.com/channel/UC5hwjrNk8HX__EAT7ACrumw)  
-  **مدت:** حدود 480.0 دقیقه  
-  **عنوان:** [Ocean Waves for Deep Sleep 🌙 8 Hours NONSTOP (No Talking, Stay Asleep All Night)](https://www.youtube.com/watch?v=U14rJmkGg-Y)  
-  ![](https://i.ytimg.com/vi/U14rJmkGg-Y/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 01:00:12 (UTC) — **کانال:** [Asmr Only Bits ](https://www.youtube.com/channel/UC3adFTqNEpaTVOTmgQiPhtQ)  
-  **مدت:** حدود 12.2 دقیقه  
-  **عنوان:** [ASMR Spicy Nuclear Fire Noodles Compilation//Compilation///no talking///Bites only////asmr Mukbang](https://www.youtube.com/watch?v=DIah3UmP7co)  
-  ![](https://i.ytimg.com/vi/DIah3UmP7co/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 01:00:06 (UTC) — **کانال:** [PAW TIME 1](https://www.youtube.com/channel/UCafGqyEKfzDtMx49C8dE_Jg)  
-  **مدت:** حدود 8.1 دقیقه  
-  **عنوان:** [SpongeBob SquarePants Oddly Satisfying ASMR Toy Unboxing & Surprise Collection | No Talking ](https://www.youtube.com/watch?v=6fbPbcZrVTs)  
-  ![](https://i.ytimg.com/vi/6fbPbcZrVTs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 01:00:03 (UTC) — **کانال:** [Noodle Bites](https://www.youtube.com/channel/UCzh9rXrJX7TDGwTihfkfbAg)  
-  **مدت:** حدود 8.1 دقیقه  
-  **عنوان:** [ASMR Korean Spicy Octopus Compilation | No Talking | Only Bites | Noodle Mukbang | ASMR Food 🍜](https://www.youtube.com/watch?v=4NaxHb_qhpc)  
-  ![](https://i.ytimg.com/vi/4NaxHb_qhpc/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 00:49:21 (UTC) — **کانال:** [Social Destruction - Social D/Ness tribute band](https://www.youtube.com/channel/UC8YmYshwAa2UCt2eLQlgYjw)  
-  **مدت:** حدود 4.5 دقیقه  
-  **عنوان:** [Social Distortion 'The way things were' Guitar tutorial (No talking)](https://www.youtube.com/watch?v=8Zm5lJTU_os)  
-  ![](https://i.ytimg.com/vi/8Zm5lJTU_os/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 00:43:46 (UTC) — **کانال:** [THELAZYGAMER](https://www.youtube.com/channel/UCatvLhk5mK6LfkiFk663z0Q)  
-  **مدت:** حدود 55.9 دقیقه  
-  **عنوان:** [phasmophobia no talking](https://www.youtube.com/watch?v=JQUufRHuWI0)  
-  ![](https://i.ytimg.com/vi/JQUufRHuWI0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 00:19:19 (UTC) — **کانال:** [George kingdom ](https://www.youtube.com/channel/UCsIq9v_ho-xxbVZQhXZZ9FQ)  
-  **مدت:** حدود 198.1 دقیقه  
-  **عنوان:** [Blackheads New 2026 Today: 3-Hour Full Face Transformation (No Talking)](https://www.youtube.com/watch?v=M72zwnmaKRo)  
-  ![](https://i.ytimg.com/vi/M72zwnmaKRo/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 00:01:23 (UTC) — **کانال:** [StarLife Girl](https://www.youtube.com/channel/UC17YprjTQwbXDf7BZ41CGJA)  
-  **مدت:** حدود 16.1 دقیقه  
-  **عنوان:** [LIVE ASMR | Hair Brushing & Scalp Scratching for Sleep 😴 (No Talking)](https://www.youtube.com/watch?v=2BPTj9jA2cs)  
-  ![](https://i.ytimg.com/vi/2BPTj9jA2cs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 00:01:06 (UTC) — **کانال:** [Cosmetic Up](https://www.youtube.com/channel/UCQj7BHJBPTB8uizlTC9Z1iw)  
-  **مدت:** حدود 68.8 دقیقه  
-  **عنوان:** [Satisfying Makeup Repair ASMR💄How I Repair Broken Makeup & Make DIY Cosmetics (Chanel, NARS, Romand)](https://www.youtube.com/watch?v=toMgmiMbQ7A)  
-  ![](https://i.ytimg.com/vi/toMgmiMbQ7A/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 00:00:27 (UTC) — **کانال:** [Cheeky](https://www.youtube.com/channel/UC-V0FAdN7ngbgPD4YG_S7KA)  
-  **مدت:** حدود 31.3 دقیقه  
-  **عنوان:** [Minecraft ASMR 💤 Gummy Candy, Whispering & Keyboard Sounds](https://www.youtube.com/watch?v=DYTv7OzQEzU)  
-  ![](https://i.ytimg.com/vi/DYTv7OzQEzU/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 23:46:14 (UTC) — **کانال:** [Candi Whispers ASMR](https://www.youtube.com/channel/UCOMqCB_pR6fxMDlj5_K10oQ)  
-  **مدت:** حدود 6.9 دقیقه  
-  **عنوان:** [No Talking ASMR](https://www.youtube.com/watch?v=G8GR0cD_TLU)  
-  ![](https://i.ytimg.com/vi/G8GR0cD_TLU/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 23:40:44 (UTC) — **کانال:** [what's up](https://www.youtube.com/channel/UC4RLW44BstOxXVrcsH4K6eg)  
-  **مدت:** حدود 76.3 دقیقه  
-  **عنوان:** [🔇 SILENT STUDY WITH ME | 24/7 Real Time | No Talking, No Music🎓  |Rainy Day In The Forest 🍃🐿️](https://www.youtube.com/watch?v=xgASma8WlPY)  
-  ![](https://i.ytimg.com/vi/xgASma8WlPY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 23:30:15 (UTC) — **کانال:** [ASMR Jabón Relajante](https://www.youtube.com/channel/UCEaUxP1LE16mLyVYnPhTs5g)  
-  **مدت:** حدود 17.8 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=ODp_dqM1gfM)  
-  ![](https://i.ytimg.com/vi/ODp_dqM1gfM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 23:27:07 (UTC) — **کانال:** [ASMR采耳助眠](https://www.youtube.com/channel/UCqliU0wFf3Ny6memaza4QeQ)  
-  **مدت:** حدود 484.9 دقیقه  
-  **عنوان:** [🔴 ASMR Ear Cleaning & Deep Sleep Relaxing (No Talking) 💤](https://www.youtube.com/watch?v=LsZ9AvSa1LQ)  
-  ![](https://i.ytimg.com/vi/LsZ9AvSa1LQ/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 23:16:31 (UTC) — **کانال:** [LSM Music](https://www.youtube.com/channel/UCVSMzFMRfXoJdA3Rf1Z2YPw)  
-  **مدت:** حدود 6.9 دقیقه  
-  **عنوان:** [Nord Electro 6d Piano Mode - No Talking](https://www.youtube.com/watch?v=S8C5JtYoKbs)  
-  ![](https://i.ytimg.com/vi/S8C5JtYoKbs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 23:16:02 (UTC) — **کانال:** [Firelight Realm](https://www.youtube.com/channel/UCb-MIM71o0QxIKibG9NvZJA)  
-  **مدت:** حدود 616.6 دقیقه  
-  **عنوان:** [Cozy Fireplace Ambience 🔥 Real Fireplace Sounds (No Talking)](https://www.youtube.com/watch?v=Db2qYrd6idU)  
-  ![](https://i.ytimg.com/vi/Db2qYrd6idU/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 23:15:00 (UTC) — **کانال:** [Emma's Creative Pursuits](https://www.youtube.com/channel/UCuCTIi_xrHJbwP7EOqLvgmQ)  
-  **مدت:** حدود 35.9 دقیقه  
-  **عنوان:** [WIP - DAC - Jafar Part 8, Relaxing, ASMR, No Talking, Real Time, Diamond Painting, Diamond Art Club](https://www.youtube.com/watch?v=8jB3he7TTvQ)  
-  ![](https://i.ytimg.com/vi/8jB3he7TTvQ/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 23:00:31 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
-  **مدت:** حدود 18.4 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=I0em3YiI4g4)  
-  ![](https://i.ytimg.com/vi/I0em3YiI4g4/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 22:57:11 (UTC) — **کانال:** [A Timeless World](https://www.youtube.com/channel/UCjjZYKP1z0pyCntNrsur6Qg)  
-  **مدت:** حدود 30.4 دقیقه  
-  **عنوان:** [no talking challenge in One More Night](https://www.youtube.com/watch?v=i8vC-rrIJlU)  
-  ![](https://i.ytimg.com/vi/i8vC-rrIJlU/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 22:45:02 (UTC) — **کانال:** [The Lune INNATE](https://www.youtube.com/channel/UCPCHuLiHbhG3s_YxhMLOn6Q)  
-  **مدت:** حدود 14.4 دقیقه  
-  **عنوان:** [Return to You | Hand Movement Clearing Any Negative Distractions | ASMR](https://www.youtube.com/watch?v=xdadbKni6ts)  
-  ![](https://i.ytimg.com/vi/xdadbKni6ts/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 22:38:54 (UTC) — **کانال:** [Sulkycats](https://www.youtube.com/channel/UCpxkseAw0nEXOkpVfzE45lQ)  
-  **مدت:** حدود 58.2 دقیقه  
-  **عنوان:** [ASMR | Elf Girl Uses You As Her Magic Guinea pig | [writing] [tuning fork] [tapping]](https://www.youtube.com/watch?v=aDo-oa-GkDg)  
-  ![](https://i.ytimg.com/vi/aDo-oa-GkDg/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 22:31:19 (UTC) — **کانال:** [Hidden China Food](https://www.youtube.com/channel/UCtY6OO7KX8WPyRM-Ux8icpw)  
-  **مدت:** حدود 148.6 دقیقه  
-  **عنوان:** [Sizzling Night Market ASMR 🌙 NO TALKING - Just Relaxing Food Sounds 🔴 LIVE](https://www.youtube.com/watch?v=OWPoJTCKb-4)  
-  ![](https://i.ytimg.com/vi/OWPoJTCKb-4/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 22:30:01 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
-  **مدت:** حدود 17.1 دقیقه  
-  **عنوان:** [ASMR.Soap opening HAUL.Unpacking soap.Relaxing sounds(no talking)|Satisfying ASMR Video 🧼🩷](https://www.youtube.com/watch?v=0jhpmmj_1aI)  
-  ![](https://i.ytimg.com/vi/0jhpmmj_1aI/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 22:27:21 (UTC) — **کانال:** [ ASMR Harry](https://www.youtube.com/channel/UCW2fmEZQoq_cOMVL-b9i7Aw)  
-  **مدت:** حدود 180.0 دقیقه  
-  **عنوان:** [ASMR Harry is Live 🔴](https://www.youtube.com/watch?v=YNcKiiItWGI)  
-  ![](https://i.ytimg.com/vi/YNcKiiItWGI/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 22:00:36 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
-  **مدت:** حدود 13.5 دقیقه  
-  **عنوان:** [ASMR.Soap opening HAUL.Unpacking soap.Relaxing sounds(no talking)|Satisfying ASMR Video 🧼🩷](https://www.youtube.com/watch?v=R7RvU1EE6Xs)  
-  ![](https://i.ytimg.com/vi/R7RvU1EE6Xs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 22:00:11 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
-  **مدت:** حدود 12.7 دقیقه  
-  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=P7A8KCboyeE)  
-  ![](https://i.ytimg.com/vi/P7A8KCboyeE/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 21:39:56 (UTC) — **کانال:** [CUT ASMR PLUS](https://www.youtube.com/channel/UC-eDqSgTp9oPgdKY9gZ-fpw)  
-  **مدت:** حدود 10.2 دقیقه  
-  **عنوان:** [Soap Carving ASMR Relaxing Sounds no talking Satisfying ASMR Video](https://www.youtube.com/watch?v=Cw28_X5y2Zs)  
-  ![](https://i.ytimg.com/vi/Cw28_X5y2Zs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 21:22:37 (UTC) — **کانال:** [MoonShu_Replay](https://www.youtube.com/channel/UC-49KBL_Bkxalz-PANDNa9A)  
-  **مدت:** حدود 164.9 دقیقه  
-  **عنوان:** [J'me suis fait bloquer par un PARASOL ???? (No talking #3)](https://www.youtube.com/watch?v=G2RpDGGqlPY)  
-  ![](https://i.ytimg.com/vi/G2RpDGGqlPY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 21:11:28 (UTC) — **کانال:** [CUT ASMR PLUS](https://www.youtube.com/channel/UC-eDqSgTp9oPgdKY9gZ-fpw)  
+_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-08T16:41:53Z_
+
+- **تاریخ انتشار:** 2026-05-08 16:18:54 (UTC) — **کانال:** [Jabón Relajante ASMR](https://www.youtube.com/channel/UCBslT1yYRZhDcm_6tSGvopg)  
+  **مدت:** حدود 145.2 دقیقه  
+  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷 #meditation #Relax #asmr](https://www.youtube.com/watch?v=5iKDd-_4smc)  
+  ![](https://i.ytimg.com/vi/5iKDd-_4smc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 15:30:49 (UTC) — **کانال:** [Mukbang TBS](https://www.youtube.com/channel/UCD1IfhCU8LHadpKjQv7VG5A)  
+  **مدت:** حدود 30.8 دقیقه  
+  **عنوان:** [Spicy Fire Noodles Mukbang with Fried Eggs and Sausages ASMR No Talking Eating Show | Nuclear](https://www.youtube.com/watch?v=yf9FR2oCk7Q)  
+  ![](https://i.ytimg.com/vi/yf9FR2oCk7Q/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 15:01:13 (UTC) — **کانال:** [CSM Relaxing](https://www.youtube.com/channel/UCV9v-sUrbl22bU1PSylDnzw)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Satisfying Slime ASMR Videos | Relaxing Best Slimes No Talking 3944](https://www.youtube.com/watch?v=bPYlXi9pA2Q)  
+  ![](https://i.ytimg.com/vi/bPYlXi9pA2Q/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 15:00:33 (UTC) — **کانال:** [OrangeBeatFit](https://www.youtube.com/channel/UC_xuAddruF58TkDb282vsvw)  
+  **مدت:** حدود 15.3 دقیقه  
+  **عنوان:** [15 MIN DAILY CARDIO | At Home Workout No Talking](https://www.youtube.com/watch?v=BJJN5_zS4aM)  
+  ![](https://i.ytimg.com/vi/BJJN5_zS4aM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 14:30:06 (UTC) — **کانال:** [富小可](https://www.youtube.com/channel/UC9AdqRJwGINYPURlOnN6pZg)  
+  **مدت:** حدود 25.8 دقیقه  
+  **عنوان:** [ASMR No Talking: Deep Sleep Eye Spa & Silver Bead Eye Cleaning 👁️](https://www.youtube.com/watch?v=xngKzZ-huOw)  
+  ![](https://i.ytimg.com/vi/xngKzZ-huOw/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 14:24:17 (UTC) — **کانال:** [MIL ASMR](https://www.youtube.com/channel/UCw8mbEfLWa-rsJRx4m_OM6g)  
+  **مدت:** حدود 29.9 دقیقه  
+  **عنوان:** [ASMR สัมผัสข้างในหูคุณ ที่ทำให้หลับลึก Ear Triggers For Deep Sleep](https://www.youtube.com/watch?v=at7kysIA3_E)  
+  ![](https://i.ytimg.com/vi/at7kysIA3_E/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 14:23:47 (UTC) — **کانال:** [Ambery Jabón ASMR](https://www.youtube.com/channel/UCeg8jdIjlmMJRWKbvc3ouUg)  
+  **مدت:** حدود 94.0 دقیقه  
+  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷](https://www.youtube.com/watch?v=CQEd1Qdk41k)  
+  ![](https://i.ytimg.com/vi/CQEd1Qdk41k/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 14:15:07 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
+  **مدت:** حدود 11.3 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=lpMUxHjZ60s)  
+  ![](https://i.ytimg.com/vi/lpMUxHjZ60s/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 14:07:05 (UTC) — **کانال:** [ASMRSecret](https://www.youtube.com/channel/UCyYGGl4LZmL5NC2DrsjwiuQ)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [PINK MAKE-UP ASMR 💗| NO TALKING | Soft Mouth Sounds | Glove Sounds | Triggers ](https://www.youtube.com/watch?v=aJuy0mqqE-0)  
+  ![](https://i.ytimg.com/vi/aJuy0mqqE-0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 14:01:08 (UTC) — **کانال:** [SOFFY SOAP ASMR](https://www.youtube.com/channel/UCZ2FDivAfMlEMy9GSjK5T_Q)  
+  **مدت:** حدود 5.3 دقیقه  
+  **عنوان:** [✨ “Satisfying Soap Unboxing ASMR (No Talking) 🧼 SOAP opening HAUL /Unpacking soap #asmrsoap ](https://www.youtube.com/watch?v=bx2DALwYUT4)  
+  ![](https://i.ytimg.com/vi/bx2DALwYUT4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 14:00:14 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
+  **مدت:** حدود 17.9 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=MuACfEz-c7Q)  
+  ![](https://i.ytimg.com/vi/MuACfEz-c7Q/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 14:00:01 (UTC) — **کانال:** [Unboxing Xtra](https://www.youtube.com/channel/UCm2fwZgh4UrXIuo2HERvkrg)  
+  **مدت:** حدود 37.5 دقیقه  
+  **عنوان:** [LOL Surprise Dolls Mega Unboxing ASMR | 37 Minutes No Talking](https://www.youtube.com/watch?v=KIgOnaOgIrw)  
+  ![](https://i.ytimg.com/vi/KIgOnaOgIrw/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 13:59:34 (UTC) — **کانال:** [MachineHustle](https://www.youtube.com/channel/UCKuT9FjQNyBmIJqxeAU0B2w)  
   **مدت:** حدود 10.8 دقیقه  
-  **عنوان:** [Soap Carving ASMR Relaxing Sounds no talking Satisfying ASMR Video](https://www.youtube.com/watch?v=vgXnDYodJPk)  
-  ![](https://i.ytimg.com/vi/vgXnDYodJPk/hqdefault.jpg)
+  **عنوان:** [7 Machines Turning Broke People Into Earners (No one is talking about!)](https://www.youtube.com/watch?v=DbD7NhjbyZ4)  
+  ![](https://i.ytimg.com/vi/DbD7NhjbyZ4/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-07 21:10:00 (UTC) — **کانال:** [Ruksana's ASMR Soap](https://www.youtube.com/channel/UCsG2E5WfiVujafucYcfaRmA)  
-  **مدت:** حدود 6.6 دقیقه  
-  **عنوان:** [Soap Unboxing ASMR I No Music I High QualitySounds || ( no talking )](https://www.youtube.com/watch?v=tcOq_Fy-ruE)  
-  ![](https://i.ytimg.com/vi/tcOq_Fy-ruE/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-08 13:56:36 (UTC) — **کانال:** [Jabón Relajante ASMR](https://www.youtube.com/channel/UCBslT1yYRZhDcm_6tSGvopg)  
+  **مدت:** حدود 302.9 دقیقه  
+  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking 🧼🩷 #meditation #Relax #asmr](https://www.youtube.com/watch?v=d-fzfbgbQqU)  
+  ![](https://i.ytimg.com/vi/d-fzfbgbQqU/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-07 21:00:07 (UTC) — **کانال:** [SweetPop ASMR](https://www.youtube.com/channel/UCYrVQiNvZ26VmMfCLw81jjA)  
+- **تاریخ انتشار:** 2026-05-08 13:45:01 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
+  **مدت:** حدود 16.9 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=45LgbSrpp1M)  
+  ![](https://i.ytimg.com/vi/45LgbSrpp1M/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 13:02:00 (UTC) — **کانال:** [ASMR Jabón Relajante](https://www.youtube.com/channel/UCEaUxP1LE16mLyVYnPhTs5g)  
+  **مدت:** حدود 16.2 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=uDDjUIA2mQE)  
+  ![](https://i.ytimg.com/vi/uDDjUIA2mQE/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 13:01:21 (UTC) — **کانال:** [[JGA]JapaneseGirlsASMR](https://www.youtube.com/channel/UCghhvAxYXPW0UDG736dQZQg)  
+  **مدت:** حدود 21.2 دقیقه  
+  **عنوان:** [【 @yukichi-asmr  】鼓膜なしでリラックス【ASMR】](https://www.youtube.com/watch?v=ioRnJDRDFTY)  
+  ![](https://i.ytimg.com/vi/ioRnJDRDFTY/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 13:00:06 (UTC) — **کانال:** [SOAP OPENING & SLIME MIXING](https://www.youtube.com/channel/UCOEO60hk6NMJvj7npwUtJqQ)  
+  **مدت:** حدود 6.1 دقیقه  
+  **عنوان:** [Soap Opening Haul| 🧼 No Talking| Satisfying ASMR Unpacking #asmr #maditation #relaxingsounds](https://www.youtube.com/watch?v=mED_mD5WAVg)  
+  ![](https://i.ytimg.com/vi/mED_mD5WAVg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:55:48 (UTC) — **کانال:** [popular soaps 6 ](https://www.youtube.com/channel/UCOvPdTQ9AWcGzqcEZlkNHhQ)  
+  **مدت:** حدود 4.7 دقیقه  
+  **عنوان:** [Soap opening noise ASMR satisfying video ASMR no Talking (4:40 minutes)](https://www.youtube.com/watch?v=faF8vkq4J9E)  
+  ![](https://i.ytimg.com/vi/faF8vkq4J9E/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:45:04 (UTC) — **کانال:** [hopeful asmr](https://www.youtube.com/channel/UCBGbK3qDHRqaVld0EC4fkQg)  
+  **مدت:** حدود 47.0 دقیقه  
+  **عنوان:** [20 ASMR Triggers for Relaxation (My 200th video❤︎）](https://www.youtube.com/watch?v=W31-lISjfhs)  
+  ![](https://i.ytimg.com/vi/W31-lISjfhs/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:30:28 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
+  **مدت:** حدود 16.5 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=L7OMXlzTLc8)  
+  ![](https://i.ytimg.com/vi/L7OMXlzTLc8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:30:19 (UTC) — **کانال:** [ASMR Jabón Relajante](https://www.youtube.com/channel/UCEaUxP1LE16mLyVYnPhTs5g)  
+  **مدت:** حدود 14.3 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=HjcEJtrZ4zg)  
+  ![](https://i.ytimg.com/vi/HjcEJtrZ4zg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:15:37 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
+  **مدت:** حدود 12.5 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=TmyIWyEr9wA)  
+  ![](https://i.ytimg.com/vi/TmyIWyEr9wA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:15:03 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
+  **مدت:** حدود 25.1 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=9-wP6MtuX4g)  
+  ![](https://i.ytimg.com/vi/9-wP6MtuX4g/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:03:27 (UTC) — **کانال:** [Footballforlife](https://www.youtube.com/channel/UCbilwCSmTYeDnv1G0p_sYzA)  
+  **مدت:** حدود 22.2 دقیقه  
+  **عنوان:** [fortniite with music idc if i get copyrighted(with no talking](https://www.youtube.com/watch?v=5MOeVQOrasc)  
+  ![](https://i.ytimg.com/vi/5MOeVQOrasc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:01:31 (UTC) — **کانال:** [MorningMoth](https://www.youtube.com/channel/UCCkueTYAJ4AKv8zmdQrqN7w)  
+  **مدت:** حدود 38.9 دقیقه  
+  **عنوان:** [Duck Side of the Moon Demo | No Talking | Background Video Game ASMR](https://www.youtube.com/watch?v=ion2OsRMK8g)  
+  ![](https://i.ytimg.com/vi/ion2OsRMK8g/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:00:34 (UTC) — **کانال:** [Makeup & Makeup Things](https://www.youtube.com/channel/UCj3o8xvKiu5ynZAXhl9V1kg)  
+  **مدت:** حدود 63.9 دقیقه  
+  **عنوان:** [ASMR Makeup Compilation For Sleep | 1 hour (No Talking) 🎨 Relaxing and Visually Pleasing Sound](https://www.youtube.com/watch?v=uvXVLDiL3X0)  
+  ![](https://i.ytimg.com/vi/uvXVLDiL3X0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 11:45:07 (UTC) — **کانال:** [村花爱美食](https://www.youtube.com/channel/UCKME5ys0BBX-rcJN7466pDQ)  
+  **مدت:** حدود 24.1 دقیقه  
+  **عنوان:** [먹방 ASMR 🍗🔥 Crunchy Eating Sounds NO TALKING Mukbang 美味しい食べ物 😋🔥  #asmr  #vlog30](https://www.youtube.com/watch?v=Q407IC9XEgk)  
+  ![](https://i.ytimg.com/vi/Q407IC9XEgk/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 11:30:21 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
+  **مدت:** حدود 14.8 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=OjNBH2-AnEY)  
+  ![](https://i.ytimg.com/vi/OjNBH2-AnEY/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 11:00:06 (UTC) — **کانال:** [MINEE EATS](https://www.youtube.com/channel/UCc7v5yYC_mviB1_fLuB-GRw)  
+  **مدت:** حدود 7.5 دقیقه  
+  **عنوان:** [ASMR Giant Rice Cakes Garaetteok Tteokbokki | Eating Sounds Mukbang No Talking](https://www.youtube.com/watch?v=1a9Lf0Q762M)  
+  ![](https://i.ytimg.com/vi/1a9Lf0Q762M/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:50:00 (UTC) — **کانال:** [洋妮爱吃冰OfficialChannel](https://www.youtube.com/channel/UCxaZBBDU01_VbJva9HTTVKg)  
+  **مدت:** حدود 21.7 دقیقه  
+  **عنوان:** [氷ASMR❄️ 超爽快バリバリ咀嚼音！NO TALKING Ice Mukbang 먹방 🤯🔥 #asmr #vlog30](https://www.youtube.com/watch?v=JnExLfO7Rj8)  
+  ![](https://i.ytimg.com/vi/JnExLfO7Rj8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:45:31 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=XxAvqy0JGRA)  
+  ![](https://i.ytimg.com/vi/XxAvqy0JGRA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:40:00 (UTC) — **کانال:** [Juan Zi OfficialChannel  ](https://www.youtube.com/channel/UCRgSMu85QGymKO9KzQZf4rA)  
+  **مدت:** حدود 20.3 دقیقه  
+  **عنوان:** [먹방 ASMR 🍗🔥 미친 바삭 소리! Crunchy Eating Sounds NO TALKING 美味しい料理 😍🔥  #mukbang #vlog30](https://www.youtube.com/watch?v=FSJbzP2j_y4)  
+  ![](https://i.ytimg.com/vi/FSJbzP2j_y4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:34:43 (UTC) — **کانال:** [Unique Asmr](https://www.youtube.com/channel/UCa3iK5Ey5HIJTpt81q5oMtg)  
+  **مدت:** حدود 9.0 دقیقه  
+  **عنوان:** [No Talking |Mud Dirt Dry Pot Floor Crumbling |Damp Mud](https://www.youtube.com/watch?v=DSMqYMfAItg)  
+  ![](https://i.ytimg.com/vi/DSMqYMfAItg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:30:30 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
+  **مدت:** حدود 17.0 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=otaDguxryPM)  
+  ![](https://i.ytimg.com/vi/otaDguxryPM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:30:18 (UTC) — **کانال:** [Fruit Makeup ASMR](https://www.youtube.com/channel/UCuyunAgSBhXj5K5H6_X_JJg)  
+  **مدت:** حدود 19.5 دقیقه  
+  **عنوان:** [ASMR Makeup on Watermelon (No Talking)](https://www.youtube.com/watch?v=_m3VLI3LumY)  
+  ![](https://i.ytimg.com/vi/_m3VLI3LumY/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:23:11 (UTC) — **کانال:** [Level Up Lounge ](https://www.youtube.com/channel/UCbv7tqwywPWYu4lHk1Cy2JA)  
+  **مدت:** حدود 21.7 دقیقه  
+  **عنوان:** [UNSTOPPABLE! 🐍 Snake Clash .io Max Level 999+ Explosion! | Gameplay (No Talking) #snakeclash](https://www.youtube.com/watch?v=IsaEtKXnVKg)  
+  ![](https://i.ytimg.com/vi/IsaEtKXnVKg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:21:33 (UTC) — **کانال:** [LAW | Laura A Washington ](https://www.youtube.com/channel/UCP8LRpwvvJHbJhf5vvFtk0w)  
+  **مدت:** حدود 20.4 دقیقه  
+  **عنوان:** [HIIT | 20 MIN | INTERMEDIATE- ADVANCED | NO EQUIPMENT| NO TALKING | HOME FITNESS | LAW ](https://www.youtube.com/watch?v=PeaMzUCKVpg)  
+  ![](https://i.ytimg.com/vi/PeaMzUCKVpg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:19:03 (UTC) — **کانال:** [Ameera Fruit ASMR](https://www.youtube.com/channel/UC1Dvbyg0LIX3SYVyJ9s1WSA)  
+  **مدت:** حدود 660.1 دقیقه  
+  **عنوان:** [Relaxing Fruit Slicing Sounds – Watermelon, Mango, Orange & Strawberry | No Talking ASMR](https://www.youtube.com/watch?v=Eb-3Zh7lJss)  
+  ![](https://i.ytimg.com/vi/Eb-3Zh7lJss/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:15:23 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=IZn0Vip3Q_o)  
+  ![](https://i.ytimg.com/vi/IZn0Vip3Q_o/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:05:00 (UTC) — **کانال:** [CrazyHoles](https://www.youtube.com/channel/UChJV7dciiCIu-Kb4STJ-VDw)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [Hole.io - Insane Hole Evolution #34 | Pure Gameplay ( NO TALKING, JUST ACTION)](https://www.youtube.com/watch?v=1wAdGIZzGRs)  
+  ![](https://i.ytimg.com/vi/1wAdGIZzGRs/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:01:09 (UTC) — **کانال:** [SOAP SEKKEN ASMR](https://www.youtube.com/channel/UCGEciAaMFH5RdEyLnuyymew)  
+  **مدت:** حدود 4.6 دقیقه  
+  **عنوان:** [ASMR SOAP UNPACKING / Leisurely Unpacking Soap / ASMR soap opening no talking no music](https://www.youtube.com/watch?v=f6NPgWe86cg)  
+  ![](https://i.ytimg.com/vi/f6NPgWe86cg/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:00:47 (UTC) — **کانال:** [ASMR Dan](https://www.youtube.com/channel/UCQGyUxDTKORC90a4U6SuwNQ)  
+  **مدت:** حدود 6.3 دقیقه  
+  **عنوان:** [ASMR SPICY PEPPERONI SALAMI BAGUETTE (EATING SOUNDS) NO TALKING MUKBANG](https://www.youtube.com/watch?v=Oh5nqcagSzM)  
+  ![](https://i.ytimg.com/vi/Oh5nqcagSzM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:00:30 (UTC) — **کانال:** [ASMR DYSAIRE](https://www.youtube.com/channel/UCK-9iSuy578H1IHqzRGNsDw)  
+  **مدت:** حدود 63.7 دقیقه  
+  **عنوان:** [1HOUR ASMR SCRATCHING w/ VARIATIONS (Layered Triggers) - NO TALKING](https://www.youtube.com/watch?v=Bl1QTZFByFQ)  
+  ![](https://i.ytimg.com/vi/Bl1QTZFByFQ/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:00:20 (UTC) — **کانال:** [Cambria DeVries](https://www.youtube.com/channel/UC3aQ09c7T7LCadrWW8tB8sQ)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [WHITE CHOCOLATE ICHIGO DAIFUKU MUKBANG! (Vegan) (No Talking)](https://www.youtube.com/watch?v=E8jdbXrDF30)  
+  ![](https://i.ytimg.com/vi/E8jdbXrDF30/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 10:00:05 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
+  **مدت:** حدود 16.5 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=arrZCSsO9IU)  
+  ![](https://i.ytimg.com/vi/arrZCSsO9IU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 09:36:21 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
+  **مدت:** حدود 46.9 دقیقه  
+  **عنوان:** [Soap opening HAUL. Unpacking soap. No talking. Satisfying ASMR video 🧼🩷](https://www.youtube.com/watch?v=k74WJLvPlDY)  
+  ![](https://i.ytimg.com/vi/k74WJLvPlDY/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 09:30:07 (UTC) — **کانال:** [hunting devil snails](https://www.youtube.com/channel/UCg_xdaBOBDGQ1yfrbb7M5mw)  
+  **مدت:** حدود 9.3 دقیقه  
+  **عنوان:** [ASMR  - Satisfying Barnacle Removal | No Talking 7](https://www.youtube.com/watch?v=IT7-KvXlPKc)  
+  ![](https://i.ytimg.com/vi/IT7-KvXlPKc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 09:19:29 (UTC) — **کانال:** [Riley__vr](https://www.youtube.com/channel/UCpm1The1wnEQXF2J2CU8dOQ)  
+  **مدت:** حدود 65.9 دقیقه  
+  **عنوان:** [SubNautica  (but no talking)](https://www.youtube.com/watch?v=DwfJEfr9CEA)  
+  ![](https://i.ytimg.com/vi/DwfJEfr9CEA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 09:15:58 (UTC) — **کانال:** [In The Rough](https://www.youtube.com/channel/UCFZp2UXxHU87bdNSCsg_L7g)  
+  **مدت:** حدود 47.0 دقیقه  
+  **عنوان:** [Building a Vinyl Cabinet From a Bowling Alley | No Music, No Talking](https://www.youtube.com/watch?v=l5aBJBpY69k)  
+  ![](https://i.ytimg.com/vi/l5aBJBpY69k/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 09:00:31 (UTC) — **کانال:** [Blue Rose Healing: Deep Sleep Music](https://www.youtube.com/channel/UC0iRIlsnhGJW0Odt0kHf-Jw)  
+  **مدت:** حدود 138.4 دقیقه  
+  **عنوان:** [🌛【No Talking】After a Long Day | Midnight Coffee Calm with Ocean Waves & Lofi for Deep Sleep](https://www.youtube.com/watch?v=D7fkGq8wlv0)  
+  ![](https://i.ytimg.com/vi/D7fkGq8wlv0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 09:00:12 (UTC) — **کانال:** [ASMR Julietta](https://www.youtube.com/channel/UC6jSjladZwcJhu54iLyQhIQ)  
+  **مدت:** حدود 30.0 دقیقه  
+  **عنوان:** [ASMR Brain Massage 🧠 (No Talking)](https://www.youtube.com/watch?v=3l24WBbjB_E)  
+  ![](https://i.ytimg.com/vi/3l24WBbjB_E/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 08:30:21 (UTC) — **کانال:** [Meerab Asmr](https://www.youtube.com/channel/UCDN4st2Il2VS72g9JSPfblg)  
+  **مدت:** حدود 8.1 دقیقه  
+  **عنوان:** [DIFFERENT MUD DIRTS SATISFYING DRY CRUMBLING || NO TALKING ASMR RELAXED SOUNDS](https://www.youtube.com/watch?v=jby_czWV-WY)  
+  ![](https://i.ytimg.com/vi/jby_czWV-WY/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 08:15:03 (UTC) — **کانال:** [ASMR Jabón Relajante](https://www.youtube.com/channel/UCEaUxP1LE16mLyVYnPhTs5g)  
+  **مدت:** حدود 16.7 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=gXbVAn4-74M)  
+  ![](https://i.ytimg.com/vi/gXbVAn4-74M/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 08:00:37 (UTC) — **کانال:** [Oddly Satisfying Soap ASMR](https://www.youtube.com/channel/UCQiUftflIJJcgdjoZ5heVTA)  
   **مدت:** حدود 4.8 دقیقه  
-  **عنوان:** [ASMR Jelly & Gummy Sweets Unboxing 🍬 Satisfying Eating Sounds No Talking](https://www.youtube.com/watch?v=3kLz3rD041Y)  
-  ![](https://i.ytimg.com/vi/3kLz3rD041Y/hqdefault.jpg)
+  **عنوان:** [ASMR Sleep No Talking Compilation | Soap Making Compilation 🧼](https://www.youtube.com/watch?v=WnCj3GfAqAk)  
+  ![](https://i.ytimg.com/vi/WnCj3GfAqAk/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 07:45:00 (UTC) — **کانال:** [ASMR Jabón Relajante](https://www.youtube.com/channel/UCEaUxP1LE16mLyVYnPhTs5g)  
+  **مدت:** حدود 16.7 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=U9Wahn7HAWU)  
+  ![](https://i.ytimg.com/vi/U9Wahn7HAWU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 07:30:27 (UTC) — **کانال:** [Sopa Soap ASMR](https://www.youtube.com/channel/UC5IyF2NukJkBAGY7xBfqivg)  
+  **مدت:** حدود 4.6 دقیقه  
+  **عنوان:** [Soap Opening | Noise ASMR | Satisfying Video | ASMR No talking](https://www.youtube.com/watch?v=sJcPu4PcqNs)  
+  ![](https://i.ytimg.com/vi/sJcPu4PcqNs/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 07:30:16 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
+  **مدت:** حدود 16.8 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=duKMKjcfYbA)  
+  ![](https://i.ytimg.com/vi/duKMKjcfYbA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 07:23:14 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
+  **مدت:** حدود 202.7 دقیقه  
+  **عنوان:** [Soap opening HAUL. Unpacking soap. No talking. Satisfying ASMR video 🧼🩷](https://www.youtube.com/watch?v=qE20CTFcwLo)  
+  ![](https://i.ytimg.com/vi/qE20CTFcwLo/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 07:11:01 (UTC) — **کانال:** [Nina Joy ASMR](https://www.youtube.com/channel/UCln-tasGugePWEiqFZ3_hcQ)  
+  **مدت:** حدود 36.1 دقیقه  
+  **عنوان:** [Sweets Unpacking ASMR 🍭 | Satisfying Video | ASMR No talking | Kinder Joy](https://www.youtube.com/watch?v=7A9CfoMJMnc)  
+  ![](https://i.ytimg.com/vi/7A9CfoMJMnc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 07:01:01 (UTC) — **کانال:** [Luna_ASMRtist2](https://www.youtube.com/channel/UC8x47cFM5GhD6Q9DJ5NnEQA)  
+  **مدت:** حدود 30.1 دقیقه  
+  **عنوان:** [ASMR Switch Case🎮 100% Scratching✨(No talking,No mouth sounds)](https://www.youtube.com/watch?v=wD-gk4w98iM)  
+  ![](https://i.ytimg.com/vi/wD-gk4w98iM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 07:00:43 (UTC) — **کانال:** [Halya Driver](https://www.youtube.com/channel/UCzOXIhSAY6Xtd2APZ4K6h2g)  
+  **مدت:** حدود 8.7 دقیقه  
+  **عنوان:** [ASMR Manual Shifting Sounds (No Talking)](https://www.youtube.com/watch?v=oit_Cd23CgQ)  
+  ![](https://i.ytimg.com/vi/oit_Cd23CgQ/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 07:00:35 (UTC) — **کانال:** [Kalkis](https://www.youtube.com/channel/UCcq5SwavhHLKGEqOpXMHeTg)  
+  **مدت:** حدود 12.1 دقیقه  
+  **عنوان:** [Wanderburg 【 #Wanderburg 】Gameplay Español - No talking](https://www.youtube.com/watch?v=_A_c4JIQFqA)  
+  ![](https://i.ytimg.com/vi/_A_c4JIQFqA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 07:00:21 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
+  **مدت:** حدود 17.5 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=OkxBJVSwQCc)  
+  ![](https://i.ytimg.com/vi/OkxBJVSwQCc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 07:00:19 (UTC) — **کانال:** [ASMR Jabón Relajante](https://www.youtube.com/channel/UCEaUxP1LE16mLyVYnPhTs5g)  
+  **مدت:** حدود 16.8 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=P1cxEBMOC_I)  
+  ![](https://i.ytimg.com/vi/P1cxEBMOC_I/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 07:00:10 (UTC) — **کانال:** [Kalkis](https://www.youtube.com/channel/UCcq5SwavhHLKGEqOpXMHeTg)  
+  **مدت:** حدود 18.7 دقیقه  
+  **عنوان:** [variadas【  #phasmophobia #317 】Gameplay Español - No talking](https://www.youtube.com/watch?v=5JmPjLMOVK4)  
+  ![](https://i.ytimg.com/vi/5JmPjLMOVK4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 07:00:00 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
+  **مدت:** حدود 18.3 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=oD1etWKRSPc)  
+  ![](https://i.ytimg.com/vi/oD1etWKRSPc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 06:45:01 (UTC) — **کانال:** [Colorful Tones Studio](https://www.youtube.com/channel/UCH3lQYKSedExY8eP3-7fLZw)  
+  **مدت:** حدود 6.7 دقیقه  
+  **عنوان:** [The Motown Sound: Acustica Audio RUST 2 | No Talking Playthrough](https://www.youtube.com/watch?v=4MtZc1XGJz4)  
+  ![](https://i.ytimg.com/vi/4MtZc1XGJz4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 06:45:00 (UTC) — **کانال:** [ASMR Jabón Relajante](https://www.youtube.com/channel/UCEaUxP1LE16mLyVYnPhTs5g)  
+  **مدت:** حدود 17.4 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=-m61A4TtifE)  
+  ![](https://i.ytimg.com/vi/-m61A4TtifE/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 06:30:24 (UTC) — **کانال:** [ASMR Jabón Relajante](https://www.youtube.com/channel/UCEaUxP1LE16mLyVYnPhTs5g)  
+  **مدت:** حدود 18.4 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=rITUEryF_QY)  
+  ![](https://i.ytimg.com/vi/rITUEryF_QY/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 06:23:31 (UTC) — **کانال:** [BRS2 tv](https://www.youtube.com/channel/UCit4jg_J_rdlNTBMxpq9UYQ)  
+  **مدت:** حدود 174.4 دقیقه  
+  **عنوان:** [SOAP opening HAUL /Unpacking soap | Распаковка мыла | Notalking | ASMR SOAP](https://www.youtube.com/watch?v=WYlk8aoyuc4)  
+  ![](https://i.ytimg.com/vi/WYlk8aoyuc4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 06:08:00 (UTC) — **کانال:** [Random Soaps](https://www.youtube.com/channel/UCs67rkIuSZKisp33Fs_Lccg)  
+  **مدت:** حدود 7.2 دقیقه  
+  **عنوان:** [Pure Soap Opening 🧼 | Oddly Satisfying Calm Sounds | No Talking](https://www.youtube.com/watch?v=fCBWIO7LXUo)  
+  ![](https://i.ytimg.com/vi/fCBWIO7LXUo/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 06:00:32 (UTC) — **کانال:** [ASMR Jabón Relajante](https://www.youtube.com/channel/UCEaUxP1LE16mLyVYnPhTs5g)  
+  **مدت:** حدود 17.8 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=U5x_PzX4GQI)  
+  ![](https://i.ytimg.com/vi/U5x_PzX4GQI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 06:00:19 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
+  **مدت:** حدود 17.9 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=PLYlbIUc4fs)  
+  ![](https://i.ytimg.com/vi/PLYlbIUc4fs/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 06:00:14 (UTC) — **کانال:** [Oddly Satisfying Soap ASMR](https://www.youtube.com/channel/UCQiUftflIJJcgdjoZ5heVTA)  
+  **مدت:** حدود 4.8 دقیقه  
+  **عنوان:** [ASMR Sleep No Talking Compilation | Soap Making Compilation 🧼](https://www.youtube.com/watch?v=8hqSJ3WhCg4)  
+  ![](https://i.ytimg.com/vi/8hqSJ3WhCg4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:45:18 (UTC) — **کانال:** [Relajante Jabón ASMR](https://www.youtube.com/channel/UCwF5zaB3v-CnuWWusS6hFmQ)  
+  **مدت:** حدود 21.5 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=DYYXJ1phDMw)  
+  ![](https://i.ytimg.com/vi/DYYXJ1phDMw/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:45:00 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
+  **مدت:** حدود 11.3 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=6Z9__f4A0F4)  
+  ![](https://i.ytimg.com/vi/6Z9__f4A0F4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:36:28 (UTC) — **کانال:** [Nina Joy ASMR](https://www.youtube.com/channel/UCln-tasGugePWEiqFZ3_hcQ)  
+  **مدت:** حدود 34.7 دقیقه  
+  **عنوان:** [Sweets Unpacking ASMR 🍭 | Satisfying Video | ASMR No talking | Kinder Joy](https://www.youtube.com/watch?v=Ld5SMuImVTA)  
+  ![](https://i.ytimg.com/vi/Ld5SMuImVTA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:33:24 (UTC) — **کانال:** [ASMR Kelo ](https://www.youtube.com/channel/UC2pHiD_DAlLqUCWn7RO9jBA)  
+  **مدت:** حدود 9.4 دقیقه  
+  **عنوان:** [ASMR Cologne Unboxing 👃😴 (Super relaxing)](https://www.youtube.com/watch?v=2nWEUFcapW0)  
+  ![](https://i.ytimg.com/vi/2nWEUFcapW0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:30:33 (UTC) — **کانال:** [ASMR Jabón Relajante](https://www.youtube.com/channel/UCEaUxP1LE16mLyVYnPhTs5g)  
+  **مدت:** حدود 24.1 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=td5qHFW2vOw)  
+  ![](https://i.ytimg.com/vi/td5qHFW2vOw/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:30:31 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
+  **مدت:** حدود 19.6 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=rEa5Bmad--w)  
+  ![](https://i.ytimg.com/vi/rEa5Bmad--w/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:30:02 (UTC) — **کانال:** [FindingAura](https://www.youtube.com/channel/UCpO56yhCa1VQCPUcPM_kIRw)  
+  **مدت:** حدود 302.4 دقیقه  
+  **عنوان:** [Calming Beach Sounds ASMR | 6 Hours Deep Sleep White Noise (No Talking)](https://www.youtube.com/watch?v=vaFGo7LNx78)  
+  ![](https://i.ytimg.com/vi/vaFGo7LNx78/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:25:42 (UTC) — **کانال:** [CNOTE ASMR](https://www.youtube.com/channel/UC501qZz5s0RbPcchoGiFofg)  
+  **مدت:** حدود 26.1 دقیقه  
+  **عنوان:** [ASMR | You Don’t Have to Fix Everything Tonight](https://www.youtube.com/watch?v=SexggMuFbUc)  
+  ![](https://i.ytimg.com/vi/SexggMuFbUc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:22:18 (UTC) — **کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
+  **مدت:** حدود 8.4 دقیقه  
+  **عنوان:** [【ASMR】DIY Kitty’s Bakery Sticker Scene | No Talking Paper Sounds | Cozy Sale Day 🥐🎀](https://www.youtube.com/watch?v=ATjofahxGQs)  
+  ![](https://i.ytimg.com/vi/ATjofahxGQs/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:21:35 (UTC) — **کانال:** [B Mukbang](https://www.youtube.com/channel/UCZoCpfdIiUJJU3-30xbQGBA)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [ASMR Braised PORK BELLY MUKBANG | Extremely Soft & Juicy Sounds (No Talking)](https://www.youtube.com/watch?v=4AIX79nRstM)  
+  ![](https://i.ytimg.com/vi/4AIX79nRstM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:15:01 (UTC) — **کانال:** [ASMR Soap Relaxing](https://www.youtube.com/channel/UCVMKsogh6CeRHJf7ryXrbCw)  
+  **مدت:** حدود 14.5 دقیقه  
+  **عنوان:** [Soap opening Haul | Leisurely unpacking Soap | no talking no music | Soap ASMR 🧼🩷](https://www.youtube.com/watch?v=5SGoivH-V2o)  
+  ![](https://i.ytimg.com/vi/5SGoivH-V2o/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:01:01 (UTC) — **کانال:** [The Study Corner](https://www.youtube.com/channel/UCX9fJ2OxjUCuG58EaisE4cQ)  
+  **مدت:** حدود 61.2 دقیقه  
+  **عنوان:** [Study With Me | 1 Hour | Rain Sounds & Writing | No Talking](https://www.youtube.com/watch?v=uQaeLdGG9Wc)  
+  ![](https://i.ytimg.com/vi/uQaeLdGG9Wc/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 05:00:55 (UTC) — **کانال:** [Sophie Rey Art, Somatics & Yoga](https://www.youtube.com/channel/UCl8EIq-JLoeqRzIJSZBw-mA)  
+  **مدت:** حدود 23.4 دقیقه  
+  **عنوان:** [Art Journaling Through Anxiety | Quiet Creative Healing (No talking, relaxing music)](https://www.youtube.com/watch?v=v9iRO-RtyXQ)  
+  ![](https://i.ytimg.com/vi/v9iRO-RtyXQ/hqdefault.jpg)

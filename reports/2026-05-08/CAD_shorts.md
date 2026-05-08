@@ -1,68 +1,118 @@
 # ویدیوهای CAD Design — ویدیوهای کوتاه (Shorts، کمتر از 60 ثانیه)
 
-_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-08T10:00:09Z_
+_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-08T16:41:53Z_
 
-- **تاریخ انتشار:** 2026-05-08 09:48:51 (UTC) — **کانال:** [Arch__sk](https://www.youtube.com/channel/UCrNr9iJnJbA2UoRhxgQ0syA)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [er suresh kumar , 📞-9914172366. 3d elevations & planning #viral #youtubeshorts #home #construction](https://www.youtube.com/watch?v=_IKtfhH82gM)  
-  ![](https://i.ytimg.com/vi/_IKtfhH82gM/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 09:46:19 (UTC) — **کانال:** [Evika Design Studio](https://www.youtube.com/channel/UCPU2NLwTjSfm5_ns7BZT8tw)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [How to Choose the Right Contractor | Evika Design Studio #buildingdreams #civilengineering #home](https://www.youtube.com/watch?v=ztpPO78vcsA)  
-  ![](https://i.ytimg.com/vi/ztpPO78vcsA/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 09:25:58 (UTC) — **کانال:** [ES (ENGINEERING SOLUTIONS)](https://www.youtube.com/channel/UCRj_C-6kYJCfKuV6LU54QNw)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Smart Construction Using 4D & 5D BIM #bim #civilengineering, Navisworks Manage](https://www.youtube.com/watch?v=o5czAajGT2I)  
-  ![](https://i.ytimg.com/vi/o5czAajGT2I/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 09:15:09 (UTC) — **کانال:** [Ajay infrastructures](https://www.youtube.com/channel/UCRpaFrXXCk0EVS5EuScxq5g)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Modern Villa Design And Construction By Ajay Infras #ArchitectureDesign #LuxuryHomes  #dreamhome](https://www.youtube.com/watch?v=r4Ccqf_ETQY)  
-  ![](https://i.ytimg.com/vi/r4Ccqf_ETQY/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 08:30:26 (UTC) — **کانال:** [SKP CONSTRUCTIONS ](https://www.youtube.com/channel/UCLBB3zbwoQg_2yap05TVb6w)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [👉"Comment your plot size, I'll make a plan for you" 👇#constructionindia #construction #homeideas](https://www.youtube.com/watch?v=WwCrHI63ti0)  
-  ![](https://i.ytimg.com/vi/WwCrHI63ti0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 08:00:19 (UTC) — **کانال:** [Tạp Hoá Hàng Ngày](https://www.youtube.com/channel/UCwR0UZs5GEqNHznXDqRcMPg)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Bộ Xây dựng duyệt quy hoạch sân bay thứ 2 ở Khánh Hòa #tintuc](https://www.youtube.com/watch?v=JsKpXlFxdbg)  
-  ![](https://i.ytimg.com/vi/JsKpXlFxdbg/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 07:10:35 (UTC) — **کانال:** [Grid Space Architects & Structural Engineers](https://www.youtube.com/channel/UCyPh6qkK3Xt1MUlJDSfbjXw)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [House Construction Update | Concrete Work Process | Modern Home Architecture Kerala](https://www.youtube.com/watch?v=2VYnVxFZRz0)  
-  ![](https://i.ytimg.com/vi/2VYnVxFZRz0/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-08 05:23:50 (UTC) — **کانال:** [Srahaus Homes Ltd](https://www.youtube.com/channel/UCVm70248aTqDHOj3oTNQxWw)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Spring Is the Right Time to Plan Your Build or Renovation](https://www.youtube.com/watch?v=aJIpDZQTe0g)  
-  ![](https://i.ytimg.com/vi/aJIpDZQTe0g/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 18:05:03 (UTC) — **کانال:** [Chicago Commercial Fencing](https://www.youtube.com/channel/UC4TyPvspcivQyFWABfrc0tw)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [3 planning misses that make May chain link jobs harder fast](https://www.youtube.com/watch?v=LcZiKL5FYVk)  
-  ![](https://i.ytimg.com/vi/LcZiKL5FYVk/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 17:59:36 (UTC) — **کانال:** [КейСтрой - строительная компания в СПБ и МСК](https://www.youtube.com/channel/UCvv4ao_OjES8kCfOzGo-Srw)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Купил участок, а строиться нельзя..](https://www.youtube.com/watch?v=Tj8G201wgbs)  
-  ![](https://i.ytimg.com/vi/Tj8G201wgbs/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 17:05:31 (UTC) — **کانال:** [PCL Construction](https://www.youtube.com/channel/UC5fTxcLSBd-Z4MDk9u7Fjnw)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Myth: Construction Isn’t Safe? Think Again. | Myths Busted](https://www.youtube.com/watch?v=B-QyvOsmalA)  
-  ![](https://i.ytimg.com/vi/B-QyvOsmalA/hqdefault.jpg)
-
-- **تاریخ انتشار:** 2026-05-07 12:07:08 (UTC) — **کانال:** [LAVANYA HOMEZ](https://www.youtube.com/channel/UCa7KF86AovkTe7qA5AW-gMw)  
+- **تاریخ انتشار:** 2026-05-08 15:01:00 (UTC) — **کانال:** [BuildDay Pro](https://www.youtube.com/channel/UCHcA_ltztZWL1T3kC6TDNzQ)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [How Lavanya Homez Builds Premium Homes | Real Site Understanding](https://www.youtube.com/watch?v=WY9Q-0I0-z0)  
-  ![](https://i.ytimg.com/vi/WY9Q-0I0-z0/hqdefault.jpg)
+  **عنوان:** [Bricklaying ASMR | BuildDay Pro 12](https://www.youtube.com/watch?v=R-L4Rt-mPyU)  
+  ![](https://i.ytimg.com/vi/R-L4Rt-mPyU/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-07 12:06:32 (UTC) — **کانال:** [Lark Engineering Construction](https://www.youtube.com/channel/UCYHca3QmU0HfsxHZbuky5oA)  
+- **تاریخ انتشار:** 2026-05-08 14:45:37 (UTC) — **کانال:** [OB Construction LLC](https://www.youtube.com/channel/UCAFxCrie7YvScgE0tJwXIqg)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Why Some Projects Go Over Budget D](https://www.youtube.com/watch?v=JL2xOtm7mh8)  
+  ![](https://i.ytimg.com/vi/JL2xOtm7mh8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 14:43:19 (UTC) — **کانال:** [Shoukat Awan & co.](https://www.youtube.com/channel/UCBNINZrTKP1DsYY81j7ECuw)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Why Construction Projects Get Delayed & How We Avoid It #shoukatawanandco #construction](https://www.youtube.com/watch?v=H1bfLwbEuE8)  
+  ![](https://i.ytimg.com/vi/H1bfLwbEuE8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 14:30:46 (UTC) — **کانال:** [Levenus BuildVerse 23](https://www.youtube.com/channel/UC7lcGimR9u5LYIg7ciIAMhA)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Planning to Build Your Dream Home?#DreamHome #HomeConstruction #InteriorDesign #modernhouse #Levenus](https://www.youtube.com/watch?v=wtGgo8L91XA)  
+  ![](https://i.ytimg.com/vi/wtGgo8L91XA/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 14:01:34 (UTC) — **کانال:** [BuildDay Pro](https://www.youtube.com/channel/UCHcA_ltztZWL1T3kC6TDNzQ)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Bricklaying ASMR | BuildDay Pro 11](https://www.youtube.com/watch?v=qFkoVLk3D9Q)  
+  ![](https://i.ytimg.com/vi/qFkoVLk3D9Q/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 13:30:22 (UTC) — **کانال:** [SKP CONSTRUCTIONS ](https://www.youtube.com/channel/UCLBB3zbwoQg_2yap05TVb6w)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How Renovation Starts | Civil Engineering Process in UAE #construction #buildingservicesengineering](https://www.youtube.com/watch?v=pPNsXJymrpQ)  
-  ![](https://i.ytimg.com/vi/pPNsXJymrpQ/hqdefault.jpg)
+  **عنوان:** [👉"Comment your plot size, I'll make a plan for you" 👇#constructionindia #construction #homeideas](https://www.youtube.com/watch?v=OOSmxgGLSNw)  
+  ![](https://i.ytimg.com/vi/OOSmxgGLSNw/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 13:28:36 (UTC) — **کانال:** [Pandey Construction Company](https://www.youtube.com/channel/UCB5AlT7NMFxH1Xg0gj1T6GA)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [4 Essential Tips for Building Your Dream Home | P.C.C. Group](https://www.youtube.com/watch?v=4r5zi-3POto)  
+  ![](https://i.ytimg.com/vi/4r5zi-3POto/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 13:01:41 (UTC) — **کانال:** [BuildDay Pro](https://www.youtube.com/channel/UCHcA_ltztZWL1T3kC6TDNzQ)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Bricklaying ASMR | BuildDay Pro 10](https://www.youtube.com/watch?v=sAyFxkl2tHM)  
+  ![](https://i.ytimg.com/vi/sAyFxkl2tHM/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:42:09 (UTC) — **کانال:** [Madhuri Singh Designs](https://www.youtube.com/channel/UCt7zwacfTOC3PSXO2PXmqbQ)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Flower Valley, Central Park | G+4 Building](https://www.youtube.com/watch?v=I9TC10Vmzb0)  
+  ![](https://i.ytimg.com/vi/I9TC10Vmzb0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:30:43 (UTC) — **کانال:** [JV Engineers](https://www.youtube.com/channel/UCSvJ9KyP_dcFiVhlIzI6ptw)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [Best 25'x40' House Design with Vastu | 2BHK Modern Home Plan - JV ENGINEERS #homeplan #houseplan](https://www.youtube.com/watch?v=XZbwFPAg-WI)  
+  ![](https://i.ytimg.com/vi/XZbwFPAg-WI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:28:25 (UTC) — **کانال:** [Siraat Construction ](https://www.youtube.com/channel/UCYJZyOOLx-KVKvNYfFMXqgg)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [🏗️ Latest Construction Work Update 🚧📍 Precinct 16 | Plot No. 1200 | Siraat Construction](https://www.youtube.com/watch?v=uQvDWA0b5c0)  
+  ![](https://i.ytimg.com/vi/uQvDWA0b5c0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:27:27 (UTC) — **کانال:** [Singla Builders & Contractors](https://www.youtube.com/channel/UCEYwvIYdeQUKWmXRDWNs0sQ)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Building a home is a dream… but small mistakes can lead to big problems](https://www.youtube.com/watch?v=6muzebAevrI)  
+  ![](https://i.ytimg.com/vi/6muzebAevrI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:11:29 (UTC) — **کانال:** [MAA Groups](https://www.youtube.com/channel/UCagZV42-Kp0UQXM3E8FDxzw)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [10 Construction Must-Haves Before You Build! 🏗️ #Shorts #home #fyp #trending #today](https://www.youtube.com/watch?v=47yz0vN9dgI)  
+  ![](https://i.ytimg.com/vi/47yz0vN9dgI/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 12:00:32 (UTC) — **کانال:** [BuildDay Pro](https://www.youtube.com/channel/UCHcA_ltztZWL1T3kC6TDNzQ)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Bricklaying ASMR | BuildDay Pro 09](https://www.youtube.com/watch?v=Coinugb4gq8)  
+  ![](https://i.ytimg.com/vi/Coinugb4gq8/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 11:41:54 (UTC) — **کانال:** [Dot.Properties official](https://www.youtube.com/channel/UCjtTQLxtDsvDVs3OoO87dgQ)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [8 May 2026](https://www.youtube.com/watch?v=R2yCv8jhMOU)  
+  ![](https://i.ytimg.com/vi/R2yCv8jhMOU/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 11:03:57 (UTC) — **کانال:** [Madilu Construction](https://www.youtube.com/channel/UCIv9g2Uo9AgxGHi0fjPqAaA)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Why You Need an Engineer Before Building a Home | Smart Construction Planning | Madilu Construction](https://www.youtube.com/watch?v=TuMShDBBN0o)  
+  ![](https://i.ytimg.com/vi/TuMShDBBN0o/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 03:33:07 (UTC) — **کانال:** [WOODSHOP CRAFT](https://www.youtube.com/channel/UCiFAOZejqIQlv9glSsJoUbQ)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Extreme Catamaran Hull Build from Scratch with Plans](https://www.youtube.com/watch?v=WJxwrnsnXeQ)  
+  ![](https://i.ytimg.com/vi/WJxwrnsnXeQ/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 02:00:48 (UTC) — **کانال:** [Andrew Lee - Living in Melaka](https://www.youtube.com/channel/UC2xUBgnKfZhC_MjpcOstgHA)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Surrounding Development Check](https://www.youtube.com/watch?v=ugOAj4Uup-0)  
+  ![](https://i.ytimg.com/vi/ugOAj4Uup-0/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-08 00:00:37 (UTC) — **کانال:** [Thầy Tuấn Phong Thuỷ](https://www.youtube.com/channel/UCTE_yhChqYbRB0uXvydHuUg)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Bố Trí Phong THuỷ Đặt Bếp Khi Xây Nhà](https://www.youtube.com/watch?v=V3fJ-pKX2o4)  
+  ![](https://i.ytimg.com/vi/V3fJ-pKX2o4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-07 22:02:23 (UTC) — **کانال:** [Battlefield Decks & Patios](https://www.youtube.com/channel/UCffeVwhIbJzOpjsiGY4Yixw)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** ["36 inches is standard. But 40 inches makes sense."](https://www.youtube.com/watch?v=3uisEGdFf24)  
+  ![](https://i.ytimg.com/vi/3uisEGdFf24/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-07 21:15:00 (UTC) — **کانال:** [Africa Xposed](https://www.youtube.com/channel/UCWAGskaqB0ZGoDCQwr2Bxzg)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Burkina new Town Plan #plolumumba #shorts #africa  #viral](https://www.youtube.com/watch?v=9L-6RdA8am4)  
+  ![](https://i.ytimg.com/vi/9L-6RdA8am4/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-07 19:00:00 (UTC) — **کانال:** [propertyexpert](https://www.youtube.com/channel/UCFG-GrcZc_o6PEef9yNuP6Q)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [DHA Phase 7 Bougainvillea Block Development Update](https://www.youtube.com/watch?v=nq0UVyleu3A)  
+  ![](https://i.ytimg.com/vi/nq0UVyleu3A/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-07 16:58:23 (UTC) — **کانال:** [Jeff Dumas Concrete Construction](https://www.youtube.com/channel/UCQlk_pD1XyQYOqamx_lZRFQ)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Running double production with our aluminum form system #drone #construction #foundation #concrete](https://www.youtube.com/watch?v=fuUaHfqA2EM)  
+  ![](https://i.ytimg.com/vi/fuUaHfqA2EM/hqdefault.jpg)

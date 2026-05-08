@@ -1,23 +1,28 @@
 # ویدیوهای CAD Design — ویدیوهای معمولی (بیش از ۴ دقیقه)
 
-_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-08T10:00:09Z_
+_بازه‌ی جستجو: ۲۴ ساعت گذشته تا 2026-05-08T16:41:53Z_
 
-- **تاریخ انتشار:** 2026-05-07 20:31:36 (UTC) — **کانال:** [AES Construction Intelligence](https://www.youtube.com/channel/UC-iS9TntWptoaiJreMxS1AQ)  
-  **مدت:** حدود 7.6 دقیقه  
-  **عنوان:** [The 5 Pillars of an Actionable Construction Loan](https://www.youtube.com/watch?v=SlHI7LwTX3Q)  
-  ![](https://i.ytimg.com/vi/SlHI7LwTX3Q/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-08 10:28:17 (UTC) — **کانال:** [马司库](https://www.youtube.com/channel/UC3411UsjUC2t-Xfr1gwIhzg)  
+  **مدت:** حدود 25.3 دقیقه  
+  **عنوان:** [【习近平地方执政档案】福州对标新加坡, 建长乐机场暴雷, 中央定性 "决策失误造成重大国有资产流失"](https://www.youtube.com/watch?v=t3pWp2aDXfE)  
+  ![](https://i.ytimg.com/vi/t3pWp2aDXfE/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-07 19:13:50 (UTC) — **کانال:** [CPWR – The Center for Construction Research and Training](https://www.youtube.com/channel/UCAC28BCIEBdALlJ8A--MhWw)  
-  **مدت:** حدود 56.8 دقیقه  
-  **عنوان:** [Fall Prevention Through Design](https://www.youtube.com/watch?v=GM_Box5Joj4)  
-  ![](https://i.ytimg.com/vi/GM_Box5Joj4/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-08 09:20:00 (UTC) — **کانال:** [Pakistan Marquee Manufacturing](https://www.youtube.com/channel/UCJ2iyIJJ0DNKeT7F7waVvyw)  
+  **مدت:** حدود 8.3 دقیقه  
+  **عنوان:** [2026 Complete Marquee Layout Plan | Front Building, Kitchen & Full Wedding Hall Design #marquee](https://www.youtube.com/watch?v=ezwF6ig11-0)  
+  ![](https://i.ytimg.com/vi/ezwF6ig11-0/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-07 15:25:02 (UTC) — **کانال:** [Earthcraft](https://www.youtube.com/channel/UCt4XhztP-4TohObzjhHX08A)  
-  **مدت:** حدود 4.7 دقیقه  
-  **عنوان:** [Episode 1: A ₹6 crore lesson from one commercial project.](https://www.youtube.com/watch?v=QCXZX3MOWjQ)  
-  ![](https://i.ytimg.com/vi/QCXZX3MOWjQ/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-08 06:00:13 (UTC) — **کانال:** [Civilizations True Face](https://www.youtube.com/channel/UCCEmatzVKx9fHYE9oqRwo6g)  
+  **مدت:** حدود 147.8 دقیقه  
+  **عنوان:** [The Mysterious Urban Planning of Mohenjo-daro - Lost Civilizations](https://www.youtube.com/watch?v=M2nIzJTc3GA)  
+  ![](https://i.ytimg.com/vi/M2nIzJTc3GA/hqdefault.jpg)
 
-- **تاریخ انتشار:** 2026-05-07 14:30:42 (UTC) — **کانال:** [TRIS Iranian lifestyle](https://www.youtube.com/channel/UCoYBnDzDTAAMi-_qWlR2JaQ)  
-  **مدت:** حدود 64.5 دقیقه  
-  **عنوان:** [Building Steps for Sister Touran's House & Garden Irrigation](https://www.youtube.com/watch?v=k-D3jgeL9NM)  
-  ![](https://i.ytimg.com/vi/k-D3jgeL9NM/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-05-08 01:46:26 (UTC) — **کانال:** [Song Collection](https://www.youtube.com/channel/UCsQMZOuVp-UJAFK7YbsRwkw)  
+  **مدت:** حدود 5.7 دقیقه  
+  **عنوان:** [Building My Dream House From Scratch](https://www.youtube.com/watch?v=z-5x5h_R6-U)  
+  ![](https://i.ytimg.com/vi/z-5x5h_R6-U/hqdefault.jpg)
+
+- **تاریخ انتشار:** 2026-05-07 19:24:32 (UTC) — **کانال:** [Things We Build](https://www.youtube.com/channel/UC4dU5ZNjF52zSBdFEnufl8A)  
+  **مدت:** حدود 11.6 دقیقه  
+  **عنوان:** [The Megaprojects That Imploded in 2025](https://www.youtube.com/watch?v=xFB891FeODk)  
+  ![](https://i.ytimg.com/vi/xFB891FeODk/hqdefault.jpg)
