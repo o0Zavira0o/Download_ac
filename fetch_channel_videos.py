@@ -57,6 +57,9 @@ CHANNELS = [
     {
         "url": "https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ",
     },
+    {
+        "url": "https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ",
+    },
     
     # https://www.youtube.com/channel/UCVc_jmqkqUNgEqBZ2pxOyyA
 
