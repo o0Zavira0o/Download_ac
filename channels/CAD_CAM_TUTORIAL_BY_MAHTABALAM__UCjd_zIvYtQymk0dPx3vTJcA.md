@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-05-08T10:46:10Z_
+_آخرین به‌روزرسانی: 2026-05-09T10:14:56Z_
 
 
 لینک کانال: [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)
+
+
+- **تاریخ انتشار:** 2026-05-08 14:50:16 (UTC)  
+  **مدت:** حدود 43.3 دقیقه  
+  **عنوان:** [SolidWorks Complex Modeling for beginners-Exercise 261](https://www.youtube.com/watch?v=rvZaBElfLQA)  
+  ![](https://i.ytimg.com/vi/rvZaBElfLQA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-06 03:30:24 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-08T10:46:10Z_
   **مدت:** حدود 39.4 دقیقه  
   **عنوان:** [SolidWorks Complex Modeling Carriage](https://www.youtube.com/watch?v=zi0YPcJDffk)  
   ![](https://i.ytimg.com/vi/zi0YPcJDffk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-25 13:31:23 (UTC)  
-  **مدت:** حدود 14.5 دقیقه  
-  **عنوان:** [Hook Modeling-SolidWorks Boundary Boss/Base](https://www.youtube.com/watch?v=TiwgB8SxA00)  
-  ![](https://i.ytimg.com/vi/TiwgB8SxA00/hqdefault.jpg)

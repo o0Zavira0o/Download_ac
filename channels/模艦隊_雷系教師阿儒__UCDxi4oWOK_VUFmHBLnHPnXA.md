@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-05-08T10:46:10Z_
+_آخرین به‌روزرسانی: 2026-05-09T10:14:56Z_
 
 
 لینک کانال: [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)
+
+
+- **تاریخ انتشار:** 2026-05-08 11:00:09 (UTC)  
+  **مدت:** حدود 14.8 دقیقه  
+  **عنوان:** [【onshape】基礎零件：支架｜薄件、布林運算應用](https://www.youtube.com/watch?v=2k91Al2Wj-k)  
+  ![](https://i.ytimg.com/vi/2k91Al2Wj-k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-06 11:00:40 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-08T10:46:10Z_
   **مدت:** حدود 0.4 دقیقه  
   **عنوان:** [短片看建模：SolidWorks零件建模程序](https://www.youtube.com/watch?v=n9n7JBupbk0)  
   ![](https://i.ytimg.com/vi/n9n7JBupbk0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-03-21 11:00:21 (UTC)  
-  **مدت:** حدود 10.6 دقیقه  
-  **عنوان:** [【onshape】超級初心者｜用特徵來解決問題｜出乎預料的簡單](https://www.youtube.com/watch?v=I-rfnzpfCUE)  
-  ![](https://i.ytimg.com/vi/I-rfnzpfCUE/hqdefault.jpg)

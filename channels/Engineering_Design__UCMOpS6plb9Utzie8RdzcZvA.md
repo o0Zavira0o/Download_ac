@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-05-08T10:46:10Z_
+_آخرین به‌روزرسانی: 2026-05-09T10:14:56Z_
 
 
 لینک کانال: [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)
+
+
+- **تاریخ انتشار:** 2026-05-08 14:50:46 (UTC)  
+  **مدت:** حدود 13.6 دقیقه  
+  **عنوان:** [Solidworks Assembly Tutorial - Rotary to Slider Mechanism](https://www.youtube.com/watch?v=QH5lZbjdKR4)  
+  ![](https://i.ytimg.com/vi/QH5lZbjdKR4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-05 12:35:05 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-08T10:46:10Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅Why Tricycles Are The Future Of Transport](https://www.youtube.com/watch?v=V0W8UTtn-Yw)  
   ![](https://i.ytimg.com/vi/V0W8UTtn-Yw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-03 12:32:58 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Egg Beaters: The Kitchen Gadget You Didn't Know You Needed](https://www.youtube.com/watch?v=EpZisOCapU4)  
-  ![](https://i.ytimg.com/vi/EpZisOCapU4/hqdefault.jpg)
