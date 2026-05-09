@@ -1,0 +1,462 @@
+# آرشیو ویدیوهای کانال Chánh Thiện Tâm
+
+_آخرین به‌روزرسانی: 2026-05-09T16:21:39Z_
+
+
+لینک کانال: [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)
+
+
+- **تاریخ انتشار:** 2026-05-09 12:07:26 (UTC)  
+  **مدت:** حدود 6.4 دقیقه  
+  **عنوان:** [Vẽ chuột máy tính Solidworks Pro](https://www.youtube.com/watch?v=Q4Q1RyKtZgc)  
+  ![](https://i.ytimg.com/vi/Q4Q1RyKtZgc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-09 00:31:26 (UTC)  
+  **مدت:** حدود 17.7 دقیقه  
+  **عنوان:** [Vẽ muỗng soldiworks](https://www.youtube.com/watch?v=6PSXW9tz4UI)  
+  ![](https://i.ytimg.com/vi/6PSXW9tz4UI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-08 02:27:36 (UTC)  
+  **مدت:** حدود 24.3 دقیقه  
+  **عنوان:** [Lập trình tiện cnc mastercam](https://www.youtube.com/watch?v=aFeU-YJlmUg)  
+  ![](https://i.ytimg.com/vi/aFeU-YJlmUg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-07 12:28:31 (UTC)  
+  **مدت:** حدود 5.7 دقیقه  
+  **عنوان:** [Phay 3d mastercam pro](https://www.youtube.com/watch?v=rblwePnpIaQ)  
+  ![](https://i.ytimg.com/vi/rblwePnpIaQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-07 00:00:16 (UTC)  
+  **مدت:** حدود 21.0 دقیقه  
+  **عنوان:** [Lập trình chi tiết mastercam 5 trục Full](https://www.youtube.com/watch?v=ivB-wjq8TxM)  
+  ![](https://i.ytimg.com/vi/ivB-wjq8TxM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-06 10:45:36 (UTC)  
+  **مدت:** حدود 12.8 دقیقه  
+  **عنوان:** [Xuất bản vẽ chi tiết Solidworks](https://www.youtube.com/watch?v=Q_VTmgUe19c)  
+  ![](https://i.ytimg.com/vi/Q_VTmgUe19c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-06 01:01:46 (UTC)  
+  **مدت:** حدود 3.6 دقیقه  
+  **عنوان:** [Vẽ bóng đá solidworks](https://www.youtube.com/watch?v=sHO1P0edGXo)  
+  ![](https://i.ytimg.com/vi/sHO1P0edGXo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-05 10:45:48 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Lập trình phay 4 trục mastercam Basic](https://www.youtube.com/watch?v=QJRz5YvN-7w)  
+  ![](https://i.ytimg.com/vi/QJRz5YvN-7w/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-05 01:05:24 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [Tách khuôn vỏ controller solidworks](https://www.youtube.com/watch?v=Y_bDXMfEXGE)  
+  ![](https://i.ytimg.com/vi/Y_bDXMfEXGE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-04 11:46:26 (UTC)  
+  **مدت:** حدود 49.8 دقیقه  
+  **عنوان:** [Phay 5 trục mastercam F1](https://www.youtube.com/watch?v=1m8urJ0IU2g)  
+  ![](https://i.ytimg.com/vi/1m8urJ0IU2g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-04 00:55:16 (UTC)  
+  **مدت:** حدود 15.0 دقیقه  
+  **عنوان:** [Xuất bản vẽ hình chiếu Solidworks](https://www.youtube.com/watch?v=3krwMXJG8Y0)  
+  ![](https://i.ytimg.com/vi/3krwMXJG8Y0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-03 11:27:06 (UTC)  
+  **مدت:** حدود 9.2 دقیقه  
+  **عنوان:** [Tạo bản vẽ A4 Solidworks](https://www.youtube.com/watch?v=b0zsAPUK8tU)  
+  ![](https://i.ytimg.com/vi/b0zsAPUK8tU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-03 03:20:00 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Mô phỏng Chim bay solidworks](https://www.youtube.com/watch?v=Xk-3-4A47GY)  
+  ![](https://i.ytimg.com/vi/Xk-3-4A47GY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-02 13:29:31 (UTC)  
+  **مدت:** حدود 9.9 دقیقه  
+  **عنوان:** [Phay cao tốc mastercam 2d high speed](https://www.youtube.com/watch?v=y8pEDj8vEig)  
+  ![](https://i.ytimg.com/vi/y8pEDj8vEig/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-02 00:43:11 (UTC)  
+  **مدت:** حدود 20.4 دقیقه  
+  **عنوان:** [Lập trình 5 trục mastercam P2](https://www.youtube.com/watch?v=xNuMU0XtfhA)  
+  ![](https://i.ytimg.com/vi/xNuMU0XtfhA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-01 10:34:41 (UTC)  
+  **مدت:** حدود 25.5 دقیقه  
+  **عنوان:** [Lập trình 5 trục mastercam P1](https://www.youtube.com/watch?v=FrCM1aU22pM)  
+  ![](https://i.ytimg.com/vi/FrCM1aU22pM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-01 01:05:51 (UTC)  
+  **مدت:** حدود 4.0 دقیقه  
+  **عنوان:** [Vẽ Solidworks](https://www.youtube.com/watch?v=m1oFN02Fa3s)  
+  ![](https://i.ytimg.com/vi/m1oFN02Fa3s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-30 11:23:34 (UTC)  
+  **مدت:** حدود 4.0 دقیقه  
+  **عنوان:** [Phay cnc mastercam](https://www.youtube.com/watch?v=-jLQj-Fhvwo)  
+  ![](https://i.ytimg.com/vi/-jLQj-Fhvwo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-30 01:13:36 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [Lắp ghép trục vít Solidworks](https://www.youtube.com/watch?v=nW907zkBCTE)  
+  ![](https://i.ytimg.com/vi/nW907zkBCTE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-29 11:15:21 (UTC)  
+  **مدت:** حدود 13.1 دقیقه  
+  **عنوان:** [Phay Mastercam 3d high speed](https://www.youtube.com/watch?v=M0_b5hShnuw)  
+  ![](https://i.ytimg.com/vi/M0_b5hShnuw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-29 02:50:12 (UTC)  
+  **مدت:** حدود 2.5 دقیقه  
+  **عنوان:** [Vẽ chi tiết máy solidworks](https://www.youtube.com/watch?v=oWCjFCNHHcc)  
+  ![](https://i.ytimg.com/vi/oWCjFCNHHcc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-28 10:25:21 (UTC)  
+  **مدت:** حدود 21.6 دقیقه  
+  **عنوان:** [Phay cnc mastercam 4 trục p2](https://www.youtube.com/watch?v=KDWoFRFtnqI)  
+  ![](https://i.ytimg.com/vi/KDWoFRFtnqI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-28 02:04:02 (UTC)  
+  **مدت:** حدود 26.6 دقیقه  
+  **عنوان:** [Phay cnc mastercam 4 trục p1](https://www.youtube.com/watch?v=h70uLh9VtGU)  
+  ![](https://i.ytimg.com/vi/h70uLh9VtGU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-27 11:26:26 (UTC)  
+  **مدت:** حدود 35.4 دقیقه  
+  **عنوان:** [Lắp ghép chi tiết solidworks assembly](https://www.youtube.com/watch?v=fCa_tUIPBNs)  
+  ![](https://i.ytimg.com/vi/fCa_tUIPBNs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-27 01:13:41 (UTC)  
+  **مدت:** حدود 13.4 دقیقه  
+  **عنوان:** [Phay 3d Masstercam cơ bản full](https://www.youtube.com/watch?v=5oFwWMB4glU)  
+  ![](https://i.ytimg.com/vi/5oFwWMB4glU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-26 10:56:54 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Tách khuôn chai thổi nhựa Solidworks](https://www.youtube.com/watch?v=8C1CUCujjNo)  
+  ![](https://i.ytimg.com/vi/8C1CUCujjNo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-26 00:16:11 (UTC)  
+  **مدت:** حدود 16.1 دقیقه  
+  **عنوان:** [Tách khuôn nón bảo hiểm solidworks](https://www.youtube.com/watch?v=mOifUS272uE)  
+  ![](https://i.ytimg.com/vi/mOifUS272uE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-25 10:56:16 (UTC)  
+  **مدت:** حدود 5.3 دقیقه  
+  **عنوان:** [Lập trình phay 3d mastercam cnc](https://www.youtube.com/watch?v=PKlXCXrRYFw)  
+  ![](https://i.ytimg.com/vi/PKlXCXrRYFw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-25 00:52:46 (UTC)  
+  **مدت:** حدود 16.6 دقیقه  
+  **عنوان:** [Lập trình Phay mastercam 2d high speed](https://www.youtube.com/watch?v=cGcbrz4o9f8)  
+  ![](https://i.ytimg.com/vi/cGcbrz4o9f8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-24 11:27:46 (UTC)  
+  **مدت:** حدود 22.2 دقیقه  
+  **عنوان:** [Vẽ Solidworks chi tiết theo bản vẽ](https://www.youtube.com/watch?v=7mANx2dcnxk)  
+  ![](https://i.ytimg.com/vi/7mANx2dcnxk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-23 23:56:52 (UTC)  
+  **مدت:** حدود 21.6 دقیقه  
+  **عنوان:** [Lập trình Phay 4 trục mastercam p1](https://www.youtube.com/watch?v=fdqs5ZwXlE0)  
+  ![](https://i.ytimg.com/vi/fdqs5ZwXlE0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-23 11:18:21 (UTC)  
+  **مدت:** حدود 4.9 دقیقه  
+  **عنوان:** [Vẽ Solidworks Pro](https://www.youtube.com/watch?v=5m4IivS83P0)  
+  ![](https://i.ytimg.com/vi/5m4IivS83P0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-23 00:35:07 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Học Solidworks Mastercam](https://www.youtube.com/watch?v=rrQTcPW_j0E)  
+  ![](https://i.ytimg.com/vi/rrQTcPW_j0E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-22 11:07:36 (UTC)  
+  **مدت:** حدود 30.4 دقیقه  
+  **عنوان:** [Vẽ chi tiết Solidworks](https://www.youtube.com/watch?v=wp9N4YQ-UJQ)  
+  ![](https://i.ytimg.com/vi/wp9N4YQ-UJQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-22 01:47:21 (UTC)  
+  **مدت:** حدود 5.7 دقیقه  
+  **عنوان:** [Vẽ giỏ đan Solidworks](https://www.youtube.com/watch?v=CntsD66zgUk)  
+  ![](https://i.ytimg.com/vi/CntsD66zgUk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-21 11:40:16 (UTC)  
+  **مدت:** حدود 14.7 دقیقه  
+  **عنوان:** [Phay 4 trục Mastercam p2](https://www.youtube.com/watch?v=ISEI4p84CdU)  
+  ![](https://i.ytimg.com/vi/ISEI4p84CdU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-21 00:56:51 (UTC)  
+  **مدت:** حدود 15.7 دقیقه  
+  **عنوان:** [Phay 4 trục Mastercam p1](https://www.youtube.com/watch?v=5nE6niTA-3k)  
+  ![](https://i.ytimg.com/vi/5nE6niTA-3k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-20 10:51:16 (UTC)  
+  **مدت:** حدود 13.1 دقیقه  
+  **عنوان:** [Vẽ 3d solidworks cơ bản](https://www.youtube.com/watch?v=MlJr27RRcPY)  
+  ![](https://i.ytimg.com/vi/MlJr27RRcPY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-19 23:33:24 (UTC)  
+  **مدت:** حدود 5.5 دقیقه  
+  **عنوان:** [Vẽ Rổ Solidworks](https://www.youtube.com/watch?v=GZ79txrWsS8)  
+  ![](https://i.ytimg.com/vi/GZ79txrWsS8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-19 13:02:31 (UTC)  
+  **مدت:** حدود 3.8 دقیقه  
+  **عنوان:** [Phay 4 trục mastercam](https://www.youtube.com/watch?v=xbNXYGN-SFw)  
+  ![](https://i.ytimg.com/vi/xbNXYGN-SFw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-19 02:21:16 (UTC)  
+  **مدت:** حدود 9.2 دقیقه  
+  **عنوان:** [Vẽ solidworks 3d chi tiết bài 1](https://www.youtube.com/watch?v=Ssxr8RMxJ9M)  
+  ![](https://i.ytimg.com/vi/Ssxr8RMxJ9M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-18 12:09:56 (UTC)  
+  **مدت:** حدود 3.5 دقیقه  
+  **عنوان:** [Lập trình phay 5 trục Mastercam cánh turbo](https://www.youtube.com/watch?v=lEmpPWiSq54)  
+  ![](https://i.ytimg.com/vi/lEmpPWiSq54/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-18 00:51:44 (UTC)  
+  **مدت:** حدود 15.6 دقیقه  
+  **عنوان:** [Vẽ Solidworks sketch bài 2](https://www.youtube.com/watch?v=ICKATNAPbTs)  
+  ![](https://i.ytimg.com/vi/ICKATNAPbTs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-17 13:55:46 (UTC)  
+  **مدت:** حدود 8.5 دقیقه  
+  **عنوان:** [Vẽ Solidworks bình hoa](https://www.youtube.com/watch?v=c-fFqmlwzu0)  
+  ![](https://i.ytimg.com/vi/c-fFqmlwzu0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-17 01:16:01 (UTC)  
+  **مدت:** حدود 10.6 دقیقه  
+  **عنوان:** [Vẽ solidworks sketch bài 1](https://www.youtube.com/watch?v=JM_7dLZLXBA)  
+  ![](https://i.ytimg.com/vi/JM_7dLZLXBA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-16 11:08:16 (UTC)  
+  **مدت:** حدود 31.7 دقیقه  
+  **عنوان:** [Lập trình phay cnc mastercam nâng cao](https://www.youtube.com/watch?v=vlzfEsoNsKA)  
+  ![](https://i.ytimg.com/vi/vlzfEsoNsKA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-15 23:45:46 (UTC)  
+  **مدت:** حدود 20.7 دقیقه  
+  **عنوان:** [Phay chi tiết 3d mastercam full](https://www.youtube.com/watch?v=0yxu5qw0UYY)  
+  ![](https://i.ytimg.com/vi/0yxu5qw0UYY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-15 13:51:41 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [Vẽ SP Solidworks](https://www.youtube.com/watch?v=LMwJyKtQ1VQ)  
+  ![](https://i.ytimg.com/vi/LMwJyKtQ1VQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-14 23:27:36 (UTC)  
+  **مدت:** حدود 8.1 دقیقه  
+  **عنوان:** [Phay 5 trục mastercam](https://www.youtube.com/watch?v=VqziW7jhhBs)  
+  ![](https://i.ytimg.com/vi/VqziW7jhhBs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-14 10:33:41 (UTC)  
+  **مدت:** حدود 54.8 دقیقه  
+  **عنوان:** [Lập trình phay 3d chi tiết Mastercam](https://www.youtube.com/watch?v=4TGcjPb6J84)  
+  ![](https://i.ytimg.com/vi/4TGcjPb6J84/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-14 00:51:19 (UTC)  
+  **مدت:** حدود 47.3 دقیقه  
+  **عنوان:** [Vận hành máy tiện SSCNC](https://www.youtube.com/watch?v=y2FPyj_SRso)  
+  ![](https://i.ytimg.com/vi/y2FPyj_SRso/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-13 11:01:16 (UTC)  
+  **مدت:** حدود 7.2 دقیقه  
+  **عنوان:** [Vẽ cánh quạt turbo Solidworks](https://www.youtube.com/watch?v=h2e-9eY47bA)  
+  ![](https://i.ytimg.com/vi/h2e-9eY47bA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-12 23:24:56 (UTC)  
+  **مدت:** حدود 39.4 دقیقه  
+  **عنوان:** [Gia công khuôn mastercam](https://www.youtube.com/watch?v=KeOzq6q3_gI)  
+  ![](https://i.ytimg.com/vi/KeOzq6q3_gI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-12 12:10:11 (UTC)  
+  **مدت:** حدود 62.6 دقیقه  
+  **عنوان:** [Vận hành máy phay SSCNC](https://www.youtube.com/watch?v=hY2cgY8C490)  
+  ![](https://i.ytimg.com/vi/hY2cgY8C490/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-12 01:00:22 (UTC)  
+  **مدت:** حدود 14.5 دقیقه  
+  **عنوان:** [Tách khuôn ghế nhựa Solidworks](https://www.youtube.com/watch?v=-8oKFxHGQE0)  
+  ![](https://i.ytimg.com/vi/-8oKFxHGQE0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-11 11:45:06 (UTC)  
+  **مدت:** حدود 5.3 دقیقه  
+  **عنوان:** [Phay ren mastercam](https://www.youtube.com/watch?v=AbDBCu2G0v8)  
+  ![](https://i.ytimg.com/vi/AbDBCu2G0v8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-11 02:40:07 (UTC)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [Tách khuôn vỏ xe dream Solidworks](https://www.youtube.com/watch?v=ZDhnzf9JU2U)  
+  ![](https://i.ytimg.com/vi/ZDhnzf9JU2U/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-10 13:45:21 (UTC)  
+  **مدت:** حدود 2.7 دقیقه  
+  **عنوان:** [Tính khối lượng Góc nghiêng Cung R Mastercam](https://www.youtube.com/watch?v=mfAUDzN0Rv0)  
+  ![](https://i.ytimg.com/vi/mfAUDzN0Rv0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-09 23:51:32 (UTC)  
+  **مدت:** حدود 26.3 دقیقه  
+  **عنوان:** [Lập trình gia công 3d mastercam](https://www.youtube.com/watch?v=H7n5Vl4NxIk)  
+  ![](https://i.ytimg.com/vi/H7n5Vl4NxIk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-09 11:58:51 (UTC)  
+  **مدت:** حدود 2.9 دقیقه  
+  **عنوان:** [Lập trình tiện chi tiết mastercam](https://www.youtube.com/watch?v=arhk-mMFRCg)  
+  ![](https://i.ytimg.com/vi/arhk-mMFRCg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-09 00:23:55 (UTC)  
+  **مدت:** حدود 6.5 دقیقه  
+  **عنوان:** [Tách khuôn cánh quạt Solidworks](https://www.youtube.com/watch?v=CNpQxD2zyG8)  
+  ![](https://i.ytimg.com/vi/CNpQxD2zyG8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-08 14:51:56 (UTC)  
+  **مدت:** حدود 25.9 دقیقه  
+  **عنوان:** [Phay khuôn mastercam](https://www.youtube.com/watch?v=BxhGx6S1W_s)  
+  ![](https://i.ytimg.com/vi/BxhGx6S1W_s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-08 01:38:26 (UTC)  
+  **مدت:** حدود 10.4 دقیقه  
+  **عنوان:** [Mô phỏng chuyển động xích Solidworks](https://www.youtube.com/watch?v=EfCiaDjP5Ds)  
+  ![](https://i.ytimg.com/vi/EfCiaDjP5Ds/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-07 11:02:20 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Trải tôn kim loại tấm khuôn dập Solidworks](https://www.youtube.com/watch?v=6BqTutg2WeU)  
+  ![](https://i.ytimg.com/vi/6BqTutg2WeU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-06 23:14:21 (UTC)  
+  **مدت:** حدود 33.4 دقیقه  
+  **عنوان:** [Phay mastercam nâng cao](https://www.youtube.com/watch?v=1Synm1z9dI4)  
+  ![](https://i.ytimg.com/vi/1Synm1z9dI4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-06 11:58:21 (UTC)  
+  **مدت:** حدود 15.4 دقیقه  
+  **عنوان:** [Xuất sửa chương trình cnc mastercam](https://www.youtube.com/watch?v=Zft0CYWKX5U)  
+  ![](https://i.ytimg.com/vi/Zft0CYWKX5U/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-05 23:36:16 (UTC)  
+  **مدت:** حدود 15.0 دقیقه  
+  **عنوان:** [Phay 2d mastercam Full](https://www.youtube.com/watch?v=HY_zDCqPEBQ)  
+  ![](https://i.ytimg.com/vi/HY_zDCqPEBQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-05 11:26:02 (UTC)  
+  **مدت:** حدود 3.9 دقیقه  
+  **عنوان:** [Bít lỗ bề mặt mastercam](https://www.youtube.com/watch?v=DDrMcCT98GE)  
+  ![](https://i.ytimg.com/vi/DDrMcCT98GE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-05 00:45:26 (UTC)  
+  **مدت:** حدود 1.8 دقیقه  
+  **عنوان:** [Tạo điện cực mastercam](https://www.youtube.com/watch?v=Uu4fVfzbDkw)  
+  ![](https://i.ytimg.com/vi/Uu4fVfzbDkw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-04 10:24:41 (UTC)  
+  **مدت:** حدود 14.2 دقیقه  
+  **عنوان:** [Lập trình phay mastercam cơ bản p2](https://www.youtube.com/watch?v=lO-Vk9x4So4)  
+  ![](https://i.ytimg.com/vi/lO-Vk9x4So4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-04 00:43:41 (UTC)  
+  **مدت:** حدود 20.7 دقیقه  
+  **عنوان:** [Lập trình phay mastercam cơ bản p1](https://www.youtube.com/watch?v=QrR5OeEU2Ws)  
+  ![](https://i.ytimg.com/vi/QrR5OeEU2Ws/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-03 11:00:20 (UTC)  
+  **مدت:** حدود 7.5 دقیقه  
+  **عنوان:** [Vẽ 3d mastercam](https://www.youtube.com/watch?v=DjKIqosH3d0)  
+  ![](https://i.ytimg.com/vi/DjKIqosH3d0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-02 22:40:01 (UTC)  
+  **مدت:** حدود 16.9 دقیقه  
+  **عنوان:** [Phay Mastercam 2d cơ bản p2](https://www.youtube.com/watch?v=P-F5N7zX9Es)  
+  ![](https://i.ytimg.com/vi/P-F5N7zX9Es/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-02 12:20:01 (UTC)  
+  **مدت:** حدود 20.2 دقیقه  
+  **عنوان:** [Phay Mastercam 2d cơ bản p1](https://www.youtube.com/watch?v=9w2z5SMo07Q)  
+  ![](https://i.ytimg.com/vi/9w2z5SMo07Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-01 23:20:11 (UTC)  
+  **مدت:** حدود 7.8 دقیقه  
+  **عنوان:** [Mastercam cơ bản bài 2](https://www.youtube.com/watch?v=JO3mijOYw2o)  
+  ![](https://i.ytimg.com/vi/JO3mijOYw2o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-04-01 10:54:17 (UTC)  
+  **مدت:** حدود 6.1 دقیقه  
+  **عنوان:** [Mastercam cơ bản bài 1](https://www.youtube.com/watch?v=iI8usbx5qCI)  
+  ![](https://i.ytimg.com/vi/iI8usbx5qCI/hqdefault.jpg)

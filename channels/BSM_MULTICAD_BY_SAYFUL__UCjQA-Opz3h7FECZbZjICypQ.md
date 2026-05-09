@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-05-09T11:25:16Z_
+_آخرین به‌روزرسانی: 2026-05-09T16:21:39Z_
 
 
 لینک کانال: [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)
+
+
+- **تاریخ انتشار:** 2026-05-09 16:17:19 (UTC)  
+  **مدت:** حدود 12.7 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 15](https://www.youtube.com/watch?v=Yq4DAQ0nI2A)  
+  ![](https://i.ytimg.com/vi/Yq4DAQ0nI2A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-09 15:51:47 (UTC)  
+  **مدت:** حدود 31.6 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 16](https://www.youtube.com/watch?v=G89lMz3plu4)  
+  ![](https://i.ytimg.com/vi/G89lMz3plu4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-09 15:08:25 (UTC)  
+  **مدت:** حدود 22.9 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 17](https://www.youtube.com/watch?v=WZVUE5sCbGs)  
+  ![](https://i.ytimg.com/vi/WZVUE5sCbGs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-09 03:29:09 (UTC)  
@@ -886,21 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-09T11:25:16Z_
   **مدت:** حدود 32.6 دقیقه  
   **عنوان:** [REINFORCEMENT DETAILS AUTOCAD BSNGLA TUTORIALS|BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=7jkQeqoHy7E)  
   ![](https://i.ytimg.com/vi/7jkQeqoHy7E/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-11 10:01:02 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [UNDER GROUND WATER TANK AUTOCAD PAID COURSE BANGLA TUTORIALS |BATCH 04 |EP -13a|BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=WsfOFikcGTg)  
-  ![](https://i.ytimg.com/vi/WsfOFikcGTg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-11 06:00:11 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [FULL COURSE AUTOCAD A TO Z ARCHITECTURE, STRUCTURE WITH BASIC AND PRESENTATION EP  08f BATCH  01](https://www.youtube.com/watch?v=EHsm3sZRPp4)  
-  ![](https://i.ytimg.com/vi/EHsm3sZRPp4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-11 03:00:45 (UTC)  
-  **مدت:** حدود 32.0 دقیقه  
-  **عنوان:** [SKETCHUP|USER INTERFACE|LINE DETAILS| FREAND LINE DETAILS| RECTANGELE| PUSH PULL|BSMMULTICAD|](https://www.youtube.com/watch?v=c5KZ9lMe8fw)  
-  ![](https://i.ytimg.com/vi/c5KZ9lMe8fw/hqdefault.jpg)

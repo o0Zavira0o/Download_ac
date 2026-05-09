@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-05-09T11:25:16Z_
+_آخرین به‌روزرسانی: 2026-05-09T16:21:39Z_
 
 
 لینک کانال: [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)
