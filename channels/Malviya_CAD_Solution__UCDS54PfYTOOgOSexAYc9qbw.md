@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-05-09T16:21:39Z_
+_آخرین به‌روزرسانی: 2026-05-10T10:21:35Z_
 
 
 لینک کانال: [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)
+
+
+- **تاریخ انتشار:** 2026-05-10 02:56:35 (UTC)  
+  **مدت:** حدود 23.0 دقیقه  
+  **عنوان:** [Hydrualic jack assembly | Solidworks assembly tutorial](https://www.youtube.com/watch?v=FwmFkk7vYb0)  
+  ![](https://i.ytimg.com/vi/FwmFkk7vYb0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-06 03:22:23 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-09T16:21:39Z_
   **مدت:** حدود 1.5 دقیقه  
   **عنوان:** [How to use the Composit curve in solidworks #shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=NcBmi8qjoxw)  
   ![](https://i.ytimg.com/vi/NcBmi8qjoxw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-07 11:20:09 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [How to remove decimal digits zeros from dimensions in solidworks sketch #shorts #ytshorts](https://www.youtube.com/watch?v=XDTSV5BnITU)  
-  ![](https://i.ytimg.com/vi/XDTSV5BnITU/hqdefault.jpg)

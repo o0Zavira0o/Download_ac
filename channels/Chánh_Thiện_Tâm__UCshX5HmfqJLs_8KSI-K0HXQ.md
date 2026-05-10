@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-09T16:21:39Z_
+_آخرین به‌روزرسانی: 2026-05-10T10:21:35Z_
 
 
 لینک کانال: [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)
+
+
+- **تاریخ انتشار:** 2026-05-10 00:36:46 (UTC)  
+  **مدت:** حدود 8.7 دقیقه  
+  **عنوان:** [Tiện cnc chi tiết mastercam](https://www.youtube.com/watch?v=gVv2PmNeOmk)  
+  ![](https://i.ytimg.com/vi/gVv2PmNeOmk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-09 12:07:26 (UTC)  

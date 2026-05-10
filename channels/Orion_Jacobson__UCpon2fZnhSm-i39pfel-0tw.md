@@ -1,27 +1,33 @@
 # آرشیو ویدیوهای کانال Orion Jacobson 
 
-_آخرین به‌روزرسانی: 2026-05-09T16:21:39Z_
+_آخرین به‌روزرسانی: 2026-05-10T10:21:35Z_
 
 
 لینک کانال: [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)
 
 
-- **تاریخ انتشار:** 2026-05-09 04:40:37 (UTC)  
-  **مدت:** حدود 63.7 دقیقه  
+- **تاریخ انتشار:** 2026-05-10 06:18:44 (UTC)  
+  **مدت:** حدود 51.6 دقیقه  
+  **عنوان:** [Beam Stream](https://www.youtube.com/watch?v=rDUPZ2HgA0Q)  
+  ![](https://i.ytimg.com/vi/rDUPZ2HgA0Q/hqdefault_live.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-10 00:08:45 (UTC)  
+  **مدت:** حدود 43.6 دقیقه  
+  **عنوان:** [Beam Stream](https://www.youtube.com/watch?v=8sy26_NeMls)  
+  ![](https://i.ytimg.com/vi/8sy26_NeMls/hqdefault_live.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-09 17:10:22 (UTC)  
+  **مدت:** حدود 46.1 دقیقه  
   **عنوان:** [Beam Stream](https://www.youtube.com/watch?v=ibnEn1xTDMY)  
-  ![](https://i.ytimg.com/vi/ibnEn1xTDMY/hqdefault_live.jpg)
+  ![](https://i.ytimg.com/vi/ibnEn1xTDMY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-08 19:46:17 (UTC)  
   **مدت:** حدود 6.1 دقیقه  
   **عنوان:** [Assembly stream](https://www.youtube.com/watch?v=Zs26jbj5YEQ)  
   ![](https://i.ytimg.com/vi/Zs26jbj5YEQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-05-08 19:37:49 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Assembly Stream](https://www.youtube.com/watch?v=Kkbix5nxtHo)  
-  ![](https://i.ytimg.com/vi/Kkbix5nxtHo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-07 11:54:48 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-09T16:21:39Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [Bro, this game is impossible](https://www.youtube.com/watch?v=7RcW4jEBsFg)  
   ![](https://i.ytimg.com/vi/7RcW4jEBsFg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-02-22 00:13:35 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [POV: you're in the back rooms](https://www.youtube.com/watch?v=vth9dGiE16c)  
-  ![](https://i.ytimg.com/vi/vth9dGiE16c/hqdefault.jpg)

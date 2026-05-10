@@ -1,9 +1,33 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-05-09T16:21:39Z_
+_آخرین به‌روزرسانی: 2026-05-10T10:21:35Z_
 
 
 لینک کانال: [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)
+
+
+- **تاریخ انتشار:** 2026-05-10 03:21:57 (UTC)  
+  **مدت:** حدود 65.6 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 11](https://www.youtube.com/watch?v=yLRMBke69Ag)  
+  ![](https://i.ytimg.com/vi/yLRMBke69Ag/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-10 01:45:48 (UTC)  
+  **مدت:** حدود 22.3 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 12](https://www.youtube.com/watch?v=yBnDvhS8o6U)  
+  ![](https://i.ytimg.com/vi/yBnDvhS8o6U/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-09 19:05:48 (UTC)  
+  **مدت:** حدود 13.6 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 13](https://www.youtube.com/watch?v=k_eFIP103Oo)  
+  ![](https://i.ytimg.com/vi/k_eFIP103Oo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-09 16:48:35 (UTC)  
+  **مدت:** حدود 29.3 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 14](https://www.youtube.com/watch?v=RWtr6fo2LsY)  
+  ![](https://i.ytimg.com/vi/RWtr6fo2LsY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-09 16:17:19 (UTC)  
@@ -880,27 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-09T16:21:39Z_
   **مدت:** حدود 2.0 دقیقه  
   **عنوان:** [UNDER GROUND WATER TANK AUTOCAD PAID COURSE BANGLA TUTORIALS BATCH 04 EP  13e BSMMULTICADBYSAYFUL](https://www.youtube.com/watch?v=_G8Mpwa9Tr4)  
   ![](https://i.ytimg.com/vi/_G8Mpwa9Tr4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-11 22:01:13 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [UNDER GROUND WATER TANK AUTOCAD PAID COURSE BANGLA TUTORIALS |BATCH 04| EP-13c| BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=xwY1zitH63A)  
-  ![](https://i.ytimg.com/vi/xwY1zitH63A/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-11 18:00:15 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [UNDER GROUND WATER TANK AUTOCAD PAID COURSE BANGLA TUTORIALS |BATCH 04|EP-13d| BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=Dk7e8J_PayQ)  
-  ![](https://i.ytimg.com/vi/Dk7e8J_PayQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-11 14:00:25 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [UNDER GROUND WATER TANK AUTOCAD PAID COURSE BANGLA TUTORIALS |BATCH 04| EP-13b| BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=GVjl9OgGwQU)  
-  ![](https://i.ytimg.com/vi/GVjl9OgGwQU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-11 13:00:14 (UTC)  
-  **مدت:** حدود 32.6 دقیقه  
-  **عنوان:** [REINFORCEMENT DETAILS AUTOCAD BSNGLA TUTORIALS|BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=7jkQeqoHy7E)  
-  ![](https://i.ytimg.com/vi/7jkQeqoHy7E/hqdefault.jpg)
