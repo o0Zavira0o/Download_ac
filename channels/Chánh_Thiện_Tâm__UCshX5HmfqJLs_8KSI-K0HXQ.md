@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-11T10:19:31Z_
+_آخرین به‌روزرسانی: 2026-05-11T12:19:27Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-11 11:38:16 (UTC)  
+  **مدت:** حدود 4.8 دقیقه  
+  **عنوان:** [Vẽ chai nước solidworks Pro](https://www.youtube.com/watch?v=KyHWkA_eqzA)  
+  ![](https://i.ytimg.com/vi/KyHWkA_eqzA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-11 00:32:41 (UTC)  
