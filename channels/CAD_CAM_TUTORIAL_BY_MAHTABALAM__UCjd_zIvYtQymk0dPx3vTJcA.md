@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-05-10T10:21:35Z_
+_آخرین به‌روزرسانی: 2026-05-11T07:27:59Z_
 
 
 لینک کانال: [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)
+
+
+- **تاریخ انتشار:** 2026-05-10 15:45:11 (UTC)  
+  **مدت:** حدود 16.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial-Water tap Modeling](https://www.youtube.com/watch?v=43SZ8CQaz-Q)  
+  ![](https://i.ytimg.com/vi/43SZ8CQaz-Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-08 14:50:16 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-10T10:21:35Z_
   **مدت:** حدود 49.6 دقیقه  
   **عنوان:** [Create 2D drawing from 3D Model With SolidWorks Drawing](https://www.youtube.com/watch?v=Fw2TAYglMZ4)  
   ![](https://i.ytimg.com/vi/Fw2TAYglMZ4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-28 03:30:49 (UTC)  
-  **مدت:** حدود 39.4 دقیقه  
-  **عنوان:** [SolidWorks Complex Modeling Carriage](https://www.youtube.com/watch?v=zi0YPcJDffk)  
-  ![](https://i.ytimg.com/vi/zi0YPcJDffk/hqdefault.jpg)

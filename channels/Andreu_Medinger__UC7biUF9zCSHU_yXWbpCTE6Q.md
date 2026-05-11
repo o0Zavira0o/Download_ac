@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-05-10T10:21:35Z_
+_آخرین به‌روزرسانی: 2026-05-11T07:27:59Z_
 
 
 لینک کانال: [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)
+
+
+- **تاریخ انتشار:** 2026-05-10 13:48:11 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [LOCTITES 6XX - Indicados para peças cilíndricas #loctite #engenharia #carro #usinagem](https://www.youtube.com/watch?v=gn9uPRMLm6A)  
+  ![](https://i.ytimg.com/vi/gn9uPRMLm6A/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-08 22:30:11 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-10T10:21:35Z_
   **مدت:** حدود 30.0 دقیقه  
   **عنوان:** [AULA 19 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=H30Ah1eHHAY)  
   ![](https://i.ytimg.com/vi/H30Ah1eHHAY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-12-16 22:30:00 (UTC)  
-  **مدت:** حدود 34.4 دقیقه  
-  **عنوان:** [AULA 18 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=6DGYxKhUSK4)  
-  ![](https://i.ytimg.com/vi/6DGYxKhUSK4/hqdefault.jpg)

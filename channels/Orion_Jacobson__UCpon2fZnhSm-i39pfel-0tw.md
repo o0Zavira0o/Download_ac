@@ -1,21 +1,21 @@
 # آرشیو ویدیوهای کانال Orion Jacobson 
 
-_آخرین به‌روزرسانی: 2026-05-10T10:21:35Z_
+_آخرین به‌روزرسانی: 2026-05-11T07:27:59Z_
 
 
 لینک کانال: [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)
 
 
-- **تاریخ انتشار:** 2026-05-10 06:18:44 (UTC)  
+- **تاریخ انتشار:** 2026-05-10 18:28:14 (UTC)  
   **مدت:** حدود 51.6 دقیقه  
   **عنوان:** [Beam Stream](https://www.youtube.com/watch?v=rDUPZ2HgA0Q)  
-  ![](https://i.ytimg.com/vi/rDUPZ2HgA0Q/hqdefault_live.jpg)
+  ![](https://i.ytimg.com/vi/rDUPZ2HgA0Q/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2026-05-10 00:08:45 (UTC)  
+- **تاریخ انتشار:** 2026-05-10 12:53:57 (UTC)  
   **مدت:** حدود 43.6 دقیقه  
   **عنوان:** [Beam Stream](https://www.youtube.com/watch?v=8sy26_NeMls)  
-  ![](https://i.ytimg.com/vi/8sy26_NeMls/hqdefault_live.jpg)
+  ![](https://i.ytimg.com/vi/8sy26_NeMls/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-09 17:10:22 (UTC)  

@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-10T10:21:35Z_
+_آخرین به‌روزرسانی: 2026-05-11T07:27:59Z_
 
 
 لینک کانال: [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)
+
+
+- **تاریخ انتشار:** 2026-05-11 00:32:41 (UTC)  
+  **مدت:** حدود 4.0 دقیقه  
+  **عنوان:** [Phay cnc mastercam 3d pro](https://www.youtube.com/watch?v=nsbzL_G8j8I)  
+  ![](https://i.ytimg.com/vi/nsbzL_G8j8I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-10 11:06:51 (UTC)  
+  **مدت:** حدود 32.0 دقیقه  
+  **عنوان:** [Vẽ SP Solidworks Surface](https://www.youtube.com/watch?v=7L-JJC9UKQU)  
+  ![](https://i.ytimg.com/vi/7L-JJC9UKQU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-10 00:36:46 (UTC)  
