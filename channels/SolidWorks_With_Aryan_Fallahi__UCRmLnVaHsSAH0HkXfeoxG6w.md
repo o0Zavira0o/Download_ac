@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال SolidWorks With Aryan Fallahi
 
-_آخرین به‌روزرسانی: 2026-05-11T07:27:59Z_
+_آخرین به‌روزرسانی: 2026-05-11T09:49:04Z_
 
 
 لینک کانال: [SolidWorks With Aryan Fallahi](https://www.youtube.com/channel/UCRmLnVaHsSAH0HkXfeoxG6w)

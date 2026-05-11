@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال CADMAX
 
-_آخرین به‌روزرسانی: 2026-05-11T07:27:59Z_
+_آخرین به‌روزرسانی: 2026-05-11T09:49:04Z_
 
 
 لینک کانال: [CADMAX](https://www.youtube.com/channel/UCDmvwsI7-VjhJq3nlgXvByg)

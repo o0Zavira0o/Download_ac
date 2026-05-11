@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Design With Roozbe
 
-_آخرین به‌روزرسانی: 2026-05-11T07:27:59Z_
+_آخرین به‌روزرسانی: 2026-05-11T09:49:04Z_
 
 
 لینک کانال: [Design With Roozbe](https://www.youtube.com/channel/UCH2-aT4yIrfuuXkcgsuisYg)
