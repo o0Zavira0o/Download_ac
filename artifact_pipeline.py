@@ -1,27 +1,29 @@
 #!/usr/bin/env python3
 """
-artifact_pipeline.py – upgraded version
+artifact_pipeline.py – upgraded version (Cobalt + yt-dlp hybrid)
 
-- Downloads YouTube videos via Cobalt API (primary), fallback to yt-dlp.
-- Generic HTTP download remains unchanged.
+- PRIMARY: Downloads YouTube videos via Cobalt API (if reachable).
+- FALLBACK: Uses yt-dlp if Cobalt fails.
+- Generic HTTP download remains available via --url.
 - Compresses as .zip, splits into <=95 MiB chunks, and optionally commits.
 
-Requirements:
+Requirements (runner):
     pip install requests yt-dlp
-    sudo apt-get install -y ffmpeg
+    sudo apt-get update && sudo apt-get install -y ffmpeg
 """
 
 from __future__ import annotations
 
 import argparse
 import hashlib
-import json
+import os
 import re
 import subprocess
 import sys
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable, List, Optional, Tuple
+from urllib.parse import urlparse
 import zipfile
 
 import requests
@@ -33,8 +35,8 @@ ARTIFACT_ROOT = Path("large_artifacts")
 DEFAULT_CHUNK_SIZE_MB = 95
 HTTP_STREAM_CHUNK_SIZE = 8 * 1024 * 1024  # 8 MiB
 
-# Cobalt API endpoint (public, no key required)
-COBALT_API_URL = "https://co.wuk.sh/api/json"
+# Cobalt API endpoint (can be overridden via env)
+COBALT_API_URL = os.getenv("COBALT_API_URL", "https://co.wuk.sh/api/json")
 
 
 # ----------------- Data structures -----------------
@@ -48,26 +50,26 @@ class PipelineResult:
     chunk_files: List[Path]
 
 
-# ----------------- Helpers (unchanged core) -----------------
+# ----------------- Helpers (core) -----------------
 
 def ensure_dir(path: Path) -> Path:
     path.mkdir(parents=True, exist_ok=True)
     return path
 
 
-def slug_from_url(url: str, max_len=40) -> str:
-    parsed = __import__("urllib.parse").urlparse(url)
+def slug_from_url(url: str, max_len: int = 40) -> str:
+    parsed = urlparse(url)
     candidate = Path(parsed.path).name or parsed.netloc or "artifact"
     safe = "".join(c for c in candidate if c.isalnum() or c in "-_.")
     if not safe:
         safe = "artifact"
     if len(safe) > max_len:
-        h = hashlib.sha1(url.encode()).hexdigest()[:8]
+        h = hashlib.sha1(url.encode("utf-8")).hexdigest()[:8]
         safe = safe[:max_len - 9] + "_" + h
     return safe
 
 
-def slug_from_text(text: str, max_len=60) -> str:
+def slug_from_text(text: str, max_len: int = 60) -> str:
     text = (text or "").strip()
     if not text:
         return ""
@@ -113,10 +115,12 @@ def split_file(path: Path, chunk_size_mb: int) -> List[Path]:
     chunk_size_bytes = int(chunk_size_mb * 1024 * 1024)
     if chunk_size_bytes <= 0:
         raise ValueError("chunk_size_mb must be > 0")
+
     print(f"[split] Splitting {path} into <= {chunk_size_mb} MiB chunks")
-    chunk_paths = []
+    chunk_paths: List[Path] = []
     idx = 1
     total_written = 0
+
     with path.open("rb") as src:
         while True:
             data = src.read(chunk_size_bytes)
@@ -130,6 +134,7 @@ def split_file(path: Path, chunk_size_mb: int) -> List[Path]:
             chunk_paths.append(chunk_path)
             total_written += len(data)
             idx += 1
+
     print(f"[split] Total chunks: {len(chunk_paths)} (~{total_written/(1024*1024):.2f} MiB)")
     return chunk_paths
 
@@ -139,12 +144,18 @@ def git_commit_files(files: Iterable[Path], message: str) -> None:
     if not files:
         print("[git] No files to commit.")
         return
+
     rel_paths = [f.as_posix() for f in files]
     print(f"[git] Staging {len(rel_paths)} file(s)")
     subprocess.run(["git", "add", "--"] + rel_paths, check=True)
+
     print(f"[git] Committing: {message!r}")
-    result = subprocess.run(["git", "commit", "-m", message],
-                            check=False, capture_output=True, text=True)
+    result = subprocess.run(
+        ["git", "commit", "-m", message],
+        check=False,
+        capture_output=True,
+        text=True,
+    )
     if result.returncode != 0:
         print("[git] git commit returned", result.returncode)
         if result.stdout:
@@ -164,7 +175,7 @@ def _compress_split_commit(
     chunk_size_mb: int,
     do_commit: bool,
     cleanup_src: bool,
-    url_meta: str
+    url_meta: str,
 ) -> PipelineResult:
     ensure_dir(ARTIFACT_ROOT)
     zip_path = ARTIFACT_ROOT / f"{output_prefix}.zip"
@@ -193,7 +204,7 @@ def _compress_split_commit(
         output_prefix=output_prefix,
         raw_file=src_path,
         zip_file=zip_path,
-        chunk_files=chunk_files
+        chunk_files=chunk_files,
     )
 
 
@@ -201,7 +212,7 @@ def process_large_artifact(
     url: str,
     output_prefix: Optional[str] = None,
     chunk_size_mb: int = DEFAULT_CHUNK_SIZE_MB,
-    do_commit: bool = False
+    do_commit: bool = False,
 ) -> PipelineResult:
     """Generic HTTP/HTTPS download."""
     if not output_prefix:
@@ -210,8 +221,12 @@ def process_large_artifact(
     raw_path = ARTIFACT_ROOT / f"{output_prefix}.bin"
     download_stream(url, raw_path)
     return _compress_split_commit(
-        raw_path, output_prefix, chunk_size_mb, do_commit,
-        cleanup_src=True, url_meta=url
+        raw_path,
+        output_prefix,
+        chunk_size_mb,
+        do_commit,
+        cleanup_src=True,
+        url_meta=url,
     )
 
 
@@ -221,13 +236,16 @@ def process_large_artifact_from_local(
     chunk_size_mb: int = DEFAULT_CHUNK_SIZE_MB,
     do_commit: bool = False,
     cleanup_src: bool = False,
-    url_meta: Optional[str] = None
+    url_meta: Optional[str] = None,
 ) -> PipelineResult:
     """Start from an already downloaded file (e.g., YouTube video)."""
     return _compress_split_commit(
-        src_path, output_prefix, chunk_size_mb, do_commit,
+        src_path,
+        output_prefix,
+        chunk_size_mb,
+        do_commit,
         cleanup_src=cleanup_src,
-        url_meta=url_meta or f"file://{src_path}"
+        url_meta=url_meta or f"file://{src_path}",
     )
 
 
@@ -239,7 +257,7 @@ def normalize_youtube_url(url: str) -> str:
     patterns = [
         r"(?:https?://)?(?:www\.)?youtube\.com/watch\?(?:.*&)?v=([^&?#]+)",
         r"(?:https?://)?(?:www\.)?youtu\.be/([^&?#]+)",
-        r"(?:https?://)?(?:www\.)?youtube\.com/shorts/([^&?#]+)"
+        r"(?:https?://)?(?:www\.)?youtube\.com/shorts/([^&?#]+)",
     ]
     for pat in patterns:
         m = re.search(pat, s)
@@ -251,42 +269,56 @@ def normalize_youtube_url(url: str) -> str:
 def _cobalt_download(
     youtube_url: str,
     output_prefix: Optional[str],
-    tmp_root: Optional[Path]
+    tmp_root: Optional[Path],
 ) -> Tuple[Path, str]:
     """
     Use Cobalt API to retrieve a direct download link, then stream it.
+    Raises RuntimeError on failure.
     """
     youtube_url = normalize_youtube_url(youtube_url)
+    print(f"[cobalt] Endpoint: {COBALT_API_URL}")
     print(f"[cobalt] Requesting download link for: {youtube_url}")
 
     payload = {
         "url": youtube_url,
-        "aFormat": "mp4",        # mp4 output
-        "vQuality": "max",       # highest quality
+        "aFormat": "mp4",
+        "vQuality": "max",
         "filenamePattern": "classic",
-        "isAudioOnly": False
+        "isAudioOnly": False,
     }
     headers = {
         "Content-Type": "application/json",
         "Accept": "application/json",
-        "User-Agent": "Mozilla/5.0 (compatible; artifact_pipeline/1.0)"
+        "User-Agent": "Mozilla/5.0 (compatible; artifact_pipeline/1.0)",
     }
 
     try:
-        resp = requests.post(COBALT_API_URL, json=payload, headers=headers, timeout=30)
+        resp = requests.post(
+            COBALT_API_URL,
+            json=payload,
+            headers=headers,
+            timeout=30,
+        )
         resp.raise_for_status()
         data = resp.json()
-        if data.get("status") == "error" or "url" not in data:
-            raise RuntimeError(f"Cobalt API error: {data.get('text', data)}")
-        direct_url = data["url"]
-    except Exception as e:
-        raise RuntimeError(f"Cobalt API failed: {e}") from e
+    except requests.exceptions.RequestException as e:
+        # این همان چیزی است که الآن در لاگ دیدی (NameResolutionError و ...)
+        raise RuntimeError(f"Cobalt API HTTP error: {e}") from e
+    except ValueError as e:
+        raise RuntimeError(f"Cobalt API returned invalid JSON: {e}") from e
 
-    # Determine effective prefix (from video title if available, else fallback)
+    status = data.get("status")
+    direct_url = data.get("url")
+
+    if status == "error" or not direct_url:
+        # طبق داکیومنت ممکن است text پیام خطا باشد
+        raise RuntimeError(f"Cobalt API logical error: status={status}, text={data.get('text')}")
+
+    # Determine effective prefix (from suggested filename if present, else fallback)
     base_name = output_prefix or slug_from_url(youtube_url)
-    if not output_prefix and "filename" in data:
-        # Cobalt sometimes returns a suggested filename
-        maybe_title = Path(data["filename"]).stem if data["filename"] else ""
+    suggested = data.get("filename") or ""
+    if not output_prefix and suggested:
+        maybe_title = Path(suggested).stem
         if maybe_title:
             base_name = slug_from_text(maybe_title) or base_name
 
@@ -304,34 +336,53 @@ def _cobalt_download(
 def _ytdlp_download(
     youtube_url: str,
     output_prefix: Optional[str],
-    tmp_root: Optional[Path]
+    tmp_root: Optional[Path],
 ) -> Tuple[Path, str]:
     """Fallback method using yt-dlp command line."""
     youtube_url = normalize_youtube_url(youtube_url)
     base_name = output_prefix or slug_from_url(youtube_url)
+
     if tmp_root is None:
         tmp_root = ARTIFACT_ROOT / "youtube_tmp" / base_name
     ensure_dir(tmp_root)
-    out_path = tmp_root / f"{base_name}.mp4"
 
+    out_path = tmp_root / f"{base_name}.mp4"
     cmd = [
         "yt-dlp",
-        "-f", "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best",
-        "--merge-output-format", "mp4",
-        "-o", str(out_path),
-        youtube_url
+        "-f",
+        "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best",
+        "--merge-output-format",
+        "mp4",
+        "-o",
+        str(out_path),
+        youtube_url,
     ]
     print("[yt-dlp] Running fallback command:", " ".join(cmd))
-    proc = subprocess.run(cmd, check=False, capture_output=True, text=True)
+
+    try:
+        proc = subprocess.run(
+            cmd,
+            check=False,
+            capture_output=True,
+            text=True,
+        )
+    except FileNotFoundError as e:
+        raise RuntimeError(
+            "yt-dlp not found. Install it with `pip install yt-dlp` "
+            "or ensure it is available in PATH."
+        ) from e
+
     print(f"[yt-dlp] exit code: {proc.returncode}")
     if proc.stdout:
         print("[yt-dlp] stdout:\n", proc.stdout)
     if proc.stderr:
         print("[yt-dlp] stderr:\n", proc.stderr)
+
     if proc.returncode != 0 or not out_path.exists():
         raise RuntimeError(
             f"yt-dlp failed. exit={proc.returncode}, output exists={out_path.exists()}"
         )
+
     return out_path, base_name
 
 
@@ -343,7 +394,11 @@ def ingest_from_youtube(
     """
     Primary: Cobalt API.
     Fallback: yt-dlp.
-    Returns (final_video_path, effective_prefix).
+
+    Returns:
+        (final_video_path, effective_prefix)
+    Raises:
+        RuntimeError only اگر هر دو روش fail شوند.
     """
     last_error = None
 
@@ -353,9 +408,9 @@ def ingest_from_youtube(
         path, prefix = _cobalt_download(youtube_url, output_prefix, tmp_root)
         print("[yt] Cobalt succeeded.")
         return path, prefix
-    except Exception as e:
+    except Exception as e:  # noqa: BLE001
         last_error = e
-        print(f"[yt] Cobalt failed: {e}")
+        print(f"[yt] Cobalt failed: {e!r}")
 
     # ---- Fallback: yt-dlp ----
     try:
@@ -363,9 +418,9 @@ def ingest_from_youtube(
         path, prefix = _ytdlp_download(youtube_url, output_prefix, tmp_root)
         print("[yt] yt-dlp succeeded.")
         return path, prefix
-    except Exception as e:
+    except Exception as e:  # noqa: BLE001
         raise RuntimeError(
-            f"Both methods failed. Cobalt: {last_error}; yt-dlp: {e}"
+            f"Both methods failed. Cobalt: {last_error!r}; yt-dlp: {e!r}"
         ) from e
 
 
@@ -373,16 +428,23 @@ def ingest_from_youtube(
 
 def parse_args(argv=None):
     parser = argparse.ArgumentParser(
-        description="Download, zip, chunk, and optionally commit a large artifact."
+        description="Download, zip, chunk, and optionally commit a large artifact.",
     )
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--url", help="Generic HTTP/HTTPS URL")
     group.add_argument("--youtube-url", help="YouTube video URL")
     parser.add_argument("--output-prefix", help="Base name for output files")
-    parser.add_argument("--chunk-size-mb", type=int, default=DEFAULT_CHUNK_SIZE_MB,
-                        help=f"Max chunk size in MiB (default {DEFAULT_CHUNK_SIZE_MB})")
-    parser.add_argument("--commit", action="store_true",
-                        help="Stage and commit chunks into the repo")
+    parser.add_argument(
+        "--chunk-size-mb",
+        type=int,
+        default=DEFAULT_CHUNK_SIZE_MB,
+        help=f"Max chunk size in MiB (default {DEFAULT_CHUNK_SIZE_MB})",
+    )
+    parser.add_argument(
+        "--commit",
+        action="store_true",
+        help="Stage and commit chunks into the repo",
+    )
     return parser.parse_args(argv)
 
 
@@ -391,23 +453,26 @@ def main(argv=None) -> int:
 
     try:
         if args.youtube_url:
-            final_path, eff_prefix = ingest_from_youtube(args.youtube_url, args.output_prefix)
+            final_path, eff_prefix = ingest_from_youtube(
+                args.youtube_url,
+                args.output_prefix,
+            )
             result = process_large_artifact_from_local(
                 src_path=final_path,
                 output_prefix=eff_prefix,
                 chunk_size_mb=args.chunk_size_mb,
                 do_commit=args.commit,
                 cleanup_src=True,
-                url_meta=args.youtube_url
+                url_meta=args.youtube_url,
             )
         else:
             result = process_large_artifact(
                 url=args.url,
                 output_prefix=args.output_prefix,
                 chunk_size_mb=args.chunk_size_mb,
-                do_commit=args.commit
+                do_commit=args.commit,
             )
-    except Exception as e:
+    except Exception as e:  # noqa: BLE001
         print(f"[ERROR] Pipeline failed: {e}")
         return 1
 
