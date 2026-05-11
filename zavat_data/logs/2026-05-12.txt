@@ -1,4 +1,28 @@
 ================================================================================
+2026-05-12 03:22:47 (Asia/Tehran) | IrGens
+Title  : Data Storytelling – mit Daten überzeugen und Entscheidungen gestalten
+Details: .MP4, AVC, 1280x720, 30 fps | Deutsch, AAC, 2 Ch | 1 Std. 14 Min. | 300 MB
+Link   : http://zavat.pw/ebooks/data-storytelling-mit-daten-uberzeugen-und-entscheidungen-gestalten.html
+
+================================================================================
+2026-05-12 03:22:47 (Asia/Tehran) | IrGens
+Title  : Content Creation: KI-Workflows für Kreative
+Details: .MP4, AVC, 1280x720, 30 fps | Deutsch, AAC, 2 Ch | 1 Std. 18 Min. | 210 MB
+Link   : http://zavat.pw/ebooks/content-creation-ki-workflows-fur-kreative.html
+
+================================================================================
+2026-05-12 03:22:47 (Asia/Tehran) | IrGens
+Title  : Erste Schritte mit Claude Design
+Details: .MP4, AVC, 1280x720, 30 fps | Deutsch, AAC, 2 Ch | 18 Min. | 34.3 MB
+Link   : http://zavat.pw/ebooks/erste-schritte-mit-claude-design.html
+
+================================================================================
+2026-05-12 03:22:47 (Asia/Tehran) | IrGens
+Title  : Exploratory Data Analysis (EDA) with Hex
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 44m | 136 MB
+Link   : http://zavat.pw/ebooks/exploratory-data-analysis-eda-with-hex.html
+
+================================================================================
 2026-05-12 02:18:33 (Asia/Tehran) | IrGens
 Title  : TTC Video - Neurohack It: Using Neuroscience for Better Living
 Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 5h 49m | 4,87 GB
