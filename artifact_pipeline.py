@@ -9,12 +9,18 @@ Phase 1:
       * Split into <=100MB numbered chunks
       * Optionally commit chunks into the git repo
 
-Phase 2 (YouTube‑specialized ingestion):
+Phase 2 (YouTube‑specialized ingestion, hybrid & resilient):
     - ingest_from_youtube(youtube_url, ...):
-      * Use pytube to pick the best available stream
-      * Prefer progressive (video+audio) mp4 at highest resolution
-      * Fallback: best video‑only + best audio‑only, then merge via ffmpeg
-      * Feed the final merged video into the same compression/splitting pipeline
+      * PRIMARY: pytube
+          - Prefer progressive (video+audio) mp4 at highest resolution
+          - Fallback to video‑only + audio‑only, merged via ffmpeg
+      * FALLBACK: yt-dlp
+          - Command:
+              yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" \
+                     --merge-output-format mp4 \
+                     -o "<output_path>.mp4" <URL>
+      * The function always returns a single final video path (or raises
+        a clear error if both methods fail).
 
 CLI modes:
     * HTTP generic:
@@ -32,8 +38,7 @@ CLI modes:
             --commit
 
 Requirements:
-    pip install requests pytube
-    # و روی runner (مثلاً ubuntu-latest):
+    pip install requests pytube yt-dlp
     sudo apt-get update && sudo apt-get install -y ffmpeg
 """
 
@@ -103,13 +108,11 @@ def slug_from_url(url: str, max_len: int = 40) -> str:
     parsed = urlparse(url)
     candidate = Path(parsed.path).name or parsed.netloc or "artifact"
 
-    # Very simple slugify: keep ASCII letters, digits, underscore, dash, dot
     safe = "".join(c for c in candidate if c.isalnum() or c in "-_.")
     if not safe:
         safe = "artifact"
 
     if len(safe) > max_len:
-        # Shorten but append a small hash to keep uniqueness
         h = hashlib.sha1(url.encode("utf-8")).hexdigest()[:8]
         safe = safe[: max_len - 9] + "_" + h
 
@@ -151,7 +154,6 @@ def download_stream(url: str, dest_path: Path) -> None:
                 f.write(chunk)
                 bytes_downloaded += len(chunk)
 
-                # Optional progress logging
                 if total:
                     pct = bytes_downloaded * 100 / total
                     sys.stdout.write(
@@ -160,7 +162,7 @@ def download_stream(url: str, dest_path: Path) -> None:
                     )
                     sys.stdout.flush()
         if total:
-            print()  # newline after progress
+            print()
     print(
         f"[download] Finished. Saved to: {dest_path} "
         f"({dest_path.stat().st_size / (1024*1024):.2f} MiB)"
@@ -168,11 +170,7 @@ def download_stream(url: str, dest_path: Path) -> None:
 
 
 def compress_to_zip(src_path: Path, zip_path: Path) -> None:
-    """
-    Compress `src_path` into a zip archive at `zip_path`.
-
-    The artifact is stored with `arcname` equal to its basename (no directories).
-    """
+    """Compress `src_path` into a zip archive at `zip_path`."""
     print(f"[zip] Compressing {src_path} -> {zip_path}")
     with zipfile.ZipFile(zip_path, "w", compression=zipfile.ZIP_DEFLATED) as zf:
         zf.write(src_path, arcname=src_path.name)
@@ -182,13 +180,6 @@ def compress_to_zip(src_path: Path, zip_path: Path) -> None:
 def split_file(path: Path, chunk_size_mb: int) -> List[Path]:
     """
     Split `path` into numbered chunks with maximum size `chunk_size_mb` MiB.
-
-    Chunks are created in the same directory as `path` and named:
-
-        {path.name}.001, {path.name}.002, ...
-
-    Returns:
-        List of chunk file paths (sorted by index).
     """
     chunk_size_bytes = int(chunk_size_mb * 1024 * 1024)
     if chunk_size_bytes <= 0:
@@ -227,19 +218,12 @@ def split_file(path: Path, chunk_size_mb: int) -> List[Path]:
 
 
 def git_commit_files(files: Iterable[Path], message: str) -> None:
-    """
-    Stage and commit the specified files using the local git repo.
-
-    Assumes:
-        - We are inside a valid git working tree.
-        - User/Action has already configured user.name / user.email if needed.
-    """
+    """Stage and commit the specified files using the local git repo."""
     files = list(files)
     if not files:
         print("[git] No files to commit; skipping git operations.")
         return
 
-    # Convert to relative POSIX paths for nicer git output
     rel_paths = [f.as_posix() for f in files]
 
     print(f"[git] Staging {len(rel_paths)} file(s)")
@@ -253,7 +237,6 @@ def git_commit_files(files: Iterable[Path], message: str) -> None:
         text=True,
     )
     if result.returncode != 0:
-        # Common case: "nothing to commit"
         print("[git] git commit exited with code", result.returncode)
         if result.stdout:
             print("[git] stdout:\n", result.stdout)
@@ -275,17 +258,7 @@ def _compress_split_commit(
     cleanup_src: bool,
     url_meta: str,
 ) -> PipelineResult:
-    """
-    Internal helper that:
-      - Compresses src_path to {output_prefix}.zip under ARTIFACT_ROOT
-      - Splits the zip into <=chunk_size_mb MiB chunks
-      - Optionally commits the chunks
-      - Optionally removes src_path and the zip
-
-    This is the common core used by:
-      * process_large_artifact (HTTP)
-      * process_large_artifact_from_local (e.g., YouTube ingestion)
-    """
+    """Shared core used by both HTTP and YouTube ingestion."""
     ensure_dir(ARTIFACT_ROOT)
 
     zip_path = ARTIFACT_ROOT / f"{output_prefix}.zip"
@@ -301,7 +274,6 @@ def _compress_split_commit(
 
     chunk_files = split_file(zip_path, chunk_size_mb=chunk_size_mb)
 
-    # Optionally remove the single zip archive and keep only chunks
     try:
         zip_size = zip_path.stat().st_size
         zip_path.unlink()
@@ -331,21 +303,7 @@ def process_large_artifact(
     chunk_size_mb: int = DEFAULT_CHUNK_SIZE_MB,
     do_commit: bool = False,
 ) -> PipelineResult:
-    """
-    Full end‑to‑end pipeline for a generic HTTP/HTTPS artifact:
-
-      1. Download URL into local workspace
-      2. Zip the downloaded file
-      3. Split the zip into <=chunk_size_mb MiB chunks
-      4. Optionally git‑commit the resulting chunks
-
-    Args:
-        url:             Direct HTTP/HTTPS URL to the large binary resource.
-        output_prefix:   Base name for all generated files (without extension).
-                         If None, derived automatically from the URL.
-        chunk_size_mb:   Max size of each chunk in mebibytes (MiB).
-        do_commit:       If True, stage & commit chunk files into git repo.
-    """
+    """Generic HTTP/HTTPS artifact pipeline."""
     if not output_prefix:
         output_prefix = slug_from_url(url)
 
@@ -354,7 +312,6 @@ def process_large_artifact(
 
     download_stream(url, raw_path)
 
-    # Use shared core
     return _compress_split_commit(
         src_path=raw_path,
         output_prefix=output_prefix,
@@ -373,20 +330,7 @@ def process_large_artifact_from_local(
     cleanup_src: bool = False,
     url_meta: str | None = None,
 ) -> PipelineResult:
-    """
-    Same compression/splitting pipeline, but starting from an existing local file.
-
-    This is what YouTube ingestion uses once it has produced a final merged video.
-
-    Args:
-        src_path:        Path to existing local file (e.g., merged mp4).
-        output_prefix:   Base name to use for the zip/chunk artifacts.
-        chunk_size_mb:   Max size of each chunk (MiB).
-        do_commit:       If True, stage & commit chunk files into git repo.
-        cleanup_src:     If True, delete src_path after successful zipping.
-        url_meta:        Optional "source" string to store in PipelineResult.url
-                         (e.g. original YouTube URL).
-    """
+    """Same pipeline, but starting from an existing local file (e.g., YouTube video)."""
     return _compress_split_commit(
         src_path=src_path,
         output_prefix=output_prefix,
@@ -397,7 +341,7 @@ def process_large_artifact_from_local(
     )
 
 
-# ----------------- YouTube specialized ingestion -----------------
+# ----------------- YouTube specialized ingestion (Hybrid) -----------------
 
 
 def normalize_youtube_url(url: str) -> str:
@@ -405,21 +349,15 @@ def normalize_youtube_url(url: str) -> str:
     Normalize various YouTube URL forms to a clean watch URL.
 
     Handles:
-      - stray spaces inside URL (like 'watch? v=...')
+      - stray spaces inside URL
       - https://www.youtube.com/watch?v=ID&...
       - https://youtu.be/ID
       - https://www.youtube.com/shorts/ID
-
-    Returns:
-        Canonical "https://www.youtube.com/watch?v=VIDEO_ID" if possible,
-        otherwise the stripped original string.
     """
     if not url:
         raise ValueError("Empty YouTube URL")
 
-    s = url.strip()
-    # حذف هر گونه فاصلهٔ داخلی که معمولاً از copy/paste بد می‌آید
-    s = s.replace(" ", "")
+    s = url.strip().replace(" ", "")
 
     patterns = [
         r"(?:https?://)?(?:www\.)?youtube\.com/watch\?(?:.*&)?v=([^&?#]+)",
@@ -432,51 +370,27 @@ def normalize_youtube_url(url: str) -> str:
             vid = m.group(1)
             return f"https://www.youtube.com/watch?v={vid}"
 
-    # اگر الگوی خاصی پیدا نشد، همان رشتهٔ تمیزشده را برگردان
     return s
 
 
-def ingest_from_youtube(
+def _pytube_download(
     youtube_url: str,
-    output_prefix: str | None = None,
-    tmp_root: Path | None = None,
+    output_prefix: str | None,
+    tmp_root: Path | None,
 ) -> Tuple[Path, str]:
     """
-    Specialized ingestion for a YouTube video URL using pytube + ffmpeg.
-
-    Logic:
-      1. Normalize the URL (remove spaces, extract videoId, build clean watch URL)
-      2. Build pytube.YouTube object from the normalized URL
-      3. If available, select the best progressive mp4 stream
-         (contains both audio & video) with highest resolution
-      4. Otherwise:
-         * select highest resolution video‑only mp4 stream
-         * select best audio‑only stream (prefer mp4, else any)
-         * download both and merge them using `ffmpeg -c copy` into
-           a single mp4 file
-      5. Return the path to the final video file + the effective output_prefix
-
-    The returned video path can be passed directly into
-    process_large_artifact_from_local(...) to enter the main pipeline.
+    PRIMARY method: download YouTube video via pytube + ffmpeg (if needed).
+    Raises Exception on any failure (to be caught by hybrid wrapper).
     """
-    try:
-        from pytube import YouTube
-    except ImportError as e:
-        raise RuntimeError(
-            "pytube is required for YouTube ingestion; "
-            "install it with `pip install pytube`."
-        ) from e
+    from pytube import YouTube  # imported lazily
 
     raw_url = youtube_url
     youtube_url = normalize_youtube_url(youtube_url)
-    print(f"[yt] Initializing pytube for URL: {youtube_url}")
+    print(f"[yt] (pytube) Initializing pytube for URL: {youtube_url}")
     if youtube_url != raw_url.strip():
-        print(f"[yt] (normalized from: {raw_url!r})")
+        print(f"[yt] (pytube) normalized from: {raw_url!r}")
 
-    try:
-        yt = YouTube(youtube_url)
-    except Exception as e:  # noqa: BLE001
-        raise RuntimeError(f"Failed to initialize YouTube object: {e}") from e
+    yt = YouTube(youtube_url)
 
     base_name = (
         output_prefix
@@ -488,11 +402,10 @@ def ingest_from_youtube(
         tmp_root = ARTIFACT_ROOT / "youtube_tmp" / base_name
     ensure_dir(tmp_root)
 
-    print(f"[yt] Video title: {yt.title}")
-    print(f"[yt] Output base name: {base_name}")
-    print(f"[yt] Temporary directory: {tmp_root}")
+    print(f"[yt] (pytube) Video title: {yt.title}")
+    print(f"[yt] (pytube) Output base name: {base_name}")
+    print(f"[yt] (pytube) Temporary directory: {tmp_root}")
 
-    # 1) Try progressive highest resolution mp4
     progressive = (
         yt.streams.filter(progressive=True, file_extension="mp4")
         .order_by("resolution")
@@ -502,7 +415,7 @@ def ingest_from_youtube(
 
     if progressive:
         print(
-            f"[yt] Using progressive stream: itag={progressive.itag}, "
+            f"[yt] (pytube) Using progressive stream: itag={progressive.itag}, "
             f"res={progressive.resolution}, mime={progressive.mime_type}"
         )
         out_path_str = progressive.download(
@@ -510,12 +423,10 @@ def ingest_from_youtube(
             filename=base_name,
         )
         final_video_path = Path(out_path_str)
-        print(f"[yt] Downloaded progressive stream to {final_video_path}")
+        print(f"[yt] (pytube) Downloaded progressive stream to {final_video_path}")
         return final_video_path, base_name
 
-    # 2) Fallback: separate video + audio
-    print("[yt] No suitable progressive mp4 stream found; "
-          "downloading video and audio separately...")
+    print("[yt] (pytube) No progressive mp4; downloading video+audio separately...")
 
     video_stream = (
         yt.streams.filter(only_video=True, file_extension="mp4")
@@ -524,9 +435,8 @@ def ingest_from_youtube(
         .first()
     )
     if video_stream is None:
-        raise RuntimeError("No suitable video‑only mp4 stream found for this YouTube URL.")
+        raise RuntimeError("No suitable video‑only mp4 stream found (pytube).")
 
-    # Prefer audio in mp4 container, fall back to any audio otherwise
     audio_stream = (
         yt.streams.filter(only_audio=True, file_extension="mp4")
         .order_by("abr")
@@ -535,14 +445,14 @@ def ingest_from_youtube(
         or yt.streams.filter(only_audio=True).order_by("abr").desc().first()
     )
     if audio_stream is None:
-        raise RuntimeError("No suitable audio‑only stream found for this YouTube URL.")
+        raise RuntimeError("No suitable audio‑only stream found (pytube).")
 
     print(
-        f"[yt] Selected video‑only stream: itag={video_stream.itag}, "
+        f"[yt] (pytube) video stream: itag={video_stream.itag}, "
         f"res={video_stream.resolution}, mime={video_stream.mime_type}"
     )
     print(
-        f"[yt] Selected audio‑only stream: itag={audio_stream.itag}, "
+        f"[yt] (pytube) audio stream: itag={audio_stream.itag}, "
         f"abr={audio_stream.abr}, mime={audio_stream.mime_type}"
     )
 
@@ -553,12 +463,11 @@ def ingest_from_youtube(
         audio_stream.download(output_path=str(tmp_root), filename=f"{base_name}_audio")
     )
 
-    print(f"[yt] Downloaded video to: {video_path}")
-    print(f"[yt] Downloaded audio to: {audio_path}")
+    print(f"[yt] (pytube) Downloaded video to: {video_path}")
+    print(f"[yt] (pytube) Downloaded audio to: {audio_path}")
 
     merged_path = tmp_root / f"{base_name}.mp4"
 
-    # Merge with ffmpeg
     ffmpeg_cmd = [
         "ffmpeg",
         "-y",
@@ -572,30 +481,140 @@ def ingest_from_youtube(
         "error",
         str(merged_path),
     ]
-    print("[yt] Merging video and audio using ffmpeg:")
+    print("[yt] (pytube) Merging video and audio using ffmpeg:")
     print("     ", " ".join(ffmpeg_cmd))
 
-    try:
-        subprocess.run(ffmpeg_cmd, check=True)
-    except FileNotFoundError as e:
-        raise RuntimeError(
-            "ffmpeg not found. Install it in the runner environment "
-            "e.g. `sudo apt-get install -y ffmpeg`."
-        ) from e
-    except subprocess.CalledProcessError as e:
-        raise RuntimeError(f"ffmpeg merge failed with exit code {e.returncode}") from e
+    subprocess.run(ffmpeg_cmd, check=True)
 
-    print(f"[yt] Final merged video at: {merged_path}")
+    print(f"[yt] (pytube) Final merged video at: {merged_path}")
 
-    # Optional cleanup of intermediate streams
     for p in (video_path, audio_path):
         try:
             p.unlink()
-            print(f"[yt] Removed intermediate file: {p}")
+            print(f"[yt] (pytube) Removed intermediate file: {p}")
         except FileNotFoundError:
             pass
 
     return merged_path, base_name
+
+
+def _ytdlp_download(
+    youtube_url: str,
+    output_prefix: str | None,
+    tmp_root: Path | None,
+) -> Tuple[Path, str]:
+    """
+    FALLBACK method: download via yt-dlp.
+
+    Command pattern:
+        yt-dlp -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" \
+               --merge-output-format mp4 \
+               -o "<output_path>.mp4" <URL>
+    """
+    youtube_url = normalize_youtube_url(youtube_url)
+    base_name = output_prefix or slug_from_url(youtube_url) or "yt_video"
+
+    if tmp_root is None:
+        tmp_root = ARTIFACT_ROOT / "youtube_tmp" / base_name
+    ensure_dir(tmp_root)
+
+    output_path = tmp_root / f"{base_name}.mp4"
+
+    cmd = [
+        "yt-dlp",
+        "-f",
+        'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best',
+        "--merge-output-format",
+        "mp4",
+        "-o",
+        str(output_path),
+        youtube_url,
+    ]
+
+    print("[yt] (yt-dlp) Running yt-dlp fallback command:")
+    print("     ", " ".join(cmd))
+
+    try:
+        proc = subprocess.run(
+            cmd,
+            check=False,
+            text=True,
+            capture_output=True,
+        )
+    except FileNotFoundError as e:
+        raise RuntimeError(
+            "yt-dlp not found. Install it with `pip install yt-dlp` "
+            "or ensure it is available in PATH."
+        ) from e
+
+    print(f"[yt-dlp] exit code: {proc.returncode}")
+    if proc.stdout:
+        print("[yt-dlp] stdout:\n", proc.stdout)
+    if proc.stderr:
+        print("[yt-dlp] stderr:\n", proc.stderr)
+
+    if proc.returncode != 0:
+        raise RuntimeError(f"yt-dlp failed with exit code {proc.returncode}")
+
+    if not output_path.exists():
+        raise RuntimeError(
+            f"yt-dlp finished without error, but output file not found at {output_path}"
+        )
+
+    print(f"[yt] (yt-dlp) Fallback produced video: {output_path}")
+    return output_path, base_name
+
+
+def ingest_from_youtube(
+    youtube_url: str,
+    output_prefix: str | None = None,
+    tmp_root: Path | None = None,
+) -> Tuple[Path, str]:
+    """
+    Hybrid resilient downloader for YouTube:
+
+      PRIMARY: pytube (with ffmpeg merge if needed)
+      FALLBACK: yt-dlp
+
+    Returns:
+        (final_video_path, effective_output_prefix)
+
+    Raises:
+        RuntimeError only if *both* methods fail.
+    """
+    last_pytube_error: Exception | None = None
+
+    # ---------- Primary: pytube ----------
+    try:
+        print("[yt] Using PRIMARY ingestion method: pytube")
+        final_path, eff_prefix = _pytube_download(
+            youtube_url=youtube_url,
+            output_prefix=output_prefix,
+            tmp_root=tmp_root,
+        )
+        print("[yt] pytube ingestion succeeded.")
+        return final_path, eff_prefix
+    except Exception as e:  # noqa: BLE001
+        last_pytube_error = e
+        print(
+            f"[yt] pytube ingestion failed: {e!r}\n"
+            "[yt] Switching to Emergency Fallback (yt-dlp)..."
+        )
+
+    # ---------- Fallback: yt-dlp ----------
+    try:
+        final_path, eff_prefix = _ytdlp_download(
+            youtube_url=youtube_url,
+            output_prefix=output_prefix,
+            tmp_root=tmp_root,
+        )
+        print("[yt] yt-dlp fallback succeeded.")
+        return final_path, eff_prefix
+    except Exception as e:  # noqa: BLE001
+        raise RuntimeError(
+            "Both pytube and yt-dlp ingestion failed. "
+            f"pytube error: {last_pytube_error!r}; yt-dlp error: {e!r}"
+        ) from e
 
 
 # ----------------- CLI entry point -----------------
@@ -606,7 +625,6 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         description="Download/ingest, zip, chunk, and (optionally) commit a large artifact.",
     )
 
-    # URL source: either a generic HTTP URL OR a YouTube URL (mutually exclusive)
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument(
         "--url",
@@ -614,7 +632,7 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     )
     group.add_argument(
         "--youtube-url",
-        help="YouTube video URL to ingest via pytube + ffmpeg (specialized mode).",
+        help="YouTube video URL to ingest via pytube+ffmpeg with yt-dlp fallback.",
     )
 
     parser.add_argument(
@@ -647,7 +665,6 @@ def main(argv: list[str] | None = None) -> int:
 
     try:
         if args.youtube_url:
-            # Phase 2 path: YouTube specialized ingestion
             final_video_path, effective_prefix = ingest_from_youtube(
                 youtube_url=args.youtube_url,
                 output_prefix=args.output_prefix,
@@ -657,11 +674,10 @@ def main(argv: list[str] | None = None) -> int:
                 output_prefix=effective_prefix,
                 chunk_size_mb=args.chunk_size_mb,
                 do_commit=args.commit,
-                cleanup_src=True,  # remove merged mp4 after pipeline
+                cleanup_src=True,
                 url_meta=args.youtube_url,
             )
         else:
-            # Phase 1 path: generic HTTP URL
             result = process_large_artifact(
                 url=args.url,
                 output_prefix=args.output_prefix,
