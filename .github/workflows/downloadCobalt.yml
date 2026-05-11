@@ -1,0 +1,37 @@
+name: YouTube Video Ingestor
+
+on:
+  workflow_dispatch:
+    inputs:
+      youtube_url:
+        description: "YouTube video URL"
+        required: true
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests yt-dlp
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Download and process video
+        run: |
+          python artifact_pipeline.py \
+            --youtube-url "${{ github.event.inputs.youtube_url }}" \
+            --chunk-size-mb 95 \
+            --commit
+
+      - name: Push chunks to repo
+        if: success()
+        run: |
+          git push origin HEAD
