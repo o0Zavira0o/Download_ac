@@ -41,6 +41,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import re
 import subprocess
 import sys
 from dataclasses import dataclass
@@ -399,6 +400,42 @@ def process_large_artifact_from_local(
 # ----------------- YouTube specialized ingestion -----------------
 
 
+def normalize_youtube_url(url: str) -> str:
+    """
+    Normalize various YouTube URL forms to a clean watch URL.
+
+    Handles:
+      - stray spaces inside URL (like 'watch? v=...')
+      - https://www.youtube.com/watch?v=ID&...
+      - https://youtu.be/ID
+      - https://www.youtube.com/shorts/ID
+
+    Returns:
+        Canonical "https://www.youtube.com/watch?v=VIDEO_ID" if possible,
+        otherwise the stripped original string.
+    """
+    if not url:
+        raise ValueError("Empty YouTube URL")
+
+    s = url.strip()
+    # حذف هر گونه فاصلهٔ داخلی که معمولاً از copy/paste بد می‌آید
+    s = s.replace(" ", "")
+
+    patterns = [
+        r"(?:https?://)?(?:www\.)?youtube\.com/watch\?(?:.*&)?v=([^&?#]+)",
+        r"(?:https?://)?(?:www\.)?youtu\.be/([^&?#]+)",
+        r"(?:https?://)?(?:www\.)?youtube\.com/shorts/([^&?#]+)",
+    ]
+    for pat in patterns:
+        m = re.search(pat, s)
+        if m:
+            vid = m.group(1)
+            return f"https://www.youtube.com/watch?v={vid}"
+
+    # اگر الگوی خاصی پیدا نشد، همان رشتهٔ تمیزشده را برگردان
+    return s
+
+
 def ingest_from_youtube(
     youtube_url: str,
     output_prefix: str | None = None,
@@ -408,15 +445,16 @@ def ingest_from_youtube(
     Specialized ingestion for a YouTube video URL using pytube + ffmpeg.
 
     Logic:
-      1. Build pytube.YouTube object from the URL
-      2. If available, select the best progressive mp4 stream
+      1. Normalize the URL (remove spaces, extract videoId, build clean watch URL)
+      2. Build pytube.YouTube object from the normalized URL
+      3. If available, select the best progressive mp4 stream
          (contains both audio & video) with highest resolution
-      3. Otherwise:
+      4. Otherwise:
          * select highest resolution video‑only mp4 stream
          * select best audio‑only stream (prefer mp4, else any)
          * download both and merge them using `ffmpeg -c copy` into
            a single mp4 file
-      4. Return the path to the final video file + the effective output_prefix
+      5. Return the path to the final video file + the effective output_prefix
 
     The returned video path can be passed directly into
     process_large_artifact_from_local(...) to enter the main pipeline.
@@ -429,7 +467,12 @@ def ingest_from_youtube(
             "install it with `pip install pytube`."
         ) from e
 
+    raw_url = youtube_url
+    youtube_url = normalize_youtube_url(youtube_url)
     print(f"[yt] Initializing pytube for URL: {youtube_url}")
+    if youtube_url != raw_url.strip():
+        print(f"[yt] (normalized from: {raw_url!r})")
+
     try:
         yt = YouTube(youtube_url)
     except Exception as e:  # noqa: BLE001
