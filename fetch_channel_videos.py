@@ -60,6 +60,17 @@ CHANNELS = [
     {
         "url": "https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ",
     },
+    {
+        "url": "https://www.youtube.com/channel/UCDmvwsI7-VjhJq3nlgXvByg",
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=ATjofahxGQs",
+        # Pei Planet
+    },
+    {
+        "url": "https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A",
+        # Origami☆Man
+    },
     
     # https://www.youtube.com/channel/UCVc_jmqkqUNgEqBZ2pxOyyA
 
