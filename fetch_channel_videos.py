@@ -39,22 +39,28 @@ CHANNELS = [
         "url": "https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q",
     },
     {
-        "url": "https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA",
+        "url": "https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA", "num": 900,
+        # cad cam tutorial by mahtabalam
+
     },
     {
         "url": "https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA",
+        # Engineering Design
+
     },
     {
         "url": "https://www.youtube.com/channel/UCi_pluZoV81wOpEHXpfJelw",
     },    
     {
         "url": "https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ",
+        # nanoCADcom
     },
     {
         "url": "https://www.youtube.com/channel/UCH2-aT4yIrfuuXkcgsuisYg",
     },
     {
         "url": "https://www.youtube.com/channel/UCRmLnVaHsSAH0HkXfeoxG6w",
+        # SolidWorks With Aryan Fallahi
     },
     {
         "url": "https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA",
@@ -80,11 +86,11 @@ CHANNELS = [
         # Origami☆Man
     },
     {
-        "url": "https://www.youtube.com/c/ProfessorTedDiehl",
+        "url": "https://www.youtube.com/c/ProfessorTedDiehl", "num": 900,
     },
 
     {
-        "url": "https://www.youtube.com/@hwaufranc",
+        "url": "https://www.youtube.com/@hwaufranc", "num": 900,
     },
     
     
