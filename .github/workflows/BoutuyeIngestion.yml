@@ -1,51 +1,7 @@
-name: MediaFlow-CI Phase 2 - YouTube Ingestion POC
-
-on:
-  workflow_dispatch:
-    inputs:
-      youtube_url:
-        description: "YouTube video URL to ingest"
-        required: true
-        type: string
-
-jobs:
-  youtube-artifact:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write  # برای commit کردن chunks لازم است
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Install ffmpeg
+      - name: Install Dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install Python dependencies
-        run: |
-          pip install requests pytube yt-dlp
-
-      - name: Run YouTube ingestion + artifact pipeline
-        env:
-          GIT_AUTHOR_NAME: github-actions[bot]
-          GIT_AUTHOR_EMAIL: github-actions[bot]@users.noreply.github.com
-          GIT_COMMITTER_NAME: github-actions[bot]
-          GIT_COMMITTER_EMAIL: github-actions[bot]@users.noreply.github.com
-        run: |
-          python artifact_pipeline.py \
-            --youtube-url "${{ github.event.inputs.youtube_url }}" \
-            --output-prefix "yt_poc" \
-            --chunk-size-mb 95 \
-            --commit
-
-      - name: Push changes
-        run: |
-          git push
+      - name: Run Artifact Pipeline
+        run: python artifact_pipeline.py --url "لینک_یوتیوب_شما"
