@@ -31,7 +31,7 @@ jobs:
 
       - name: Install Python dependencies
         run: |
-          pip install requests pytube
+          pip install requests pytube yt-dlp
 
       - name: Run YouTube ingestion + artifact pipeline
         env:
