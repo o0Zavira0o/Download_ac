@@ -73,8 +73,12 @@ CHANNELS = [
     },
     {
         "url": "https://www.youtube.com/c/ProfessorTedDiehl",
-        # Origami☆Man
     },
+
+    {
+        "url": "https://www.youtube.com/@hwaufranc",
+    },
+    
     
     
     # https://www.youtube.com/channel/UCVc_jmqkqUNgEqBZ2pxOyyA
