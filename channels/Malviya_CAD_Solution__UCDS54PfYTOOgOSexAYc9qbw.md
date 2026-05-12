@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-05-11T12:19:27Z_
+_آخرین به‌روزرسانی: 2026-05-12T07:41:30Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-05-12 06:30:15 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Solidworks exploded view #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=8D8F_J4hdAo)  
+  ![](https://i.ytimg.com/vi/8D8F_J4hdAo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-10 02:56:35 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-11T12:19:27Z_
   **مدت:** حدود 2.0 دقیقه  
   **عنوان:** [Using Trim surface tool in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=soYAXm23DXg)  
   ![](https://i.ytimg.com/vi/soYAXm23DXg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-11 02:31:27 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [How to use the Composit curve in solidworks #shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=NcBmi8qjoxw)  
-  ![](https://i.ytimg.com/vi/NcBmi8qjoxw/hqdefault.jpg)

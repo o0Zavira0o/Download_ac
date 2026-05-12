@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-05-11T12:19:27Z_
+_آخرین به‌روزرسانی: 2026-05-12T07:41:30Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-05-11 14:10:28 (UTC)  
+  **مدت:** حدود 17.1 دقیقه  
+  **عنوان:** [ASMR 백설공주 빌런 테마 다이어리 꾸미기 | 콜라주 다꾸 Journaling Ideas](https://www.youtube.com/watch?v=fJazjMCgvsY)  
+  ![](https://i.ytimg.com/vi/fJazjMCgvsY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-10 13:00:25 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-05-11T12:19:27Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [펭귄 테마 다꾸 🐧2-2 #journaling #asmr #journalasmr](https://www.youtube.com/watch?v=vrAs3_bb_oY)  
   ![](https://i.ytimg.com/vi/vrAs3_bb_oY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-02 13:54:01 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [펭귄 테마 다꾸 🐧1-2 #journaling #asmr #1분다꾸 #다꾸asmr](https://www.youtube.com/watch?v=NlMVKwRfq14)  
-  ![](https://i.ytimg.com/vi/NlMVKwRfq14/hqdefault.jpg)

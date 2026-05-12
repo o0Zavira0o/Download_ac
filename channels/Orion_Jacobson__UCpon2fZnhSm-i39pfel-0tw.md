@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال Orion Jacobson 
 
-_آخرین به‌روزرسانی: 2026-05-11T12:19:27Z_
+_آخرین به‌روزرسانی: 2026-05-12T07:41:30Z_
 
 
 **لینک استاندارد کانال:** [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)  
+
+
+- **تاریخ انتشار:** 2026-05-12 06:34:29 (UTC)  
+  **مدت:** حدود 45.7 دقیقه  
+  **عنوان:** [Assembly Stream](https://www.youtube.com/watch?v=UxVBnbsLR0E)  
+  ![](https://i.ytimg.com/vi/UxVBnbsLR0E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-11 17:42:31 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Assembly Stream](https://www.youtube.com/watch?v=sg2_KzqbIbg)  
+  ![](https://i.ytimg.com/vi/sg2_KzqbIbg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-11 16:52:25 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [idk man I did this #lamp](https://www.youtube.com/watch?v=OugXvRAFlAQ)  
+  ![](https://i.ytimg.com/vi/OugXvRAFlAQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-10 18:28:14 (UTC)  
@@ -886,21 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-11T12:19:27Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [Only the most bard out activities  #automobile #skiing](https://www.youtube.com/watch?v=_vB9YUD6mmk)  
   ![](https://i.ytimg.com/vi/_vB9YUD6mmk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-02-22 23:38:39 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Like father like son #helpmemakethismakesense](https://www.youtube.com/watch?v=cQ6PxXS4EZc)  
-  ![](https://i.ytimg.com/vi/cQ6PxXS4EZc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-02-22 00:16:07 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [AI is getting so good nowadays](https://www.youtube.com/watch?v=RYUQfiwFHKI)  
-  ![](https://i.ytimg.com/vi/RYUQfiwFHKI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-02-22 00:13:57 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Bro, this game is impossible](https://www.youtube.com/watch?v=7RcW4jEBsFg)  
-  ![](https://i.ytimg.com/vi/7RcW4jEBsFg/hqdefault.jpg)

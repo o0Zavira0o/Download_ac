@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-05-11T12:19:27Z_
+_آخرین به‌روزرسانی: 2026-05-12T07:41:30Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
@@ -5404,3 +5404,3603 @@ _آخرین به‌روزرسانی: 2026-05-11T12:19:27Z_
   **مدت:** حدود 12.3 دقیقه  
   **عنوان:** [Solidworks Two Cylinder Engine 8.Crankshaft Sprocket](https://www.youtube.com/watch?v=o0zhmXSPsbQ)  
   ![](https://i.ytimg.com/vi/o0zhmXSPsbQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-08-13 09:59:01 (UTC)  
+  **مدت:** حدود 12.1 دقیقه  
+  **عنوان:** [Solidworks Two Cylinder Engine 7.Rocker Arm](https://www.youtube.com/watch?v=Wu7p55Jck9o)  
+  ![](https://i.ytimg.com/vi/Wu7p55Jck9o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-08-12 15:30:00 (UTC)  
+  **مدت:** حدود 5.9 دقیقه  
+  **عنوان:** [Solidworks Two Cylinder Engine 6.Crankshaft](https://www.youtube.com/watch?v=51fzQMUacuc)  
+  ![](https://i.ytimg.com/vi/51fzQMUacuc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-08-11 15:30:05 (UTC)  
+  **مدت:** حدود 6.1 دقیقه  
+  **عنوان:** [Solidworks Two Cylinder Engine 5.Pushrod](https://www.youtube.com/watch?v=IUHyqQJt8VI)  
+  ![](https://i.ytimg.com/vi/IUHyqQJt8VI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-08-10 15:30:03 (UTC)  
+  **مدت:** حدود 6.1 دقیقه  
+  **عنوان:** [Solidworks Two Cylinder Engine 4.Connecting Rod](https://www.youtube.com/watch?v=rh1gPkiSmwU)  
+  ![](https://i.ytimg.com/vi/rh1gPkiSmwU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-08-09 15:30:05 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Solidworks Two Cylinder Engine 3.Pin](https://www.youtube.com/watch?v=bxAJk5KcHDw)  
+  ![](https://i.ytimg.com/vi/bxAJk5KcHDw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-08-08 15:30:00 (UTC)  
+  **مدت:** حدود 7.6 دقیقه  
+  **عنوان:** [Solidworks Two Cylinder Engine 2.Piston](https://www.youtube.com/watch?v=I6ZDnkDeqxk)  
+  ![](https://i.ytimg.com/vi/I6ZDnkDeqxk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-08-07 19:50:59 (UTC)  
+  **مدت:** حدود 40.0 دقیقه  
+  **عنوان:** [SolidWorks Two Cylinder Engine 1.Engine Block](https://www.youtube.com/watch?v=0y56DD_6KkQ)  
+  ![](https://i.ytimg.com/vi/0y56DD_6KkQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-07-29 17:31:32 (UTC)  
+  **مدت:** حدود 30.0 دقیقه  
+  **عنوان:** [Solidworks tutorial Roller Bearing](https://www.youtube.com/watch?v=B2aPoKRwSy4)  
+  ![](https://i.ytimg.com/vi/B2aPoKRwSy4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-06-17 16:10:24 (UTC)  
+  **مدت:** حدود 15.5 دقیقه  
+  **عنوان:** [Solidworks Sheet metal tutorial Louver and forming tool](https://www.youtube.com/watch?v=uqx3u-66jLk)  
+  ![](https://i.ytimg.com/vi/uqx3u-66jLk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-06-15 14:33:22 (UTC)  
+  **مدت:** حدود 11.5 دقیقه  
+  **عنوان:** [Solidworks Weldments exercise](https://www.youtube.com/watch?v=3yRMtO_hKWs)  
+  ![](https://i.ytimg.com/vi/3yRMtO_hKWs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-06-09 17:22:08 (UTC)  
+  **مدت:** حدود 56.3 دقیقه  
+  **عنوان:** [Solidworks Advanced Surface tutorial Logitech mouse](https://www.youtube.com/watch?v=aSBbqkK30pQ)  
+  ![](https://i.ytimg.com/vi/aSBbqkK30pQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-06-08 15:34:23 (UTC)  
+  **مدت:** حدود 14.3 دقیقه  
+  **عنوان:** [Solidworks Sheet metal tutorial Steel Bracket](https://www.youtube.com/watch?v=OAI9xCsa8eM)  
+  ![](https://i.ytimg.com/vi/OAI9xCsa8eM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-05-14 15:16:38 (UTC)  
+  **مدت:** حدود 41.1 دقیقه  
+  **عنوان:** [Design and Assembly of Butterfly valve in Solidworks](https://www.youtube.com/watch?v=YkasWbB69Rk)  
+  ![](https://i.ytimg.com/vi/YkasWbB69Rk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-05-11 15:52:11 (UTC)  
+  **مدت:** حدود 25.4 دقیقه  
+  **عنوان:** [SolidWorks Drawing Tutorial for Beginners exercise 104](https://www.youtube.com/watch?v=d3wy4QpTE1M)  
+  ![](https://i.ytimg.com/vi/d3wy4QpTE1M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-04-29 15:25:12 (UTC)  
+  **مدت:** حدود 18.6 دقیقه  
+  **عنوان:** [SolidWorks Drawing Tutorial for Beginners exercise 103](https://www.youtube.com/watch?v=v2FwEOhuWkI)  
+  ![](https://i.ytimg.com/vi/v2FwEOhuWkI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-04-28 12:30:07 (UTC)  
+  **مدت:** حدود 14.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 102](https://www.youtube.com/watch?v=LT3AMA3SYt0)  
+  ![](https://i.ytimg.com/vi/LT3AMA3SYt0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-04-27 11:29:35 (UTC)  
+  **مدت:** حدود 24.1 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 101](https://www.youtube.com/watch?v=ywfUsgqNg2Y)  
+  ![](https://i.ytimg.com/vi/ywfUsgqNg2Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-04-21 16:48:50 (UTC)  
+  **مدت:** حدود 15.2 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial for beginners Exercise 13](https://www.youtube.com/watch?v=OAld5tV9IXk)  
+  ![](https://i.ytimg.com/vi/OAld5tV9IXk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-04-19 14:42:12 (UTC)  
+  **مدت:** حدود 13.1 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial for beginners Exercise 12](https://www.youtube.com/watch?v=6KkYTo23RXE)  
+  ![](https://i.ytimg.com/vi/6KkYTo23RXE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-04-15 15:47:16 (UTC)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial for beginners Exercise 11](https://www.youtube.com/watch?v=XhsB_UuSKQQ)  
+  ![](https://i.ytimg.com/vi/XhsB_UuSKQQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-04-14 10:44:05 (UTC)  
+  **مدت:** حدود 14.5 دقیقه  
+  **عنوان:** [Solidworks Sheet metal exercise 101](https://www.youtube.com/watch?v=lgienitNk7s)  
+  ![](https://i.ytimg.com/vi/lgienitNk7s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-03-09 16:03:55 (UTC)  
+  **مدت:** حدود 12.9 دقیقه  
+  **عنوان:** [Solidworks Model Mania 2020 Phase 1](https://www.youtube.com/watch?v=0VLLH4QnDk4)  
+  ![](https://i.ytimg.com/vi/0VLLH4QnDk4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-02-27 09:03:26 (UTC)  
+  **مدت:** حدود 12.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 100](https://www.youtube.com/watch?v=1ljT2KdzHYI)  
+  ![](https://i.ytimg.com/vi/1ljT2KdzHYI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-02-25 15:19:22 (UTC)  
+  **مدت:** حدود 26.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 99](https://www.youtube.com/watch?v=B183TOm1nTM)  
+  ![](https://i.ytimg.com/vi/B183TOm1nTM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-02-24 10:19:49 (UTC)  
+  **مدت:** حدود 24.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 98](https://www.youtube.com/watch?v=AhIdHFLVk3c)  
+  ![](https://i.ytimg.com/vi/AhIdHFLVk3c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-02-20 14:18:04 (UTC)  
+  **مدت:** حدود 25.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 97](https://www.youtube.com/watch?v=U30F6bIj9bU)  
+  ![](https://i.ytimg.com/vi/U30F6bIj9bU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-02-19 19:31:57 (UTC)  
+  **مدت:** حدود 7.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 96 Lofted surface](https://www.youtube.com/watch?v=zOL60Gt7SDk)  
+  ![](https://i.ytimg.com/vi/zOL60Gt7SDk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-02-18 19:45:09 (UTC)  
+  **مدت:** حدود 14.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 95](https://www.youtube.com/watch?v=Hm096zu9G6Y)  
+  ![](https://i.ytimg.com/vi/Hm096zu9G6Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-02-17 16:25:07 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Solidworks tutorial Propeller](https://www.youtube.com/watch?v=0HRQT2WV5NU)  
+  ![](https://i.ytimg.com/vi/0HRQT2WV5NU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-02-07 17:18:22 (UTC)  
+  **مدت:** حدود 15.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 94](https://www.youtube.com/watch?v=V4ibBUYWD0g)  
+  ![](https://i.ytimg.com/vi/V4ibBUYWD0g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-02-05 20:34:48 (UTC)  
+  **مدت:** حدود 13.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 93](https://www.youtube.com/watch?v=6WSiozIbyvg)  
+  ![](https://i.ytimg.com/vi/6WSiozIbyvg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-02-04 13:39:47 (UTC)  
+  **مدت:** حدود 13.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 92](https://www.youtube.com/watch?v=pyX8ttTLhlk)  
+  ![](https://i.ytimg.com/vi/pyX8ttTLhlk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-02-02 15:30:00 (UTC)  
+  **مدت:** حدود 16.6 دقیقه  
+  **عنوان:** [Solidworks Surface tutorial Earphone](https://www.youtube.com/watch?v=H-usD16aLXI)  
+  ![](https://i.ytimg.com/vi/H-usD16aLXI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-01-31 03:30:00 (UTC)  
+  **مدت:** حدود 11.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 91](https://www.youtube.com/watch?v=Iv2g6Y1frfs)  
+  ![](https://i.ytimg.com/vi/Iv2g6Y1frfs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-01-30 03:30:00 (UTC)  
+  **مدت:** حدود 29.6 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of BMW M5 Rim](https://www.youtube.com/watch?v=-jstsHLZW_4)  
+  ![](https://i.ytimg.com/vi/-jstsHLZW_4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-01-29 10:11:46 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Solidworks tutorial Castle Crown Nut](https://www.youtube.com/watch?v=qrXL9UWPwTI)  
+  ![](https://i.ytimg.com/vi/qrXL9UWPwTI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-01-26 15:30:04 (UTC)  
+  **مدت:** حدود 12.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 90](https://www.youtube.com/watch?v=c-GXeEl6CdQ)  
+  ![](https://i.ytimg.com/vi/c-GXeEl6CdQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-01-20 19:05:02 (UTC)  
+  **مدت:** حدود 25.9 دقیقه  
+  **عنوان:** [Solidworks Mold tutorial Create Cavity and Core](https://www.youtube.com/watch?v=VwNoZ057CG0)  
+  ![](https://i.ytimg.com/vi/VwNoZ057CG0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-01-19 18:05:01 (UTC)  
+  **مدت:** حدود 16.5 دقیقه  
+  **عنوان:** [Solidworks Sheet metal tutorial Forming tools](https://www.youtube.com/watch?v=1zj6uRQnV10)  
+  ![](https://i.ytimg.com/vi/1zj6uRQnV10/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-01-14 15:39:10 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Solidworks tutorial Spring Variable Pitch](https://www.youtube.com/watch?v=dtlrWWLznGQ)  
+  ![](https://i.ytimg.com/vi/dtlrWWLznGQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-01-02 18:29:48 (UTC)  
+  **مدت:** حدود 62.5 دقیقه  
+  **عنوان:** [Solidworks tutorial Wind Turbine](https://www.youtube.com/watch?v=bvJib1-RZrg)  
+  ![](https://i.ytimg.com/vi/bvJib1-RZrg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2020-01-02 07:24:31 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [Happy New Year to All Solidworks, Inventor and Fusion 360 Subscribers](https://www.youtube.com/watch?v=pTjsQMIZkKY)  
+  ![](https://i.ytimg.com/vi/pTjsQMIZkKY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-12-30 06:29:08 (UTC)  
+  **مدت:** حدود 19.6 دقیقه  
+  **عنوان:** [Solidworks tutorial Baseball](https://www.youtube.com/watch?v=hw_NqJ_yFUM)  
+  ![](https://i.ytimg.com/vi/hw_NqJ_yFUM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-12-25 13:54:17 (UTC)  
+  **مدت:** حدود 21.2 دقیقه  
+  **عنوان:** [Solidworks tutorial Bevel and Spur gear motion Study](https://www.youtube.com/watch?v=cIV6FPXeUpA)  
+  ![](https://i.ytimg.com/vi/cIV6FPXeUpA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-12-18 14:54:04 (UTC)  
+  **مدت:** حدود 23.0 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Pipe Vise](https://www.youtube.com/watch?v=HvysRGLTX2I)  
+  ![](https://i.ytimg.com/vi/HvysRGLTX2I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-12-17 15:30:30 (UTC)  
+  **مدت:** حدود 48.9 دقیقه  
+  **عنوان:** [Solidworks tutorial Bulb](https://www.youtube.com/watch?v=J-i1rleVZsc)  
+  ![](https://i.ytimg.com/vi/J-i1rleVZsc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-12-13 12:43:15 (UTC)  
+  **مدت:** حدود 28.3 دقیقه  
+  **عنوان:** [Solidworks tutorial Arandela mechanism](https://www.youtube.com/watch?v=98A_8qSqxh8)  
+  ![](https://i.ytimg.com/vi/98A_8qSqxh8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-12-12 12:30:02 (UTC)  
+  **مدت:** حدود 17.9 دقیقه  
+  **عنوان:** [Solidworks tutorial Volleyball](https://www.youtube.com/watch?v=drIi7b3p1VE)  
+  ![](https://i.ytimg.com/vi/drIi7b3p1VE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-12-11 02:52:32 (UTC)  
+  **مدت:** حدود 25.1 دقیقه  
+  **عنوان:** [Solidworks tutorial Anvil](https://www.youtube.com/watch?v=U_xOfXVgOUg)  
+  ![](https://i.ytimg.com/vi/U_xOfXVgOUg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-12-07 09:27:55 (UTC)  
+  **مدت:** حدود 14.5 دقیقه  
+  **عنوان:** [Solidworks tutorial Basketball](https://www.youtube.com/watch?v=YBR9N0R8n5o)  
+  ![](https://i.ytimg.com/vi/YBR9N0R8n5o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-11-28 12:46:34 (UTC)  
+  **مدت:** حدود 64.7 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Toy Gun](https://www.youtube.com/watch?v=T_2-3gKTMMk)  
+  ![](https://i.ytimg.com/vi/T_2-3gKTMMk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-11-18 15:10:25 (UTC)  
+  **مدت:** حدود 37.1 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Surface gauge](https://www.youtube.com/watch?v=mTzyuYGK7Qw)  
+  ![](https://i.ytimg.com/vi/mTzyuYGK7Qw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-11-14 11:48:45 (UTC)  
+  **مدت:** حدود 48.4 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Turn Buckle M10](https://www.youtube.com/watch?v=NMiISf-_Zzs)  
+  ![](https://i.ytimg.com/vi/NMiISf-_Zzs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-11-12 12:48:54 (UTC)  
+  **مدت:** حدود 36.2 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Turn Buckle](https://www.youtube.com/watch?v=-hTHxSQbdIM)  
+  ![](https://i.ytimg.com/vi/-hTHxSQbdIM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-11-11 16:15:40 (UTC)  
+  **مدت:** حدود 83.2 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Kangaro Stapler](https://www.youtube.com/watch?v=ZjuG1oR2Awk)  
+  ![](https://i.ytimg.com/vi/ZjuG1oR2Awk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-11-10 12:30:00 (UTC)  
+  **مدت:** حدود 16.2 دقیقه  
+  **عنوان:** [Solidworks tutorial Grease nipple M8-90 degree](https://www.youtube.com/watch?v=w7VD3HtkO3A)  
+  ![](https://i.ytimg.com/vi/w7VD3HtkO3A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-11-08 14:01:33 (UTC)  
+  **مدت:** حدود 18.1 دقیقه  
+  **عنوان:** [Solidworks tutorial Grease nipple M8-45 degree](https://www.youtube.com/watch?v=BwmDmQmi_MQ)  
+  ![](https://i.ytimg.com/vi/BwmDmQmi_MQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-11-07 17:29:36 (UTC)  
+  **مدت:** حدود 84.7 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Anemometer](https://www.youtube.com/watch?v=J3pFqtRhNpA)  
+  ![](https://i.ytimg.com/vi/J3pFqtRhNpA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-11-06 21:18:46 (UTC)  
+  **مدت:** حدود 48.4 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of cannon](https://www.youtube.com/watch?v=MhcnMXA7kJM)  
+  ![](https://i.ytimg.com/vi/MhcnMXA7kJM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-10-25 11:47:41 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Solidworks tutorial Flowerpot Flex Command](https://www.youtube.com/watch?v=-YfUAgmRLSk)  
+  ![](https://i.ytimg.com/vi/-YfUAgmRLSk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-10-22 16:41:24 (UTC)  
+  **مدت:** حدود 20.0 دقیقه  
+  **عنوان:** [Solidworks tutorial Stop Valve Body](https://www.youtube.com/watch?v=eEzJbm0Zgrs)  
+  ![](https://i.ytimg.com/vi/eEzJbm0Zgrs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-10-16 18:53:18 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [Convert 2D drawing into 3D model in Solidworks](https://www.youtube.com/watch?v=w04H_7AzixE)  
+  ![](https://i.ytimg.com/vi/w04H_7AzixE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-10-11 18:10:26 (UTC)  
+  **مدت:** حدود 17.3 دقیقه  
+  **عنوان:** [SolidWorks Surface Tutorial Jug](https://www.youtube.com/watch?v=1V0QK7g8Kus)  
+  ![](https://i.ytimg.com/vi/1V0QK7g8Kus/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-10-10 15:58:23 (UTC)  
+  **مدت:** حدود 17.7 دقیقه  
+  **عنوان:** [SolidWorks Surface Tutorial Bottle](https://www.youtube.com/watch?v=fFHsI3vihk4)  
+  ![](https://i.ytimg.com/vi/fFHsI3vihk4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-10-08 15:55:50 (UTC)  
+  **مدت:** حدود 18.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners exercise 89](https://www.youtube.com/watch?v=OY76Hyh14nk)  
+  ![](https://i.ytimg.com/vi/OY76Hyh14nk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-10-06 06:30:02 (UTC)  
+  **مدت:** حدود 54.6 دقیقه  
+  **عنوان:** [SolidWorks Advanced tutorial exercise 88](https://www.youtube.com/watch?v=vWPRckGuIns)  
+  ![](https://i.ytimg.com/vi/vWPRckGuIns/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-10-04 21:06:52 (UTC)  
+  **مدت:** حدود 24.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Valve Body](https://www.youtube.com/watch?v=ZdmmoEo84C4)  
+  ![](https://i.ytimg.com/vi/ZdmmoEo84C4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-10-02 22:33:45 (UTC)  
+  **مدت:** حدود 42.7 دقیقه  
+  **عنوان:** [SolidWorks Advanced Tutorial exercise 87](https://www.youtube.com/watch?v=BdDogK0Dp_Q)  
+  ![](https://i.ytimg.com/vi/BdDogK0Dp_Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-10-01 17:46:47 (UTC)  
+  **مدت:** حدود 19.1 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Crankshaft](https://www.youtube.com/watch?v=Ft9bMAUNLuo)  
+  ![](https://i.ytimg.com/vi/Ft9bMAUNLuo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-30 19:24:41 (UTC)  
+  **مدت:** حدود 12.1 دقیقه  
+  **عنوان:** [SolidWorks weldments Tutorial for beginners exercise 86](https://www.youtube.com/watch?v=pTy80LssojI)  
+  ![](https://i.ytimg.com/vi/pTy80LssojI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-29 19:57:41 (UTC)  
+  **مدت:** حدود 15.5 دقیقه  
+  **عنوان:** [Solidworks Surface tutorial for beginners](https://www.youtube.com/watch?v=zS-sIK272yg)  
+  ![](https://i.ytimg.com/vi/zS-sIK272yg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-27 17:47:36 (UTC)  
+  **مدت:** حدود 19.5 دقیقه  
+  **عنوان:** [Autodesk Inventor Sheet metal Drawing Tutorial Basics](https://www.youtube.com/watch?v=l-xxJkeJ2YY)  
+  ![](https://i.ytimg.com/vi/l-xxJkeJ2YY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-26 21:02:21 (UTC)  
+  **مدت:** حدود 15.9 دقیقه  
+  **عنوان:** [Autodesk Inventor Sheet metal Tutorial Basics](https://www.youtube.com/watch?v=zqqQcrNTYHk)  
+  ![](https://i.ytimg.com/vi/zqqQcrNTYHk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-25 21:00:58 (UTC)  
+  **مدت:** حدود 16.3 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial for beginners exercise 10](https://www.youtube.com/watch?v=k-WvjsqvVAE)  
+  ![](https://i.ytimg.com/vi/k-WvjsqvVAE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-24 16:24:35 (UTC)  
+  **مدت:** حدود 16.0 دقیقه  
+  **عنوان:** [Solidworks tutorial for beginners Exercise 85 section View](https://www.youtube.com/watch?v=rlAvLlA-2Xs)  
+  ![](https://i.ytimg.com/vi/rlAvLlA-2Xs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-23 17:02:20 (UTC)  
+  **مدت:** حدود 20.8 دقیقه  
+  **عنوان:** [Solidworks tutorial for beginners Exercise 84](https://www.youtube.com/watch?v=smjQzCi7eDg)  
+  ![](https://i.ytimg.com/vi/smjQzCi7eDg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-22 15:41:47 (UTC)  
+  **مدت:** حدود 16.1 دقیقه  
+  **عنوان:** [SolidWorks Drawing Tutorial View layout, Annotation, Sketch](https://www.youtube.com/watch?v=5IjMdfCmwRg)  
+  ![](https://i.ytimg.com/vi/5IjMdfCmwRg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-20 16:48:47 (UTC)  
+  **مدت:** حدود 18.6 دقیقه  
+  **عنوان:** [Solidworks Advanced tutorial Exercise 83](https://www.youtube.com/watch?v=UXx56ReD0cE)  
+  ![](https://i.ytimg.com/vi/UXx56ReD0cE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-19 11:39:39 (UTC)  
+  **مدت:** حدود 14.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Assembly of Screwdriver](https://www.youtube.com/watch?v=ksAV-zLvIJk)  
+  ![](https://i.ytimg.com/vi/ksAV-zLvIJk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-18 12:51:00 (UTC)  
+  **مدت:** حدود 24.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 17.Assembly](https://www.youtube.com/watch?v=9xBZ9gg-qTY)  
+  ![](https://i.ytimg.com/vi/9xBZ9gg-qTY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-17 15:30:00 (UTC)  
+  **مدت:** حدود 7.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 16.vertical cross bar](https://www.youtube.com/watch?v=a4Nk2VYG3do)  
+  ![](https://i.ytimg.com/vi/a4Nk2VYG3do/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-17 12:30:03 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 15.Stud 4x15mm](https://www.youtube.com/watch?v=pkIlRY9E-yw)  
+  ![](https://i.ytimg.com/vi/pkIlRY9E-yw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-17 09:30:02 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 14.Stud 6x32mm](https://www.youtube.com/watch?v=sS-QqHkZrRY)  
+  ![](https://i.ytimg.com/vi/sS-QqHkZrRY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-17 06:30:00 (UTC)  
+  **مدت:** حدود 2.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 13.Wheel Axle](https://www.youtube.com/watch?v=8tdbqlINVFw)  
+  ![](https://i.ytimg.com/vi/8tdbqlINVFw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-17 03:30:02 (UTC)  
+  **مدت:** حدود 5.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 12.Wheel](https://www.youtube.com/watch?v=lzYRxiBzckc)  
+  ![](https://i.ytimg.com/vi/lzYRxiBzckc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-17 00:30:03 (UTC)  
+  **مدت:** حدود 2.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 11.Main Axle](https://www.youtube.com/watch?v=TLQr1wc1d-0)  
+  ![](https://i.ytimg.com/vi/TLQr1wc1d-0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-16 15:30:03 (UTC)  
+  **مدت:** حدود 7.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 10.Landing Gear](https://www.youtube.com/watch?v=xoh8qVT85Ws)  
+  ![](https://i.ytimg.com/vi/xoh8qVT85Ws/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-16 12:30:04 (UTC)  
+  **مدت:** حدود 3.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 9.Pilot](https://www.youtube.com/watch?v=Vv4ixoLIlUk)  
+  ![](https://i.ytimg.com/vi/Vv4ixoLIlUk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-16 09:30:00 (UTC)  
+  **مدت:** حدود 4.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 8.Vertical tail](https://www.youtube.com/watch?v=6ZI8NSQ6EtQ)  
+  ![](https://i.ytimg.com/vi/6ZI8NSQ6EtQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-16 06:30:00 (UTC)  
+  **مدت:** حدود 4.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 7.Horizontal tail](https://www.youtube.com/watch?v=WojvegaHfpQ)  
+  ![](https://i.ytimg.com/vi/WojvegaHfpQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-16 03:30:00 (UTC)  
+  **مدت:** حدود 2.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 6.Holder](https://www.youtube.com/watch?v=PsH_ZG9MzsY)  
+  ![](https://i.ytimg.com/vi/PsH_ZG9MzsY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-16 00:30:00 (UTC)  
+  **مدت:** حدود 5.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 5.Propeller](https://www.youtube.com/watch?v=4rcwR8PuoXo)  
+  ![](https://i.ytimg.com/vi/4rcwR8PuoXo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-15 16:30:01 (UTC)  
+  **مدت:** حدود 2.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 4.Motor](https://www.youtube.com/watch?v=9M21yVmMFXA)  
+  ![](https://i.ytimg.com/vi/9M21yVmMFXA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-15 14:03:30 (UTC)  
+  **مدت:** حدود 14.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 3.Fuselage](https://www.youtube.com/watch?v=hVYhns30BV0)  
+  ![](https://i.ytimg.com/vi/hVYhns30BV0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-13 00:30:02 (UTC)  
+  **مدت:** حدود 2.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Wooden toy Plane 2.Upper Wing](https://www.youtube.com/watch?v=p4jCxEThpSU)  
+  ![](https://i.ytimg.com/vi/p4jCxEThpSU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-12 14:57:46 (UTC)  
+  **مدت:** حدود 11.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial wooden toy Plane 1.Lower Wing](https://www.youtube.com/watch?v=N1BbB-DyTQc)  
+  ![](https://i.ytimg.com/vi/N1BbB-DyTQc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-11 20:07:26 (UTC)  
+  **مدت:** حدود 14.2 دقیقه  
+  **عنوان:** [Autodesk Fusion 360 Tutorial for Beginner Exercise 3](https://www.youtube.com/watch?v=tdWUsh4nN28)  
+  ![](https://i.ytimg.com/vi/tdWUsh4nN28/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-10 15:30:00 (UTC)  
+  **مدت:** حدود 34.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of tank](https://www.youtube.com/watch?v=F1EsES7Ql-s)  
+  ![](https://i.ytimg.com/vi/F1EsES7Ql-s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-07 18:10:46 (UTC)  
+  **مدت:** حدود 20.6 دقیقه  
+  **عنوان:** [SolidWorks Sheet metal Tutorial Panel](https://www.youtube.com/watch?v=c9fE5ajo5EA)  
+  ![](https://i.ytimg.com/vi/c9fE5ajo5EA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-05 17:10:33 (UTC)  
+  **مدت:** حدود 17.9 دقیقه  
+  **عنوان:** [How to make 2D drawing in Autodesk Fusion 360](https://www.youtube.com/watch?v=e42kK2VxXa8)  
+  ![](https://i.ytimg.com/vi/e42kK2VxXa8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-04 19:07:25 (UTC)  
+  **مدت:** حدود 21.1 دقیقه  
+  **عنوان:** [Autodesk Fusion 360 Tutorial for Beginner Exercise 2](https://www.youtube.com/watch?v=Dgp0yM6gMo0)  
+  ![](https://i.ytimg.com/vi/Dgp0yM6gMo0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-03 19:43:49 (UTC)  
+  **مدت:** حدود 18.1 دقیقه  
+  **عنوان:** [SolidWorks Sheet metal Tutorial Switch Box](https://www.youtube.com/watch?v=92A7Vv0-564)  
+  ![](https://i.ytimg.com/vi/92A7Vv0-564/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-09-02 16:59:48 (UTC)  
+  **مدت:** حدود 25.3 دقیقه  
+  **عنوان:** [SolidWorks Drawing Tutorial Double V Block](https://www.youtube.com/watch?v=2_GQKFt6po8)  
+  ![](https://i.ytimg.com/vi/2_GQKFt6po8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-31 18:31:49 (UTC)  
+  **مدت:** حدود 35.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Double V-Block](https://www.youtube.com/watch?v=tvfU3yklIN4)  
+  ![](https://i.ytimg.com/vi/tvfU3yklIN4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-30 18:28:05 (UTC)  
+  **مدت:** حدود 16.2 دقیقه  
+  **عنوان:** [Solidworks tutorial for beginners Exercise 82](https://www.youtube.com/watch?v=8YaWOyjByqY)  
+  ![](https://i.ytimg.com/vi/8YaWOyjByqY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-29 20:52:38 (UTC)  
+  **مدت:** حدود 20.3 دقیقه  
+  **عنوان:** [Solidworks Sheet metal tutorial Exercise](https://www.youtube.com/watch?v=B6KW70VtJHQ)  
+  ![](https://i.ytimg.com/vi/B6KW70VtJHQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-28 15:30:00 (UTC)  
+  **مدت:** حدود 19.2 دقیقه  
+  **عنوان:** [Solidworks Sheet metal tutorial Electrical enclosure](https://www.youtube.com/watch?v=ELYkRoV19P8)  
+  ![](https://i.ytimg.com/vi/ELYkRoV19P8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-27 18:57:08 (UTC)  
+  **مدت:** حدود 12.2 دقیقه  
+  **عنوان:** [Solidworks Sheet metal tutorial Hopper](https://www.youtube.com/watch?v=QRhLw944FxI)  
+  ![](https://i.ytimg.com/vi/QRhLw944FxI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-26 20:38:19 (UTC)  
+  **مدت:** حدود 29.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners Exercise 81](https://www.youtube.com/watch?v=x0873ZPTd64)  
+  ![](https://i.ytimg.com/vi/x0873ZPTd64/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-25 15:54:09 (UTC)  
+  **مدت:** حدود 15.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 80](https://www.youtube.com/watch?v=BEkEeQs-8WA)  
+  ![](https://i.ytimg.com/vi/BEkEeQs-8WA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-24 17:21:28 (UTC)  
+  **مدت:** حدود 14.6 دقیقه  
+  **عنوان:** [Autodesk Fusion 360 Tutorial for Beginner exercise 1](https://www.youtube.com/watch?v=4oWCpOutMMo)  
+  ![](https://i.ytimg.com/vi/4oWCpOutMMo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-23 15:30:02 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [Autodesk Fusion 360 Tutorial Hexagonal Nut M12x1.75](https://www.youtube.com/watch?v=_G9EFaHG1qw)  
+  ![](https://i.ytimg.com/vi/_G9EFaHG1qw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-22 15:30:01 (UTC)  
+  **مدت:** حدود 11.4 دقیقه  
+  **عنوان:** [Autodesk Fusion 360 Tutorial How to model an LED Bulb](https://www.youtube.com/watch?v=JKjNPkL24-Q)  
+  ![](https://i.ytimg.com/vi/JKjNPkL24-Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-21 15:30:04 (UTC)  
+  **مدت:** حدود 17.8 دقیقه  
+  **عنوان:** [Autodesk fusion 360 tutorial ice cube tray with drawing](https://www.youtube.com/watch?v=hOGOn4vIeC0)  
+  ![](https://i.ytimg.com/vi/hOGOn4vIeC0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-20 15:30:00 (UTC)  
+  **مدت:** حدود 29.3 دقیقه  
+  **عنوان:** [Solidworks Surface tutorial Football Helmet (Advanced Surfacing)-Part3](https://www.youtube.com/watch?v=bBgRpUWkZ8Y)  
+  ![](https://i.ytimg.com/vi/bBgRpUWkZ8Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-19 15:30:00 (UTC)  
+  **مدت:** حدود 28.4 دقیقه  
+  **عنوان:** [Solidworks Surface tutorial Football Helmet (Advanced Surfacing)-Part2](https://www.youtube.com/watch?v=bDNqw7gtgZA)  
+  ![](https://i.ytimg.com/vi/bDNqw7gtgZA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-18 15:30:01 (UTC)  
+  **مدت:** حدود 31.1 دقیقه  
+  **عنوان:** [Solidworks Surface tutorial Football Helmet (Advanced Surfacing) Part1](https://www.youtube.com/watch?v=7DcdHzntz28)  
+  ![](https://i.ytimg.com/vi/7DcdHzntz28/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-08-17 06:53:33 (UTC)  
+  **مدت:** حدود 31.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Shackle](https://www.youtube.com/watch?v=wcfV4o150yI)  
+  ![](https://i.ytimg.com/vi/wcfV4o150yI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-06-01 19:58:50 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 79](https://www.youtube.com/watch?v=VrqOWucMn40)  
+  ![](https://i.ytimg.com/vi/VrqOWucMn40/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-30 15:30:01 (UTC)  
+  **مدت:** حدود 25.4 دقیقه  
+  **عنوان:** [SolidWorks tutorial Design of T-Pipe](https://www.youtube.com/watch?v=ZO0JFkiOK5I)  
+  ![](https://i.ytimg.com/vi/ZO0JFkiOK5I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-29 17:16:52 (UTC)  
+  **مدت:** حدود 12.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 78](https://www.youtube.com/watch?v=UZe9JQIk7C4)  
+  ![](https://i.ytimg.com/vi/UZe9JQIk7C4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-28 11:30:00 (UTC)  
+  **مدت:** حدود 8.2 دقیقه  
+  **عنوان:** [Solidworks Tutorial Model Mania 2019 Phase 2](https://www.youtube.com/watch?v=aEXPHuCIJhw)  
+  ![](https://i.ytimg.com/vi/aEXPHuCIJhw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-27 13:04:46 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [Solidworks Tutorial Model Mania 2019 Phase 1](https://www.youtube.com/watch?v=wnzj8fBI3nY)  
+  ![](https://i.ytimg.com/vi/wnzj8fBI3nY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-25 12:05:37 (UTC)  
+  **مدت:** حدود 15.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 77](https://www.youtube.com/watch?v=jkyrlpUzRDE)  
+  ![](https://i.ytimg.com/vi/jkyrlpUzRDE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-23 20:27:00 (UTC)  
+  **مدت:** حدود 10.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 76](https://www.youtube.com/watch?v=5fPqfjCBZ2o)  
+  ![](https://i.ytimg.com/vi/5fPqfjCBZ2o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-22 18:36:07 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 75](https://www.youtube.com/watch?v=8WE0d3Uj7g0)  
+  ![](https://i.ytimg.com/vi/8WE0d3Uj7g0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-21 15:30:00 (UTC)  
+  **مدت:** حدود 13.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 74](https://www.youtube.com/watch?v=KlVWWKwWPm0)  
+  ![](https://i.ytimg.com/vi/KlVWWKwWPm0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-20 15:30:02 (UTC)  
+  **مدت:** حدود 14.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 73](https://www.youtube.com/watch?v=ZoHukyvo-gI)  
+  ![](https://i.ytimg.com/vi/ZoHukyvo-gI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-19 15:30:02 (UTC)  
+  **مدت:** حدود 13.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 72](https://www.youtube.com/watch?v=YDMMOEBhtMU)  
+  ![](https://i.ytimg.com/vi/YDMMOEBhtMU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-18 15:30:03 (UTC)  
+  **مدت:** حدود 13.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 71](https://www.youtube.com/watch?v=jnPWjODMOEc)  
+  ![](https://i.ytimg.com/vi/jnPWjODMOEc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-17 15:30:01 (UTC)  
+  **مدت:** حدود 10.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 70](https://www.youtube.com/watch?v=bmZ91RnmkjQ)  
+  ![](https://i.ytimg.com/vi/bmZ91RnmkjQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-16 15:30:00 (UTC)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 69](https://www.youtube.com/watch?v=SxKQq0A7W_8)  
+  ![](https://i.ytimg.com/vi/SxKQq0A7W_8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-15 13:12:04 (UTC)  
+  **مدت:** حدود 12.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 68](https://www.youtube.com/watch?v=a4oZFTMvcKE)  
+  ![](https://i.ytimg.com/vi/a4oZFTMvcKE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-11 12:30:27 (UTC)  
+  **مدت:** حدود 11.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 67](https://www.youtube.com/watch?v=lS1dGXnZIKg)  
+  ![](https://i.ytimg.com/vi/lS1dGXnZIKg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-06 06:30:00 (UTC)  
+  **مدت:** حدود 36.8 دقیقه  
+  **عنوان:** [Solidworks tutorial Assembly of Vernier caliper Part 3](https://www.youtube.com/watch?v=9-CvDSky7mw)  
+  ![](https://i.ytimg.com/vi/9-CvDSky7mw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-04 15:30:00 (UTC)  
+  **مدت:** حدود 35.3 دقیقه  
+  **عنوان:** [Solidworks tutorial design of Vernier caliper Part 2](https://www.youtube.com/watch?v=Y-zpc2NNcQQ)  
+  ![](https://i.ytimg.com/vi/Y-zpc2NNcQQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-05-03 13:02:36 (UTC)  
+  **مدت:** حدود 28.1 دقیقه  
+  **عنوان:** [Solidworks tutorial design of Vernier caliper Part 1](https://www.youtube.com/watch?v=wmxqsCuCHcU)  
+  ![](https://i.ytimg.com/vi/wmxqsCuCHcU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-04-23 15:30:00 (UTC)  
+  **مدت:** حدود 50.1 دقیقه  
+  **عنوان:** [Solidworks tutorial design of Toy Car](https://www.youtube.com/watch?v=mjWzA-c-Mxk)  
+  ![](https://i.ytimg.com/vi/mjWzA-c-Mxk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-04-22 10:31:54 (UTC)  
+  **مدت:** حدود 51.0 دقیقه  
+  **عنوان:** [Solidworks tutorial Monkey Wrench](https://www.youtube.com/watch?v=aT8DfpATRCA)  
+  ![](https://i.ytimg.com/vi/aT8DfpATRCA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-04-20 15:30:00 (UTC)  
+  **مدت:** حدود 60.9 دقیقه  
+  **عنوان:** [Solidworks Surface tutorial Z-Type wooden chair](https://www.youtube.com/watch?v=Y8Cqk0XcKXc)  
+  ![](https://i.ytimg.com/vi/Y8Cqk0XcKXc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-04-19 15:30:02 (UTC)  
+  **مدت:** حدود 12.2 دقیقه  
+  **عنوان:** [Solidworks Tutorial Furniture screw](https://www.youtube.com/watch?v=wOo668dx5Ws)  
+  ![](https://i.ytimg.com/vi/wOo668dx5Ws/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-04-18 15:30:00 (UTC)  
+  **مدت:** حدود 26.3 دقیقه  
+  **عنوان:** [Solidworks tutorial Air horn](https://www.youtube.com/watch?v=eOYK6UHJLcU)  
+  ![](https://i.ytimg.com/vi/eOYK6UHJLcU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-04-17 15:05:02 (UTC)  
+  **مدت:** حدود 13.5 دقیقه  
+  **عنوان:** [Solidworks tutorial Lag Bolt](https://www.youtube.com/watch?v=jjqSs50U0C8)  
+  ![](https://i.ytimg.com/vi/jjqSs50U0C8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-04-14 21:14:43 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Solidworks Drawing Basics](https://www.youtube.com/watch?v=9rIDCD3ofL0)  
+  ![](https://i.ytimg.com/vi/9rIDCD3ofL0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-04-11 15:11:59 (UTC)  
+  **مدت:** حدود 15.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Spanner](https://www.youtube.com/watch?v=FSQeffw6R8Y)  
+  ![](https://i.ytimg.com/vi/FSQeffw6R8Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-04-09 21:24:48 (UTC)  
+  **مدت:** حدود 25.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Caster wheel](https://www.youtube.com/watch?v=yuTp9nUsQ10)  
+  ![](https://i.ytimg.com/vi/yuTp9nUsQ10/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-04-04 23:17:30 (UTC)  
+  **مدت:** حدود 32.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Swivel caster wheel](https://www.youtube.com/watch?v=6FAdZI-xFas)  
+  ![](https://i.ytimg.com/vi/6FAdZI-xFas/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-04-03 15:30:00 (UTC)  
+  **مدت:** حدود 11.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 66](https://www.youtube.com/watch?v=WKzi9OmdF_c)  
+  ![](https://i.ytimg.com/vi/WKzi9OmdF_c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-04-02 17:42:21 (UTC)  
+  **مدت:** حدود 15.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 65](https://www.youtube.com/watch?v=Lr3LMEy1d60)  
+  ![](https://i.ytimg.com/vi/Lr3LMEy1d60/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-30 23:13:16 (UTC)  
+  **مدت:** حدود 53.2 دقیقه  
+  **عنوان:** [Solidworks tutorial Design and Assembly of Engine](https://www.youtube.com/watch?v=Gsa7jnI5D50)  
+  ![](https://i.ytimg.com/vi/Gsa7jnI5D50/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-28 22:08:37 (UTC)  
+  **مدت:** حدود 12.6 دقیقه  
+  **عنوان:** [Solidworks Tutorial for beginners Exercise 64](https://www.youtube.com/watch?v=itdNzBf9-XI)  
+  ![](https://i.ytimg.com/vi/itdNzBf9-XI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-27 22:24:34 (UTC)  
+  **مدت:** حدود 9.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 63 (Revolved Boss base and cut)](https://www.youtube.com/watch?v=ScD9rL2I4Ww)  
+  ![](https://i.ytimg.com/vi/ScD9rL2I4Ww/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-26 15:30:02 (UTC)  
+  **مدت:** حدود 17.5 دقیقه  
+  **عنوان:** [Solidworks tutorial Assembly of Ball Valve in Solidworks Part 4](https://www.youtube.com/watch?v=cjFh1KVv1LU)  
+  ![](https://i.ytimg.com/vi/cjFh1KVv1LU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-25 15:30:01 (UTC)  
+  **مدت:** حدود 35.8 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of ball valve in Solidworks Part 3](https://www.youtube.com/watch?v=curGkYKoTgQ)  
+  ![](https://i.ytimg.com/vi/curGkYKoTgQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-24 15:30:00 (UTC)  
+  **مدت:** حدود 22.8 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of ball valve in Solidworks Part 2](https://www.youtube.com/watch?v=B6pr7o-31o0)  
+  ![](https://i.ytimg.com/vi/B6pr7o-31o0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-23 18:29:20 (UTC)  
+  **مدت:** حدود 38.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of ball valve in Solidworks Part1](https://www.youtube.com/watch?v=Oc0c6jkFy6I)  
+  ![](https://i.ytimg.com/vi/Oc0c6jkFy6I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-21 15:30:00 (UTC)  
+  **مدت:** حدود 21.5 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Tap Bit M10 in Solidworks](https://www.youtube.com/watch?v=AH5ni5e6e2g)  
+  ![](https://i.ytimg.com/vi/AH5ni5e6e2g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-20 14:47:01 (UTC)  
+  **مدت:** حدود 16.1 دقیقه  
+  **عنوان:** [Solidworks tutorial I Design of Tap Bit M14 in Solidworks](https://www.youtube.com/watch?v=QjpJikL0hbE)  
+  ![](https://i.ytimg.com/vi/QjpJikL0hbE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-13 15:30:01 (UTC)  
+  **مدت:** حدود 33.4 دقیقه  
+  **عنوان:** [Solidworks tutorial Assembly of Engine mechanism Part 3](https://www.youtube.com/watch?v=Z0P5g-qIi9o)  
+  ![](https://i.ytimg.com/vi/Z0P5g-qIi9o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-12 15:30:02 (UTC)  
+  **مدت:** حدود 31.5 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Engine mechanism Part 2](https://www.youtube.com/watch?v=_dsa-r25L44)  
+  ![](https://i.ytimg.com/vi/_dsa-r25L44/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-11 19:48:32 (UTC)  
+  **مدت:** حدود 32.5 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Engine mechanism Part 1](https://www.youtube.com/watch?v=cHq1fAPqnus)  
+  ![](https://i.ytimg.com/vi/cHq1fAPqnus/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-02 00:30:01 (UTC)  
+  **مدت:** حدود 13.6 دقیقه  
+  **عنوان:** [Autodesk Fusion 360 Tutorial Bottle (Loft feature)](https://www.youtube.com/watch?v=lmdvrJGkVUk)  
+  ![](https://i.ytimg.com/vi/lmdvrJGkVUk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-01 15:30:00 (UTC)  
+  **مدت:** حدود 5.5 دقیقه  
+  **عنوان:** [Autodesk Fusion 360 Tutorial Paper clip (Sweep feature)](https://www.youtube.com/watch?v=gSxSPmLU5Xg)  
+  ![](https://i.ytimg.com/vi/gSxSPmLU5Xg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-03-01 03:30:00 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Autodesk Fusion 360 Tutorial Bottle (Revolved Join)](https://www.youtube.com/watch?v=gpaYnjVcuLg)  
+  ![](https://i.ytimg.com/vi/gpaYnjVcuLg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-28 16:49:16 (UTC)  
+  **مدت:** حدود 11.3 دقیقه  
+  **عنوان:** [Autodesk Fusion 360 Tutorial Lego model](https://www.youtube.com/watch?v=iJO2dhjj6-s)  
+  ![](https://i.ytimg.com/vi/iJO2dhjj6-s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-26 21:43:15 (UTC)  
+  **مدت:** حدود 12.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 62](https://www.youtube.com/watch?v=I9pxfdor5Ow)  
+  ![](https://i.ytimg.com/vi/I9pxfdor5Ow/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-26 02:17:21 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 61](https://www.youtube.com/watch?v=8AUV7pM8dF0)  
+  ![](https://i.ytimg.com/vi/8AUV7pM8dF0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-24 19:49:18 (UTC)  
+  **مدت:** حدود 10.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 60](https://www.youtube.com/watch?v=sOUHYyNXSZQ)  
+  ![](https://i.ytimg.com/vi/sOUHYyNXSZQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-22 10:30:01 (UTC)  
+  **مدت:** حدود 30.9 دقیقه  
+  **عنوان:** [Solidworks tutorial Design and Assembly of water Tank Part 4](https://www.youtube.com/watch?v=cmzSy27wJwQ)  
+  ![](https://i.ytimg.com/vi/cmzSy27wJwQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-21 00:16:51 (UTC)  
+  **مدت:** حدود 38.6 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of water Tank Part 3 (Weldments and sheet metal)](https://www.youtube.com/watch?v=-gaJjpSdOtg)  
+  ![](https://i.ytimg.com/vi/-gaJjpSdOtg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-20 00:59:25 (UTC)  
+  **مدت:** حدود 40.2 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of water Tank Part 2 (Weldments and sheet metal)](https://www.youtube.com/watch?v=_dVqbq8UQbg)  
+  ![](https://i.ytimg.com/vi/_dVqbq8UQbg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-18 22:48:41 (UTC)  
+  **مدت:** حدود 29.4 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of water Tank Part 1 (Solidworks Weldments)](https://www.youtube.com/watch?v=i2Sl6tqsL5Q)  
+  ![](https://i.ytimg.com/vi/i2Sl6tqsL5Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-17 00:30:00 (UTC)  
+  **مدت:** حدود 38.5 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Universal Joint](https://www.youtube.com/watch?v=TeE1zICzesk)  
+  ![](https://i.ytimg.com/vi/TeE1zICzesk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-15 22:02:07 (UTC)  
+  **مدت:** حدود 13.7 دقیقه  
+  **عنوان:** [Solidworks tutorial how to make drill Bit](https://www.youtube.com/watch?v=w8WadQyioKY)  
+  ![](https://i.ytimg.com/vi/w8WadQyioKY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-14 20:57:21 (UTC)  
+  **مدت:** حدود 13.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners CSWA Exercise 59](https://www.youtube.com/watch?v=MVNhGtaKLOI)  
+  ![](https://i.ytimg.com/vi/MVNhGtaKLOI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-12 00:30:00 (UTC)  
+  **مدت:** حدود 7.7 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial Worm Gear Animation](https://www.youtube.com/watch?v=UytHSIVWSIo)  
+  ![](https://i.ytimg.com/vi/UytHSIVWSIo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-11 03:30:00 (UTC)  
+  **مدت:** حدود 10.2 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial Bevel Gear Animation](https://www.youtube.com/watch?v=jG8aHI0rdMI)  
+  ![](https://i.ytimg.com/vi/jG8aHI0rdMI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-10 15:30:01 (UTC)  
+  **مدت:** حدود 11.7 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial Spur Gear Animation](https://www.youtube.com/watch?v=DbvIAQmwxUE)  
+  ![](https://i.ytimg.com/vi/DbvIAQmwxUE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-09 15:26:35 (UTC)  
+  **مدت:** حدود 11.4 دقیقه  
+  **عنوان:** [SolidWorks Sheet metal Exercise Basics](https://www.youtube.com/watch?v=JglIUC31w4o)  
+  ![](https://i.ytimg.com/vi/JglIUC31w4o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-07 19:59:08 (UTC)  
+  **مدت:** حدود 6.9 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial Bolt and Nut Animation (Dynamic Simulation)](https://www.youtube.com/watch?v=i5QYOJpL5E8)  
+  ![](https://i.ytimg.com/vi/i5QYOJpL5E8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-06 15:30:01 (UTC)  
+  **مدت:** حدود 8.0 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial Nut](https://www.youtube.com/watch?v=a7_bmmmW-x4)  
+  ![](https://i.ytimg.com/vi/a7_bmmmW-x4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-06 00:30:00 (UTC)  
+  **مدت:** حدود 7.1 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial Bolt](https://www.youtube.com/watch?v=iGf2aiRBktY)  
+  ![](https://i.ytimg.com/vi/iGf2aiRBktY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-05 00:30:00 (UTC)  
+  **مدت:** حدود 20.9 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial Ball Bearing](https://www.youtube.com/watch?v=Bydrjcmz64Q)  
+  ![](https://i.ytimg.com/vi/Bydrjcmz64Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-04 00:30:01 (UTC)  
+  **مدت:** حدود 14.5 دقیقه  
+  **عنوان:** [Solidworks tutorial Spring](https://www.youtube.com/watch?v=lKWpEFRQpMs)  
+  ![](https://i.ytimg.com/vi/lKWpEFRQpMs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-03 03:30:01 (UTC)  
+  **مدت:** حدود 10.8 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial for beginners exercise 9](https://www.youtube.com/watch?v=hX8D2Odmbio)  
+  ![](https://i.ytimg.com/vi/hX8D2Odmbio/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-02 15:30:00 (UTC)  
+  **مدت:** حدود 12.1 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial for beginners exercise 8](https://www.youtube.com/watch?v=GclSauKK2_g)  
+  ![](https://i.ytimg.com/vi/GclSauKK2_g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-02 03:30:00 (UTC)  
+  **مدت:** حدود 11.0 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial for beginners exercise 7](https://www.youtube.com/watch?v=S0_sArNX1ZY)  
+  ![](https://i.ytimg.com/vi/S0_sArNX1ZY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-02-01 15:30:00 (UTC)  
+  **مدت:** حدود 20.0 دقیقه  
+  **عنوان:** [Solidworks tutorial Assembly of lathe tailstock Part4](https://www.youtube.com/watch?v=2Ma-RA4ZzLo)  
+  ![](https://i.ytimg.com/vi/2Ma-RA4ZzLo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-31 15:30:01 (UTC)  
+  **مدت:** حدود 26.6 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of lathe tailstock Part3](https://www.youtube.com/watch?v=OSIyg0gXDSo)  
+  ![](https://i.ytimg.com/vi/OSIyg0gXDSo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-30 15:30:01 (UTC)  
+  **مدت:** حدود 30.1 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of lathe tailstock part 2](https://www.youtube.com/watch?v=u7dUkGrI_3o)  
+  ![](https://i.ytimg.com/vi/u7dUkGrI_3o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-29 15:30:00 (UTC)  
+  **مدت:** حدود 44.6 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Lathe tailstock Part 1](https://www.youtube.com/watch?v=tcZ2yARILaA)  
+  ![](https://i.ytimg.com/vi/tcZ2yARILaA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-28 17:20:53 (UTC)  
+  **مدت:** حدود 19.4 دقیقه  
+  **عنوان:** [Solidworks tutorial Exhaust manifold](https://www.youtube.com/watch?v=8P2BHrd35FE)  
+  ![](https://i.ytimg.com/vi/8P2BHrd35FE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-26 15:30:00 (UTC)  
+  **مدت:** حدود 59.6 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Elbow Engine](https://www.youtube.com/watch?v=6dlQ1iwepzo)  
+  ![](https://i.ytimg.com/vi/6dlQ1iwepzo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-25 15:30:01 (UTC)  
+  **مدت:** حدود 16.5 دقیقه  
+  **عنوان:** [Certified Solidworks Associate (CSWA) exam exercise](https://www.youtube.com/watch?v=W9OtdcHyKVc)  
+  ![](https://i.ytimg.com/vi/W9OtdcHyKVc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-24 15:30:01 (UTC)  
+  **مدت:** حدود 45.7 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Gate valve](https://www.youtube.com/watch?v=QA8kl1pnKwU)  
+  ![](https://i.ytimg.com/vi/QA8kl1pnKwU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-23 15:30:03 (UTC)  
+  **مدت:** حدود 24.4 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of hydraulic cylinder Assembly Part 3](https://www.youtube.com/watch?v=nIUoNWr5xI0)  
+  ![](https://i.ytimg.com/vi/nIUoNWr5xI0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-22 15:30:00 (UTC)  
+  **مدت:** حدود 35.3 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of hydraulic cylinder Part 2](https://www.youtube.com/watch?v=UUQXro4-Qsk)  
+  ![](https://i.ytimg.com/vi/UUQXro4-Qsk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-21 15:30:03 (UTC)  
+  **مدت:** حدود 26.3 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of hydraulic cylinder Part 1](https://www.youtube.com/watch?v=wPfuRs2hs0w)  
+  ![](https://i.ytimg.com/vi/wPfuRs2hs0w/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-20 15:30:01 (UTC)  
+  **مدت:** حدود 30.4 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of  Single cylinder Engine Assembly Part 4](https://www.youtube.com/watch?v=P7zI9QJX43o)  
+  ![](https://i.ytimg.com/vi/P7zI9QJX43o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-19 15:30:00 (UTC)  
+  **مدت:** حدود 27.8 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of  Single cylinder Engine Part 3](https://www.youtube.com/watch?v=Dk7iHjmC-yk)  
+  ![](https://i.ytimg.com/vi/Dk7iHjmC-yk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-18 15:30:01 (UTC)  
+  **مدت:** حدود 30.8 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of  Single cylinder Engine Part 2](https://www.youtube.com/watch?v=ZIJt6krj25c)  
+  ![](https://i.ytimg.com/vi/ZIJt6krj25c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-17 15:30:03 (UTC)  
+  **مدت:** حدود 30.4 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Single cylinder Engine Part 1](https://www.youtube.com/watch?v=q3SEbxaSuKk)  
+  ![](https://i.ytimg.com/vi/q3SEbxaSuKk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-16 13:02:13 (UTC)  
+  **مدت:** حدود 75.2 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of  Pressure Vessel](https://www.youtube.com/watch?v=AHFppt_CKt4)  
+  ![](https://i.ytimg.com/vi/AHFppt_CKt4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-04 15:30:01 (UTC)  
+  **مدت:** حدود 16.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 58](https://www.youtube.com/watch?v=AMetBd1rSx8)  
+  ![](https://i.ytimg.com/vi/AMetBd1rSx8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-03 15:30:01 (UTC)  
+  **مدت:** حدود 10.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 57](https://www.youtube.com/watch?v=XqiBNbt0jVc)  
+  ![](https://i.ytimg.com/vi/XqiBNbt0jVc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-02 21:55:18 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 56](https://www.youtube.com/watch?v=Kao45FYcU3Q)  
+  ![](https://i.ytimg.com/vi/Kao45FYcU3Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2019-01-01 20:42:32 (UTC)  
+  **مدت:** حدود 17.2 دقیقه  
+  **عنوان:** [Solidworks tutorial Crankshaft](https://www.youtube.com/watch?v=iycK4vp8-Ok)  
+  ![](https://i.ytimg.com/vi/iycK4vp8-Ok/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-31 06:30:00 (UTC)  
+  **مدت:** حدود 12.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 55](https://www.youtube.com/watch?v=hjLPyXKR3g0)  
+  ![](https://i.ytimg.com/vi/hjLPyXKR3g0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-30 12:30:01 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [SolidWorks Sheet metal Exercise Base flange, miter flange, Hem and Edge Flange](https://www.youtube.com/watch?v=MXyvpX0-M7A)  
+  ![](https://i.ytimg.com/vi/MXyvpX0-M7A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-29 12:30:02 (UTC)  
+  **مدت:** حدود 19.1 دقیقه  
+  **عنوان:** [SolidWorks Sheet metal Steel rack 900x300mm](https://www.youtube.com/watch?v=f2tbcrG3msA)  
+  ![](https://i.ytimg.com/vi/f2tbcrG3msA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-28 12:30:01 (UTC)  
+  **مدت:** حدود 12.3 دقیقه  
+  **عنوان:** [SolidWorks Sheet metal forming tool exercise](https://www.youtube.com/watch?v=Gl4uTuov-iw)  
+  ![](https://i.ytimg.com/vi/Gl4uTuov-iw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-27 12:56:42 (UTC)  
+  **مدت:** حدود 10.4 دقیقه  
+  **عنوان:** [How to make custom forming tool in Solidworks Sheet metal](https://www.youtube.com/watch?v=ZwiSIfkUwOo)  
+  ![](https://i.ytimg.com/vi/ZwiSIfkUwOo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-20 12:36:19 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [Solidworks sheet metal Lofted Bend](https://www.youtube.com/watch?v=1mDEsnqspYU)  
+  ![](https://i.ytimg.com/vi/1mDEsnqspYU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-18 19:50:59 (UTC)  
+  **مدت:** حدود 17.7 دقیقه  
+  **عنوان:** [SolidWorks Sheet metal exercise](https://www.youtube.com/watch?v=UR6Of7Ln9Dk)  
+  ![](https://i.ytimg.com/vi/UR6Of7Ln9Dk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-13 23:02:26 (UTC)  
+  **مدت:** حدود 15.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 54](https://www.youtube.com/watch?v=GwOVWnhK4qQ)  
+  ![](https://i.ytimg.com/vi/GwOVWnhK4qQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-11 20:23:43 (UTC)  
+  **مدت:** حدود 18.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 53](https://www.youtube.com/watch?v=wLhqYhJMTXw)  
+  ![](https://i.ytimg.com/vi/wLhqYhJMTXw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-10 19:45:43 (UTC)  
+  **مدت:** حدود 18.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 52](https://www.youtube.com/watch?v=qIwt_bceZQ8)  
+  ![](https://i.ytimg.com/vi/qIwt_bceZQ8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-07 16:12:57 (UTC)  
+  **مدت:** حدود 7.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 51](https://www.youtube.com/watch?v=EsRNjRx9C_g)  
+  ![](https://i.ytimg.com/vi/EsRNjRx9C_g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-06 20:52:09 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 50](https://www.youtube.com/watch?v=Jg03GRPdmWw)  
+  ![](https://i.ytimg.com/vi/Jg03GRPdmWw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-12-01 18:26:58 (UTC)  
+  **مدت:** حدود 24.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 49](https://www.youtube.com/watch?v=YnTi9dBQeo4)  
+  ![](https://i.ytimg.com/vi/YnTi9dBQeo4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-29 21:37:16 (UTC)  
+  **مدت:** حدود 8.6 دقیقه  
+  **عنوان:** [Solidworks sheet metal tutorial Miter flange](https://www.youtube.com/watch?v=LqiSRKVeQLE)  
+  ![](https://i.ytimg.com/vi/LqiSRKVeQLE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-28 19:04:24 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Solidworks sheet metal tutorial Vent and Emboss](https://www.youtube.com/watch?v=Wn9MUnv3zV0)  
+  ![](https://i.ytimg.com/vi/Wn9MUnv3zV0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-27 16:55:51 (UTC)  
+  **مدت:** حدود 14.7 دقیقه  
+  **عنوان:** [Solidworks sheet metal tutorial base flange, hem, Unfold, Fold and Emboss](https://www.youtube.com/watch?v=yWr-y0Sx8-8)  
+  ![](https://i.ytimg.com/vi/yWr-y0Sx8-8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-26 18:40:26 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Solidworks tutorial sheet metal forming tool](https://www.youtube.com/watch?v=VZvHL_8BaVM)  
+  ![](https://i.ytimg.com/vi/VZvHL_8BaVM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-22 22:52:20 (UTC)  
+  **مدت:** حدود 11.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 48](https://www.youtube.com/watch?v=53jzbasfDnQ)  
+  ![](https://i.ytimg.com/vi/53jzbasfDnQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-21 20:04:00 (UTC)  
+  **مدت:** حدود 10.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 47](https://www.youtube.com/watch?v=65XsHuxWMfc)  
+  ![](https://i.ytimg.com/vi/65XsHuxWMfc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-20 20:42:12 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 46](https://www.youtube.com/watch?v=Oi6XJzRNLe4)  
+  ![](https://i.ytimg.com/vi/Oi6XJzRNLe4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-19 12:00:17 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 45](https://www.youtube.com/watch?v=LblJkndf2dY)  
+  ![](https://i.ytimg.com/vi/LblJkndf2dY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-18 00:30:01 (UTC)  
+  **مدت:** حدود 19.7 دقیقه  
+  **عنوان:** [Solidworks tutorial Male Union Tee Adapter](https://www.youtube.com/watch?v=xVtaeRZs4BM)  
+  ![](https://i.ytimg.com/vi/xVtaeRZs4BM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-17 00:30:00 (UTC)  
+  **مدت:** حدود 13.6 دقیقه  
+  **عنوان:** [Solidworks Sheet metal Gusset tutorial](https://www.youtube.com/watch?v=YGVj7Uyt5MY)  
+  ![](https://i.ytimg.com/vi/YGVj7Uyt5MY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-16 00:30:00 (UTC)  
+  **مدت:** حدود 11.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Project Curve Exercise 44](https://www.youtube.com/watch?v=L6b_kqG_UrM)  
+  ![](https://i.ytimg.com/vi/L6b_kqG_UrM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-15 00:30:00 (UTC)  
+  **مدت:** حدود 14.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 43](https://www.youtube.com/watch?v=LRcksicR9Sk)  
+  ![](https://i.ytimg.com/vi/LRcksicR9Sk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-14 06:30:01 (UTC)  
+  **مدت:** حدود 13.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 42](https://www.youtube.com/watch?v=eB_s6alWvE0)  
+  ![](https://i.ytimg.com/vi/eB_s6alWvE0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-13 09:27:39 (UTC)  
+  **مدت:** حدود 10.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 41](https://www.youtube.com/watch?v=7NNzNzk6qps)  
+  ![](https://i.ytimg.com/vi/7NNzNzk6qps/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-08 16:30:00 (UTC)  
+  **مدت:** حدود 13.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 40](https://www.youtube.com/watch?v=ViyJwkTNawc)  
+  ![](https://i.ytimg.com/vi/ViyJwkTNawc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-07 19:26:41 (UTC)  
+  **مدت:** حدود 10.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 39](https://www.youtube.com/watch?v=df0rX_ZtNzw)  
+  ![](https://i.ytimg.com/vi/df0rX_ZtNzw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-11-01 17:20:00 (UTC)  
+  **مدت:** حدود 6.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 38](https://www.youtube.com/watch?v=-gm-Lb9BpsQ)  
+  ![](https://i.ytimg.com/vi/-gm-Lb9BpsQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-31 11:38:16 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 37](https://www.youtube.com/watch?v=uteYolElGzI)  
+  ![](https://i.ytimg.com/vi/uteYolElGzI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-29 17:31:36 (UTC)  
+  **مدت:** حدود 7.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 36  (Move/Copy features)](https://www.youtube.com/watch?v=qsEVXWYfF0A)  
+  ![](https://i.ytimg.com/vi/qsEVXWYfF0A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-28 18:57:35 (UTC)  
+  **مدت:** حدود 14.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 35](https://www.youtube.com/watch?v=NpZYZETI_n4)  
+  ![](https://i.ytimg.com/vi/NpZYZETI_n4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-27 15:13:43 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 34](https://www.youtube.com/watch?v=kHzmMkQ9I2A)  
+  ![](https://i.ytimg.com/vi/kHzmMkQ9I2A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-26 15:25:06 (UTC)  
+  **مدت:** حدود 7.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 33](https://www.youtube.com/watch?v=ZDP6_V3iw-M)  
+  ![](https://i.ytimg.com/vi/ZDP6_V3iw-M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-25 11:51:55 (UTC)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 32](https://www.youtube.com/watch?v=2ooEqhRRyHM)  
+  ![](https://i.ytimg.com/vi/2ooEqhRRyHM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-24 16:09:38 (UTC)  
+  **مدت:** حدود 11.1 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 31](https://www.youtube.com/watch?v=qQKshO5XAeo)  
+  ![](https://i.ytimg.com/vi/qQKshO5XAeo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-23 18:04:18 (UTC)  
+  **مدت:** حدود 11.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 30](https://www.youtube.com/watch?v=7LJaMpArGKo)  
+  ![](https://i.ytimg.com/vi/7LJaMpArGKo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-22 10:29:44 (UTC)  
+  **مدت:** حدود 13.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 29](https://www.youtube.com/watch?v=L8oFSkCLDw8)  
+  ![](https://i.ytimg.com/vi/L8oFSkCLDw8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-19 18:45:30 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 28](https://www.youtube.com/watch?v=8OKkCa86W-Y)  
+  ![](https://i.ytimg.com/vi/8OKkCa86W-Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-18 08:49:38 (UTC)  
+  **مدت:** حدود 13.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 27](https://www.youtube.com/watch?v=PcRtz1WJKos)  
+  ![](https://i.ytimg.com/vi/PcRtz1WJKos/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-17 08:58:27 (UTC)  
+  **مدت:** حدود 10.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 26](https://www.youtube.com/watch?v=rhSSetrEpcY)  
+  ![](https://i.ytimg.com/vi/rhSSetrEpcY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-15 19:46:16 (UTC)  
+  **مدت:** حدود 10.2 دقیقه  
+  **عنوان:** [iphone 8 Plus Unboxing and Setup](https://www.youtube.com/watch?v=g5joSxSZIkg)  
+  ![](https://i.ytimg.com/vi/g5joSxSZIkg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-14 06:30:01 (UTC)  
+  **مدت:** حدود 6.9 دقیقه  
+  **عنوان:** [Solidworks Weldments tutorial steel structure](https://www.youtube.com/watch?v=INQTY2rwPrk)  
+  ![](https://i.ytimg.com/vi/INQTY2rwPrk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-13 12:40:39 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Solidworks tutorial for beginners exercise 25](https://www.youtube.com/watch?v=9hflFkjkjq4)  
+  ![](https://i.ytimg.com/vi/9hflFkjkjq4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-12 15:08:46 (UTC)  
+  **مدت:** حدود 13.4 دقیقه  
+  **عنوان:** [Solidworks tutorial for beginners exercise 24](https://www.youtube.com/watch?v=UY3JYNePtnA)  
+  ![](https://i.ytimg.com/vi/UY3JYNePtnA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-10 11:46:12 (UTC)  
+  **مدت:** حدود 15.2 دقیقه  
+  **عنوان:** [Solidworks tutorial for beginners exercise 23](https://www.youtube.com/watch?v=BUQcefzrKco)  
+  ![](https://i.ytimg.com/vi/BUQcefzrKco/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-09 06:30:01 (UTC)  
+  **مدت:** حدود 11.7 دقیقه  
+  **عنوان:** [Solidworks sheet metal Tutorial Hem](https://www.youtube.com/watch?v=RYn8_9j1D5M)  
+  ![](https://i.ytimg.com/vi/RYn8_9j1D5M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-08 13:10:22 (UTC)  
+  **مدت:** حدود 12.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 22](https://www.youtube.com/watch?v=nBp6-hT5r6Y)  
+  ![](https://i.ytimg.com/vi/nBp6-hT5r6Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-07 10:30:16 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 21](https://www.youtube.com/watch?v=BYhFVwfANqc)  
+  ![](https://i.ytimg.com/vi/BYhFVwfANqc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-06 11:39:25 (UTC)  
+  **مدت:** حدود 12.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 20](https://www.youtube.com/watch?v=EyOD8CohvRs)  
+  ![](https://i.ytimg.com/vi/EyOD8CohvRs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-04 18:15:00 (UTC)  
+  **مدت:** حدود 18.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 19](https://www.youtube.com/watch?v=rQ_Tua_4KZc)  
+  ![](https://i.ytimg.com/vi/rQ_Tua_4KZc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-03 21:27:46 (UTC)  
+  **مدت:** حدود 13.4 دقیقه  
+  **عنوان:** [Solidworks sheet metal Tutorial Base flange, Edge Flange and Corner relief](https://www.youtube.com/watch?v=SXSU9CN7AJ8)  
+  ![](https://i.ytimg.com/vi/SXSU9CN7AJ8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-02 20:56:03 (UTC)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 18](https://www.youtube.com/watch?v=zWN7Q-hGSHA)  
+  ![](https://i.ytimg.com/vi/zWN7Q-hGSHA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-10-01 11:26:09 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 17](https://www.youtube.com/watch?v=mB_fMTDuoe0)  
+  ![](https://i.ytimg.com/vi/mB_fMTDuoe0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-30 18:50:08 (UTC)  
+  **مدت:** حدود 11.6 دقیقه  
+  **عنوان:** [SolidWorks Sheet metal Basics](https://www.youtube.com/watch?v=35gBHZ77z0I)  
+  ![](https://i.ytimg.com/vi/35gBHZ77z0I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-27 19:07:38 (UTC)  
+  **مدت:** حدود 22.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Pipe vice](https://www.youtube.com/watch?v=26kvCUGRukk)  
+  ![](https://i.ytimg.com/vi/26kvCUGRukk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-26 17:56:02 (UTC)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 16](https://www.youtube.com/watch?v=dmTigvfi9W4)  
+  ![](https://i.ytimg.com/vi/dmTigvfi9W4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-25 16:47:21 (UTC)  
+  **مدت:** حدود 26.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Pipe Vice Part 13.Final Assembly](https://www.youtube.com/watch?v=9QuFaI7_-KU)  
+  ![](https://i.ytimg.com/vi/9QuFaI7_-KU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-25 06:30:01 (UTC)  
+  **مدت:** حدود 5.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Pipe Vice Part 11.& 12.Bolt,Nut & Washer M6X25](https://www.youtube.com/watch?v=4PYj3Q_YHpI)  
+  ![](https://i.ytimg.com/vi/4PYj3Q_YHpI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-25 02:30:00 (UTC)  
+  **مدت:** حدود 6.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Pipe Vice Part 10.Bolt,Nut & Washer M10X35](https://www.youtube.com/watch?v=cfb48ltjSPY)  
+  ![](https://i.ytimg.com/vi/cfb48ltjSPY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-24 23:30:01 (UTC)  
+  **مدت:** حدود 1.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Pipe Vice Part 9.pipe](https://www.youtube.com/watch?v=B_zVJQWy_EM)  
+  ![](https://i.ytimg.com/vi/B_zVJQWy_EM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-24 20:30:00 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Pipe Vice Part 8.Upper Jaw Support](https://www.youtube.com/watch?v=69bYbqemqqg)  
+  ![](https://i.ytimg.com/vi/69bYbqemqqg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-24 16:59:28 (UTC)  
+  **مدت:** حدود 4.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Pipe Vice Part 7.Upper Jaw](https://www.youtube.com/watch?v=9gMu4ZlbWXM)  
+  ![](https://i.ytimg.com/vi/9gMu4ZlbWXM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-23 17:03:46 (UTC)  
+  **مدت:** حدود 5.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Pipe Vice Part 6.Lower Jaw](https://www.youtube.com/watch?v=wATLbdY3qAI)  
+  ![](https://i.ytimg.com/vi/wATLbdY3qAI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-23 08:46:45 (UTC)  
+  **مدت:** حدود 2.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Pipe Vice Part 5.Handle](https://www.youtube.com/watch?v=SSjPLfUAXGU)  
+  ![](https://i.ytimg.com/vi/SSjPLfUAXGU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-23 00:30:00 (UTC)  
+  **مدت:** حدود 8.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Pipe Vice Part 4.Adjustment Screw](https://www.youtube.com/watch?v=NqFGpWzrhWE)  
+  ![](https://i.ytimg.com/vi/NqFGpWzrhWE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-22 10:01:27 (UTC)  
+  **مدت:** حدود 8.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial How to make Pipe Elbow](https://www.youtube.com/watch?v=YZojx6T5rD8)  
+  ![](https://i.ytimg.com/vi/YZojx6T5rD8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-21 18:18:34 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Pipe Vice Part 3.Padlock](https://www.youtube.com/watch?v=WnrMHP-RcQo)  
+  ![](https://i.ytimg.com/vi/WnrMHP-RcQo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-21 06:30:01 (UTC)  
+  **مدت:** حدود 28.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Pipe Vice Part 2.Vice Support](https://www.youtube.com/watch?v=_v9zLvR3LTE)  
+  ![](https://i.ytimg.com/vi/_v9zLvR3LTE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-20 22:30:00 (UTC)  
+  **مدت:** حدود 28.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Pipe Vice Part 1.Base](https://www.youtube.com/watch?v=4OiLVNLFAKA)  
+  ![](https://i.ytimg.com/vi/4OiLVNLFAKA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-20 10:42:03 (UTC)  
+  **مدت:** حدود 10.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Tetrapod concrete block](https://www.youtube.com/watch?v=bAcpFgDEUFk)  
+  ![](https://i.ytimg.com/vi/bAcpFgDEUFk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-19 07:30:00 (UTC)  
+  **مدت:** حدود 13.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 13.Final Assembly](https://www.youtube.com/watch?v=hPHQtl7mNCY)  
+  ![](https://i.ytimg.com/vi/hPHQtl7mNCY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-19 00:30:00 (UTC)  
+  **مدت:** حدود 6.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 12.Vice screw Sub-Assembly](https://www.youtube.com/watch?v=0a06AfCY4Yw)  
+  ![](https://i.ytimg.com/vi/0a06AfCY4Yw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-18 17:30:00 (UTC)  
+  **مدت:** حدود 3.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 11.Set Screw](https://www.youtube.com/watch?v=JLy79m0vvpk)  
+  ![](https://i.ytimg.com/vi/JLy79m0vvpk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-18 11:29:56 (UTC)  
+  **مدت:** حدود 3.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 10.Collar](https://www.youtube.com/watch?v=8mawWfrIYB0)  
+  ![](https://i.ytimg.com/vi/8mawWfrIYB0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-14 04:30:00 (UTC)  
+  **مدت:** حدود 1.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 9.Key](https://www.youtube.com/watch?v=sDxJZzDV9Gg)  
+  ![](https://i.ytimg.com/vi/sDxJZzDV9Gg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-14 02:30:01 (UTC)  
+  **مدت:** حدود 2.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 8.Slide Key](https://www.youtube.com/watch?v=QFKhnxWqdtI)  
+  ![](https://i.ytimg.com/vi/QFKhnxWqdtI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-13 20:30:00 (UTC)  
+  **مدت:** حدود 3.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 7.Jaw Plate](https://www.youtube.com/watch?v=16oHJlU5lds)  
+  ![](https://i.ytimg.com/vi/16oHJlU5lds/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-13 17:30:35 (UTC)  
+  **مدت:** حدود 3.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 6. Knob](https://www.youtube.com/watch?v=WqhpilaAoPo)  
+  ![](https://i.ytimg.com/vi/WqhpilaAoPo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-12 13:30:00 (UTC)  
+  **مدت:** حدود 2.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 5.Pin](https://www.youtube.com/watch?v=0HhB5X6TtCI)  
+  ![](https://i.ytimg.com/vi/0HhB5X6TtCI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-12 12:30:03 (UTC)  
+  **مدت:** حدود 3.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 4.Handle rod](https://www.youtube.com/watch?v=vMWJDBbiBl8)  
+  ![](https://i.ytimg.com/vi/vMWJDBbiBl8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-12 04:30:00 (UTC)  
+  **مدت:** حدود 8.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 3.Vice screw](https://www.youtube.com/watch?v=H26XgV3xnc4)  
+  ![](https://i.ytimg.com/vi/H26XgV3xnc4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-11 20:30:00 (UTC)  
+  **مدت:** حدود 19.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 2.Sliding Jaw](https://www.youtube.com/watch?v=k0s-soes50o)  
+  ![](https://i.ytimg.com/vi/k0s-soes50o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-11 11:38:24 (UTC)  
+  **مدت:** حدود 20.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design of Bench Vice Part 1.Base](https://www.youtube.com/watch?v=6RU3mx1yFTI)  
+  ![](https://i.ytimg.com/vi/6RU3mx1yFTI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-09 17:56:54 (UTC)  
+  **مدت:** حدود 5.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Section View](https://www.youtube.com/watch?v=s4Wa_lwK4-g)  
+  ![](https://i.ytimg.com/vi/s4Wa_lwK4-g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-08 12:40:36 (UTC)  
+  **مدت:** حدود 10.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 15](https://www.youtube.com/watch?v=XqXJL0MUf-M)  
+  ![](https://i.ytimg.com/vi/XqXJL0MUf-M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-07 19:21:55 (UTC)  
+  **مدت:** حدود 10.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 14](https://www.youtube.com/watch?v=G2T1pa2-Ql4)  
+  ![](https://i.ytimg.com/vi/G2T1pa2-Ql4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-05 18:13:47 (UTC)  
+  **مدت:** حدود 8.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 13](https://www.youtube.com/watch?v=I3HUKB1np3E)  
+  ![](https://i.ytimg.com/vi/I3HUKB1np3E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-09-04 17:14:03 (UTC)  
+  **مدت:** حدود 27.6 دقیقه  
+  **عنوان:** [SolidWorks tutorial Spur Gear Assembly & Animation](https://www.youtube.com/watch?v=N0AEdBFkB98)  
+  ![](https://i.ytimg.com/vi/N0AEdBFkB98/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-31 16:30:00 (UTC)  
+  **مدت:** حدود 7.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design and Assembly of Pipe Wrench Part 5](https://www.youtube.com/watch?v=WdY1NNUngNo)  
+  ![](https://i.ytimg.com/vi/WdY1NNUngNo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-31 04:30:01 (UTC)  
+  **مدت:** حدود 12.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design and Assembly of Pipe Wrench Part 4](https://www.youtube.com/watch?v=YU7OOQYAt_I)  
+  ![](https://i.ytimg.com/vi/YU7OOQYAt_I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-30 16:30:00 (UTC)  
+  **مدت:** حدود 21.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design and Assembly of Pipe Wrench Part 3](https://www.youtube.com/watch?v=0RNyluWC5pA)  
+  ![](https://i.ytimg.com/vi/0RNyluWC5pA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-30 04:30:00 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design and Assembly of Pipe Wrench Part 2](https://www.youtube.com/watch?v=V0OngDROl20)  
+  ![](https://i.ytimg.com/vi/V0OngDROl20/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-29 16:49:44 (UTC)  
+  **مدت:** حدود 29.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Design and Assembly of Pipe Wrench Part 1](https://www.youtube.com/watch?v=f89FTMal_yA)  
+  ![](https://i.ytimg.com/vi/f89FTMal_yA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-20 14:01:58 (UTC)  
+  **مدت:** حدود 8.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 12](https://www.youtube.com/watch?v=cxnjt7nplsE)  
+  ![](https://i.ytimg.com/vi/cxnjt7nplsE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-15 22:05:41 (UTC)  
+  **مدت:** حدود 29.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial BMW Rim](https://www.youtube.com/watch?v=wGIshKnsWys)  
+  ![](https://i.ytimg.com/vi/wGIshKnsWys/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-14 18:51:02 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [Solidworks Tutorial Model Mania 2005](https://www.youtube.com/watch?v=ojVA108C2Ug)  
+  ![](https://i.ytimg.com/vi/ojVA108C2Ug/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-13 18:45:00 (UTC)  
+  **مدت:** حدود 12.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Marine Propeller](https://www.youtube.com/watch?v=TEXqcn0cxRs)  
+  ![](https://i.ytimg.com/vi/TEXqcn0cxRs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-12 21:22:05 (UTC)  
+  **مدت:** حدود 10.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial T-type Brass fitting](https://www.youtube.com/watch?v=eKKDBeh6O6g)  
+  ![](https://i.ytimg.com/vi/eKKDBeh6O6g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-08 20:22:50 (UTC)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [SolidWorks weldments Tutorial steel frame](https://www.youtube.com/watch?v=TeVoAV2MryE)  
+  ![](https://i.ytimg.com/vi/TeVoAV2MryE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-07 19:50:46 (UTC)  
+  **مدت:** حدود 9.2 دقیقه  
+  **عنوان:** [SolidWorks Surface Tutorial Freeform tool](https://www.youtube.com/watch?v=ec1MGaaQ3xk)  
+  ![](https://i.ytimg.com/vi/ec1MGaaQ3xk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-06 19:34:50 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [Solidworks Tutorial | types of Fillet in Solidworks](https://www.youtube.com/watch?v=_QXPTHOPFzw)  
+  ![](https://i.ytimg.com/vi/_QXPTHOPFzw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-08-02 19:33:18 (UTC)  
+  **مدت:** حدود 10.6 دقیقه  
+  **عنوان:** [Solidworks Tutorial Model Mania 2004](https://www.youtube.com/watch?v=3FienLKzi4Q)  
+  ![](https://i.ytimg.com/vi/3FienLKzi4Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-07-26 17:21:35 (UTC)  
+  **مدت:** حدود 16.7 دقیقه  
+  **عنوان:** [Solidworks Surface Tutorial earphones body](https://www.youtube.com/watch?v=g1IMK1XzBJg)  
+  ![](https://i.ytimg.com/vi/g1IMK1XzBJg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-07-15 19:42:51 (UTC)  
+  **مدت:** حدود 21.4 دقیقه  
+  **عنوان:** [Solidworks Surface Tutorial | How to make Spoon  in Solidworks](https://www.youtube.com/watch?v=VxZB1Kqyn8Y)  
+  ![](https://i.ytimg.com/vi/VxZB1Kqyn8Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-07-14 20:25:56 (UTC)  
+  **مدت:** حدود 7.5 دقیقه  
+  **عنوان:** [Solidworks Surface Tutorial Filled Surface and Knit Surface](https://www.youtube.com/watch?v=Cjw7YZxfM98)  
+  ![](https://i.ytimg.com/vi/Cjw7YZxfM98/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-07-12 11:30:00 (UTC)  
+  **مدت:** حدود 17.4 دقیقه  
+  **عنوان:** [Solidworks Surface Tutorial | Lofted Surface](https://www.youtube.com/watch?v=FoQD-sUVW1M)  
+  ![](https://i.ytimg.com/vi/FoQD-sUVW1M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-07-11 13:04:31 (UTC)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [Solidworks Tutorial | impossible Geometry and triangle](https://www.youtube.com/watch?v=g2xkl3-OOLQ)  
+  ![](https://i.ytimg.com/vi/g2xkl3-OOLQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-07-10 14:03:37 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Solidworks sheet metal Tutorial | Convert Solid Body into Sheet metal Body](https://www.youtube.com/watch?v=vcc95Tf_kNA)  
+  ![](https://i.ytimg.com/vi/vcc95Tf_kNA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-07-09 11:36:32 (UTC)  
+  **مدت:** حدود 12.0 دقیقه  
+  **عنوان:** [SolidWorks Surface Tutorial | Basics of Solidworks Surface](https://www.youtube.com/watch?v=Z7mrcn6Jssw)  
+  ![](https://i.ytimg.com/vi/Z7mrcn6Jssw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-07-03 18:49:59 (UTC)  
+  **مدت:** حدود 11.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 11](https://www.youtube.com/watch?v=BrpxkjfVQf4)  
+  ![](https://i.ytimg.com/vi/BrpxkjfVQf4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-28 19:25:02 (UTC)  
+  **مدت:** حدود 10.8 دقیقه  
+  **عنوان:** [Solidworks tutorial Model Mania 2007](https://www.youtube.com/watch?v=MqVwhbIxCPM)  
+  ![](https://i.ytimg.com/vi/MqVwhbIxCPM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-19 14:23:59 (UTC)  
+  **مدت:** حدود 4.2 دقیقه  
+  **عنوان:** [How to Sketched bend in Solidworks Sheet metal Tutorial](https://www.youtube.com/watch?v=NngLSds9Tds)  
+  ![](https://i.ytimg.com/vi/NngLSds9Tds/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-18 18:09:47 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [Certified Solidworks Professional (CSWP-SMTL) Advanced Sheet metal Sample Exam](https://www.youtube.com/watch?v=NSIX7nKvROQ)  
+  ![](https://i.ytimg.com/vi/NSIX7nKvROQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-15 18:38:00 (UTC)  
+  **مدت:** حدود 13.6 دقیقه  
+  **عنوان:** [SolidWorks tutorial model mania 2008](https://www.youtube.com/watch?v=FRmwU4oHHLg)  
+  ![](https://i.ytimg.com/vi/FRmwU4oHHLg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-14 16:34:18 (UTC)  
+  **مدت:** حدود 10.8 دقیقه  
+  **عنوان:** [SolidWorks Simulation tutorial for Beginners](https://www.youtube.com/watch?v=2LDSQMCeBBs)  
+  ![](https://i.ytimg.com/vi/2LDSQMCeBBs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-14 00:30:00 (UTC)  
+  **مدت:** حدود 12.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial model mania 2002](https://www.youtube.com/watch?v=ueXglGJDeQA)  
+  ![](https://i.ytimg.com/vi/ueXglGJDeQA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-13 12:30:00 (UTC)  
+  **مدت:** حدود 14.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial model mania 2016](https://www.youtube.com/watch?v=AHvel7EbY9M)  
+  ![](https://i.ytimg.com/vi/AHvel7EbY9M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-13 00:30:01 (UTC)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial model mania 2017](https://www.youtube.com/watch?v=-NEDoBOl_8c)  
+  ![](https://i.ytimg.com/vi/-NEDoBOl_8c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-12 11:30:00 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 10](https://www.youtube.com/watch?v=HbsEq8y4-T0)  
+  ![](https://i.ytimg.com/vi/HbsEq8y4-T0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-11 20:44:58 (UTC)  
+  **مدت:** حدود 11.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 9](https://www.youtube.com/watch?v=VMjd07Mhp8I)  
+  ![](https://i.ytimg.com/vi/VMjd07Mhp8I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-11 02:30:00 (UTC)  
+  **مدت:** حدود 10.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 8](https://www.youtube.com/watch?v=cFV3ZUPsZEc)  
+  ![](https://i.ytimg.com/vi/cFV3ZUPsZEc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-10 16:30:01 (UTC)  
+  **مدت:** حدود 13.4 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial For Beginners Exercise 6](https://www.youtube.com/watch?v=fY8asxzw9AE)  
+  ![](https://i.ytimg.com/vi/fY8asxzw9AE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-10 04:30:00 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial For Beginners Exercise 5](https://www.youtube.com/watch?v=YUl_3gLaPfE)  
+  ![](https://i.ytimg.com/vi/YUl_3gLaPfE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-09 19:44:07 (UTC)  
+  **مدت:** حدود 13.1 دقیقه  
+  **عنوان:** [SolidWorks Simulation Tutorial Calculate Factor of safety and  Report Part 4](https://www.youtube.com/watch?v=t7pA1yW0AZo)  
+  ![](https://i.ytimg.com/vi/t7pA1yW0AZo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-09 10:30:03 (UTC)  
+  **مدت:** حدود 6.7 دقیقه  
+  **عنوان:** [SolidWorks Simulation Tutorial Model Mania Part 3](https://www.youtube.com/watch?v=svzpWZA7H10)  
+  ![](https://i.ytimg.com/vi/svzpWZA7H10/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-09 00:30:02 (UTC)  
+  **مدت:** حدود 11.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Model Mania Part 2](https://www.youtube.com/watch?v=hruMZBeAap0)  
+  ![](https://i.ytimg.com/vi/hruMZBeAap0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-08 14:08:47 (UTC)  
+  **مدت:** حدود 11.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Model Mania Part 1](https://www.youtube.com/watch?v=nWQV0ywF8Uw)  
+  ![](https://i.ytimg.com/vi/nWQV0ywF8Uw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-07 21:36:05 (UTC)  
+  **مدت:** حدود 11.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners Exercise 7](https://www.youtube.com/watch?v=KwnAr5AAgCI)  
+  ![](https://i.ytimg.com/vi/KwnAr5AAgCI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-07 08:30:00 (UTC)  
+  **مدت:** حدود 15.6 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial How to make steel Frame](https://www.youtube.com/watch?v=mBPL7HcC48Y)  
+  ![](https://i.ytimg.com/vi/mBPL7HcC48Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-07 00:30:00 (UTC)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners Exercise 6](https://www.youtube.com/watch?v=WB5RRZg0QKw)  
+  ![](https://i.ytimg.com/vi/WB5RRZg0QKw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-06 15:30:00 (UTC)  
+  **مدت:** حدود 12.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners Exercise 5](https://www.youtube.com/watch?v=QzogjQ32POI)  
+  ![](https://i.ytimg.com/vi/QzogjQ32POI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-06 06:30:00 (UTC)  
+  **مدت:** حدود 6.9 دقیقه  
+  **عنوان:** [Autodesk inventor Tutorial How to make 3D Pipe](https://www.youtube.com/watch?v=toMgX6W3d4Q)  
+  ![](https://i.ytimg.com/vi/toMgX6W3d4Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-05 21:30:00 (UTC)  
+  **مدت:** حدود 12.6 دقیقه  
+  **عنوان:** [Autodesk inventor Tutorial for beginners Exercise 4](https://www.youtube.com/watch?v=Qu7HnU0SiqY)  
+  ![](https://i.ytimg.com/vi/Qu7HnU0SiqY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-05 13:32:43 (UTC)  
+  **مدت:** حدود 10.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners Exercise 4](https://www.youtube.com/watch?v=CBULMUqQkb8)  
+  ![](https://i.ytimg.com/vi/CBULMUqQkb8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-04 22:04:59 (UTC)  
+  **مدت:** حدود 12.0 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for Beginners Exercise 3](https://www.youtube.com/watch?v=MSFvK_kGt2Y)  
+  ![](https://i.ytimg.com/vi/MSFvK_kGt2Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-04 06:30:00 (UTC)  
+  **مدت:** حدود 13.3 دقیقه  
+  **عنوان:** [Autodesk inventor Tutorial Design of Fidget Spinner](https://www.youtube.com/watch?v=esQb-QJn77M)  
+  ![](https://i.ytimg.com/vi/esQb-QJn77M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-03 20:30:01 (UTC)  
+  **مدت:** حدود 5.2 دقیقه  
+  **عنوان:** [Autodesk inventor Tutorial Emboss and engrave](https://www.youtube.com/watch?v=t9FyPXPKhfU)  
+  ![](https://i.ytimg.com/vi/t9FyPXPKhfU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-03 12:30:00 (UTC)  
+  **مدت:** حدود 10.5 دقیقه  
+  **عنوان:** [Autodesk inventor Tutorial for beginners Exercise 3](https://www.youtube.com/watch?v=Y0uJ5ZlOx3k)  
+  ![](https://i.ytimg.com/vi/Y0uJ5ZlOx3k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-03 00:30:00 (UTC)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [Autodesk inventor Tutorial for beginners Exercise 2](https://www.youtube.com/watch?v=bpW7m3LoCiY)  
+  ![](https://i.ytimg.com/vi/bpW7m3LoCiY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-02 13:03:15 (UTC)  
+  **مدت:** حدود 7.7 دقیقه  
+  **عنوان:** [Autodesk inventor Tutorial for beginners Exercise 1](https://www.youtube.com/watch?v=KKbwf2a53bA)  
+  ![](https://i.ytimg.com/vi/KKbwf2a53bA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-01 21:30:01 (UTC)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners with Drawing Exercise 3](https://www.youtube.com/watch?v=SdntVwAh1gc)  
+  ![](https://i.ytimg.com/vi/SdntVwAh1gc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-06-01 10:51:13 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 2](https://www.youtube.com/watch?v=3RVgPjESfGA)  
+  ![](https://i.ytimg.com/vi/3RVgPjESfGA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-31 20:37:52 (UTC)  
+  **مدت:** حدود 6.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 1](https://www.youtube.com/watch?v=vf2B0kKJeyM)  
+  ![](https://i.ytimg.com/vi/vf2B0kKJeyM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-29 00:30:01 (UTC)  
+  **مدت:** حدود 11.6 دقیقه  
+  **عنوان:** [SolidWorks Weldments Tutorial 2D Drawing & Welding Cut List Part 2](https://www.youtube.com/watch?v=n7GeZOgaP-4)  
+  ![](https://i.ytimg.com/vi/n7GeZOgaP-4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-27 20:51:01 (UTC)  
+  **مدت:** حدود 16.6 دقیقه  
+  **عنوان:** [Solidworks Weldments tutorial steel structure with welding Part 1](https://www.youtube.com/watch?v=CxFg3Ou9zjQ)  
+  ![](https://i.ytimg.com/vi/CxFg3Ou9zjQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-24 03:30:00 (UTC)  
+  **مدت:** حدود 22.4 دقیقه  
+  **عنوان:** [SolidWorks tutorial | Planetary Gear Drive in Solidworks](https://www.youtube.com/watch?v=3vS4_V_lJ9A)  
+  ![](https://i.ytimg.com/vi/3vS4_V_lJ9A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-23 22:08:51 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Planetary Gear Drive in Solidworks](https://www.youtube.com/watch?v=KSaQeY1Z6oA)  
+  ![](https://i.ytimg.com/vi/KSaQeY1Z6oA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-22 15:28:29 (UTC)  
+  **مدت:** حدود 30.2 دقیقه  
+  **عنوان:** [SolidWorks tutorial | Gear Fidget Spinner in Solidworks](https://www.youtube.com/watch?v=1dhZGyaV2FM)  
+  ![](https://i.ytimg.com/vi/1dhZGyaV2FM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-21 17:47:24 (UTC)  
+  **مدت:** حدود 23.4 دقیقه  
+  **عنوان:** [SolidWorks tutorial Belt and chain](https://www.youtube.com/watch?v=w78xXjKgIxk)  
+  ![](https://i.ytimg.com/vi/w78xXjKgIxk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-20 06:30:01 (UTC)  
+  **مدت:** حدود 7.9 دقیقه  
+  **عنوان:** [SolidWorks sheet metal Tutorial forming tool](https://www.youtube.com/watch?v=5aapiSIh4Bk)  
+  ![](https://i.ytimg.com/vi/5aapiSIh4Bk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-19 06:30:01 (UTC)  
+  **مدت:** حدود 13.2 دقیقه  
+  **عنوان:** [SolidWorks sheet metal Tutorial | Calculate flat form of Elbow in Solidworks](https://www.youtube.com/watch?v=vbobjsILbr4)  
+  ![](https://i.ytimg.com/vi/vbobjsILbr4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-17 21:38:06 (UTC)  
+  **مدت:** حدود 21.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Bevel and Spur gear motion Study](https://www.youtube.com/watch?v=AqRap7K3JUI)  
+  ![](https://i.ytimg.com/vi/AqRap7K3JUI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-16 03:30:00 (UTC)  
+  **مدت:** حدود 33.3 دقیقه  
+  **عنوان:** [Solidworks motion tutorial Cam and Spring Animation](https://www.youtube.com/watch?v=qpXh6joZrLU)  
+  ![](https://i.ytimg.com/vi/qpXh6joZrLU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-15 03:30:00 (UTC)  
+  **مدت:** حدود 5.6 دقیقه  
+  **عنوان:** [Solidworks Equation Driven Curves](https://www.youtube.com/watch?v=-aE5ovqa5Mc)  
+  ![](https://i.ytimg.com/vi/-aE5ovqa5Mc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-14 07:12:51 (UTC)  
+  **مدت:** حدود 8.6 دقیقه  
+  **عنوان:** [Solidworks Weldments tutorial-Gusset](https://www.youtube.com/watch?v=GtGHPYk855I)  
+  ![](https://i.ytimg.com/vi/GtGHPYk855I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-12 20:12:34 (UTC)  
+  **مدت:** حدود 10.8 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal tutorial calculate hopper in Flat form](https://www.youtube.com/watch?v=t_3JdsN3IPc)  
+  ![](https://i.ytimg.com/vi/t_3JdsN3IPc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-11 18:15:39 (UTC)  
+  **مدت:** حدود 8.2 دقیقه  
+  **عنوان:** [Calculate Helical Screw Conveyor in flat form using Solidworks Sheet metal](https://www.youtube.com/watch?v=IKuPjYmufAo)  
+  ![](https://i.ytimg.com/vi/IKuPjYmufAo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-08 13:36:52 (UTC)  
+  **مدت:** حدود 17.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | How to make Helical Bevel Gear in SolidWorks](https://www.youtube.com/watch?v=VihInzgm0QA)  
+  ![](https://i.ytimg.com/vi/VihInzgm0QA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-05 04:30:01 (UTC)  
+  **مدت:** حدود 38.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | Assembly of Gate valve in Solidworks Part 5](https://www.youtube.com/watch?v=IF1D_xaHs3o)  
+  ![](https://i.ytimg.com/vi/IF1D_xaHs3o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-04 16:30:01 (UTC)  
+  **مدت:** حدود 9.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Gate valve in Solidworks Part 4](https://www.youtube.com/watch?v=kSVr0qZcC0Q)  
+  ![](https://i.ytimg.com/vi/kSVr0qZcC0Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-04 04:30:00 (UTC)  
+  **مدت:** حدود 27.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Gate valve in Solidworks Part 3](https://www.youtube.com/watch?v=kqLRvUG94Uw)  
+  ![](https://i.ytimg.com/vi/kqLRvUG94Uw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-03 16:30:04 (UTC)  
+  **مدت:** حدود 30.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Gate valve in Solidworks Part 2](https://www.youtube.com/watch?v=x1U_yRuccBA)  
+  ![](https://i.ytimg.com/vi/x1U_yRuccBA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-03 04:30:05 (UTC)  
+  **مدت:** حدود 51.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Gate valve in Solidworks Part 1](https://www.youtube.com/watch?v=uq_EPyIn-hY)  
+  ![](https://i.ytimg.com/vi/uq_EPyIn-hY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-02 16:30:01 (UTC)  
+  **مدت:** حدود 30.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | Assembly of Stop valve in Solidworks  Part 4](https://www.youtube.com/watch?v=EL8AgnkU09w)  
+  ![](https://i.ytimg.com/vi/EL8AgnkU09w/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-02 05:20:47 (UTC)  
+  **مدت:** حدود 39.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design and Assembly of Stop valve in Solidworks Part 3](https://www.youtube.com/watch?v=mhvMroD0Co8)  
+  ![](https://i.ytimg.com/vi/mhvMroD0Co8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-01 17:30:00 (UTC)  
+  **مدت:** حدود 29.9 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design and Assembly of Stop valve in Solidworks Part 2](https://www.youtube.com/watch?v=hgoSFZbO4io)  
+  ![](https://i.ytimg.com/vi/hgoSFZbO4io/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-05-01 05:53:28 (UTC)  
+  **مدت:** حدود 26.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design and Assembly of Stop valve in Solidworks Part 1](https://www.youtube.com/watch?v=_a0ZWN5fIM4)  
+  ![](https://i.ytimg.com/vi/_a0ZWN5fIM4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-30 00:30:00 (UTC)  
+  **مدت:** حدود 16.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Assembly of Swiss Plier in Solidworks Part 4](https://www.youtube.com/watch?v=soaLUSjwabU)  
+  ![](https://i.ytimg.com/vi/soaLUSjwabU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-29 09:30:00 (UTC)  
+  **مدت:** حدود 26.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Swiss Plier in Solidworks Part 3](https://www.youtube.com/watch?v=ryZqEwpUMIM)  
+  ![](https://i.ytimg.com/vi/ryZqEwpUMIM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-28 15:30:01 (UTC)  
+  **مدت:** حدود 30.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Swiss Plier in Solidworks Part 2](https://www.youtube.com/watch?v=CDBtrXqW9_g)  
+  ![](https://i.ytimg.com/vi/CDBtrXqW9_g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-27 16:30:01 (UTC)  
+  **مدت:** حدود 33.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Swiss Plier in Solidworks Part 1](https://www.youtube.com/watch?v=RCmNZyP8ZJU)  
+  ![](https://i.ytimg.com/vi/RCmNZyP8ZJU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-27 00:30:00 (UTC)  
+  **مدت:** حدود 26.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Assembly of Bobcat Loader in Solidworks Part 6](https://www.youtube.com/watch?v=KdKJLJiEUMI)  
+  ![](https://i.ytimg.com/vi/KdKJLJiEUMI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-26 09:30:01 (UTC)  
+  **مدت:** حدود 22.9 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Bobcat Loader in Solidworks Part 5](https://www.youtube.com/watch?v=Qzm5MipxXaY)  
+  ![](https://i.ytimg.com/vi/Qzm5MipxXaY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-25 15:30:00 (UTC)  
+  **مدت:** حدود 35.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Bobcat Loader in Solidworks Part 4](https://www.youtube.com/watch?v=M0oaoEOfDx8)  
+  ![](https://i.ytimg.com/vi/M0oaoEOfDx8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-24 09:30:01 (UTC)  
+  **مدت:** حدود 30.9 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Bobcat Loader in Solidworks Part 3](https://www.youtube.com/watch?v=8FlpiRTyoIs)  
+  ![](https://i.ytimg.com/vi/8FlpiRTyoIs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-23 18:15:00 (UTC)  
+  **مدت:** حدود 35.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Bobcat Loader in Solidworks Part 2](https://www.youtube.com/watch?v=jKN3chtPSdQ)  
+  ![](https://i.ytimg.com/vi/jKN3chtPSdQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-23 03:30:00 (UTC)  
+  **مدت:** حدود 31.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Bobcat Loader in Solidworks Part 1](https://www.youtube.com/watch?v=QewD23g6CsY)  
+  ![](https://i.ytimg.com/vi/QewD23g6CsY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-22 15:30:01 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Design of Bobcat Loader in Solidworks](https://www.youtube.com/watch?v=yp_EhUwZPM8)  
+  ![](https://i.ytimg.com/vi/yp_EhUwZPM8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-22 03:30:02 (UTC)  
+  **مدت:** حدود 67.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | 6 Cylinder Radial Engine Assembly Part 5](https://www.youtube.com/watch?v=wqo04r0qUCI)  
+  ![](https://i.ytimg.com/vi/wqo04r0qUCI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-21 03:30:00 (UTC)  
+  **مدت:** حدود 27.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | 6 Cylinder Radial Engine Part 4](https://www.youtube.com/watch?v=jzCpNz5LTYY)  
+  ![](https://i.ytimg.com/vi/jzCpNz5LTYY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-20 03:30:00 (UTC)  
+  **مدت:** حدود 32.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | 6 Cylinder Radial Engine Part 3](https://www.youtube.com/watch?v=4bnk_eR2luA)  
+  ![](https://i.ytimg.com/vi/4bnk_eR2luA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-19 09:30:00 (UTC)  
+  **مدت:** حدود 29.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | 6 Cylinder Radial Engine Part 2](https://www.youtube.com/watch?v=8SVKPEyvK_E)  
+  ![](https://i.ytimg.com/vi/8SVKPEyvK_E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-18 15:30:00 (UTC)  
+  **مدت:** حدود 30.9 دقیقه  
+  **عنوان:** [Solidworks tutorial | 6 Cylinder Radial Engine Part 1](https://www.youtube.com/watch?v=CQABUd3KT_Q)  
+  ![](https://i.ytimg.com/vi/CQABUd3KT_Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-18 11:59:01 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [6 Cylinder Radial Engine in Solidworks](https://www.youtube.com/watch?v=FXyvYeKnZiE)  
+  ![](https://i.ytimg.com/vi/FXyvYeKnZiE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-03 15:16:30 (UTC)  
+  **مدت:** حدود 4.4 دقیقه  
+  **عنوان:** [How to insert a decals in Solidworks](https://www.youtube.com/watch?v=5x4ubnD0tio)  
+  ![](https://i.ytimg.com/vi/5x4ubnD0tio/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-03 03:30:00 (UTC)  
+  **مدت:** حدود 4.6 دقیقه  
+  **عنوان:** [Solidworks tutorial Boundary Cut](https://www.youtube.com/watch?v=_MQmjILeDgI)  
+  ![](https://i.ytimg.com/vi/_MQmjILeDgI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-04-02 17:29:48 (UTC)  
+  **مدت:** حدود 5.8 دقیقه  
+  **عنوان:** [Solidworks tutorial Boundary Boss Base](https://www.youtube.com/watch?v=gxM60DEU2AY)  
+  ![](https://i.ytimg.com/vi/gxM60DEU2AY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-03-26 20:32:37 (UTC)  
+  **مدت:** حدود 13.5 دقیقه  
+  **عنوان:** [Solidworks tutorial PhotoView 360](https://www.youtube.com/watch?v=Z870mqZWsoM)  
+  ![](https://i.ytimg.com/vi/Z870mqZWsoM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-03-24 18:06:07 (UTC)  
+  **مدت:** حدود 21.9 دقیقه  
+  **عنوان:** [Solidworks tutorial Thread features (Bolt and Nut)](https://www.youtube.com/watch?v=r5Ntr4JcFqI)  
+  ![](https://i.ytimg.com/vi/r5Ntr4JcFqI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-03-21 20:18:27 (UTC)  
+  **مدت:** حدود 12.5 دقیقه  
+  **عنوان:** [YouTube FanFest 2018 Mumbai](https://www.youtube.com/watch?v=162U1haavhI)  
+  ![](https://i.ytimg.com/vi/162U1haavhI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-03-10 21:20:37 (UTC)  
+  **مدت:** حدود 40.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | Parallel Clamp in Solidworks](https://www.youtube.com/watch?v=GyyYXE_tQt0)  
+  ![](https://i.ytimg.com/vi/GyyYXE_tQt0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-02-11 20:42:07 (UTC)  
+  **مدت:** حدود 21.6 دقیقه  
+  **عنوان:** [Solidworks Surface tutorial | Car door in Solidworks](https://www.youtube.com/watch?v=aDyX1Hbrg5k)  
+  ![](https://i.ytimg.com/vi/aDyX1Hbrg5k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-02-06 12:01:05 (UTC)  
+  **مدت:** حدود 97.2 دقیقه  
+  **عنوان:** [Solidworks Tutorial | Slider Crank mechanism in Solidworks](https://www.youtube.com/watch?v=f2XFQE0LHIg)  
+  ![](https://i.ytimg.com/vi/f2XFQE0LHIg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-02-01 19:22:33 (UTC)  
+  **مدت:** حدود 6.7 دقیقه  
+  **عنوان:** [Solidworks Tutorial Animation of Steam Engine Part 9](https://www.youtube.com/watch?v=sx1gtNlP9A4)  
+  ![](https://i.ytimg.com/vi/sx1gtNlP9A4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-02-01 05:42:26 (UTC)  
+  **مدت:** حدود 48.9 دقیقه  
+  **عنوان:** [Solidworks Tutorial Final Assembly of Steam Engine Part 8](https://www.youtube.com/watch?v=inRViXW-yEM)  
+  ![](https://i.ytimg.com/vi/inRViXW-yEM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-30 21:57:43 (UTC)  
+  **مدت:** حدود 40.6 دقیقه  
+  **عنوان:** [Solidworks Tutorial Steam engine (Assembly 1) Part 7](https://www.youtube.com/watch?v=oInN7a_Y-dg)  
+  ![](https://i.ytimg.com/vi/oInN7a_Y-dg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-27 18:08:38 (UTC)  
+  **مدت:** حدود 40.7 دقیقه  
+  **عنوان:** [Solidworks Tutorial Steam engine Part 6](https://www.youtube.com/watch?v=SyGRwPVN90M)  
+  ![](https://i.ytimg.com/vi/SyGRwPVN90M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-25 12:24:17 (UTC)  
+  **مدت:** حدود 40.4 دقیقه  
+  **عنوان:** [Solidworks Tutorial Steam engine Part 5](https://www.youtube.com/watch?v=lGV9T3BeHoQ)  
+  ![](https://i.ytimg.com/vi/lGV9T3BeHoQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-24 03:30:00 (UTC)  
+  **مدت:** حدود 28.4 دقیقه  
+  **عنوان:** [Solidworks Tutorial Steam engine Part 4](https://www.youtube.com/watch?v=1L8PgJSpb3c)  
+  ![](https://i.ytimg.com/vi/1L8PgJSpb3c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-23 03:18:38 (UTC)  
+  **مدت:** حدود 39.2 دقیقه  
+  **عنوان:** [Solidworks Tutorial Steam engine Part 3](https://www.youtube.com/watch?v=Ng0e2hQy1Ik)  
+  ![](https://i.ytimg.com/vi/Ng0e2hQy1Ik/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-22 11:54:01 (UTC)  
+  **مدت:** حدود 49.7 دقیقه  
+  **عنوان:** [Solidworks Tutorial Steam engine Part 2](https://www.youtube.com/watch?v=VjUVKdkNbXs)  
+  ![](https://i.ytimg.com/vi/VjUVKdkNbXs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-20 15:02:45 (UTC)  
+  **مدت:** حدود 34.9 دقیقه  
+  **عنوان:** [Solidworks Tutorial Steam engine Part1](https://www.youtube.com/watch?v=lEk9y8A5cb4)  
+  ![](https://i.ytimg.com/vi/lEk9y8A5cb4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-18 08:32:20 (UTC)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Solidworks Tutorial Steam engine with Horizontal beam and Centrifugal Pump](https://www.youtube.com/watch?v=6Ys-Qz4t2B4)  
+  ![](https://i.ytimg.com/vi/6Ys-Qz4t2B4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-17 19:17:26 (UTC)  
+  **مدت:** حدود 6.7 دقیقه  
+  **عنوان:** [How to Convert 3D part into sheet metal in Solidworks](https://www.youtube.com/watch?v=2aYE4F6dlQw)  
+  ![](https://i.ytimg.com/vi/2aYE4F6dlQw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-15 19:32:33 (UTC)  
+  **مدت:** حدود 23.5 دقیقه  
+  **عنوان:** [Solidworks tutorial Exhaust manifold](https://www.youtube.com/watch?v=YCuqkoN1nAs)  
+  ![](https://i.ytimg.com/vi/YCuqkoN1nAs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-12 17:07:49 (UTC)  
+  **مدت:** حدود 86.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Hydraulic Cylinder in Solidworks](https://www.youtube.com/watch?v=45cwvWPacA0)  
+  ![](https://i.ytimg.com/vi/45cwvWPacA0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-11 00:38:37 (UTC)  
+  **مدت:** حدود 70.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Crane hook in Solidworks](https://www.youtube.com/watch?v=-MGTVY4QYpU)  
+  ![](https://i.ytimg.com/vi/-MGTVY4QYpU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-06 04:30:00 (UTC)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | Thanks for 50000 Subscribers](https://www.youtube.com/watch?v=ObIjPuNxY94)  
+  ![](https://i.ytimg.com/vi/ObIjPuNxY94/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-05 16:30:01 (UTC)  
+  **مدت:** حدود 23.6 دقیقه  
+  **عنوان:** [Solidworks tutorial Design of Stool in Solidworks](https://www.youtube.com/watch?v=g457XrRqRME)  
+  ![](https://i.ytimg.com/vi/g457XrRqRME/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-04 15:30:00 (UTC)  
+  **مدت:** حدود 188.9 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design and assembly of Bench vise in Solidworks](https://www.youtube.com/watch?v=Cariein-kOE)  
+  ![](https://i.ytimg.com/vi/Cariein-kOE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2018-01-03 16:23:24 (UTC)  
+  **مدت:** حدود 9.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | Exploded view in Solidworks](https://www.youtube.com/watch?v=N6Q5XCEN0ec)  
+  ![](https://i.ytimg.com/vi/N6Q5XCEN0ec/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-11-25 19:15:16 (UTC)  
+  **مدت:** حدود 19.4 دقیقه  
+  **عنوان:** [Solidworks Tutorial Y joint in Sheet metal](https://www.youtube.com/watch?v=Wd1LBHsr65k)  
+  ![](https://i.ytimg.com/vi/Wd1LBHsr65k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-11-20 16:43:30 (UTC)  
+  **مدت:** حدود 8.9 دقیقه  
+  **عنوان:** [Solidworks Tutorial Sheet Metal Cone](https://www.youtube.com/watch?v=DIp33jPUNSs)  
+  ![](https://i.ytimg.com/vi/DIp33jPUNSs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-11-13 19:39:14 (UTC)  
+  **مدت:** حدود 19.8 دقیقه  
+  **عنوان:** [Solidworks Tutorial Sheet metal drawings](https://www.youtube.com/watch?v=N4kctnx-n_I)  
+  ![](https://i.ytimg.com/vi/N4kctnx-n_I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-11-02 03:12:01 (UTC)  
+  **مدت:** حدود 24.2 دقیقه  
+  **عنوان:** [Solidworks Tutorial Basics of Sheet Metal](https://www.youtube.com/watch?v=Cvyf6zZsjuQ)  
+  ![](https://i.ytimg.com/vi/Cvyf6zZsjuQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-10-31 21:24:12 (UTC)  
+  **مدت:** حدود 21.2 دقیقه  
+  **عنوان:** [Solidworks Tutorial | Design of BSP Tap Bit in Solidworks](https://www.youtube.com/watch?v=cygMcJoaAZc)  
+  ![](https://i.ytimg.com/vi/cygMcJoaAZc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-10-13 15:23:29 (UTC)  
+  **مدت:** حدود 8.5 دقیقه  
+  **عنوان:** [Solidworks Tutorial | Engrave 3D Text on Sphere (Solidworks Surface)](https://www.youtube.com/watch?v=YZ9XsEGxjmQ)  
+  ![](https://i.ytimg.com/vi/YZ9XsEGxjmQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-10-01 10:12:35 (UTC)  
+  **مدت:** حدود 66.5 دقیقه  
+  **عنوان:** [Solidworks Tutorial | Design of Bench Vise in Solidworks (Part 3)](https://www.youtube.com/watch?v=9K8rxDOW63Y)  
+  ![](https://i.ytimg.com/vi/9K8rxDOW63Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-09-29 21:19:43 (UTC)  
+  **مدت:** حدود 59.8 دقیقه  
+  **عنوان:** [Solidworks Tutorial | Design of Bench Vise in Solidworks (Part 2)](https://www.youtube.com/watch?v=34b8uI8ZpgA)  
+  ![](https://i.ytimg.com/vi/34b8uI8ZpgA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-09-28 18:48:57 (UTC)  
+  **مدت:** حدود 64.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Bench Vise in Solidworks (Part 1)](https://www.youtube.com/watch?v=CEhR-OgT0H8)  
+  ![](https://i.ytimg.com/vi/CEhR-OgT0H8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-09-23 17:27:52 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Tetrapod concrete Block in Solidworks](https://www.youtube.com/watch?v=eB95GAnEbVY)  
+  ![](https://i.ytimg.com/vi/eB95GAnEbVY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-09-21 01:19:20 (UTC)  
+  **مدت:** حدود 85.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Compass (divider) in Solidworks](https://www.youtube.com/watch?v=dYInQxNcmzM)  
+  ![](https://i.ytimg.com/vi/dYInQxNcmzM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-09-18 18:30:20 (UTC)  
+  **مدت:** حدود 7.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | Using Decals (insert images) in Solidworks](https://www.youtube.com/watch?v=m3F_iLue4FI)  
+  ![](https://i.ytimg.com/vi/m3F_iLue4FI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-09-12 03:31:18 (UTC)  
+  **مدت:** حدود 15.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Fidget Spinner (2 lobes) in Solidworks](https://www.youtube.com/watch?v=d_1uU4DedQ8)  
+  ![](https://i.ytimg.com/vi/d_1uU4DedQ8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-09-10 22:04:19 (UTC)  
+  **مدت:** حدود 30.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Fidget Spinner in Solidworks](https://www.youtube.com/watch?v=oSgmQ6JcKZk)  
+  ![](https://i.ytimg.com/vi/oSgmQ6JcKZk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-09-09 09:30:01 (UTC)  
+  **مدت:** حدود 2.4 دقیقه  
+  **عنوان:** [How to Hide Sketch Relations (Green Signs) in Solidworks](https://www.youtube.com/watch?v=UTgUSDWT5Fo)  
+  ![](https://i.ytimg.com/vi/UTgUSDWT5Fo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-09-08 15:52:51 (UTC)  
+  **مدت:** حدود 36.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Turn Buckle in Solidworks](https://www.youtube.com/watch?v=0SErTSYm_tA)  
+  ![](https://i.ytimg.com/vi/0SErTSYm_tA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-09-07 03:28:14 (UTC)  
+  **مدت:** حدود 12.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Self tapping Screw in Solidworks](https://www.youtube.com/watch?v=YW0syte1yZU)  
+  ![](https://i.ytimg.com/vi/YW0syte1yZU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-08-30 20:11:09 (UTC)  
+  **مدت:** حدود 7.1 دقیقه  
+  **عنوان:** [Mivi Thunderbeats Bluetooth Earphone unboxing](https://www.youtube.com/watch?v=QSsD9H0r7E4)  
+  ![](https://i.ytimg.com/vi/QSsD9H0r7E4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-08-29 04:40:39 (UTC)  
+  **مدت:** حدود 37.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of intermittent mechanism in Solidworks](https://www.youtube.com/watch?v=BJaQA0GSfEw)  
+  ![](https://i.ytimg.com/vi/BJaQA0GSfEw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-08-24 20:50:22 (UTC)  
+  **مدت:** حدود 13.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Spur gear with Solidworks toolbox](https://www.youtube.com/watch?v=xey6WL873-E)  
+  ![](https://i.ytimg.com/vi/xey6WL873-E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-08-21 04:44:07 (UTC)  
+  **مدت:** حدود 58.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Bottle in Solidworks ( surfacing tutorial)](https://www.youtube.com/watch?v=FSzgv9r2oso)  
+  ![](https://i.ytimg.com/vi/FSzgv9r2oso/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-08-20 01:14:06 (UTC)  
+  **مدت:** حدود 60.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Steel Almirah in Solidworks (Sheet metal)](https://www.youtube.com/watch?v=_KpnX4RNiIE)  
+  ![](https://i.ytimg.com/vi/_KpnX4RNiIE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-08-16 20:10:14 (UTC)  
+  **مدت:** حدود 48.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | toy Cannon in Solidworks](https://www.youtube.com/watch?v=O_MXbFdN4sE)  
+  ![](https://i.ytimg.com/vi/O_MXbFdN4sE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-08-13 18:18:08 (UTC)  
+  **مدت:** حدود 19.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | old ham coupling in Solidworks](https://www.youtube.com/watch?v=hAAYTim_cMo)  
+  ![](https://i.ytimg.com/vi/hAAYTim_cMo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-08-11 20:01:01 (UTC)  
+  **مدت:** حدود 14.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | Composite curve in Solidworks](https://www.youtube.com/watch?v=xb8duCmyoTQ)  
+  ![](https://i.ytimg.com/vi/xb8duCmyoTQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-08-09 16:42:31 (UTC)  
+  **مدت:** حدود 14.2 دقیقه  
+  **عنوان:** [Solidworks surface tutorial | How to make Magician hat in Solidworks](https://www.youtube.com/watch?v=h_CZDlEC4e8)  
+  ![](https://i.ytimg.com/vi/h_CZDlEC4e8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-08-07 20:25:38 (UTC)  
+  **مدت:** حدود 38.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Caster wheel in Solidworks](https://www.youtube.com/watch?v=-VwESMkrmS4)  
+  ![](https://i.ytimg.com/vi/-VwESMkrmS4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-08-03 20:20:29 (UTC)  
+  **مدت:** حدود 15.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Mobius Bracelet in Solidworks](https://www.youtube.com/watch?v=nIA2s96fcpI)  
+  ![](https://i.ytimg.com/vi/nIA2s96fcpI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-08-02 21:10:02 (UTC)  
+  **مدت:** حدود 18.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | design of Reamer in Solidworks](https://www.youtube.com/watch?v=pgOl2McpW4o)  
+  ![](https://i.ytimg.com/vi/pgOl2McpW4o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-30 19:11:11 (UTC)  
+  **مدت:** حدود 10.4 دقیقه  
+  **عنوان:** [Solidworks Pipe Routing Tutorial](https://www.youtube.com/watch?v=gYHXVACn69g)  
+  ![](https://i.ytimg.com/vi/gYHXVACn69g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-30 04:26:26 (UTC)  
+  **مدت:** حدود 19.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | Mold Design in Solidworks | Cavity and Core in Solidworks](https://www.youtube.com/watch?v=Pbr6ynP4Aig)  
+  ![](https://i.ytimg.com/vi/Pbr6ynP4Aig/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-27 11:49:01 (UTC)  
+  **مدت:** حدود 5.9 دقیقه  
+  **عنوان:** [Solidworks Projects with CAD CAM TUTORIAL](https://www.youtube.com/watch?v=KbFl9zUl-zA)  
+  ![](https://i.ytimg.com/vi/KbFl9zUl-zA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-26 19:18:41 (UTC)  
+  **مدت:** حدود 7.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | Spring Ball in Solidworks](https://www.youtube.com/watch?v=vWHfoZomsCw)  
+  ![](https://i.ytimg.com/vi/vWHfoZomsCw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-25 14:54:06 (UTC)  
+  **مدت:** حدود 7.2 دقیقه  
+  **عنوان:** [Unboxing of Yu Yunicorn mobile (4 GB RAM, 32 GB ROM)](https://www.youtube.com/watch?v=uvDE1IWZmk4)  
+  ![](https://i.ytimg.com/vi/uvDE1IWZmk4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-24 21:27:42 (UTC)  
+  **مدت:** حدود 12.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Golf Ball in Solidworks](https://www.youtube.com/watch?v=vvZnmPucpDo)  
+  ![](https://i.ytimg.com/vi/vvZnmPucpDo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-23 17:42:36 (UTC)  
+  **مدت:** حدود 19.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Power Supply Unit in Solidworks](https://www.youtube.com/watch?v=s5keIresFAU)  
+  ![](https://i.ytimg.com/vi/s5keIresFAU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-21 21:40:29 (UTC)  
+  **مدت:** حدود 54.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Harry potter Golden Snitch in Solidworks](https://www.youtube.com/watch?v=zKsW_G_3DYk)  
+  ![](https://i.ytimg.com/vi/zKsW_G_3DYk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-20 04:00:00 (UTC)  
+  **مدت:** حدود 27.1 دقیقه  
+  **عنوان:** [Solidworks sheet metal tutorial | Design of Electrical enclosure in Solidworks](https://www.youtube.com/watch?v=3bUUv2wB3N4)  
+  ![](https://i.ytimg.com/vi/3bUUv2wB3N4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-19 04:00:00 (UTC)  
+  **مدت:** حدود 39.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Scissor in Solidworks](https://www.youtube.com/watch?v=G30ZSWwTzew)  
+  ![](https://i.ytimg.com/vi/G30ZSWwTzew/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-18 03:42:54 (UTC)  
+  **مدت:** حدود 67.9 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Wheel Barrow in Solidworks](https://www.youtube.com/watch?v=aNvUW65nnNM)  
+  ![](https://i.ytimg.com/vi/aNvUW65nnNM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-17 06:38:11 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [Solidworks Simulation tutorial | Static Simulation Study](https://www.youtube.com/watch?v=f1Xw_mLBY5s)  
+  ![](https://i.ytimg.com/vi/f1Xw_mLBY5s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-16 14:52:54 (UTC)  
+  **مدت:** حدود 9.1 دقیقه  
+  **عنوان:** [Solidworks Simulation tutorial | Steel Structure Simulation in Solidworks](https://www.youtube.com/watch?v=4pbIAQQ9tGc)  
+  ![](https://i.ytimg.com/vi/4pbIAQQ9tGc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-15 15:12:35 (UTC)  
+  **مدت:** حدود 60.3 دقیقه  
+  **عنوان:** [Solidworks Weldments tutorial | design of Steel ladder in Solidworks](https://www.youtube.com/watch?v=JNMmftpNpSM)  
+  ![](https://i.ytimg.com/vi/JNMmftpNpSM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-14 01:05:39 (UTC)  
+  **مدت:** حدود 103.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Butterfly Valve in Solidworks](https://www.youtube.com/watch?v=llzUqTaROHw)  
+  ![](https://i.ytimg.com/vi/llzUqTaROHw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-12 18:08:05 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Laptop for CAD software's (SolidWorks) | Realview in Solidworks](https://www.youtube.com/watch?v=9HHdLuj675o)  
+  ![](https://i.ytimg.com/vi/9HHdLuj675o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-11 13:22:08 (UTC)  
+  **مدت:** حدود 6.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | insert Bill of Materials (BOM) into a Drawing in Solidworks](https://www.youtube.com/watch?v=E0Mn1p7dC-g)  
+  ![](https://i.ytimg.com/vi/E0Mn1p7dC-g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-10 08:43:02 (UTC)  
+  **مدت:** حدود 3.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | How to Set Standard Views in Command Manager](https://www.youtube.com/watch?v=ijTERzFkhXY)  
+  ![](https://i.ytimg.com/vi/ijTERzFkhXY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-09 18:02:52 (UTC)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [Unboxing and Review of TeckNet M002 2.4G Wireless Mouse](https://www.youtube.com/watch?v=oZwqGiqhk-0)  
+  ![](https://i.ytimg.com/vi/oZwqGiqhk-0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-08 21:19:04 (UTC)  
+  **مدت:** حدود 68.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Pipe Vice in Solidworks](https://www.youtube.com/watch?v=kLjSilO3ebs)  
+  ![](https://i.ytimg.com/vi/kLjSilO3ebs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-07-07 20:35:21 (UTC)  
+  **مدت:** حدود 68.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Tube Welding Clamp in Solidworks](https://www.youtube.com/watch?v=4FO12kmXO8I)  
+  ![](https://i.ytimg.com/vi/4FO12kmXO8I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-06-29 13:21:38 (UTC)  
+  **مدت:** حدود 8.1 دقیقه  
+  **عنوان:** [Unboxing 3Dconnexion SpaceNavigator 3D Mouse 3DX 700028](https://www.youtube.com/watch?v=Sa9vvhe5pJs)  
+  ![](https://i.ytimg.com/vi/Sa9vvhe5pJs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-06-17 13:22:13 (UTC)  
+  **مدت:** حدود 8.7 دقیقه  
+  **عنوان:** [Solidworks tutorial Sheet metal fold and unfold command](https://www.youtube.com/watch?v=F8DJHqwSHCk)  
+  ![](https://i.ytimg.com/vi/F8DJHqwSHCk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-06-08 10:29:12 (UTC)  
+  **مدت:** حدود 9.8 دقیقه  
+  **عنوان:** [Solidworks tutorial 3D Pipe](https://www.youtube.com/watch?v=8t4Q0i8kFDU)  
+  ![](https://i.ytimg.com/vi/8t4Q0i8kFDU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-06-04 13:07:55 (UTC)  
+  **مدت:** حدود 22.9 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Fidget Spinner in Solidworks](https://www.youtube.com/watch?v=dktWCgA2Y-o)  
+  ![](https://i.ytimg.com/vi/dktWCgA2Y-o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-31 07:24:45 (UTC)  
+  **مدت:** حدود 17.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | Crown Wheel and Pinion mechanism in Solidworks](https://www.youtube.com/watch?v=_D6bnHL5ahI)  
+  ![](https://i.ytimg.com/vi/_D6bnHL5ahI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-30 08:51:26 (UTC)  
+  **مدت:** حدود 9.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sheet Metal box using Louver tool in Solidworks](https://www.youtube.com/watch?v=MpHsHKFOE5Q)  
+  ![](https://i.ytimg.com/vi/MpHsHKFOE5Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-24 04:11:58 (UTC)  
+  **مدت:** حدود 11.8 دقیقه  
+  **عنوان:** [How to Create Custom Title block template in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=hQKi5mf3VCc)  
+  ![](https://i.ytimg.com/vi/hQKi5mf3VCc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-22 15:04:30 (UTC)  
+  **مدت:** حدود 6.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | Smart Dimension Tips](https://www.youtube.com/watch?v=1-4_1U1ecQ0)  
+  ![](https://i.ytimg.com/vi/1-4_1U1ecQ0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-21 18:40:48 (UTC)  
+  **مدت:** حدود 25.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | Gyroscope in Solidworks](https://www.youtube.com/watch?v=CppWpZ7qoQM)  
+  ![](https://i.ytimg.com/vi/CppWpZ7qoQM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-18 14:56:52 (UTC)  
+  **مدت:** حدود 16.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Fidget Spinner in Solidworks](https://www.youtube.com/watch?v=Om2-TFmqcRw)  
+  ![](https://i.ytimg.com/vi/Om2-TFmqcRw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-17 08:27:07 (UTC)  
+  **مدت:** حدود 104.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design and Assembly of Swiss Pliers in Solidworks](https://www.youtube.com/watch?v=xqHxo-nMVdE)  
+  ![](https://i.ytimg.com/vi/xqHxo-nMVdE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-15 07:09:40 (UTC)  
+  **مدت:** حدود 86.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Hydraulic Cylinder in Solidworks](https://www.youtube.com/watch?v=uKmXO42MpIk)  
+  ![](https://i.ytimg.com/vi/uKmXO42MpIk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-13 04:41:56 (UTC)  
+  **مدت:** حدود 80.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design and Assembly Scissor Lift in Solidworks](https://www.youtube.com/watch?v=-SZ4WHqgZn8)  
+  ![](https://i.ytimg.com/vi/-SZ4WHqgZn8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-11 11:30:21 (UTC)  
+  **مدت:** حدود 5.5 دقیقه  
+  **عنوان:** [How to create Custom Weldments Profile in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=lOAxr1ta5Vc)  
+  ![](https://i.ytimg.com/vi/lOAxr1ta5Vc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-09 07:56:17 (UTC)  
+  **مدت:** حدود 137.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design of Two Cylinder Engine in Solidworks](https://www.youtube.com/watch?v=MIr-4xyItSA)  
+  ![](https://i.ytimg.com/vi/MIr-4xyItSA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-07 14:04:33 (UTC)  
+  **مدت:** حدود 18.2 دقیقه  
+  **عنوان:** [Solidworks Mold tools tutorial | Introduction of Mold tools in Solidworks](https://www.youtube.com/watch?v=yqROZFStz6c)  
+  ![](https://i.ytimg.com/vi/yqROZFStz6c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-06 17:27:25 (UTC)  
+  **مدت:** حدود 8.5 دقیقه  
+  **عنوان:** [How to insert an image in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=bi1OJN-OD9w)  
+  ![](https://i.ytimg.com/vi/bi1OJN-OD9w/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-05 16:27:36 (UTC)  
+  **مدت:** حدود 6.1 دقیقه  
+  **عنوان:** [How to use Autotrace in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=qD034DBK2YY)  
+  ![](https://i.ytimg.com/vi/qD034DBK2YY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-04 09:08:24 (UTC)  
+  **مدت:** حدود 185.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design and Assembly of Bicycle in Solidworks](https://www.youtube.com/watch?v=tj5Wo1Z9r20)  
+  ![](https://i.ytimg.com/vi/tj5Wo1Z9r20/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-05-02 14:52:03 (UTC)  
+  **مدت:** حدود 178.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Bobcat Loader in Solidworks](https://www.youtube.com/watch?v=n-3Gcjmir64)  
+  ![](https://i.ytimg.com/vi/n-3Gcjmir64/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-28 05:17:48 (UTC)  
+  **مدت:** حدود 89.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design and Assembly of Car Jack in Solidworks | Solidworks](https://www.youtube.com/watch?v=6zVW8Tcm1LA)  
+  ![](https://i.ytimg.com/vi/6zVW8Tcm1LA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-26 04:18:45 (UTC)  
+  **مدت:** حدود 63.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Worm gear Reducer in Solidworks | Solidworks](https://www.youtube.com/watch?v=RIiXhbdluxQ)  
+  ![](https://i.ytimg.com/vi/RIiXhbdluxQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-23 21:51:29 (UTC)  
+  **مدت:** حدود 21.9 دقیقه  
+  **عنوان:** [Solidworks tutorial Chain Component Pattern](https://www.youtube.com/watch?v=jE3eUOYnyFQ)  
+  ![](https://i.ytimg.com/vi/jE3eUOYnyFQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-20 20:00:22 (UTC)  
+  **مدت:** حدود 29.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | slider crank mechanism in solidworks](https://www.youtube.com/watch?v=sHu_4yvZCoA)  
+  ![](https://i.ytimg.com/vi/sHu_4yvZCoA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-18 05:03:06 (UTC)  
+  **مدت:** حدود 16.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | Bevel gear and pinion mechanism in Solidworks](https://www.youtube.com/watch?v=GZiLtLj2WCE)  
+  ![](https://i.ytimg.com/vi/GZiLtLj2WCE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-13 15:08:15 (UTC)  
+  **مدت:** حدود 36.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Audi Rim in Solidworks](https://www.youtube.com/watch?v=nyviOLV3YdE)  
+  ![](https://i.ytimg.com/vi/nyviOLV3YdE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-11 14:46:21 (UTC)  
+  **مدت:** حدود 31.7 دقیقه  
+  **عنوان:** [Solidworks tutorial Basics of sheet metal](https://www.youtube.com/watch?v=MZ_lgSDhwb4)  
+  ![](https://i.ytimg.com/vi/MZ_lgSDhwb4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-09 15:21:06 (UTC)  
+  **مدت:** حدود 35.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Steel Stair in Solidworks](https://www.youtube.com/watch?v=enVmeljaaE8)  
+  ![](https://i.ytimg.com/vi/enVmeljaaE8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-08 18:29:34 (UTC)  
+  **مدت:** حدود 85.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Anemometer in Solidworks](https://www.youtube.com/watch?v=LQz8COVp82Y)  
+  ![](https://i.ytimg.com/vi/LQz8COVp82Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-06 07:24:01 (UTC)  
+  **مدت:** حدود 21.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Cam and Follower mechanism in Solidworks](https://www.youtube.com/watch?v=fRL2z3a6Ic4)  
+  ![](https://i.ytimg.com/vi/fRL2z3a6Ic4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-05 13:00:27 (UTC)  
+  **مدت:** حدود 12.9 دقیقه  
+  **عنوان:** [Solidworks tutorial sheet metal](https://www.youtube.com/watch?v=Q3eiBb54S1c)  
+  ![](https://i.ytimg.com/vi/Q3eiBb54S1c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-03 12:47:26 (UTC)  
+  **مدت:** حدود 23.9 دقیقه  
+  **عنوان:** [Solidworks tutorial Basic of Weldments](https://www.youtube.com/watch?v=uv87tTAJckc)  
+  ![](https://i.ytimg.com/vi/uv87tTAJckc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-04-02 10:21:03 (UTC)  
+  **مدت:** حدود 29.5 دقیقه  
+  **عنوان:** [Solidworks tutorial Basics of Drawing](https://www.youtube.com/watch?v=k_45Xr3wHtk)  
+  ![](https://i.ytimg.com/vi/k_45Xr3wHtk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-30 15:23:49 (UTC)  
+  **مدت:** حدود 57.3 دقیقه  
+  **عنوان:** [Solidworks tutorial how to make Acoustic guitar](https://www.youtube.com/watch?v=oPoFl_gZzyg)  
+  ![](https://i.ytimg.com/vi/oPoFl_gZzyg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-29 15:18:25 (UTC)  
+  **مدت:** حدود 29.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch panton chair (Advanced Surfacing) in Solidworks](https://www.youtube.com/watch?v=C-m16ltqbYI)  
+  ![](https://i.ytimg.com/vi/C-m16ltqbYI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-27 16:54:49 (UTC)  
+  **مدت:** حدود 36.4 دقیقه  
+  **عنوان:** [Solidworks tutorial chain and Sprocket Part3](https://www.youtube.com/watch?v=TT6hNgLS5eM)  
+  ![](https://i.ytimg.com/vi/TT6hNgLS5eM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-26 12:04:14 (UTC)  
+  **مدت:** حدود 54.9 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Chain and Sprocket mechanism in Solidworks](https://www.youtube.com/watch?v=etEZEP4Lkk0)  
+  ![](https://i.ytimg.com/vi/etEZEP4Lkk0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-18 17:55:54 (UTC)  
+  **مدت:** حدود 19.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Baseball in Solidworks](https://www.youtube.com/watch?v=P60B2m0kWIU)  
+  ![](https://i.ytimg.com/vi/P60B2m0kWIU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-17 01:45:23 (UTC)  
+  **مدت:** حدود 49.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Bulb in Solidworks](https://www.youtube.com/watch?v=SlGc40dBbpQ)  
+  ![](https://i.ytimg.com/vi/SlGc40dBbpQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-15 15:13:33 (UTC)  
+  **مدت:** حدود 57.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch exhaust fan in Solidworks](https://www.youtube.com/watch?v=k5b5Cp2ywp0)  
+  ![](https://i.ytimg.com/vi/k5b5Cp2ywp0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-12 11:35:43 (UTC)  
+  **مدت:** حدود 18.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Grease nipple M8 45 degree in solidworks](https://www.youtube.com/watch?v=0TaMXPAKRow)  
+  ![](https://i.ytimg.com/vi/0TaMXPAKRow/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-11 10:29:25 (UTC)  
+  **مدت:** حدود 16.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Grease Nipple in Solidworks](https://www.youtube.com/watch?v=o8xTPxk8_-c)  
+  ![](https://i.ytimg.com/vi/o8xTPxk8_-c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-08 10:17:00 (UTC)  
+  **مدت:** حدود 155.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Gate Valve in Solidworks | Solidworks](https://www.youtube.com/watch?v=xUIMWklvQLE)  
+  ![](https://i.ytimg.com/vi/xUIMWklvQLE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-04 16:12:38 (UTC)  
+  **مدت:** حدود 10.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch infinity Symbol in Solidworks](https://www.youtube.com/watch?v=MzNJI3CY47s)  
+  ![](https://i.ytimg.com/vi/MzNJI3CY47s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-02 15:07:28 (UTC)  
+  **مدت:** حدود 18.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Volleyball in Solidworks (Surfacing) | Solidworks](https://www.youtube.com/watch?v=Usp72G0y2lk)  
+  ![](https://i.ytimg.com/vi/Usp72G0y2lk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-03-01 14:04:30 (UTC)  
+  **مدت:** حدود 25.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Anvil in Solidworks](https://www.youtube.com/watch?v=2591UP68WJU)  
+  ![](https://i.ytimg.com/vi/2591UP68WJU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-02-27 11:00:01 (UTC)  
+  **مدت:** حدود 16.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Tap Bit M14 in Solidworks](https://www.youtube.com/watch?v=K_NxJPFwz7c)  
+  ![](https://i.ytimg.com/vi/K_NxJPFwz7c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-02-26 14:35:31 (UTC)  
+  **مدت:** حدود 21.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Tap Bit in Solidworks | Solidworks](https://www.youtube.com/watch?v=nK4BuDWvW3A)  
+  ![](https://i.ytimg.com/vi/nK4BuDWvW3A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-02-23 15:38:26 (UTC)  
+  **مدت:** حدود 14.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Basketball in Solidworks | Solidworks](https://www.youtube.com/watch?v=UzSHs5ZRRwM)  
+  ![](https://i.ytimg.com/vi/UzSHs5ZRRwM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-02-23 12:27:52 (UTC)  
+  **مدت:** حدود 8.9 دقیقه  
+  **عنوان:** [MSI workstation Laptops for CAD softwares | Solidworks](https://www.youtube.com/watch?v=ZH3fIHLG6qE)  
+  ![](https://i.ytimg.com/vi/ZH3fIHLG6qE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-02-17 02:39:38 (UTC)  
+  **مدت:** حدود 60.9 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Z type chair in Solidworks | Solidworks](https://www.youtube.com/watch?v=kI1QgHu8VPA)  
+  ![](https://i.ytimg.com/vi/kI1QgHu8VPA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-02-15 13:45:04 (UTC)  
+  **مدت:** حدود 66.9 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Trumpet in SolidWorks](https://www.youtube.com/watch?v=59HOvhVb9xc)  
+  ![](https://i.ytimg.com/vi/59HOvhVb9xc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-02-12 12:18:47 (UTC)  
+  **مدت:** حدود 18.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch drill chuck key in Solidworks](https://www.youtube.com/watch?v=w9ZlR035Iz8)  
+  ![](https://i.ytimg.com/vi/w9ZlR035Iz8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-02-11 12:42:35 (UTC)  
+  **مدت:** حدود 13.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Screw in Solidworks](https://www.youtube.com/watch?v=xkvumU8hjro)  
+  ![](https://i.ytimg.com/vi/xkvumU8hjro/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-02-10 04:00:00 (UTC)  
+  **مدت:** حدود 3.1 دقیقه  
+  **عنوان:** [Dell workstation Laptops for CAD softwares](https://www.youtube.com/watch?v=FHNoi1yF9W8)  
+  ![](https://i.ytimg.com/vi/FHNoi1yF9W8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-02-09 10:48:05 (UTC)  
+  **مدت:** حدود 2.5 دقیقه  
+  **عنوان:** [How to activate Realview in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=HzqbUBVd-qk)  
+  ![](https://i.ytimg.com/vi/HzqbUBVd-qk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-02-05 09:59:31 (UTC)  
+  **مدت:** حدود 21.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch controlled output Escapement mechanism in Solidworks](https://www.youtube.com/watch?v=4NgbqR7AJYM)  
+  ![](https://i.ytimg.com/vi/4NgbqR7AJYM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-30 12:06:33 (UTC)  
+  **مدت:** حدود 88.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch football Helmet in Solidworks (Advanced Surfacing)](https://www.youtube.com/watch?v=6XYVwAwXCqs)  
+  ![](https://i.ytimg.com/vi/6XYVwAwXCqs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-26 14:15:23 (UTC)  
+  **مدت:** حدود 23.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Cycloidal Speed reducer mechanism in Solidworks](https://www.youtube.com/watch?v=5lY7vPy1Kj0)  
+  ![](https://i.ytimg.com/vi/5lY7vPy1Kj0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-25 11:56:00 (UTC)  
+  **مدت:** حدود 11.8 دقیقه  
+  **عنوان:** [Graphics Card for SolidWorks (for Realview)](https://www.youtube.com/watch?v=L8jalVh23do)  
+  ![](https://i.ytimg.com/vi/L8jalVh23do/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-23 08:39:13 (UTC)  
+  **مدت:** حدود 271.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Tractor in Solidworks | Solidworks](https://www.youtube.com/watch?v=ynomyl-N6bc)  
+  ![](https://i.ytimg.com/vi/ynomyl-N6bc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-14 22:31:17 (UTC)  
+  **مدت:** حدود 21.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Crown wheel and Pinion mechanism in Solidworks](https://www.youtube.com/watch?v=cPQ24zED4NY)  
+  ![](https://i.ytimg.com/vi/cPQ24zED4NY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-12 13:40:17 (UTC)  
+  **مدت:** حدود 20.9 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch toy animation in Solidworks](https://www.youtube.com/watch?v=8f7uMAILkH0)  
+  ![](https://i.ytimg.com/vi/8f7uMAILkH0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-10 18:58:32 (UTC)  
+  **مدت:** حدود 13.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch lag bolt in Solidworks](https://www.youtube.com/watch?v=sAmn-r0fEhs)  
+  ![](https://i.ytimg.com/vi/sAmn-r0fEhs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-09 14:28:15 (UTC)  
+  **مدت:** حدود 7.0 دقیقه  
+  **عنوان:** [Solidworks Simulation | Setup and Study of load in Solidworks Simulation](https://www.youtube.com/watch?v=WgEEDmNR_7s)  
+  ![](https://i.ytimg.com/vi/WgEEDmNR_7s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-08 00:00:00 (UTC)  
+  **مدت:** حدود 19.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch USB Head in Solidworks](https://www.youtube.com/watch?v=OQBiJLZG5FM)  
+  ![](https://i.ytimg.com/vi/OQBiJLZG5FM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-07 11:30:27 (UTC)  
+  **مدت:** حدود 31.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Spherical Geneva Mechanism in Solidworks](https://www.youtube.com/watch?v=mAV30VyrSJg)  
+  ![](https://i.ytimg.com/vi/mAV30VyrSJg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-06 07:00:52 (UTC)  
+  **مدت:** حدود 20.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch intermittent motion mechanism in Solidworks](https://www.youtube.com/watch?v=47d_y57pOUw)  
+  ![](https://i.ytimg.com/vi/47d_y57pOUw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-05 06:20:05 (UTC)  
+  **مدت:** حدود 42.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch whitworth quick return mechanism in Solidworks](https://www.youtube.com/watch?v=ByfRwsJ-ekA)  
+  ![](https://i.ytimg.com/vi/ByfRwsJ-ekA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-03 15:59:01 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Castle Crown Nut in Solidworks](https://www.youtube.com/watch?v=oM6_m7AJo7c)  
+  ![](https://i.ytimg.com/vi/oM6_m7AJo7c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-02 08:20:43 (UTC)  
+  **مدت:** حدود 35.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | study of Reciprocating motion (Animation) in Solidworks](https://www.youtube.com/watch?v=FS-CumByFqk)  
+  ![](https://i.ytimg.com/vi/FS-CumByFqk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2017-01-02 06:34:40 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Study of Reciprocation Motion in Solidworks (upcoming tutorial)](https://www.youtube.com/watch?v=FCxD15jFYsc)  
+  ![](https://i.ytimg.com/vi/FCxD15jFYsc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-30 08:27:33 (UTC)  
+  **مدت:** حدود 119.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Engine in Solidworks](https://www.youtube.com/watch?v=PiSMgTaHm9I)  
+  ![](https://i.ytimg.com/vi/PiSMgTaHm9I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-30 03:53:52 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Single Cylinder Engine Design in Solidworks (upComing Tutorial)](https://www.youtube.com/watch?v=n6v4tCTNUTY)  
+  ![](https://i.ytimg.com/vi/n6v4tCTNUTY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-28 11:00:00 (UTC)  
+  **مدت:** حدود 23.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Sheet Metal Screw in Solidworks](https://www.youtube.com/watch?v=CW1TN_eqV-w)  
+  ![](https://i.ytimg.com/vi/CW1TN_eqV-w/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-27 21:57:43 (UTC)  
+  **مدت:** حدود 92.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Plier Wrench in Solidworks](https://www.youtube.com/watch?v=i3blq3ISbmY)  
+  ![](https://i.ytimg.com/vi/i3blq3ISbmY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-27 00:55:43 (UTC)  
+  **مدت:** حدود 14.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Thumb Screw in SolidWorks](https://www.youtube.com/watch?v=q7JXhvzKBFM)  
+  ![](https://i.ytimg.com/vi/q7JXhvzKBFM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-24 23:25:59 (UTC)  
+  **مدت:** حدود 7.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Drill Bit in Solidworks](https://www.youtube.com/watch?v=Xw82i93u0jE)  
+  ![](https://i.ytimg.com/vi/Xw82i93u0jE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-23 23:33:27 (UTC)  
+  **مدت:** حدود 15.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Step Drill bit in Solidworks](https://www.youtube.com/watch?v=iHwBNhPW8ic)  
+  ![](https://i.ytimg.com/vi/iHwBNhPW8ic/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-22 08:23:21 (UTC)  
+  **مدت:** حدود 111.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Jeep in Solidworks](https://www.youtube.com/watch?v=q5ulGB7UThs)  
+  ![](https://i.ytimg.com/vi/q5ulGB7UThs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-21 04:01:00 (UTC)  
+  **مدت:** حدود 61.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Wind Turbine in Solidworks](https://www.youtube.com/watch?v=qrlC5EF2ab8)  
+  ![](https://i.ytimg.com/vi/qrlC5EF2ab8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-19 23:27:46 (UTC)  
+  **مدت:** حدود 29.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Wheel Rim in Solidworks](https://www.youtube.com/watch?v=_C8gy-OI1GU)  
+  ![](https://i.ytimg.com/vi/_C8gy-OI1GU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-16 23:17:15 (UTC)  
+  **مدت:** حدود 31.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch motor in Solidworks](https://www.youtube.com/watch?v=Zd8EXeRUq7o)  
+  ![](https://i.ytimg.com/vi/Zd8EXeRUq7o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-15 22:13:57 (UTC)  
+  **مدت:** حدود 28.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Worm gear Animation in Solidworks](https://www.youtube.com/watch?v=zjSCypsKnTE)  
+  ![](https://i.ytimg.com/vi/zjSCypsKnTE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-14 17:52:21 (UTC)  
+  **مدت:** حدود 11.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | Pinion & Gear (Motion Study)](https://www.youtube.com/watch?v=gRvzGRos2UI)  
+  ![](https://i.ytimg.com/vi/gRvzGRos2UI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-13 18:30:34 (UTC)  
+  **مدت:** حدود 33.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch jet Engine in Solidworks](https://www.youtube.com/watch?v=Y1XXcE7JjDY)  
+  ![](https://i.ytimg.com/vi/Y1XXcE7JjDY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-12 22:05:03 (UTC)  
+  **مدت:** حدود 27.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Water tank in Solidworks (Advanced Surfacing)](https://www.youtube.com/watch?v=XFP65b4RGag)  
+  ![](https://i.ytimg.com/vi/XFP65b4RGag/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-11 01:56:42 (UTC)  
+  **مدت:** حدود 77.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Gear Speed Reducer in Solidworks](https://www.youtube.com/watch?v=Xook6U7amlM)  
+  ![](https://i.ytimg.com/vi/Xook6U7amlM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-09 06:00:02 (UTC)  
+  **مدت:** حدود 56.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch mouse in Solidworks (Advanced Surfacing)](https://www.youtube.com/watch?v=lnJTfrqYfMU)  
+  ![](https://i.ytimg.com/vi/lnJTfrqYfMU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-08 18:00:03 (UTC)  
+  **مدت:** حدود 6.8 دقیقه  
+  **عنوان:** [How to make custom forming tool (Louvers) in Solidworks](https://www.youtube.com/watch?v=7iHHLyFAvKI)  
+  ![](https://i.ytimg.com/vi/7iHHLyFAvKI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-08 00:00:03 (UTC)  
+  **مدت:** حدود 41.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch wash basin in Solidworks](https://www.youtube.com/watch?v=hA46j9HstUY)  
+  ![](https://i.ytimg.com/vi/hA46j9HstUY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-07 12:20:17 (UTC)  
+  **مدت:** حدود 8.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch ice cube tray in Solidworks](https://www.youtube.com/watch?v=Tk1smhoZqBY)  
+  ![](https://i.ytimg.com/vi/Tk1smhoZqBY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-06 07:56:29 (UTC)  
+  **مدت:** حدود 46.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Pulley expansion (Animation) in Solidworks](https://www.youtube.com/watch?v=1s-Zkqd9bec)  
+  ![](https://i.ytimg.com/vi/1s-Zkqd9bec/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-04 22:51:51 (UTC)  
+  **مدت:** حدود 30.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Roller Bearing in Solidworks](https://www.youtube.com/watch?v=CQ2yB--3Auc)  
+  ![](https://i.ytimg.com/vi/CQ2yB--3Auc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-03 09:50:13 (UTC)  
+  **مدت:** حدود 26.8 دقیقه  
+  **عنوان:** [Solidworks tutorial sketch Angry Bird in Solidworks](https://www.youtube.com/watch?v=MwiEXOuvF7o)  
+  ![](https://i.ytimg.com/vi/MwiEXOuvF7o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-12-01 20:51:39 (UTC)  
+  **مدت:** حدود 57.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch DC motor in Solidworks](https://www.youtube.com/watch?v=9c5F1E9n0vk)  
+  ![](https://i.ytimg.com/vi/9c5F1E9n0vk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-30 23:32:22 (UTC)  
+  **مدت:** حدود 51.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch AC Power Plug in Solidworks](https://www.youtube.com/watch?v=wLENd8APW9M)  
+  ![](https://i.ytimg.com/vi/wLENd8APW9M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-29 12:30:04 (UTC)  
+  **مدت:** حدود 36.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Computer fan in Solidworks](https://www.youtube.com/watch?v=bspA1quUf9s)  
+  ![](https://i.ytimg.com/vi/bspA1quUf9s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-28 07:41:24 (UTC)  
+  **مدت:** حدود 127.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Quadcopter (Drone) in Solidworks](https://www.youtube.com/watch?v=8BchvQPJsL0)  
+  ![](https://i.ytimg.com/vi/8BchvQPJsL0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-26 01:04:14 (UTC)  
+  **مدت:** حدود 49.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch House in Solidworks](https://www.youtube.com/watch?v=-MKz6uIzrc8)  
+  ![](https://i.ytimg.com/vi/-MKz6uIzrc8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-24 21:14:44 (UTC)  
+  **مدت:** حدود 33.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | motion Study (Animation) in Solidworks](https://www.youtube.com/watch?v=o7imLniOXEY)  
+  ![](https://i.ytimg.com/vi/o7imLniOXEY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-23 20:16:09 (UTC)  
+  **مدت:** حدود 21.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Bolt and Nut in Solidworks](https://www.youtube.com/watch?v=N2mRhiN-_cY)  
+  ![](https://i.ytimg.com/vi/N2mRhiN-_cY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-22 18:45:55 (UTC)  
+  **مدت:** حدود 34.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Shock absorber in Solidworks](https://www.youtube.com/watch?v=osW5RnYIVoc)  
+  ![](https://i.ytimg.com/vi/osW5RnYIVoc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-21 11:55:12 (UTC)  
+  **مدت:** حدود 26.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Airhorn in Solidworks](https://www.youtube.com/watch?v=pf8LUsJIkaw)  
+  ![](https://i.ytimg.com/vi/pf8LUsJIkaw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-20 09:01:26 (UTC)  
+  **مدت:** حدود 24.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch key in Solidworks](https://www.youtube.com/watch?v=VNZOB0sZJJY)  
+  ![](https://i.ytimg.com/vi/VNZOB0sZJJY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-19 07:16:02 (UTC)  
+  **مدت:** حدود 31.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Flail Weapon in Solidworks](https://www.youtube.com/watch?v=3Z-0FIcAtbY)  
+  ![](https://i.ytimg.com/vi/3Z-0FIcAtbY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-18 03:00:35 (UTC)  
+  **مدت:** حدود 16.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Spring with Swivel hook in solidworks](https://www.youtube.com/watch?v=70EB0Wf0WbM)  
+  ![](https://i.ytimg.com/vi/70EB0Wf0WbM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-17 08:22:17 (UTC)  
+  **مدت:** حدود 31.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Door Knob in Solidworks](https://www.youtube.com/watch?v=FIxz81ll7_I)  
+  ![](https://i.ytimg.com/vi/FIxz81ll7_I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-15 23:16:27 (UTC)  
+  **مدت:** حدود 38.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Battleaxe in Solidworks](https://www.youtube.com/watch?v=O1YZxzEat-k)  
+  ![](https://i.ytimg.com/vi/O1YZxzEat-k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-15 00:51:59 (UTC)  
+  **مدت:** حدود 5.1 دقیقه  
+  **عنوان:** [Top ten Best Laptop for engineers (Laptop for CAD softwares)](https://www.youtube.com/watch?v=GEy2eiTxgPg)  
+  ![](https://i.ytimg.com/vi/GEy2eiTxgPg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-14 04:22:12 (UTC)  
+  **مدت:** حدود 40.0 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Stepper motor in Solidworks](https://www.youtube.com/watch?v=pPndnk_DAh0)  
+  ![](https://i.ytimg.com/vi/pPndnk_DAh0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-12 18:12:41 (UTC)  
+  **مدت:** حدود 14.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Furniture Screw M5 in Solidworks](https://www.youtube.com/watch?v=IDwPi7UkGK4)  
+  ![](https://i.ytimg.com/vi/IDwPi7UkGK4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-10 19:23:55 (UTC)  
+  **مدت:** حدود 17.7 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Plastic fork in Solidworks](https://www.youtube.com/watch?v=XEB5LHaXwb0)  
+  ![](https://i.ytimg.com/vi/XEB5LHaXwb0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-08 09:00:03 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Knurled Nut in Solidworks](https://www.youtube.com/watch?v=hQnC7wbu2k0)  
+  ![](https://i.ytimg.com/vi/hQnC7wbu2k0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-07 09:00:04 (UTC)  
+  **مدت:** حدود 15.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Lock Nut in Solidworks](https://www.youtube.com/watch?v=yGijX4w0bRY)  
+  ![](https://i.ytimg.com/vi/yGijX4w0bRY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-06 16:06:17 (UTC)  
+  **مدت:** حدود 13.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Brass fitting in Solidworks](https://www.youtube.com/watch?v=n1Hx9c9GPf0)  
+  ![](https://i.ytimg.com/vi/n1Hx9c9GPf0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-06 00:13:57 (UTC)  
+  **مدت:** حدود 24.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch kitchen sink in Solidworks](https://www.youtube.com/watch?v=nZFw8KKPHSc)  
+  ![](https://i.ytimg.com/vi/nZFw8KKPHSc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-04 23:07:28 (UTC)  
+  **مدت:** حدود 38.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Door Handle in Solidworks](https://www.youtube.com/watch?v=14lUguy2fv0)  
+  ![](https://i.ytimg.com/vi/14lUguy2fv0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-04 00:44:37 (UTC)  
+  **مدت:** حدود 12.3 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Furniture screw in Solidworks](https://www.youtube.com/watch?v=BzXxYMHA63Q)  
+  ![](https://i.ytimg.com/vi/BzXxYMHA63Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-02 23:44:34 (UTC)  
+  **مدت:** حدود 18.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | Design and Assembly of Needle Roller Ball Bearing in Solidworks | Solidworks](https://www.youtube.com/watch?v=iLm3v4Ic16k)  
+  ![](https://i.ytimg.com/vi/iLm3v4Ic16k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-11-01 18:42:49 (UTC)  
+  **مدت:** حدود 114.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Ball Valve in Solidworks](https://www.youtube.com/watch?v=pYsU1gfx-00)  
+  ![](https://i.ytimg.com/vi/pYsU1gfx-00/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-10-31 18:02:34 (UTC)  
+  **مدت:** حدود 12.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | How to sketch Wing Nut in Solidworks](https://www.youtube.com/watch?v=Jlxj9lxrB4w)  
+  ![](https://i.ytimg.com/vi/Jlxj9lxrB4w/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-10-29 21:38:00 (UTC)  
+  **مدت:** حدود 37.1 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Surface gauge in Solidworks](https://www.youtube.com/watch?v=Yf0AjFn_tYM)  
+  ![](https://i.ytimg.com/vi/Yf0AjFn_tYM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-10-28 08:37:43 (UTC)  
+  **مدت:** حدود 48.5 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch turnbuckle in Solidworks](https://www.youtube.com/watch?v=m0qNqT36XMc)  
+  ![](https://i.ytimg.com/vi/m0qNqT36XMc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-10-26 16:52:24 (UTC)  
+  **مدت:** حدود 34.8 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Rope Clamp M5 in Solidworks](https://www.youtube.com/watch?v=XWS0J2G7aMY)  
+  ![](https://i.ytimg.com/vi/XWS0J2G7aMY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-10-24 02:26:33 (UTC)  
+  **مدت:** حدود 33.9 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch hammer in Solidworks](https://www.youtube.com/watch?v=XI2hJtn36aI)  
+  ![](https://i.ytimg.com/vi/XI2hJtn36aI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-10-23 03:06:06 (UTC)  
+  **مدت:** حدود 90.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch bench vise in Solidworks | Solidworks](https://www.youtube.com/watch?v=LpvgI3-XwKw)  
+  ![](https://i.ytimg.com/vi/LpvgI3-XwKw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-10-22 07:00:01 (UTC)  
+  **مدت:** حدود 24.2 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Grease Niple in Solidworks](https://www.youtube.com/watch?v=HTiMg-prVmQ)  
+  ![](https://i.ytimg.com/vi/HTiMg-prVmQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-10-21 08:32:10 (UTC)  
+  **مدت:** حدود 51.4 دقیقه  
+  **عنوان:** [Solidworks tutorial | sketch Bearing Puller in Solidworks](https://www.youtube.com/watch?v=xxgXMSw_aZY)  
+  ![](https://i.ytimg.com/vi/xxgXMSw_aZY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2016-10-20 02:05:40 (UTC)  
+  **مدت:** حدود 70.6 دقیقه  
+  **عنوان:** [Solidworks tutorial | Sketch Backhoe in Solidworks](https://www.youtube.com/watch?v=A_-Vnm2q754)  
+  ![](https://i.ytimg.com/vi/A_-Vnm2q754/hqdefault.jpg)

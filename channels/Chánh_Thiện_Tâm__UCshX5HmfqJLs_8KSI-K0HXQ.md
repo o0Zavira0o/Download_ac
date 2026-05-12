@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-11T12:19:27Z_
+_آخرین به‌روزرسانی: 2026-05-12T07:41:30Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-12 00:50:36 (UTC)  
+  **مدت:** حدود 17.4 دقیقه  
+  **عنوان:** [Lập trình tiện lỗ Mastercam](https://www.youtube.com/watch?v=65CpZtsDIkc)  
+  ![](https://i.ytimg.com/vi/65CpZtsDIkc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-11 11:38:16 (UTC)  

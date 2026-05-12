@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-05-11T12:19:27Z_
+_آخرین به‌روزرسانی: 2026-05-12T07:41:30Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
@@ -5406,3 +5406,2595 @@ _آخرین به‌روزرسانی: 2026-05-11T12:19:27Z_
   **مدت:** حدود 17.6 دقیقه  
   **عنوان:** [Elements of Mechanical Design: Eigenvalues for 3D Principal Stresses (F21 ME370 Class 5)](https://www.youtube.com/watch?v=MOz6vwzLU0o)  
   ![](https://i.ytimg.com/vi/MOz6vwzLU0o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-10 01:11:19 (UTC)  
+  **مدت:** حدود 17.3 دقیقه  
+  **عنوان:** [Elements of Mechanical Design: Pressure Vessel Stress Introduction (F21 ME370 Class 4)](https://www.youtube.com/watch?v=CrXIYMyrI8I)  
+  ![](https://i.ytimg.com/vi/CrXIYMyrI8I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-08 17:38:19 (UTC)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [Dynamics Rigid Body Kinematics Exam Solution (S21 ES211 Exam 3 makeup 2)](https://www.youtube.com/watch?v=b0TIsSiZ2sQ)  
+  ![](https://i.ytimg.com/vi/b0TIsSiZ2sQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-08 17:36:59 (UTC)  
+  **مدت:** حدود 25.2 دقیقه  
+  **عنوان:** [Dynamics Rigid Body Kinetics Exam Solution (S21 ES211 Final Exam)](https://www.youtube.com/watch?v=lE2lC8Q1pYY)  
+  ![](https://i.ytimg.com/vi/lE2lC8Q1pYY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-08 17:36:32 (UTC)  
+  **مدت:** حدود 9.8 دقیقه  
+  **عنوان:** [Dynamics Rigid Body Kinematics Exam Solution (S21 ES211 Exam 3 makeup 1)](https://www.youtube.com/watch?v=rU309eNyyIQ)  
+  ![](https://i.ytimg.com/vi/rU309eNyyIQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-08 17:33:57 (UTC)  
+  **مدت:** حدود 8.2 دقیقه  
+  **عنوان:** [Dynamics Rigid Body Kinematics Exam Solution (S21 ES211 Exam 3)](https://www.youtube.com/watch?v=12tGzTiOGl8)  
+  ![](https://i.ytimg.com/vi/12tGzTiOGl8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-08 17:33:34 (UTC)  
+  **مدت:** حدود 10.4 دقیقه  
+  **عنوان:** [Dynamics Particle Kinetics Exam Solution (S21 ES211 Exam 2 problem 3)](https://www.youtube.com/watch?v=0FkWyef4BH8)  
+  ![](https://i.ytimg.com/vi/0FkWyef4BH8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-08 17:32:21 (UTC)  
+  **مدت:** حدود 12.7 دقیقه  
+  **عنوان:** [Dynamics Particle Kinetics Exam Solution (S21 ES211 Exam 2 prob 2)](https://www.youtube.com/watch?v=49GdThghOE4)  
+  ![](https://i.ytimg.com/vi/49GdThghOE4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-08 17:32:16 (UTC)  
+  **مدت:** حدود 41.1 دقیقه  
+  **عنوان:** [Dynamics Particle Kinematics Exam Solution (S21 ES211 Exam 1)](https://www.youtube.com/watch?v=vinUFprOBtM)  
+  ![](https://i.ytimg.com/vi/vinUFprOBtM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-08 17:32:03 (UTC)  
+  **مدت:** حدود 14.1 دقیقه  
+  **عنوان:** [Dynamics Particle Kinetics Exam Solution (S21 ES211 Exam 2 problem 1)](https://www.youtube.com/watch?v=Np3brtPakNA)  
+  ![](https://i.ytimg.com/vi/Np3brtPakNA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 22:08:18 (UTC)  
+  **مدت:** حدود 121.2 دقیقه  
+  **عنوان:** [Dynamics Particle Kinematics Exam Review (S21 ES211 Exam 1)](https://www.youtube.com/watch?v=mbClbFG1kbA)  
+  ![](https://i.ytimg.com/vi/mbClbFG1kbA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 22:07:19 (UTC)  
+  **مدت:** حدود 131.8 دقیقه  
+  **عنوان:** [Dynamics Particle Kinetics Exam Review (S21 ES211 Exam 2)](https://www.youtube.com/watch?v=_CBy2fe2geI)  
+  ![](https://i.ytimg.com/vi/_CBy2fe2geI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 22:06:49 (UTC)  
+  **مدت:** حدود 131.1 دقیقه  
+  **عنوان:** [Dynamics Rigid Body Kinematics Exam Review (S21 ES211 Exam 3)](https://www.youtube.com/watch?v=gIO5t5WLFbg)  
+  ![](https://i.ytimg.com/vi/gIO5t5WLFbg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 21:56:49 (UTC)  
+  **مدت:** حدود 135.3 دقیقه  
+  **عنوان:** [Dynamics Rigid Body Kinetics Exam Review (S21 ES211 Final Exam)](https://www.youtube.com/watch?v=lUP8rb10NXI)  
+  ![](https://i.ytimg.com/vi/lUP8rb10NXI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 21:13:34 (UTC)  
+  **مدت:** حدود 17.6 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Newtons Second Law Example 4 (S20 ES211 Class 21)](https://www.youtube.com/watch?v=iGIP7tFXwCg)  
+  ![](https://i.ytimg.com/vi/iGIP7tFXwCg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 20:16:53 (UTC)  
+  **مدت:** حدود 41.9 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Direct Impact, Coefficient of Restitution Example 5 (ES211 Class 11)](https://www.youtube.com/watch?v=DREFGtct7NU)  
+  ![](https://i.ytimg.com/vi/DREFGtct7NU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 20:14:28 (UTC)  
+  **مدت:** حدود 13.1 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Direct Impact, Particle Oblique Impact (ES211 Class 11)](https://www.youtube.com/watch?v=OrWUjQA2k1A)  
+  ![](https://i.ytimg.com/vi/OrWUjQA2k1A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 20:10:21 (UTC)  
+  **مدت:** حدود 10.6 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Direct Impact, Coefficient of Restitution Example 4 (ES211 Class 11)](https://www.youtube.com/watch?v=pKC0hrT53Mw)  
+  ![](https://i.ytimg.com/vi/pKC0hrT53Mw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 20:09:23 (UTC)  
+  **مدت:** حدود 11.4 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Direct Impact, Coefficient of Restitution Example 3 (ES211 Class 11)](https://www.youtube.com/watch?v=wPtpcSx-1xk)  
+  ![](https://i.ytimg.com/vi/wPtpcSx-1xk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 20:07:16 (UTC)  
+  **مدت:** حدود 16.8 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Direct Impact, Coefficient of Restitution Example 2 (ES211 Class 11)](https://www.youtube.com/watch?v=TwUe3Psg_g8)  
+  ![](https://i.ytimg.com/vi/TwUe3Psg_g8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 20:04:10 (UTC)  
+  **مدت:** حدود 7.3 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Direct Impact, Coefficient of Restitution Example 1 (ES211 Class 11)](https://www.youtube.com/watch?v=wpg7zIoJU-U)  
+  ![](https://i.ytimg.com/vi/wpg7zIoJU-U/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:44:26 (UTC)  
+  **مدت:** حدود 46.8 دقیقه  
+  **عنوان:** [Elements of Mechanical Design: 3D Shaft Introduction and Examples (F21 ME370 Class 3)](https://www.youtube.com/watch?v=q9Y9hK25MRk)  
+  ![](https://i.ytimg.com/vi/q9Y9hK25MRk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:35:24 (UTC)  
+  **مدت:** حدود 22.3 دقیقه  
+  **عنوان:** [Elements of Mechanical Design: More Mohr's Circle Examples (F21 ME370 Class 3)](https://www.youtube.com/watch?v=vw0sdkQVeE8)  
+  ![](https://i.ytimg.com/vi/vw0sdkQVeE8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:30:30 (UTC)  
+  **مدت:** حدود 18.8 دقیقه  
+  **عنوان:** [Elements of Mechanical Design:  Combined Stress Review and Example (F21 ME370 Class 3)](https://www.youtube.com/watch?v=9R9woFRPe7E)  
+  ![](https://i.ytimg.com/vi/9R9woFRPe7E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:29:58 (UTC)  
+  **مدت:** حدود 19.9 دقیقه  
+  **عنوان:** [Elements of Mechanical Design:  Mohr's Circle Review and Example (F21 ME370 Class 3)](https://www.youtube.com/watch?v=fQro_5J1RGo)  
+  ![](https://i.ytimg.com/vi/fQro_5J1RGo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:29:43 (UTC)  
+  **مدت:** حدود 31.9 دقیقه  
+  **عنوان:** [Elements of Mechanical Design:  Shear Stress Review (F21 ME370 Class 2)](https://www.youtube.com/watch?v=oJud9Q80stw)  
+  ![](https://i.ytimg.com/vi/oJud9Q80stw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:28:18 (UTC)  
+  **مدت:** حدود 28.6 دقیقه  
+  **عنوان:** [Elements of Mechanical Design:  Shear-Moment Diagram Examples (F21 ME370 Class 1)](https://www.youtube.com/watch?v=3Z7OsQ9ups8)  
+  ![](https://i.ytimg.com/vi/3Z7OsQ9ups8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:26:52 (UTC)  
+  **مدت:** حدود 20.2 دقیقه  
+  **عنوان:** [Elements of Mechanical Design:   Shear Moment Diagram Review (F21 ME370 Class 1)](https://www.youtube.com/watch?v=MpVx1W4VTvY)  
+  ![](https://i.ytimg.com/vi/MpVx1W4VTvY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:26:38 (UTC)  
+  **مدت:** حدود 26.2 دقیقه  
+  **عنوان:** [Elements of Mechanical Design:   Normal Stress Review (F21 ME370 Class 2)](https://www.youtube.com/watch?v=xZnKjI-FZgY)  
+  ![](https://i.ytimg.com/vi/xZnKjI-FZgY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:26:00 (UTC)  
+  **مدت:** حدود 32.2 دقیقه  
+  **عنوان:** [Elements of Mechanical Design:   Stress Review (F21 ME370 Class 2)](https://www.youtube.com/watch?v=6F4kbRCGPtQ)  
+  ![](https://i.ytimg.com/vi/6F4kbRCGPtQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:25:03 (UTC)  
+  **مدت:** حدود 22.3 دقیقه  
+  **عنوان:** [Elements of Mechanical Design:  Torque Review (F21 ME370 Class 1)](https://www.youtube.com/watch?v=odjcefc89RM)  
+  ![](https://i.ytimg.com/vi/odjcefc89RM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:22:06 (UTC)  
+  **مدت:** حدود 20.2 دقیقه  
+  **عنوان:** [Elements of Mechanical Design:  FBD Example 2 (F21 ME370 Class 1)](https://www.youtube.com/watch?v=ja9bDKV-V5g)  
+  ![](https://i.ytimg.com/vi/ja9bDKV-V5g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:20:03 (UTC)  
+  **مدت:** حدود 13.2 دقیقه  
+  **عنوان:** [Elements of Mechanical Design:  Statics Matrix Solution Review (F21 ME370 Class 1)](https://www.youtube.com/watch?v=QKAGJc4vX8o)  
+  ![](https://i.ytimg.com/vi/QKAGJc4vX8o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-08-04 16:15:45 (UTC)  
+  **مدت:** حدود 28.8 دقیقه  
+  **عنوان:** [Elements of Mechanical Design:  FBD Review (F21 ME370 Class 1)](https://www.youtube.com/watch?v=7oHE2j7za6Y)  
+  ![](https://i.ytimg.com/vi/7oHE2j7za6Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 03:41:26 (UTC)  
+  **مدت:** حدود 15.0 دقیقه  
+  **عنوان:** [Statics Homework 19 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=QqD6LGLwBt8)  
+  ![](https://i.ytimg.com/vi/QqD6LGLwBt8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 03:02:11 (UTC)  
+  **مدت:** حدود 21.9 دقیقه  
+  **عنوان:** [Statics Homework 24 Problem 1 Solution (S21 ES110) Moment of Inertia confirmed with SolidWorks](https://www.youtube.com/watch?v=Jqq_kDMFC9M)  
+  ![](https://i.ytimg.com/vi/Jqq_kDMFC9M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 03:01:08 (UTC)  
+  **مدت:** حدود 17.6 دقیقه  
+  **عنوان:** [Statics Homework 24 Problem 2 Solution (S21 ES110) Moment of Inertia confirmed with SolidWorks](https://www.youtube.com/watch?v=zWZRvppKa6Q)  
+  ![](https://i.ytimg.com/vi/zWZRvppKa6Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:59:08 (UTC)  
+  **مدت:** حدود 13.1 دقیقه  
+  **عنوان:** [Statics Homework 17 Problem 2 Solution (S21 ES110) Reactions in a Frame](https://www.youtube.com/watch?v=HzWvsEoz-zo)  
+  ![](https://i.ytimg.com/vi/HzWvsEoz-zo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:59:01 (UTC)  
+  **مدت:** حدود 14.7 دقیقه  
+  **عنوان:** [Statics Homework 23 Problems 2 and 3 Solution (S21 ES110) Moment of inertia by integration](https://www.youtube.com/watch?v=7475lDsK91k)  
+  ![](https://i.ytimg.com/vi/7475lDsK91k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:57:28 (UTC)  
+  **مدت:** حدود 17.7 دقیقه  
+  **عنوان:** [Statics Homework 22 Problem 2 Solution (S21 ES110) Volume & area calculation confirmed w SolidWorks](https://www.youtube.com/watch?v=mj911q9Ep3s)  
+  ![](https://i.ytimg.com/vi/mj911q9Ep3s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:57:00 (UTC)  
+  **مدت:** حدود 4.5 دقیقه  
+  **عنوان:** [Statics Homework 23 Problem 1 Solution (S21 ES110) Moment of inertia of triangle by integration](https://www.youtube.com/watch?v=P8jB-py9x-U)  
+  ![](https://i.ytimg.com/vi/P8jB-py9x-U/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:56:34 (UTC)  
+  **مدت:** حدود 18.5 دقیقه  
+  **عنوان:** [Statics Homework 21 Problem 2 Solution (S21 ES110) Centroid of a trapezoid with holes](https://www.youtube.com/watch?v=zyxbfMengDc)  
+  ![](https://i.ytimg.com/vi/zyxbfMengDc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:56:27 (UTC)  
+  **مدت:** حدود 6.8 دقیقه  
+  **عنوان:** [Statics Homework 22 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=oLgOQXca8dU)  
+  ![](https://i.ytimg.com/vi/oLgOQXca8dU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:56:11 (UTC)  
+  **مدت:** حدود 16.6 دقیقه  
+  **عنوان:** [Statics Homework 21 Solution SolidWorks Confirmation (S21 ES110)](https://www.youtube.com/watch?v=zhzbVPsNpKo)  
+  ![](https://i.ytimg.com/vi/zhzbVPsNpKo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:55:59 (UTC)  
+  **مدت:** حدود 15.7 دقیقه  
+  **عنوان:** [Statics Homework 21 Problem 3 Solution (S21 ES110)](https://www.youtube.com/watch?v=av0ophnn99g)  
+  ![](https://i.ytimg.com/vi/av0ophnn99g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:54:36 (UTC)  
+  **مدت:** حدود 12.3 دقیقه  
+  **عنوان:** [Statics Homework 21 Problem 1 Solution (S21 ES110) Centroid of trapezoid with a hole](https://www.youtube.com/watch?v=TNCKftvWurE)  
+  ![](https://i.ytimg.com/vi/TNCKftvWurE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:53:02 (UTC)  
+  **مدت:** حدود 23.8 دقیقه  
+  **عنوان:** [Statics Homework 20 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=hHBWBvG3qb4)  
+  ![](https://i.ytimg.com/vi/hHBWBvG3qb4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:52:56 (UTC)  
+  **مدت:** حدود 15.9 دقیقه  
+  **عنوان:** [Statics Homework 19 Problem 3 Solution (S21 ES110) Three blocks with friction](https://www.youtube.com/watch?v=FpwhbO9vWTs)  
+  ![](https://i.ytimg.com/vi/FpwhbO9vWTs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:51:48 (UTC)  
+  **مدت:** حدود 22.5 دقیقه  
+  **عنوان:** [Statics Homework 20 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=EjlKVwX1N2o)  
+  ![](https://i.ytimg.com/vi/EjlKVwX1N2o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:50:31 (UTC)  
+  **مدت:** حدود 15.1 دقیقه  
+  **عنوان:** [Statics Homework 19 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=F99Umahx2RU)  
+  ![](https://i.ytimg.com/vi/F99Umahx2RU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:49:42 (UTC)  
+  **مدت:** حدود 34.0 دقیقه  
+  **عنوان:** [Statics Homework 17 Problem 1 Solution (S21 ES110) Reactions in frame with pulleys and cables](https://www.youtube.com/watch?v=Pyy6woA-o40)  
+  ![](https://i.ytimg.com/vi/Pyy6woA-o40/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:48:53 (UTC)  
+  **مدت:** حدود 14.4 دقیقه  
+  **عنوان:** [Statics Homework 18 Problem 3 Solution (S21 ES110) Toggle Clamp Forces and Reactions W/ MISTAKE!](https://www.youtube.com/watch?v=CUNEPiz8Fk8)  
+  ![](https://i.ytimg.com/vi/CUNEPiz8Fk8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:47:39 (UTC)  
+  **مدت:** حدود 5.5 دقیقه  
+  **عنوان:** [Statics Homework 18 Problem 1 Solution (S21 ES110) Forces and Reactions in Channel Locks Pliers](https://www.youtube.com/watch?v=7vnkHV0KF1g)  
+  ![](https://i.ytimg.com/vi/7vnkHV0KF1g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:47:05 (UTC)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [Statics Homework 18 Problem 2 Solution (S21 ES110) Forces and reactions in bolt cutter](https://www.youtube.com/watch?v=p-Xnb30wsWo)  
+  ![](https://i.ytimg.com/vi/p-Xnb30wsWo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:46:44 (UTC)  
+  **مدت:** حدود 18.9 دقیقه  
+  **عنوان:** [Statics Homework 17 Problem 3 Solution (S21 ES110) Reactions in a frame](https://www.youtube.com/watch?v=9AQt3hiWAnI)  
+  ![](https://i.ytimg.com/vi/9AQt3hiWAnI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:44:53 (UTC)  
+  **مدت:** حدود 14.9 دقیقه  
+  **عنوان:** [Statics Homework 16 Problem 1 Solution (S21 ES110) Truss Forces using Method of Sections](https://www.youtube.com/watch?v=TJR95D2E_lk)  
+  ![](https://i.ytimg.com/vi/TJR95D2E_lk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-23 02:43:45 (UTC)  
+  **مدت:** حدود 12.6 دقیقه  
+  **عنوان:** [Statics Homework 16 Problem 2 Solution (S21 ES110) Truss analysis using method of sections](https://www.youtube.com/watch?v=q4Kh77ayBDs)  
+  ![](https://i.ytimg.com/vi/q4Kh77ayBDs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 22:01:57 (UTC)  
+  **مدت:** حدود 30.1 دقیقه  
+  **عنوان:** [Statics Homework 15 Problem 3 Solution (S21 ES110) Truss analysis with method of joints](https://www.youtube.com/watch?v=eNJwisvCeEI)  
+  ![](https://i.ytimg.com/vi/eNJwisvCeEI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 22:01:06 (UTC)  
+  **مدت:** حدود 19.0 دقیقه  
+  **عنوان:** [Statics Homework 15 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=cN6pTuGFlyU)  
+  ![](https://i.ytimg.com/vi/cN6pTuGFlyU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:59:47 (UTC)  
+  **مدت:** حدود 29.0 دقیقه  
+  **عنوان:** [Statics Homework 15 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=lrkzZXi3g8U)  
+  ![](https://i.ytimg.com/vi/lrkzZXi3g8U/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:58:52 (UTC)  
+  **مدت:** حدود 12.8 دقیقه  
+  **عنوان:** [Statics Homework 14 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=J9yNhSdOrxE)  
+  ![](https://i.ytimg.com/vi/J9yNhSdOrxE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:48:39 (UTC)  
+  **مدت:** حدود 33.7 دقیقه  
+  **عنوان:** [Statics Homework 13 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=eVV_bnd5EYs)  
+  ![](https://i.ytimg.com/vi/eVV_bnd5EYs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:46:25 (UTC)  
+  **مدت:** حدود 21.8 دقیقه  
+  **عنوان:** [Statics Homework 14 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=OvB0m-vgLcg)  
+  ![](https://i.ytimg.com/vi/OvB0m-vgLcg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:45:18 (UTC)  
+  **مدت:** حدود 41.3 دقیقه  
+  **عنوان:** [Statics Homework 13 Problem 3 Solution (S21 ES110)](https://www.youtube.com/watch?v=O8fq30U-XYo)  
+  ![](https://i.ytimg.com/vi/O8fq30U-XYo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:43:08 (UTC)  
+  **مدت:** حدود 27.0 دقیقه  
+  **عنوان:** [Statics Homework 13 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=TbmGssIAs6k)  
+  ![](https://i.ytimg.com/vi/TbmGssIAs6k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:42:07 (UTC)  
+  **مدت:** حدود 19.8 دقیقه  
+  **عنوان:** [Statics Homework 11 Problem 3 Solution (S21 ES110)](https://www.youtube.com/watch?v=1SpqO14k7dc)  
+  ![](https://i.ytimg.com/vi/1SpqO14k7dc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:41:27 (UTC)  
+  **مدت:** حدود 14.6 دقیقه  
+  **عنوان:** [Statics Homework 12 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=KxwOovQpveA)  
+  ![](https://i.ytimg.com/vi/KxwOovQpveA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:41:23 (UTC)  
+  **مدت:** حدود 26.7 دقیقه  
+  **عنوان:** [Statics Homework 12 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=eRP_dbgGeCQ)  
+  ![](https://i.ytimg.com/vi/eRP_dbgGeCQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:39:48 (UTC)  
+  **مدت:** حدود 17.3 دقیقه  
+  **عنوان:** [Statics Homework 11 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=yp6R1AUMiZ0)  
+  ![](https://i.ytimg.com/vi/yp6R1AUMiZ0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:39:43 (UTC)  
+  **مدت:** حدود 24.6 دقیقه  
+  **عنوان:** [Statics Homework 9 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=uhPanUxN8kE)  
+  ![](https://i.ytimg.com/vi/uhPanUxN8kE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:39:26 (UTC)  
+  **مدت:** حدود 12.1 دقیقه  
+  **عنوان:** [Statics Homework 10 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=2S3Br1Ig8tM)  
+  ![](https://i.ytimg.com/vi/2S3Br1Ig8tM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:38:23 (UTC)  
+  **مدت:** حدود 8.6 دقیقه  
+  **عنوان:** [Statics Homework 11 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=K2QXJsyiAL4)  
+  ![](https://i.ytimg.com/vi/K2QXJsyiAL4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:37:23 (UTC)  
+  **مدت:** حدود 12.7 دقیقه  
+  **عنوان:** [Statics Homework 10 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=6zWPgxSPvUU)  
+  ![](https://i.ytimg.com/vi/6zWPgxSPvUU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:37:16 (UTC)  
+  **مدت:** حدود 20.9 دقیقه  
+  **عنوان:** [Statics Homework 9 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=SIQGrA9i_os)  
+  ![](https://i.ytimg.com/vi/SIQGrA9i_os/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:34:23 (UTC)  
+  **مدت:** حدود 40.2 دقیقه  
+  **عنوان:** [Statics Homework 7 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=53OgvFEZA-s)  
+  ![](https://i.ytimg.com/vi/53OgvFEZA-s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:33:19 (UTC)  
+  **مدت:** حدود 16.5 دقیقه  
+  **عنوان:** [Statics Homework 8 Problem 3 Solution (S21 ES110)](https://www.youtube.com/watch?v=SoYHrI19gGI)  
+  ![](https://i.ytimg.com/vi/SoYHrI19gGI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:32:16 (UTC)  
+  **مدت:** حدود 7.3 دقیقه  
+  **عنوان:** [Statics Homework 8 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=a33y3HZQDlg)  
+  ![](https://i.ytimg.com/vi/a33y3HZQDlg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:32:15 (UTC)  
+  **مدت:** حدود 35.9 دقیقه  
+  **عنوان:** [Statics Homework 5 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=Bd_W_d6aCrE)  
+  ![](https://i.ytimg.com/vi/Bd_W_d6aCrE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:32:12 (UTC)  
+  **مدت:** حدود 26.8 دقیقه  
+  **عنوان:** [Statics Homework 4 Problem 3 Solution (S21 ES110)](https://www.youtube.com/watch?v=LZeEDJr-ylE)  
+  ![](https://i.ytimg.com/vi/LZeEDJr-ylE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:31:32 (UTC)  
+  **مدت:** حدود 10.5 دقیقه  
+  **عنوان:** [Statics Homework 8 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=-Axkqh32J-w)  
+  ![](https://i.ytimg.com/vi/-Axkqh32J-w/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:31:23 (UTC)  
+  **مدت:** حدود 16.0 دقیقه  
+  **عنوان:** [Statics Homework 6 Problem 3 Solution (S21 ES110)](https://www.youtube.com/watch?v=p_bLDS7JGcA)  
+  ![](https://i.ytimg.com/vi/p_bLDS7JGcA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:30:23 (UTC)  
+  **مدت:** حدود 20.0 دقیقه  
+  **عنوان:** [Statics Homework 6 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=AZwU_mAtN90)  
+  ![](https://i.ytimg.com/vi/AZwU_mAtN90/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:30:09 (UTC)  
+  **مدت:** حدود 19.4 دقیقه  
+  **عنوان:** [Statics Homework 7 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=bF1VMa2l6vQ)  
+  ![](https://i.ytimg.com/vi/bF1VMa2l6vQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:30:01 (UTC)  
+  **مدت:** حدود 25.4 دقیقه  
+  **عنوان:** [Statics Homework 5 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=7oecECLQ8qM)  
+  ![](https://i.ytimg.com/vi/7oecECLQ8qM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:29:23 (UTC)  
+  **مدت:** حدود 10.9 دقیقه  
+  **عنوان:** [Statics Homework 6 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=xu481XuZUmA)  
+  ![](https://i.ytimg.com/vi/xu481XuZUmA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:27:39 (UTC)  
+  **مدت:** حدود 16.5 دقیقه  
+  **عنوان:** [Statics Homework 4 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=7xhO16KLwWs)  
+  ![](https://i.ytimg.com/vi/7xhO16KLwWs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:26:49 (UTC)  
+  **مدت:** حدود 21.8 دقیقه  
+  **عنوان:** [Statics Homework 4 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=bETkwCiW57A)  
+  ![](https://i.ytimg.com/vi/bETkwCiW57A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:25:19 (UTC)  
+  **مدت:** حدود 14.0 دقیقه  
+  **عنوان:** [Statics Homework 3 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=D52G6-TXrJs)  
+  ![](https://i.ytimg.com/vi/D52G6-TXrJs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:23:12 (UTC)  
+  **مدت:** حدود 13.2 دقیقه  
+  **عنوان:** [Statics Homework 2 Problem 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=ehzJoS0AmuA)  
+  ![](https://i.ytimg.com/vi/ehzJoS0AmuA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:21:52 (UTC)  
+  **مدت:** حدود 9.9 دقیقه  
+  **عنوان:** [Statics Homework 2 Problem 3 Solution (S21 ES110)](https://www.youtube.com/watch?v=xUjDVGtiSYQ)  
+  ![](https://i.ytimg.com/vi/xUjDVGtiSYQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:21:46 (UTC)  
+  **مدت:** حدود 43.9 دقیقه  
+  **عنوان:** [Statics Homework 1 Problems 1 and 2 Solution (S21 ES110)](https://www.youtube.com/watch?v=GsYoisQOeuQ)  
+  ![](https://i.ytimg.com/vi/GsYoisQOeuQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:21:44 (UTC)  
+  **مدت:** حدود 9.9 دقیقه  
+  **عنوان:** [Statics Homework 3 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=8ICLoYk5GEY)  
+  ![](https://i.ytimg.com/vi/8ICLoYk5GEY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-22 21:21:29 (UTC)  
+  **مدت:** حدود 9.9 دقیقه  
+  **عنوان:** [Statics Homework 2 Problem 1 Solution (S21 ES110)](https://www.youtube.com/watch?v=rNJf6123tG4)  
+  ![](https://i.ytimg.com/vi/rNJf6123tG4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:33:33 (UTC)  
+  **مدت:** حدود 25.0 دقیقه  
+  **عنوان:** [Graphic Communication: SolidWorks Homework Part 1 (F20 ES220 Class 11)](https://www.youtube.com/watch?v=KxDQF4ITwho)  
+  ![](https://i.ytimg.com/vi/KxDQF4ITwho/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:32:07 (UTC)  
+  **مدت:** حدود 30.2 دقیقه  
+  **عنوان:** [Graphic Communication: Introduction to SolidWorks part 2 (F20 ES220 Class 9)](https://www.youtube.com/watch?v=m1Vds7ngS5A)  
+  ![](https://i.ytimg.com/vi/m1Vds7ngS5A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:30:41 (UTC)  
+  **مدت:** حدود 24.9 دقیقه  
+  **عنوان:** [Graphic Communication:  Introduction to SolidWorks part 3 (F20 ES220 Class 9)](https://www.youtube.com/watch?v=XqJ5OFQLXmI)  
+  ![](https://i.ytimg.com/vi/XqJ5OFQLXmI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:30:36 (UTC)  
+  **مدت:** حدود 19.1 دقیقه  
+  **عنوان:** [Graphic Communication: SolidWorks Homework Part 2 (F20 ES220 Class 11)](https://www.youtube.com/watch?v=KpyPRiWhGDY)  
+  ![](https://i.ytimg.com/vi/KpyPRiWhGDY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:29:02 (UTC)  
+  **مدت:** حدود 17.3 دقیقه  
+  **عنوان:** [Graphic Communication: SolidWorks Tutorial Part 1 (F20 ES220 Class 10)](https://www.youtube.com/watch?v=EnvV-EifVdw)  
+  ![](https://i.ytimg.com/vi/EnvV-EifVdw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:28:57 (UTC)  
+  **مدت:** حدود 43.7 دقیقه  
+  **عنوان:** [Graphic Communication: AutoCAD Orthographic Projection and Dimensioning part 1 (F20 ES220 Class 6)](https://www.youtube.com/watch?v=jAspjWkz7G4)  
+  ![](https://i.ytimg.com/vi/jAspjWkz7G4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:27:51 (UTC)  
+  **مدت:** حدود 13.2 دقیقه  
+  **عنوان:** [Graphic Communication: Introduction to SolidWorks part 1 (F20 ES220 Class 9)](https://www.youtube.com/watch?v=HVVzJJDg2Kc)  
+  ![](https://i.ytimg.com/vi/HVVzJJDg2Kc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:27:13 (UTC)  
+  **مدت:** حدود 8.0 دقیقه  
+  **عنوان:** [Graphic Communication: SolidWorks Tutorial Part 2 (F20 ES220 Class 10)](https://www.youtube.com/watch?v=aJc9Ebb-nos)  
+  ![](https://i.ytimg.com/vi/aJc9Ebb-nos/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:22:34 (UTC)  
+  **مدت:** حدود 17.8 دقیقه  
+  **عنوان:** [Graphic Communication: Introduction to SolidWorks Quick Tour (F20 ES220 Class 9)](https://www.youtube.com/watch?v=eGV2DXHqiHk)  
+  ![](https://i.ytimg.com/vi/eGV2DXHqiHk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:18:45 (UTC)  
+  **مدت:** حدود 62.9 دقیقه  
+  **عنوان:** [Graphic Communication:  Hand Drawing and AutoCAD Orthographic Projections part 1 (F20 ES220 Class 5)](https://www.youtube.com/watch?v=s1tD9yGkqyQ)  
+  ![](https://i.ytimg.com/vi/s1tD9yGkqyQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:18:22 (UTC)  
+  **مدت:** حدود 62.3 دقیقه  
+  **عنوان:** [Graphic Communication:  AutoCAD Orthographic Projection and Dimensioning part 2 (F20 ES220 Class 6 )](https://www.youtube.com/watch?v=PjALaS2E9ew)  
+  ![](https://i.ytimg.com/vi/PjALaS2E9ew/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:18:09 (UTC)  
+  **مدت:** حدود 30.7 دقیقه  
+  **عنوان:** [Graphic Communication: AutoCAD Basement Drawing (F20 ES220 Class 7 )](https://www.youtube.com/watch?v=aJ0nxuK-8Qo)  
+  ![](https://i.ytimg.com/vi/aJ0nxuK-8Qo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:15:02 (UTC)  
+  **مدت:** حدود 18.8 دقیقه  
+  **عنوان:** [Graphic Communication: Hand Drawing and AutoCAD Orthographic Projections part 3 (F20 ES220 Class 5)](https://www.youtube.com/watch?v=O_CpbIyzRZU)  
+  ![](https://i.ytimg.com/vi/O_CpbIyzRZU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:15:01 (UTC)  
+  **مدت:** حدود 17.9 دقیقه  
+  **عنوان:** [Graphic Communication: Hand Drawing and AutoCAD Orthographic Projections part 4 (F20 ES220 Class 5)](https://www.youtube.com/watch?v=qDp6cVBV00Q)  
+  ![](https://i.ytimg.com/vi/qDp6cVBV00Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:13:41 (UTC)  
+  **مدت:** حدود 31.6 دقیقه  
+  **عنوان:** [Graphic Communication: Intro to Sketching Part 4 Isometric (F20 ES220 Class 1)](https://www.youtube.com/watch?v=8BaNKSGKiK8)  
+  ![](https://i.ytimg.com/vi/8BaNKSGKiK8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:11:49 (UTC)  
+  **مدت:** حدود 28.2 دقیقه  
+  **عنوان:** [Graphic Communication: Hand Drawing and AutoCAD Orthographic Projections part 2 (F20 ES220 Class 5)](https://www.youtube.com/watch?v=x4JkxS45h2U)  
+  ![](https://i.ytimg.com/vi/x4JkxS45h2U/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:10:31 (UTC)  
+  **مدت:** حدود 48.3 دقیقه  
+  **عنوان:** [Graphic Communication: Hand Drawing and AutoCAD Tangencies part 2 (F20 ES220 Class 3)](https://www.youtube.com/watch?v=-VxLmROEZhQ)  
+  ![](https://i.ytimg.com/vi/-VxLmROEZhQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:10:21 (UTC)  
+  **مدت:** حدود 28.9 دقیقه  
+  **عنوان:** [Graphic Communication: Hand Drawing and AutoCAD Tangencies part 1 (F20 ES220 Class 3)](https://www.youtube.com/watch?v=_Q-UAGzh-pk)  
+  ![](https://i.ytimg.com/vi/_Q-UAGzh-pk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:09:22 (UTC)  
+  **مدت:** حدود 22.1 دقیقه  
+  **عنوان:** [Graphic Communication:  Introduction to AutoCAD (F20 ES220 Class 4)](https://www.youtube.com/watch?v=BsXRXZk3WmI)  
+  ![](https://i.ytimg.com/vi/BsXRXZk3WmI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:08:09 (UTC)  
+  **مدت:** حدود 21.0 دقیقه  
+  **عنوان:** [Graphic Communications: Introduction to Sketching Part 2 Proportions (F20 ES220 Class 1)](https://www.youtube.com/watch?v=PE9xn8Di8e8)  
+  ![](https://i.ytimg.com/vi/PE9xn8Di8e8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:07:38 (UTC)  
+  **مدت:** حدود 22.3 دقیقه  
+  **عنوان:** [Graphic Communication: Hand Drawing and AutoCAD Geometric Constructions (F20 ES220 Class 3)](https://www.youtube.com/watch?v=U-gb-El_iMg)  
+  ![](https://i.ytimg.com/vi/U-gb-El_iMg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:06:05 (UTC)  
+  **مدت:** حدود 16.8 دقیقه  
+  **عنوان:** [Graphic Communication: Introduction to Sketching Part 3 Lettering (F20 ES220 Class 1)](https://www.youtube.com/watch?v=hcZARiyfmbg)  
+  ![](https://i.ytimg.com/vi/hcZARiyfmbg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 16:05:28 (UTC)  
+  **مدت:** حدود 35.3 دقیقه  
+  **عنوان:** [Graphic Communication: Introduction to Sketching Part 1 (F20 ES220 Class 1)](https://www.youtube.com/watch?v=pG0At__S7xs)  
+  ![](https://i.ytimg.com/vi/pG0At__S7xs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:53:32 (UTC)  
+  **مدت:** حدود 26.2 دقیقه  
+  **عنوان:** [Statics: Moment of Inertia of Section with Excel and SolidWorks (F20 ES110 Class 24)](https://www.youtube.com/watch?v=Z1syTE9H6rQ)  
+  ![](https://i.ytimg.com/vi/Z1syTE9H6rQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:45:07 (UTC)  
+  **مدت:** حدود 14.8 دقیقه  
+  **عنوان:** [Statics:  Analysis of Structures: Frames, SP 6.5 (F20 ES110 Class 17)](https://www.youtube.com/watch?v=JlAsF51pdkw)  
+  ![](https://i.ytimg.com/vi/JlAsF51pdkw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:42:27 (UTC)  
+  **مدت:** حدود 24.3 دقیقه  
+  **عنوان:** [Statics: Analysis of Structures: Machines, SP 6.7 (F20 ES110 Class 18)](https://www.youtube.com/watch?v=vCvjQFIHl2o)  
+  ![](https://i.ytimg.com/vi/vCvjQFIHl2o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:38:34 (UTC)  
+  **مدت:** حدود 9.1 دقیقه  
+  **عنوان:** [Statics: Analysis of Trusses (The Method of Sections) Extra Example 2 (F20 ES110 Class 16)](https://www.youtube.com/watch?v=FnXk88Jva4Y)  
+  ![](https://i.ytimg.com/vi/FnXk88Jva4Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:37:03 (UTC)  
+  **مدت:** حدود 22.8 دقیقه  
+  **عنوان:** [Statics: Analysis of Trusses (The Method of Sections), SP 6.1 (F20 ES110 Class 16)](https://www.youtube.com/watch?v=KFggdi8E3RI)  
+  ![](https://i.ytimg.com/vi/KFggdi8E3RI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:36:07 (UTC)  
+  **مدت:** حدود 10.8 دقیقه  
+  **عنوان:** [Statics: Analysis of Trusses (The Method of Sections) Extra Example 1 (F20 ES110 Class 16)](https://www.youtube.com/watch?v=vm6rrk2GljE)  
+  ![](https://i.ytimg.com/vi/vm6rrk2GljE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:34:06 (UTC)  
+  **مدت:** حدود 25.9 دقیقه  
+  **عنوان:** [Statics: Analysis of Trusses (The Method of Joints), SP 6.1 (F20 ES110 Class 15)](https://www.youtube.com/watch?v=tJopp6ym6p4)  
+  ![](https://i.ytimg.com/vi/tJopp6ym6p4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:33:11 (UTC)  
+  **مدت:** حدود 16.6 دقیقه  
+  **عنوان:** [Statics: Bearing Reaction in 3D Shaft example 2 (F20 ES110 Class 14)](https://www.youtube.com/watch?v=C7WzJuRgMLI)  
+  ![](https://i.ytimg.com/vi/C7WzJuRgMLI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:30:59 (UTC)  
+  **مدت:** حدود 15.1 دقیقه  
+  **عنوان:** [Statics: Reactions on 3D Cantilevered Part (F20 ES110 Class 14)](https://www.youtube.com/watch?v=kd2mzZG-xHc)  
+  ![](https://i.ytimg.com/vi/kd2mzZG-xHc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:26:44 (UTC)  
+  **مدت:** حدود 17.9 دقیقه  
+  **عنوان:** [Statics: Bearing Reaction in 3D Shaft example 1 (F20 ES110 Class 14)](https://www.youtube.com/watch?v=igOjIFQfk94)  
+  ![](https://i.ytimg.com/vi/igOjIFQfk94/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:16:19 (UTC)  
+  **مدت:** حدود 12.7 دقیقه  
+  **عنوان:** [Statics: Equilibrium in Three Dimensions, SP 4.9 (F20 ES110 Class 13)](https://www.youtube.com/watch?v=tDpkcQRkAPQ)  
+  ![](https://i.ytimg.com/vi/tDpkcQRkAPQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:16:18 (UTC)  
+  **مدت:** حدود 16.3 دقیقه  
+  **عنوان:** [Statics: Reactions from Free Body Diagrams, Problem 4.65 (F20 ES110 Class 12)](https://www.youtube.com/watch?v=Qxu2vQtTPwc)  
+  ![](https://i.ytimg.com/vi/Qxu2vQtTPwc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:15:23 (UTC)  
+  **مدت:** حدود 27.1 دقیقه  
+  **عنوان:** [Statics: Equilibrium in Three Dimensions, SP 4.8 (F20 ES110 Class 13)](https://www.youtube.com/watch?v=Rhubqr22KOk)  
+  ![](https://i.ytimg.com/vi/Rhubqr22KOk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:13:32 (UTC)  
+  **مدت:** حدود 11.7 دقیقه  
+  **عنوان:** [Statics: Reactions from Free Body Diagrams, Problem 4.74 (F20 ES110 Class 12)](https://www.youtube.com/watch?v=uzrDbpRTi9k)  
+  ![](https://i.ytimg.com/vi/uzrDbpRTi9k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:11:21 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [Statics: Reactions from Free Body Diagrams, SP 4.5 (F20 ES110 Class 11)](https://www.youtube.com/watch?v=pZVLt0vECAg)  
+  ![](https://i.ytimg.com/vi/pZVLt0vECAg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:09:20 (UTC)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [Statics: Reactions from Free Body Diagrams, SP 4.4 (F20 ES110 Class 11)](https://www.youtube.com/watch?v=TLmpFllvdfk)  
+  ![](https://i.ytimg.com/vi/TLmpFllvdfk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:07:53 (UTC)  
+  **مدت:** حدود 11.8 دقیقه  
+  **عنوان:** [Statics: Reactions from Free Body Diagrams, SP 4.3 (F20 ES110 Class 11)](https://www.youtube.com/watch?v=3PcbYwW-6lU)  
+  ![](https://i.ytimg.com/vi/3PcbYwW-6lU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:06:07 (UTC)  
+  **مدت:** حدود 7.4 دقیقه  
+  **عنوان:** [Statics: Reactions from Free Body Diagrams, SP 4.2 (F20 ES110 Class 11)](https://www.youtube.com/watch?v=6HXLZMNSDUY)  
+  ![](https://i.ytimg.com/vi/6HXLZMNSDUY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:04:08 (UTC)  
+  **مدت:** حدود 11.9 دقیقه  
+  **عنوان:** [Statics: Reactions from Free Body Diagrams, SP 4.1 (F20 ES110 Class 11)](https://www.youtube.com/watch?v=1t0gaNuGbfo)  
+  ![](https://i.ytimg.com/vi/1t0gaNuGbfo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 14:00:35 (UTC)  
+  **مدت:** حدود 8.9 دقیقه  
+  **عنوان:** [Statics: Couples and Force-Couple Systems, Problem 3.99 (S21 ES110 Class 9)](https://www.youtube.com/watch?v=SC-UL__GuZk)  
+  ![](https://i.ytimg.com/vi/SC-UL__GuZk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 13:58:33 (UTC)  
+  **مدت:** حدود 9.1 دقیقه  
+  **عنوان:** [Statics: Couples and Force-Couple Systems, Problem 3.98 (S21 ES110 Class 9)](https://www.youtube.com/watch?v=Dt76KCmh0hc)  
+  ![](https://i.ytimg.com/vi/Dt76KCmh0hc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 13:57:51 (UTC)  
+  **مدت:** حدود 13.2 دقیقه  
+  **عنوان:** [Statics: Couples and Force-Couple Systems, Section 3.3 (S21 ES110 Class 9)](https://www.youtube.com/watch?v=jUfB4qHMzro)  
+  ![](https://i.ytimg.com/vi/jUfB4qHMzro/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 13:53:41 (UTC)  
+  **مدت:** حدود 9.9 دقیقه  
+  **عنوان:** [Statics: Moment of a Force about an Axis, Hibbeler F4.14 (S21 ES110 Class 7)](https://www.youtube.com/watch?v=IzvaNX2kgQg)  
+  ![](https://i.ytimg.com/vi/IzvaNX2kgQg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 13:52:50 (UTC)  
+  **مدت:** حدود 20.6 دقیقه  
+  **عنوان:** [Statics: Moment of a Force about an Axis, SP 3.5 (S21 ES110 Class 7)](https://www.youtube.com/watch?v=x19Ay4Nkyh4)  
+  ![](https://i.ytimg.com/vi/x19Ay4Nkyh4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 13:49:32 (UTC)  
+  **مدت:** حدود 18.8 دقیقه  
+  **عنوان:** [Statics: Angle Between two Vectors (S21 ES110 Class 7)](https://www.youtube.com/watch?v=5YoFwVEpdoQ)  
+  ![](https://i.ytimg.com/vi/5YoFwVEpdoQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 13:39:37 (UTC)  
+  **مدت:** حدود 9.7 دقیقه  
+  **عنوان:** [Statics: Forces and Equilibrium in Space,  SP 3.4 (F20 ES110 Class 6)](https://www.youtube.com/watch?v=jabvN-fguJM)  
+  ![](https://i.ytimg.com/vi/jabvN-fguJM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-21 13:39:05 (UTC)  
+  **مدت:** حدود 16.9 دقیقه  
+  **عنوان:** [Statics: Forces and Equilibrium in Space, SP 3.3 (F20 ES110 Class 6)](https://www.youtube.com/watch?v=bzqHK3wSkEY)  
+  ![](https://i.ytimg.com/vi/bzqHK3wSkEY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-20 04:59:41 (UTC)  
+  **مدت:** حدود 28.3 دقیقه  
+  **عنوان:** [Statics: Forces and Equilibrium in Space, SP 2.9 (S21 ES110 Class 5)](https://www.youtube.com/watch?v=d3gB78EyQIc)  
+  ![](https://i.ytimg.com/vi/d3gB78EyQIc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-20 04:59:18 (UTC)  
+  **مدت:** حدود 29.9 دقیقه  
+  **عنوان:** [Statics: Equivalent System of Forces and Moments, Section 3.1 (F20 ES110 Class 6)](https://www.youtube.com/watch?v=GGFCkgibUTg)  
+  ![](https://i.ytimg.com/vi/GGFCkgibUTg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-20 04:58:52 (UTC)  
+  **مدت:** حدود 5.7 دقیقه  
+  **عنوان:** [Statics: Equivalent System of Forces and Moments, SP 3.2b (F20 ES110 Class 6)](https://www.youtube.com/watch?v=9aEV3kulc5g)  
+  ![](https://i.ytimg.com/vi/9aEV3kulc5g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-20 04:58:46 (UTC)  
+  **مدت:** حدود 9.8 دقیقه  
+  **عنوان:** [Statics: Equivalent System of Forces and Moments, SP 3.2 (F20 ES110 Class 6 )](https://www.youtube.com/watch?v=35aJ2yPvPbo)  
+  ![](https://i.ytimg.com/vi/35aJ2yPvPbo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-20 04:58:05 (UTC)  
+  **مدت:** حدود 13.4 دقیقه  
+  **عنوان:** [Statics: Equivalent System of Forces and Moments, SP 3.1 (F20 ES110 Class 6)](https://www.youtube.com/watch?v=_h_gP1uxHB8)  
+  ![](https://i.ytimg.com/vi/_h_gP1uxHB8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-20 04:56:09 (UTC)  
+  **مدت:** حدود 18.6 دقیقه  
+  **عنوان:** [Statics: Adding Forces in Space, SP 2.8 (F20 ES110 Class 4)](https://www.youtube.com/watch?v=BRCVdvPeRCo)  
+  ![](https://i.ytimg.com/vi/BRCVdvPeRCo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:29:15 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [Statics: Adding Forces in Space, Section 2.4A, (F20 ES110 Class 4 )](https://www.youtube.com/watch?v=rotlZLVicWQ)  
+  ![](https://i.ytimg.com/vi/rotlZLVicWQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:28:50 (UTC)  
+  **مدت:** حدود 8.9 دقیقه  
+  **عنوان:** [Statics: Adding Forces in Space, SP 2.7 (F20 ES110 Class 4)](https://www.youtube.com/watch?v=b9Skt5fD0Oo)  
+  ![](https://i.ytimg.com/vi/b9Skt5fD0Oo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:28:32 (UTC)  
+  **مدت:** حدود 8.2 دقیقه  
+  **عنوان:** [Statics: Adding Forces in Space, Section 2.4B (F20 ES110 Class 4 )](https://www.youtube.com/watch?v=dM5gdSbN-MM)  
+  ![](https://i.ytimg.com/vi/dM5gdSbN-MM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:27:29 (UTC)  
+  **مدت:** حدود 9.6 دقیقه  
+  **عنوان:** [Statics: Adding Forces in Space Concept Application 2.4 (F20 ES110 Class 4)](https://www.youtube.com/watch?v=1JdUjrEhTjk)  
+  ![](https://i.ytimg.com/vi/1JdUjrEhTjk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:26:48 (UTC)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [Statics: Forces and Equilibrium in a Plane SP 2.6 (F20 ES110 Class 3)](https://www.youtube.com/watch?v=yGatWexWEwM)  
+  ![](https://i.ytimg.com/vi/yGatWexWEwM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:26:21 (UTC)  
+  **مدت:** حدود 5.4 دقیقه  
+  **عنوان:** [Statics: Forces and Equilibrium in a Plane PP 2.F1 (F20 ES110 Class 3)](https://www.youtube.com/watch?v=V9dzpQ5ryjE)  
+  ![](https://i.ytimg.com/vi/V9dzpQ5ryjE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:25:54 (UTC)  
+  **مدت:** حدود 8.3 دقیقه  
+  **عنوان:** [Statics: Forces and Equilibrium in a Plane SP 2.4 (F20 ES110 Class 3)](https://www.youtube.com/watch?v=MuJ7DQZib-w)  
+  ![](https://i.ytimg.com/vi/MuJ7DQZib-w/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:24:30 (UTC)  
+  **مدت:** حدود 6.8 دقیقه  
+  **عنوان:** [Statics: Forces and Equilibrium in a Plane SP 2.5 (F20 ES110 Class 3)](https://www.youtube.com/watch?v=hxtonhvePZQ)  
+  ![](https://i.ytimg.com/vi/hxtonhvePZQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:23:07 (UTC)  
+  **مدت:** حدود 13.7 دقیقه  
+  **عنوان:** [Statics: Force Vector Addition, Triangles and Trapezoids Solved Graphically (F20 ES110 Class  1)](https://www.youtube.com/watch?v=tOC2-huqKfA)  
+  ![](https://i.ytimg.com/vi/tOC2-huqKfA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:21:23 (UTC)  
+  **مدت:** حدود 7.8 دقیقه  
+  **عنوان:** [Statics: Forces and Equilibrium in a Plane Section 2.3 (F20 ES110 Class 3)](https://www.youtube.com/watch?v=_z91JQSumgo)  
+  ![](https://i.ytimg.com/vi/_z91JQSumgo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:19:19 (UTC)  
+  **مدت:** حدود 22.7 دقیقه  
+  **عنوان:** [Statics: Force Vector Addition with Triangles Introduction Sections 1.1-1.6  (F20 ES110 Class 1)](https://www.youtube.com/watch?v=Lg8Aq55ggvQ)  
+  ![](https://i.ytimg.com/vi/Lg8Aq55ggvQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:19:07 (UTC)  
+  **مدت:** حدود 14.4 دقیقه  
+  **عنوان:** [Statics: Force Vector Addition by Components SP 2.3 (F20 ES110 Class 2)](https://www.youtube.com/watch?v=ou_-zplwi9k)  
+  ![](https://i.ytimg.com/vi/ou_-zplwi9k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:17:23 (UTC)  
+  **مدت:** حدود 14.6 دقیقه  
+  **عنوان:** [Statics: Addition of Force Vectors by Components ( F20 ES110 Class 2)](https://www.youtube.com/watch?v=MVHERZxJSk8)  
+  ![](https://i.ytimg.com/vi/MVHERZxJSk8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:15:35 (UTC)  
+  **مدت:** حدود 6.8 دقیقه  
+  **عنوان:** [Statics: Force Vector Resultant SP 2.1 with PhET (F20 ES110 Class 1)](https://www.youtube.com/watch?v=pi5qqRo5g_o)  
+  ![](https://i.ytimg.com/vi/pi5qqRo5g_o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 21:15:01 (UTC)  
+  **مدت:** حدود 15.2 دقیقه  
+  **عنوان:** [Statics: Force Vector Addition with Vector Triangles (F20 ES110 Class 1)](https://www.youtube.com/watch?v=PUKlGr7Ev1I)  
+  ![](https://i.ytimg.com/vi/PUKlGr7Ev1I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 19:10:05 (UTC)  
+  **مدت:** حدود 31.4 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Wire Rope Introduction (S21 ME470 Class 15)](https://www.youtube.com/watch?v=MKSf-R12MTU)  
+  ![](https://i.ytimg.com/vi/MKSf-R12MTU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 19:08:50 (UTC)  
+  **مدت:** حدود 17.0 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Spring Design Example (S20 ME470 Class 22)](https://www.youtube.com/watch?v=gokg-Nk0o60)  
+  ![](https://i.ytimg.com/vi/gokg-Nk0o60/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 19:08:33 (UTC)  
+  **مدت:** حدود 32.5 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Spring Design Introduction part 1 (S19 ME470 Class 22)](https://www.youtube.com/watch?v=PQ0Onlm4c_c)  
+  ![](https://i.ytimg.com/vi/PQ0Onlm4c_c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 19:08:13 (UTC)  
+  **مدت:** حدود 17.2 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Spring Design Introduction part 2 (S20 ME470 Class 22)](https://www.youtube.com/watch?v=YY6q_LWEZW4)  
+  ![](https://i.ytimg.com/vi/YY6q_LWEZW4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 19:07:38 (UTC)  
+  **مدت:** حدود 22.4 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Wire Rope Example (S21 ME470 Class 15)](https://www.youtube.com/watch?v=foQdi4eiaT0)  
+  ![](https://i.ytimg.com/vi/foQdi4eiaT0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 19:04:38 (UTC)  
+  **مدت:** حدود 19.7 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Belt Drives Introduction (S21 ME470 Class 14)](https://www.youtube.com/watch?v=st5w1PXmpJs)  
+  ![](https://i.ytimg.com/vi/st5w1PXmpJs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 19:04:29 (UTC)  
+  **مدت:** حدود 22.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Chain Drive Introduction (S21 ME470 Class 14)](https://www.youtube.com/watch?v=vZCAFFGSHwg)  
+  ![](https://i.ytimg.com/vi/vZCAFFGSHwg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 19:03:16 (UTC)  
+  **مدت:** حدود 28.6 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Belt Drive Example (S21 ME470 Class 14)](https://www.youtube.com/watch?v=8MGiICa24RQ)  
+  ![](https://i.ytimg.com/vi/8MGiICa24RQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 19:01:38 (UTC)  
+  **مدت:** حدود 30.2 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Hoist Project Design & SolidWorks Weldments (S21 ME470 Class 13)](https://www.youtube.com/watch?v=_ciYpZtfQKQ)  
+  ![](https://i.ytimg.com/vi/_ciYpZtfQKQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:56:28 (UTC)  
+  **مدت:** حدود 7.4 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Rolling Element Bearing Damage Fract Ex11-5 (S21 ME470 Class 12)](https://www.youtube.com/watch?v=3KYdXmpIRK0)  
+  ![](https://i.ytimg.com/vi/3KYdXmpIRK0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:54:18 (UTC)  
+  **مدت:** حدود 9.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Rolling Element Bearing Damage Fraction Ex3 (S21 ME470 Class 12)](https://www.youtube.com/watch?v=_b8EF0EIEdo)  
+  ![](https://i.ytimg.com/vi/_b8EF0EIEdo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:52:12 (UTC)  
+  **مدت:** حدود 14.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Rolling Element Bearing Variable Loading (S21 ME470 Class 12)](https://www.youtube.com/watch?v=BZrKqLpBRXM)  
+  ![](https://i.ytimg.com/vi/BZrKqLpBRXM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:51:25 (UTC)  
+  **مدت:** حدود 3.9 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Rolling Element Bearing Damage Fraction Ex2 (S21 ME470 Class 12)](https://www.youtube.com/watch?v=BioVTN4FdrA)  
+  ![](https://i.ytimg.com/vi/BioVTN4FdrA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:49:25 (UTC)  
+  **مدت:** حدود 6.1 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Rolling Element Bearing Damage Fraction Ex1 (S21 ME470 Class 12)](https://www.youtube.com/watch?v=_TMOMKAcTGQ)  
+  ![](https://i.ytimg.com/vi/_TMOMKAcTGQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:47:15 (UTC)  
+  **مدت:** حدود 27.0 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Rolling Element Bearing Equiv Radial Load Ex (S21 ME470 Class 11)](https://www.youtube.com/watch?v=eMWFtzg6R_U)  
+  ![](https://i.ytimg.com/vi/eMWFtzg6R_U/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:45:59 (UTC)  
+  **مدت:** حدود 35.1 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Rolling Element Bearing 3D Shaft Example (S21 ME470 Class 11)](https://www.youtube.com/watch?v=At6Y3tt0OCI)  
+  ![](https://i.ytimg.com/vi/At6Y3tt0OCI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:45:53 (UTC)  
+  **مدت:** حدود 12.3 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Rolling Element Bearing Equiv Radial Load (S21 ME470 Class 11)](https://www.youtube.com/watch?v=ugIKcYSHRv0)  
+  ![](https://i.ytimg.com/vi/ugIKcYSHRv0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:45:44 (UTC)  
+  **مدت:** حدود 20.2 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Rolling Element Bearing Example 11-11 (S21 ME470 Class 10)](https://www.youtube.com/watch?v=aUjtEYe064M)  
+  ![](https://i.ytimg.com/vi/aUjtEYe064M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:43:49 (UTC)  
+  **مدت:** حدود 43.0 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear AGMA Design Example (S21 ME470 Class 9 )](https://www.youtube.com/watch?v=2jAxv3D_TIU)  
+  ![](https://i.ytimg.com/vi/2jAxv3D_TIU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:41:46 (UTC)  
+  **مدت:** حدود 27.4 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear AGMA Design Excel Spreadsheet (S21 ME470 Class 9)](https://www.youtube.com/watch?v=t1C3RgukAOQ)  
+  ![](https://i.ytimg.com/vi/t1C3RgukAOQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:41:15 (UTC)  
+  **مدت:** حدود 11.6 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Rolling Element Bearing Example (S21 ME470 Class 10)](https://www.youtube.com/watch?v=QF06z0wHsRc)  
+  ![](https://i.ytimg.com/vi/QF06z0wHsRc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:39:54 (UTC)  
+  **مدت:** حدود 35.2 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Bending Fatigue Strength Example 14-2 (S21 ME470 Class 7)](https://www.youtube.com/watch?v=EFhxuYZ7K90)  
+  ![](https://i.ytimg.com/vi/EFhxuYZ7K90/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:39:30 (UTC)  
+  **مدت:** حدود 21.3 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Rolling Element Bearing Introduction (S21 ME470 Class 10)](https://www.youtube.com/watch?v=OAabqT323ls)  
+  ![](https://i.ytimg.com/vi/OAabqT323ls/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:38:24 (UTC)  
+  **مدت:** حدود 25.3 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Contact Wear Introduction (S21 ME470 Class 8)](https://www.youtube.com/watch?v=oOU--oZxbR8)  
+  ![](https://i.ytimg.com/vi/oOU--oZxbR8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:35:49 (UTC)  
+  **مدت:** حدود 38.4 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear AGMA Introduction (S21 ME470 Class 9)](https://www.youtube.com/watch?v=DSEHm0OfrKE)  
+  ![](https://i.ytimg.com/vi/DSEHm0OfrKE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:32:05 (UTC)  
+  **مدت:** حدود 17.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Bending Fatigue Example Problem (S21 ME470 Class 7)](https://www.youtube.com/watch?v=tn19tT4qx8A)  
+  ![](https://i.ytimg.com/vi/tn19tT4qx8A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:31:41 (UTC)  
+  **مدت:** حدود 11.1 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Contact Wear Example (S21 ME470 Class 8)](https://www.youtube.com/watch?v=pZ05P2bw2wA)  
+  ![](https://i.ytimg.com/vi/pZ05P2bw2wA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:30:53 (UTC)  
+  **مدت:** حدود 28.6 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Bending Fatigue Introduction (S21 ME470 Class 7)](https://www.youtube.com/watch?v=d6vgZyg4StY)  
+  ![](https://i.ytimg.com/vi/d6vgZyg4StY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:27:29 (UTC)  
+  **مدت:** حدود 13.9 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Bending Fatigue Example 14-1 (S21 ME470 Class 7)](https://www.youtube.com/watch?v=2Ayl0qiOTg8)  
+  ![](https://i.ytimg.com/vi/2Ayl0qiOTg8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:25:36 (UTC)  
+  **مدت:** حدود 20.3 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Helical Gear Example (S21 ME470 Class 6)](https://www.youtube.com/watch?v=Oqr70EK33nQ)  
+  ![](https://i.ytimg.com/vi/Oqr70EK33nQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:23:38 (UTC)  
+  **مدت:** حدود 25.9 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Planetary Gears forces example part 1 (S21 ME470 Class 5)](https://www.youtube.com/watch?v=xaGkE-1n5_4)  
+  ![](https://i.ytimg.com/vi/xaGkE-1n5_4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:22:49 (UTC)  
+  **مدت:** حدود 23.4 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Bevel Gear Forces Example (S21 ME470 Class 6)](https://www.youtube.com/watch?v=5R9_J--EBXE)  
+  ![](https://i.ytimg.com/vi/5R9_J--EBXE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:20:55 (UTC)  
+  **مدت:** حدود 10.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Worm Gear Introduction (S21 ME470 Class 6)](https://www.youtube.com/watch?v=39J33CksWuk)  
+  ![](https://i.ytimg.com/vi/39J33CksWuk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:19:31 (UTC)  
+  **مدت:** حدود 9.6 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Planetary Gears Example 3 part 4 (S21 ME470 Class 5)](https://www.youtube.com/watch?v=mMsbK8A8rNk)  
+  ![](https://i.ytimg.com/vi/mMsbK8A8rNk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:16:42 (UTC)  
+  **مدت:** حدود 8.3 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Planetary Gears Example 2 part 3 (S21 ME470 Class 5)](https://www.youtube.com/watch?v=vk_l000K6gg)  
+  ![](https://i.ytimg.com/vi/vk_l000K6gg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:15:58 (UTC)  
+  **مدت:** حدود 12.1 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Planetary Gears Example 1 part 2 (S21 ME470 Class 5)](https://www.youtube.com/watch?v=AKUzdmxYIZY)  
+  ![](https://i.ytimg.com/vi/AKUzdmxYIZY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:11:35 (UTC)  
+  **مدت:** حدود 30.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Planetary Gears Introduction (S21 ME470 Class 5)](https://www.youtube.com/watch?v=LvUKexYVxjQ)  
+  ![](https://i.ytimg.com/vi/LvUKexYVxjQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:10:57 (UTC)  
+  **مدت:** حدود 45.0 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Basics part 5 Example Problem (S21 ME470 Class 3)](https://www.youtube.com/watch?v=ooEZOjz_ECk)  
+  ![](https://i.ytimg.com/vi/ooEZOjz_ECk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:10:27 (UTC)  
+  **مدت:** حدود 12.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Forces part 6 (S21 ME470 Class 4)](https://www.youtube.com/watch?v=2g88uH56RzU)  
+  ![](https://i.ytimg.com/vi/2g88uH56RzU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:10:15 (UTC)  
+  **مدت:** حدود 15.1 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Basics part 3 Layout and Pressure Angle (S21 ME470 Class 3)](https://www.youtube.com/watch?v=LFBAWx89rKU)  
+  ![](https://i.ytimg.com/vi/LFBAWx89rKU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:09:57 (UTC)  
+  **مدت:** حدود 13.3 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Train Forces Example part 7 (S21 ME470 Class 4)](https://www.youtube.com/watch?v=q5Vn6h4SOSg)  
+  ![](https://i.ytimg.com/vi/q5Vn6h4SOSg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:08:21 (UTC)  
+  **مدت:** حدود 14.0 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Train Kinematics Example part 5 (S21 ME470 Class 4)](https://www.youtube.com/watch?v=ahx_mDuWCRY)  
+  ![](https://i.ytimg.com/vi/ahx_mDuWCRY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:06:10 (UTC)  
+  **مدت:** حدود 17.9 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Train Design part 4 (S21 ME470 Class 4)](https://www.youtube.com/watch?v=gjKu_UKRkzM)  
+  ![](https://i.ytimg.com/vi/gjKu_UKRkzM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:05:34 (UTC)  
+  **مدت:** حدود 28.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Basics part 4 Gear Pair Relations (S21 ME470 Class 3)](https://www.youtube.com/watch?v=QE6FAp3pvm0)  
+  ![](https://i.ytimg.com/vi/QE6FAp3pvm0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:04:29 (UTC)  
+  **مدت:** حدود 9.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Train Design Example part 3 (S21 ME470 Class 4)](https://www.youtube.com/watch?v=539P3TCG_CQ)  
+  ![](https://i.ytimg.com/vi/539P3TCG_CQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:03:22 (UTC)  
+  **مدت:** حدود 13.4 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Train Kinematics Example 13-33 part 2 (S21 ME470 Class 4)](https://www.youtube.com/watch?v=4nQ7SM2NMr0)  
+  ![](https://i.ytimg.com/vi/4nQ7SM2NMr0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:00:42 (UTC)  
+  **مدت:** حدود 37.4 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Crank Handle Design (S21 ME470 HW1)](https://www.youtube.com/watch?v=HK9aLIdtszk)  
+  ![](https://i.ytimg.com/vi/HK9aLIdtszk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 18:00:13 (UTC)  
+  **مدت:** حدود 16.9 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Train Kinematics and Forces part 1 (S21 ME470 Class 4)](https://www.youtube.com/watch?v=HPzeBzMtwT8)  
+  ![](https://i.ytimg.com/vi/HPzeBzMtwT8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 17:57:49 (UTC)  
+  **مدت:** حدود 22.7 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Basics part 1 Nomenclature (S21 ME470 Class 3)](https://www.youtube.com/watch?v=dM9lyhm0PzI)  
+  ![](https://i.ytimg.com/vi/dM9lyhm0PzI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 17:57:38 (UTC)  
+  **مدت:** حدود 29.9 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Design Example 2 (S21 ME470 Class 2)](https://www.youtube.com/watch?v=0zyLA5fvB8E)  
+  ![](https://i.ytimg.com/vi/0zyLA5fvB8E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 17:56:36 (UTC)  
+  **مدت:** حدود 33.9 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Hanger Design for Fatigue (S21 ME470 HW1 Solution)](https://www.youtube.com/watch?v=OdmJkcF3j1M)  
+  ![](https://i.ytimg.com/vi/OdmJkcF3j1M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 17:55:41 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Gear Basics part 2 Conjugate Action (S21 ME470 Class 3)](https://www.youtube.com/watch?v=IYBX4DnxHo4)  
+  ![](https://i.ytimg.com/vi/IYBX4DnxHo4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 17:54:10 (UTC)  
+  **مدت:** حدود 22.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Introduction to Material Selection (S21 ME470 Class 2)](https://www.youtube.com/watch?v=9oHaRqLbkDc)  
+  ![](https://i.ytimg.com/vi/9oHaRqLbkDc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 17:49:43 (UTC)  
+  **مدت:** حدود 14.1 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Design Example 1 part 2 (S21 ME470 Class 2)](https://www.youtube.com/watch?v=aFgieDjTJOs)  
+  ![](https://i.ytimg.com/vi/aFgieDjTJOs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 17:46:47 (UTC)  
+  **مدت:** حدود 16.1 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Design Example 1 part 1 (S21 ME470 Class 2) Door Handle Problem](https://www.youtube.com/watch?v=DFNqhmBhOjg)  
+  ![](https://i.ytimg.com/vi/DFNqhmBhOjg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 15:29:51 (UTC)  
+  **مدت:** حدود 43.8 دقیقه  
+  **عنوان:** [Mechanisms: Cam SVAJ Diagrams in Excel (S20 ME401 Class 21 part 1)](https://www.youtube.com/watch?v=EnGDHSp5esY)  
+  ![](https://i.ytimg.com/vi/EnGDHSp5esY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 15:23:06 (UTC)  
+  **مدت:** حدود 33.3 دقیقه  
+  **عنوان:** [Mechanisms: Video Motion Capture with Tracker Demo (S20 ME401)](https://www.youtube.com/watch?v=Igj-9zizQyI)  
+  ![](https://i.ytimg.com/vi/Igj-9zizQyI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 15:22:43 (UTC)  
+  **مدت:** حدود 40.7 دقیقه  
+  **عنوان:** [Mechanisms: Graphical Synthesis Example Norton 5-57 (S21 ME401 Class 12)](https://www.youtube.com/watch?v=ziQPSRrOKmU)  
+  ![](https://i.ytimg.com/vi/ziQPSRrOKmU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 15:19:38 (UTC)  
+  **مدت:** حدود 17.0 دقیقه  
+  **عنوان:** [Mechanisms: Cam SVAJ Diagrams in Excel part 2 (S20 ME401 Class 21 part 2)](https://www.youtube.com/watch?v=yIsYP_XpnzM)  
+  ![](https://i.ytimg.com/vi/yIsYP_XpnzM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 15:19:07 (UTC)  
+  **مدت:** حدود 25.8 دقیقه  
+  **عنوان:** [Mechanisms: Introduction to Cams (S20 ME401 Class 20 part 1)](https://www.youtube.com/watch?v=m9n3rEy1fc8)  
+  ![](https://i.ytimg.com/vi/m9n3rEy1fc8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 15:18:01 (UTC)  
+  **مدت:** حدود 7.5 دقیقه  
+  **عنوان:** [Mechanisms: Introduction to Cams part 2 (S20 ME401 Class 20 part 2)](https://www.youtube.com/watch?v=ndNNW5QQ9ys)  
+  ![](https://i.ytimg.com/vi/ndNNW5QQ9ys/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 15:14:14 (UTC)  
+  **مدت:** حدود 29.1 دقیقه  
+  **عنوان:** [Mechanisms, Two Position Motion Analytical Synthesis Example Excel and MATLAB (S21 ME401 Class 12)](https://www.youtube.com/watch?v=_JVkZFo7OZE)  
+  ![](https://i.ytimg.com/vi/_JVkZFo7OZE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 15:13:32 (UTC)  
+  **مدت:** حدود 22.0 دقیقه  
+  **عنوان:** [Mechanisms: Three-Position Analytical Synthesis Using MATLAB Example (S21 ME401 Class 12)](https://www.youtube.com/watch?v=j9S1bCTCljQ)  
+  ![](https://i.ytimg.com/vi/j9S1bCTCljQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 15:06:16 (UTC)  
+  **مدت:** حدود 18.1 دقیقه  
+  **عنوان:** [Mechanisms: Two Position Motion Analytical Synthesis Intro (S21 ME401 Class 11)](https://www.youtube.com/watch?v=n2yMmwKsobo)  
+  ![](https://i.ytimg.com/vi/n2yMmwKsobo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 15:04:34 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [Mechanisms: Two Position Motion Analytical Synthesis Example (S21 ME401 Class 11)](https://www.youtube.com/watch?v=wJe_eZWEZhg)  
+  ![](https://i.ytimg.com/vi/wJe_eZWEZhg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 14:39:50 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [Mechanisms: Two-Position Rocker Output Analytical Synthesis Example (S21 ME401 Class 11)](https://www.youtube.com/watch?v=u5CspNDYq20)  
+  ![](https://i.ytimg.com/vi/u5CspNDYq20/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 14:32:05 (UTC)  
+  **مدت:** حدود 20.4 دقیقه  
+  **عنوان:** [Mechanisms: Position Analysis of Complex Mechanism  in MATLAB and SolidWorks (S21 ME401 Class 10)](https://www.youtube.com/watch?v=FPpnLMbjZww)  
+  ![](https://i.ytimg.com/vi/FPpnLMbjZww/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 14:31:06 (UTC)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [Mechanisms: Two Position Analytical Synthesis Intro (S21 ME401 Class 11)](https://www.youtube.com/watch?v=ZdcKKGDgvbg)  
+  ![](https://i.ytimg.com/vi/ZdcKKGDgvbg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 14:26:41 (UTC)  
+  **مدت:** حدود 15.1 دقیقه  
+  **عنوان:** [Mechanisms: Four Bar Position Analysis Using Newton Raphson in MATLAB (S21 ME401 Class 10)](https://www.youtube.com/watch?v=DTJ3r5pDR3M)  
+  ![](https://i.ytimg.com/vi/DTJ3r5pDR3M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 14:17:28 (UTC)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [Mechanisms: Introduction to 1D Newton-Raphson Numerical Solutions (S21 ME401 Class 10)](https://www.youtube.com/watch?v=LbmhGbsNrb8)  
+  ![](https://i.ytimg.com/vi/LbmhGbsNrb8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 14:14:47 (UTC)  
+  **مدت:** حدود 15.1 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Position Analysis Using Numerical Approach Excel Solver (S21 ME401 Class 10)](https://www.youtube.com/watch?v=DTYHGw7kRZ0)  
+  ![](https://i.ytimg.com/vi/DTYHGw7kRZ0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 14:11:14 (UTC)  
+  **مدت:** حدود 21.1 دقیقه  
+  **عنوان:** [Mechanisms: Four Bar Coupler Curve w/ Excel Analytical Position Full Rotation (S20 ME401 Class 8)](https://www.youtube.com/watch?v=P2GrCeBO0oQ)  
+  ![](https://i.ytimg.com/vi/P2GrCeBO0oQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 14:08:42 (UTC)  
+  **مدت:** حدود 19.4 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Position Analysis Using Excel Solver (S20 ME401 Class 10)](https://www.youtube.com/watch?v=1i4mbMFG-WE)  
+  ![](https://i.ytimg.com/vi/1i4mbMFG-WE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 13:56:10 (UTC)  
+  **مدت:** حدود 16.6 دقیقه  
+  **عنوان:** [Mechanisms: Inverted Crank-Slider Excel Position Analysis (S20 ME401 Class 8)](https://www.youtube.com/watch?v=0JR4JSAvF3M)  
+  ![](https://i.ytimg.com/vi/0JR4JSAvF3M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 13:51:19 (UTC)  
+  **مدت:** حدود 30.0 دقیقه  
+  **عنوان:** [Mechanisms: Slider-Crank Vector Loop Analytical Position Analysis (S21 ME401 Class 8)](https://www.youtube.com/watch?v=28Pnh2JSuZo)  
+  ![](https://i.ytimg.com/vi/28Pnh2JSuZo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 13:51:15 (UTC)  
+  **مدت:** حدود 6.7 دقیقه  
+  **عنوان:** [Mechanisms: Inverted Crank-Slider Vector Loop Analytical Position Analysis (S21 ME401 Class 8)](https://www.youtube.com/watch?v=Idf8bUstfwQ)  
+  ![](https://i.ytimg.com/vi/Idf8bUstfwQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 13:46:30 (UTC)  
+  **مدت:** حدود 19.6 دقیقه  
+  **عنوان:** [Mechanisms: Vector Loop Four-Bar Analytical Position Analysis (S21 ME401 Class 8)](https://www.youtube.com/watch?v=AjePLsnSDh8)  
+  ![](https://i.ytimg.com/vi/AjePLsnSDh8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 13:44:04 (UTC)  
+  **مدت:** حدود 20.1 دقیقه  
+  **عنوان:** [Mechanisms: Vector Loop for Crank-Slider Example (S21 ME401 Class 8 part 2)](https://www.youtube.com/watch?v=5Gy_Pozu4S4)  
+  ![](https://i.ytimg.com/vi/5Gy_Pozu4S4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-19 13:38:33 (UTC)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [Mechanisms: Vector Loop Analytical Position Analysis Intro (S21 ME401 Class 8)](https://www.youtube.com/watch?v=14smhv_tepU)  
+  ![](https://i.ytimg.com/vi/14smhv_tepU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-16 17:20:44 (UTC)  
+  **مدت:** حدود 52.8 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Grashof, Inversions and Classification (S21 ME401 Class 2)](https://www.youtube.com/watch?v=dMZFsg_HS-A)  
+  ![](https://i.ytimg.com/vi/dMZFsg_HS-A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-16 17:18:33 (UTC)  
+  **مدت:** حدود 14.9 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Two Position Graphical Synthesis 2 (S21 ME401 Class 4)](https://www.youtube.com/watch?v=f6dxvIMqqgc)  
+  ![](https://i.ytimg.com/vi/f6dxvIMqqgc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-16 17:13:37 (UTC)  
+  **مدت:** حدود 14.6 دقیقه  
+  **عنوان:** [Mechanisms: Slider-Crank Vector Loop Analytical Position Analysis with Excel (S20 ME401 Class 8)](https://www.youtube.com/watch?v=iuDgs4rwlJY)  
+  ![](https://i.ytimg.com/vi/iuDgs4rwlJY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-16 17:10:54 (UTC)  
+  **مدت:** حدود 12.4 دقیقه  
+  **عنوان:** [Mechanisms: Crank-Slider Position Analysis with Excel (S20 ME401 Class 8)](https://www.youtube.com/watch?v=HSXpyhhhuNA)  
+  ![](https://i.ytimg.com/vi/HSXpyhhhuNA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-16 17:08:53 (UTC)  
+  **مدت:** حدود 19.3 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Position Analysis with Excel (S20 ME401 Class 8)](https://www.youtube.com/watch?v=SgcsNQFCD3g)  
+  ![](https://i.ytimg.com/vi/SgcsNQFCD3g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-16 17:08:42 (UTC)  
+  **مدت:** حدود 12.5 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Three Position Graphical Synthesis (S21 ME401 Class 4)](https://www.youtube.com/watch?v=ghs52_8RRpw)  
+  ![](https://i.ytimg.com/vi/ghs52_8RRpw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-16 16:56:21 (UTC)  
+  **مدت:** حدود 7.5 دقیقه  
+  **عنوان:** [Mechanisms: Four Bar Statics Example 1 (S21 ME401 Class 7)](https://www.youtube.com/watch?v=DRX52BvfZvk)  
+  ![](https://i.ytimg.com/vi/DRX52BvfZvk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-16 16:46:42 (UTC)  
+  **مدت:** حدود 29.9 دقیقه  
+  **عنوان:** [Mechanisms, Four Bar Linkage Statics Example 2 (S21 ME401 Class 7)](https://www.youtube.com/watch?v=G-I3XcT2ogQ)  
+  ![](https://i.ytimg.com/vi/G-I3XcT2ogQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-16 16:45:35 (UTC)  
+  **مدت:** حدود 26.3 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Statics Example 3 (S21 ME401 Class 7)](https://www.youtube.com/watch?v=eYTXj_KrZKM)  
+  ![](https://i.ytimg.com/vi/eYTXj_KrZKM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-16 16:35:38 (UTC)  
+  **مدت:** حدود 41.5 دقیقه  
+  **عنوان:** [S21 ME401/501 Mechanisms Class 1: Introduction, Mobility and Kinematic Diagrams](https://www.youtube.com/watch?v=IdWrlfhcuFk)  
+  ![](https://i.ytimg.com/vi/IdWrlfhcuFk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-15 00:45:00 (UTC)  
+  **مدت:** حدود 9.5 دقیقه  
+  **عنوان:** [Mechanisms: Four Bar Two-Position Coupler Output Synthesis (S21 ME401 Class 4 part 3)](https://www.youtube.com/watch?v=SiLsZsgglTw)  
+  ![](https://i.ytimg.com/vi/SiLsZsgglTw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-15 00:42:59 (UTC)  
+  **مدت:** حدود 9.5 دقیقه  
+  **عنوان:** [Mechanisms: Four Bar Two-Position Rocker Output Graphical Synthesis (S21 ME401 Class 4)](https://www.youtube.com/watch?v=W3ZRZDHPJ4M)  
+  ![](https://i.ytimg.com/vi/W3ZRZDHPJ4M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-15 00:39:08 (UTC)  
+  **مدت:** حدود 15.9 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Graphical Synthesis, Rocker Output (S21 ME401 Class 4 part 1)](https://www.youtube.com/watch?v=IXT7fCza63k)  
+  ![](https://i.ytimg.com/vi/IXT7fCza63k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-15 00:35:03 (UTC)  
+  **مدت:** حدود 38.5 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Graphical Position Analysis (S21 ME401 Class 3)](https://www.youtube.com/watch?v=eOGqlqg87QY)  
+  ![](https://i.ytimg.com/vi/eOGqlqg87QY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-15 00:26:13 (UTC)  
+  **مدت:** حدود 12.8 دقیقه  
+  **عنوان:** [Mechanisms: Straight Line Mechanisms Four-Bar Coupler Curves with Motion Gen (S21 ME401 Class 5)](https://www.youtube.com/watch?v=oryCZq16Ly8)  
+  ![](https://i.ytimg.com/vi/oryCZq16Ly8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-15 00:24:48 (UTC)  
+  **مدت:** حدود 7.7 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Coupler Curves from Atlas and Motion Gen (S21 ME401 Class 5)](https://www.youtube.com/watch?v=2ontVqP-R9A)  
+  ![](https://i.ytimg.com/vi/2ontVqP-R9A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-15 00:24:30 (UTC)  
+  **مدت:** حدود 12.8 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Coupler Curve Cognates with Motion Gen (S21 ME401 Class 5)](https://www.youtube.com/watch?v=cbKdEuJaNgo)  
+  ![](https://i.ytimg.com/vi/cbKdEuJaNgo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-15 00:23:02 (UTC)  
+  **مدت:** حدود 15.7 دقیقه  
+  **عنوان:** [Mechanisms, Four-Bar Coupler Curves with Motion Gen (S21 ME401 Class 5)](https://www.youtube.com/watch?v=07_mh2wRkdk)  
+  ![](https://i.ytimg.com/vi/07_mh2wRkdk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-15 00:21:17 (UTC)  
+  **مدت:** حدود 21.7 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Stationary Positions and Transmission Angle (S21 ME401 Class 3 Part 2)](https://www.youtube.com/watch?v=iN3NLgvLhp0)  
+  ![](https://i.ytimg.com/vi/iN3NLgvLhp0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-07-15 00:19:39 (UTC)  
+  **مدت:** حدود 35.9 دقیقه  
+  **عنوان:** [S21 ME401/501 Mechanisms Class 1: Mobility and Kinematic Diagrams part 2](https://www.youtube.com/watch?v=Ot1ovbDLriM)  
+  ![](https://i.ytimg.com/vi/Ot1ovbDLriM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:50:41 (UTC)  
+  **مدت:** حدود 26.3 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Conservation of Energy Example 1 (ES211 Class 9)](https://www.youtube.com/watch?v=g2Up6-oMR74)  
+  ![](https://i.ytimg.com/vi/g2Up6-oMR74/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:40:48 (UTC)  
+  **مدت:** حدود 16.6 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Impulse-Momentum (ES211 Class 10 Example 2)](https://www.youtube.com/watch?v=x1UA5zGfNao)  
+  ![](https://i.ytimg.com/vi/x1UA5zGfNao/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:39:16 (UTC)  
+  **مدت:** حدود 14.4 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Impulse-Momentum Example (ES211 Class 10 Example 1)](https://www.youtube.com/watch?v=FH66ocuXK0o)  
+  ![](https://i.ytimg.com/vi/FH66ocuXK0o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:38:28 (UTC)  
+  **مدت:** حدود 10.4 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Work-Energy, Example block on a cylinder, (ES211 Class 9)](https://www.youtube.com/watch?v=AVHOx73FTe0)  
+  ![](https://i.ytimg.com/vi/AVHOx73FTe0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:37:57 (UTC)  
+  **مدت:** حدود 9.9 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Power and Efficiency, Elevator (ES211 Class 9)](https://www.youtube.com/watch?v=lJ-xIE25D10)  
+  ![](https://i.ytimg.com/vi/lJ-xIE25D10/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:32:03 (UTC)  
+  **مدت:** حدود 8.3 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Work-Energy, spring and gravity example, (ES211 Class 9)](https://www.youtube.com/watch?v=tVMppI-YKgU)  
+  ![](https://i.ytimg.com/vi/tVMppI-YKgU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:29:21 (UTC)  
+  **مدت:** حدود 9.4 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Work-Energy, Block with Friction Example, (ES211 Class 8)](https://www.youtube.com/watch?v=3QQI09QIB3E)  
+  ![](https://i.ytimg.com/vi/3QQI09QIB3E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:29:05 (UTC)  
+  **مدت:** حدود 10.8 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Impulse-Momentum (ES211 Class 10 Example 4)](https://www.youtube.com/watch?v=sk3SfPXs99Y)  
+  ![](https://i.ytimg.com/vi/sk3SfPXs99Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:29:02 (UTC)  
+  **مدت:** حدود 9.2 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Work-Energy, Power and Efficiency, (ES211 Class 9)](https://www.youtube.com/watch?v=MijIs2_KE-4)  
+  ![](https://i.ytimg.com/vi/MijIs2_KE-4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:26:45 (UTC)  
+  **مدت:** حدود 11.1 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Impulse-Momentum Introduction (ES211 Class 10)](https://www.youtube.com/watch?v=n_wHsXgqxb4)  
+  ![](https://i.ytimg.com/vi/n_wHsXgqxb4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:25:46 (UTC)  
+  **مدت:** حدود 12.7 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Work-Energy, Spring Example, (ES211 Class 8)](https://www.youtube.com/watch?v=C-dM1w79288)  
+  ![](https://i.ytimg.com/vi/C-dM1w79288/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:20:26 (UTC)  
+  **مدت:** حدود 9.3 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Direct Impact, Coefficient of Restitution (ES211 Class 11)](https://www.youtube.com/watch?v=Fu7uynGCpv4)  
+  ![](https://i.ytimg.com/vi/Fu7uynGCpv4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:19:51 (UTC)  
+  **مدت:** حدود 7.5 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Work-Energy, Pendulum Example (ES211 Class 8)](https://www.youtube.com/watch?v=Ali7t4--gW4)  
+  ![](https://i.ytimg.com/vi/Ali7t4--gW4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:12:58 (UTC)  
+  **مدت:** حدود 7.5 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Impulse-Momentum (ES211 Class 10 Example 3)](https://www.youtube.com/watch?v=DEhzy1scA7I)  
+  ![](https://i.ytimg.com/vi/DEhzy1scA7I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-08 21:12:21 (UTC)  
+  **مدت:** حدود 7.7 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Impulse-Momentum (ES211 Class 10 Example 5)](https://www.youtube.com/watch?v=vFDuRHb4RL4)  
+  ![](https://i.ytimg.com/vi/vFDuRHb4RL4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 22:29:19 (UTC)  
+  **مدت:** حدود 27.6 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Work and Energy Introduction (ES211 Class 8)](https://www.youtube.com/watch?v=yKRZB12pvO0)  
+  ![](https://i.ytimg.com/vi/yKRZB12pvO0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 22:11:37 (UTC)  
+  **مدت:** حدود 7.3 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Work and Energy Example 1 (ES211 Class 8)](https://www.youtube.com/watch?v=wN5lHT8QnXg)  
+  ![](https://i.ytimg.com/vi/wN5lHT8QnXg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 18:38:10 (UTC)  
+  **مدت:** حدود 30.1 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinematics, Polar Coordinates with Transformation (ES211 Class 5 Example 2)](https://www.youtube.com/watch?v=n4NleS_DAoA)  
+  ![](https://i.ytimg.com/vi/n4NleS_DAoA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 18:24:06 (UTC)  
+  **مدت:** حدود 17.2 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Newtons 2nd Law Polar Coordinates Example (ES211 Class 7)](https://www.youtube.com/watch?v=dtsfus3RjmQ)  
+  ![](https://i.ytimg.com/vi/dtsfus3RjmQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 18:23:52 (UTC)  
+  **مدت:** حدود 16.9 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Path and Polar Coordinates (ES211 Class 7 Intro)](https://www.youtube.com/watch?v=KLDvyY605Zg)  
+  ![](https://i.ytimg.com/vi/KLDvyY605Zg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 18:17:22 (UTC)  
+  **مدت:** حدود 13.8 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Newtons 2nd Law in Path Coordinates Example (ES211 Class 7)](https://www.youtube.com/watch?v=jkNTc6oXW2Y)  
+  ![](https://i.ytimg.com/vi/jkNTc6oXW2Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 18:09:31 (UTC)  
+  **مدت:** حدود 14.9 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Newtons 2nd Law Block on a Slope Example (ES211 Class 6)](https://www.youtube.com/watch?v=2IKT8fJ5JPQ)  
+  ![](https://i.ytimg.com/vi/2IKT8fJ5JPQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 17:57:54 (UTC)  
+  **مدت:** حدود 10.2 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Newtons 2nd Law Blocks and Pulleys Example (ES211 Class 6 Example 2)](https://www.youtube.com/watch?v=XJvCCNDN4ZA)  
+  ![](https://i.ytimg.com/vi/XJvCCNDN4ZA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 17:46:59 (UTC)  
+  **مدت:** حدود 16.6 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Newtons 2nd Law Polar Coordinates Example 2 (ES211 Class 7)](https://www.youtube.com/watch?v=vsn52JXFj9Y)  
+  ![](https://i.ytimg.com/vi/vsn52JXFj9Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 17:38:22 (UTC)  
+  **مدت:** حدود 21.1 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinematics, Polar (Radial & Transverse) Coordinates Introduction (ES211 Class 5)](https://www.youtube.com/watch?v=cKpuQOHnEP4)  
+  ![](https://i.ytimg.com/vi/cKpuQOHnEP4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 17:30:44 (UTC)  
+  **مدت:** حدود 15.0 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Newtons 2nd Law Introduction (ES211 Class 6)](https://www.youtube.com/watch?v=57_JwnvFZq4)  
+  ![](https://i.ytimg.com/vi/57_JwnvFZq4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 17:12:24 (UTC)  
+  **مدت:** حدود 12.3 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinematics, Fundamental Kinematics Extra Example (ES211 Class 1)](https://www.youtube.com/watch?v=NeivsYs7B_A)  
+  ![](https://i.ytimg.com/vi/NeivsYs7B_A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 17:10:51 (UTC)  
+  **مدت:** حدود 6.0 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinetics, Newtons 2nd Law Example (ES211 Class 6 Example 3)](https://www.youtube.com/watch?v=59pERv_30W4)  
+  ![](https://i.ytimg.com/vi/59pERv_30W4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 17:00:27 (UTC)  
+  **مدت:** حدود 18.0 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinematics, Polar Coordinates with Transformation Part 2 (S19 ES211 Class 4)](https://www.youtube.com/watch?v=0xF6CoVZwVU)  
+  ![](https://i.ytimg.com/vi/0xF6CoVZwVU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-03 16:57:04 (UTC)  
+  **مدت:** حدود 14.8 دقیقه  
+  **عنوان:** [Dynamics, Particle Kinematics, Polar Coordinates with Transformation Part 1 (S19 ES211 Class 4)](https://www.youtube.com/watch?v=8MF-cZZTikE)  
+  ![](https://i.ytimg.com/vi/8MF-cZZTikE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 15:38:37 (UTC)  
+  **مدت:** حدود 13.0 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinematics, Fundamental Kinematics Case 3 Example (ES211 Class 1)](https://www.youtube.com/watch?v=qZ9kZcgh7is)  
+  ![](https://i.ytimg.com/vi/qZ9kZcgh7is/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 15:37:14 (UTC)  
+  **مدت:** حدود 11.1 دقیقه  
+  **عنوان:** [Dynamics: Particle Kinematics, Fundamental Kinematics Case 2 Example (ES211 Class 1)](https://www.youtube.com/watch?v=dMlzUxgH_ws)  
+  ![](https://i.ytimg.com/vi/dMlzUxgH_ws/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 15:29:26 (UTC)  
+  **مدت:** حدود 142.1 دقیقه  
+  **عنوان:** [Dynamics: Final Exam Review Session (S20 ES211)](https://www.youtube.com/watch?v=idhl96lUp2w)  
+  ![](https://i.ytimg.com/vi/idhl96lUp2w/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 15:11:13 (UTC)  
+  **مدت:** حدود 33.4 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Impact, Coefficient of Restitution Example (S20 ES211 Class 24)](https://www.youtube.com/watch?v=IHW2eat8P_I)  
+  ![](https://i.ytimg.com/vi/IHW2eat8P_I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 15:10:13 (UTC)  
+  **مدت:** حدود 22.9 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Work and Energy Lecture (S20 ES211 Class 22)](https://www.youtube.com/watch?v=1zEqk32OuEc)  
+  ![](https://i.ytimg.com/vi/1zEqk32OuEc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 15:08:58 (UTC)  
+  **مدت:** حدود 12.1 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Work-Energy Conservation (S20 ES211 Class 22)](https://www.youtube.com/watch?v=OomvXcJZ_O4)  
+  ![](https://i.ytimg.com/vi/OomvXcJZ_O4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 15:04:23 (UTC)  
+  **مدت:** حدود 10.9 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Work and Energy Schaum's problem 6-22 (S20 ES211 Class 22)](https://www.youtube.com/watch?v=SNPI8P3LnrQ)  
+  ![](https://i.ytimg.com/vi/SNPI8P3LnrQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 15:02:59 (UTC)  
+  **مدت:** حدود 12.2 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Work and Energy Pulley Example (S20 ES211 Class 22)](https://www.youtube.com/watch?v=qmtlmXeYvpk)  
+  ![](https://i.ytimg.com/vi/qmtlmXeYvpk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 15:02:24 (UTC)  
+  **مدت:** حدود 17.1 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Impact Collision Example 4 (S20 ES211 Class 24)](https://www.youtube.com/watch?v=yBLPMlEpx1Y)  
+  ![](https://i.ytimg.com/vi/yBLPMlEpx1Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 15:01:18 (UTC)  
+  **مدت:** حدود 18.3 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Impact Collision Example (S20 ES211 Class 24)](https://www.youtube.com/watch?v=5gfw4pS73lA)  
+  ![](https://i.ytimg.com/vi/5gfw4pS73lA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 14:53:58 (UTC)  
+  **مدت:** حدود 8.7 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Angular Impulse Momentum Example Hovercraft (S20 ES211 Class 23)](https://www.youtube.com/watch?v=sWOiwLqhkxk)  
+  ![](https://i.ytimg.com/vi/sWOiwLqhkxk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 14:52:34 (UTC)  
+  **مدت:** حدود 8.4 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics,  Impact Collision Example 3 (S20 ES211 Class 24)](https://www.youtube.com/watch?v=w1B7FuoFu6E)  
+  ![](https://i.ytimg.com/vi/w1B7FuoFu6E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 14:50:58 (UTC)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Angular Impulse Momentum Example 1 (S20 ES211 Class 23)](https://www.youtube.com/watch?v=y-8aGuUqkEo)  
+  ![](https://i.ytimg.com/vi/y-8aGuUqkEo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 14:46:25 (UTC)  
+  **مدت:** حدود 5.2 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Angular Impulse Momentum Example 3 (S20 ES211 Class 23)](https://www.youtube.com/watch?v=TfNFCDwmiSw)  
+  ![](https://i.ytimg.com/vi/TfNFCDwmiSw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-06-01 14:45:09 (UTC)  
+  **مدت:** حدود 7.4 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Work and Energy King Kong Power (S20 ES211 Class 22)](https://www.youtube.com/watch?v=W-cs19n7048)  
+  ![](https://i.ytimg.com/vi/W-cs19n7048/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 13:29:06 (UTC)  
+  **مدت:** حدود 7.3 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Newtons Second Law Example 3 (S20 ES211 Class 21)](https://www.youtube.com/watch?v=uQUYBo2ntag)  
+  ![](https://i.ytimg.com/vi/uQUYBo2ntag/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 05:32:35 (UTC)  
+  **مدت:** حدود 114.1 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics Exam Review Session (S20 ES211 Exam 3)](https://www.youtube.com/watch?v=dvGeGv4gzAA)  
+  ![](https://i.ytimg.com/vi/dvGeGv4gzAA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 05:24:30 (UTC)  
+  **مدت:** حدود 51.4 دقیقه  
+  **عنوان:** [Mechanisms: Exam 2 Review Session (S20 ME401)](https://www.youtube.com/watch?v=rQvYz-Lw05A)  
+  ![](https://i.ytimg.com/vi/rQvYz-Lw05A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 05:18:40 (UTC)  
+  **مدت:** حدود 27.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Welding Example 2 (S20 ME470 Class 21)](https://www.youtube.com/watch?v=i7d35wU1xmE)  
+  ![](https://i.ytimg.com/vi/i7d35wU1xmE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 05:17:38 (UTC)  
+  **مدت:** حدود 73.0 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Exam 2 Review (S20 ME470)](https://www.youtube.com/watch?v=WdiG7_C5x7Q)  
+  ![](https://i.ytimg.com/vi/WdiG7_C5x7Q/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 05:06:55 (UTC)  
+  **مدت:** حدود 26.9 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Welding Intro (S20 ME470 Class 21)](https://www.youtube.com/watch?v=L_cmQPnqq9s)  
+  ![](https://i.ytimg.com/vi/L_cmQPnqq9s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 05:03:25 (UTC)  
+  **مدت:** حدود 27.6 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Newtons Second Law Example 1 (S20 ES211 Class 21)](https://www.youtube.com/watch?v=JEbBWRZOVqw)  
+  ![](https://i.ytimg.com/vi/JEbBWRZOVqw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 05:02:57 (UTC)  
+  **مدت:** حدود 17.3 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Eccentrically Loaded Bolted Joint Example 2 (S20 ME470 Class 20)](https://www.youtube.com/watch?v=XEr_ojd2VHk)  
+  ![](https://i.ytimg.com/vi/XEr_ojd2VHk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 04:58:53 (UTC)  
+  **مدت:** حدود 21.9 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Bolted Lapped Joint Example (S20 ME470 Class 19)](https://www.youtube.com/watch?v=EFDL_5FbeDQ)  
+  ![](https://i.ytimg.com/vi/EFDL_5FbeDQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 04:56:15 (UTC)  
+  **مدت:** حدود 21.6 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Newtons Second Law Example 2 (S20 ES211 Class 21)](https://www.youtube.com/watch?v=Arp2ie7E9JE)  
+  ![](https://i.ytimg.com/vi/Arp2ie7E9JE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 04:54:40 (UTC)  
+  **مدت:** حدود 24.4 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Welding Lecture Part 2 (S20 ME470 Class 21)](https://www.youtube.com/watch?v=vB6U1KDn9_c)  
+  ![](https://i.ytimg.com/vi/vB6U1KDn9_c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 04:48:51 (UTC)  
+  **مدت:** حدود 21.4 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Eccentrically Loaded Welded Joint (S20 ME470 Class 22)](https://www.youtube.com/watch?v=OYg8F9cQgKI)  
+  ![](https://i.ytimg.com/vi/OYg8F9cQgKI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 04:30:30 (UTC)  
+  **مدت:** حدود 36.0 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Eccentrically Loaded Bolted Joint Example 2 (S20 ME470 Class 20)](https://www.youtube.com/watch?v=XiVKeqGqf8o)  
+  ![](https://i.ytimg.com/vi/XiVKeqGqf8o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 04:26:25 (UTC)  
+  **مدت:** حدود 22.3 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Eccentrically Loaded Bolted Joint Example 1 (S20 ME470 Class 20)](https://www.youtube.com/watch?v=d-cFlH--kss)  
+  ![](https://i.ytimg.com/vi/d-cFlH--kss/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 04:22:22 (UTC)  
+  **مدت:** حدود 7.7 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Newtons Second Law Lecture Part 2 (S20 ES211 Class 21)](https://www.youtube.com/watch?v=m2kPdt86mK4)  
+  ![](https://i.ytimg.com/vi/m2kPdt86mK4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 04:05:27 (UTC)  
+  **مدت:** حدود 14.4 دقیقه  
+  **عنوان:** [Mechanisms: Vector Loop Acceleration Example 1 (S20 ME401 Class 19)](https://www.youtube.com/watch?v=oXRc3XxRrzE)  
+  ![](https://i.ytimg.com/vi/oXRc3XxRrzE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 03:59:41 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [Mechanisms: Inverted Slider-Crank Acceleration (Coriolis) (S20 ME401 Class 19)](https://www.youtube.com/watch?v=hgIDU5LD8YA)  
+  ![](https://i.ytimg.com/vi/hgIDU5LD8YA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 03:56:21 (UTC)  
+  **مدت:** حدود 25.2 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Lapped Bolted Joints Intro (S20 ME470 Class 19)](https://www.youtube.com/watch?v=5yNke4iiM7M)  
+  ![](https://i.ytimg.com/vi/5yNke4iiM7M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 00:19:53 (UTC)  
+  **مدت:** حدود 57.5 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Bolts - Preloaded Bolted Joints (S20 ME470 Class 18)](https://www.youtube.com/watch?v=q9W22A65vaI)  
+  ![](https://i.ytimg.com/vi/q9W22A65vaI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 00:14:34 (UTC)  
+  **مدت:** حدود 25.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Power Screw Example 2 (S20 ME470 Class 17)](https://www.youtube.com/watch?v=QB2XBORh6bg)  
+  ![](https://i.ytimg.com/vi/QB2XBORh6bg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 00:13:03 (UTC)  
+  **مدت:** حدود 26.4 دقیقه  
+  **عنوان:** [Mechanisms Crank Slider Acceleration Analysis Vector Loop and Excel Example (S20 ME401 Class 18)](https://www.youtube.com/watch?v=l2yNEb3Yuzk)  
+  ![](https://i.ytimg.com/vi/l2yNEb3Yuzk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 00:07:43 (UTC)  
+  **مدت:** حدود 28.9 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Acceleration Analysis Example by several methods (S20 ME401 Class 18)](https://www.youtube.com/watch?v=tMV3kWkaeas)  
+  ![](https://i.ytimg.com/vi/tMV3kWkaeas/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-26 00:01:07 (UTC)  
+  **مدت:** حدود 23.9 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Preloaded Bolted Joint Example 1 (S20 ME470 Class 18)](https://www.youtube.com/watch?v=hA81RdQjjVg)  
+  ![](https://i.ytimg.com/vi/hA81RdQjjVg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:56:44 (UTC)  
+  **مدت:** حدود 20.4 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Newton's Second Law Example 4 (S20 ES211 Class 20)](https://www.youtube.com/watch?v=cB0MyFK80e8)  
+  ![](https://i.ytimg.com/vi/cB0MyFK80e8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:52:41 (UTC)  
+  **مدت:** حدود 23.1 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Bolts - Nomenclature and Power Screws Intro (S20 ME470 Class 17)](https://www.youtube.com/watch?v=SG2wQrxM5Mc)  
+  ![](https://i.ytimg.com/vi/SG2wQrxM5Mc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:50:00 (UTC)  
+  **مدت:** حدود 13.5 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Newton's Second Law Example 2 (S20 ES211 Class 20)](https://www.youtube.com/watch?v=ua11jnC1B6s)  
+  ![](https://i.ytimg.com/vi/ua11jnC1B6s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:45:44 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [Dynamics, Rigid Body Kinetics, Newton's Second Law Example 1 (S20 ES211 Class 20)](https://www.youtube.com/watch?v=ZUPDMAIWtxY)  
+  ![](https://i.ytimg.com/vi/ZUPDMAIWtxY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:44:55 (UTC)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Newton's Second Law Example 3 (S20 ES211 Class 20)](https://www.youtube.com/watch?v=iqxxO6RDdQA)  
+  ![](https://i.ytimg.com/vi/iqxxO6RDdQA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:41:02 (UTC)  
+  **مدت:** حدود 22.6 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Thread Stress Intro (S20 ME470 Class 17)](https://www.youtube.com/watch?v=xbApHYr4nMA)  
+  ![](https://i.ytimg.com/vi/xbApHYr4nMA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:38:47 (UTC)  
+  **مدت:** حدود 6.7 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinetics, Newton's Second Law Intro (S20 ES211 Class 20)](https://www.youtube.com/watch?v=zSSvgLaTS60)  
+  ![](https://i.ytimg.com/vi/zSSvgLaTS60/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:38:46 (UTC)  
+  **مدت:** حدود 19.9 دقیقه  
+  **عنوان:** [Mechanisms: Vector Loop Acceleration Analysis (S20 ME401 Class 18)](https://www.youtube.com/watch?v=oPtUqKOIlk4)  
+  ![](https://i.ytimg.com/vi/oPtUqKOIlk4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:32:24 (UTC)  
+  **مدت:** حدود 5.4 دقیقه  
+  **عنوان:** [How to quickly make a slideshow from pdf notes](https://www.youtube.com/watch?v=uY2E7QTKAnk)  
+  ![](https://i.ytimg.com/vi/uY2E7QTKAnk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:29:08 (UTC)  
+  **مدت:** حدود 18.7 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Power Screw Friction Intro (S20 ME470 Class 17)](https://www.youtube.com/watch?v=VfNIx6l9Gmw)  
+  ![](https://i.ytimg.com/vi/VfNIx6l9Gmw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:16:13 (UTC)  
+  **مدت:** حدود 62.0 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Velocity Analysis with Excel, MATLAB & SolidWorks Motion (too long)](https://www.youtube.com/watch?v=emFJh3fUWX0)  
+  ![](https://i.ytimg.com/vi/emFJh3fUWX0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:01:53 (UTC)  
+  **مدت:** حدود 40.2 دقیقه  
+  **عنوان:** [Mechanisms: Four Bar Velocity Analysis Full Rotation with MATLAB (S20 ME401 Class 16)](https://www.youtube.com/watch?v=a3PyOk3VGNI)  
+  ![](https://i.ytimg.com/vi/a3PyOk3VGNI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 23:00:07 (UTC)  
+  **مدت:** حدود 39.1 دقیقه  
+  **عنوان:** [Mechanisms Four Bar Velocity Analysis Full Rotation with Excel (S20 ME401 Class 14/15)](https://www.youtube.com/watch?v=MOSKDg4PQqo)  
+  ![](https://i.ytimg.com/vi/MOSKDg4PQqo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 22:59:03 (UTC)  
+  **مدت:** حدود 29.3 دقیقه  
+  **عنوان:** [Mechanisms Crank Slider Velocity Analysis Full Rotation w/ Excel and SolidWorks (S20 ME401 Class 16)](https://www.youtube.com/watch?v=idj5wYBFlSg)  
+  ![](https://i.ytimg.com/vi/idj5wYBFlSg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 22:58:12 (UTC)  
+  **مدت:** حدود 31.4 دقیقه  
+  **عنوان:** [Mechanisms: Four Bar Velocity Analysis Full Rotation w/ Excel and SolidWorks (S20 ME401 Class 16)](https://www.youtube.com/watch?v=LAkg_ngCLIQ)  
+  ![](https://i.ytimg.com/vi/LAkg_ngCLIQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 22:53:20 (UTC)  
+  **مدت:** حدود 22.4 دقیقه  
+  **عنوان:** [Mechanisms: Four Bar Acceleration Analysis Example 3 (S20 ME401 Class 17)](https://www.youtube.com/watch?v=rcL0f-yAgi8)  
+  ![](https://i.ytimg.com/vi/rcL0f-yAgi8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 22:44:40 (UTC)  
+  **مدت:** حدود 34.0 دقیقه  
+  **عنوان:** [Mechanisms: Inverted-Slider-Crank Velocity Analysis w Excel Full Rotation (S20 ME401 Class 14/15)](https://www.youtube.com/watch?v=JcYeRW7SNxI)  
+  ![](https://i.ytimg.com/vi/JcYeRW7SNxI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 22:37:41 (UTC)  
+  **مدت:** حدود 20.7 دقیقه  
+  **عنوان:** [Mechanisms: Four Bar Velocity Analysis with Excel and SolidWorks Motion part 2 (S20 ME401 Class 16)](https://www.youtube.com/watch?v=CyjwEqTPbw0)  
+  ![](https://i.ytimg.com/vi/CyjwEqTPbw0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 22:29:20 (UTC)  
+  **مدت:** حدود 12.0 دقیقه  
+  **عنوان:** [Mechanisms: Four Bar Velocity Analysis Full Rotation with Excel part 1 (S20 ME401 Class 16)](https://www.youtube.com/watch?v=CkBCbpTrCN8)  
+  ![](https://i.ytimg.com/vi/CkBCbpTrCN8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 22:15:20 (UTC)  
+  **مدت:** حدود 13.1 دقیقه  
+  **عنوان:** [Mechanisms: Crank Slider Velocity Analysis Full Rotation with MATLAB (S20 ME401 Class 16)](https://www.youtube.com/watch?v=ADLDJaMKMyI)  
+  ![](https://i.ytimg.com/vi/ADLDJaMKMyI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 22:11:48 (UTC)  
+  **مدت:** حدود 21.8 دقیقه  
+  **عنوان:** [Mechanisms: Crank Slider Velocity Analysis Full Rotation with Excel (S20 ME401 Class 14/15)](https://www.youtube.com/watch?v=5tjfBV6K5ZU)  
+  ![](https://i.ytimg.com/vi/5tjfBV6K5ZU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 22:07:09 (UTC)  
+  **مدت:** حدود 15.6 دقیقه  
+  **عنوان:** [Mechanisms: Dynamics Acceleration Review (S20 ME401 Class 17)](https://www.youtube.com/watch?v=l94loqvP9N4)  
+  ![](https://i.ytimg.com/vi/l94loqvP9N4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 22:03:39 (UTC)  
+  **مدت:** حدود 12.2 دقیقه  
+  **عنوان:** [Mechanisms: Dynamics Acceleration Review Example 1 Crank Slider (S20 ME401 Class 17)](https://www.youtube.com/watch?v=3KztNDDmYN8)  
+  ![](https://i.ytimg.com/vi/3KztNDDmYN8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 22:01:20 (UTC)  
+  **مدت:** حدود 19.2 دقیقه  
+  **عنوان:** [Mechanisms: Slider-Crank Velocity Analysis Norton Example 6-9 (S20 ME401 Class 14/15)](https://www.youtube.com/watch?v=ZAmy0ak2Fqg)  
+  ![](https://i.ytimg.com/vi/ZAmy0ak2Fqg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 21:52:57 (UTC)  
+  **مدت:** حدود 7.1 دقیقه  
+  **عنوان:** [Mechanisms: Dynamics Acceleration Review Four-Bar Example (S20 ME401 Class 17)](https://www.youtube.com/watch?v=JnM0m6DC3-4)  
+  ![](https://i.ytimg.com/vi/JnM0m6DC3-4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 21:42:49 (UTC)  
+  **مدت:** حدود 13.8 دقیقه  
+  **عنوان:** [Mechanisms: Inverted Slider-Crank Velocity Analysis Example (S20 ME401 Class 14/15)](https://www.youtube.com/watch?v=rkjcUjhKlbk)  
+  ![](https://i.ytimg.com/vi/rkjcUjhKlbk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 21:31:08 (UTC)  
+  **مدت:** حدود 12.8 دقیقه  
+  **عنوان:** [Mechanisms: Crank-Slider Velocity Analysis Vector Loop Norton Example 6-8 (S20 ME401 Class 14/15)](https://www.youtube.com/watch?v=PSG5pCAnMIY)  
+  ![](https://i.ytimg.com/vi/PSG5pCAnMIY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 21:29:48 (UTC)  
+  **مدت:** حدود 22.9 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Velocity Analysis Vector Loop Norton Example 6-7  (S20 ME401 Class 14/15)](https://www.youtube.com/watch?v=cbh-R_WeHhg)  
+  ![](https://i.ytimg.com/vi/cbh-R_WeHhg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 21:19:54 (UTC)  
+  **مدت:** حدود 9.0 دقیقه  
+  **عنوان:** [Mechanisms: Inverted Crank-Slider Velocity Analysis Introduction (S20 ME401 Class 14)](https://www.youtube.com/watch?v=RA_O4sfmiRc)  
+  ![](https://i.ytimg.com/vi/RA_O4sfmiRc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 21:18:25 (UTC)  
+  **مدت:** حدود 5.7 دقیقه  
+  **عنوان:** [Mechanisms: Slider-Crank Velocity Analysis Vector Loop (S20 ME401 Class 14)](https://www.youtube.com/watch?v=3r-x1ilVb0k)  
+  ![](https://i.ytimg.com/vi/3r-x1ilVb0k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 21:17:26 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [Mechanisms: Crank-Slider Velocity Analysis Vector Loop (S20 ME401 Class 14)](https://www.youtube.com/watch?v=SzgxhbAlk6E)  
+  ![](https://i.ytimg.com/vi/SzgxhbAlk6E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:42:20 (UTC)  
+  **مدت:** حدود 41.5 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Flywheel Examples (S20 ME470 Class 16)](https://www.youtube.com/watch?v=Hp5Yssf_oj8)  
+  ![](https://i.ytimg.com/vi/Hp5Yssf_oj8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:40:49 (UTC)  
+  **مدت:** حدود 46.7 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Clutches, Brakes and Flywheels Intro (S20 ME470 Class 15)](https://www.youtube.com/watch?v=eMvbePrsT34)  
+  ![](https://i.ytimg.com/vi/eMvbePrsT34/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:39:33 (UTC)  
+  **مدت:** حدود 33.8 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Disk Brake Example (S20 ME470 Class 16)](https://www.youtube.com/watch?v=XdFBOjJkUUw)  
+  ![](https://i.ytimg.com/vi/XdFBOjJkUUw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:36:14 (UTC)  
+  **مدت:** حدود 38.6 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Band Brakes (S20 ME470 Class 16)](https://www.youtube.com/watch?v=Z7ywLnKOOoo)  
+  ![](https://i.ytimg.com/vi/Z7ywLnKOOoo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:32:56 (UTC)  
+  **مدت:** حدود 22.4 دقیقه  
+  **عنوان:** [Mechanisms: Four-Bar Velocity Analysis Vector Loop Introduction (S20 ME401 Class 14)](https://www.youtube.com/watch?v=qMD9dTfp85c)  
+  ![](https://i.ytimg.com/vi/qMD9dTfp85c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:29:27 (UTC)  
+  **مدت:** حدود 15.9 دقیقه  
+  **عنوان:** [Mechanisms: Dynamics Review Crank-Slider Velocity Example (S20 ME401 Class 13)](https://www.youtube.com/watch?v=YXpc-0Pe0d8)  
+  ![](https://i.ytimg.com/vi/YXpc-0Pe0d8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:25:19 (UTC)  
+  **مدت:** حدود 20.1 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Internal Drum Brake Example (S20 ME470 Class 15)](https://www.youtube.com/watch?v=nojTDY7cYcA)  
+  ![](https://i.ytimg.com/vi/nojTDY7cYcA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:24:10 (UTC)  
+  **مدت:** حدود 8.0 دقیقه  
+  **عنوان:** [Mechanisms: Dynamics Review Four-Bar Velocity Analysis Example (S20 ME401 Class 13)](https://www.youtube.com/watch?v=x4s4QtOUKC4)  
+  ![](https://i.ytimg.com/vi/x4s4QtOUKC4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:23:26 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) External Drum Brake Example (S20 ME470 Class 15)](https://www.youtube.com/watch?v=5ChJamB9pik)  
+  ![](https://i.ytimg.com/vi/5ChJamB9pik/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:23:26 (UTC)  
+  **مدت:** حدود 18.5 دقیقه  
+  **عنوان:** [Mechanisms: Dynamics Review Velocity Analysis Introduction (S20 ME401 Class 13)](https://www.youtube.com/watch?v=DLB1xGjtH44)  
+  ![](https://i.ytimg.com/vi/DLB1xGjtH44/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:23:25 (UTC)  
+  **مدت:** حدود 28.8 دقیقه  
+  **عنوان:** [Dynamics: Center of Mass and Mass Moment of Inertia by parts Example (S20 ES211 Class 19)](https://www.youtube.com/watch?v=k26mUUIh-5w)  
+  ![](https://i.ytimg.com/vi/k26mUUIh-5w/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:22:09 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Band Brake Example (S20 ME470 Class 16)](https://www.youtube.com/watch?v=pHSkAdtGVsQ)  
+  ![](https://i.ytimg.com/vi/pHSkAdtGVsQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:19:34 (UTC)  
+  **مدت:** حدود 21.0 دقیقه  
+  **عنوان:** [Dynamics: Mass Moment of Inertia by Parts Example 2 (S20 ES211 Class 19)](https://www.youtube.com/watch?v=U1EFJfQCjN0)  
+  ![](https://i.ytimg.com/vi/U1EFJfQCjN0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:14:07 (UTC)  
+  **مدت:** حدود 7.9 دقیقه  
+  **عنوان:** [Mechanisms: Dynamics Review Velocity Analysis Vector Triangles Example (S20 ME401 Class 13)](https://www.youtube.com/watch?v=lHuA8L2Q9WY)  
+  ![](https://i.ytimg.com/vi/lHuA8L2Q9WY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:10:06 (UTC)  
+  **مدت:** حدود 5.7 دقیقه  
+  **عنوان:** [Mechanisms: Dynamics Review Velocity Analysis ICR Method Example (S20 ME401 Class 13)](https://www.youtube.com/watch?v=J4rkSYv3zjU)  
+  ![](https://i.ytimg.com/vi/J4rkSYv3zjU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:08:57 (UTC)  
+  **مدت:** حدود 7.2 دقیقه  
+  **عنوان:** [Mechanisms: Dynamics Review Velocity Analysis Vector Math Example (S20 ME401 Class 13)](https://www.youtube.com/watch?v=hdG8VRoCALM)  
+  ![](https://i.ytimg.com/vi/hdG8VRoCALM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:08:48 (UTC)  
+  **مدت:** حدود 7.0 دقیقه  
+  **عنوان:** [Mechanisms Dynamics Review Velocity Analysis Three Diagram Method Example (S20 ME401 Class 13)](https://www.youtube.com/watch?v=wRUK-ZaonHU)  
+  ![](https://i.ytimg.com/vi/wRUK-ZaonHU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 18:03:22 (UTC)  
+  **مدت:** حدود 27.5 دقیقه  
+  **عنوان:** [Dynamics: Center of Mass and Mass Moment of Inertia Introduction (S20 ES211 Class 19)](https://www.youtube.com/watch?v=fGzT_zMzua4)  
+  ![](https://i.ytimg.com/vi/fGzT_zMzua4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 17:58:49 (UTC)  
+  **مدت:** حدود 14.6 دقیقه  
+  **عنوان:** [Dynamics: Mass Moment of Inertia by Integration Example (S20 ES211 Class 19)](https://www.youtube.com/watch?v=zwhmA2z_KgU)  
+  ![](https://i.ytimg.com/vi/zwhmA2z_KgU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 17:54:21 (UTC)  
+  **مدت:** حدود 32.1 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics, Coriolis Acceleration Example 3 (S20 ES211 Class 18)](https://www.youtube.com/watch?v=seCIe7xNIeM)  
+  ![](https://i.ytimg.com/vi/seCIe7xNIeM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 17:07:05 (UTC)  
+  **مدت:** حدود 44.5 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics, Acceleration Example 2 (S20 ES211 Class 17)](https://www.youtube.com/watch?v=TsoAWOIFRZM)  
+  ![](https://i.ytimg.com/vi/TsoAWOIFRZM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 17:06:14 (UTC)  
+  **مدت:** حدود 25.9 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics, Acceleration Example 4 (S20 ES211 Class 17)](https://www.youtube.com/watch?v=si9Fu6I3CBI)  
+  ![](https://i.ytimg.com/vi/si9Fu6I3CBI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 17:03:42 (UTC)  
+  **مدت:** حدود 7.5 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics, Coriolis Acceleration Example 2 (S20 ES211 Class 18)](https://www.youtube.com/watch?v=I61VQiNZ1ic)  
+  ![](https://i.ytimg.com/vi/I61VQiNZ1ic/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 17:03:17 (UTC)  
+  **مدت:** حدود 10.2 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics, Coriolis Acceleration Introduction (S20 ES211 Class 18)](https://www.youtube.com/watch?v=fCoWd7ZCuTg)  
+  ![](https://i.ytimg.com/vi/fCoWd7ZCuTg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 17:02:28 (UTC)  
+  **مدت:** حدود 8.6 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics, Coriolis Acceleration Example 1 (S20 ES211 Class 18)](https://www.youtube.com/watch?v=iSLDCmWdLoU)  
+  ![](https://i.ytimg.com/vi/iSLDCmWdLoU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 17:02:08 (UTC)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics, Acceleration Example 3 (S20 ES211 Class 17)](https://www.youtube.com/watch?v=VTOGXFzYUfI)  
+  ![](https://i.ytimg.com/vi/VTOGXFzYUfI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 16:48:05 (UTC)  
+  **مدت:** حدود 19.2 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics, Acceleration Example 3 (S20 ES211 Class 16)](https://www.youtube.com/watch?v=BFLPhYTPNQE)  
+  ![](https://i.ytimg.com/vi/BFLPhYTPNQE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 16:47:13 (UTC)  
+  **مدت:** حدود 9.9 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics, Acceleration Example 1 (S20 ES211 Class 17)](https://www.youtube.com/watch?v=kwnqNIwGdas)  
+  ![](https://i.ytimg.com/vi/kwnqNIwGdas/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 16:45:17 (UTC)  
+  **مدت:** حدود 13.6 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics, Acceleration Example 2 (S20 ES211 Class 16)](https://www.youtube.com/watch?v=JXe3So-6itk)  
+  ![](https://i.ytimg.com/vi/JXe3So-6itk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 16:43:35 (UTC)  
+  **مدت:** حدود 22.9 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics, Acceleration Example 1 part 2 Three Diagrams (S20 ES211 Class 16)](https://www.youtube.com/watch?v=pvoOxHKtAWU)  
+  ![](https://i.ytimg.com/vi/pvoOxHKtAWU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 16:07:25 (UTC)  
+  **مدت:** حدود 25.6 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics, Acceleration Introduction (S20 ES211 Class 16)](https://www.youtube.com/watch?v=AQ-Ugs9BxYg)  
+  ![](https://i.ytimg.com/vi/AQ-Ugs9BxYg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 16:06:32 (UTC)  
+  **مدت:** حدود 23.2 دقیقه  
+  **عنوان:** [Dynamics, Rigid Body Kinematics, ICR Example 3 (S20 ES211 Class 15)](https://www.youtube.com/watch?v=XEVndGGXKsc)  
+  ![](https://i.ytimg.com/vi/XEVndGGXKsc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 16:05:35 (UTC)  
+  **مدت:** حدود 20.1 دقیقه  
+  **عنوان:** [Dynamics, Rigid Body Kinematics, Acceleration Example 1 part 1 Vector Math (S20 ES211 Class 16)](https://www.youtube.com/watch?v=kzOMxD24pBE)  
+  ![](https://i.ytimg.com/vi/kzOMxD24pBE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 16:00:38 (UTC)  
+  **مدت:** حدود 24.7 دقیقه  
+  **عنوان:** [Dynamics: Rigid Body Kinematics - Rotational Motion Introduction and Example (S20 ES211 Class 13)](https://www.youtube.com/watch?v=ZJL3r34v6_M)  
+  ![](https://i.ytimg.com/vi/ZJL3r34v6_M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 15:59:18 (UTC)  
+  **مدت:** حدود 22.0 دقیقه  
+  **عنوان:** [Dynamics, Rigid Body Kinematics, Instantaneous Center of Rotation Introduction (S20 ES211 Class 15)](https://www.youtube.com/watch?v=sUv-iiTAOO0)  
+  ![](https://i.ytimg.com/vi/sUv-iiTAOO0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 15:57:14 (UTC)  
+  **مدت:** حدود 14.4 دقیقه  
+  **عنوان:** [Dynamics, Rigid Body Kinematics, ICR Example 1 (S20 ES211 Class 15)](https://www.youtube.com/watch?v=z50CiGdbABg)  
+  ![](https://i.ytimg.com/vi/z50CiGdbABg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 15:51:15 (UTC)  
+  **مدت:** حدود 11.0 دقیقه  
+  **عنوان:** [Dynamics, Rigid Body Kinematics, ICR Example 2 (S20 ES211 Class 15)](https://www.youtube.com/watch?v=bTo32f1GGH8)  
+  ![](https://i.ytimg.com/vi/bTo32f1GGH8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 15:48:27 (UTC)  
+  **مدت:** حدود 26.8 دقیقه  
+  **عنوان:** [Dynamics, Rigid Body Kinematics, Velocity Example 2 part 2 (S20 ES211 Class 14)](https://www.youtube.com/watch?v=HTMBwEoDmLs)  
+  ![](https://i.ytimg.com/vi/HTMBwEoDmLs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 15:40:23 (UTC)  
+  **مدت:** حدود 14.6 دقیقه  
+  **عنوان:** [Dynamics, Rigid Body Kinematics, Velocity Example 3 (S20 ES211 Class 14)](https://www.youtube.com/watch?v=MgI_O2BCwow)  
+  ![](https://i.ytimg.com/vi/MgI_O2BCwow/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 15:39:58 (UTC)  
+  **مدت:** حدود 11.0 دقیقه  
+  **عنوان:** [Dynamics, Rigid Body Kinematics, Velocity Example 4 (S20 ES211 Class 14)](https://www.youtube.com/watch?v=bGoZjMopL0Y)  
+  ![](https://i.ytimg.com/vi/bGoZjMopL0Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 15:38:54 (UTC)  
+  **مدت:** حدود 21.6 دقیقه  
+  **عنوان:** [Dynamics, Rigid Body Kinematics, Velocity Example 2 part 1 (S20 ES211 Class 14)](https://www.youtube.com/watch?v=AOMFEiFdXQ0)  
+  ![](https://i.ytimg.com/vi/AOMFEiFdXQ0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 15:32:23 (UTC)  
+  **مدت:** حدود 28.0 دقیقه  
+  **عنوان:** [Mechanical Design (Machine Design) Exam 1 Solution (S20 ME470)](https://www.youtube.com/watch?v=r2SNCYr2ViE)  
+  ![](https://i.ytimg.com/vi/r2SNCYr2ViE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 15:26:53 (UTC)  
+  **مدت:** حدود 11.5 دقیقه  
+  **عنوان:** [Dynamics, Rigid Body Kinematics, Velocity Example 1 (S20 ES211 Class 14)](https://www.youtube.com/watch?v=yTutv078O0g)  
+  ![](https://i.ytimg.com/vi/yTutv078O0g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 15:26:07 (UTC)  
+  **مدت:** حدود 20.9 دقیقه  
+  **عنوان:** [Dynamics, Rigid Body Kinematics, Velocity Introduction (S20 ES211 Class 14)](https://www.youtube.com/watch?v=BJPrZeGY9xk)  
+  ![](https://i.ytimg.com/vi/BJPrZeGY9xk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 15:18:12 (UTC)  
+  **مدت:** حدود 17.0 دقیقه  
+  **عنوان:** [Mechanisms Exam 1 Solution Overview (S20 ME401)](https://www.youtube.com/watch?v=EiH1L79pmiY)  
+  ![](https://i.ytimg.com/vi/EiH1L79pmiY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-05-25 15:16:57 (UTC)  
+  **مدت:** حدود 18.2 دقیقه  
+  **عنوان:** [Dynamics, Particle Kinetics, Exam 2 Solution Overview (S20 ES211)](https://www.youtube.com/watch?v=SxrtZmMeCTQ)  
+  ![](https://i.ytimg.com/vi/SxrtZmMeCTQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-02-02 15:10:15 (UTC)  
+  **مدت:** حدود 19.0 دقیقه  
+  **عنوان:** [Dynamics Companion Class 24: Rigid Body Kinetics, Impact of Rigid Bodies](https://www.youtube.com/watch?v=UQM63BnoJtU)  
+  ![](https://i.ytimg.com/vi/UQM63BnoJtU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-02-02 14:07:41 (UTC)  
+  **مدت:** حدود 19.7 دقیقه  
+  **عنوان:** [Dynamics Companion Class 23: Rigid Body Kinetics, Impulse-Momentum](https://www.youtube.com/watch?v=rLlW8DCNG4I)  
+  ![](https://i.ytimg.com/vi/rLlW8DCNG4I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-02-02 02:53:30 (UTC)  
+  **مدت:** حدود 17.0 دقیقه  
+  **عنوان:** [Dynamics Companion Class 22: Rigid Body Kinetics, Energy Methods](https://www.youtube.com/watch?v=XPSb08hhoQQ)  
+  ![](https://i.ytimg.com/vi/XPSb08hhoQQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-02-02 02:25:56 (UTC)  
+  **مدت:** حدود 18.2 دقیقه  
+  **عنوان:** [Dynamics Companion Class 21: Rigid Body Kinetics, Newtons 2nd Law, Translation and Rotation](https://www.youtube.com/watch?v=TP71bpYVj9g)  
+  ![](https://i.ytimg.com/vi/TP71bpYVj9g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-02-02 01:34:12 (UTC)  
+  **مدت:** حدود 20.3 دقیقه  
+  **عنوان:** [Dynamics Companion Class 20: Rigid Body Kinetics, Newtons 2nd Law, Constrained Motion](https://www.youtube.com/watch?v=9R6_VNV9i7c)  
+  ![](https://i.ytimg.com/vi/9R6_VNV9i7c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-28 18:03:27 (UTC)  
+  **مدت:** حدود 29.1 دقیقه  
+  **عنوان:** [Dynamics Companion Class 19: Rigid Body Kinetics, Mass Moment of Inertia](https://www.youtube.com/watch?v=EoNCPAofLYY)  
+  ![](https://i.ytimg.com/vi/EoNCPAofLYY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-28 16:54:54 (UTC)  
+  **مدت:** حدود 15.0 دقیقه  
+  **عنوان:** [Dynamics Companion Class 18: Rigid Body Kinematics, Coriolis Acceleration Analysis](https://www.youtube.com/watch?v=BEOXA1QriIA)  
+  ![](https://i.ytimg.com/vi/BEOXA1QriIA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-28 05:12:45 (UTC)  
+  **مدت:** حدود 32.7 دقیقه  
+  **عنوان:** [Dynamics Companion Class 17: Rigid Body Kinematics, Acceleration Analysis (Part 2)](https://www.youtube.com/watch?v=OLzRH6AvPu8)  
+  ![](https://i.ytimg.com/vi/OLzRH6AvPu8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-28 00:37:43 (UTC)  
+  **مدت:** حدود 30.2 دقیقه  
+  **عنوان:** [Dynamics Companion Class 16: Rigid Body Kinematics, Acceleration Analysis (Part 1)](https://www.youtube.com/watch?v=s1DMG4lXLnw)  
+  ![](https://i.ytimg.com/vi/s1DMG4lXLnw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-27 16:02:40 (UTC)  
+  **مدت:** حدود 17.2 دقیقه  
+  **عنوان:** [Dynamics Companion Class 15: Rigid Body Kinematics, Instantaneous Center of Rotation Velocity](https://www.youtube.com/watch?v=x1wSLGAL2k8)  
+  ![](https://i.ytimg.com/vi/x1wSLGAL2k8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-27 15:35:07 (UTC)  
+  **مدت:** حدود 30.2 دقیقه  
+  **عنوان:** [Dynamics Companion Class 14: Rigid Body Kinematics, Absolute and Relative Velocity Analysis](https://www.youtube.com/watch?v=FefA1XhOVj8)  
+  ![](https://i.ytimg.com/vi/FefA1XhOVj8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-27 14:36:46 (UTC)  
+  **مدت:** حدود 14.3 دقیقه  
+  **عنوان:** [Dynamics Companion Class 13: Rigid Body Kinematics, Angular (Rotational) Kinematics](https://www.youtube.com/watch?v=FX0JQMPYtnI)  
+  ![](https://i.ytimg.com/vi/FX0JQMPYtnI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-27 13:25:59 (UTC)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [Dynamics Companion Class 12: Particle Kinetics, Oblique Impact](https://www.youtube.com/watch?v=waHV1ghuktI)  
+  ![](https://i.ytimg.com/vi/waHV1ghuktI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-27 06:05:04 (UTC)  
+  **مدت:** حدود 17.2 دقیقه  
+  **عنوان:** [Dynamics Companion Class 11: Particle Kinetics, Direct Impact](https://www.youtube.com/watch?v=96gL_myCHdg)  
+  ![](https://i.ytimg.com/vi/96gL_myCHdg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-27 01:24:31 (UTC)  
+  **مدت:** حدود 13.4 دقیقه  
+  **عنوان:** [Dynamics Companion Class 10: Particle Kinetics, Impulse-Momentum Method](https://www.youtube.com/watch?v=vdcdNrDtmME)  
+  ![](https://i.ytimg.com/vi/vdcdNrDtmME/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-27 01:24:23 (UTC)  
+  **مدت:** حدود 13.1 دقیقه  
+  **عنوان:** [Dynamics Companion Class 9: Work and Energy, Conservation of Energy (Part 2)](https://www.youtube.com/watch?v=J3fciZ3eOAU)  
+  ![](https://i.ytimg.com/vi/J3fciZ3eOAU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-27 01:24:11 (UTC)  
+  **مدت:** حدود 20.7 دقیقه  
+  **عنوان:** [Dynamics Companion Class 8: Work and Energy, Conservation of Energy (Part 1)](https://www.youtube.com/watch?v=6pkngaXc8Yc)  
+  ![](https://i.ytimg.com/vi/6pkngaXc8Yc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-26 18:14:40 (UTC)  
+  **مدت:** حدود 25.8 دقیقه  
+  **عنوان:** [Dynamics Companion Class 6: Particle Kinetics, Rectangular Coordinates](https://www.youtube.com/watch?v=XZ9wi8jwe5c)  
+  ![](https://i.ytimg.com/vi/XZ9wi8jwe5c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-26 18:14:24 (UTC)  
+  **مدت:** حدود 26.1 دقیقه  
+  **عنوان:** [Dynamics Companion Class 7: Particle Kinetics, Path and Polar Coordinates](https://www.youtube.com/watch?v=UjTBAvWGfuM)  
+  ![](https://i.ytimg.com/vi/UjTBAvWGfuM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-25 03:04:59 (UTC)  
+  **مدت:** حدود 19.9 دقیقه  
+  **عنوان:** [Dynamics Companion Class 2: Particle Kinematics, 1-D Relative Motion and Dependent Motion](https://www.youtube.com/watch?v=4WZUiC9W13k)  
+  ![](https://i.ytimg.com/vi/4WZUiC9W13k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-25 00:52:34 (UTC)  
+  **مدت:** حدود 26.2 دقیقه  
+  **عنوان:** [Dynamics Companion Class 5: Particle Kinematics, Polar Coordinates](https://www.youtube.com/watch?v=k6FBk-Fw_0k)  
+  ![](https://i.ytimg.com/vi/k6FBk-Fw_0k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-25 00:52:24 (UTC)  
+  **مدت:** حدود 24.8 دقیقه  
+  **عنوان:** [Dynamics Companion Class 4: Particle Kinematics, Coordinate Transformation and Path Coordinates](https://www.youtube.com/watch?v=vr5ZudtUhD0)  
+  ![](https://i.ytimg.com/vi/vr5ZudtUhD0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-25 00:52:15 (UTC)  
+  **مدت:** حدود 23.7 دقیقه  
+  **عنوان:** [Dynamics Companion Class 3: Particle Kinematics, Rect Coord, Projectile Motion, Relative Motion](https://www.youtube.com/watch?v=0T8lhwqZ3C8)  
+  ![](https://i.ytimg.com/vi/0T8lhwqZ3C8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-25 00:51:54 (UTC)  
+  **مدت:** حدود 12.3 دقیقه  
+  **عنوان:** [Dynamics Companion Class 1: Particle Kinematics, Rectilinear Motion](https://www.youtube.com/watch?v=LfxvqVnaD08)  
+  ![](https://i.ytimg.com/vi/LfxvqVnaD08/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2021-01-25 00:51:46 (UTC)  
+  **مدت:** حدود 8.2 دقیقه  
+  **عنوان:** [Dynamics Companion Class 0: Introduction](https://www.youtube.com/watch?v=WvowYa_3OQg)  
+  ![](https://i.ytimg.com/vi/WvowYa_3OQg/hqdefault.jpg)
