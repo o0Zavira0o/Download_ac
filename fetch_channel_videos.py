@@ -39,7 +39,7 @@ CHANNELS = [
         "url": "https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q",
     },
     {
-        "url": "https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA", "num": 900,
+        "url": "https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA", "num": 1500,
         # cad cam tutorial by mahtabalam
 
     },
@@ -86,12 +86,21 @@ CHANNELS = [
         # Origami☆Man
     },
     {
-        "url": "https://www.youtube.com/c/ProfessorTedDiehl", "num": 900,
+        "url": "https://www.youtube.com/c/ProfessorTedDiehl", "num": 1400,
     },
 
     {
         "url": "https://www.youtube.com/@hwaufranc", "num": 900,
     },
+    {
+        "url": "https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ", "num": 1600,
+    },
+    {
+        "url": "https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w", "num": 300,
+        # 225uthenthawai.91
+    },
+      
+    
     
     
     
