@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en" dir="LTR" class="directionLTR">
+    <head>
+        <meta charset="utf-8">
+        <title>Page Not Found - DASAN</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Oops - Page Not Found!"/>
+        <meta name="keywords" content="error, image, picture, pic, img, hosting, sharing, upload, storage, site, website" />
+        <link href="https://dasan.co/themes/oydisk/assets/css/main.css" rel="stylesheet" type="text/css" media="all" />     
+        <link rel="icon" type="image/x-icon" href="https://dasan.co/themes/oydisk/assets/img/favicon/favicon.png" />
+        
+        <script>
+            var LOGGED_IN = false;
+        </script>
+        
+    </head>
+    <body>
+	<div id="preloader">
+        <div class="preloader-wrap">
+            <div class="preloader">
+                <i>.</i>
+                <i>.</i>
+                <i>.</i>
+            </div>
+        </div>
+    </div>
+    <header id="header" class="header-main">
+        <div id="logoAndNav" class="main-header-menu-wrap bg-transparent fixed-top clear-adblock">
+            <div class="container">
+                <nav id="menu2" class="js-mega-menu navbar navbar-expand-md header-nav">
+                    <a class="navbar-brand pt-0" href="https://dasan.co"><img style="max-height: 1.85714286em;" src="https://dasan.co/themes/oydisk/assets/images/logo/logo-whitebg.png" alt="logo"/></a>
+                    <button type="button" class="navbar-toggler btn" aria-expanded="false" aria-controls="navBar" data-toggle="collapse" data-target="#navBar">
+                        <span id="hamburgerTrigger">
+                          <span class="ti-menu"></span>
+                        </span>
+                    </button>
+                    <div id="navBar" class="collapse navbar-collapse">
+                        <ul class="navbar-nav ml-auto main-navbar-nav">
+                            <li class="nav-item custom-nav-item">
+                                <a class="nav-link custom-nav-link" href="https://dasan.co" >Home</a>
+                            </li>
+                                                        							<li class="nav-item custom-nav-item">
+                                <a class="nav-link custom-nav-link" href="https://dasan.co/upgrade" >Premium</a>
+                            </li>
+                                                        <li class="nav-item custom-nav-item">
+                                <a class="nav-link custom-nav-link" href="https://dasan.co/report-abuse">Report Abuse</a>
+                            </li>
+                            <li class="nav-item header-nav-last-item d-flex align-items-center">
+																	<a class="btn btn-brand-03 animated-btn" href="https://dasan.co/account/login"> <span class="fa fa-user pr-2"></span>Login</a>
+								                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+<div class="main">
+    <section class="ptb-120 justify-content-center full-height bg-image">
+    <div class="background-image-wraper custom-overlay" style="background: url('https://dasan.co/themes/oydisk/assets/img/pattern-1.svg') repeat center center;opacity: 1;"></div>
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+				<div class="col-md-9 col-lg-7">
+					<div class="error-content-wrap text-center text-white">
+						<div class="notfound-404">
+							<h1 class="text-white">404</h1>
+						</div>
+						<h2 class="text-white">Oops - Page Not Found!</h2>
+						<p class="lead">The link you are looking for might have been removed had its name changed or is temporarily unavailable.</p>
+						<a class="btn btn-brand-03" href="https://dasan.co">« Go back to home</a>
+					</div>
+				</div>
+			</div>
+		</div>
+</section>
+	
+</div>
+    <footer class="bg-transparent position-relative d-none d-md-block d-lg-block">
+        <div class="footer-bottom bottom-sticky-footer py-3">
+            <div class="container">
+                <div class="row align-items-center justify-content-between">
+                    <div class="col-md-5 col-lg-5">
+                        <p class="copyright-text pb-0 mb-0 text-white">Copyright &copy; 2026 - DASAN</p>
+                    </div>
+                    <div class="col-md-7 col-lg-6">
+                        <div class="social-nav text-right">
+                            <ul class="list-unstyled social-list mb-0">
+                                <li class="list-inline-item tooltip-hover"><a href="https://dasan.co/dmca"" class="rounded">DMCA</a>
+                                    <div class="tooltip-item">Copyright / Dmca</div>
+                                </li>
+                                <li class="list-inline-item tooltip-hover"><a href="https://dasan.co/terms" class="rounded">Terms Of Service</a>
+                                    <div class="tooltip-item">Terms Of Service</div>
+                                </li>
+                                <li class="list-inline-item tooltip-hover"><a href="https://dasan.co/privacy" class="rounded">Privacy Policy</a>
+                                    <div class="tooltip-item">Privacy Policy</div>
+                                </li>
+                                <li class="list-inline-item tooltip-hover"><a href="https://dasan.co/contact" class="https://dasan.co/contact">Contact</a>
+                                    <div class="tooltip-item">Contact</div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="https://dasan.co/themes/oydisk/assets/js/vendors/jquery-3.5.1.min.js"></script>
+    <script src="https://dasan.co/themes/oydisk/assets/js/vendors/popper.min.js"></script>
+    <script src="https://dasan.co/themes/oydisk/assets/js/vendors/bootstrap.min.js"></script>
+    <script src="https://dasan.co/themes/oydisk/assets/js/vendors/bootstrap-slider.min.js"></script>
+    <script src="https://dasan.co/themes/oydisk/assets/js/vendors/jquery.easing.min.js"></script>
+    <script src="https://dasan.co/themes/oydisk/assets/js/vendors/owl.carousel.min.js"></script>
+    <script src="https://dasan.co/themes/oydisk/assets/js/vendors/countdown.min.js"></script>
+    <script src="https://dasan.co/themes/oydisk/assets/js/vendors/jquery.waypoints.min.js"></script>
+    <script src="https://dasan.co/themes/oydisk/assets/js/vendors/jquery.rcounterup.js"></script>
+    <script src="https://dasan.co/themes/oydisk/assets/js/vendors/magnific-popup.min.js"></script>
+    <script src="https://dasan.co/themes/oydisk/assets/js/vendors/validator.min.js"></script>
+    <script src="https://dasan.co/themes/oydisk/assets/js/vendors/hs.megamenu.js"></script>
+    <script src="https://dasan.co/themes/oydisk/assets/js/app.js"></script>
+
+                <script>
+            $(document).ready(function() {
+                // clear the display: none on notification divs. This doesn't actually
+                // show them, just avoids the flicker on pageload is display: none isn't set.
+                $('.notification').show();
+            });
+        </script>
+    </body>
+</html>
