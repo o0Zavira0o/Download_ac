@@ -1,9 +1,17 @@
-Time: 09:53:13 (Asia/Tehran)
-Blog: hill0
+Title: Random Models in Biology, Ecology and Evolution
+Details: English | 2026 | ISBN: 3662734826 | 292 Pages | PDF (True) | 5 MB
+Link: http://zavat.pw/ebooks/3662734826.html
 
-Title: Pineal Tumors and Pineal Region Tumors
 
-Details: English | 2026 | ISBN: 3032186072 | 349 Pages | PDF EPUB (True) | 108 MB
+Title: Variable Compression Systems for Future Engines and Fuels
+Details: English | 2026 | ISBN: 008101662X ., 9781468605846 | 602 pages | True PDF EPUB | 558.73 MB
+Link: http://zavat.pw/ebooks/9781468605846.html
 
-Link: http://zavat.pw/ebooks/3032186072.html
-![Uploading image.png…]()
+Title: Zeit Magazin - 13 Mai 2026
+Details: Deutsch | 54 pages | True PDF | 7.0 MB
+Link: http://zavat.pw/magazines/ZeitMagazin13Mai2026-10897.html
+
+
+
+
+
