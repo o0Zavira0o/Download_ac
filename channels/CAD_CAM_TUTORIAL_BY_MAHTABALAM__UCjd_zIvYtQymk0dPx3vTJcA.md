@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
+_آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-05-13 03:30:37 (UTC)  
+  **مدت:** حدود 38.9 دقیقه  
+  **عنوان:** [SolidWorks Complex Tutorial Exercise-262](https://www.youtube.com/watch?v=nqAp2Iqog34)  
+  ![](https://i.ytimg.com/vi/nqAp2Iqog34/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-10 15:45:11 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
   **مدت:** حدود 51.4 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Bearing Puller in Solidworks](https://www.youtube.com/watch?v=xxgXMSw_aZY)  
   ![](https://i.ytimg.com/vi/xxgXMSw_aZY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-20 02:05:40 (UTC)  
-  **مدت:** حدود 70.6 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Backhoe in Solidworks](https://www.youtube.com/watch?v=A_-Vnm2q754)  
-  ![](https://i.ytimg.com/vi/A_-Vnm2q754/hqdefault.jpg)

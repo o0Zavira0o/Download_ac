@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
+_آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-05-13 00:30:05 (UTC)  
+  **مدت:** حدود 17.9 دقیقه  
+  **عنوان:** [【ASMR】DIY Kitty’s Burger & Ice Cream Shops | No Talking Paper Sounds | Cozy Food Street 🍔🍦🎀](https://www.youtube.com/watch?v=iXF-x70lmF4)  
+  ![](https://i.ytimg.com/vi/iXF-x70lmF4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-11 00:30:11 (UTC)  

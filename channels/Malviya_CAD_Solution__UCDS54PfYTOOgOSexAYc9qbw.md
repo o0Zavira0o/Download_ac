@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
+_آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-05-12 16:55:44 (UTC)  
+  **مدت:** حدود 1.8 دقیقه  
+  **عنوان:** [Pattern driven component pattern in solidworks assembly 😀 #shorts #ytshorts #malviyacadsolution](https://www.youtube.com/watch?v=bIYbfF1ZHxg)  
+  ![](https://i.ytimg.com/vi/bIYbfF1ZHxg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-12 06:30:15 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
   **مدت:** حدود 20.8 دقیقه  
   **عنوان:** [Solidworks advance surface modelling | Solidworks advance surface tutorial](https://www.youtube.com/watch?v=Pc4gaKPJF_k)  
   ![](https://i.ytimg.com/vi/Pc4gaKPJF_k/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-12 04:33:17 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Using Trim surface tool in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=soYAXm23DXg)  
-  ![](https://i.ytimg.com/vi/soYAXm23DXg/hqdefault.jpg)

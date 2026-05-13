@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
+_آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-05-12 14:34:26 (UTC)  
+  **مدت:** حدود 1.6 دقیقه  
+  **عنوان:** [Easy German Grammar Challenge #easygerman #germangrammar #deutschegrammatik](https://www.youtube.com/watch?v=B3KfE2XPg3c)  
+  ![](https://i.ytimg.com/vi/B3KfE2XPg3c/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-11 12:45:23 (UTC)  
@@ -398,7 +404,7 @@ _آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
 
 - **تاریخ انتشار:** 2026-03-01 18:00:21 (UTC)  
   **مدت:** حدود 13.6 دقیقه  
-  **عنوان:** [How to Say No to a German | Easy German 649](https://www.youtube.com/watch?v=NgWov1ntSh4)  
+  **عنوان:** [How to Say No in Germany | Easy German 649](https://www.youtube.com/watch?v=NgWov1ntSh4)  
   ![](https://i.ytimg.com/vi/NgWov1ntSh4/hqdefault.jpg)
 
 
@@ -722,7 +728,7 @@ _آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
 
 - **تاریخ انتشار:** 2026-01-07 18:00:43 (UTC)  
   **مدت:** حدود 15.6 دقیقه  
-  **عنوان:** [German Supermarket for Beginners | Super Easy German 295](https://www.youtube.com/watch?v=W9coIzRQGh4)  
+  **عنوان:** [Speaking Slow German in the Supermarket](https://www.youtube.com/watch?v=W9coIzRQGh4)  
   ![](https://i.ytimg.com/vi/W9coIzRQGh4/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
   **مدت:** حدود 8.8 دقیقه  
   **عنوان:** [Christmas in Switzerland | Easy Swiss German](https://www.youtube.com/watch?v=BOFAhzVia-I)  
   ![](https://i.ytimg.com/vi/BOFAhzVia-I/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2015-12-23 17:52:06 (UTC)  
-  **مدت:** حدود 2.9 دقیقه  
-  **عنوان:** [10 fake English words in German - German Basic Phrases (35)](https://www.youtube.com/watch?v=ab_4720zhcQ)  
-  ![](https://i.ytimg.com/vi/ab_4720zhcQ/hqdefault.jpg)

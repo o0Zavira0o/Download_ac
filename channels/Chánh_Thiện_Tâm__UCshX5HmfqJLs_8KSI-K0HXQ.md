@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
+_آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-13 02:38:26 (UTC)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [Vẽ chi tiết Solidworks CB](https://www.youtube.com/watch?v=v5FaAD6Nj6k)  
+  ![](https://i.ytimg.com/vi/v5FaAD6Nj6k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-12 11:39:57 (UTC)  
+  **مدت:** حدود 2.1 دقیقه  
+  **عنوان:** [Vẽ cánh quạt solidworks](https://www.youtube.com/watch?v=WfkB3fezqXk)  
+  ![](https://i.ytimg.com/vi/WfkB3fezqXk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-12 00:50:36 (UTC)  

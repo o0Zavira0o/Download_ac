@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
+_آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-05-12 13:00:24 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [다꾸 ASMR 앨리스(Alice) Scrapbooking](https://www.youtube.com/watch?v=QktIDJVtHvo)  
+  ![](https://i.ytimg.com/vi/QktIDJVtHvo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-11 14:10:28 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
   **مدت:** حدود 6.3 دقیقه  
   **عنوان:** [ASMR 빈티지 종이를 찢어서 붙이는 레이어드 다꾸 📕 Journaling Relaxing Sounds デコ手帳 | 화유프랑](https://www.youtube.com/watch?v=Vkr2DacfiSY)  
   ![](https://i.ytimg.com/vi/Vkr2DacfiSY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-02 13:59:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [펭귄 테마 다꾸 🐧2-2 #journaling #asmr #journalasmr](https://www.youtube.com/watch?v=vrAs3_bb_oY)  
-  ![](https://i.ytimg.com/vi/vrAs3_bb_oY/hqdefault.jpg)

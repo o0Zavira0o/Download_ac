@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
+_آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-05-13 04:58:09 (UTC)  
+  **مدت:** حدود 25.5 دقیقه  
+  **عنوان:** [Dump Truck Model Assembly Design in Solidworks](https://www.youtube.com/watch?v=C1C8xsSaVbk)  
+  ![](https://i.ytimg.com/vi/C1C8xsSaVbk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-08 14:50:46 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅Will This DIY Perpetual Motion Toy ACTUALLY Work?](https://www.youtube.com/watch?v=wHWbD17x0WI)  
   ![](https://i.ytimg.com/vi/wHWbD17x0WI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-05 11:55:54 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Why Tricycles Are The Future Of Transport](https://www.youtube.com/watch?v=V0W8UTtn-Yw)  
-  ![](https://i.ytimg.com/vi/V0W8UTtn-Yw/hqdefault.jpg)

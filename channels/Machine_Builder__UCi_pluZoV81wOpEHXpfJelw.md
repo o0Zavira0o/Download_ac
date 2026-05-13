@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Machine Builder
 
-_آخرین به‌روزرسانی: 2026-05-12T11:26:58Z_
+_آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
 
 
 **لینک استاندارد کانال:** [Machine Builder](https://www.youtube.com/channel/UCi_pluZoV81wOpEHXpfJelw)  
+
+
+- **تاریخ انتشار:** 2026-05-13 04:33:30 (UTC)  
+  **مدت:** حدود 103.0 دقیقه  
+  **عنوان:** [Full Process of Automated Machine Design (Part 7)](https://www.youtube.com/watch?v=OTGV21E7TtA)  
+  ![](https://i.ytimg.com/vi/OTGV21E7TtA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-05 07:46:32 (UTC)  
