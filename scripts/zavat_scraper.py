@@ -51,6 +51,7 @@ CONTENT_PREFIXES = [
     "/tvseries/",
     "/anime/",
     "/video/",
+    "/Nachrichten/",
 ]
 
 # تصویرهایی که احتمالا بنر/حمایت/لوگو هستند
