@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Orion Jacobson 
 
-_آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
+_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
 
 
 **لینک استاندارد کانال:** [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)  
+
+
+- **تاریخ انتشار:** 2026-05-13 17:05:33 (UTC)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [sneak peek - stay tuned boys #rc #automobile #rccar #engineering](https://www.youtube.com/watch?v=CRuktLTvYno)  
+  ![](https://i.ytimg.com/vi/CRuktLTvYno/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-13 17:04:48 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [you already know boys. it's getting there #automobile #rc #rccar #engineering](https://www.youtube.com/watch?v=fHEiKhOOStQ)  
+  ![](https://i.ytimg.com/vi/fHEiKhOOStQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-12 06:34:29 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [good deed for the day #lizard](https://www.youtube.com/watch?v=VK6QwukvHuc)  
   ![](https://i.ytimg.com/vi/VK6QwukvHuc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-02-23 18:19:35 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [BRO😳 🧊🧊🪦 #ice #icefishing](https://www.youtube.com/watch?v=fHOjPrV4Dvw)  
-  ![](https://i.ytimg.com/vi/fHOjPrV4Dvw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-02-23 00:19:36 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Only the most bard out activities  #automobile #skiing](https://www.youtube.com/watch?v=_vB9YUD6mmk)  
-  ![](https://i.ytimg.com/vi/_vB9YUD6mmk/hqdefault.jpg)

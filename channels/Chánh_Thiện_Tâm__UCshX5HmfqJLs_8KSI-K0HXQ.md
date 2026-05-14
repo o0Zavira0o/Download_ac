@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
+_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-14 09:48:36 (UTC)  
+  **مدت:** حدود 12.8 دقیقه  
+  **عنوان:** [Vẽ khay inox solidworks](https://www.youtube.com/watch?v=GLkwTqrMFgA)  
+  ![](https://i.ytimg.com/vi/GLkwTqrMFgA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-14 01:55:08 (UTC)  
+  **مدت:** حدود 4.4 دقیقه  
+  **عنوان:** [Vẽ 2d Creo parametric cơ bản](https://www.youtube.com/watch?v=TmWB3aMPghM)  
+  ![](https://i.ytimg.com/vi/TmWB3aMPghM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-13 12:52:30 (UTC)  
+  **مدت:** حدود 3.1 دقیقه  
+  **عنوان:** [Vẽ nhẫn solidworks](https://www.youtube.com/watch?v=ShOVJ2-F7J0)  
+  ![](https://i.ytimg.com/vi/ShOVJ2-F7J0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-13 02:38:26 (UTC)  

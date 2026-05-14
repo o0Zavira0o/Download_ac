@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
+_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-05-13 17:00:35 (UTC)  
+  **مدت:** حدود 18.8 دقیقه  
+  **عنوان:** [17 Reflexive Verbs you need to know…](https://www.youtube.com/watch?v=PndEIjybgb0)  
+  ![](https://i.ytimg.com/vi/PndEIjybgb0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-12 14:34:26 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
   **مدت:** حدود 10.9 دقیقه  
   **عنوان:** [Christmas with Cari's family | Easy German 121](https://www.youtube.com/watch?v=robbpJT6hr0)  
   ![](https://i.ytimg.com/vi/robbpJT6hr0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2015-12-24 18:08:14 (UTC)  
-  **مدت:** حدود 8.8 دقیقه  
-  **عنوان:** [Christmas in Switzerland | Easy Swiss German](https://www.youtube.com/watch?v=BOFAhzVia-I)  
-  ![](https://i.ytimg.com/vi/BOFAhzVia-I/hqdefault.jpg)

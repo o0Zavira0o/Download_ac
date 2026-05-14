@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
+_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-05-14 01:26:21 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [1분다꾸 ASMR Scrapbooking🐞 #shorts](https://www.youtube.com/watch?v=rAj4PskZwhc)  
+  ![](https://i.ytimg.com/vi/rAj4PskZwhc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-13 12:45:28 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [1분다꾸 ASMR Scrapbooking #shorts](https://www.youtube.com/watch?v=re_As-vRrL0)  
+  ![](https://i.ytimg.com/vi/re_As-vRrL0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-12 13:00:24 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-05-13T11:35:42Z_
   **مدت:** حدود 10.5 دقیقه  
   **عنوان:** [[10분순삭] 미니, 패스포트, 오리지널 아트 다꾸 쇼츠 몰아보기 Journaling Relaxing Sounds 다꾸 ASMR](https://www.youtube.com/watch?v=2r2yj8b2l0k)  
   ![](https://i.ytimg.com/vi/2r2yj8b2l0k/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-04 13:03:00 (UTC)  
-  **مدت:** حدود 8.7 دقیقه  
-  **عنوان:** [다꾸ASMR 새 다꾸템 뜯어서 다이어리 꾸미기 💖 Journaling Relaxing Sounds デコ手帳 | 화유프랑](https://www.youtube.com/watch?v=t_kMCHFL2IM)  
-  ![](https://i.ytimg.com/vi/t_kMCHFL2IM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-03 13:00:30 (UTC)  
-  **مدت:** حدود 6.3 دقیقه  
-  **عنوان:** [ASMR 빈티지 종이를 찢어서 붙이는 레이어드 다꾸 📕 Journaling Relaxing Sounds デコ手帳 | 화유프랑](https://www.youtube.com/watch?v=Vkr2DacfiSY)  
-  ![](https://i.ytimg.com/vi/Vkr2DacfiSY/hqdefault.jpg)
