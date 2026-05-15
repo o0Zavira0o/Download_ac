@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
+_آخرین به‌روزرسانی: 2026-05-15T11:29:16Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-05-15 00:30:26 (UTC)  
+  **مدت:** حدود 7.0 دقیقه  
+  **عنوان:** [【ASMR】DIY Healthy Juice Shop 🍓 | Kitty Sticker Scene | No Talking Relaxing Sounds](https://www.youtube.com/watch?v=E8qvj5JJ2TQ)  
+  ![](https://i.ytimg.com/vi/E8qvj5JJ2TQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-13 00:30:05 (UTC)  

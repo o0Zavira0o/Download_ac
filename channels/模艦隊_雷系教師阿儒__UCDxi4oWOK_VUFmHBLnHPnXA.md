@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
+_آخرین به‌روزرسانی: 2026-05-15T11:29:16Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-05-15 11:00:59 (UTC)  
+  **مدت:** حدود 12.5 دقیقه  
+  **عنوان:** [【onshape】腳本(自訂功能)介紹：Profile Sweeper、Multi Mirror｜感謝國外大神](https://www.youtube.com/watch?v=gRo0MEO32NU)  
+  ![](https://i.ytimg.com/vi/gRo0MEO32NU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-13 11:00:04 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
   **مدت:** حدود 11.4 دقیقه  
   **عنوان:** [【onshape】偏移曲面+曲面除料｜必學組合拳](https://www.youtube.com/watch?v=NwAYMTOMdpc)  
   ![](https://i.ytimg.com/vi/NwAYMTOMdpc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-03-26 11:00:27 (UTC)  
-  **مدت:** حدود 12.9 دقیقه  
-  **عنوان:** [【solidworks】Model Mania 2024練習題 第2階段｜模型組態｜加入拔模](https://www.youtube.com/watch?v=KvteXbbaDew)  
-  ![](https://i.ytimg.com/vi/KvteXbbaDew/hqdefault.jpg)

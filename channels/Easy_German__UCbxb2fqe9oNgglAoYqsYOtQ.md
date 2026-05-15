@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
+_آخرین به‌روزرسانی: 2026-05-15T11:29:16Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-05-15 09:44:11 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Kosmetikabteilung #easygerman #drogeriemarkt #cosmetics #studygerman #deutschlernen #shorts](https://www.youtube.com/watch?v=4U_52vkkxYQ)  
+  ![](https://i.ytimg.com/vi/4U_52vkkxYQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-13 17:00:35 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [Expressions for something being awesome - German Basic Phrases (36)](https://www.youtube.com/watch?v=Db-I7tsYcOk)  
   ![](https://i.ytimg.com/vi/Db-I7tsYcOk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2015-12-27 23:56:12 (UTC)  
-  **مدت:** حدود 10.9 دقیقه  
-  **عنوان:** [Christmas with Cari's family | Easy German 121](https://www.youtube.com/watch?v=robbpJT6hr0)  
-  ![](https://i.ytimg.com/vi/robbpJT6hr0/hqdefault.jpg)

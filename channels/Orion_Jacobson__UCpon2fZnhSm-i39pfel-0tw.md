@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Orion Jacobson 
 
-_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
+_آخرین به‌روزرسانی: 2026-05-15T11:29:16Z_
 
 
 **لینک استاندارد کانال:** [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)  
+
+
+- **تاریخ انتشار:** 2026-05-15 07:19:49 (UTC)  
+  **مدت:** حدود 2.7 دقیقه  
+  **عنوان:** [Rundown](https://www.youtube.com/watch?v=_8BGDhdYDgo)  
+  ![](https://i.ytimg.com/vi/_8BGDhdYDgo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-14 19:01:49 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [I just said yes, wasn't really thinking. was this my bad](https://www.youtube.com/watch?v=u6mx9QO-1cY)  
+  ![](https://i.ytimg.com/vi/u6mx9QO-1cY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-13 17:05:33 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [my boy is having a bad day](https://www.youtube.com/watch?v=l4PHr2tUpPo)  
   ![](https://i.ytimg.com/vi/l4PHr2tUpPo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-03-01 04:03:51 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [this lady is widen](https://www.youtube.com/watch?v=4S9n6goA-_E)  
-  ![](https://i.ytimg.com/vi/4S9n6goA-_E/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-03-01 04:02:22 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [good deed for the day #lizard](https://www.youtube.com/watch?v=VK6QwukvHuc)  
-  ![](https://i.ytimg.com/vi/VK6QwukvHuc/hqdefault.jpg)

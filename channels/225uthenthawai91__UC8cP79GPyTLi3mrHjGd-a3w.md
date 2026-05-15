@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
+_آخرین به‌روزرسانی: 2026-05-15T11:29:16Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-05-14 19:49:02 (UTC)  
+  **مدت:** حدود 9.8 دقیقه  
+  **عنوان:** [Ep.12.4 ประกอบชุด Sliding แกน Z  (Part 2)](https://www.youtube.com/watch?v=K2fFIMPO5ng)  
+  ![](https://i.ytimg.com/vi/K2fFIMPO5ng/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-11 19:19:49 (UTC)  

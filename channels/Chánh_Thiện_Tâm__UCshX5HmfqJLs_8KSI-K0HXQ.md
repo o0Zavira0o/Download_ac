@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
+_آخرین به‌روزرسانی: 2026-05-15T11:29:16Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-15 01:25:01 (UTC)  
+  **مدت:** حدود 15.6 دقیقه  
+  **عنوان:** [Vẽ cad 2d Creo Parametric](https://www.youtube.com/watch?v=VfV83_yLBmo)  
+  ![](https://i.ytimg.com/vi/VfV83_yLBmo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-14 09:48:36 (UTC)  

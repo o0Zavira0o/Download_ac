@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
+_آخرین به‌روزرسانی: 2026-05-15T11:29:16Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-05-15 03:30:00 (UTC)  
+  **مدت:** حدود 15.6 دقیقه  
+  **عنوان:** [SolidWorks Animation Tutorial-Sphere Rolling Downward Using Contact and Gravity](https://www.youtube.com/watch?v=0Kz1pwc_IuA)  
+  ![](https://i.ytimg.com/vi/0Kz1pwc_IuA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-13 03:30:37 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
   **مدت:** حدود 24.2 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Grease Niple in Solidworks](https://www.youtube.com/watch?v=HTiMg-prVmQ)  
   ![](https://i.ytimg.com/vi/HTiMg-prVmQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-21 08:32:10 (UTC)  
-  **مدت:** حدود 51.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Bearing Puller in Solidworks](https://www.youtube.com/watch?v=xxgXMSw_aZY)  
-  ![](https://i.ytimg.com/vi/xxgXMSw_aZY/hqdefault.jpg)

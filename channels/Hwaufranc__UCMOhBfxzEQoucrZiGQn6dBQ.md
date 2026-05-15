@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
+_آخرین به‌روزرسانی: 2026-05-15T11:29:16Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-05-15 08:35:10 (UTC)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [ASMR JISOO(지수) Toploader #shorts #toploader #diy #blackpink](https://www.youtube.com/watch?v=Q_IxT0hqrDY)  
+  ![](https://i.ytimg.com/vi/Q_IxT0hqrDY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-14 13:20:29 (UTC)  
+  **مدت:** حدود 2.3 دقیقه  
+  **عنوان:** [다꾸템 언박싱 ASMR Lblyxir Journal Unboxing Stationery #shorts](https://www.youtube.com/watch?v=mCZoQ5gVhgU)  
+  ![](https://i.ytimg.com/vi/mCZoQ5gVhgU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-14 01:26:21 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [Egyptian Journaling 이집트 테마 다꾸 Journal Ideas #shorts](https://www.youtube.com/watch?v=8G1MU01cOAQ)  
   ![](https://i.ytimg.com/vi/8G1MU01cOAQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-06 13:00:51 (UTC)  
-  **مدت:** حدود 1.3 دقیقه  
-  **عنوان:** [ASMR 이집트 스크랩북킹 & 다꾸 아이템 언박싱🏜️ Egyptian Journal Supplies Unboxing Sounds](https://www.youtube.com/watch?v=ue8ySiYYALY)  
-  ![](https://i.ytimg.com/vi/ue8ySiYYALY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-05 13:00:02 (UTC)  
-  **مدت:** حدود 10.5 دقیقه  
-  **عنوان:** [[10분순삭] 미니, 패스포트, 오리지널 아트 다꾸 쇼츠 몰아보기 Journaling Relaxing Sounds 다꾸 ASMR](https://www.youtube.com/watch?v=2r2yj8b2l0k)  
-  ![](https://i.ytimg.com/vi/2r2yj8b2l0k/hqdefault.jpg)

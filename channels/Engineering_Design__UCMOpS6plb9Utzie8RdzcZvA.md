@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
+_آخرین به‌روزرسانی: 2026-05-15T11:29:16Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-05-14 12:44:09 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [How to Design a Compression Spring #cad #solidworks #cadcam](https://www.youtube.com/watch?v=qkZBntdoDSQ)  
+  ![](https://i.ytimg.com/vi/qkZBntdoDSQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-13 04:58:09 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-14T11:21:56Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [Mechanical Mechanism 03 📌](https://www.youtube.com/watch?v=uck_az24uJI)  
   ![](https://i.ytimg.com/vi/uck_az24uJI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-06 12:15:53 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Will This DIY Perpetual Motion Toy ACTUALLY Work?](https://www.youtube.com/watch?v=wHWbD17x0WI)  
-  ![](https://i.ytimg.com/vi/wHWbD17x0WI/hqdefault.jpg)
