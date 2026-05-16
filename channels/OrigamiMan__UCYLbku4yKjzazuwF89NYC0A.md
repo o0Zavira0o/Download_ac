@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-05-15T11:29:16Z_
+_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-05-16 10:00:45 (UTC)  
+  **مدت:** حدود 17.6 دقیقه  
+  **عنوان:** [25,Large Origami Vase from a 70cm Sheet – No Talking ASMR　70cmの紙で立体の折り紙花瓶を作る｜無言ASMR](https://www.youtube.com/watch?v=UUXtTay3tPc)  
+  ![](https://i.ytimg.com/vi/UUXtTay3tPc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-09 10:01:24 (UTC)  

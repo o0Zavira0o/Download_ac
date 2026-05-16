@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-15T11:29:16Z_
+_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-16 01:54:31 (UTC)  
+  **مدت:** حدود 15.5 دقیقه  
+  **عنوان:** [Tiện truc C mastercam k1](https://www.youtube.com/watch?v=Pw-fklDzpaI)  
+  ![](https://i.ytimg.com/vi/Pw-fklDzpaI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-15 11:54:59 (UTC)  
+  **مدت:** حدود 3.9 دقیقه  
+  **عنوان:** [Vẽ cốc nước solidworks](https://www.youtube.com/watch?v=tZt1TrZybaQ)  
+  ![](https://i.ytimg.com/vi/tZt1TrZybaQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-15 01:25:01 (UTC)  
