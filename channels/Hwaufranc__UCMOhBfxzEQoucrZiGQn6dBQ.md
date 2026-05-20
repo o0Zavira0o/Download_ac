@@ -1,11 +1,41 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
+_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-05-20 09:00:02 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [폰케이스 diy 꾸미기 Phonecase asmr #shorts #diy꾸미기 #폰꾸](https://www.youtube.com/watch?v=RlX5o7gbmJE)  
+  ![](https://i.ytimg.com/vi/RlX5o7gbmJE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-19 13:00:00 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [New🛍 스탬프 & 스티커 테이프 asmr #다꾸템 #언박싱 #협찬 #diy꾸미기](https://www.youtube.com/watch?v=BmIo7_3xLzY)  
+  ![](https://i.ytimg.com/vi/BmIo7_3xLzY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-18 10:30:29 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [ASMR 아트 다꾸 DIY 꾸미기 #shorts #다꾸 #diy꾸미기](https://www.youtube.com/watch?v=IAIIwO06XLw)  
+  ![](https://i.ytimg.com/vi/IAIIwO06XLw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-17 14:15:09 (UTC)  
+  **مدت:** حدود 15.1 دقیقه  
+  **عنوان:** [ASMR Art Scrapbooking | Aesthetic Red&Blue flowers spread🌹 | Journal compilation](https://www.youtube.com/watch?v=mqnnmxQNcoM)  
+  ![](https://i.ytimg.com/vi/mqnnmxQNcoM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-16 13:05:16 (UTC)  
+  **مدت:** حدود 87.5 دقیقه  
+  **عنوان:** [다꾸 ASMR 1 HOUR Journaling Vintage | Sealing wax Stress Relief Paper Sounds](https://www.youtube.com/watch?v=6-mvcc3jCZE)  
+  ![](https://i.ytimg.com/vi/6-mvcc3jCZE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-15 08:35:10 (UTC)  
@@ -5376,33 +5406,3 @@ _آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [다꾸 Journaling ASMR 🫖2/2 #journaling #journal #빈티지다꾸 #nomusic #asmr](https://www.youtube.com/watch?v=MHD1v-etLnE)  
   ![](https://i.ytimg.com/vi/MHD1v-etLnE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-10 12:57:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [다꾸 Journaling ASMR 🫖1/2 #journaling #journal #빈티지다꾸 #nomusic #asmr](https://www.youtube.com/watch?v=d6Vjjo9EzkQ)  
-  ![](https://i.ytimg.com/vi/d6Vjjo9EzkQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-08 13:01:01 (UTC)  
-  **مدت:** حدود 10.1 دقیقه  
-  **عنوان:** [Green Color Journaling 빈티지 그린 색깔로 다꾸하기 asmr](https://www.youtube.com/watch?v=zylwLaxX8iQ)  
-  ![](https://i.ytimg.com/vi/zylwLaxX8iQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-07 13:20:00 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Journaling ASMR 2/2 #journaling #journal #빈티지다꾸 #nomusic #asmr](https://www.youtube.com/watch?v=jeNC1BByMzc)  
-  ![](https://i.ytimg.com/vi/jeNC1BByMzc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-07 13:19:00 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Journaling ASMR 1/2 #journaling #journal #빈티지다꾸 #nomusic #asmr](https://www.youtube.com/watch?v=EmpOBadxbsw)  
-  ![](https://i.ytimg.com/vi/EmpOBadxbsw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-07 13:18:02 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Egyptian Journaling 이집트 테마 다꾸 Journal Ideas #shorts](https://www.youtube.com/watch?v=8G1MU01cOAQ)  
-  ![](https://i.ytimg.com/vi/8G1MU01cOAQ/hqdefault.jpg)

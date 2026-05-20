@@ -1,14 +1,56 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
+_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
 
 
+- **تاریخ انتشار:** 2026-05-20 01:07:11 (UTC)  
+  **مدت:** حدود 3.2 دقیقه  
+  **عنوان:** [Vẽ quả cầu gió inox solidworks](https://www.youtube.com/watch?v=bGQJurJG0iw)  
+  ![](https://i.ytimg.com/vi/bGQJurJG0iw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-19 11:25:35 (UTC)  
+  **مدت:** حدود 9.5 دقیقه  
+  **عنوان:** [Vẽ chi tiết 3d Creo Parametric CB](https://www.youtube.com/watch?v=vGns-KtdtZo)  
+  ![](https://i.ytimg.com/vi/vGns-KtdtZo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-19 00:51:25 (UTC)  
+  **مدت:** حدود 9.2 دقیقه  
+  **عنوان:** [Tiện trục C mastercam p2](https://www.youtube.com/watch?v=yrCm6drtN1g)  
+  ![](https://i.ytimg.com/vi/yrCm6drtN1g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-18 11:45:06 (UTC)  
+  **مدت:** حدود 13.1 دقیقه  
+  **عنوان:** [Tiện trục C mastercam p1](https://www.youtube.com/watch?v=9EqVm3GdRBw)  
+  ![](https://i.ytimg.com/vi/9EqVm3GdRBw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-18 00:50:56 (UTC)  
+  **مدت:** حدود 19.4 دقیقه  
+  **عنوان:** [Vẽ ky rác solidworks](https://www.youtube.com/watch?v=KdLVk4A-878)  
+  ![](https://i.ytimg.com/vi/KdLVk4A-878/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-17 11:19:51 (UTC)  
+  **مدت:** حدود 1.6 دقیقه  
+  **عنوان:** [Vẽ trải ống gió inox solidworks](https://www.youtube.com/watch?v=jlVXLXnQPcw)  
+  ![](https://i.ytimg.com/vi/jlVXLXnQPcw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-16 11:15:21 (UTC)  
+  **مدت:** حدود 14.8 دقیقه  
+  **عنوان:** [Lập trình phay 3d creo parametric](https://www.youtube.com/watch?v=u2IOXOxlPnU)  
+  ![](https://i.ytimg.com/vi/u2IOXOxlPnU/hqdefault.jpg)
+
+
 - **تاریخ انتشار:** 2026-05-16 01:54:31 (UTC)  
   **مدت:** حدود 15.5 دقیقه  
-  **عنوان:** [Tiện truc C mastercam k1](https://www.youtube.com/watch?v=Pw-fklDzpaI)  
+  **عنوان:** [Tiện trục C mastercam](https://www.youtube.com/watch?v=Pw-fklDzpaI)  
   ![](https://i.ytimg.com/vi/Pw-fklDzpaI/hqdefault.jpg)
 
 
@@ -274,12 +316,6 @@ _آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
   **مدت:** حدود 4.9 دقیقه  
   **عنوان:** [Vẽ Solidworks Pro](https://www.youtube.com/watch?v=5m4IivS83P0)  
   ![](https://i.ytimg.com/vi/5m4IivS83P0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-23 00:35:07 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Học Solidworks Mastercam](https://www.youtube.com/watch?v=rrQTcPW_j0E)  
-  ![](https://i.ytimg.com/vi/rrQTcPW_j0E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-04-22 11:07:36 (UTC)  

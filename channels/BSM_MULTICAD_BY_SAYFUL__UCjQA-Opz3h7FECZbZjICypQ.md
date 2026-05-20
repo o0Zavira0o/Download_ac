@@ -1,9 +1,57 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
+_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-05-20 02:03:43 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 06](https://www.youtube.com/watch?v=WtelxW-0mdA)  
+  ![](https://i.ytimg.com/vi/WtelxW-0mdA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-20 01:09:43 (UTC)  
+  **مدت:** حدود 45.7 دقیقه  
+  **عنوان:** [Professional AutoCAD Architecture & Structure Course | A to Z Full Training Bangla | EP-07 |](https://www.youtube.com/watch?v=F8I9rLnewbU)  
+  ![](https://i.ytimg.com/vi/F8I9rLnewbU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-19 23:24:08 (UTC)  
+  **مدت:** حدود 12.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 08](https://www.youtube.com/watch?v=vZGJwOGVVf8)  
+  ![](https://i.ytimg.com/vi/vZGJwOGVVf8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-19 00:54:34 (UTC)  
+  **مدت:** حدود 113.7 دقیقه  
+  **عنوان:** [SketchUp Bedroom Interior Design | Complete Bangla Tutorial Step by Step](https://www.youtube.com/watch?v=Aowf4eBqvfI)  
+  ![](https://i.ytimg.com/vi/Aowf4eBqvfI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-19 00:28:32 (UTC)  
+  **مدت:** حدود 9.1 دقیقه  
+  **عنوان:** [BSM CAD Full Package Course EP 14 | AutoCAD, Estimation, SketchUp & V-Ray Complete Bangla Tutorial](https://www.youtube.com/watch?v=aHE97shPsaM)  
+  ![](https://i.ytimg.com/vi/aHE97shPsaM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-19 00:21:36 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course  Ep 08 #autocad](https://www.youtube.com/watch?v=0os4MWgJxig)  
+  ![](https://i.ytimg.com/vi/0os4MWgJxig/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-18 16:21:58 (UTC)  
+  **مدت:** حدود 19.3 دقیقه  
+  **عنوان:** [Professional AutoCAD Architecture & Structural Full Course (A to Z) | Singapore Hasan Vay | EP 09](https://www.youtube.com/watch?v=msI5nyrEJYE)  
+  ![](https://i.ytimg.com/vi/msI5nyrEJYE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-18 16:15:39 (UTC)  
+  **مدت:** حدود 55.4 دقیقه  
+  **عنوان:** [AutoCAD Full Course Bangla A to Z | Architecture + Structure Design | EP 10 |](https://www.youtube.com/watch?v=DQAk7WyoEy0)  
+  ![](https://i.ytimg.com/vi/DQAk7WyoEy0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-10 03:21:57 (UTC)  
@@ -856,51 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
   **مدت:** حدود 1.8 دقیقه  
   **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1a #excel#autocad #interiordesign #exteriordesign](https://www.youtube.com/watch?v=NgKWB-80M00)  
   ![](https://i.ytimg.com/vi/NgKWB-80M00/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-14 13:00:10 (UTC)  
-  **مدت:** حدود 48.4 دقیقه  
-  **عنوان:** [GRADE BEAM LONG SECTION AUTOCAD|BANGLA TUTORIALS|BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=7ieg9oOgsSA)  
-  ![](https://i.ytimg.com/vi/7ieg9oOgsSA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-14 10:46:14 (UTC)  
-  **مدت:** حدود 43.7 دقیقه  
-  **عنوان:** [AUTOCAD PAID COURSE BATCH 06 CLASS 12 floor plan create Bangla tutorials](https://www.youtube.com/watch?v=gsyrNE_MJ-E)  
-  ![](https://i.ytimg.com/vi/gsyrNE_MJ-E/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-14 03:00:44 (UTC)  
-  **مدت:** حدود 46.5 دقیقه  
-  **عنوان:** [FLOOR SLAB REINFORCEMENT DETAILS|BANGLA TUTORIALS|BATCH 01| REINFORCEMENT DETAILS|BSMMULTICAD|](https://www.youtube.com/watch?v=XNYcbD_olvI)  
-  ![](https://i.ytimg.com/vi/XNYcbD_olvI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-13 13:01:23 (UTC)  
-  **مدت:** حدود 32.8 دقیقه  
-  **عنوان:** [GRADE BEAM LAYOUT PLAN|LONG SECTION OF GRADE BEAM DETAILS| AS PER SCALE|BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=eX9QREHcH28)  
-  ![](https://i.ytimg.com/vi/eX9QREHcH28/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-13 03:00:16 (UTC)  
-  **مدت:** حدود 15.6 دقیقه  
-  **عنوان:** [ELEVATION CREATE BANGLA TUTORIALS](https://www.youtube.com/watch?v=7m2f4lDsSOE)  
-  ![](https://i.ytimg.com/vi/7m2f4lDsSOE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-12 06:00:14 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [UNDER GROUND WATER TANK AUTOCAD PAID COURSE BANGLA TUTORIALS |BATCH 04|EP -13F|BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=FYkTadRzfeo)  
-  ![](https://i.ytimg.com/vi/FYkTadRzfeo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-12 03:00:17 (UTC)  
-  **مدت:** حدود 57.5 دقیقه  
-  **عنوان:** [BLOCK DETAILS|SUNSHADE CREATE|ELEVATION CREATE|BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=FIJcKTkRbIE)  
-  ![](https://i.ytimg.com/vi/FIJcKTkRbIE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-12 02:00:44 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [UNDER GROUND WATER TANK AUTOCAD PAID COURSE BANGLA TUTORIALS BATCH 04 EP  13e BSMMULTICADBYSAYFUL](https://www.youtube.com/watch?v=_G8Mpwa9Tr4)  
-  ![](https://i.ytimg.com/vi/_G8Mpwa9Tr4/hqdefault.jpg)

@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
+_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-05-19 17:01:04 (UTC)  
+  **مدت:** حدود 33.7 دقیقه  
+  **عنوان:** [Are Germans Unfriendly or Just Honest?](https://www.youtube.com/watch?v=sHORtofICt0)  
+  ![](https://i.ytimg.com/vi/sHORtofICt0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-17 17:00:48 (UTC)  
+  **مدت:** حدود 15.3 دقیقه  
+  **عنوان:** [How Germans Define True Friendship](https://www.youtube.com/watch?v=dkvBJernuKE)  
+  ![](https://i.ytimg.com/vi/dkvBJernuKE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-16 20:53:04 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Sonntagsruhe 🤫 #sonntagsruhe #easygermanpodcast #deutschlernen](https://www.youtube.com/watch?v=sYAb2NzwDk4)  
+  ![](https://i.ytimg.com/vi/sYAb2NzwDk4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-15 09:44:11 (UTC)  
@@ -176,7 +194,7 @@ _آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
 
 - **تاریخ انتشار:** 2026-04-12 17:00:32 (UTC)  
   **مدت:** حدود 22.4 دقیقه  
-  **عنوان:** [We Tried German Food in Australia (Part I) | Easy German 655](https://www.youtube.com/watch?v=NqSmqiJdbJw)  
+  **عنوان:** [Trying German Food in Australia (Part I)](https://www.youtube.com/watch?v=NqSmqiJdbJw)  
   ![](https://i.ytimg.com/vi/NqSmqiJdbJw/hqdefault.jpg)
 
 
@@ -9586,21 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
   **مدت:** حدود 8.8 دقیقه  
   **عنوان:** [Cari Antwortet (25) - Weihnachtsmann oder Christkind | New Year's | Sozusagen](https://www.youtube.com/watch?v=vohZTCRxGJc)  
   ![](https://i.ytimg.com/vi/vohZTCRxGJc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-01-05 20:29:23 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Sentences you hear in Winter - German Basic Phrases (37)](https://www.youtube.com/watch?v=RadUxsOtJYw)  
-  ![](https://i.ytimg.com/vi/RadUxsOtJYw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-01-03 21:36:27 (UTC)  
-  **مدت:** حدود 7.1 دقیقه  
-  **عنوان:** [New Year's Eve in Berlin | Easy German 122](https://www.youtube.com/watch?v=N471kRB6ybY)  
-  ![](https://i.ytimg.com/vi/N471kRB6ybY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2015-12-30 09:20:11 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Expressions for something being awesome - German Basic Phrases (36)](https://www.youtube.com/watch?v=Db-I7tsYcOk)  
-  ![](https://i.ytimg.com/vi/Db-I7tsYcOk/hqdefault.jpg)

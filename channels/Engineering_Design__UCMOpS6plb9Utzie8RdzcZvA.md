@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
+_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-05-20 10:41:03 (UTC)  
+  **مدت:** حدود 17.5 دقیقه  
+  **عنوان:** [Solidworks Assembly Tutorial - Rotary to Linear Mechanism](https://www.youtube.com/watch?v=geilLg4_Y0o)  
+  ![](https://i.ytimg.com/vi/geilLg4_Y0o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-14 12:44:09 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
   **مدت:** حدود 2.4 دقیقه  
   **عنوان:** [Explore The Fascinating World of Mechanical Mechanisms](https://www.youtube.com/watch?v=xz-B-j73TiA)  
   ![](https://i.ytimg.com/vi/xz-B-j73TiA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-07 11:46:29 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Mechanical Mechanism 03 📌](https://www.youtube.com/watch?v=uck_az24uJI)  
-  ![](https://i.ytimg.com/vi/uck_az24uJI/hqdefault.jpg)

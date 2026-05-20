@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
+_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-05-20 10:30:35 (UTC)  
+  **مدت:** حدود 18.2 دقیقه  
+  **عنوان:** [【ASMR for study and sleep】DIY Kitty's Cheese & Magic Shop 🧀🔮 | Cozy Sticker Scenes | No Talking](https://www.youtube.com/watch?v=6qpOVBEnA6E)  
+  ![](https://i.ytimg.com/vi/6qpOVBEnA6E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-18 10:30:30 (UTC)  
+  **مدت:** حدود 9.6 دقیقه  
+  **عنوان:** [【ASMR】DIY Kitty's Tailor Shop ✂️🧵 | Cute Sticker Scene | No Talking Relaxing Sounds](https://www.youtube.com/watch?v=hbO8sHkJb0A)  
+  ![](https://i.ytimg.com/vi/hbO8sHkJb0A/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-15 00:30:26 (UTC)  

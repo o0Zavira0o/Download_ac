@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
+_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-05-18 03:19:07 (UTC)  
+  **مدت:** حدود 20.8 دقیقه  
+  **عنوان:** [Ep.15 ทดสอบ CNC with G Code](https://www.youtube.com/watch?v=esmbw7VW41s)  
+  ![](https://i.ytimg.com/vi/esmbw7VW41s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-17 16:25:24 (UTC)  
+  **مدت:** حدود 8.5 دقیقه  
+  **عنوان:** [Ep.14 ประกอบสว่านแท่น เตรียมตัด - เจาะรู Side Plate ตามแบบ (Modify ความสูงแกน Z)](https://www.youtube.com/watch?v=AQUFbiPEpmw)  
+  ![](https://i.ytimg.com/vi/AQUFbiPEpmw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-15 19:04:10 (UTC)  

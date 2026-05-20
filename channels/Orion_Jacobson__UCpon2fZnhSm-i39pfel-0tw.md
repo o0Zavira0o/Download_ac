@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Orion Jacobson 
 
-_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
+_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
 
 
 **لینک استاندارد کانال:** [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)  
+
+
+- **تاریخ انتشار:** 2026-05-19 01:36:28 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Deer de-terrent Model being created as we speak](https://www.youtube.com/watch?v=EOtKY0jLywE)  
+  ![](https://i.ytimg.com/vi/EOtKY0jLywE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-15 07:19:49 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [POV you retear your ACL](https://www.youtube.com/watch?v=JqGVpuyXaRQ)  
   ![](https://i.ytimg.com/vi/JqGVpuyXaRQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-03-07 15:18:17 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [my boy is having a bad day](https://www.youtube.com/watch?v=l4PHr2tUpPo)  
-  ![](https://i.ytimg.com/vi/l4PHr2tUpPo/hqdefault.jpg)

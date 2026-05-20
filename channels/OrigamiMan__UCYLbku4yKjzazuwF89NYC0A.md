@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
+_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-05-17 10:00:56 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [25- 2 Origami Vase from One Giant Sheet70cmの紙から立体花瓶が生まれる #origami #diy #paper #折り紙 #papercraft](https://www.youtube.com/watch?v=hB8HpqV5G2c)  
+  ![](https://i.ytimg.com/vi/hB8HpqV5G2c/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-16 10:00:45 (UTC)  
@@ -163,7 +169,7 @@ _آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
 
 
 - **تاریخ انتشار:** 2025-12-20 10:01:12 (UTC)  
-  **مدت:** حدود 16.3 دقیقه  
+  **مدت:** حدود 16.4 دقیقه  
   **عنوان:** [4,Quiet Origami with Japanese Chiyogami 3 Yakko & 1 Crane   No Talking 和柄千代紙で静かに折るやっこさん三つと鶴一羽 作業用](https://www.youtube.com/watch?v=iI9P7Cc6STk)  
   ![](https://i.ytimg.com/vi/iI9P7Cc6STk/hqdefault.jpg)
 

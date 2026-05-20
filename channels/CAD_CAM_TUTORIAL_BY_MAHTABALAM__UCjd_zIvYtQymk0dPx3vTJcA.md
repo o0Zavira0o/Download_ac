@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
+_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-05-19 12:24:22 (UTC)  
+  **مدت:** حدود 19.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Release Buckle Exercise Catics3D-OK02](https://www.youtube.com/watch?v=1YF6x4TSKR4)  
+  ![](https://i.ytimg.com/vi/1YF6x4TSKR4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-15 03:30:00 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
   **مدت:** حدود 90.6 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch bench vise in Solidworks | Solidworks](https://www.youtube.com/watch?v=LpvgI3-XwKw)  
   ![](https://i.ytimg.com/vi/LpvgI3-XwKw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-22 07:00:01 (UTC)  
-  **مدت:** حدود 24.2 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Grease Niple in Solidworks](https://www.youtube.com/watch?v=HTiMg-prVmQ)  
-  ![](https://i.ytimg.com/vi/HTiMg-prVmQ/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال SolidWorks With Aryan Fallahi
 
-_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
+_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
 
 
 **لینک استاندارد کانال:** [SolidWorks With Aryan Fallahi](https://www.youtube.com/channel/UCRmLnVaHsSAH0HkXfeoxG6w)  
+
+
+- **تاریخ انتشار:** 2026-05-19 21:48:36 (UTC)  
+  **مدت:** حدود 45.5 دقیقه  
+  **عنوان:** [Advanced SOLIDWORKS Assembly EP02 | Dune Buggy Project (Free Practice Parts)](https://www.youtube.com/watch?v=EIakFcnHTTc)  
+  ![](https://i.ytimg.com/vi/EIakFcnHTTc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-06 17:02:36 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [3DEXPERIENCE | Cloud Offer](https://www.youtube.com/watch?v=4jPDALDeCLo)  
   ![](https://i.ytimg.com/vi/4jPDALDeCLo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2023-07-13 17:00:41 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [3DEXPERIENCE platform login](https://www.youtube.com/watch?v=vuwPkoD83hc)  
-  ![](https://i.ytimg.com/vi/vuwPkoD83hc/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
+_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-05-19 03:09:18 (UTC)  
+  **مدت:** حدود 3.0 دقیقه  
+  **عنوان:** [Loft boss without guide curve in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=gEyjJ8QKjOU)  
+  ![](https://i.ytimg.com/vi/gEyjJ8QKjOU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-12 16:55:44 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-16T10:24:17Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [Solidworks assembly tips... Pattern Driven Component Pattern 😃 #shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=bZNhSR_M8xQ)  
   ![](https://i.ytimg.com/vi/bZNhSR_M8xQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-13 02:35:17 (UTC)  
-  **مدت:** حدود 20.8 دقیقه  
-  **عنوان:** [Solidworks advance surface modelling | Solidworks advance surface tutorial](https://www.youtube.com/watch?v=Pc4gaKPJF_k)  
-  ![](https://i.ytimg.com/vi/Pc4gaKPJF_k/hqdefault.jpg)
