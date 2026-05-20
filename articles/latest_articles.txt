@@ -1,6 +1,10 @@
-# Last Run: 2026-05-20 07:49 UTC
+# Last Run: 2026-05-20 10:56 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Doublespeak of Lebanon’s Other Shiite Leader
+Published: 2026-05-20T08:29:05+00:00
+Link: https://foreignpolicy.com/2026/05/20/lebanon-amal-hezbollah-berri-war/
+---
 [Foreign_Policy] Why Were Shots Fired in the Philippines Senate?
 Published: 2026-05-20T05:00:50+00:00
 Link: https://foreignpolicy.com/2026/05/20/philippines-senate-gunfire-duterte-marcos/
@@ -140,16 +144,4 @@ Link: https://foreignpolicy.com/2026/05/18/foreign-aid-health-care-crisis-world-
 [Foreign_Affairs] A New Order for the Gulf
 Published: 2026-05-18T04:00:00+00:00
 Link: https://www.foreignaffairs.com/iran/new-order-gulf
----
-[New_Yorker_Magazine] Can the Democrats Take Back the Senate?
-Published: 2026-05-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/can-the-democrats-take-back-the-senate
----
-[New_Yorker_Magazine] Boots Riley, Marx Brother
-Published: 2026-05-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/boots-riley-marx-brother
----
-[New_Yorker_Magazine] “The Dreamdrive,” by Weike Wang
-Published: 2026-05-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/the-dreamdrive-fiction-weike-wang
 ---
