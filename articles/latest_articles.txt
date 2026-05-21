@@ -1,6 +1,22 @@
-# Last Run: 2026-05-21 20:11 UTC
+# Last Run: 2026-05-21 23:12 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump Hasn’t Given Up on Greenland
+Published: 2026-05-21T22:00:56+00:00
+Link: https://foreignpolicy.com/2026/05/21/trump-greenland-nato-ben-gvir-israel-gaza-qatar/
+---
+[Foreign_Policy] Israeli Minister’s Taunting of Detained Flotilla Activists Sparks Foreign Backlash
+Published: 2026-05-21T20:15:05+00:00
+Link: https://foreignpolicy.com/2026/05/21/ben-gvir-video-israel-detained-activists-global-sumud-flotilla/
+---
+[Foreign_Policy] Georgia’s Dogs Are Disappearing
+Published: 2026-05-21T19:44:44+00:00
+Link: https://foreignpolicy.com/2026/05/21/georgia-dogs-government-protests-georgian-dream-russia/
+---
+[Foreign_Policy] No, Russia’s Economy Is Not About to Collapse
+Published: 2026-05-21T19:37:37+00:00
+Link: https://foreignpolicy.com/2026/05/21/russia-ukraine-war-economy-putin-tooze/
+---
 [Foreign_Policy] Donald Trump’s War on Tourism
 Published: 2026-05-21T16:18:26+00:00
 Link: https://foreignpolicy.com/2026/05/21/trump-tourism-foreign-visitors-economy-slump-border-ice-us-canada/
@@ -96,16 +112,4 @@ Link: https://www.foreignaffairs.com/hungary/orbans-fall-and-europes-rise
 [Foreign_Affairs] The Not-So-Quiet American
 Published: 2026-05-19T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/not-so-quiet-american-pope-leo
----
-[Foreign_Policy] What Happened When Trump Met Xi
-Published: 2026-05-18T21:45:02+00:00
-Link: https://foreignpolicy.com/2026/05/18/trump-xi-rana-mitter-united-states-china-taiwan-trade-economics-fp-live/
----
-[Foreign_Policy] G-7 Finance Ministers Discuss Economic Fallout of Iran War
-Published: 2026-05-18T20:42:49+00:00
-Link: https://foreignpolicy.com/2026/05/18/g7-finance-ministers-iran-war-oil-prices-bond-markets-tariffs-trump-us/
----
-[Foreign_Policy] Iran Is Winning the Vibe War
-Published: 2026-05-18T20:19:47+00:00
-Link: https://foreignpolicy.com/2026/05/18/iran-war-memes-online-trump-disinformation-propaganda-hormuz/
 ---
