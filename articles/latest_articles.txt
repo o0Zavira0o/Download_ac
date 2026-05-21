@@ -1,6 +1,10 @@
-# Last Run: 2026-05-21 03:56 UTC
+# Last Run: 2026-05-21 08:00 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The Crumbling Pillars of Global Peace
+Published: 2026-05-21T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/crumbling-pillars-global-peace
+---
 [Foreign_Policy] Pakistan’s High-Wire Act Gets Riskier
 Published: 2026-05-20T21:36:42+00:00
 Link: https://foreignpolicy.com/2026/05/20/pakistan-saudi-arabia-troops-deployment-iran-diplomacy/
@@ -168,12 +172,4 @@ Link: https://www.newyorker.com/magazine/2026/05/25/baseballs-magna-carta-finds-
 [New_Yorker_Magazine] The Human-Trafficking Victim Next Door
 Published: 2026-05-18T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/05/25/the-human-trafficking-victim-next-door
----
-[Foreign_Policy] There Is a Solution to the Global Health Care Crisis
-Published: 2026-05-18T07:00:57+00:00
-Link: https://foreignpolicy.com/2026/05/18/foreign-aid-health-care-crisis-world-assembly-organization-global-development/
----
-[Foreign_Affairs] A New Order for the Gulf
-Published: 2026-05-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/new-order-gulf
 ---
