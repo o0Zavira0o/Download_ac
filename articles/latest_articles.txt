@@ -1,4 +1,4 @@
-# Last Run: 2026-05-21 08:00 UTC
+# Last Run: 2026-05-21 11:32 UTC
 # Articles published in last 72 hours
 
 [Foreign_Affairs] The Crumbling Pillars of Global Peace
@@ -112,64 +112,4 @@ Link: https://foreignpolicy.com/2026/05/18/iran-war-trump-foreign-policy-failure
 [Foreign_Policy] The Gulf’s African Aftershocks
 Published: 2026-05-18T14:22:31+00:00
 Link: https://foreignpolicy.com/2026/05/18/gulf-africa-iran-war-fuel-hormuz-sudan-saudi-uae-oil-proxy/
----
-[Foreign_Policy] How California Politics Set the National Tone
-Published: 2026-05-18T10:27:18+00:00
-Link: https://foreignpolicy.com/2026/05/18/california-governor-primary-reagan/
----
-[New_Yorker_Magazine] The Prehistory of A.I. Slop
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/the-prehistory-of-ai-slop
----
-[New_Yorker_Magazine] Can Mozart and Salieri Work It Out?
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/can-mozart-and-salieri-work-it-out
----
-[New_Yorker_Magazine] The Age of “Intentional” Drinking
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/the-age-of-intentional-drinking
----
-[New_Yorker_Magazine] Can Hakeem Jeffries Lead a Democratic Takeover of the House?
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/can-hakeem-jeffries-lead-a-democratic-takeover-of-the-house
----
-[New_Yorker_Magazine] Realistic High-School-Yearbook Inscriptions
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/realistic-high-school-yearbook-inscriptions
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/into-the-wood-chipper-transcendence-for-beginners-paradiso-17-the-monuments-of-paris
----
-[New_Yorker_Magazine] Shaggy’s Boombastic Pilates Session
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/shaggys-boombastic-pilates-session
----
-[New_Yorker_Magazine] Chaya Czernowin Gives Voice to a Wounded World
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/chaya-czernowin-gives-voice-to-a-wounded-world
----
-[New_Yorker_Magazine] The Mystery and Mass Appeal of the N.F.L. Draft
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/the-mystery-and-mass-appeal-of-the-nfl-draft
----
-[New_Yorker_Magazine] Mary Todd Lincoln Has Long Been Derided. Is Her Reputation Salvageable?
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/an-inconvenient-widow-lois-romano-book-review
----
-[New_Yorker_Magazine] “The Angel of Retail,” by Robert Pinsky
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/the-angel-of-retail-robert-pinsky-poem
----
-[New_Yorker_Magazine] For/Against Summer, a Spell
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/for-against-summer-a-spell-valzhyna-mort-poem
----
-[New_Yorker_Magazine] Baseball’s Magna Carta Finds a New Home
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/baseballs-magna-carta-finds-a-new-home
----
-[New_Yorker_Magazine] The Human-Trafficking Victim Next Door
-Published: 2026-05-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/05/25/the-human-trafficking-victim-next-door
 ---
