@@ -1,6 +1,14 @@
-# Last Run: 2026-05-21 11:32 UTC
+# Last Run: 2026-05-21 18:05 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Donald Trump’s War on Tourism
+Published: 2026-05-21T16:18:26+00:00
+Link: https://foreignpolicy.com/2026/05/21/trump-tourism-foreign-visitors-economy-slump-border-ice-us-canada/
+---
+[Foreign_Policy] The Calls for a U.S. War on Cuba Are Getting Louder
+Published: 2026-05-21T15:22:04+00:00
+Link: https://foreignpolicy.com/2026/05/21/cuba-raul-castro-indictment-us-war-republicans-trump-rubio/
+---
 [Foreign_Affairs] The Crumbling Pillars of Global Peace
 Published: 2026-05-21T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/crumbling-pillars-global-peace
@@ -104,12 +112,4 @@ Link: https://foreignpolicy.com/2026/05/18/iran-war-memes-online-trump-disinform
 [Foreign_Policy] Ukraine Has a New War Strategy—and It’s Working
 Published: 2026-05-18T19:43:15+00:00
 Link: https://foreignpolicy.com/2026/05/18/ukraine-russia-war-strategy-attack/
----
-[Foreign_Policy] Iran Could Be Trump’s Greatest Failure
-Published: 2026-05-18T14:52:06+00:00
-Link: https://foreignpolicy.com/2026/05/18/iran-war-trump-foreign-policy-failure-energy-crisis-military/
----
-[Foreign_Policy] The Gulf’s African Aftershocks
-Published: 2026-05-18T14:22:31+00:00
-Link: https://foreignpolicy.com/2026/05/18/gulf-africa-iran-war-fuel-hormuz-sudan-saudi-uae-oil-proxy/
 ---
