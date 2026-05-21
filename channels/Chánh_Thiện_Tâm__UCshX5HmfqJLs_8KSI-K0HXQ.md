@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
+_آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-20 23:51:30 (UTC)  
+  **مدت:** حدود 10.8 دقیقه  
+  **عنوان:** [Vẽ 2d cad VERO VISI 2021](https://www.youtube.com/watch?v=811wKzvDuCg)  
+  ![](https://i.ytimg.com/vi/811wKzvDuCg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-20 12:50:06 (UTC)  
+  **مدت:** حدود 15.9 دقیقه  
+  **عنوان:** [Vẽ lập trình phay 3d Creo parametric](https://www.youtube.com/watch?v=4vn7IlRpjD0)  
+  ![](https://i.ytimg.com/vi/4vn7IlRpjD0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 01:07:11 (UTC)  

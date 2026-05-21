@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
+_آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-05-21 11:45:29 (UTC)  
+  **مدت:** حدود 196.2 دقیقه  
+  **عنوان:** [AULA 3 - IMERSÃO EM PROJETOS MECÂNICOS NO SOLIDWORKS](https://www.youtube.com/watch?v=0Kt5warJkSg)  
+  ![](https://i.ytimg.com/vi/0Kt5warJkSg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 11:45:10 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
   **مدت:** حدود 1.5 دقیقه  
   **عنوان:** [Se Inscreva para receber mais conteúdos de metalmecânica. #engenhariamecanica #solidworks](https://www.youtube.com/watch?v=uR2UuqnnsbQ)  
   ![](https://i.ytimg.com/vi/uR2UuqnnsbQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-01-06 19:52:17 (UTC)  
-  **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #solda](https://www.youtube.com/watch?v=4xJ1wYWr-wQ)  
-  ![](https://i.ytimg.com/vi/4xJ1wYWr-wQ/hqdefault.jpg)

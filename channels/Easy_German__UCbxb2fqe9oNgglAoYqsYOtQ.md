@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
+_آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-05-20 17:15:52 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Am 26. Mai geht’s los: Unsere 10 Day Grammar Challenge! #easygerman #germangrammar #grammatik](https://www.youtube.com/watch?v=ZX3N8XyhKMo)  
+  ![](https://i.ytimg.com/vi/ZX3N8XyhKMo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-19 17:01:04 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
   **مدت:** حدود 9.0 دقیقه  
   **عنوان:** [In a German Pub  | Easy German 123](https://www.youtube.com/watch?v=VcKz6Os6Dvg)  
   ![](https://i.ytimg.com/vi/VcKz6Os6Dvg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-01-08 22:47:31 (UTC)  
-  **مدت:** حدود 8.8 دقیقه  
-  **عنوان:** [Cari Antwortet (25) - Weihnachtsmann oder Christkind | New Year's | Sozusagen](https://www.youtube.com/watch?v=vohZTCRxGJc)  
-  ![](https://i.ytimg.com/vi/vohZTCRxGJc/hqdefault.jpg)

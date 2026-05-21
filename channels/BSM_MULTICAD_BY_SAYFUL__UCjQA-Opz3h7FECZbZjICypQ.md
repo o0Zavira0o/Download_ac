@@ -1,9 +1,39 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
+_آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-05-21 00:27:06 (UTC)  
+  **مدت:** حدود 25.9 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 05](https://www.youtube.com/watch?v=9zWPzfE1Mrc)  
+  ![](https://i.ytimg.com/vi/9zWPzfE1Mrc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-21 00:02:55 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 05](https://www.youtube.com/watch?v=D5ID42j4p8s)  
+  ![](https://i.ytimg.com/vi/D5ID42j4p8s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-20 23:39:09 (UTC)  
+  **مدت:** حدود 18.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 06](https://www.youtube.com/watch?v=l12JYnNKXOc)  
+  ![](https://i.ytimg.com/vi/l12JYnNKXOc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-20 16:50:34 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 06](https://www.youtube.com/watch?v=nO1IU86sdKo)  
+  ![](https://i.ytimg.com/vi/nO1IU86sdKo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-20 16:05:02 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 06](https://www.youtube.com/watch?v=qKkWGRmNa_I)  
+  ![](https://i.ytimg.com/vi/qKkWGRmNa_I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 02:03:43 (UTC)  
@@ -874,33 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-20T11:55:54Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1e #autocadcivil #excel #autocad](https://www.youtube.com/watch?v=ymHHzbmFsmE)  
   ![](https://i.ytimg.com/vi/ymHHzbmFsmE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-15 06:00:05 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1d #excel #autocadcivil #autocad](https://www.youtube.com/watch?v=amufJoh3s4I)  
-  ![](https://i.ytimg.com/vi/amufJoh3s4I/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-15 03:01:07 (UTC)  
-  **مدت:** حدود 57.5 دقیقه  
-  **عنوان:** [AUTOCAD PAID COURSE BANGLA TUTORIALS |BATCH-04|BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=vpvUEjPmAls)  
-  ![](https://i.ytimg.com/vi/vpvUEjPmAls/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-15 02:00:54 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1c #excel#autocad #interiordesign #extraterrestrial](https://www.youtube.com/watch?v=r3Tv6giMmeA)  
-  ![](https://i.ytimg.com/vi/r3Tv6giMmeA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-14 22:00:38 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1b #excel#autocad #interiordesign #exteriordesign](https://www.youtube.com/watch?v=cq6YATt4hE8)  
-  ![](https://i.ytimg.com/vi/cq6YATt4hE8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-14 18:00:24 (UTC)  
-  **مدت:** حدود 1.8 دقیقه  
-  **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1a #excel#autocad #interiordesign #exteriordesign](https://www.youtube.com/watch?v=NgKWB-80M00)  
-  ![](https://i.ytimg.com/vi/NgKWB-80M00/hqdefault.jpg)
