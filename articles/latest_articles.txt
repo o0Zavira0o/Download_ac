@@ -1,4 +1,4 @@
-# Last Run: 2026-05-21 18:05 UTC
+# Last Run: 2026-05-21 20:11 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Donald Trump’s War on Tourism
@@ -108,8 +108,4 @@ Link: https://foreignpolicy.com/2026/05/18/g7-finance-ministers-iran-war-oil-pri
 [Foreign_Policy] Iran Is Winning the Vibe War
 Published: 2026-05-18T20:19:47+00:00
 Link: https://foreignpolicy.com/2026/05/18/iran-war-memes-online-trump-disinformation-propaganda-hormuz/
----
-[Foreign_Policy] Ukraine Has a New War Strategy—and It’s Working
-Published: 2026-05-18T19:43:15+00:00
-Link: https://foreignpolicy.com/2026/05/18/ukraine-russia-war-strategy-attack/
 ---
