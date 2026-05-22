@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
+_آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-22 11:25:41 (UTC)  
+  **مدت:** حدود 15.1 دقیقه  
+  **عنوان:** [Lập trình phay 3d VISI 2021](https://www.youtube.com/watch?v=FZu4THiJ2Og)  
+  ![](https://i.ytimg.com/vi/FZu4THiJ2Og/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-22 01:04:11 (UTC)  
+  **مدت:** حدود 5.2 دقیقه  
+  **عنوان:** [Phay 4 trục mastercam pro](https://www.youtube.com/watch?v=nJxuXM28gbA)  
+  ![](https://i.ytimg.com/vi/nJxuXM28gbA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-21 12:54:39 (UTC)  
+  **مدت:** حدود 1.6 دقیقه  
+  **عنوان:** [Vẽ sắt mỹ thuật solidworks](https://www.youtube.com/watch?v=yhIPHiQvmXw)  
+  ![](https://i.ytimg.com/vi/yhIPHiQvmXw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 23:51:30 (UTC)  

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
+_آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-05-22 02:41:41 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [SOLIDWORKS Intersection Curve: Beginner vs. EXPERT Level](https://www.youtube.com/watch?v=rlM2JzhmLHg)  
+  ![](https://i.ytimg.com/vi/rlM2JzhmLHg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 10:41:03 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅Mechanical Mechanism 4 📌 #mechanical #mechanism #animation](https://www.youtube.com/watch?v=egIqjFhw0mc)  
   ![](https://i.ytimg.com/vi/egIqjFhw0mc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-08 12:05:47 (UTC)  
-  **مدت:** حدود 2.4 دقیقه  
-  **عنوان:** [Explore The Fascinating World of Mechanical Mechanisms](https://www.youtube.com/watch?v=xz-B-j73TiA)  
-  ![](https://i.ytimg.com/vi/xz-B-j73TiA/hqdefault.jpg)

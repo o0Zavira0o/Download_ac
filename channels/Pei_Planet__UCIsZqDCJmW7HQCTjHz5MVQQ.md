@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
+_آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-05-22 10:30:06 (UTC)  
+  **مدت:** حدود 9.8 دقیقه  
+  **عنوان:** [【ASMR】DIY Kitty's Christmas Gift Shop 🐱🎄🎁 | Cozy Sticker Scene | No Talking](https://www.youtube.com/watch?v=h5MViazf3w0)  
+  ![](https://i.ytimg.com/vi/h5MViazf3w0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 10:30:35 (UTC)  

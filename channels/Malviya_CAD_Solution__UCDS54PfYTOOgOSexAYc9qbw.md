@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
+_آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-05-22 02:51:03 (UTC)  
+  **مدت:** حدود 1.8 دقیقه  
+  **عنوان:** [Shortcut for fillet in solidworks 😀 #shorts #ytshorts #malviyacadsolution #solidworks](https://www.youtube.com/watch?v=xTPyjyWboZg)  
+  ![](https://i.ytimg.com/vi/xTPyjyWboZg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-19 03:09:18 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
   **مدت:** حدود 0.8 دقیقه  
   **عنوان:** [Solidworks filled surface feature #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=H4QFfSg_4-E)  
   ![](https://i.ytimg.com/vi/H4QFfSg_4-E/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-15 04:49:06 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [Solidworks assembly tips... Pattern Driven Component Pattern 😃 #shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=bZNhSR_M8xQ)  
-  ![](https://i.ytimg.com/vi/bZNhSR_M8xQ/hqdefault.jpg)

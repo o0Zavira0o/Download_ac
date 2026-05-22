@@ -1,11 +1,29 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
+_آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-05-22 07:45:26 (UTC)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Satisfying Owl Journal Book asmr🦉 #shorts #stationery](https://www.youtube.com/watch?v=jglPLdW-jmU)  
+  ![](https://i.ytimg.com/vi/jglPLdW-jmU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-21 15:26:26 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [Unboxing Craft Box asmr CoraCreaCrafts🌻 #shorts](https://www.youtube.com/watch?v=cXUdUAGGrck)  
+  ![](https://i.ytimg.com/vi/cXUdUAGGrck/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-21 13:00:12 (UTC)  
+  **مدت:** حدود 77.2 دقیقه  
+  **عنوان:** [ASMR 아트느낌 테마 다이어리 꾸미기 1시간 컬렉션 Journal | 실링왁스, 다꾸 diy 꾸미기](https://www.youtube.com/watch?v=MCIMTQXhLfY)  
+  ![](https://i.ytimg.com/vi/MCIMTQXhLfY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 09:00:02 (UTC)  
@@ -5388,21 +5406,3 @@ _آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [다꾸 Journaling With Washi Tape🕊️ #journaling #다꾸 #shorts #asmr #다꾸템](https://www.youtube.com/watch?v=KNTFja8vtpM)  
   ![](https://i.ytimg.com/vi/KNTFja8vtpM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-11 12:58:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [빈티지 다꾸 ASMR 2/2 #journaling #journal #빈티지다꾸 #nomusic #asmr](https://www.youtube.com/watch?v=NQEffYQlcFM)  
-  ![](https://i.ytimg.com/vi/NQEffYQlcFM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-11 12:57:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [빈티지 다꾸 ASMR 1/2 #journaling #journal #빈티지다꾸 #nomusic #asmr](https://www.youtube.com/watch?v=8sPvQ8eCvG0)  
-  ![](https://i.ytimg.com/vi/8sPvQ8eCvG0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-10 12:58:00 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [다꾸 Journaling ASMR 🫖2/2 #journaling #journal #빈티지다꾸 #nomusic #asmr](https://www.youtube.com/watch?v=MHD1v-etLnE)  
-  ![](https://i.ytimg.com/vi/MHD1v-etLnE/hqdefault.jpg)

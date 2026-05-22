@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
+_آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-05-21 18:50:23 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Was mögen alle, du aber nicht? #unpopulär #easygerman #berlin #deutschlernen](https://www.youtube.com/watch?v=PB-oyVmZuFo)  
+  ![](https://i.ytimg.com/vi/PB-oyVmZuFo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 17:15:52 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-21T12:24:25Z_
   **مدت:** حدود 10.3 دقیقه  
   **عنوان:** [Learning German with Music | Easy German 124](https://www.youtube.com/watch?v=loJO4wLCZIQ)  
   ![](https://i.ytimg.com/vi/loJO4wLCZIQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-01-10 22:22:42 (UTC)  
-  **مدت:** حدود 9.0 دقیقه  
-  **عنوان:** [In a German Pub  | Easy German 123](https://www.youtube.com/watch?v=VcKz6Os6Dvg)  
-  ![](https://i.ytimg.com/vi/VcKz6Os6Dvg/hqdefault.jpg)
