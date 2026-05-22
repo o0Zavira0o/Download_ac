@@ -1,13 +1,49 @@
-# Last Run: 2026-05-22 07:50 UTC
+# Last Run: 2026-05-22 17:58 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Xi’s Flurry of Post-Trump Diplomacy
+Published: 2026-05-22T16:52:49+00:00
+Link: https://foreignpolicy.com/2026/05/22/xi-north-korea-putin-trump-beijing-visit/
+---
+[Foreign_Policy] China’s Fallen Generals Are Getting Unexpectedly Harsh Punishments
+Published: 2026-05-22T13:54:20+00:00
+Link: https://foreignpolicy.com/2026/05/22/china-xi-jinping-purge-generals-punishment-death-sentence/
+---
+[Foreign_Policy] Is the United States on the Verge of Military Intervention in Cuba?
+Published: 2026-05-22T13:11:08+00:00
+Link: https://foreignpolicy.com/2026/05/22/cuba-war-trump-united-states-castro-indictment/
+---
+[Foreign_Policy] No Limits, No Good Options
+Published: 2026-05-22T12:53:49+00:00
+Link: https://foreignpolicy.com/2026/05/22/russia-china-meeting-xi-putin-gas-oil-asymmetry/
+---
+[Foreign_Policy] Violence Looms Over Colombia’s Election
+Published: 2026-05-22T12:00:51+00:00
+Link: https://foreignpolicy.com/2026/05/22/colombia-election-president-violence-insecurity-petro/
+---
+[Foreign_Policy] Geopolitical Chaos is Wrecking Pandemic Agreements
+Published: 2026-05-22T10:00:22+00:00
+Link: https://foreignpolicy.com/2026/05/22/hantavirus-who-cruise-ship-outbreak-ebola-congo-trump-cdc-vaccine-inequality-geopolitics/
+---
+[Foreign_Policy] How the West Misreads Modi’s Success
+Published: 2026-05-22T04:01:32+00:00
+Link: https://foreignpolicy.com/2026/05/22/modi-india-europe-democracy-elections-bjp-economy-western-policy/
+---
 [Foreign_Policy] How the West Misreads Modi’s Success
 Published: 2026-05-22T04:01:32+00:00
 Link: https://foreignpolicy.com/2026/05/22/west-modi-india-democracy-elections/
 ---
 [Foreign_Policy] Why the Quad Was Doomed From the Start
 Published: 2026-05-22T04:01:07+00:00
+Link: https://foreignpolicy.com/2026/05/22/quad-marco-rubio-visit-security-india-china-australia-japan-united-states/
+---
+[Foreign_Policy] Why the Quad Was Doomed From the Start
+Published: 2026-05-22T04:01:07+00:00
 Link: https://foreignpolicy.com/2026/05/22/quad-rubio-india-china/
+---
+[Foreign_Affairs] Hormuz Is a Warning for the Indo-Pacific
+Published: 2026-05-22T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/hormuz-warning-indo-pacific
 ---
 [Foreign_Affairs] The Coming Contest for Asia’s Waterways
 Published: 2026-05-22T04:00:00+00:00
@@ -100,16 +136,4 @@ Link: https://foreignpolicy.com/2026/05/19/putin-xi-jinping-china-talks-oil-gas-
 [Foreign_Policy] Washington Might Be Ready to Bargain With Beijing
 Published: 2026-05-19T19:14:29+00:00
 Link: https://foreignpolicy.com/2026/05/19/trump-xi-summit-china-relationship-trade-strategy/
----
-[Foreign_Policy] Can Armenia’s Democracy Prevail?
-Published: 2026-05-19T17:08:21+00:00
-Link: https://foreignpolicy.com/2026/05/19/armenia-election-democracy-pashinyan-europe-trump/
----
-[Foreign_Policy] Three Concrete Steps to Advance Palestinian Freedom
-Published: 2026-05-19T16:02:47+00:00
-Link: https://foreignpolicy.com/2026/05/19/palestine-israel-washington-biden-trump-netanyahu-west-bank-gaza/
----
-[Foreign_Policy] The World Keeps Asking Iran the Wrong Question
-Published: 2026-05-19T08:34:53+00:00
-Link: https://foreignpolicy.com/2026/05/19/iran-politics-strategy-war-sanctions-hormuz/
 ---
