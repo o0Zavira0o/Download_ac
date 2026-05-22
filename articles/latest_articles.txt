@@ -1,6 +1,18 @@
-# Last Run: 2026-05-22 03:51 UTC
+# Last Run: 2026-05-22 07:50 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How the West Misreads Modi’s Success
+Published: 2026-05-22T04:01:32+00:00
+Link: https://foreignpolicy.com/2026/05/22/west-modi-india-democracy-elections/
+---
+[Foreign_Policy] Why the Quad Was Doomed From the Start
+Published: 2026-05-22T04:01:07+00:00
+Link: https://foreignpolicy.com/2026/05/22/quad-rubio-india-china/
+---
+[Foreign_Affairs] The Coming Contest for Asia’s Waterways
+Published: 2026-05-22T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/coming-contest-asias-waterways
+---
 [Foreign_Policy] Trump Hasn’t Given Up on Greenland
 Published: 2026-05-21T22:00:56+00:00
 Link: https://foreignpolicy.com/2026/05/21/trump-greenland-nato-ben-gvir-israel-gaza-qatar/
@@ -100,16 +112,4 @@ Link: https://foreignpolicy.com/2026/05/19/palestine-israel-washington-biden-tru
 [Foreign_Policy] The World Keeps Asking Iran the Wrong Question
 Published: 2026-05-19T08:34:53+00:00
 Link: https://foreignpolicy.com/2026/05/19/iran-politics-strategy-war-sanctions-hormuz/
----
-[Foreign_Policy] The Myth of Zero Enrichment
-Published: 2026-05-19T04:01:51+00:00
-Link: https://foreignpolicy.com/2026/05/19/iran-war-nuclear-deal-uranium-enrichment-negotiations-jcpoa-united-states/
----
-[Foreign_Affairs] Orban’s Fall and Europe’s Rise
-Published: 2026-05-19T04:00:00+00:00
-Link: https://www.foreignaffairs.com/hungary/orbans-fall-and-europes-rise
----
-[Foreign_Affairs] The Not-So-Quiet American
-Published: 2026-05-19T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/not-so-quiet-american-pope-leo
 ---
