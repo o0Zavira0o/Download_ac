@@ -1,4 +1,4 @@
-# Last Run: 2026-05-22 17:58 UTC
+# Last Run: 2026-05-22 19:52 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Xi’s Flurry of Post-Trump Diplomacy
@@ -24,6 +24,10 @@ Link: https://foreignpolicy.com/2026/05/22/colombia-election-president-violence-
 [Foreign_Policy] Geopolitical Chaos is Wrecking Pandemic Agreements
 Published: 2026-05-22T10:00:22+00:00
 Link: https://foreignpolicy.com/2026/05/22/hantavirus-who-cruise-ship-outbreak-ebola-congo-trump-cdc-vaccine-inequality-geopolitics/
+---
+[New_Yorker_Magazine] “I Love Boosters,” Reviewed: A Socialist-Surrealist Shoplifting Fantasy
+Published: 2026-05-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/01/i-love-boosters-movie-review
 ---
 [Foreign_Policy] How the West Misreads Modi’s Success
 Published: 2026-05-22T04:01:32+00:00
@@ -53,6 +57,10 @@ Link: https://www.foreignaffairs.com/china/coming-contest-asias-waterways
 Published: 2026-05-21T22:00:56+00:00
 Link: https://foreignpolicy.com/2026/05/21/trump-greenland-nato-ben-gvir-israel-gaza-qatar/
 ---
+[New_Yorker_Magazine] Singing the Knicks’ Praises, with a Dash of Metal
+Published: 2026-05-21T21:14:03+00:00
+Link: https://www.newyorker.com/magazine/2026/06/01/singing-the-knicks-praises-with-a-dash-of-metal
+---
 [Foreign_Policy] Israeli Minister’s Taunting of Detained Flotilla Activists Sparks Foreign Backlash
 Published: 2026-05-21T20:15:05+00:00
 Link: https://foreignpolicy.com/2026/05/21/ben-gvir-video-israel-detained-activists-global-sumud-flotilla/
@@ -72,6 +80,10 @@ Link: https://foreignpolicy.com/2026/05/21/trump-tourism-foreign-visitors-econom
 [Foreign_Policy] The Calls for a U.S. War on Cuba Are Getting Louder
 Published: 2026-05-21T15:22:04+00:00
 Link: https://foreignpolicy.com/2026/05/21/cuba-raul-castro-indictment-us-war-republicans-trump-rubio/
+---
+[New_Yorker_Magazine] The Fear Driving “Well, I’ll Let You Go” and “Othello”
+Published: 2026-05-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/01/othello-theatre-review-well-ill-let-you-go
 ---
 [Foreign_Affairs] The Crumbling Pillars of Global Peace
 Published: 2026-05-21T04:00:00+00:00
@@ -128,12 +140,4 @@ Link: https://www.foreignaffairs.com/mexico/why-mexicos-cartels-are-so-hard-defe
 [Foreign_Policy] Why China Is Cracking Down on Elite Education
 Published: 2026-05-19T22:02:22+00:00
 Link: https://foreignpolicy.com/2026/05/19/china-elite-school-crackdown-education-corruption-sunshine/
----
-[Foreign_Policy] What Does Putin Want From Xi?
-Published: 2026-05-19T19:44:16+00:00
-Link: https://foreignpolicy.com/2026/05/19/putin-xi-jinping-china-talks-oil-gas-russia-ukraine-war-trump/
----
-[Foreign_Policy] Washington Might Be Ready to Bargain With Beijing
-Published: 2026-05-19T19:14:29+00:00
-Link: https://foreignpolicy.com/2026/05/19/trump-xi-summit-china-relationship-trade-strategy/
 ---
