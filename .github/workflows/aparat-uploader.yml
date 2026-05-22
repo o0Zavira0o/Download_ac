@@ -18,12 +18,15 @@ on:
 jobs:
   download_and_upload_arvan:
     runs-on: ubuntu-latest
+    # می‌توانی کم‌وزیادش کنی، ولی برای چند فایل حجیم عدد بالا خوب است
+    timeout-minutes: 360
 
     env:
       AWS_ACCESS_KEY_ID: ${{ secrets.ARVAN_ACCESS_KEY }}
       AWS_SECRET_ACCESS_KEY: ${{ secrets.ARVAN_SECRET_KEY }}
-      ENDPOINT: "hot.ir-central1.arvanstorage.ir"    # طبق چیزی که خودت نوشتی
-      BUCKET_NAME: "my-github-backup"             # نام باکت آروان
+      AWS_EC2_METADATA_DISABLED: "true"        # برای جلوگیری از تاخیرهای بی‌مورد
+      ENDPOINT: "hot.ir-central1.arvanstorage.ir"
+      BUCKET_NAME: "my-github-backup"
       RUN_ID: ${{ github.run_id }}
 
     steps:
@@ -40,7 +43,7 @@ jobs:
       - name: Prepare folders
         run: mkdir -p videos
 
-      - name: Download URLs and upload to Arvan S3
+      - name: Download URLs and upload to Arvan S3 (robust)
         env:
           RAW_URLS: ${{ github.event.inputs.file_urls }}
           S3_PREFIX_INPUT: ${{ github.event.inputs.s3_prefix }}
@@ -56,9 +59,11 @@ jobs:
           from urllib.parse import urlparse
 
           import boto3
-          from botocore.config import Config
+          from botocore.config import Config as BotoConfig
+          from botocore.exceptions import BotoCoreError, ClientError
+          from boto3.s3.transfer import TransferConfig
 
-          # -------- خواندن تنظیمات آروان از env --------
+          # ----------------- تنظیمات محیط -----------------
           access_key = os.getenv("AWS_ACCESS_KEY_ID") or ""
           secret_key = os.getenv("AWS_SECRET_ACCESS_KEY") or ""
           endpoint = os.getenv("ENDPOINT") or ""
@@ -103,18 +108,43 @@ jobs:
           videos_dir = Path("videos")
           videos_dir.mkdir(exist_ok=True)
 
-          # -------- ساخت کلاینت S3 (آروان) --------
+          # ----------------- ساخت کلاینت S3 (آروان) -----------------
           print("در حال ساخت کلاینت S3 برای آروان ...")
           session = boto3.session.Session(
               aws_access_key_id=access_key,
               aws_secret_access_key=secret_key,
-              region_name="ir-central1",  # برای آروان معمولاً همین region است؛ اگر لازم شد می‌توانی عوضش کنی
-          ) 
+              region_name="ir-central1",  # معمول آروان
+          )
+
+          # تنظیمات اتصال و retry
+          s3_config = BotoConfig(
+              signature_version="s3v4",
+              retries={
+                  "max_attempts": 10,   # تلاش مجدد در سطح request
+                  "mode": "standard",
+              },
+              connect_timeout=60,       # ثانیه
+              read_timeout=3600,        # برای partهای بزرگ
+              tcp_keepalive=True,
+          )
+
           s3 = session.client(
               "s3",
               endpoint_url=endpoint_url,
-              config=Config(signature_version="s3v4"),
+              config=s3_config,
           )
+
+          # تنظیمات انتقال چندبخشی (multipart)
+          transfer_config = TransferConfig(
+              multipart_threshold=64 * 1024 * 1024,   # بالاتر از این سایز، multipart
+              multipart_chunksize=64 * 1024 * 1024,   # هر part حدود ۶۴MB
+              max_concurrency=8,                      # ۸ اتصال همزمان
+              use_threads=True,
+          )
+
+          print("کلاینت S3 آماده شد.")
+
+          # ----------------- توابع کمکی -----------------
 
           def extension_from_url(url: str) -> str:
             """
@@ -124,43 +154,118 @@ jobs:
             name = os.path.basename(path)
             if "." in name:
               ext = "." + name.split(".")[-1]
-              if len(ext) <= 6:  # پسوندهای معقول
+              if 0 < len(ext) <= 6:  # پسوندهای معقول
                 return ext
             return ".mp4"
 
-          def download_file(url: str, out_path: Path) -> bool:
-            if out_path.exists():
-              out_path.unlink()
-            cmd = [
-              "curl", "-L",
-              "--retry", "5", "--retry-delay", "5",
-              "--max-time", "1800",
-              "--speed-limit", "10240",
-              "--speed-time", "300",
-              "-C", "-",
-              url,
-              "-o", str(out_path),
-            ]
-            print("Downloading with:", " ".join(shlex.quote(c) for c in cmd))
-            res = subprocess.run(cmd)
-            if res.returncode != 0:
-              print(f"دانلود با خطا مواجه شد (exit code {res.returncode}).")
-              return False
+          def download_file(url: str, out_path: Path, max_attempts: int = 3) -> bool:
+            """
+            دانلود با curl به‌همراه retry و timeout.
+            """
+            for attempt in range(1, max_attempts + 1):
+              if out_path.exists():
+                out_path.unlink()
+              cmd = [
+                "curl",
+                "-L",                       # دنبال‌کردن ریدایرکت
+                "--fail",                   # روی 4xx/5xx خروج با خطا
+                "--retry", "5",             # retry داخلی curl روی خطاهای موقت
+                "--retry-delay", "5",
+                "--max-time", "1800",       # ۳۰ دقیقه برای هر تلاش
+                "--speed-limit", "10240",   # اگر سرعت < ۱۰KB/s
+                "--speed-time", "300",      # به‌مدت ۵ دقیقه، قطع
+                "-C", "-",                  # ادامه دانلود در صورت قطع
+                url,
+                "-o", str(out_path),
+              ]
+              print(f"[Download attempt {attempt}/{max_attempts}]")
+              print("  Command:", " ".join(shlex.quote(c) for c in cmd))
+              res = subprocess.run(cmd)
+              if res.returncode != 0:
+                print(f"دانلود با خطا مواجه شد (exit code {res.returncode}).")
+                if attempt < max_attempts:
+                  wait = 10 * attempt
+                  print(f"در حال انتظار {wait} ثانیه و تلاش دوباره برای دانلود ...")
+                  time.sleep(wait)
+                  continue
+                else:
+                  print("دانلود بعد از چند تلاش ناموفق بود.")
+                  return False
+
+              try:
+                size = out_path.stat().st_size
+              except FileNotFoundError:
+                print("فایل بعد از دانلود پیدا نشد.")
+                if attempt < max_attempts:
+                  print("تلاش مجدد برای دانلود ...")
+                  continue
+                return False
+
+              print(f"دانلود انجام شد: {out_path} ({size} bytes)")
+              return True
+
+            return False
+
+          def upload_to_s3(local_path: Path, key: str, max_attempts: int = 3) -> bool:
+            """
+            آپلود مطمئن با multipart، retry و بررسی سایز پس از آپلود.
+            """
             try:
-              size = out_path.stat().st_size
+              file_size = local_path.stat().st_size
             except FileNotFoundError:
-              print("فایل بعد از دانلود پیدا نشد.")
+              print(f"فایل لوکال برای آپلود پیدا نشد: {local_path}")
               return False
-            print(f"دانلود انجام شد: {out_path} ({size} bytes)")
-            return True
 
-          def upload_to_s3(local_path: Path, key: str):
-            print(f"در حال آپلود به آروان: s3://{bucket}/{key}")
-            start = time.time()
-            s3.upload_file(str(local_path), bucket, key)
-            dur = time.time() - start
-            print(f"آپلود به آروان تمام شد در {dur:.1f}s")
+            print(f"هدف آپلود: s3://{bucket}/{key} (سایز لوکال: {file_size} bytes)")
 
+            for attempt in range(1, max_attempts + 1):
+              print(f"[Upload attempt {attempt}/{max_attempts}] برای {local_path.name}")
+              start = time.time()
+              try:
+                s3.upload_file(
+                    Filename=str(local_path),
+                    Bucket=bucket,
+                    Key=key,
+                    Config=transfer_config,
+                    # اگر خواستی ContentType بر اساس پسوند ست کنی، این‌جا ExtraArgs اضافه کن
+                    # ExtraArgs={"ContentType": "video/mp4"},
+                )
+                dur = time.time() - start
+                print(f"آپلود به آروان تمام شد در {dur:.1f}s؛ در حال بررسی سایز روی سرور ...")
+
+                # بررسی سایز روی سرور
+                head = s3.head_object(Bucket=bucket, Key=key)
+                remote_size = head.get("ContentLength")
+                if remote_size != file_size:
+                  print(f"هشدار: سایز ریموت با لوکال نمی‌خواند! local={file_size}, remote={remote_size}")
+                  if attempt < max_attempts:
+                    wait = 15 * attempt
+                    print(f"تلاش مجدد برای آپلود کامل (انتظار {wait} ثانیه) ...")
+                    time.sleep(wait)
+                    continue
+                  else:
+                    print("بعد از چند تلاش، همچنان سایز ناهماهنگ است؛ این فایل مشکل‌دار در نظر گرفته می‌شود.")
+                    return False
+
+                print(f"سایز ریموت تأیید شد ({remote_size} bytes). آپلود موفق بود.")
+                return True
+
+              except (BotoCoreError, ClientError, Exception) as e:
+                dur = time.time() - start
+                print(f"خطا در آپلود بعد از {dur:.1f}s:")
+                print(repr(e))
+                if attempt < max_attempts:
+                  wait = 20 * attempt
+                  print(f"در حال انتظار {wait} ثانیه و تلاش دوباره برای آپلود ...")
+                  time.sleep(wait)
+                  continue
+                else:
+                  print("آپلود بعد از چند تلاش ناموفق بود.")
+                  return False
+
+            return False
+
+          # ----------------- پردازش لینک‌ها -----------------
           for idx, url in enumerate(urls, start=1):
             print("=" * 60)
             print(f"[{time.strftime('%H:%M:%S', time.gmtime())}] START URL #{idx}: {url}")
@@ -171,20 +276,26 @@ jobs:
             local_name = f"{logical_title}{ext}"  # مثال: Video_1.mp4
             local_path = videos_dir / local_name
 
+            # --- دانلود ---
             if not download_file(url, local_path):
-              print(f"دانلود URL #{idx} ناموفق بود، رد می‌شود.")
+              print(f"دانلود URL #{idx} ناموفق بود، این لینک رد می‌شود.")
               continue
 
+            # --- آپلود به آروان ---
             s3_key = f"{base_prefix}{local_name}"  # مثال: videos/run-1234/Video_1.mp4
 
+            upload_ok = upload_to_s3(local_path, s3_key)
+            if not upload_ok:
+              print(f"آپلود آروان برای URL #{idx} در نهایت ناموفق بود. (احتمالاً این فایل ناقص/خراب است)")
+            else:
+              print(f"آپلود آروان برای URL #{idx} با موفقیت انجام شد.")
+
+            # پاک‌کردن فایل لوکال برای خالی‌شدن دیسک
             try:
-              upload_to_s3(local_path, s3_key)
-            except Exception as e:
-              print(f"آپلود به آروان برای URL #{idx} ناموفق بود:")
-              print(e)
-            finally:
               if local_path.exists():
                 local_path.unlink()
+            except Exception as e:
+              print(f"هشدار: نتوانستم فایل لوکال را حذف کنم: {e}")
 
             dur = time.time() - start_t
             print(f"[{time.strftime('%H:%M:%S', time.gmtime())}] DONE URL #{idx} in {dur:.1f}s")
