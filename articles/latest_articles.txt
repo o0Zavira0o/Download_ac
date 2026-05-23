@@ -1,4 +1,4 @@
-# Last Run: 2026-05-23 06:39 UTC
+# Last Run: 2026-05-23 10:00 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s About-Face on U.S. Troops in Poland Mystifies Allies
@@ -144,8 +144,4 @@ Link: https://foreignpolicy.com/2026/05/20/egypt-military-aid-congress/
 [Foreign_Policy] Eurovision’s Troubles Mask a Deeper Problem
 Published: 2026-05-20T11:00:05+00:00
 Link: https://foreignpolicy.com/2026/05/20/eurovision-controversy-israel-boycott-liberal-international-order/
----
-[Foreign_Policy] The Doublespeak of Lebanon’s Other Shiite Leader
-Published: 2026-05-20T08:29:05+00:00
-Link: https://foreignpolicy.com/2026/05/20/lebanon-amal-hezbollah-berri-war/
 ---
