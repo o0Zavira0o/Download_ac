@@ -99,6 +99,10 @@ CHANNELS = [
         "url": "https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w", "num": 300,
         # 225uthenthawai.91
     },
+    {
+        "url": "https://www.youtube.com/jeremyethier", "num": 1000,
+        # JeremyEthier
+    },
       
     
     
