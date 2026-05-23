@@ -1,4 +1,4 @@
-# Last Run: 2026-05-23 19:17 UTC
+# Last Run: 2026-05-23 20:59 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s About-Face on U.S. Troops in Poland Mystifies Allies
@@ -120,8 +120,4 @@ Link: https://foreignpolicy.com/2026/05/20/pakistan-saudi-arabia-troops-deployme
 [Foreign_Policy] Ukraine and Russia Are Souring on U.S. Negotiations
 Published: 2026-05-20T21:09:52+00:00
 Link: https://foreignpolicy.com/2026/05/20/ukraine-russia-war-negotiations-trump-europe/
----
-[Foreign_Policy] Mass Protests Plunge Bolivia Into Political Upheaval
-Published: 2026-05-20T20:51:58+00:00
-Link: https://foreignpolicy.com/2026/05/20/bolivia-protests-la-paz-evo-morales-fuel-shortages-inflation-petro-colombia/
 ---
