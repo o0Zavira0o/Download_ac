@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
+_آخرین به‌روزرسانی: 2026-05-23T10:42:23Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-05-22 12:54:02 (UTC)  
+  **مدت:** حدود 21.7 دقیقه  
+  **عنوان:** [SolidWorks Weldments Tutorial-Rotary Worktable Modeling](https://www.youtube.com/watch?v=SB8gF1-tQgU)  
+  ![](https://i.ytimg.com/vi/SB8gF1-tQgU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-19 12:24:22 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
   **مدت:** حدود 33.9 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch hammer in Solidworks](https://www.youtube.com/watch?v=XI2hJtn36aI)  
   ![](https://i.ytimg.com/vi/XI2hJtn36aI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-23 03:06:06 (UTC)  
-  **مدت:** حدود 90.6 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch bench vise in Solidworks | Solidworks](https://www.youtube.com/watch?v=LpvgI3-XwKw)  
-  ![](https://i.ytimg.com/vi/LpvgI3-XwKw/hqdefault.jpg)

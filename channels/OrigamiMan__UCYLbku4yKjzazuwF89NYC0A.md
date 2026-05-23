@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
+_آخرین به‌روزرسانی: 2026-05-23T10:42:23Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-05-23 10:00:09 (UTC)  
+  **مدت:** حدود 14.0 دقیقه  
+  **عنوان:** [26,Origami Pen Holder from 6 Sheets – No Talking 6枚の紙で作る折り紙のペン立て｜無言](https://www.youtube.com/watch?v=6iyF-XZDJio)  
+  ![](https://i.ytimg.com/vi/6iyF-XZDJio/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-17 10:00:56 (UTC)  

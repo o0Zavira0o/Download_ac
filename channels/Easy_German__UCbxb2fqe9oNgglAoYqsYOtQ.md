@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
+_آخرین به‌روزرسانی: 2026-05-23T10:42:23Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-05-22 16:37:07 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Singen 🎤 #musik #singen #easygerman #studygerman](https://www.youtube.com/watch?v=wcfQX2THDfU)  
+  ![](https://i.ytimg.com/vi/wcfQX2THDfU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-21 18:50:23 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
   **مدت:** حدود 8.6 دقیقه  
   **عنوان:** [What are you addicted to? | Easy German 125](https://www.youtube.com/watch?v=ctlJJg7tGxI)  
   ![](https://i.ytimg.com/vi/ctlJJg7tGxI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-01-17 22:13:37 (UTC)  
-  **مدت:** حدود 10.3 دقیقه  
-  **عنوان:** [Learning German with Music | Easy German 124](https://www.youtube.com/watch?v=loJO4wLCZIQ)  
-  ![](https://i.ytimg.com/vi/loJO4wLCZIQ/hqdefault.jpg)

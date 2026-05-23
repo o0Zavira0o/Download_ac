@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
+_آخرین به‌روزرسانی: 2026-05-23T10:42:23Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-05-23 02:37:22 (UTC)  
+  **مدت:** حدود 13.8 دقیقه  
+  **عنوان:** [Infinity Cube design in solidworks | How to use 3d sketch in solidworks](https://www.youtube.com/watch?v=ECL68RTOGK4)  
+  ![](https://i.ytimg.com/vi/ECL68RTOGK4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-22 02:51:03 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-22T11:52:59Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Solidworks assembly Belt/chain feature #shorts #ytshorts #solidworksassembly](https://www.youtube.com/watch?v=0QZJ2s2DrG0)  
   ![](https://i.ytimg.com/vi/0QZJ2s2DrG0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-16 09:03:27 (UTC)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Solidworks filled surface feature #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=H4QFfSg_4-E)  
-  ![](https://i.ytimg.com/vi/H4QFfSg_4-E/hqdefault.jpg)
