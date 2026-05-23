@@ -1,4 +1,4 @@
-# Last Run: 2026-05-23 11:17 UTC
+# Last Run: 2026-05-23 13:32 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s About-Face on U.S. Troops in Poland Mystifies Allies
@@ -136,8 +136,4 @@ Link: https://foreignpolicy.com/2026/05/20/mali-rebels-kidal-fla-jnim-sahel-viol
 [Foreign_Policy] The UAE’s Syrian Gambit
 Published: 2026-05-20T17:47:54+00:00
 Link: https://foreignpolicy.com/2026/05/20/syria-uae-saudi-iran-israel-hormuz-gambit/
----
-[Foreign_Policy] What Are U.S. Military Dollars Buying in Egypt?
-Published: 2026-05-20T11:33:38+00:00
-Link: https://foreignpolicy.com/2026/05/20/egypt-military-aid-congress/
 ---
