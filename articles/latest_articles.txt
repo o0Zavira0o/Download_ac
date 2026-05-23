@@ -1,4 +1,4 @@
-# Last Run: 2026-05-23 03:28 UTC
+# Last Run: 2026-05-23 06:39 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s About-Face on U.S. Troops in Poland Mystifies Allies
@@ -148,16 +148,4 @@ Link: https://foreignpolicy.com/2026/05/20/eurovision-controversy-israel-boycott
 [Foreign_Policy] The Doublespeak of Lebanon’s Other Shiite Leader
 Published: 2026-05-20T08:29:05+00:00
 Link: https://foreignpolicy.com/2026/05/20/lebanon-amal-hezbollah-berri-war/
----
-[Foreign_Policy] Why Were Shots Fired in the Philippines Senate?
-Published: 2026-05-20T05:00:50+00:00
-Link: https://foreignpolicy.com/2026/05/20/philippines-senate-gunfire-duterte-marcos/
----
-[Foreign_Affairs] Iran as Vietnam, Ukraine as Korea
-Published: 2026-05-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/ukraine/iran-vietnam-ukraine-korea
----
-[Foreign_Affairs] Why Mexico’s Cartels Are So Hard to Defeat
-Published: 2026-05-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/mexico/why-mexicos-cartels-are-so-hard-defeat
 ---
