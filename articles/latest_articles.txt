@@ -1,4 +1,4 @@
-# Last Run: 2026-05-23 20:59 UTC
+# Last Run: 2026-05-23 23:03 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s About-Face on U.S. Troops in Poland Mystifies Allies
@@ -112,12 +112,4 @@ Link: https://www.newyorker.com/magazine/2026/06/01/othello-theatre-review-well-
 [Foreign_Affairs] The Crumbling Pillars of Global Peace
 Published: 2026-05-21T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/crumbling-pillars-global-peace
----
-[Foreign_Policy] Pakistan’s High-Wire Act Gets Riskier
-Published: 2026-05-20T21:36:42+00:00
-Link: https://foreignpolicy.com/2026/05/20/pakistan-saudi-arabia-troops-deployment-iran-diplomacy/
----
-[Foreign_Policy] Ukraine and Russia Are Souring on U.S. Negotiations
-Published: 2026-05-20T21:09:52+00:00
-Link: https://foreignpolicy.com/2026/05/20/ukraine-russia-war-negotiations-trump-europe/
 ---
