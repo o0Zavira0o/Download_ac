@@ -1,4 +1,4 @@
-# Last Run: 2026-05-24 07:27 UTC
+# Last Run: 2026-05-24 10:01 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s About-Face on U.S. Troops in Poland Mystifies Allies
@@ -104,8 +104,4 @@ Link: https://foreignpolicy.com/2026/05/21/trump-tourism-foreign-visitors-econom
 [Foreign_Policy] The Calls for a U.S. War on Cuba Are Getting Louder
 Published: 2026-05-21T15:22:04+00:00
 Link: https://foreignpolicy.com/2026/05/21/cuba-raul-castro-indictment-us-war-republicans-trump-rubio/
----
-[New_Yorker_Magazine] The Fear Driving “Well, I’ll Let You Go” and “Othello”
-Published: 2026-05-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/othello-theatre-review-well-ill-let-you-go
 ---
