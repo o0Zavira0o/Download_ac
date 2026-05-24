@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-23T10:42:23Z_
+_آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-24 02:03:31 (UTC)  
+  **مدت:** حدود 15.9 دقیقه  
+  **عنوان:** [Lập trình phay creo parametric p3](https://www.youtube.com/watch?v=lDdfOaQHmys)  
+  ![](https://i.ytimg.com/vi/lDdfOaQHmys/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-23 11:39:31 (UTC)  
+  **مدت:** حدود 14.0 دقیقه  
+  **عنوان:** [Lập trình phay creo parametric p2](https://www.youtube.com/watch?v=8wWWCH3B0-4)  
+  ![](https://i.ytimg.com/vi/8wWWCH3B0-4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-23 02:04:41 (UTC)  

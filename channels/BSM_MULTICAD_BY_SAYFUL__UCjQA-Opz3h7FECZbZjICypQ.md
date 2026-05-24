@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-05-23T10:42:23Z_
+_آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-05-24 08:08:59 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 02](https://www.youtube.com/watch?v=9Mb47y4EdWQ)  
+  ![](https://i.ytimg.com/vi/9Mb47y4EdWQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-24 01:49:57 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 02](https://www.youtube.com/watch?v=7mJJH10hwLA)  
+  ![](https://i.ytimg.com/vi/7mJJH10hwLA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-23 14:16:52 (UTC)  
+  **مدت:** حدود 25.1 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 03](https://www.youtube.com/watch?v=icXNrme_YMs)  
+  ![](https://i.ytimg.com/vi/icXNrme_YMs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-22 08:37:16 (UTC)  
@@ -886,21 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-23T10:42:23Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1j](https://www.youtube.com/watch?v=vUmZuJgnyMI)  
   ![](https://i.ytimg.com/vi/vUmZuJgnyMI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-16 03:00:23 (UTC)  
-  **مدت:** حدود 37.2 دقیقه  
-  **عنوان:** [COLUMN WORKING DIMENTION|AUTOCAD COLUMN SCHEDULE| GRADE BEAM LAYOUT PLAN| BSM CAD| BATCH-01|](https://www.youtube.com/watch?v=LbiddVvFNdI)  
-  ![](https://i.ytimg.com/vi/LbiddVvFNdI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-16 02:00:45 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1i](https://www.youtube.com/watch?v=lc1b6gkREQc)  
-  ![](https://i.ytimg.com/vi/lc1b6gkREQc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-15 22:00:49 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1h](https://www.youtube.com/watch?v=egnBe2K6L6k)  
-  ![](https://i.ytimg.com/vi/egnBe2K6L6k/hqdefault.jpg)

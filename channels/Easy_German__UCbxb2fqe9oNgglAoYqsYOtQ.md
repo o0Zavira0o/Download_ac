@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-23T10:42:23Z_
+_آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -284,7 +284,7 @@ _آخرین به‌روزرسانی: 2026-05-23T10:42:23Z_
 
 - **تاریخ انتشار:** 2026-03-29 17:22:57 (UTC)  
   **مدت:** حدود 31.9 دقیقه  
-  **عنوان:** [Do People Learn German Everywhere? | Easy German 653](https://www.youtube.com/watch?v=BXv8NUSOZko)  
+  **عنوان:** [Do People Learn German Everywhere?](https://www.youtube.com/watch?v=BXv8NUSOZko)  
   ![](https://i.ytimg.com/vi/BXv8NUSOZko/hqdefault.jpg)
 
 
