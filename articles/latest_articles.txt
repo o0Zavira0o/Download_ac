@@ -1,4 +1,4 @@
-# Last Run: 2026-05-24 21:02 UTC
+# Last Run: 2026-05-24 23:04 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s About-Face on U.S. Troops in Poland Mystifies Allies
@@ -76,12 +76,4 @@ Link: https://www.foreignaffairs.com/china/hormuz-warning-indo-pacific
 [Foreign_Affairs] The Coming Contest for Asia’s Waterways
 Published: 2026-05-22T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/coming-contest-asias-waterways
----
-[Foreign_Policy] Trump Hasn’t Given Up on Greenland
-Published: 2026-05-21T22:00:56+00:00
-Link: https://foreignpolicy.com/2026/05/21/trump-greenland-nato-ben-gvir-israel-gaza-qatar/
----
-[New_Yorker_Magazine] Singing the Knicks’ Praises, with a Dash of Metal
-Published: 2026-05-21T21:14:03+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/singing-the-knicks-praises-with-a-dash-of-metal
 ---
