@@ -1,4 +1,4 @@
-# Last Run: 2026-05-24 19:26 UTC
+# Last Run: 2026-05-24 21:02 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s About-Face on U.S. Troops in Poland Mystifies Allies
@@ -84,16 +84,4 @@ Link: https://foreignpolicy.com/2026/05/21/trump-greenland-nato-ben-gvir-israel-
 [New_Yorker_Magazine] Singing the Knicks’ Praises, with a Dash of Metal
 Published: 2026-05-21T21:14:03+00:00
 Link: https://www.newyorker.com/magazine/2026/06/01/singing-the-knicks-praises-with-a-dash-of-metal
----
-[Foreign_Policy] Israeli Minister’s Taunting of Detained Flotilla Activists Sparks Foreign Backlash
-Published: 2026-05-21T20:15:05+00:00
-Link: https://foreignpolicy.com/2026/05/21/ben-gvir-video-israel-detained-activists-global-sumud-flotilla/
----
-[Foreign_Policy] Georgia’s Dogs Are Disappearing
-Published: 2026-05-21T19:44:44+00:00
-Link: https://foreignpolicy.com/2026/05/21/georgia-dogs-government-protests-georgian-dream-russia/
----
-[Foreign_Policy] No, Russia’s Economy Is Not About to Collapse
-Published: 2026-05-21T19:37:37+00:00
-Link: https://foreignpolicy.com/2026/05/21/russia-ukraine-war-economy-putin-tooze/
 ---
