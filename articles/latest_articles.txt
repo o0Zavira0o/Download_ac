@@ -1,4 +1,4 @@
-# Last Run: 2026-05-24 23:04 UTC
+# Last Run: 2026-05-25 04:03 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s About-Face on U.S. Troops in Poland Mystifies Allies
@@ -52,28 +52,4 @@ Link: https://foreignpolicy.com/2026/05/22/hantavirus-who-cruise-ship-outbreak-e
 [New_Yorker_Magazine] “I Love Boosters,” Reviewed: A Socialist-Surrealist Shoplifting Fantasy
 Published: 2026-05-22T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/06/01/i-love-boosters-movie-review
----
-[Foreign_Policy] How the West Misreads Modi’s Success
-Published: 2026-05-22T04:01:32+00:00
-Link: https://foreignpolicy.com/2026/05/22/modi-india-europe-democracy-elections-bjp-economy-western-policy/
----
-[Foreign_Policy] How the West Misreads Modi’s Success
-Published: 2026-05-22T04:01:32+00:00
-Link: https://foreignpolicy.com/2026/05/22/west-modi-india-democracy-elections/
----
-[Foreign_Policy] Why the Quad Was Doomed From the Start
-Published: 2026-05-22T04:01:07+00:00
-Link: https://foreignpolicy.com/2026/05/22/quad-marco-rubio-visit-security-india-china-australia-japan-united-states/
----
-[Foreign_Policy] Why the Quad Was Doomed From the Start
-Published: 2026-05-22T04:01:07+00:00
-Link: https://foreignpolicy.com/2026/05/22/quad-rubio-india-china/
----
-[Foreign_Affairs] Hormuz Is a Warning for the Indo-Pacific
-Published: 2026-05-22T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/hormuz-warning-indo-pacific
----
-[Foreign_Affairs] The Coming Contest for Asia’s Waterways
-Published: 2026-05-22T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/coming-contest-asias-waterways
 ---
