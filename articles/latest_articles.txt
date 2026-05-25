@@ -1,4 +1,4 @@
-# Last Run: 2026-05-25 13:37 UTC
+# Last Run: 2026-05-25 16:29 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] What to Make of Morocco’s Most Famous Anti-Colonial Hero?
@@ -52,8 +52,4 @@ Link: https://foreignpolicy.com/2026/05/22/ebola-outbreak-congo-uganda-pandemic-
 [Foreign_Policy] Xi’s Flurry of Post-Trump Diplomacy
 Published: 2026-05-22T16:52:49+00:00
 Link: https://foreignpolicy.com/2026/05/22/xi-north-korea-putin-trump-beijing-visit/
----
-[Foreign_Policy] China’s Fallen Generals Are Getting Unexpectedly Harsh Punishments
-Published: 2026-05-22T13:54:20+00:00
-Link: https://foreignpolicy.com/2026/05/22/china-xi-jinping-purge-generals-punishment-death-sentence/
 ---
