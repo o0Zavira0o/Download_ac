@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
+_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-25 01:01:45 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Tách khuôn nhựa soldiworks](https://www.youtube.com/watch?v=yNG5UnPKris)  
+  ![](https://i.ytimg.com/vi/yNG5UnPKris/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-24 11:25:16 (UTC)  
+  **مدت:** حدود 2.9 دقیقه  
+  **عنوان:** [Phay cnc chi tiết mastercam 3d](https://www.youtube.com/watch?v=77NQGmoz6Hw)  
+  ![](https://i.ytimg.com/vi/77NQGmoz6Hw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-24 02:03:31 (UTC)  

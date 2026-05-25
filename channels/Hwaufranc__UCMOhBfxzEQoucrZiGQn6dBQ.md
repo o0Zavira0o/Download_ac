@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
+_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-05-25 03:05:35 (UTC)  
+  **مدت:** حدود 80.1 دقیقه  
+  **عنوان:** [다꾸 ASMR 1 HOUR Journaling Vintage diy꾸미기 | Scrapbook Paper Sounds](https://www.youtube.com/watch?v=pGaDsGZmUpo)  
+  ![](https://i.ytimg.com/vi/pGaDsGZmUpo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-24 13:00:37 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [journal asmr mini spread🦋scrapbook #shorts](https://www.youtube.com/watch?v=GBkDdyUsdRo)  
+  ![](https://i.ytimg.com/vi/GBkDdyUsdRo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-23 13:00:07 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
   **مدت:** حدود 0.8 دقیقه  
   **عنوان:** [Creative Art Journal #journaling #아트다꾸 #journalasmr #artprocess](https://www.youtube.com/watch?v=0eD2jWoOP4c)  
   ![](https://i.ytimg.com/vi/0eD2jWoOP4c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-14 12:57:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Creative Art Journaling #journaling #journal #아트다꾸 #asmr #artprocess](https://www.youtube.com/watch?v=jUOzHOhHuPg)  
-  ![](https://i.ytimg.com/vi/jUOzHOhHuPg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-13 13:35:00 (UTC)  
-  **مدت:** حدود 10.6 دقیقه  
-  **عنوان:** [ASMR How to Decorate an Egyptian-themed journal🏜️ Creative Journaling Sounds](https://www.youtube.com/watch?v=fJ_PQUNu-7s)  
-  ![](https://i.ytimg.com/vi/fJ_PQUNu-7s/hqdefault.jpg)

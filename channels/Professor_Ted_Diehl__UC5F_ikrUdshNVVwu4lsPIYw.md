@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
+_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
@@ -484,7 +484,7 @@ _آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
 
 - **تاریخ انتشار:** 2026-03-24 20:33:06 (UTC)  
   **مدت:** حدود 31.6 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 13 Video 4 Velocity Instant Centers](https://www.youtube.com/watch?v=9C5GOAnXnCs)  
+  **عنوان:** [S26 MENG4145 Mechanisms Class 13 Video 4 Velocity Analysis Instant Centers](https://www.youtube.com/watch?v=9C5GOAnXnCs)  
   ![](https://i.ytimg.com/vi/9C5GOAnXnCs/hqdefault.jpg)
 
 
@@ -532,7 +532,7 @@ _آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
 
 - **تاریخ انتشار:** 2026-03-24 20:33:05 (UTC)  
   **مدت:** حدود 11.4 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 13 Video 2 ICR Review](https://www.youtube.com/watch?v=qtyssCFlhe0)  
+  **عنوان:** [S26 MENG4145 Mechanisms Class 13 Video 2 Velocity Analysis ICR Review](https://www.youtube.com/watch?v=qtyssCFlhe0)  
   ![](https://i.ytimg.com/vi/qtyssCFlhe0/hqdefault.jpg)
 
 
@@ -1344,6 +1344,12 @@ _آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
   **مدت:** حدود 18.9 دقیقه  
   **عنوان:** [F24 ME401 Mechanisms Class 7 Intro to Statics Review](https://www.youtube.com/watch?v=HNc4GnDDy9Y)  
   ![](https://i.ytimg.com/vi/HNc4GnDDy9Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-04-12 17:45:40 (UTC)  
+  **مدت:** حدود 71.7 دقیقه  
+  **عنوان:** [S21 ME401 Mechanisms:  Exam 2 Prep Example Problem 1 Norton 7-43](https://www.youtube.com/watch?v=Hz6k2sBDwyU)  
+  ![](https://i.ytimg.com/vi/Hz6k2sBDwyU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-04-12 17:45:39 (UTC)  

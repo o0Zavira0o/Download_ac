@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
+_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-05-24 15:43:12 (UTC)  
+  **مدت:** حدود 20.2 دقیقه  
+  **عنوان:** [SolidWorks Exercise for beginners Catics 3D08-H01](https://www.youtube.com/watch?v=jCC-gajhs78)  
+  ![](https://i.ytimg.com/vi/jCC-gajhs78/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-22 12:54:02 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
   **مدت:** حدود 34.8 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Rope Clamp M5 in Solidworks](https://www.youtube.com/watch?v=XWS0J2G7aMY)  
   ![](https://i.ytimg.com/vi/XWS0J2G7aMY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-24 02:26:33 (UTC)  
-  **مدت:** حدود 33.9 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch hammer in Solidworks](https://www.youtube.com/watch?v=XI2hJtn36aI)  
-  ![](https://i.ytimg.com/vi/XI2hJtn36aI/hqdefault.jpg)

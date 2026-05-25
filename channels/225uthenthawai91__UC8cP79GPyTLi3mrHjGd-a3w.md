@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
+_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-05-25 10:28:51 (UTC)  
+  **مدت:** حدود 15.7 دقیقه  
+  **عنوان:** [Ep.17 Modified Z-Axis Plate Assembly](https://www.youtube.com/watch?v=IWGEU6lWkqo)  
+  ![](https://i.ytimg.com/vi/IWGEU6lWkqo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-24 17:27:30 (UTC)  
+  **مدت:** حدود 19.9 دقیقه  
+  **عنوان:** [Ep.16 Modify แผ่น Plate ด้านข้าง ( ยกความสูงแกน Z )](https://www.youtube.com/watch?v=xGHu6xhR3vg)  
+  ![](https://i.ytimg.com/vi/xGHu6xhR3vg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-18 03:19:07 (UTC)  

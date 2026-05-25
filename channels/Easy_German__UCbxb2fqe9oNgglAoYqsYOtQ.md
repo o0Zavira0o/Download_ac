@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
+_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-05-25 01:27:55 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [Putzutensilien 🧼 #drogerie #putzen #easygerman #langsamesdeutsch](https://www.youtube.com/watch?v=qI2YGpLfhTc)  
+  ![](https://i.ytimg.com/vi/qI2YGpLfhTc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-24 17:00:26 (UTC)  
+  **مدت:** حدود 15.6 دقیقه  
+  **عنوان:** [Is Hannover a Good Place to Live in? | Easy German 661](https://www.youtube.com/watch?v=fHzNx78tSe0)  
+  ![](https://i.ytimg.com/vi/fHzNx78tSe0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-22 16:37:07 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
   **مدت:** حدود 11.0 دقیقه  
   **عنوان:** [Cari antwortet (26) - Schuhe aus | Bier trinken | Schaffen | Buch Gewinnspiel](https://www.youtube.com/watch?v=6IeI0WExf_E)  
   ![](https://i.ytimg.com/vi/6IeI0WExf_E/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-01-27 22:58:11 (UTC)  
-  **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [Sentences you hear at airports - German Basic Phrases (38)](https://www.youtube.com/watch?v=ZOfzo9fZ0DY)  
-  ![](https://i.ytimg.com/vi/ZOfzo9fZ0DY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-01-24 20:10:04 (UTC)  
-  **مدت:** حدود 8.6 دقیقه  
-  **عنوان:** [What are you addicted to? | Easy German 125](https://www.youtube.com/watch?v=ctlJJg7tGxI)  
-  ![](https://i.ytimg.com/vi/ctlJJg7tGxI/hqdefault.jpg)

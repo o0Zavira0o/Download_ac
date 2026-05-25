@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
+_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-05-25 02:39:52 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Can Beginners Design This in SolidWorks? Expert Method Revealed!](https://www.youtube.com/watch?v=cZZaVZm9TSA)  
+  ![](https://i.ytimg.com/vi/cZZaVZm9TSA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-22 12:20:04 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅How Hummingbirds Fly❓ Mechanical Mechanism Animation](https://www.youtube.com/watch?v=gQM_9Ru49js)  
   ![](https://i.ytimg.com/vi/gQM_9Ru49js/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-20 04:34:16 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅The Gearless Revolution: Inside the Future of Power Transmission](https://www.youtube.com/watch?v=NbqujwFLqD4)  
-  ![](https://i.ytimg.com/vi/NbqujwFLqD4/hqdefault.jpg)

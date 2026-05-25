@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
+_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/jeremyethier  
+
+
+- **تاریخ انتشار:** 2026-05-24 13:30:10 (UTC)  
+  **مدت:** حدود 24.1 دقیقه  
+  **عنوان:** [Targeting Belly Fat Is POSSIBLE?! (60-Day MRI Experiment)](https://www.youtube.com/watch?v=M1Im9q19CrE)  
+  ![](https://i.ytimg.com/vi/M1Im9q19CrE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-10 13:30:25 (UTC)  

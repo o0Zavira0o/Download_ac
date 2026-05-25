@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CADMAX
 
-_آخرین به‌روزرسانی: 2026-05-24T10:48:02Z_
+_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 
 **لینک استاندارد کانال:** [CADMAX](https://www.youtube.com/channel/UCDmvwsI7-VjhJq3nlgXvByg)  
+
+
+- **تاریخ انتشار:** 2026-05-25 02:36:24 (UTC)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [SolidWork tutorial #solidwork #cad](https://www.youtube.com/watch?v=YSjtjrkDFzY)  
+  ![](https://i.ytimg.com/vi/YSjtjrkDFzY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-10 14:44:21 (UTC)  
