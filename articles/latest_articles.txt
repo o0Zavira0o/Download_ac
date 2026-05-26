@@ -1,4 +1,4 @@
-# Last Run: 2026-05-26 07:55 UTC
+# Last Run: 2026-05-26 15:38 UTC
 # Articles published in last 72 hours
 
 [Foreign_Affairs] The G-2 Reality
@@ -12,6 +12,10 @@ Link: https://www.foreignaffairs.com/ethiopia/war-ethiopia-isnt-over
 [Foreign_Policy] What to Make of Morocco’s Most Famous Anti-Colonial Hero?
 Published: 2026-05-25T12:00:12+00:00
 Link: https://foreignpolicy.com/2026/05/25/abd-el-karim-morocco-rif-colonialism-rebellion-monarchy/
+---
+[Foreign_Policy] Europe Is Slowly Getting Ready to Ditch America
+Published: 2026-05-25T11:00:20+00:00
+Link: https://foreignpolicy.com/2026/05/25/europe-united-states-troops-germany-poland-nato-security-trans-atlantic-alliance/
 ---
 [Foreign_Policy] Europe Is Slowly Getting Ready to Ditch America
 Published: 2026-05-25T11:00:20+00:00
