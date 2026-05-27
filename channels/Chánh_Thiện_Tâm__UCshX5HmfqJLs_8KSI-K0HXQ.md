@@ -1,9 +1,33 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
+_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-27 01:05:36 (UTC)  
+  **مدت:** حدود 6.5 دقیقه  
+  **عنوان:** [Vẽ ốp lưng điện thoại solidworks](https://www.youtube.com/watch?v=wsLN5sOBzbU)  
+  ![](https://i.ytimg.com/vi/wsLN5sOBzbU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-26 11:27:11 (UTC)  
+  **مدت:** حدود 17.2 دقیقه  
+  **عنوان:** [Lập trình cắt dây cnc mastercam](https://www.youtube.com/watch?v=VoA_R2o1L_c)  
+  ![](https://i.ytimg.com/vi/VoA_R2o1L_c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-26 01:05:51 (UTC)  
+  **مدت:** حدود 22.6 دقیقه  
+  **عنوان:** [Lập trình phay 3d creo parametric p2](https://www.youtube.com/watch?v=QktRQh7_NkQ)  
+  ![](https://i.ytimg.com/vi/QktRQh7_NkQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-25 12:45:31 (UTC)  
+  **مدت:** حدود 15.1 دقیقه  
+  **عنوان:** [Lập trình phay 3d creo parametric p1](https://www.youtube.com/watch?v=eHT4ZvUAjig)  
+  ![](https://i.ytimg.com/vi/eHT4ZvUAjig/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-25 01:01:45 (UTC)  

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
+_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-05-27 03:34:44 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Helix without profile in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=-9DXy1S-2S4)  
+  ![](https://i.ytimg.com/vi/-9DXy1S-2S4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-23 02:37:22 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [Solidworks linear pattern tips 😃 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=dwd4n_f9_nM)  
   ![](https://i.ytimg.com/vi/dwd4n_f9_nM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-16 15:09:23 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Solidworks assembly Belt/chain feature #shorts #ytshorts #solidworksassembly](https://www.youtube.com/watch?v=0QZJ2s2DrG0)  
-  ![](https://i.ytimg.com/vi/0QZJ2s2DrG0/hqdefault.jpg)

@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
+_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -38,7 +38,7 @@ _آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 - **تاریخ انتشار:** 2026-05-19 17:01:04 (UTC)  
   **مدت:** حدود 33.7 دقیقه  
-  **عنوان:** [Are Germans Unfriendly or Just Honest?](https://www.youtube.com/watch?v=sHORtofICt0)  
+  **عنوان:** [What’s More Important in Germany Than Friendliness](https://www.youtube.com/watch?v=sHORtofICt0)  
   ![](https://i.ytimg.com/vi/sHORtofICt0/hqdefault.jpg)
 
 

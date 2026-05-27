@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
+_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-05-27 11:00:12 (UTC)  
+  **مدت:** حدود 20.2 دقیقه  
+  **عنوان:** [【SolidWorks】基礎零件：在一起做不到的事，先分手｜各別做好，再和好](https://www.youtube.com/watch?v=giZ7ADl_wuw)  
+  ![](https://i.ytimg.com/vi/giZ7ADl_wuw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-22 11:00:43 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
   **مدت:** حدود 4.4 دقیقه  
   **عنوان:** [【onshape】練習時發現更新：螺絲攻與外螺紋｜感謝大神｜許願有效](https://www.youtube.com/watch?v=nbACHTjuSBQ)  
   ![](https://i.ytimg.com/vi/nbACHTjuSBQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-04-02 11:00:03 (UTC)  
-  **مدت:** حدود 18.2 دقیقه  
-  **عنوان:** [【solidworks】結合指令(差集)應用｜不一樣的解決方案｜探討各種可能性](https://www.youtube.com/watch?v=0bb0ugFKSx4)  
-  ![](https://i.ytimg.com/vi/0bb0ugFKSx4/hqdefault.jpg)

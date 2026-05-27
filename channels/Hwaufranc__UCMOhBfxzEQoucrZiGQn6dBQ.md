@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
+_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-05-26 13:30:37 (UTC)  
+  **مدت:** حدود 9.8 دقیقه  
+  **عنوان:** [ASMR Summer Korean Oriental Culture Style & Classic Pack Journal Unboxing DearDays Stationery](https://www.youtube.com/watch?v=r0mtqqfnlH8)  
+  ![](https://i.ytimg.com/vi/r0mtqqfnlH8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-25 13:00:04 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [ASMR Journal Tiny❤️Scrapbook #shorts #journal #asmr](https://www.youtube.com/watch?v=267ZU1LRTH8)  
+  ![](https://i.ytimg.com/vi/267ZU1LRTH8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-25 03:05:35 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [(New) Mini Journal Ideas #journaling #asmr #shortsart #artprocess](https://www.youtube.com/watch?v=XQlKUQviGc8)  
   ![](https://i.ytimg.com/vi/XQlKUQviGc8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-15 14:30:10 (UTC)  
-  **مدت:** حدود 7.8 دقیقه  
-  **عنوان:** [ASMR Decorating vintage journal | Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=K7ftYlmz-jQ)  
-  ![](https://i.ytimg.com/vi/K7ftYlmz-jQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-14 12:59:00 (UTC)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Creative Art Journal #journaling #아트다꾸 #journalasmr #artprocess](https://www.youtube.com/watch?v=0eD2jWoOP4c)  
-  ![](https://i.ytimg.com/vi/0eD2jWoOP4c/hqdefault.jpg)

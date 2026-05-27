@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
+_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
@@ -496,7 +496,7 @@ _آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 - **تاریخ انتشار:** 2026-03-24 20:33:05 (UTC)  
   **مدت:** حدود 40.2 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 15 Video 1, Tracker Introduction and Example, Comparison to SW & ML](https://www.youtube.com/watch?v=9UlOy3EURrE)  
+  **عنوان:** [S26 MENG4145 Mechanisms Class 15 Video 1, Velocity Tracker Intro & Ex, Comparison to SW & ML](https://www.youtube.com/watch?v=9UlOy3EURrE)  
   ![](https://i.ytimg.com/vi/9UlOy3EURrE/hqdefault.jpg)
 
 
@@ -2692,7 +2692,7 @@ _آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 - **تاریخ انتشار:** 2023-10-09 04:01:09 (UTC)  
   **مدت:** حدود 26.0 دقیقه  
-  **عنوان:** [F23 ME236 Thermodynamics I Class 12 Gas Mixing Example Problem 3-87 from 8th Edition](https://www.youtube.com/watch?v=v7tbeeuMAUc)  
+  **عنوان:** [F23 ME236 Thermodynamics I Class 12 Gas Mixing Example Borgnakke Problem 3-87 from 8th Edition](https://www.youtube.com/watch?v=v7tbeeuMAUc)  
   ![](https://i.ytimg.com/vi/v7tbeeuMAUc/hqdefault.jpg)
 
 
@@ -2752,13 +2752,13 @@ _آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 - **تاریخ انتشار:** 2023-10-02 03:51:25 (UTC)  
   **مدت:** حدود 20.8 دقیقه  
-  **عنوان:** [F23 ME236 Thermodynamics I Class 10 Example 3.11](https://www.youtube.com/watch?v=QgrK1ahc_Go)  
+  **عنوان:** [F23 ME236 Thermodynamics I Class 10 Borgnakke Example 3.11](https://www.youtube.com/watch?v=QgrK1ahc_Go)  
   ![](https://i.ytimg.com/vi/QgrK1ahc_Go/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2023-10-02 03:50:32 (UTC)  
   **مدت:** حدود 16.6 دقیقه  
-  **عنوان:** [F23 ME236 Thermodynamics I Class 10 Example 3.10](https://www.youtube.com/watch?v=kPRZbyRaOjY)  
+  **عنوان:** [F23 ME236 Thermodynamics I Class 10 Borgnakke Example 3.10](https://www.youtube.com/watch?v=kPRZbyRaOjY)  
   ![](https://i.ytimg.com/vi/kPRZbyRaOjY/hqdefault.jpg)
 
 

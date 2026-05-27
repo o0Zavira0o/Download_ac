@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
+_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  

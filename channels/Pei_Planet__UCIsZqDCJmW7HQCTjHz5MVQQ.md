@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
+_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-05-25 15:50:35 (UTC)  
+  **مدت:** حدود 7.3 دقیقه  
+  **عنوان:** [【ASMR】DIY Kitty's Arcade & Claw Machine Shop 🧸✨🎀 | Cozy Sticker Scene | No Talking](https://www.youtube.com/watch?v=EKkWHO2k8DM)  
+  ![](https://i.ytimg.com/vi/EKkWHO2k8DM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-22 10:30:06 (UTC)  
@@ -351,7 +357,7 @@ _آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
 
 
 - **تاریخ انتشار:** 2025-12-31 13:30:59 (UTC)  
-  **مدت:** حدود 2.3 دقیقه  
+  **مدت:** حدود 2.4 دقیقه  
   **عنوان:** [【ASMR】DIY a Snowy Christmas Dreamy House](https://www.youtube.com/watch?v=kq7psuKtm0A)  
   ![](https://i.ytimg.com/vi/kq7psuKtm0A/hqdefault.jpg)
 

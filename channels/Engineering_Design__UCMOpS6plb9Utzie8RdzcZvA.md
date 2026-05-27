@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
+_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-05-25 03:07:56 (UTC)  
+  **مدت:** حدود 2.9 دقیقه  
+  **عنوان:** [Beginner vs Expert in SolidWorks Sheet Metal – Huge Difference! 😱](https://www.youtube.com/watch?v=RVUK9NRrOIc)  
+  ![](https://i.ytimg.com/vi/RVUK9NRrOIc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-25 02:39:52 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-25T12:39:45Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅Mechanical Mechanism 05 📌](https://www.youtube.com/watch?v=-Kmpb5A3_Eg)  
   ![](https://i.ytimg.com/vi/-Kmpb5A3_Eg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-27 05:06:51 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅How Hummingbirds Fly❓ Mechanical Mechanism Animation](https://www.youtube.com/watch?v=gQM_9Ru49js)  
-  ![](https://i.ytimg.com/vi/gQM_9Ru49js/hqdefault.jpg)
