@@ -1,4 +1,4 @@
-# Last Run: 2026-05-28 08:05 UTC
+# Last Run: 2026-05-28 11:53 UTC
 # Articles published in last 72 hours
 
 [Foreign_Affairs] The Coming Crisis of NATO Deterrence
@@ -80,64 +80,4 @@ Link: https://www.foreignaffairs.com/ethiopia/war-ethiopia-isnt-over
 [Foreign_Policy] What to Make of Morocco’s Most Famous Anti-Colonial Hero?
 Published: 2026-05-25T12:00:12+00:00
 Link: https://foreignpolicy.com/2026/05/25/abd-el-karim-morocco-rif-colonialism-rebellion-monarchy/
----
-[Foreign_Policy] Europe Is Slowly Getting Ready to Ditch America
-Published: 2026-05-25T11:00:20+00:00
-Link: https://foreignpolicy.com/2026/05/25/europe-united-states-troops-germany-poland-nato-security-trans-atlantic-alliance/
----
-[Foreign_Policy] Europe Is Slowly Getting Ready to Ditch America
-Published: 2026-05-25T11:00:20+00:00
-Link: https://foreignpolicy.com/2026/05/25/europe-trump-nato-leadership/
----
-[New_Yorker_Magazine] “What I Saw,” by Matthew Dickman
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/what-i-saw-matthew-dickman-poem
----
-[New_Yorker_Magazine] “This Vast Enterprise: A New History of Lewis & Clark,” Reviewed
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/this-vast-enterprise-craig-fehrman-book-review
----
-[New_Yorker_Magazine] “Ecologies of Perception,” by Terrance Hayes
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/ecologies-of-perception-terrance-hayes-poem
----
-[New_Yorker_Magazine] The Useless Beauty of Christo and Jeanne-Claude
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/the-useless-beauty-of-christo-and-jeanne-claude
----
-[New_Yorker_Magazine] A Vindication of the Rights of L.L.M.s
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/a-vindication-of-the-rights-of-llms
----
-[New_Yorker_Magazine] The Trump-Epstein Files: Look but Don’t Touch
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/the-trump-epstein-files-look-but-dont-touch
----
-[New_Yorker_Magazine] Mariska Hargitay Trades Her Badge for Confetti
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/mariska-hargitay-trades-her-badge-for-confetti
----
-[New_Yorker_Magazine] How “The Chosen” Spurred a Golden Age of Christian Filmmaking
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/how-the-chosen-spurred-a-golden-age-of-christian-filmmaking
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/john-of-john-body-double-the-rolling-stones-unvaccinated-under-god
----
-[New_Yorker_Magazine] What Dogs See When They Look at Us
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/the-dogs-gaze-a-visual-history-thomas-w-laqueur-book-review
----
-[New_Yorker_Magazine] How Problematic Is Patriotism?
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/how-problematic-is-patriotism
----
-[New_Yorker_Magazine] Our Warming Planet Is a Petri Dish for New and Deadly Microbes
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/our-warming-planet-is-a-petri-dish-for-new-and-deadly-microbes
----
-[New_Yorker_Magazine] The Ukrainian Stunt Pilot Hunting Russian Drones
-Published: 2026-05-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/01/the-stunt-pilot-hunting-russian-drones
 ---
