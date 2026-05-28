@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
+_آخرین به‌روزرسانی: 2026-05-28T12:39:06Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-05-28 10:30:05 (UTC)  
+  **مدت:** حدود 11.6 دقیقه  
+  **عنوان:** [【ASMR】DIY Makeup & Dressing Room 👗💄 ✨| Cozy Sticker Scene | No Talking](https://www.youtube.com/watch?v=A0j6tKY1D4c)  
+  ![](https://i.ytimg.com/vi/A0j6tKY1D4c/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-25 15:50:35 (UTC)  

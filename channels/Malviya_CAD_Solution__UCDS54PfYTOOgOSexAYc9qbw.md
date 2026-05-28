@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
+_آخرین به‌روزرسانی: 2026-05-28T12:39:06Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-05-27 13:03:30 (UTC)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Shaded material appearance in solidworks 😀#shorts #malviyacadsolution #ytshorts #solidworks](https://www.youtube.com/watch?v=hsdu_lzxtE8)  
+  ![](https://i.ytimg.com/vi/hsdu_lzxtE8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-27 03:34:44 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
   **مدت:** حدود 4.0 دقیقه  
   **عنوان:** [Equation driven curve in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=vY_9lxTTRSk)  
   ![](https://i.ytimg.com/vi/vY_9lxTTRSk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-20 02:43:51 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [Solidworks linear pattern tips 😃 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=dwd4n_f9_nM)  
-  ![](https://i.ytimg.com/vi/dwd4n_f9_nM/hqdefault.jpg)

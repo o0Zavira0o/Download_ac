@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
+_آخرین به‌روزرسانی: 2026-05-28T12:39:06Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-28 11:32:52 (UTC)  
+  **مدت:** حدود 27.3 دقیقه  
+  **عنوان:** [Phay chi tiết Creo P2](https://www.youtube.com/watch?v=RqlUwEei-vw)  
+  ![](https://i.ytimg.com/vi/RqlUwEei-vw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-28 01:01:56 (UTC)  
+  **مدت:** حدود 27.6 دقیقه  
+  **عنوان:** [Phay chi tiết Creo P1](https://www.youtube.com/watch?v=SxQR5K-TsII)  
+  ![](https://i.ytimg.com/vi/SxQR5K-TsII/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-27 13:23:16 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [Thiết kế khuôn chai thổi solidworks](https://www.youtube.com/watch?v=N5FYqD8L5SY)  
+  ![](https://i.ytimg.com/vi/N5FYqD8L5SY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-27 01:05:36 (UTC)  

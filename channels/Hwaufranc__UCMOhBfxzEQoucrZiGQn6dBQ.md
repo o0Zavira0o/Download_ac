@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
+_آخرین به‌روزرسانی: 2026-05-28T12:39:06Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-05-27 13:30:03 (UTC)  
+  **مدت:** حدود 60.7 دقیقه  
+  **عنوان:** [ASMR 1 HOUR Scrapbook | Stress Relief Paper Journal Relaxing Sounds](https://www.youtube.com/watch?v=g-WiDX6Jeas)  
+  ![](https://i.ytimg.com/vi/g-WiDX6Jeas/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-26 13:30:37 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [Wax Art 🎁💚 #waxart #waxbeads #waxmelts #artprocess #왁스아트](https://www.youtube.com/watch?v=zs1Ub-n6qtc)  
   ![](https://i.ytimg.com/vi/zs1Ub-n6qtc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-16 14:31:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [(New) Mini Journal Ideas #journaling #asmr #shortsart #artprocess](https://www.youtube.com/watch?v=XQlKUQviGc8)  
-  ![](https://i.ytimg.com/vi/XQlKUQviGc8/hqdefault.jpg)

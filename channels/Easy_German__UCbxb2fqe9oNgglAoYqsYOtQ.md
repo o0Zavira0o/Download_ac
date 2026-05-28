@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
+_آخرین به‌روزرسانی: 2026-05-28T12:39:06Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-05-27 14:03:33 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Easy German Events 2026, Tickets unter easygerman.org/meetups #easygerman #learngerman](https://www.youtube.com/watch?v=wQjs0TPL0pE)  
+  ![](https://i.ytimg.com/vi/wQjs0TPL0pE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-25 01:27:55 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-27T12:29:49Z_
   **مدت:** حدود 9.5 دقیقه  
   **عنوان:** [How to pronounce "CH" in German? | Easy German 126](https://www.youtube.com/watch?v=jo6eVzUH2cI)  
   ![](https://i.ytimg.com/vi/jo6eVzUH2cI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-01-29 11:33:11 (UTC)  
-  **مدت:** حدود 11.0 دقیقه  
-  **عنوان:** [Cari antwortet (26) - Schuhe aus | Bier trinken | Schaffen | Buch Gewinnspiel](https://www.youtube.com/watch?v=6IeI0WExf_E)  
-  ![](https://i.ytimg.com/vi/6IeI0WExf_E/hqdefault.jpg)
