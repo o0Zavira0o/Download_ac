@@ -1,6 +1,34 @@
-# Last Run: 2026-05-28 11:53 UTC
+# Last Run: 2026-05-28 18:46 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Iran War Has Only Worsened Sudan’s Conflict
+Published: 2026-05-28T17:13:34+00:00
+Link: https://foreignpolicy.com/2026/05/28/sudan-iran-war-gulf-proxy-ripple-effects-peace-talks-quad/
+---
+[Foreign_Policy] Erdogan Is Forcibly Designing His Own Opposition
+Published: 2026-05-28T16:57:50+00:00
+Link: https://foreignpolicy.com/2026/05/28/erdogan-turkey-opposition-chp-imamoglu-kilicdaroglu-ozel-istanbul-ankara/
+---
+[Foreign_Policy] Cubans Abandon the American Dream
+Published: 2026-05-28T16:23:22+00:00
+Link: https://foreignpolicy.com/2026/05/28/cuba-migration-us-trump-brazil-mexico-uruguay/
+---
+[Foreign_Policy] Bibi’s Manichean Politics
+Published: 2026-05-28T15:00:33+00:00
+Link: https://foreignpolicy.com/2026/05/28/netanyahu-israel-elections-terrorism-gaza-democracy/
+---
+[Foreign_Policy] The Madman Strikes Back
+Published: 2026-05-28T13:50:56+00:00
+Link: https://foreignpolicy.com/2026/05/28/trump-madman-theory-iran/
+---
+[Foreign_Policy] Friedrich Merz Doesn’t Understand the EU
+Published: 2026-05-28T13:48:46+00:00
+Link: https://foreignpolicy.com/2026/05/28/merz-germany-eu-brussels-regulation-leyen/
+---
+[Foreign_Policy] Trump Should Just Admit He Screwed Up
+Published: 2026-05-28T13:41:48+00:00
+Link: https://foreignpolicy.com/2026/05/28/trump-iran-war-mistake-admit/
+---
 [Foreign_Affairs] The Coming Crisis of NATO Deterrence
 Published: 2026-05-28T04:00:00+00:00
 Link: https://www.foreignaffairs.com/russia/coming-crisis-nato-deterrence
@@ -76,8 +104,4 @@ Link: https://www.foreignaffairs.com/united-states/g-2-reality
 [Foreign_Affairs] The War in Ethiopia Isn’t Over
 Published: 2026-05-26T04:00:00+00:00
 Link: https://www.foreignaffairs.com/ethiopia/war-ethiopia-isnt-over
----
-[Foreign_Policy] What to Make of Morocco’s Most Famous Anti-Colonial Hero?
-Published: 2026-05-25T12:00:12+00:00
-Link: https://foreignpolicy.com/2026/05/25/abd-el-karim-morocco-rif-colonialism-rebellion-monarchy/
 ---
