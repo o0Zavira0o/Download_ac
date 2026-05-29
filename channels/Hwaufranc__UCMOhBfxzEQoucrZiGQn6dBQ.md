@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-05-28T12:39:06Z_
+_آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-05-28 14:24:29 (UTC)  
+  **مدت:** حدود 12.0 دقیقه  
+  **عنوان:** [ASMR Journaling Summer Oriental Style💛 Scrapbook Collage](https://www.youtube.com/watch?v=1XF0KEidXTM)  
+  ![](https://i.ytimg.com/vi/1XF0KEidXTM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-27 13:30:03 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-05-28T12:39:06Z_
   **مدت:** حدود 9.2 دقیقه  
   **عنوان:** [ASMR Decorating Snow White Journal 👸🍎 Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=0cD_qDK7Yxk)  
   ![](https://i.ytimg.com/vi/0cD_qDK7Yxk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-17 13:00:48 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Wax Art 🎁💚 #waxart #waxbeads #waxmelts #artprocess #왁스아트](https://www.youtube.com/watch?v=zs1Ub-n6qtc)  
-  ![](https://i.ytimg.com/vi/zs1Ub-n6qtc/hqdefault.jpg)

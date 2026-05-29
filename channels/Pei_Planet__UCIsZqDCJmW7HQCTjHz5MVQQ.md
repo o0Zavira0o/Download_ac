@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-05-28T12:39:06Z_
+_آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-05-29 10:30:05 (UTC)  
+  **مدت:** حدود 14.7 دقیقه  
+  **عنوان:** [【ASMR】DIY Gaming & Plushie Room 🧸🎮 | Cozy Sticker Scene | No Talking](https://www.youtube.com/watch?v=FJ5QtomJwKs)  
+  ![](https://i.ytimg.com/vi/FJ5QtomJwKs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-28 10:30:05 (UTC)  

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-28T12:39:06Z_
+_آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-05-28 17:19:05 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Menstruationsprodukte #drogerie #menstruation #easygerman](https://www.youtube.com/watch?v=EkYHNHLKFAo)  
+  ![](https://i.ytimg.com/vi/EkYHNHLKFAo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-27 14:03:33 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-28T12:39:06Z_
   **مدت:** حدود 0.8 دقیقه  
   **عنوان:** [Sentences you hear at a German Supermarket - German Basic Phrases (39)](https://www.youtube.com/watch?v=08nQNHUyrvA)  
   ![](https://i.ytimg.com/vi/08nQNHUyrvA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-01-31 16:27:58 (UTC)  
-  **مدت:** حدود 9.5 دقیقه  
-  **عنوان:** [How to pronounce "CH" in German? | Easy German 126](https://www.youtube.com/watch?v=jo6eVzUH2cI)  
-  ![](https://i.ytimg.com/vi/jo6eVzUH2cI/hqdefault.jpg)

@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-28T12:39:06Z_
+_آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-29 12:12:42 (UTC)  
+  **مدت:** حدود 4.4 دقیقه  
+  **عنوان:** [Vẽ chi tiết solidworks Pro](https://www.youtube.com/watch?v=SnrfbzHAOU4)  
+  ![](https://i.ytimg.com/vi/SnrfbzHAOU4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-29 01:58:06 (UTC)  
+  **مدت:** حدود 3.3 دقیقه  
+  **عنوان:** [Lập trình Phay chi tiết 4 trục mastercam](https://www.youtube.com/watch?v=NsEPzKRgvB8)  
+  ![](https://i.ytimg.com/vi/NsEPzKRgvB8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-28 11:32:52 (UTC)  
