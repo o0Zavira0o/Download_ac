@@ -1,6 +1,18 @@
-# Last Run: 2026-05-29 03:47 UTC
+# Last Run: 2026-05-29 08:03 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Don’t Count the Quad Out
+Published: 2026-05-29T04:01:38+00:00
+Link: https://foreignpolicy.com/2026/05/29/dont-count-the-quad-out/
+---
+[Foreign_Affairs] Cuba’s Only Option
+Published: 2026-05-29T04:00:00+00:00
+Link: https://www.foreignaffairs.com/cuba/cubas-only-option
+---
+[Foreign_Affairs] China’s AI Heist
+Published: 2026-05-29T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/chinas-ai-heist
+---
 [Foreign_Policy] Groundhog Day: Iran War Edition
 Published: 2026-05-28T22:02:31+00:00
 Link: https://foreignpolicy.com/2026/05/28/iran-war-trump-mou-deal-lebanon-israel/
@@ -108,12 +120,4 @@ Link: https://foreignpolicy.com/2026/05/26/xi-trump-china-united-states-summit-p
 [Foreign_Policy] Why the U.S. Should Wind Down Military Aid to Israel
 Published: 2026-05-26T17:54:50+00:00
 Link: https://foreignpolicy.com/2026/05/26/israel-united-states-military-aid-gaza-trump-netanyahu/
----
-[Foreign_Affairs] The G-2 Reality
-Published: 2026-05-26T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/g-2-reality
----
-[Foreign_Affairs] The War in Ethiopia Isn’t Over
-Published: 2026-05-26T04:00:00+00:00
-Link: https://www.foreignaffairs.com/ethiopia/war-ethiopia-isnt-over
 ---
