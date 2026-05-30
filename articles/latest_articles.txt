@@ -1,4 +1,4 @@
-# Last Run: 2026-05-30 21:04 UTC
+# Last Run: 2026-05-30 23:03 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
@@ -108,8 +108,4 @@ Link: https://www.foreignaffairs.com/russia/coming-crisis-nato-deterrence
 [Foreign_Affairs] Trump’s Least Bad Option in Iran
 Published: 2026-05-28T04:00:00+00:00
 Link: https://www.foreignaffairs.com/iran/trumps-least-bad-option-iran
----
-[Foreign_Policy] Can the U.S. End Nigeria’s Insurgency?
-Published: 2026-05-27T22:30:09+00:00
-Link: https://foreignpolicy.com/2026/05/27/us-nigeria-joint-strikes-military-insurgency-boko-haram-iswap-security-africa/
 ---
