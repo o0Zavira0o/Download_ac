@@ -1,4 +1,4 @@
-# Last Run: 2026-05-30 19:23 UTC
+# Last Run: 2026-05-30 21:04 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
@@ -112,12 +112,4 @@ Link: https://www.foreignaffairs.com/iran/trumps-least-bad-option-iran
 [Foreign_Policy] Can the U.S. End Nigeria’s Insurgency?
 Published: 2026-05-27T22:30:09+00:00
 Link: https://foreignpolicy.com/2026/05/27/us-nigeria-joint-strikes-military-insurgency-boko-haram-iswap-security-africa/
----
-[Foreign_Policy] Trump Accuses Iran of Stalling Peace Talks
-Published: 2026-05-27T20:24:40+00:00
-Link: https://foreignpolicy.com/2026/05/27/trump-iran-us-war-peace-talks-stalling-midterm-elections/
----
-[Foreign_Policy] Trump Is Making NATO Stronger, Lithuania’s Foreign Minister Says
-Published: 2026-05-27T20:16:18+00:00
-Link: https://foreignpolicy.com/2026/05/27/kestutis-budrys-lithuanian-foreign-minister-iran-trump-drones-ukraine/
 ---
