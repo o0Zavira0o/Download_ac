@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
+_آخرین به‌روزرسانی: 2026-05-30T10:52:42Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  

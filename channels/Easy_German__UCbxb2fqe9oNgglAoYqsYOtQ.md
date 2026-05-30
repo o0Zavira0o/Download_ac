@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
+_آخرین به‌روزرسانی: 2026-05-30T10:52:42Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-05-29 14:59:42 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Was hast du in Erfurt gemacht? #pläne #erfurt #easygerman #studygerman](https://www.youtube.com/watch?v=HuM0H6s0_0Y)  
+  ![](https://i.ytimg.com/vi/HuM0H6s0_0Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-28 17:19:05 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
   **مدت:** حدود 11.5 دقیقه  
   **عنوان:** [Cari antwortet (27) - Nämlich | Rülpsen | Mir und Mich | Militär in Deutschland](https://www.youtube.com/watch?v=gE6k5i_GNW4)  
   ![](https://i.ytimg.com/vi/gE6k5i_GNW4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-02-03 14:45:18 (UTC)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Sentences you hear at a German Supermarket - German Basic Phrases (39)](https://www.youtube.com/watch?v=08nQNHUyrvA)  
-  ![](https://i.ytimg.com/vi/08nQNHUyrvA/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
+_آخرین به‌روزرسانی: 2026-05-30T10:52:42Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-05-30 02:04:53 (UTC)  
+  **مدت:** حدود 12.6 دقیقه  
+  **عنوان:** [Vẽ cad VISI](https://www.youtube.com/watch?v=HOp79paFrsY)  
+  ![](https://i.ytimg.com/vi/HOp79paFrsY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-29 12:12:42 (UTC)  

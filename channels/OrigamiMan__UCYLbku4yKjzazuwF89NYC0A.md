@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
+_آخرین به‌روزرسانی: 2026-05-30T10:52:42Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-05-30 10:00:34 (UTC)  
+  **مدت:** حدود 16.9 دقیقه  
+  **عنوان:** [27,Origami Sushi Set – Japanese Paper Food Art (No Talking ASMR)折り紙でお寿司一台分を作る｜無言ASMR](https://www.youtube.com/watch?v=rluNJXZCIPw)  
+  ![](https://i.ytimg.com/vi/rluNJXZCIPw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-30 10:00:13 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [27 -2Tiny Sushi Made from Paper 🍣折り紙でお寿司を作ってみた🍣 #origami #折り紙](https://www.youtube.com/watch?v=SUTOYi_ElG8)  
+  ![](https://i.ytimg.com/vi/SUTOYi_ElG8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-23 10:00:09 (UTC)  

@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
+_آخرین به‌روزرسانی: 2026-05-30T10:52:42Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
@@ -8,7 +8,7 @@ _آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
 
 - **تاریخ انتشار:** 2026-05-25 03:07:56 (UTC)  
   **مدت:** حدود 2.9 دقیقه  
-  **عنوان:** [Beginner vs Expert in SolidWorks Sheet Metal – Huge Difference! 😱](https://www.youtube.com/watch?v=RVUK9NRrOIc)  
+  **عنوان:** [Beginner Vs Expert in SolidWorks Sheet Metal – Huge Difference! 😱](https://www.youtube.com/watch?v=RVUK9NRrOIc)  
   ![](https://i.ytimg.com/vi/RVUK9NRrOIc/hqdefault.jpg)
 
 

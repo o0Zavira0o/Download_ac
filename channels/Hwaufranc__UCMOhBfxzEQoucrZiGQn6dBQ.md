@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
+_آخرین به‌روزرسانی: 2026-05-30T10:52:42Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-05-30 04:45:02 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [ASMR Scrapbooking Paper Journal #shorts](https://www.youtube.com/watch?v=VtTMXBIQiYo)  
+  ![](https://i.ytimg.com/vi/VtTMXBIQiYo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-28 14:24:29 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-05-29T12:25:47Z_
   **مدت:** حدود 1.4 دقیقه  
   **عنوان:** [ASMR Creative Art Journaling 🌺 Variety of Journal Sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=eVjd7ojXxOw)  
   ![](https://i.ytimg.com/vi/eVjd7ojXxOw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-18 14:20:00 (UTC)  
-  **مدت:** حدود 9.2 دقیقه  
-  **عنوان:** [ASMR Decorating Snow White Journal 👸🍎 Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=0cD_qDK7Yxk)  
-  ![](https://i.ytimg.com/vi/0cD_qDK7Yxk/hqdefault.jpg)
