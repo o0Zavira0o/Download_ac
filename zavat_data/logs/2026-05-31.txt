@@ -1,4 +1,58 @@
 ================================================================================
+2026-05-31 02:25:31 (Asia/Tehran) | IrGens
+Title  : Web Application Analysis with Kali Linux
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 44m | 262 MB
+Link   : http://zavat.pw/ebooks/web-application-analysis-kali-linux.html
+
+================================================================================
+2026-05-31 02:25:31 (Asia/Tehran) | IrGens
+Title  : Authorization for Python
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 34m | 113 MB
+Link   : http://zavat.pw/ebooks/authorization-for-python.html
+
+================================================================================
+2026-05-31 02:25:31 (Asia/Tehran) | IrGens
+Title  : Automated Testing in C# 14
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h 56m | 774 MB
+Link   : http://zavat.pw/ebooks/c-sharp-14-automated-testing.html
+
+================================================================================
+2026-05-31 02:25:31 (Asia/Tehran) | IrGens
+Title  : Advanced C# 14: Systems and Memory
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h 59m | 452 MB
+Link   : http://zavat.pw/ebooks/advanced-c-sharp-14-systems-memory.html
+
+================================================================================
+2026-05-31 02:25:31 (Asia/Tehran) | IrGens
+Title  : C# 14 Dependency Injection
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 3h | 673 MB
+Link   : http://zavat.pw/ebooks/c-sharp-14-dependency-injection.html
+
+================================================================================
+2026-05-31 02:25:31 (Asia/Tehran) | hill0
+Title  : The Pharmaceutical Applications of Dimethyl Sulfoxide: From Skin Penetration to Cell Therapy
+Details: English | 2026 | ISBN: 3032192552 | 202 Pages | PDF EPUB (True) | 17 MB
+Link   : http://zavat.pw/ebooks/3032192552.html
+
+================================================================================
+2026-05-31 02:25:31 (Asia/Tehran) | hill0
+Title  : Von der Methodologie zu den Methoden in der menschlichen Psychologie
+Details: Deutsch | 2026 | ISBN: 3032248809 | 135 Pages | PDF (True) | 2 MB
+Link   : http://zavat.pw/ebooks/3032248809.html
+
+================================================================================
+2026-05-31 02:25:31 (Asia/Tehran) | hill0
+Title  : (Bau-)Vergaberecht – Eine praxisorientierte Einführung, 3. Auflage
+Details: Deutsch | 2026 | ISBN: 3658515473 | 113 Pages | PDF (True) | 5 MB
+Link   : http://zavat.pw/ebooks/3658515473.html
+
+================================================================================
+2026-05-31 02:25:31 (Asia/Tehran) | hill0
+Title  : The Secret Lives of Dragons and Other Mythical Creatures
+Details: English | 2026 | ISBN: 1577158423 | 378 Pages | EPUB | 22 MB
+Link   : http://zavat.pw/ebooks/1577158423.html
+
+================================================================================
 2026-05-31 01:02:42 (Asia/Tehran) | IrGens
 Title  : GenAI System Architecture Overview
 Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 45m | 263 MB
