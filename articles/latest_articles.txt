@@ -1,4 +1,4 @@
-# Last Run: 2026-05-30 06:53 UTC
+# Last Run: 2026-05-30 10:10 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
@@ -132,8 +132,4 @@ Link: https://foreignpolicy.com/2026/05/27/xi-jinping-kim-jong-un-china-north-ko
 [Foreign_Policy] Inside the Struggle to Build an Iranian Opposition
 Published: 2026-05-27T14:08:50+00:00
 Link: https://foreignpolicy.com/2026/05/27/iran-opposition-protest-regime-change-reza-pahlavi-freedom-congress/
----
-[Foreign_Policy] On AI, It’s the Pope vs. Trump
-Published: 2026-05-27T08:48:13+00:00
-Link: https://foreignpolicy.com/2026/05/27/pope-leo-ai-trump-encyclical/
 ---
