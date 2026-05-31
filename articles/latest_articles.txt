@@ -1,4 +1,4 @@
-# Last Run: 2026-05-30 23:03 UTC
+# Last Run: 2026-05-31 04:03 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
@@ -100,12 +100,4 @@ Link: https://foreignpolicy.com/2026/05/28/merz-germany-eu-brussels-regulation-l
 [Foreign_Policy] Trump Should Just Admit He Screwed Up
 Published: 2026-05-28T13:41:48+00:00
 Link: https://foreignpolicy.com/2026/05/28/trump-iran-war-mistake-admit/
----
-[Foreign_Affairs] The Coming Crisis of NATO Deterrence
-Published: 2026-05-28T04:00:00+00:00
-Link: https://www.foreignaffairs.com/russia/coming-crisis-nato-deterrence
----
-[Foreign_Affairs] Trump’s Least Bad Option in Iran
-Published: 2026-05-28T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/trumps-least-bad-option-iran
 ---
