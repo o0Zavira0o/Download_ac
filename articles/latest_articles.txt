@@ -1,4 +1,4 @@
-# Last Run: 2026-05-31 13:50 UTC
+# Last Run: 2026-05-31 15:22 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
@@ -84,12 +84,4 @@ Link: https://foreignpolicy.com/2026/05/28/erdogan-turkey-opposition-chp-imamogl
 [Foreign_Policy] Cubans Abandon the American Dream
 Published: 2026-05-28T16:23:22+00:00
 Link: https://foreignpolicy.com/2026/05/28/cuba-migration-us-trump-brazil-mexico-uruguay/
----
-[Foreign_Policy] Bibi’s Manichean Politics
-Published: 2026-05-28T15:00:33+00:00
-Link: https://foreignpolicy.com/2026/05/28/netanyahu-israel-elections-terrorism-gaza-democracy/
----
-[Foreign_Policy] The Madman Strikes Back
-Published: 2026-05-28T13:50:56+00:00
-Link: https://foreignpolicy.com/2026/05/28/trump-madman-theory-iran/
 ---
