@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-05-30T10:52:42Z_
+_آخرین به‌روزرسانی: 2026-05-31T11:04:15Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-05-31 10:25:15 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 02](https://www.youtube.com/watch?v=MMpJKoOV5Z0)  
+  ![](https://i.ytimg.com/vi/MMpJKoOV5Z0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-31 02:29:56 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 02](https://www.youtube.com/watch?v=W7XXjGs6dCk)  
+  ![](https://i.ytimg.com/vi/W7XXjGs6dCk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-24 08:08:59 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-30T10:52:42Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1k](https://www.youtube.com/watch?v=Yyda3jLaFgI)  
   ![](https://i.ytimg.com/vi/Yyda3jLaFgI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-16 13:01:22 (UTC)  
-  **مدت:** حدود 65.6 دقیقه  
-  **عنوان:** [FLOOR PLAN AUTOCAD BANGLA TUTORIALS|BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=gMIQA7fkzng)  
-  ![](https://i.ytimg.com/vi/gMIQA7fkzng/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-16 06:00:49 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1j](https://www.youtube.com/watch?v=vUmZuJgnyMI)  
-  ![](https://i.ytimg.com/vi/vUmZuJgnyMI/hqdefault.jpg)

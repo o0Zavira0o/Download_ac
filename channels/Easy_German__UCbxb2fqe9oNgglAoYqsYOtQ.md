@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-30T10:52:42Z_
+_آخرین به‌روزرسانی: 2026-05-31T11:04:15Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-05-30 16:58:43 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Unterschied zwischen Freunden und Bekannten #freund #bekannte #easygerman](https://www.youtube.com/watch?v=Flsq06ytsMg)  
+  ![](https://i.ytimg.com/vi/Flsq06ytsMg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-29 14:59:42 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-30T10:52:42Z_
   **مدت:** حدود 9.7 دقیقه  
   **عنوان:** [German cases: Accusative | Easy German 127](https://www.youtube.com/watch?v=1cREa7o2EPQ)  
   ![](https://i.ytimg.com/vi/1cREa7o2EPQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-02-07 00:25:09 (UTC)  
-  **مدت:** حدود 11.5 دقیقه  
-  **عنوان:** [Cari antwortet (27) - Nämlich | Rülpsen | Mir und Mich | Militär in Deutschland](https://www.youtube.com/watch?v=gE6k5i_GNW4)  
-  ![](https://i.ytimg.com/vi/gE6k5i_GNW4/hqdefault.jpg)
