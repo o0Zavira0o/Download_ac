@@ -1,4 +1,4 @@
-# Last Run: 2026-05-31 10:22 UTC
+# Last Run: 2026-05-31 13:50 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
@@ -92,12 +92,4 @@ Link: https://foreignpolicy.com/2026/05/28/netanyahu-israel-elections-terrorism-
 [Foreign_Policy] The Madman Strikes Back
 Published: 2026-05-28T13:50:56+00:00
 Link: https://foreignpolicy.com/2026/05/28/trump-madman-theory-iran/
----
-[Foreign_Policy] Friedrich Merz Doesn’t Understand the EU
-Published: 2026-05-28T13:48:46+00:00
-Link: https://foreignpolicy.com/2026/05/28/merz-germany-eu-brussels-regulation-leyen/
----
-[Foreign_Policy] Trump Should Just Admit He Screwed Up
-Published: 2026-05-28T13:41:48+00:00
-Link: https://foreignpolicy.com/2026/05/28/trump-iran-war-mistake-admit/
 ---
