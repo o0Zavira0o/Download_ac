@@ -1,6 +1,18 @@
-# Last Run: 2026-05-31 21:05 UTC
+# Last Run: 2026-05-31 23:05 UTC
 # Articles published in last 72 hours
 
+[New_Yorker_Magazine] The Paperboy’s Secret
+Published: 2026-05-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret
+---
+[New_Yorker_Magazine] “Firstborn Immigrant Daughter,” by Taiye Selasi
+Published: 2026-05-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/08/firstborn-immigrant-daughter-fiction-taiye-selasi
+---
+[New_Yorker_Magazine] The Knicks: The Only Game in Town
+Published: 2026-05-30T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/08/the-knicks-and-the-greatest-night-in-new-york-sports
+---
 [Foreign_Policy] U.N. Blacklists Israel, Russia for Sexual Violence in Conflict
 Published: 2026-05-29T20:49:26+00:00
 Link: https://foreignpolicy.com/2026/05/29/israel-russia-sexual-violence-un-report-guterres/
@@ -41,6 +53,14 @@ Link: https://foreignpolicy.com/2026/05/29/trump-constitution-iran-war-congress-
 Published: 2026-05-29T12:00:17+00:00
 Link: https://foreignpolicy.com/2026/05/29/eu-mexico-trade-deal-investment-sheinbaum-trump-usmca/
 ---
+[New_Yorker_Magazine] Postscript: Donald Newhouse
+Published: 2026-05-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/08/postscript-donald-newhouse
+---
+[New_Yorker_Magazine] “Power Ballad,” Reviewed: A Bromantic Conflict Over a Hit Song
+Published: 2026-05-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/08/power-ballad-movie-review
+---
 [Foreign_Policy] Don’t Count the Quad Out
 Published: 2026-05-29T04:01:38+00:00
 Link: https://foreignpolicy.com/2026/05/29/quad-australia-india-japan-us-security-pacific-strategy-china/
@@ -60,8 +80,4 @@ Link: https://www.foreignaffairs.com/cuba/cubas-only-option
 [Foreign_Affairs] China’s AI Heist
 Published: 2026-05-29T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/chinas-ai-heist
----
-[Foreign_Policy] Groundhog Day: Iran War Edition
-Published: 2026-05-28T22:02:31+00:00
-Link: https://foreignpolicy.com/2026/05/28/iran-war-trump-mou-deal-lebanon-israel/
 ---
