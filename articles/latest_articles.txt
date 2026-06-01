@@ -1,9 +1,29 @@
-# Last Run: 2026-06-01 04:53 UTC
+# Last Run: 2026-06-01 11:41 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Energy Crisis Will Long Outlast the Iran War
+Published: 2026-06-01T09:30:00+00:00
+Link: https://foreignpolicy.com/2026/06/01/iran-war-hormuz-energy-crisis-how-long-last/
+---
+[Foreign_Policy] Germany Is Scrambling to Speed Up Its Rearmament
+Published: 2026-06-01T08:18:45+00:00
+Link: https://foreignpolicy.com/2026/06/01/germany-merz-military-trump-rearm-bundeswehr-nato-europe/
+---
 [Foreign_Policy] Clinton’s Lincoln Bedroom Scandal Looks Quaint Now
 Published: 2026-06-01T04:01:15+00:00
 Link: https://foreignpolicy.com/2026/06/01/clinton-lincoln-bedroom-political-scandal/
+---
+[Foreign_Affairs] Ukraine Turns the Tide
+Published: 2026-06-01T04:00:00+00:00
+Link: https://www.foreignaffairs.com/ukraine/ukraine-turns-tide
+---
+[Foreign_Affairs] The End of Foreign Aid Is Not the End of Development
+Published: 2026-06-01T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/end-foreign-aid-not-end-development
+---
+[Foreign_Affairs] How Migration Helps Authoritarians
+Published: 2026-06-01T04:00:00+00:00
+Link: https://www.foreignaffairs.com/europe/how-migration-helps-authoritarians
 ---
 [New_Yorker_Magazine] The Paperboy’s Secret
 Published: 2026-05-31T10:00:00+00:00
@@ -56,12 +76,4 @@ Link: https://foreignpolicy.com/2026/05/29/trump-constitution-iran-war-congress-
 [Foreign_Policy] What’s Behind the EU-Mexico Trade Deal?
 Published: 2026-05-29T12:00:17+00:00
 Link: https://foreignpolicy.com/2026/05/29/eu-mexico-trade-deal-investment-sheinbaum-trump-usmca/
----
-[New_Yorker_Magazine] Postscript: Donald Newhouse
-Published: 2026-05-29T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/postscript-donald-newhouse
----
-[New_Yorker_Magazine] “Power Ballad,” Reviewed: A Bromantic Conflict Over a Hit Song
-Published: 2026-05-29T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/power-ballad-movie-review
 ---
