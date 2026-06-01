@@ -1,6 +1,22 @@
-# Last Run: 2026-06-01 11:41 UTC
+# Last Run: 2026-06-01 17:47 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Pakistan’s Diplomatic Pivot Makes It a Trump-Era Power Player
+Published: 2026-06-01T17:04:21+00:00
+Link: https://foreignpolicy.com/2026/06/01/trump-pakistan-iran-peace-munir-crypto-power/
+---
+[Foreign_Policy] The Epidemic of GPS Jamming
+Published: 2026-06-01T15:50:13+00:00
+Link: https://foreignpolicy.com/2026/06/01/gps-jamming-hormuz-russia-baltic-aviation-shipping-trade/
+---
+[Foreign_Policy] Washington Wants Myanmar’s Minerals
+Published: 2026-06-01T13:53:16+00:00
+Link: https://foreignpolicy.com/2026/06/01/trump-myanmar-minerals-democracy-rare-earth-junta/
+---
+[Foreign_Policy] Can the State Department Make Europe Great Again?
+Published: 2026-06-01T13:49:01+00:00
+Link: https://foreignpolicy.com/2026/06/01/state-department-europe-trump-far-right-populist-hungary-orban/
+---
 [Foreign_Policy] The Energy Crisis Will Long Outlast the Iran War
 Published: 2026-06-01T09:30:00+00:00
 Link: https://foreignpolicy.com/2026/06/01/iran-war-hormuz-energy-crisis-how-long-last/
@@ -12,6 +28,14 @@ Link: https://foreignpolicy.com/2026/06/01/germany-merz-military-trump-rearm-bun
 [Foreign_Policy] Clinton’s Lincoln Bedroom Scandal Looks Quaint Now
 Published: 2026-06-01T04:01:15+00:00
 Link: https://foreignpolicy.com/2026/06/01/clinton-lincoln-bedroom-political-scandal/
+---
+[Foreign_Affairs] The End of Foreign Aid Is Not the End of Development
+Published: 2026-06-01T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/end-foreign-aid-not-end-development-mark-suzman
+---
+[Foreign_Affairs] Ukraine Turns the Tide
+Published: 2026-06-01T04:00:00+00:00
+Link: https://www.foreignaffairs.com/ukraine/ukraine-war-turns-tide
 ---
 [Foreign_Affairs] Ukraine Turns the Tide
 Published: 2026-06-01T04:00:00+00:00
@@ -60,20 +84,4 @@ Link: https://foreignpolicy.com/2026/05/29/us-dollar-history-money-currency-mone
 [Foreign_Policy] Authoritarian Transformation in Istanbul’s Old City
 Published: 2026-05-29T18:00:39+00:00
 Link: https://foreignpolicy.com/2026/05/29/turkey-erdogan-authoritarian-istanbul-life-itself-old-city-review/
----
-[Foreign_Policy] What in the World?
-Published: 2026-05-29T16:06:15+00:00
-Link: https://foreignpolicy.com/2026/05/29/news-quiz-us-iran-strikes-russia-ukraine-war-congo-ceasefire/
----
-[Foreign_Policy] Syria Wants to Replace the Strait of Hormuz
-Published: 2026-05-29T15:12:25+00:00
-Link: https://foreignpolicy.com/2026/05/29/syria-iran-hormuz-shipping-reconstruction/
----
-[Foreign_Policy] Of Course It’s a War
-Published: 2026-05-29T14:10:36+00:00
-Link: https://foreignpolicy.com/2026/05/29/trump-constitution-iran-war-congress-blockade-ceasefire/
----
-[Foreign_Policy] What’s Behind the EU-Mexico Trade Deal?
-Published: 2026-05-29T12:00:17+00:00
-Link: https://foreignpolicy.com/2026/05/29/eu-mexico-trade-deal-investment-sheinbaum-trump-usmca/
 ---
