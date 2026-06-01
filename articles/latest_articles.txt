@@ -1,6 +1,10 @@
-# Last Run: 2026-05-31 23:05 UTC
+# Last Run: 2026-06-01 04:53 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Clinton’s Lincoln Bedroom Scandal Looks Quaint Now
+Published: 2026-06-01T04:01:15+00:00
+Link: https://foreignpolicy.com/2026/06/01/clinton-lincoln-bedroom-political-scandal/
+---
 [New_Yorker_Magazine] The Paperboy’s Secret
 Published: 2026-05-31T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret
@@ -60,24 +64,4 @@ Link: https://www.newyorker.com/magazine/2026/06/08/postscript-donald-newhouse
 [New_Yorker_Magazine] “Power Ballad,” Reviewed: A Bromantic Conflict Over a Hit Song
 Published: 2026-05-29T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/06/08/power-ballad-movie-review
----
-[Foreign_Policy] Don’t Count the Quad Out
-Published: 2026-05-29T04:01:38+00:00
-Link: https://foreignpolicy.com/2026/05/29/quad-australia-india-japan-us-security-pacific-strategy-china/
----
-[Foreign_Policy] Don’t Count the Quad Out
-Published: 2026-05-29T04:01:38+00:00
-Link: https://foreignpolicy.com/2026/05/29/dont-count-the-quad-out/
----
-[Foreign_Affairs] Cuba’s Only Choice
-Published: 2026-05-29T04:00:00+00:00
-Link: https://www.foreignaffairs.com/cuba/cubas-only-choice
----
-[Foreign_Affairs] Cuba’s Only Option
-Published: 2026-05-29T04:00:00+00:00
-Link: https://www.foreignaffairs.com/cuba/cubas-only-option
----
-[Foreign_Affairs] China’s AI Heist
-Published: 2026-05-29T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/chinas-ai-heist
 ---
