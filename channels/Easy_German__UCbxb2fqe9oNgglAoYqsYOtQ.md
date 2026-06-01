@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-05-31T11:04:15Z_
+_آخرین به‌روزرسانی: 2026-06-01T15:30:33Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-01 11:24:48 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Schreibwaren #shorts #drogerie #easygerman](https://www.youtube.com/watch?v=rRUc_kUoDrs)  
+  ![](https://i.ytimg.com/vi/rRUc_kUoDrs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-31 17:00:08 (UTC)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [Understand Real German from the Streets of 🇩🇪 Halle](https://www.youtube.com/watch?v=_PAuIE14B7s)  
+  ![](https://i.ytimg.com/vi/_PAuIE14B7s/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-30 16:58:43 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-05-31T11:04:15Z_
   **مدت:** حدود 9.6 دقیقه  
   **عنوان:** [German Cases: Dative | Easy German 128](https://www.youtube.com/watch?v=vakPQicb2BQ)  
   ![](https://i.ytimg.com/vi/vakPQicb2BQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-02-11 00:21:54 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [Asking which language you speak - German Basic Phrases (40)](https://www.youtube.com/watch?v=2cLwjf8bOZo)  
-  ![](https://i.ytimg.com/vi/2cLwjf8bOZo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-02-07 20:32:42 (UTC)  
-  **مدت:** حدود 9.7 دقیقه  
-  **عنوان:** [German cases: Accusative | Easy German 127](https://www.youtube.com/watch?v=1cREa7o2EPQ)  
-  ![](https://i.ytimg.com/vi/1cREa7o2EPQ/hqdefault.jpg)

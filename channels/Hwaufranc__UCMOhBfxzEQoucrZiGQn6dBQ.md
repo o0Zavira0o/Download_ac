@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-05-31T11:04:15Z_
+_آخرین به‌روزرسانی: 2026-06-01T15:30:33Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-06-01 12:40:31 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Scrapbook Angel🪽 Paper ASMR Journal](https://www.youtube.com/watch?v=wKRJWZvYXUg)  
+  ![](https://i.ytimg.com/vi/wKRJWZvYXUg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-31 14:00:36 (UTC)  
+  **مدت:** حدود 18.1 دقیقه  
+  **عنوان:** [ASMR Secret Angel & Wedding Veil Pack Journal Unboxing jane&jace🤍 Scrapbook Haul](https://www.youtube.com/watch?v=PnOKQAch2FQ)  
+  ![](https://i.ytimg.com/vi/PnOKQAch2FQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-30 04:45:02 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-05-31T11:04:15Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Creative Art Journal unboxing #journalsupplies #coracreacrafts #creative #artworks](https://www.youtube.com/watch?v=po4AT3VfRx0)  
   ![](https://i.ytimg.com/vi/po4AT3VfRx0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-20 13:00:07 (UTC)  
-  **مدت:** حدود 68.4 دقیقه  
-  **عنوان:** [ASMR Variety of Journal Sounds Collage [1Hour]🏵️ 8 Spreads デコ手帳 다꾸 | hwaufranc](https://www.youtube.com/watch?v=5HdCqskJS3Q)  
-  ![](https://i.ytimg.com/vi/5HdCqskJS3Q/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-19 14:55:00 (UTC)  
-  **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [ASMR Creative Art Journaling 🌺 Variety of Journal Sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=eVjd7ojXxOw)  
-  ![](https://i.ytimg.com/vi/eVjd7ojXxOw/hqdefault.jpg)

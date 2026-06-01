@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-05-31T11:04:15Z_
+_آخرین به‌روزرسانی: 2026-06-01T15:30:33Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-01 01:03:49 (UTC)  
+  **مدت:** حدود 13.9 دقیقه  
+  **عنوان:** [Vẽ 3d VISI 2021](https://www.youtube.com/watch?v=-ObpV4u8XvM)  
+  ![](https://i.ytimg.com/vi/-ObpV4u8XvM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-05-31 11:47:43 (UTC)  
+  **مدت:** حدود 1.8 دقیقه  
+  **عنوان:** [Tiện ren côn mastercam](https://www.youtube.com/watch?v=XF7DGXUOe5I)  
+  ![](https://i.ytimg.com/vi/XF7DGXUOe5I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-31 07:02:41 (UTC)  

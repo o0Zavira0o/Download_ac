@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-05-31T11:04:15Z_
+_آخرین به‌روزرسانی: 2026-06-01T15:30:33Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-06-01 06:04:46 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 02](https://www.youtube.com/watch?v=qJ-UeSHH93Q)  
+  ![](https://i.ytimg.com/vi/qJ-UeSHH93Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-31 10:25:15 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-05-31T11:04:15Z_
   **مدت:** حدود 2.0 دقیقه  
   **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1l](https://www.youtube.com/watch?v=H0cb4_8DaBo)  
   ![](https://i.ytimg.com/vi/H0cb4_8DaBo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-16 14:01:01 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1k](https://www.youtube.com/watch?v=Yyda3jLaFgI)  
-  ![](https://i.ytimg.com/vi/Yyda3jLaFgI/hqdefault.jpg)

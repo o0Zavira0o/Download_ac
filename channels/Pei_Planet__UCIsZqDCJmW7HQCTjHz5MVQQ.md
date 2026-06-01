@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-05-31T11:04:15Z_
+_آخرین به‌روزرسانی: 2026-06-01T15:30:33Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-06-01 10:30:29 (UTC)  
+  **مدت:** حدود 48.0 دقیقه  
+  **عنوان:** [【ASMR】4 Creepy Scenes | Hospital, Lab, Museum & Church | No Talking](https://www.youtube.com/watch?v=dka6q8OJHcA)  
+  ![](https://i.ytimg.com/vi/dka6q8OJHcA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-29 10:30:05 (UTC)  
