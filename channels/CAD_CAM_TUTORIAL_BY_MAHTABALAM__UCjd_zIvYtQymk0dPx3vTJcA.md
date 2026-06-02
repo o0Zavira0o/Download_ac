@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-01T15:30:33Z_
+_آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-01 15:50:34 (UTC)  
+  **مدت:** حدود 41.9 دقیقه  
+  **عنوان:** [SolidWorks Animation Tutorial-Linkage and Wheel Mechanism](https://www.youtube.com/watch?v=VT7sLv3znLI)  
+  ![](https://i.ytimg.com/vi/VT7sLv3znLI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-24 15:43:12 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-01T15:30:33Z_
   **مدت:** حدود 48.5 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch turnbuckle in Solidworks](https://www.youtube.com/watch?v=m0qNqT36XMc)  
   ![](https://i.ytimg.com/vi/m0qNqT36XMc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-26 16:52:24 (UTC)  
-  **مدت:** حدود 34.8 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Rope Clamp M5 in Solidworks](https://www.youtube.com/watch?v=XWS0J2G7aMY)  
-  ![](https://i.ytimg.com/vi/XWS0J2G7aMY/hqdefault.jpg)

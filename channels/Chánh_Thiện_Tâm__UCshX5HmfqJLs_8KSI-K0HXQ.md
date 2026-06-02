@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-01T15:30:33Z_
+_آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-02 10:04:51 (UTC)  
+  **مدت:** حدود 10.9 دقیقه  
+  **عنوان:** [Cài đặt đầu dao 90 độ Mastercam angle head 90](https://www.youtube.com/watch?v=9HP7H0a0VBo)  
+  ![](https://i.ytimg.com/vi/9HP7H0a0VBo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-02 00:52:46 (UTC)  
+  **مدت:** حدود 20.1 دقیقه  
+  **عنوان:** [Lập trình phay khuôn Creo P1](https://www.youtube.com/watch?v=Iiw0bmbdh70)  
+  ![](https://i.ytimg.com/vi/Iiw0bmbdh70/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-01 01:03:49 (UTC)  
