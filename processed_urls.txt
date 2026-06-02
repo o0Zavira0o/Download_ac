@@ -174,7 +174,9 @@ https://foreignpolicy.com/2026/06/01/state-department-europe-trump-far-right-pop
 https://foreignpolicy.com/2026/06/01/trump-israel-iran-war-deal-election-netanyahu/
 https://foreignpolicy.com/2026/06/01/trump-myanmar-minerals-democracy-rare-earth-junta/
 https://foreignpolicy.com/2026/06/01/trump-pakistan-iran-peace-munir-crypto-power/
+https://foreignpolicy.com/2026/06/02/critical-mineral-trade-trump-china-supply-chain-africa-latin-america/
 https://foreignpolicy.com/2026/06/02/great-powers-four-united-states-china-russia-great-britain-france-germany/
+https://foreignpolicy.com/2026/06/02/israel-christian-violence-jerusalem-holy-land-nun-attack/
 https://www.foreignaffairs.com/china/chinas-ai-heist
 https://www.foreignaffairs.com/china/coming-contest-asias-waterways
 https://www.foreignaffairs.com/china/hormuz-warning-indo-pacific
@@ -196,6 +198,7 @@ https://www.foreignaffairs.com/iran/let-iran-defeat-itself
 https://www.foreignaffairs.com/iran/new-order-gulf
 https://www.foreignaffairs.com/iran/price-peace-iran
 https://www.foreignaffairs.com/iran/trumps-least-bad-option-iran
+https://www.foreignaffairs.com/israel/hezbollahs-trap-israel
 https://www.foreignaffairs.com/japan/japans-point-no-return
 https://www.foreignaffairs.com/japan/return-japanese-hard-power
 https://www.foreignaffairs.com/libya/libyas-false-peace
