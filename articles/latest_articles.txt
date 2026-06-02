@@ -1,6 +1,14 @@
-# Last Run: 2026-06-02 04:09 UTC
+# Last Run: 2026-06-02 10:30 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] There Are Only Four Great Powers
+Published: 2026-06-02T08:28:54+00:00
+Link: https://foreignpolicy.com/2026/06/02/great-powers-four-united-states-china-russia-great-britain-france-germany/
+---
+[Foreign_Affairs] Iran Embraces a Forever War
+Published: 2026-06-02T04:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/iran-embraces-forever-war
+---
 [Foreign_Policy] Trump Says Israel, Hezbollah to Halt Attacks as Iran Talks Continue
 Published: 2026-06-01T21:45:14+00:00
 Link: https://foreignpolicy.com/2026/06/01/israel-attacks-lebanon-hezbollah-trump-iran-talks-netanyahu/
@@ -64,8 +72,4 @@ Link: https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret
 [New_Yorker_Magazine] “Firstborn Immigrant Daughter,” by Taiye Selasi
 Published: 2026-05-31T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/06/08/firstborn-immigrant-daughter-fiction-taiye-selasi
----
-[New_Yorker_Magazine] The Knicks: The Only Game in Town
-Published: 2026-05-30T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/the-knicks-and-the-greatest-night-in-new-york-sports
 ---
