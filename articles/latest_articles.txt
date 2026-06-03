@@ -1,6 +1,14 @@
-# Last Run: 2026-06-03 04:18 UTC
+# Last Run: 2026-06-03 11:07 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Middle East Cease-Fires Matter Even When They’re Broken
+Published: 2026-06-03T10:00:06+00:00
+Link: https://foreignpolicy.com/2026/06/03/iran-lebanon-israel-cease-fires-peace/
+---
+[Foreign_Policy] Why Asia’s Not Buying What Hegseth’s Selling
+Published: 2026-06-03T05:00:33+00:00
+Link: https://foreignpolicy.com/2026/06/03/hegseth-shangri-la-asia-defense-spending/
+---
 [Foreign_Affairs] Iran’s New Grand Strategy
 Published: 2026-06-03T04:00:00+00:00
 Link: https://www.foreignaffairs.com/iran/irans-new-grand-strategy
@@ -100,12 +108,4 @@ Link: https://www.foreignaffairs.com/united-states/end-foreign-aid-not-end-devel
 [Foreign_Affairs] How Migration Helps Authoritarians
 Published: 2026-06-01T04:00:00+00:00
 Link: https://www.foreignaffairs.com/europe/how-migration-helps-authoritarians
----
-[New_Yorker_Magazine] The Paperboy’s Secret
-Published: 2026-05-31T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret
----
-[New_Yorker_Magazine] “Firstborn Immigrant Daughter,” by Taiye Selasi
-Published: 2026-05-31T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/firstborn-immigrant-daughter-fiction-taiye-selasi
 ---
