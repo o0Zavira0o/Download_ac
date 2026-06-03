@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
+_آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-06-02 12:54:02 (UTC)  
+  **مدت:** حدود 8.6 دقیقه  
+  **عنوان:** [Pulley Expansion Mechanism Design in Solidworks | Solidworks Assembly Tutorial](https://www.youtube.com/watch?v=tMlD0OW_t_U)  
+  ![](https://i.ytimg.com/vi/tMlD0OW_t_U/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-25 03:07:56 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅Hybrid and Opposed-Piston Engines Explained](https://www.youtube.com/watch?v=tSHKxQ3HR-0)  
   ![](https://i.ytimg.com/vi/tSHKxQ3HR-0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-28 11:42:11 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Mechanical Mechanism 05 📌](https://www.youtube.com/watch?v=-Kmpb5A3_Eg)  
-  ![](https://i.ytimg.com/vi/-Kmpb5A3_Eg/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
+_آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-06-03 11:00:35 (UTC)  
+  **مدت:** حدود 17.9 دقیقه  
+  **عنوان:** [【SolidWorks】疊層拉伸：基礎零件｜基準面場控](https://www.youtube.com/watch?v=nqI0lWy67z0)  
+  ![](https://i.ytimg.com/vi/nqI0lWy67z0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-29 11:00:14 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
   **مدت:** حدود 21.5 دقیقه  
   **عنوان:** [【SolidWorks】分區建模練習｜這是阿儒轉變的起點｜好懷念的題目](https://www.youtube.com/watch?v=_WIGLnesJTI)  
   ![](https://i.ytimg.com/vi/_WIGLnesJTI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-04-05 11:00:17 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [短片看建模：SolidWoks曲軸建模程序](https://www.youtube.com/watch?v=DOssWP4OwmU)  
-  ![](https://i.ytimg.com/vi/DOssWP4OwmU/hqdefault.jpg)

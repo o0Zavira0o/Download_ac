@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
+_آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-06-03 03:11:18 (UTC)  
+  **مدت:** حدود 51.1 دقیقه  
+  **عنوان:** [Ep.18 Final Modified Assembly เครื่องพิมพ์มอร์ตาร์ 3D](https://www.youtube.com/watch?v=6WTmghqFsy0)  
+  ![](https://i.ytimg.com/vi/6WTmghqFsy0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-25 10:28:51 (UTC)  

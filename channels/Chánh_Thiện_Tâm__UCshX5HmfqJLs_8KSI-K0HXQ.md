@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
+_آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-03 11:42:36 (UTC)  
+  **مدت:** حدود 4.3 دقیقه  
+  **عنوان:** [Tách khuôn co nước solidworks](https://www.youtube.com/watch?v=vCDTi0xwjvs)  
+  ![](https://i.ytimg.com/vi/vCDTi0xwjvs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-03 01:02:41 (UTC)  
+  **مدت:** حدود 15.7 دقیقه  
+  **عنوان:** [Lập trình phay khuôn Creo P2](https://www.youtube.com/watch?v=OQX-4ZrjaUc)  
+  ![](https://i.ytimg.com/vi/OQX-4ZrjaUc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-02 10:04:51 (UTC)  

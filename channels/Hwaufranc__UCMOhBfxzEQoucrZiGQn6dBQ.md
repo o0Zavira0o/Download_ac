@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
+_آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-06-03 13:00:27 (UTC)  
+  **مدت:** حدود 75.2 دقیقه  
+  **عنوان:** [ASMR Journaling Compilation 1 HOUR | Stress Relief Paper Scrapbook Relaxing Sounds](https://www.youtube.com/watch?v=nEPcrGFD0KE)  
+  ![](https://i.ytimg.com/vi/nEPcrGFD0KE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-02 14:00:24 (UTC)  
+  **مدت:** حدود 15.4 دقیقه  
+  **عنوان:** [ASMR Journaling Wedding Veil | Scrapbooking Paper asmr 다꾸 diy 꾸미기](https://www.youtube.com/watch?v=-WZf-5qkDTM)  
+  ![](https://i.ytimg.com/vi/-WZf-5qkDTM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-01 12:40:31 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
   **مدت:** حدود 10.0 دقیقه  
   **عنوان:** [ASMR Decorating Vintage Red Journal 📜❤️ Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=_tqEtOJIARo)  
   ![](https://i.ytimg.com/vi/_tqEtOJIARo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-22 17:41:01 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Creative Art Journal 👗 Variety of Journal Sounds Collage & Artprocess](https://www.youtube.com/watch?v=muGQ_qmJZiU)  
-  ![](https://i.ytimg.com/vi/muGQ_qmJZiU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-21 17:45:02 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Creative Art Journal unboxing #journalsupplies #coracreacrafts #creative #artworks](https://www.youtube.com/watch?v=po4AT3VfRx0)  
-  ![](https://i.ytimg.com/vi/po4AT3VfRx0/hqdefault.jpg)

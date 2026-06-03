@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
+_آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-06-03 10:30:18 (UTC)  
+  **مدت:** حدود 23.2 دقیقه  
+  **عنوان:** [【ASMR】DIY Bookstore & Coffee Café 📚☕✨| Cozy Town Sticker Scenes | No Talking](https://www.youtube.com/watch?v=k5V6sP7kzwg)  
+  ![](https://i.ytimg.com/vi/k5V6sP7kzwg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-01 10:30:29 (UTC)  

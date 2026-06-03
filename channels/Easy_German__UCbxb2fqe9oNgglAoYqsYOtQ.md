@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
+_آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-02 17:06:18 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Was magst du an Erfurt? #easygerman #deutschlernen #deutschestädte](https://www.youtube.com/watch?v=r6Td0LVScyU)  
+  ![](https://i.ytimg.com/vi/r6Td0LVScyU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-01 11:24:48 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-02T12:48:30Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [Expressing that someone is crazy - German Basic Phrases (41)](https://www.youtube.com/watch?v=yPhJLVMlol8)  
   ![](https://i.ytimg.com/vi/yPhJLVMlol8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-02-14 20:04:14 (UTC)  
-  **مدت:** حدود 9.6 دقیقه  
-  **عنوان:** [German Cases: Dative | Easy German 128](https://www.youtube.com/watch?v=vakPQicb2BQ)  
-  ![](https://i.ytimg.com/vi/vakPQicb2BQ/hqdefault.jpg)
