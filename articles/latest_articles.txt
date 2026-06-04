@@ -1,6 +1,18 @@
-# Last Run: 2026-06-03 23:49 UTC
+# Last Run: 2026-06-04 10:02 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Threat of Unrest Is Decarbonizing the Global South
+Published: 2026-06-04T04:17:26+00:00
+Link: https://foreignpolicy.com/2026/06/04/iran-war-decarbonizing-global-south/
+---
+[Foreign_Affairs] The Transatlantic Crucible
+Published: 2026-06-04T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/transatlantic-crucible
+---
+[Foreign_Affairs] The American Military’s Coming Marathon
+Published: 2026-06-04T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/american-militarys-coming-marathon
+---
 [Foreign_Policy] The Afghanistan-Pakistan Border Is Still Unstable
 Published: 2026-06-03T23:03:39+00:00
 Link: https://foreignpolicy.com/2026/06/03/afghanistan-pakistan-border-violence-pause-taliban-ttp/
@@ -112,112 +124,4 @@ Link: https://foreignpolicy.com/2026/06/01/trump-myanmar-minerals-democracy-rare
 [Foreign_Policy] Can the State Department Make Europe Great Again?
 Published: 2026-06-01T13:49:01+00:00
 Link: https://foreignpolicy.com/2026/06/01/state-department-europe-trump-far-right-populist-hungary-orban/
----
-[New_Yorker_Magazine] Love Omen
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/love-omen-miriam-toews
----
-[New_Yorker_Magazine] “Mirage,” by Arthur Sze
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/mirage-arthur-sze-poem
----
-[New_Yorker_Magazine] Forward Into Foreignness
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/forward-into-foreignness-joseph-oneill
----
-[New_Yorker_Magazine] The Tally
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/the-tally-anne-enright
----
-[New_Yorker_Magazine] Dusty Baker Plays the Long Game
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/dusty-baker-plays-the-long-game
----
-[New_Yorker_Magazine] The Happy Ending Romeo and Juliet Didn’t Get
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/the-happy-ending-romeo-and-juliet-didnt-get
----
-[New_Yorker_Magazine] “Love and Death in the American Novel,” Reviewed
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/love-and-death-in-the-american-novel-leslie-fiedler-book-review
----
-[New_Yorker_Magazine] What Did “Lady Chatterley” Liberate?
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/lady-c-guy-cuthbertson-book-review
----
-[New_Yorker_Magazine] “The Twice-Widowed Khala Helai,” by Jamil Jan Kochai
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/the-twice-widowed-khala-helai-fiction-jamil-jan-kochai
----
-[New_Yorker_Magazine] The Antagonist
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/the-antagonist-han-ong
----
-[New_Yorker_Magazine] Table Manners
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/table-manners-andre-alexis
----
-[New_Yorker_Magazine] “How to Grow Old,” by Sandra Cisneros
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/how-to-grow-old-sandra-cisneros-poem
----
-[New_Yorker_Magazine] “Land,” Reviewed
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/land-maggie-ofarrell-book-review
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/look-what-you-made-me-do-madagh-adrift-in-the-south-the-story-of-birds
----
-[New_Yorker_Magazine] Leo Woodall Gets a Tune Up
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/leo-woodall-gets-a-tune-up
----
-[New_Yorker_Magazine] Linda Goodman, the Recluse Who Brought Astrology to the Masses
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/follow-the-signs-courtney-ann-lafaive-book-review
----
-[New_Yorker_Magazine] “A Talent for Seeming,” by Jonathan Franzen
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/a-talent-for-seeming-fiction-jonathan-franzen
----
-[New_Yorker_Magazine] “Stories,” by Annie Ernaux
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/stories-fiction-annie-ernaux
----
-[New_Yorker_Magazine] The World Cup According to Gianni Infantino
-Published: 2026-06-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/08/the-world-cup-according-to-gianni-infantino
----
-[Foreign_Policy] The Energy Crisis Will Long Outlast the Iran War
-Published: 2026-06-01T09:30:00+00:00
-Link: https://foreignpolicy.com/2026/06/01/iran-war-hormuz-energy-crisis-how-long-last/
----
-[Foreign_Policy] Germany Is Scrambling to Speed Up Its Rearmament
-Published: 2026-06-01T08:18:45+00:00
-Link: https://foreignpolicy.com/2026/06/01/germany-merz-military-trump-rearm-bundeswehr-nato-europe/
----
-[Foreign_Policy] Clinton’s Lincoln Bedroom Scandal Looks Quaint Now
-Published: 2026-06-01T04:01:15+00:00
-Link: https://foreignpolicy.com/2026/06/01/clinton-lincoln-bedroom-political-scandal/
----
-[Foreign_Affairs] The End of Foreign Aid Is Not the End of Development
-Published: 2026-06-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/end-foreign-aid-not-end-development-mark-suzman
----
-[Foreign_Affairs] Ukraine Turns the Tide
-Published: 2026-06-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/ukraine/ukraine-war-turns-tide
----
-[Foreign_Affairs] Ukraine Turns the Tide
-Published: 2026-06-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/ukraine/ukraine-turns-tide
----
-[Foreign_Affairs] The End of Foreign Aid Is Not the End of Development
-Published: 2026-06-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/end-foreign-aid-not-end-development
----
-[Foreign_Affairs] How Migration Helps Authoritarians
-Published: 2026-06-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/europe/how-migration-helps-authoritarians
 ---
