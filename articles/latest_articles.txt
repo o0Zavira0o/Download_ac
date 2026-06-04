@@ -1,6 +1,10 @@
-# Last Run: 2026-06-04 16:59 UTC
+# Last Run: 2026-06-04 20:12 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] China Is Too Big for Shangri-La
+Published: 2026-06-04T17:17:03+00:00
+Link: https://foreignpolicy.com/2026/06/04/china-shangri-la-dong-jun-defense-minister/
+---
 [Foreign_Policy] Trump’s New ‘Forced Labor’ Tariffs Are a Fig Leaf
 Published: 2026-06-04T16:04:04+00:00
 Link: https://foreignpolicy.com/2026/06/04/trump-forced-labor-tariffs-ustr-trade-section-301/
@@ -128,8 +132,4 @@ Link: https://foreignpolicy.com/2026/06/01/israel-attacks-lebanon-hezbollah-trum
 [Foreign_Policy] A Trump Deal With Iran Could Spell Trouble for Netanyahu
 Published: 2026-06-01T20:15:41+00:00
 Link: https://foreignpolicy.com/2026/06/01/trump-israel-iran-war-deal-election-netanyahu/
----
-[Foreign_Policy] Pakistan’s Diplomatic Pivot Makes It a Trump-Era Power Player
-Published: 2026-06-01T17:04:21+00:00
-Link: https://foreignpolicy.com/2026/06/01/trump-pakistan-iran-peace-munir-crypto-power/
 ---
