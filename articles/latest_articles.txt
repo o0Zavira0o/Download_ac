@@ -1,6 +1,14 @@
-# Last Run: 2026-06-04 12:55 UTC
+# Last Run: 2026-06-04 16:59 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump’s New ‘Forced Labor’ Tariffs Are a Fig Leaf
+Published: 2026-06-04T16:04:04+00:00
+Link: https://foreignpolicy.com/2026/06/04/trump-forced-labor-tariffs-ustr-trade-section-301/
+---
+[Foreign_Policy] Are We Reliving the 1890s, 1930s, or 1950s?
+Published: 2026-06-04T12:50:37+00:00
+Link: https://foreignpolicy.com/2026/06/04/global-order-geopolitics-trump-us-china-history-1930s-cold-war/
+---
 [Foreign_Policy] Estonia Has Lessons for Us All
 Published: 2026-06-04T11:28:05+00:00
 Link: https://foreignpolicy.com/2026/06/04/estonia-technology-government-state-citizens-military-russia/
@@ -12,6 +20,10 @@ Link: https://foreignpolicy.com/2026/06/04/russia-putin-chechnya-kadyrov-success
 [Foreign_Policy] The Threat of Unrest Is Decarbonizing the Global South
 Published: 2026-06-04T04:17:26+00:00
 Link: https://foreignpolicy.com/2026/06/04/iran-war-decarbonizing-global-south/
+---
+[Foreign_Affairs] The Transatlantic Crucible
+Published: 2026-06-04T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/transatlantic-crucible-europe-nato
 ---
 [Foreign_Affairs] The Transatlantic Crucible
 Published: 2026-06-04T04:00:00+00:00
@@ -120,16 +132,4 @@ Link: https://foreignpolicy.com/2026/06/01/trump-israel-iran-war-deal-election-n
 [Foreign_Policy] Pakistan’s Diplomatic Pivot Makes It a Trump-Era Power Player
 Published: 2026-06-01T17:04:21+00:00
 Link: https://foreignpolicy.com/2026/06/01/trump-pakistan-iran-peace-munir-crypto-power/
----
-[Foreign_Policy] The Epidemic of GPS Jamming
-Published: 2026-06-01T15:50:13+00:00
-Link: https://foreignpolicy.com/2026/06/01/gps-jamming-hormuz-russia-baltic-aviation-shipping-trade/
----
-[Foreign_Policy] Washington Wants Myanmar’s Minerals
-Published: 2026-06-01T13:53:16+00:00
-Link: https://foreignpolicy.com/2026/06/01/trump-myanmar-minerals-democracy-rare-earth-junta/
----
-[Foreign_Policy] Can the State Department Make Europe Great Again?
-Published: 2026-06-01T13:49:01+00:00
-Link: https://foreignpolicy.com/2026/06/01/state-department-europe-trump-far-right-populist-hungary-orban/
 ---
