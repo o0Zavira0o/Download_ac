@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
+_آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-06-04 04:53:45 (UTC)  
+  **مدت:** حدود 25.8 دقیقه  
+  **عنوان:** [Ep.19 ทดสอบเครื่อง Feed mortar](https://www.youtube.com/watch?v=AWL5CmopiIs)  
+  ![](https://i.ytimg.com/vi/AWL5CmopiIs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-03 03:11:18 (UTC)  

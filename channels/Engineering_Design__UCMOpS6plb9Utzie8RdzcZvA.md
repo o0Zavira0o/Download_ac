@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
+_آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-06-04 02:37:39 (UTC)  
+  **مدت:** حدود 8.2 دقیقه  
+  **عنوان:** [Mechanical CAD Challenge: Model This Gear Shaft in SOLIDWORKS](https://www.youtube.com/watch?v=yHMQ9vgA5AE)  
+  ![](https://i.ytimg.com/vi/yHMQ9vgA5AE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-02 12:54:02 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅ Mechanical Mechanism 06](https://www.youtube.com/watch?v=gMh57VBfBHM)  
   ![](https://i.ytimg.com/vi/gMh57VBfBHM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-29 11:47:18 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Hybrid and Opposed-Piston Engines Explained](https://www.youtube.com/watch?v=tSHKxQ3HR-0)  
-  ![](https://i.ytimg.com/vi/tSHKxQ3HR-0/hqdefault.jpg)

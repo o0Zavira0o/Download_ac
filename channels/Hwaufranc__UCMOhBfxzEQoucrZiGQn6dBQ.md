@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
+_آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-06-03 13:50:02 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [Junk Journaling 초코칩🍪diy꾸미기 asmr](https://www.youtube.com/watch?v=vpDzqDr_u5U)  
+  ![](https://i.ytimg.com/vi/vpDzqDr_u5U/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-03 13:00:27 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
   **مدت:** حدود 9.4 دقیقه  
   **عنوان:** [ASMR Vintage journal supplies unboxing UniDiary💝 Variety Journaling Item 다꾸 デコ手帳](https://www.youtube.com/watch?v=H8HPVic2v_c)  
   ![](https://i.ytimg.com/vi/H8HPVic2v_c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-24 11:00:25 (UTC)  
-  **مدت:** حدود 10.0 دقیقه  
-  **عنوان:** [ASMR Decorating Vintage Red Journal 📜❤️ Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=_tqEtOJIARo)  
-  ![](https://i.ytimg.com/vi/_tqEtOJIARo/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
+_آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-03 17:00:04 (UTC)  
+  **مدت:** حدود 12.3 دقیقه  
+  **عنوان:** [Post Office in Slow German](https://www.youtube.com/watch?v=Ys_GtlFCq_c)  
+  ![](https://i.ytimg.com/vi/Ys_GtlFCq_c/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-02 17:06:18 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-03T13:22:18Z_
   **مدت:** حدود 10.9 دقیقه  
   **عنوان:** [What is the meaning of life? | Easy German 129](https://www.youtube.com/watch?v=hpUR3r6Ei1A)  
   ![](https://i.ytimg.com/vi/hpUR3r6Ei1A/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-02-17 10:49:48 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Expressing that someone is crazy - German Basic Phrases (41)](https://www.youtube.com/watch?v=yPhJLVMlol8)  
-  ![](https://i.ytimg.com/vi/yPhJLVMlol8/hqdefault.jpg)
