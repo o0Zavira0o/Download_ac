@@ -1,6 +1,18 @@
-# Last Run: 2026-06-05 08:12 UTC
+# Last Run: 2026-06-05 12:44 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How Brazilian Soccer Shed Protectionism
+Published: 2026-06-05T12:00:53+00:00
+Link: https://foreignpolicy.com/2026/06/05/brazil-soccer-world-cup-foreign-coach-protectionism/
+---
+[Foreign_Policy] Washington Is Testing Singapore’s Patience
+Published: 2026-06-05T09:34:02+00:00
+Link: https://foreignpolicy.com/2026/06/05/singapore-trump-tariffs-trade-forced-labor-china-geopolitics/
+---
+[Foreign_Policy] Everyone Is Waiting for Trump’s Gaza Plan to Die
+Published: 2026-06-05T07:53:14+00:00
+Link: https://foreignpolicy.com/2026/06/05/trump-gaza-peace-board-israel-war/
+---
 [Foreign_Policy] To Fix Haiti, Look to Colombia
 Published: 2026-06-05T04:01:29+00:00
 Link: https://foreignpolicy.com/2026/06/05/fix-haiti-look-to-colombia/
@@ -136,16 +148,4 @@ Link: https://foreignpolicy.com/2026/06/02/kaine-paul-rubio-trump-drug-boat-stri
 [Foreign_Policy] The Gulf Crisis Is Forcing Japan Into an Energy Rethink
 Published: 2026-06-02T19:21:06+00:00
 Link: https://foreignpolicy.com/2026/06/02/gulf-energy-iran-oil-crisis-japan-strategy-nuclear/
----
-[Foreign_Policy] Israel Has a Growing Anti-Christian Problem
-Published: 2026-06-02T11:00:45+00:00
-Link: https://foreignpolicy.com/2026/06/02/israel-christian-violence-jerusalem-holy-land-nun-attack/
----
-[Foreign_Policy] The World’s Mineral Powers Seize Their Moment
-Published: 2026-06-02T10:00:39+00:00
-Link: https://foreignpolicy.com/2026/06/02/critical-mineral-trade-trump-china-supply-chain-africa-latin-america/
----
-[Foreign_Policy] There Are Only Four Great Powers
-Published: 2026-06-02T08:28:54+00:00
-Link: https://foreignpolicy.com/2026/06/02/great-powers-four-united-states-china-russia-great-britain-france-germany/
 ---
