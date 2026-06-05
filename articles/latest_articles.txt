@@ -1,9 +1,21 @@
-# Last Run: 2026-06-05 04:22 UTC
+# Last Run: 2026-06-05 08:12 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] To Fix Haiti, Look to Colombia
 Published: 2026-06-05T04:01:29+00:00
 Link: https://foreignpolicy.com/2026/06/05/fix-haiti-look-to-colombia/
+---
+[Foreign_Affairs] Iran and the Hidden Cost of Wartime Access
+Published: 2026-06-05T04:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/iran-and-hidden-cost-wartime-access
+---
+[Foreign_Affairs] Can the UAE Go It Alone?
+Published: 2026-06-05T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-arab-emirates/can-uae-go-it-alone
+---
+[Foreign_Affairs] How China Misperceives Itself
+Published: 2026-06-05T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/how-china-misperceives-itself
 ---
 [Foreign_Policy] Kushner-Linked Luxury Resort Plans Ignite Protests Across Albania
 Published: 2026-06-04T22:12:22+00:00
