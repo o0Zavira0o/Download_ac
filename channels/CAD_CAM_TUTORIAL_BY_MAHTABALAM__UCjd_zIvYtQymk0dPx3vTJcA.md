@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
+_آخرین به‌روزرسانی: 2026-06-05T12:16:08Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-05 03:30:00 (UTC)  
+  **مدت:** حدود 40.5 دقیقه  
+  **عنوان:** [SolidWorks Drawing Tutorial-Mounting Base Plate](https://www.youtube.com/watch?v=HsdLHX_uDyI)  
+  ![](https://i.ytimg.com/vi/HsdLHX_uDyI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-04 03:30:01 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
   **مدت:** حدود 12.8 دقیقه  
   **عنوان:** [Solidworks tutorial | How to sketch Wing Nut in Solidworks](https://www.youtube.com/watch?v=Jlxj9lxrB4w)  
   ![](https://i.ytimg.com/vi/Jlxj9lxrB4w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-29 21:38:00 (UTC)  
-  **مدت:** حدود 37.1 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Surface gauge in Solidworks](https://www.youtube.com/watch?v=Yf0AjFn_tYM)  
-  ![](https://i.ytimg.com/vi/Yf0AjFn_tYM/hqdefault.jpg)

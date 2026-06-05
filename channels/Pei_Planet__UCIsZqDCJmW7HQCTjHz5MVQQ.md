@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
+_آخرین به‌روزرسانی: 2026-06-05T12:16:08Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-06-05 10:30:29 (UTC)  
+  **مدت:** حدود 12.2 دقیقه  
+  **عنوان:** [【ASMR】DIY The Crowded Corner Fruit Shop 🍓🐾 | Sticker Scene | No Talking](https://www.youtube.com/watch?v=UYWOH-WaF_8)  
+  ![](https://i.ytimg.com/vi/UYWOH-WaF_8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-03 10:30:18 (UTC)  

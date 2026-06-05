@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
+_آخرین به‌روزرسانی: 2026-06-05T12:16:08Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-04 15:12:54 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Reise- und Probiergrößen #easygerman #deutschüben #reisen](https://www.youtube.com/watch?v=VnrFhCjqb14)  
+  ![](https://i.ytimg.com/vi/VnrFhCjqb14/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-03 17:00:04 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
   **مدت:** حدود 1.2 دقیقه  
   **عنوان:** [Solving a misunderstanding - German Basic Phrases (42)](https://www.youtube.com/watch?v=LYtEh_eVEDc)  
   ![](https://i.ytimg.com/vi/LYtEh_eVEDc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-02-21 17:25:32 (UTC)  
-  **مدت:** حدود 10.9 دقیقه  
-  **عنوان:** [What is the meaning of life? | Easy German 129](https://www.youtube.com/watch?v=hpUR3r6Ei1A)  
-  ![](https://i.ytimg.com/vi/hpUR3r6Ei1A/hqdefault.jpg)

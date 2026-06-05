@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
+_آخرین به‌روزرسانی: 2026-06-05T12:16:08Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-06-05 11:00:38 (UTC)  
+  **مدت:** حدود 22.2 دقیقه  
+  **عنوان:** [【onshape】管件練習：加入順序｜分區處理](https://www.youtube.com/watch?v=72SZIDacxVQ)  
+  ![](https://i.ytimg.com/vi/72SZIDacxVQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-03 11:00:35 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
   **مدت:** حدود 7.5 دقیقه  
   **عنوان:** [【Onshape】滾花：螺旋線+掃出｜看起來很難｜其實很簡單](https://www.youtube.com/watch?v=4y1tEuik4BE)  
   ![](https://i.ytimg.com/vi/4y1tEuik4BE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-04-09 11:00:50 (UTC)  
-  **مدت:** حدود 21.5 دقیقه  
-  **عنوان:** [【SolidWorks】分區建模練習｜這是阿儒轉變的起點｜好懷念的題目](https://www.youtube.com/watch?v=_WIGLnesJTI)  
-  ![](https://i.ytimg.com/vi/_WIGLnesJTI/hqdefault.jpg)

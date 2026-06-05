@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
+_آخرین به‌روزرسانی: 2026-06-05T12:16:08Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-06-05 01:57:18 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [How to use a swept surface with multiple edges in solidworks 😀 #shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=Lguj3lmWnO8)  
+  ![](https://i.ytimg.com/vi/Lguj3lmWnO8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-27 13:03:30 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-04T12:09:01Z_
   **مدت:** حدود 1.7 دقیقه  
   **عنوان:** [How to use a swept boss feature with guide curve in solidworks #shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=MavQx0ODSXc)  
   ![](https://i.ytimg.com/vi/MavQx0ODSXc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-21 17:42:04 (UTC)  
-  **مدت:** حدود 4.0 دقیقه  
-  **عنوان:** [Equation driven curve in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=vY_9lxTTRSk)  
-  ![](https://i.ytimg.com/vi/vY_9lxTTRSk/hqdefault.jpg)
