@@ -1,6 +1,14 @@
-# Last Run: 2026-06-05 21:32 UTC
+# Last Run: 2026-06-05 23:15 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The U.S. Economy Is Proving Remarkably Resilient
+Published: 2026-06-05T20:50:04+00:00
+Link: https://foreignpolicy.com/2026/06/05/us-jobs-report-trump-economy-iran-energy-tariffs/
+---
+[Foreign_Policy] Zelensky’s Pen Pal Diplomacy
+Published: 2026-06-05T20:23:57+00:00
+Link: https://foreignpolicy.com/2026/06/05/russia-ukraine-zelensky-open-letter-putin-peace-talks-st-petersburg/
+---
 [Foreign_Policy] Maggie O’Farrell’s Most Ambitious Novel Yet
 Published: 2026-06-05T19:30:29+00:00
 Link: https://foreignpolicy.com/2026/06/05/international-fiction-releases-land-maggie-ofarrell-adventures-juan-planchard-jonathan-jakubowicz/
@@ -164,8 +172,4 @@ Link: https://www.foreignaffairs.com/iran/irans-new-grand-strategy
 [Foreign_Affairs] The Inertia of Russia’s War
 Published: 2026-06-03T04:00:00+00:00
 Link: https://www.foreignaffairs.com/russia/inertia-russias-war
----
-[Foreign_Policy] The Deadly Price of China’s Coal Boom
-Published: 2026-06-02T21:55:49+00:00
-Link: https://foreignpolicy.com/2026/06/02/china-coal-mining-accident-explosion-collapse/
 ---
