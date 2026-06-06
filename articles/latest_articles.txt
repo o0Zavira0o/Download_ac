@@ -1,4 +1,4 @@
-# Last Run: 2026-06-06 15:22 UTC
+# Last Run: 2026-06-06 17:20 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Armenians Vote Under Russia’s Shadow
@@ -148,12 +148,4 @@ Link: https://foreignpolicy.com/2026/06/03/us-brazil-gangs-first-command-capital
 [Foreign_Policy] The New Weapon Behind Ukraine’s Battlefield Success
 Published: 2026-06-03T17:42:08+00:00
 Link: https://foreignpolicy.com/2026/06/03/ukraine-mid-range-drones-russia-war-success/
----
-[Foreign_Policy] Congress Prepares for a Consequential Iran Vote
-Published: 2026-06-03T16:28:29+00:00
-Link: https://foreignpolicy.com/2026/06/03/congress-iran-war-powers-house-vote-concurrent-resolution-trump/
----
-[Foreign_Policy] The U.S. and Taiwanese Militaries Can’t Really Fight Together
-Published: 2026-06-03T15:36:39+00:00
-Link: https://foreignpolicy.com/2026/06/03/taiwan-china-us-invasion-war-military-arms-weapons/
 ---
