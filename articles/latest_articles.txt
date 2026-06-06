@@ -1,4 +1,4 @@
-# Last Run: 2026-06-06 03:40 UTC
+# Last Run: 2026-06-06 06:58 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Armenians Vote Under Russia’s Shadow
@@ -164,16 +164,4 @@ Link: https://foreignpolicy.com/2026/06/03/america-africa-adventurism-emirates-q
 [Foreign_Policy] Middle East Cease-Fires Matter Even When They’re Broken
 Published: 2026-06-03T10:00:06+00:00
 Link: https://foreignpolicy.com/2026/06/03/iran-lebanon-israel-cease-fires-peace/
----
-[Foreign_Policy] Why Asia’s Not Buying What Hegseth’s Selling
-Published: 2026-06-03T05:00:33+00:00
-Link: https://foreignpolicy.com/2026/06/03/hegseth-shangri-la-asia-defense-spending/
----
-[Foreign_Affairs] Iran’s New Grand Strategy
-Published: 2026-06-03T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/irans-new-grand-strategy
----
-[Foreign_Affairs] The Inertia of Russia’s War
-Published: 2026-06-03T04:00:00+00:00
-Link: https://www.foreignaffairs.com/russia/inertia-russias-war
 ---
