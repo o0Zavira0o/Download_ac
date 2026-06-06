@@ -1,4 +1,4 @@
-# Last Run: 2026-06-06 13:50 UTC
+# Last Run: 2026-06-06 15:22 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Armenians Vote Under Russia’s Shadow
@@ -156,8 +156,4 @@ Link: https://foreignpolicy.com/2026/06/03/congress-iran-war-powers-house-vote-c
 [Foreign_Policy] The U.S. and Taiwanese Militaries Can’t Really Fight Together
 Published: 2026-06-03T15:36:39+00:00
 Link: https://foreignpolicy.com/2026/06/03/taiwan-china-us-invasion-war-military-arms-weapons/
----
-[Foreign_Policy] America Enabled the Gulf’s African Adventurism
-Published: 2026-06-03T14:57:11+00:00
-Link: https://foreignpolicy.com/2026/06/03/america-africa-adventurism-emirates-qatar/
 ---
