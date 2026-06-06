@@ -1,4 +1,4 @@
-# Last Run: 2026-06-06 06:58 UTC
+# Last Run: 2026-06-06 10:08 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Armenians Vote Under Russia’s Shadow
@@ -160,8 +160,4 @@ Link: https://foreignpolicy.com/2026/06/03/taiwan-china-us-invasion-war-military
 [Foreign_Policy] America Enabled the Gulf’s African Adventurism
 Published: 2026-06-03T14:57:11+00:00
 Link: https://foreignpolicy.com/2026/06/03/america-africa-adventurism-emirates-qatar/
----
-[Foreign_Policy] Middle East Cease-Fires Matter Even When They’re Broken
-Published: 2026-06-03T10:00:06+00:00
-Link: https://foreignpolicy.com/2026/06/03/iran-lebanon-israel-cease-fires-peace/
 ---
