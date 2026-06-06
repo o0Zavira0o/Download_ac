@@ -1,4 +1,4 @@
-# Last Run: 2026-06-06 21:12 UTC
+# Last Run: 2026-06-06 23:10 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Armenians Vote Under Russia’s Shadow
@@ -124,8 +124,4 @@ Link: https://www.foreignaffairs.com/united-states/transatlantic-crucible
 [Foreign_Affairs] The American Military’s Coming Marathon
 Published: 2026-06-04T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/american-militarys-coming-marathon
----
-[Foreign_Policy] The Afghanistan-Pakistan Border Is Still Unstable
-Published: 2026-06-03T23:03:39+00:00
-Link: https://foreignpolicy.com/2026/06/03/afghanistan-pakistan-border-violence-pause-taliban-ttp/
 ---
