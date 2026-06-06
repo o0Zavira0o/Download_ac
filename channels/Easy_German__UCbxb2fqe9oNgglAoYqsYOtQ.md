@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-05T12:16:08Z_
+_آخرین به‌روزرسانی: 2026-06-06T10:57:27Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-06 08:31:35 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Leben mit wenig Geld #easygerman #deutschlernen #geld](https://www.youtube.com/watch?v=GI-UMdqOuAw)  
+  ![](https://i.ytimg.com/vi/GI-UMdqOuAw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-04 15:12:54 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-05T12:16:08Z_
   **مدت:** حدود 10.8 دقیقه  
   **عنوان:** [Integration in Germany (with Abdul and Allaa from German LifeStyle) | Easy German 130](https://www.youtube.com/watch?v=yanc4sZuaPE)  
   ![](https://i.ytimg.com/vi/yanc4sZuaPE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-02-25 14:53:58 (UTC)  
-  **مدت:** حدود 1.2 دقیقه  
-  **عنوان:** [Solving a misunderstanding - German Basic Phrases (42)](https://www.youtube.com/watch?v=LYtEh_eVEDc)  
-  ![](https://i.ytimg.com/vi/LYtEh_eVEDc/hqdefault.jpg)

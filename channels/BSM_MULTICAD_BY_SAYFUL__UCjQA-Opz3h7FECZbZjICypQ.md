@@ -1,9 +1,69 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-06-05T12:16:08Z_
+_آخرین به‌روزرسانی: 2026-06-06T10:57:27Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-06-06 10:06:10 (UTC)  
+  **مدت:** حدود 3.7 دقیقه  
+  **عنوان:** [PAID COURSE RULES BANGLA TUTORIALS BSM CAD EP 01](https://www.youtube.com/watch?v=QsBTy4NN-KA)  
+  ![](https://i.ytimg.com/vi/QsBTy4NN-KA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-06 08:30:37 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [PAID COURSE](https://www.youtube.com/watch?v=cxiXq5HrJLg)  
+  ![](https://i.ytimg.com/vi/cxiXq5HrJLg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-06 08:10:34 (UTC)  
+  **مدت:** حدود 14.9 دقیقه  
+  **عنوان:** [PAID কোর্স করলে আপনাদের কি কি শিখানো হবে, কোর্স ফি কত, CLASS কতটা আপনাদের সব প্রশ্নের উত্তরই ভিডিওতে](https://www.youtube.com/watch?v=VBKET0Uc7Wg)  
+  ![](https://i.ytimg.com/vi/VBKET0Uc7Wg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-06 07:46:53 (UTC)  
+  **مدت:** حدود 26.3 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 01](https://www.youtube.com/watch?v=zncgNsSnnmM)  
+  ![](https://i.ytimg.com/vi/zncgNsSnnmM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-06 07:24:03 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 01](https://www.youtube.com/watch?v=PqdLCLMWvlc)  
+  ![](https://i.ytimg.com/vi/PqdLCLMWvlc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-06 07:23:11 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 01](https://www.youtube.com/watch?v=fukQK-ZDGco)  
+  ![](https://i.ytimg.com/vi/fukQK-ZDGco/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-06 07:22:32 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 01](https://www.youtube.com/watch?v=Y0-t6UzXyLU)  
+  ![](https://i.ytimg.com/vi/Y0-t6UzXyLU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-06 07:22:18 (UTC)  
+  **مدت:** حدود 39.6 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 02](https://www.youtube.com/watch?v=7LK2fM2y_Uo)  
+  ![](https://i.ytimg.com/vi/7LK2fM2y_Uo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-06 07:19:33 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 01](https://www.youtube.com/watch?v=BnCuMMpUdpE)  
+  ![](https://i.ytimg.com/vi/BnCuMMpUdpE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-06 07:19:02 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 01](https://www.youtube.com/watch?v=3z5wSE24Tb4)  
+  ![](https://i.ytimg.com/vi/3z5wSE24Tb4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-01 06:04:46 (UTC)  
@@ -844,63 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-05T12:16:08Z_
   **مدت:** حدود 3.6 دقیقه  
   **عنوان:** [SKETCHUP PRO 2021 SOFTWARE INSTALL BANGLA TUTORIALS](https://www.youtube.com/watch?v=OR-A1WFE_oY)  
   ![](https://i.ytimg.com/vi/OR-A1WFE_oY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-23 02:13:05 (UTC)  
-  **مدت:** حدود 39.7 دقیقه  
-  **عنوان:** [SketchUp rendering tutorials Bangla](https://www.youtube.com/watch?v=px95vdzf0iM)  
-  ![](https://i.ytimg.com/vi/px95vdzf0iM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-22 04:14:52 (UTC)  
-  **مدت:** حدود 43.7 دقیقه  
-  **عنوان:** [AUTOCAD PAID BATCH 06 CLASS 12 floor plan create bangla tutorials](https://www.youtube.com/watch?v=lfV8lWkO2C4)  
-  ![](https://i.ytimg.com/vi/lfV8lWkO2C4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-21 06:00:08 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Ground floor reinforcement details AutoCAD Bangla tutorials CAD EP 47  Reinforcement Details d](https://www.youtube.com/watch?v=C4gu9a--8og)  
-  ![](https://i.ytimg.com/vi/C4gu9a--8og/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-21 02:01:11 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Ground floor reinforcement details AutoCAD Bangla tutorials CAD EP 47 Reinforcement Details c](https://www.youtube.com/watch?v=uVhW_FpIolU)  
-  ![](https://i.ytimg.com/vi/uVhW_FpIolU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-20 22:00:55 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Ground floor reinforcement details AutoCAD Bangla tutorials CAD EP 47 Reinforcement Details b](https://www.youtube.com/watch?v=nXrp-IZ3o5A)  
-  ![](https://i.ytimg.com/vi/nXrp-IZ3o5A/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-20 18:16:39 (UTC)  
-  **مدت:** حدود 48.7 دقیقه  
-  **عنوان:** [AutoCAD paid course Singapore class 02 user interface, xl line details, dimension Bangla tutorial](https://www.youtube.com/watch?v=VI5z3rLm97g)  
-  ![](https://i.ytimg.com/vi/VI5z3rLm97g/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-20 17:15:16 (UTC)  
-  **مدت:** حدود 22.8 دقیقه  
-  **عنوان:** [Ground floor reinforcement details |AutoCAD Bangla tutorials |EP -47| Reinforcement Details|](https://www.youtube.com/watch?v=JQBrDS5u6hw)  
-  ![](https://i.ytimg.com/vi/JQBrDS5u6hw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-17 17:21:22 (UTC)  
-  **مدت:** حدود 58.8 دقیقه  
-  **عنوان:** [autocad paid course singapore class 01 userinterface,line ,xl line details ,dimensionbangla tutorial](https://www.youtube.com/watch?v=Ht_WB8xImaY)  
-  ![](https://i.ytimg.com/vi/Ht_WB8xImaY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-16 22:01:08 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1m](https://www.youtube.com/watch?v=wNQfurOwOQ4)  
-  ![](https://i.ytimg.com/vi/wNQfurOwOQ4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-16 18:00:30 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [AUTOCAD PAID COURSE USERINTERFACE, CONSTRUCTION 1l](https://www.youtube.com/watch?v=H0cb4_8DaBo)  
-  ![](https://i.ytimg.com/vi/H0cb4_8DaBo/hqdefault.jpg)

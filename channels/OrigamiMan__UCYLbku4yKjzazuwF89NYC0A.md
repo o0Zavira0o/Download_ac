@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-06-05T12:16:08Z_
+_آخرین به‌روزرسانی: 2026-06-06T10:57:27Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-06-06 10:00:37 (UTC)  
+  **مدت:** حدود 16.2 دقیقه  
+  **عنوان:** [28,Origami Geta Sandals – Traditional Japanese Footwear (No Talking ASMR)折り紙で下駄を作る｜無言ASMR](https://www.youtube.com/watch?v=x09m04Ixd70)  
+  ![](https://i.ytimg.com/vi/x09m04Ixd70/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-06 10:00:06 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [28-2 Origami Geta Sandals 🩴 Traditional Japan in Paper折り紙で下駄を作ってみた🩴 #origami #折り紙](https://www.youtube.com/watch?v=2ctwuM9Xeto)  
+  ![](https://i.ytimg.com/vi/2ctwuM9Xeto/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-30 10:00:34 (UTC)  
