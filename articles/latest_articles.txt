@@ -1,4 +1,4 @@
-# Last Run: 2026-06-07 15:30 UTC
+# Last Run: 2026-06-07 17:22 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Armenians Vote Under Russia’s Shadow
@@ -88,12 +88,4 @@ Link: https://foreignpolicy.com/2026/06/04/robert-malley-trump-war-iran-negotiat
 [Foreign_Policy] Trump Is Playing With Fire in Cuba
 Published: 2026-06-04T20:33:10+00:00
 Link: https://foreignpolicy.com/2026/06/04/trump-us-cuba-policy-blockade-oil/
----
-[Foreign_Policy] China Is Too Big for Shangri-La
-Published: 2026-06-04T17:17:03+00:00
-Link: https://foreignpolicy.com/2026/06/04/china-shangri-la-dong-jun-defense-minister/
----
-[Foreign_Policy] Trump’s New ‘Forced Labor’ Tariffs Are a Fig Leaf
-Published: 2026-06-04T16:04:04+00:00
-Link: https://foreignpolicy.com/2026/06/04/trump-forced-labor-tariffs-ustr-trade-section-301/
 ---
