@@ -1,4 +1,4 @@
-# Last Run: 2026-06-07 19:29 UTC
+# Last Run: 2026-06-07 21:19 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Armenians Vote Under Russia’s Shadow
@@ -80,12 +80,4 @@ Link: https://foreignpolicy.com/2026/06/04/albania-protests-jared-kushner-trump-
 [Foreign_Policy] Meanwhile, in the Western Hemisphere…
 Published: 2026-06-04T21:40:12+00:00
 Link: https://foreignpolicy.com/2026/06/04/trump-western-hemisphere-drug-boat-strikes-cuba-ecuador/
----
-[Foreign_Policy] How Trump Should Approach an Iran Endgame
-Published: 2026-06-04T21:01:06+00:00
-Link: https://foreignpolicy.com/2026/06/04/robert-malley-trump-war-iran-negotiations-cease-fire-endgame/
----
-[Foreign_Policy] Trump Is Playing With Fire in Cuba
-Published: 2026-06-04T20:33:10+00:00
-Link: https://foreignpolicy.com/2026/06/04/trump-us-cuba-policy-blockade-oil/
 ---
