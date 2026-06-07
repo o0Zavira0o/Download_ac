@@ -1,4 +1,4 @@
-# Last Run: 2026-06-07 11:53 UTC
+# Last Run: 2026-06-07 13:59 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Armenians Vote Under Russia’s Shadow
@@ -96,8 +96,4 @@ Link: https://foreignpolicy.com/2026/06/04/china-shangri-la-dong-jun-defense-min
 [Foreign_Policy] Trump’s New ‘Forced Labor’ Tariffs Are a Fig Leaf
 Published: 2026-06-04T16:04:04+00:00
 Link: https://foreignpolicy.com/2026/06/04/trump-forced-labor-tariffs-ustr-trade-section-301/
----
-[Foreign_Policy] Are We Reliving the 1890s, 1930s, or 1950s?
-Published: 2026-06-04T12:50:37+00:00
-Link: https://foreignpolicy.com/2026/06/04/global-order-geopolitics-trump-us-china-history-1930s-cold-war/
 ---
