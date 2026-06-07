@@ -1,4 +1,4 @@
-# Last Run: 2026-06-07 09:02 UTC
+# Last Run: 2026-06-07 11:53 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Armenians Vote Under Russia’s Shadow
@@ -100,16 +100,4 @@ Link: https://foreignpolicy.com/2026/06/04/trump-forced-labor-tariffs-ustr-trade
 [Foreign_Policy] Are We Reliving the 1890s, 1930s, or 1950s?
 Published: 2026-06-04T12:50:37+00:00
 Link: https://foreignpolicy.com/2026/06/04/global-order-geopolitics-trump-us-china-history-1930s-cold-war/
----
-[Foreign_Policy] Estonia Has Lessons for Us All
-Published: 2026-06-04T11:28:05+00:00
-Link: https://foreignpolicy.com/2026/06/04/estonia-technology-government-state-citizens-military-russia/
----
-[New_Yorker_Magazine] The Meta-Gay Antics of “Can I Be Frank?” and the “Heated Rivalry” Musical
-Published: 2026-06-04T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/15/can-i-be-frank-theatre-review-heated-rivalry
----
-[Foreign_Policy] Vladimir Putin’s Second-Biggest Headache
-Published: 2026-06-04T09:36:38+00:00
-Link: https://foreignpolicy.com/2026/06/04/russia-putin-chechnya-kadyrov-succession-war-ukraine-unrest/
 ---
