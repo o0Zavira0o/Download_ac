@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-06T10:57:27Z_
+_آخرین به‌روزرسانی: 2026-06-07T11:12:52Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -4184,7 +4184,7 @@ _آخرین به‌روزرسانی: 2026-06-06T10:57:27Z_
 
 - **تاریخ انتشار:** 2023-08-20 17:00:09 (UTC)  
   **مدت:** حدود 21.8 دقیقه  
-  **عنوان:** [Learning German on the Job: How Youssef Became a Nurse in Germany | Easy German 518](https://www.youtube.com/watch?v=ABLwUHau5x8)  
+  **عنوان:** [Learning German on the Job: How Youssef Became a Nurse in Germany](https://www.youtube.com/watch?v=ABLwUHau5x8)  
   ![](https://i.ytimg.com/vi/ABLwUHau5x8/hqdefault.jpg)
 
 

@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-06-06T10:57:27Z_
+_آخرین به‌روزرسانی: 2026-06-07T11:12:52Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-06-06 12:20:13 (UTC)  
+  **مدت:** حدود 6.5 دقیقه  
+  **عنوان:** [ASMR Unboxing Journal Stationery | Shape Punch Scrapbook Item 다꾸템 하울](https://www.youtube.com/watch?v=sdqWME9UxtU)  
+  ![](https://i.ytimg.com/vi/sdqWME9UxtU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-05 13:25:02 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-06-06T10:57:27Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [ASMR Creative Art Phone Case DIY 🎻 #creativeart #asmr #artjournal #artprocess #diy](https://www.youtube.com/watch?v=12HpnQtleZ0)  
   ![](https://i.ytimg.com/vi/12HpnQtleZ0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-26 13:15:00 (UTC)  
-  **مدت:** حدود 9.7 دقیقه  
-  **عنوان:** [ASMR Decorating Creative Mini-Journal 💜🪽 Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=8hzxzPDKPPk)  
-  ![](https://i.ytimg.com/vi/8hzxzPDKPPk/hqdefault.jpg)

@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-06-06T10:57:27Z_
+_آخرین به‌روزرسانی: 2026-06-07T11:12:52Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-06-06 12:23:06 (UTC)  
+  **مدت:** حدود 1.8 دقیقه  
+  **عنوان:** [MID POINT AUTOCAD](https://www.youtube.com/watch?v=MLQoovqmqHY)  
+  ![](https://i.ytimg.com/vi/MLQoovqmqHY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-06 12:21:26 (UTC)  
+  **مدت:** حدود 4.3 دقیقه  
+  **عنوان:** [PAGE SETUP](https://www.youtube.com/watch?v=xajWvfp5uEY)  
+  ![](https://i.ytimg.com/vi/xajWvfp5uEY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 10:06:10 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-06T10:57:27Z_
   **مدت:** حدود 83.0 دقیقه  
   **عنوان:** [SketchUp client work full course Bangla tutorials a to z](https://www.youtube.com/watch?v=iDrv5xUDcWQ)  
   ![](https://i.ytimg.com/vi/iDrv5xUDcWQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-23 13:35:30 (UTC)  
-  **مدت:** حدود 19.5 دقیقه  
-  **عنوان:** [এক জানুয়ারি ২০২৬ থেকে আমার নতুন ব্যাচ চালু হচ্ছে আপনাদের সম্পূর্ণ ভিডিওটি দেখার অনুরোধ জানাচ্ছি](https://www.youtube.com/watch?v=CP3QqDiqSUQ)  
-  ![](https://i.ytimg.com/vi/CP3QqDiqSUQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-23 13:00:49 (UTC)  
-  **مدت:** حدود 3.6 دقیقه  
-  **عنوان:** [SKETCHUP PRO 2021 SOFTWARE INSTALL BANGLA TUTORIALS](https://www.youtube.com/watch?v=OR-A1WFE_oY)  
-  ![](https://i.ytimg.com/vi/OR-A1WFE_oY/hqdefault.jpg)

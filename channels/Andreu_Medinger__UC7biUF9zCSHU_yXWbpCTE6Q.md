@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-06-06T10:57:27Z_
+_آخرین به‌روزرسانی: 2026-06-07T11:12:52Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-06-06 23:07:03 (UTC)  
+  **مدت:** حدود 2.8 دقیقه  
+  **عنوان:** [Faca toda construída com Aço Hardox 600 #hardox #cutelaria #facas #engenharia #soldagem #usinagem](https://www.youtube.com/watch?v=3c__44JeYvk)  
+  ![](https://i.ytimg.com/vi/3c__44JeYvk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-05 22:30:31 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-06T10:57:27Z_
   **مدت:** حدود 35.8 دقیقه  
   **عنوان:** [AULA 22 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=_Qvajenhsdw)  
   ![](https://i.ytimg.com/vi/_Qvajenhsdw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-01-06 20:13:46 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Se Inscreva para receber mais conteúdos de metalmecânica. #engenhariamecanica #solidworks](https://www.youtube.com/watch?v=uR2UuqnnsbQ)  
-  ![](https://i.ytimg.com/vi/uR2UuqnnsbQ/hqdefault.jpg)

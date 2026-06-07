@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-06T10:57:27Z_
+_آخرین به‌روزرسانی: 2026-06-07T11:12:52Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-07 00:58:11 (UTC)  
+  **مدت:** حدود 36.2 دقیقه  
+  **عنوان:** [Thiết kế khuôn nhựa solidworks full](https://www.youtube.com/watch?v=CkEYoCaosnM)  
+  ![](https://i.ytimg.com/vi/CkEYoCaosnM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-06 11:15:06 (UTC)  
+  **مدت:** حدود 3.8 دقیقه  
+  **عنوان:** [Phay cnc 4 trục Mastercam Full](https://www.youtube.com/watch?v=h8Ai0b_mBDc)  
+  ![](https://i.ytimg.com/vi/h8Ai0b_mBDc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 01:07:21 (UTC)  
