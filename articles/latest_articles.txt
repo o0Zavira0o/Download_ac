@@ -1,4 +1,4 @@
-# Last Run: 2026-06-07 04:07 UTC
+# Last Run: 2026-06-07 09:02 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Armenians Vote Under Russia’s Shadow
@@ -112,8 +112,4 @@ Link: https://www.newyorker.com/magazine/2026/06/15/can-i-be-frank-theatre-revie
 [Foreign_Policy] Vladimir Putin’s Second-Biggest Headache
 Published: 2026-06-04T09:36:38+00:00
 Link: https://foreignpolicy.com/2026/06/04/russia-putin-chechnya-kadyrov-succession-war-ukraine-unrest/
----
-[Foreign_Policy] The Threat of Unrest Is Decarbonizing the Global South
-Published: 2026-06-04T04:17:26+00:00
-Link: https://foreignpolicy.com/2026/06/04/iran-war-decarbonizing-global-south/
 ---
