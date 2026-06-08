@@ -1,6 +1,14 @@
-# Last Run: 2026-06-08 15:59 UTC
+# Last Run: 2026-06-08 18:32 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Show Us the Money
+Published: 2026-06-08T16:56:57+00:00
+Link: https://foreignpolicy.com/2026/06/08/syria-sharaa-assad-development-social-media-instagram-satire/
+---
+[Foreign_Policy] China Is Providing AI That’s Literate in Africa’s Languages
+Published: 2026-06-08T16:45:49+00:00
+Link: https://foreignpolicy.com/2026/06/08/china-africa-ai-languages/
+---
 [Foreign_Policy] China Is Making MAHA’s Favorite Drug
 Published: 2026-06-08T14:43:48+00:00
 Link: https://foreignpolicy.com/2026/06/08/peptides-fda-maha-rfk-trump-pharma-us-china-competition/
@@ -44,12 +52,4 @@ Link: https://foreignpolicy.com/2026/06/05/ukraine-russia-war-putin-zelensky-win
 [Foreign_Policy] Contain, Consolidate, and Co-Opt
 Published: 2026-06-05T18:40:00+00:00
 Link: https://foreignpolicy.com/2026/06/05/europe-strategy-turkey-russia-china-putin-erdogan-brussels/
----
-[Foreign_Policy] Romania Has Perfected the Art of Forgetting
-Published: 2026-06-05T18:20:39+00:00
-Link: https://foreignpolicy.com/2026/06/05/herta-muller-memoir-romania-ceausescu-communist-history/
----
-[Foreign_Policy] What in the World?
-Published: 2026-06-05T16:26:22+00:00
-Link: https://foreignpolicy.com/2026/06/05/news-quiz-malta-election-japan-militarism-iran-peace-negotiations/
 ---
