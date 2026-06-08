@@ -1,6 +1,14 @@
-# Last Run: 2026-06-08 18:32 UTC
+# Last Run: 2026-06-08 22:10 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Iran, Israel Pull Back From Brink After Trading Fire
+Published: 2026-06-08T21:41:38+00:00
+Link: https://foreignpolicy.com/2026/06/08/iran-israel-attacks-lebanon-hezbollah-beirut-us-trump-netanyahu/
+---
+[Foreign_Policy] Trump Started a War He Can’t Control
+Published: 2026-06-08T21:04:53+00:00
+Link: https://foreignpolicy.com/2026/06/08/trump-israel-lebanon-iran-netanyahu-cease-fire-peace-negotiations/
+---
 [Foreign_Policy] Show Us the Money
 Published: 2026-06-08T16:56:57+00:00
 Link: https://foreignpolicy.com/2026/06/08/syria-sharaa-assad-development-social-media-instagram-satire/
@@ -32,24 +40,4 @@ Link: https://www.foreignaffairs.com/cuba/day-after-cuba
 [Foreign_Policy] Armenians Vote Under Russia’s Shadow
 Published: 2026-06-06T01:44:04+00:00
 Link: https://foreignpolicy.com/2026/06/05/armenia-trump-russia-election-pashinyan-europe/
----
-[Foreign_Policy] The U.S. Economy Is Proving Remarkably Resilient
-Published: 2026-06-05T20:50:04+00:00
-Link: https://foreignpolicy.com/2026/06/05/us-jobs-report-trump-economy-iran-energy-tariffs/
----
-[Foreign_Policy] Zelensky’s Pen Pal Diplomacy
-Published: 2026-06-05T20:23:57+00:00
-Link: https://foreignpolicy.com/2026/06/05/russia-ukraine-zelensky-open-letter-putin-peace-talks-st-petersburg/
----
-[Foreign_Policy] Maggie O’Farrell’s Most Ambitious Novel Yet
-Published: 2026-06-05T19:30:29+00:00
-Link: https://foreignpolicy.com/2026/06/05/international-fiction-releases-land-maggie-ofarrell-adventures-juan-planchard-jonathan-jakubowicz/
----
-[Foreign_Policy] How Ukraine Has Turned the Tide
-Published: 2026-06-05T19:00:33+00:00
-Link: https://foreignpolicy.com/2026/06/05/ukraine-russia-war-putin-zelensky-winning-drones-front-battlefield-peace/
----
-[Foreign_Policy] Contain, Consolidate, and Co-Opt
-Published: 2026-06-05T18:40:00+00:00
-Link: https://foreignpolicy.com/2026/06/05/europe-strategy-turkey-russia-china-putin-erdogan-brussels/
 ---
