@@ -1,4 +1,4 @@
-# Last Run: 2026-06-07 21:19 UTC
+# Last Run: 2026-06-08 04:11 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Armenians Vote Under Russia’s Shadow
@@ -56,28 +56,4 @@ Link: https://foreignpolicy.com/2026/06/05/singapore-trump-tariffs-trade-forced-
 [Foreign_Policy] Everyone Is Waiting for Trump’s Gaza Plan to Die
 Published: 2026-06-05T07:53:14+00:00
 Link: https://foreignpolicy.com/2026/06/05/trump-gaza-peace-board-israel-war/
----
-[Foreign_Policy] To Fix Haiti, Look to Colombia
-Published: 2026-06-05T04:01:29+00:00
-Link: https://foreignpolicy.com/2026/06/05/fix-haiti-look-to-colombia/
----
-[Foreign_Affairs] Iran and the Hidden Cost of Wartime Access
-Published: 2026-06-05T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/iran-and-hidden-cost-wartime-access
----
-[Foreign_Affairs] Can the UAE Go It Alone?
-Published: 2026-06-05T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-arab-emirates/can-uae-go-it-alone
----
-[Foreign_Affairs] How China Misperceives Itself
-Published: 2026-06-05T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/how-china-misperceives-itself
----
-[Foreign_Policy] Kushner-Linked Luxury Resort Plans Ignite Protests Across Albania
-Published: 2026-06-04T22:12:22+00:00
-Link: https://foreignpolicy.com/2026/06/04/albania-protests-jared-kushner-trump-luxury-resort-rama-corruption/
----
-[Foreign_Policy] Meanwhile, in the Western Hemisphere…
-Published: 2026-06-04T21:40:12+00:00
-Link: https://foreignpolicy.com/2026/06/04/trump-western-hemisphere-drug-boat-strikes-cuba-ecuador/
 ---
