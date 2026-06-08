@@ -1,6 +1,14 @@
-# Last Run: 2026-06-08 11:03 UTC
+# Last Run: 2026-06-08 15:59 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] China Is Making MAHA’s Favorite Drug
+Published: 2026-06-08T14:43:48+00:00
+Link: https://foreignpolicy.com/2026/06/08/peptides-fda-maha-rfk-trump-pharma-us-china-competition/
+---
+[Foreign_Policy] The U.S. Can’t Exclude China From Latin America
+Published: 2026-06-08T11:00:55+00:00
+Link: https://foreignpolicy.com/2026/06/08/latin-america-us-china-national-security-strategic-displacement/
+---
 [Foreign_Policy] Trump Is Doing What FDR Could Not
 Published: 2026-06-08T04:01:51+00:00
 Link: https://foreignpolicy.com/2026/06/08/trump-republican-party-purge-fdr/
@@ -44,20 +52,4 @@ Link: https://foreignpolicy.com/2026/06/05/herta-muller-memoir-romania-ceausescu
 [Foreign_Policy] What in the World?
 Published: 2026-06-05T16:26:22+00:00
 Link: https://foreignpolicy.com/2026/06/05/news-quiz-malta-election-japan-militarism-iran-peace-negotiations/
----
-[Foreign_Policy] Myanmar’s Military Isn’t Conceding Much
-Published: 2026-06-05T15:45:02+00:00
-Link: https://foreignpolicy.com/2026/06/05/myanmar-president-min-aung-hlaing-military-concessions/
----
-[Foreign_Policy] Sleeping in Mexico, Playing in America
-Published: 2026-06-05T15:11:47+00:00
-Link: https://foreignpolicy.com/2026/06/05/mexico-america-trump-iran-fifa-olympics-world-cup/
----
-[Foreign_Policy] Does the United States Have the Weapons for Trade War?
-Published: 2026-06-05T13:27:35+00:00
-Link: https://foreignpolicy.com/2026/06/05/trade-war-trump-china-economics/
----
-[Foreign_Policy] How Brazilian Soccer Shed Protectionism
-Published: 2026-06-05T12:00:53+00:00
-Link: https://foreignpolicy.com/2026/06/05/brazil-soccer-world-cup-foreign-coach-protectionism/
 ---
