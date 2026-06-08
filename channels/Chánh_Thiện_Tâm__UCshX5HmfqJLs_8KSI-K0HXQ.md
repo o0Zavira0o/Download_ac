@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-07T11:12:52Z_
+_آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-08 11:36:39 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Khóa học Mastercam Solidworks](https://www.youtube.com/watch?v=ofmSxhzpjTA)  
+  ![](https://i.ytimg.com/vi/ofmSxhzpjTA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-08 00:58:51 (UTC)  
+  **مدت:** حدود 17.0 دقیقه  
+  **عنوان:** [Xuất chương trình cnc Creo 8 0](https://www.youtube.com/watch?v=aezGSeW8xuo)  
+  ![](https://i.ytimg.com/vi/aezGSeW8xuo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-07 11:48:36 (UTC)  
+  **مدت:** حدود 8.4 دقیقه  
+  **عنوان:** [Vẽ rổ solidworks full](https://www.youtube.com/watch?v=k5zziaaVFtU)  
+  ![](https://i.ytimg.com/vi/k5zziaaVFtU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-07 00:58:11 (UTC)  

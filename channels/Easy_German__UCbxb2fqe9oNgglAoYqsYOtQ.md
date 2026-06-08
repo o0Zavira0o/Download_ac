@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-07T11:12:52Z_
+_آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-08 09:42:35 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Quatschen in der U-Bahn #shorts #ubahn](https://www.youtube.com/watch?v=KOuwODmQ8UY)  
+  ![](https://i.ytimg.com/vi/KOuwODmQ8UY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-08 09:42:32 (UTC)  
+  **مدت:** حدود 1.7 دقیقه  
+  **عنوان:** [Ist es in Deutschland schwierig Freunde zu finden? #shorts #freunde](https://www.youtube.com/watch?v=S3a4i-C-EQ0)  
+  ![](https://i.ytimg.com/vi/S3a4i-C-EQ0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-07 17:00:22 (UTC)  
+  **مدت:** حدود 13.7 دقیقه  
+  **عنوان:** [Real German Conversations: Funny Stories & Everyday Humor (B1)](https://www.youtube.com/watch?v=gw_BUDk610w)  
+  ![](https://i.ytimg.com/vi/gw_BUDk610w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 08:31:35 (UTC)  
@@ -9586,21 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-07T11:12:52Z_
   **مدت:** حدود 9.8 دقیقه  
   **عنوان:** [Visiting Martin Luther Highschool in Namibia | Easy German 131](https://www.youtube.com/watch?v=STvzBVExvwc)  
   ![](https://i.ytimg.com/vi/STvzBVExvwc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-03-04 19:36:13 (UTC)  
-  **مدت:** حدود 10.6 دقیقه  
-  **عنوان:** [Cari, Abdul und Allaa antworten (28) - Reden beim Essen | Lange deutsche Wörter](https://www.youtube.com/watch?v=Cn48fPIuE_U)  
-  ![](https://i.ytimg.com/vi/Cn48fPIuE_U/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-03-02 18:52:08 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Expressing disbelief - Basic Phrases (43)](https://www.youtube.com/watch?v=ThI2avgUnGI)  
-  ![](https://i.ytimg.com/vi/ThI2avgUnGI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-02-28 17:27:30 (UTC)  
-  **مدت:** حدود 10.8 دقیقه  
-  **عنوان:** [Integration in Germany (with Abdul and Allaa from German LifeStyle) | Easy German 130](https://www.youtube.com/watch?v=yanc4sZuaPE)  
-  ![](https://i.ytimg.com/vi/yanc4sZuaPE/hqdefault.jpg)

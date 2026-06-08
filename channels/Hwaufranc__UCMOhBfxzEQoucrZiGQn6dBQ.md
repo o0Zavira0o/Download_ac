@@ -1,11 +1,29 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-06-07T11:12:52Z_
+_آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-06-08 13:00:33 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Stamp ASMR Stamp on it #diy #stamp #asmr](https://www.youtube.com/watch?v=nJ4xCTEGCDs)  
+  ![](https://i.ytimg.com/vi/nJ4xCTEGCDs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-07 12:10:36 (UTC)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Epic ATC Cards DIY 꾸미기 ASMR](https://www.youtube.com/watch?v=KqK86j39DJY)  
+  ![](https://i.ytimg.com/vi/KqK86j39DJY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-07 12:10:22 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [embossing punch paper cutter](https://www.youtube.com/watch?v=I8CPqWeyYVA)  
+  ![](https://i.ytimg.com/vi/I8CPqWeyYVA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 12:20:13 (UTC)  
@@ -5388,21 +5406,3 @@ _آخرین به‌روزرسانی: 2026-06-07T11:12:52Z_
   **مدت:** حدود 0.8 دقیقه  
   **عنوان:** [Collage Journaling 1/2🌸🌸 #creativejournal #collage  #thelongestpromise #肖戰 #seanxiao](https://www.youtube.com/watch?v=g30hMFdndUI)  
   ![](https://i.ytimg.com/vi/g30hMFdndUI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-29 13:05:00 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Wax Art ❤️💛 #waxart #waxbeads #waxmelts #artprocess #satisfying](https://www.youtube.com/watch?v=OHSNwYPcPIQ)  
-  ![](https://i.ytimg.com/vi/OHSNwYPcPIQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-28 14:40:01 (UTC)  
-  **مدت:** حدود 181.9 دقیقه  
-  **عنوان:** [ASMR Decorating a Creative Art Journal🍫 [3Hour] Variety of journaling Relaxing Sounds 다꾸 | hwaufranc](https://www.youtube.com/watch?v=z6UZC5QjghU)  
-  ![](https://i.ytimg.com/vi/z6UZC5QjghU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-27 13:46:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [ASMR Creative Art Phone Case DIY 🎻 #creativeart #asmr #artjournal #artprocess #diy](https://www.youtube.com/watch?v=12HpnQtleZ0)  
-  ![](https://i.ytimg.com/vi/12HpnQtleZ0/hqdefault.jpg)

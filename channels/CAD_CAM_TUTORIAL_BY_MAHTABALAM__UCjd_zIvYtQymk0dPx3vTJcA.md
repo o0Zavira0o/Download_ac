@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-07T11:12:52Z_
+_آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-07 16:20:50 (UTC)  
+  **مدت:** حدود 9.7 دقیقه  
+  **عنوان:** [FreeCAD Tutorial Exercise-03 Revolution, Pocket, Fillet, Chamfer and Polar Pattern](https://www.youtube.com/watch?v=6dVcVxHu6c4)  
+  ![](https://i.ytimg.com/vi/6dVcVxHu6c4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-05 03:30:00 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-07T11:12:52Z_
   **مدت:** حدود 114.1 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Ball Valve in Solidworks](https://www.youtube.com/watch?v=pYsU1gfx-00)  
   ![](https://i.ytimg.com/vi/pYsU1gfx-00/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-31 18:02:34 (UTC)  
-  **مدت:** حدود 12.8 دقیقه  
-  **عنوان:** [Solidworks tutorial | How to sketch Wing Nut in Solidworks](https://www.youtube.com/watch?v=Jlxj9lxrB4w)  
-  ![](https://i.ytimg.com/vi/Jlxj9lxrB4w/hqdefault.jpg)
