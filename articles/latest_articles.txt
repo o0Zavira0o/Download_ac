@@ -1,6 +1,14 @@
-# Last Run: 2026-06-09 18:12 UTC
+# Last Run: 2026-06-09 21:59 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Why a South Korean Starbucks Ad Mocked Murdered Protesters
+Published: 2026-06-09T19:40:10+00:00
+Link: https://foreignpolicy.com/2026/06/09/starbucks-gwangju-far-right-south-korea/
+---
+[Foreign_Policy] NATO’s Digital Back End Could Fall Apart Without Change
+Published: 2026-06-09T18:56:06+00:00
+Link: https://foreignpolicy.com/2026/06/09/nato-cloud-computer-ai-iran-war/
+---
 [Foreign_Policy] Lebanon Is No Longer About Lebanon
 Published: 2026-06-09T14:57:57+00:00
 Link: https://foreignpolicy.com/2026/06/09/lebanon-hezbollah-israel-war-trump-middle-east/
