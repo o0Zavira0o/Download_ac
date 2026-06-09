@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
+_آخرین به‌روزرسانی: 2026-06-09T12:11:52Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-08 16:35:54 (UTC)  
+  **مدت:** حدود 4.5 دقیقه  
+  **عنوان:** [FreeCAD Tutorial How to Make Thread Hole](https://www.youtube.com/watch?v=_kVsUhhLJlU)  
+  ![](https://i.ytimg.com/vi/_kVsUhhLJlU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-07 16:20:50 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
   **مدت:** حدود 18.4 دقیقه  
   **عنوان:** [Solidworks tutorial | Design and Assembly of Needle Roller Ball Bearing in Solidworks | Solidworks](https://www.youtube.com/watch?v=iLm3v4Ic16k)  
   ![](https://i.ytimg.com/vi/iLm3v4Ic16k/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-01 18:42:49 (UTC)  
-  **مدت:** حدود 114.1 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Ball Valve in Solidworks](https://www.youtube.com/watch?v=pYsU1gfx-00)  
-  ![](https://i.ytimg.com/vi/pYsU1gfx-00/hqdefault.jpg)

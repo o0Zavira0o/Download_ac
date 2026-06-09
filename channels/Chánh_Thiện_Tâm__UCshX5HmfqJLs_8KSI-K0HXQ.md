@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
+_آخرین به‌روزرسانی: 2026-06-09T12:11:52Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-09 10:53:16 (UTC)  
+  **مدت:** حدود 3.4 دقیقه  
+  **عنوان:** [Vẽ vòng tay Solidworks Pro](https://www.youtube.com/watch?v=B3Jt_eqz1LI)  
+  ![](https://i.ytimg.com/vi/B3Jt_eqz1LI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-09 02:32:22 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Tài liệu Solidworks Mastercam](https://www.youtube.com/watch?v=3aqWlWD5HOU)  
+  ![](https://i.ytimg.com/vi/3aqWlWD5HOU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-08 11:36:39 (UTC)  

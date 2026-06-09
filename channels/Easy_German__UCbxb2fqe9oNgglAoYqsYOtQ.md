@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
+_آخرین به‌روزرسانی: 2026-06-09T12:11:52Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -38,7 +38,7 @@ _آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
 
 - **تاریخ انتشار:** 2026-06-03 17:00:04 (UTC)  
   **مدت:** حدود 12.3 دقیقه  
-  **عنوان:** [Post Office in Slow German](https://www.youtube.com/watch?v=Ys_GtlFCq_c)  
+  **عنوان:** [Learn German at the Post Office](https://www.youtube.com/watch?v=Ys_GtlFCq_c)  
   ![](https://i.ytimg.com/vi/Ys_GtlFCq_c/hqdefault.jpg)
 
 
@@ -140,7 +140,7 @@ _آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
 
 - **تاریخ انتشار:** 2026-05-13 17:00:35 (UTC)  
   **مدت:** حدود 18.8 دقیقه  
-  **عنوان:** [17 Reflexive Verbs you need to know…](https://www.youtube.com/watch?v=PndEIjybgb0)  
+  **عنوان:** [German Reflexive Verbs Made Easy (A2–B1 Learners)](https://www.youtube.com/watch?v=PndEIjybgb0)  
   ![](https://i.ytimg.com/vi/PndEIjybgb0/hqdefault.jpg)
 
 
@@ -200,7 +200,7 @@ _آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
 
 - **تاریخ انتشار:** 2026-05-03 17:01:11 (UTC)  
   **مدت:** حدود 14.2 دقیقه  
-  **عنوان:** [How Germans Feel About Music | Easy German 658](https://www.youtube.com/watch?v=tjHVSxXGfbU)  
+  **عنوان:** [Germans Talk About Music & Instruments (Intermediate Level Street Interviews)](https://www.youtube.com/watch?v=tjHVSxXGfbU)  
   ![](https://i.ytimg.com/vi/tjHVSxXGfbU/hqdefault.jpg)
 
 
@@ -230,7 +230,7 @@ _آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
 
 - **تاریخ انتشار:** 2026-04-26 17:00:25 (UTC)  
   **مدت:** حدود 13.6 دقیقه  
-  **عنوان:** [How Important Is Money to You? | Easy German 657](https://www.youtube.com/watch?v=Lfoai_nP7lc)  
+  **عنوان:** [How Important Is Money to You? (German Street Interview)](https://www.youtube.com/watch?v=Lfoai_nP7lc)  
   ![](https://i.ytimg.com/vi/Lfoai_nP7lc/hqdefault.jpg)
 
 
@@ -266,7 +266,7 @@ _آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
 
 - **تاریخ انتشار:** 2026-04-19 17:00:17 (UTC)  
   **مدت:** حدود 20.4 دقیقه  
-  **عنوان:** [Testing German  Restaurants in Australia (Part II) | Easy German 656](https://www.youtube.com/watch?v=ILjVXsfCoLo)  
+  **عنوان:** [Testing German  Restaurants in Australia (Part II)](https://www.youtube.com/watch?v=ILjVXsfCoLo)  
   ![](https://i.ytimg.com/vi/ILjVXsfCoLo/hqdefault.jpg)
 
 
@@ -284,7 +284,7 @@ _آخرین به‌روزرسانی: 2026-06-08T13:13:20Z_
 
 - **تاریخ انتشار:** 2026-04-15 17:00:05 (UTC)  
   **مدت:** حدود 13.9 دقیقه  
-  **عنوان:** [Wohnungsbesichtigung in Slow German | Super Easy German 304](https://www.youtube.com/watch?v=3KZnAVWL5IQ)  
+  **عنوان:** [Apartment Hunting in Germany: Essential German Vocabulary](https://www.youtube.com/watch?v=3KZnAVWL5IQ)  
   ![](https://i.ytimg.com/vi/3KZnAVWL5IQ/hqdefault.jpg)
 
 
