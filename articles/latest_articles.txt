@@ -1,4 +1,4 @@
-# Last Run: 2026-06-08 23:20 UTC
+# Last Run: 2026-06-09 03:42 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Iran, Israel Pull Back From Brink After Trading Fire
@@ -36,8 +36,4 @@ Link: https://www.foreignaffairs.com/united-states/greeted-liberators
 [Foreign_Affairs] The Day After in Cuba
 Published: 2026-06-08T04:00:00+00:00
 Link: https://www.foreignaffairs.com/cuba/day-after-cuba
----
-[Foreign_Policy] Armenians Vote Under Russia’s Shadow
-Published: 2026-06-06T01:44:04+00:00
-Link: https://foreignpolicy.com/2026/06/05/armenia-trump-russia-election-pashinyan-europe/
 ---
