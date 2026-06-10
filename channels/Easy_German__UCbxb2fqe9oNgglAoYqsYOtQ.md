@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-09T12:11:52Z_
+_آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-09 17:25:23 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Wie sauber sind eigentlich Fernbedienungen im Hotelzimmer? 🤔 #easygerman #easygermanpodcast](https://www.youtube.com/watch?v=1GTg4HbQ1To)  
+  ![](https://i.ytimg.com/vi/1GTg4HbQ1To/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-08 09:42:35 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-09T12:11:52Z_
   **مدت:** حدود 9.5 دقیقه  
   **عنوان:** [In the Erongo Mountains (Namibia) | Easy German 132](https://www.youtube.com/watch?v=dKgZd1acBtE)  
   ![](https://i.ytimg.com/vi/dKgZd1acBtE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-03-06 13:54:25 (UTC)  
-  **مدت:** حدود 9.8 دقیقه  
-  **عنوان:** [Visiting Martin Luther Highschool in Namibia | Easy German 131](https://www.youtube.com/watch?v=STvzBVExvwc)  
-  ![](https://i.ytimg.com/vi/STvzBVExvwc/hqdefault.jpg)

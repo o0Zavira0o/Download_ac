@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-06-09T12:11:52Z_
+_آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-06-09 13:00:08 (UTC)  
+  **مدت:** حدود 82.4 دقیقه  
+  **عنوان:** [ASMR Art Journaling Compilation 1 HOUR | Stress Relief Paper Scrapbook Relaxing Sounds](https://www.youtube.com/watch?v=aQf8wzgemMs)  
+  ![](https://i.ytimg.com/vi/aQf8wzgemMs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-08 13:00:33 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-06-09T12:11:52Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Collage Journaling 2/2🌸🌸 #creativejournal #collage  #thelongestpromise #肖戰 #seanxiao](https://www.youtube.com/watch?v=3W3Mp8cm0Y8)  
   ![](https://i.ytimg.com/vi/3W3Mp8cm0Y8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-30 04:56:00 (UTC)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Collage Journaling 1/2🌸🌸 #creativejournal #collage  #thelongestpromise #肖戰 #seanxiao](https://www.youtube.com/watch?v=g30hMFdndUI)  
-  ![](https://i.ytimg.com/vi/g30hMFdndUI/hqdefault.jpg)

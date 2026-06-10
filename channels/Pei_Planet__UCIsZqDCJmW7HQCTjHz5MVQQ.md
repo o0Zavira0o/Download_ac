@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-06-09T12:11:52Z_
+_آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-06-10 10:30:32 (UTC)  
+  **مدت:** حدود 75.3 دقیقه  
+  **عنوان:** [【1 HOUR ASMR】DIY Backpack Mini Worlds 🎒🐠💎🍬🌌 | 4 Hidden Worlds Inside | No Talking](https://www.youtube.com/watch?v=iK6VrkqdgAg)  
+  ![](https://i.ytimg.com/vi/iK6VrkqdgAg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-05 10:30:29 (UTC)  

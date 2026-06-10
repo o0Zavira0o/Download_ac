@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-09T12:11:52Z_
+_آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-10 12:17:12 (UTC)  
+  **مدت:** حدود 0.0 دقیقه  
+  **عنوان:** [Phay 3d VISI P1](https://www.youtube.com/watch?v=mg8LiRXinvw)  
+  ![](https://i.ytimg.com/vi/mg8LiRXinvw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-10 02:53:40 (UTC)  
+  **مدت:** حدود 3.5 دقیقه  
+  **عنوان:** [Tách khuôn giỏ solidworks](https://www.youtube.com/watch?v=lAdHRIZbD9M)  
+  ![](https://i.ytimg.com/vi/lAdHRIZbD9M/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-09 10:53:16 (UTC)  
