@@ -1,4 +1,4 @@
-# Last Run: 2026-06-10 08:17 UTC
+# Last Run: 2026-06-10 13:03 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Why Cambodia and Thailand’s Peace Is So Uneasy
@@ -156,12 +156,4 @@ Link: https://www.foreignaffairs.com/united-states/greeted-liberators
 [Foreign_Affairs] The Day After in Cuba
 Published: 2026-06-08T04:00:00+00:00
 Link: https://www.foreignaffairs.com/cuba/day-after-cuba
----
-[New_Yorker_Magazine] For the Nation’s Birthday, Making It Harder to Become an American
-Published: 2026-06-07T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/15/for-the-nations-birthday-making-it-harder-to-become-an-american
----
-[New_Yorker_Magazine] “Constellation,” by Andrea Bajani
-Published: 2026-06-07T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/15/constellation-fiction-andrea-bajani
 ---
