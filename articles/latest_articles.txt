@@ -1,6 +1,22 @@
-# Last Run: 2026-06-10 03:55 UTC
+# Last Run: 2026-06-10 08:17 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Why Cambodia and Thailand’s Peace Is So Uneasy
+Published: 2026-06-10T04:01:36+00:00
+Link: https://foreignpolicy.com/2026/06/10/cambodia-thailand-border-maritime-arbitration/
+---
+[Foreign_Affairs] Turkey’s Quiet Realignment
+Published: 2026-06-10T04:00:00+00:00
+Link: https://www.foreignaffairs.com/turkey/turkeys-quiet-realignment
+---
+[Foreign_Affairs] The End of the Open Internet
+Published: 2026-06-10T04:00:00+00:00
+Link: https://www.foreignaffairs.com/europe/end-open-internet
+---
+[Foreign_Affairs] The Fault Lines in China’s Power
+Published: 2026-06-10T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/fault-lines-chinas-power-ratner-danby
+---
 [Foreign_Policy] U.S. Launches New ‘Self-Defense’ Strikes on Iran Over Apache Helicopter Crash
 Published: 2026-06-09T22:29:25+00:00
 Link: https://foreignpolicy.com/2026/06/09/trump-apache-helicopter-attack-iran-oman-lebanon-israel/
@@ -65,6 +81,70 @@ Link: https://foreignpolicy.com/2026/06/08/peptides-fda-maha-rfk-trump-pharma-us
 Published: 2026-06-08T11:00:55+00:00
 Link: https://foreignpolicy.com/2026/06/08/latin-america-us-china-national-security-strategic-displacement/
 ---
+[New_Yorker_Magazine] Letters from Our Readers
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/letters-from-the-june-15-2026-issue
+---
+[New_Yorker_Magazine] “Edmonia Lewis: Said in Stone,” Reviewed: An Overlooked Black Sculptor
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/edmonia-lewis-retrospective-art-review
+---
+[New_Yorker_Magazine] Andrew Tate’s Empire of Abuse
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/andrew-tates-empire-of-abuse
+---
+[New_Yorker_Magazine] Did a Rowdy English Nobleman Mastermind the American Revolution?
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/radical-duke-danielle-allen-book-review
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/the-lost-soldiers-homebound-once-upon-a-time-there-was-truth-my-world-is-melting
+---
+[New_Yorker_Magazine] A World-Class Omakase in America’s Most Landlocked State
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/a-world-class-omakase-in-americas-most-landlocked-state
+---
+[New_Yorker_Magazine] A Dad Story, or, After Six Beers
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/a-dad-story-or-after-six-beers
+---
+[New_Yorker_Magazine] “Still Life of Mom in Her Garden (Bodegón de Mamá en Su Jardin),” by Isabella DeSendi
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/still-life-of-mom-in-her-garden-bodegon-de-mama-en-su-jardin-isabella-desendi-poem
+---
+[New_Yorker_Magazine] Ticks to Fear This Summer
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/ticks-to-fear-this-summer
+---
+[New_Yorker_Magazine] “Watching Cartoons on a Saturday Morning,” by Christian Wiman
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/watching-cartoons-on-a-saturday-morning-christian-wiman-poem
+---
+[New_Yorker_Magazine] From Sturgeon to Knicks Gear, Barney Greengrass Has You Covered
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/from-smoked-sturgeon-to-jalen-brunson-barney-greengrass-has-you-covered
+---
+[New_Yorker_Magazine] Kurt Vile Gets the Feeling
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/kurt-vile-gets-the-feeling
+---
+[New_Yorker_Magazine] Inside the Creative Cavern of JR
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/inside-the-creative-cavern-of-jr
+---
+[New_Yorker_Magazine] Michael Arden Catches a Flight
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/michael-arden-catches-a-flight
+---
+[New_Yorker_Magazine] For People with Misophonia, Everyday Noises Can Be Agony
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/for-people-with-misophonia-everyday-noises-can-be-agony
+---
+[New_Yorker_Magazine] Could Switzerland Become the First Country to Cap Its Population?
+Published: 2026-06-08T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/could-switzerland-become-the-first-country-to-limit-its-population
+---
 [Foreign_Policy] Trump Is Doing What FDR Could Not
 Published: 2026-06-08T04:01:51+00:00
 Link: https://foreignpolicy.com/2026/06/08/trump-republican-party-purge-fdr/
@@ -76,4 +156,12 @@ Link: https://www.foreignaffairs.com/united-states/greeted-liberators
 [Foreign_Affairs] The Day After in Cuba
 Published: 2026-06-08T04:00:00+00:00
 Link: https://www.foreignaffairs.com/cuba/day-after-cuba
+---
+[New_Yorker_Magazine] For the Nation’s Birthday, Making It Harder to Become an American
+Published: 2026-06-07T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/for-the-nations-birthday-making-it-harder-to-become-an-american
+---
+[New_Yorker_Magazine] “Constellation,” by Andrea Bajani
+Published: 2026-06-07T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/15/constellation-fiction-andrea-bajani
 ---
