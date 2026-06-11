@@ -1,6 +1,14 @@
-# Last Run: 2026-06-11 16:08 UTC
+# Last Run: 2026-06-11 20:32 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Hormuz Isn’t Closed Anymore. But It’s Not Fully Open, Either.
+Published: 2026-06-11T19:25:35+00:00
+Link: https://foreignpolicy.com/2026/06/11/iran-us-war-hormuz-strait-shadow-fleet-trump/
+---
+[Foreign_Policy] When the Beautiful Game Meets the Ugliest Ego
+Published: 2026-06-11T16:38:18+00:00
+Link: https://foreignpolicy.com/2026/06/11/when-the-beautiful-game-meets-the-ugliest-ego/
+---
 [Foreign_Policy] Washington’s Asian Allies Need a Backup Plan
 Published: 2026-06-11T14:57:44+00:00
 Link: https://foreignpolicy.com/2026/06/11/trump-asia-strategy-rethink/
@@ -132,12 +140,4 @@ Link: https://foreignpolicy.com/2026/06/08/iran-israel-attacks-lebanon-hezbollah
 [Foreign_Policy] Trump Started a War He Can’t Control
 Published: 2026-06-08T21:04:53+00:00
 Link: https://foreignpolicy.com/2026/06/08/trump-israel-lebanon-iran-netanyahu-cease-fire-peace-negotiations/
----
-[Foreign_Policy] Show Us the Money
-Published: 2026-06-08T16:56:57+00:00
-Link: https://foreignpolicy.com/2026/06/08/syria-sharaa-assad-development-social-media-instagram-satire/
----
-[Foreign_Policy] China Is Providing AI That’s Literate in Africa’s Languages
-Published: 2026-06-08T16:45:49+00:00
-Link: https://foreignpolicy.com/2026/06/08/china-africa-ai-languages/
 ---
