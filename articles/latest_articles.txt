@@ -1,6 +1,14 @@
-# Last Run: 2026-06-10 23:36 UTC
+# Last Run: 2026-06-11 04:08 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] Silicon Valley’s Bad Bet on the Gulf
+Published: 2026-06-11T04:00:00+00:00
+Link: https://www.foreignaffairs.com/persian-gulf/silicon-valleys-bad-bet-gulf
+---
+[Foreign_Affairs] The Real Problem With Global Trade
+Published: 2026-06-11T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/real-problem-global-trade
+---
 [Foreign_Policy] Somalia’s Fragile Government May Be on the Verge of Collapse
 Published: 2026-06-10T21:17:02+00:00
 Link: https://foreignpolicy.com/2026/06/10/somalia-government-fighting-electoral-system-hassan-sheikh-mohamud/
@@ -176,16 +184,4 @@ Link: https://www.newyorker.com/magazine/2026/06/15/for-people-with-misophonia-e
 [New_Yorker_Magazine] Could Switzerland Become the First Country to Cap Its Population?
 Published: 2026-06-08T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/06/15/could-switzerland-become-the-first-country-to-limit-its-population
----
-[Foreign_Policy] Trump Is Doing What FDR Could Not
-Published: 2026-06-08T04:01:51+00:00
-Link: https://foreignpolicy.com/2026/06/08/trump-republican-party-purge-fdr/
----
-[Foreign_Affairs] Greeted as Liberators?
-Published: 2026-06-08T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/greeted-liberators
----
-[Foreign_Affairs] The Day After in Cuba
-Published: 2026-06-08T04:00:00+00:00
-Link: https://www.foreignaffairs.com/cuba/day-after-cuba
 ---
