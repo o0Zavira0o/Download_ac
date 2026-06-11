@@ -1,6 +1,30 @@
-# Last Run: 2026-06-11 10:32 UTC
+# Last Run: 2026-06-11 16:08 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Washington’s Asian Allies Need a Backup Plan
+Published: 2026-06-11T14:57:44+00:00
+Link: https://foreignpolicy.com/2026/06/11/trump-asia-strategy-rethink/
+---
+[Foreign_Policy] Iran Is Now More Dangerous Than Ever
+Published: 2026-06-11T14:29:01+00:00
+Link: https://foreignpolicy.com/2026/06/11/iran-war-ceasefire-deterrence-trump-lebanon-israel/
+---
+[Foreign_Policy] Sudan’s Rapid Support Forces Are Terrorists
+Published: 2026-06-11T12:50:13+00:00
+Link: https://foreignpolicy.com/2026/06/11/sudan-rapid-support-forces-united-arab-emirates-saudi-arabia-turkey-civil-war-terrorists/
+---
+[Foreign_Policy] How Soccer Became ‘Un-American’
+Published: 2026-06-11T11:00:26+00:00
+Link: https://foreignpolicy.com/2026/06/11/soccer-un-american-world-cup/
+---
+[Foreign_Policy] Mexico Could Be the World Cup’s Biggest Winner
+Published: 2026-06-11T11:00:16+00:00
+Link: https://foreignpolicy.com/2026/06/11/mexico-soccer-world-cup-tourism-security-us-fifa/
+---
+[Foreign_Policy] FIFA’s Versailles Moment
+Published: 2026-06-11T11:00:10+00:00
+Link: https://foreignpolicy.com/2026/06/11/fifa-2026-world-cup-expensive-betrays-soccer-football-fans-roots/
+---
 [Foreign_Policy] The Hegseth Shock for New Zealand
 Published: 2026-06-11T09:23:10+00:00
 Link: https://foreignpolicy.com/2026/06/11/new-zealand-defense-spending-pete-hegseth-anna-fifield-freeloading-alllies/
@@ -116,12 +140,4 @@ Link: https://foreignpolicy.com/2026/06/08/syria-sharaa-assad-development-social
 [Foreign_Policy] China Is Providing AI That’s Literate in Africa’s Languages
 Published: 2026-06-08T16:45:49+00:00
 Link: https://foreignpolicy.com/2026/06/08/china-africa-ai-languages/
----
-[Foreign_Policy] China Is Making MAHA’s Favorite Drug
-Published: 2026-06-08T14:43:48+00:00
-Link: https://foreignpolicy.com/2026/06/08/peptides-fda-maha-rfk-trump-pharma-us-china-competition/
----
-[Foreign_Policy] The U.S. Can’t Exclude China From Latin America
-Published: 2026-06-08T11:00:55+00:00
-Link: https://foreignpolicy.com/2026/06/08/latin-america-us-china-national-security-strategic-displacement/
 ---
