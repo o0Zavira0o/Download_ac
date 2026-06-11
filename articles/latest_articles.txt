@@ -1,6 +1,18 @@
-# Last Run: 2026-06-11 20:32 UTC
+# Last Run: 2026-06-11 23:31 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Peru’s Photo-Finish Election
+Published: 2026-06-11T21:53:52+00:00
+Link: https://foreignpolicy.com/2026/06/11/peru-president-election-results-fujimori-sanchez/
+---
+[Foreign_Policy] War and Circuses
+Published: 2026-06-11T21:23:16+00:00
+Link: https://foreignpolicy.com/2026/06/11/trump-iran-war-world-cup-ufc-fight-white-house/
+---
+[Foreign_Policy] Trump Backpedals on Planned Iran Strikes, Citing Deal Progress
+Published: 2026-06-11T21:06:45+00:00
+Link: https://foreignpolicy.com/2026/06/11/trump-cancels-strikes-iran-deal-kharg-island-blockade/
+---
 [Foreign_Policy] Hormuz Isn’t Closed Anymore. But It’s Not Fully Open, Either.
 Published: 2026-06-11T19:25:35+00:00
 Link: https://foreignpolicy.com/2026/06/11/iran-us-war-hormuz-strait-shadow-fleet-trump/
@@ -132,12 +144,4 @@ Link: https://www.foreignaffairs.com/united-states/dont-give-global-order
 [Foreign_Affairs] How America Lost Command of the Commons
 Published: 2026-06-09T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/how-america-lost-command-commons
----
-[Foreign_Policy] Iran, Israel Pull Back From Brink After Trading Fire
-Published: 2026-06-08T21:41:38+00:00
-Link: https://foreignpolicy.com/2026/06/08/iran-israel-attacks-lebanon-hezbollah-beirut-us-trump-netanyahu/
----
-[Foreign_Policy] Trump Started a War He Can’t Control
-Published: 2026-06-08T21:04:53+00:00
-Link: https://foreignpolicy.com/2026/06/08/trump-israel-lebanon-iran-netanyahu-cease-fire-peace-negotiations/
 ---
