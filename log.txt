@@ -1,16 +1,16 @@
-[2026-06-11 04:08:50] === Job Started (articles only, no archive.*) ===
-[2026-06-11 04:08:50] History loaded: 422 URLs
-[2026-06-11 04:08:50] State loaded for sources: ['Foreign_Affairs', 'Foreign_Policy', 'New_Yorker_Magazine']
+[2026-06-11 10:32:02] === Job Started (articles only, no archive.*) ===
+[2026-06-11 10:32:02] History loaded: 424 URLs
+[2026-06-11 10:32:02] State loaded for sources: ['Foreign_Affairs', 'Foreign_Policy', 'New_Yorker_Magazine']
 
-[2026-06-11 04:08:50] Fetching RSS for Foreign_Affairs: https://www.foreignaffairs.com/rss.xml
-[2026-06-11 04:08:50] RSS Foreign_Affairs: 7 recent articles.
-[2026-06-11 04:08:50] Fetching RSS for Foreign_Policy: https://foreignpolicy.com/feed/
-[2026-06-11 04:08:50] RSS Foreign_Policy: 23 recent articles.
-[2026-06-11 04:08:50] Skipping New_Yorker_Magazine: last checked 19.9 hours ago (min 72h).
-[2026-06-11 04:08:50] 
-Total new articles found: 2
-[2026-06-11 04:08:50] History updated (+2 URLs).
-[2026-06-11 04:08:50] 
-Output written with 46 entries.
-[2026-06-11 04:08:50] Source state saved.
-[2026-06-11 04:08:50] === Job Finished ===
+[2026-06-11 10:32:02] Fetching RSS for Foreign_Affairs: https://www.foreignaffairs.com/rss.xml
+[2026-06-11 10:32:02] RSS Foreign_Affairs: 7 recent articles.
+[2026-06-11 10:32:02] Fetching RSS for Foreign_Policy: https://foreignpolicy.com/feed/
+[2026-06-11 10:32:02] RSS Foreign_Policy: 24 recent articles.
+[2026-06-11 10:32:02] Skipping New_Yorker_Magazine: last checked 26.2 hours ago (min 72h).
+[2026-06-11 10:32:02] 
+Total new articles found: 1
+[2026-06-11 10:32:02] History updated (+1 URLs).
+[2026-06-11 10:32:02] 
+Output written with 31 entries.
+[2026-06-11 10:32:02] Source state saved.
+[2026-06-11 10:32:02] === Job Finished ===
