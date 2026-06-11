@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
+_آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -22,7 +22,7 @@ _آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
 
 - **تاریخ انتشار:** 2026-04-26 13:45:29 (UTC)  
   **مدت:** حدود 27.8 دقیقه  
-  **عنوان:** [7 Exercises That ACTUALLY Reverse Aging (Science-Backed)](https://www.youtube.com/watch?v=c1HfUJYmgKY)  
+  **عنوان:** [7 Subtle Signs You're Not Actually Fit](https://www.youtube.com/watch?v=c1HfUJYmgKY)  
   ![](https://i.ytimg.com/vi/c1HfUJYmgKY/hqdefault.jpg)
 
 

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
+_آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-10 17:00:07 (UTC)  
+  **مدت:** حدود 22.3 دقیقه  
+  **عنوان:** [Konjunktiv II is Easier Than You Think!](https://www.youtube.com/watch?v=uMlagwZP9dw)  
+  ![](https://i.ytimg.com/vi/uMlagwZP9dw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-09 17:25:23 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
   **مدت:** حدود 9.9 دقیقه  
   **عنوان:** [Duzen und Siezen | Easy German 133](https://www.youtube.com/watch?v=R7DKffk25_g)  
   ![](https://i.ytimg.com/vi/R7DKffk25_g/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-03-06 16:34:01 (UTC)  
-  **مدت:** حدود 9.5 دقیقه  
-  **عنوان:** [In the Erongo Mountains (Namibia) | Easy German 132](https://www.youtube.com/watch?v=dKgZd1acBtE)  
-  ![](https://i.ytimg.com/vi/dKgZd1acBtE/hqdefault.jpg)

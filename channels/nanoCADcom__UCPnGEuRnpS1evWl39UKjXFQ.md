@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
+_آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-06-11 06:00:31 (UTC)  
+  **مدت:** حدود 20.7 دقیقه  
+  **عنوان:** [Creating doors - nanoCAD 3D Modeling - Lesson 10](https://www.youtube.com/watch?v=fgEzCoVq15g)  
+  ![](https://i.ytimg.com/vi/fgEzCoVq15g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-04 08:00:25 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
   **مدت:** حدود 4.0 دقیقه  
   **عنوان:** [Drawing Arcs - Lesson 4](https://www.youtube.com/watch?v=xId1MC4h6P0)  
   ![](https://i.ytimg.com/vi/xId1MC4h6P0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2019-11-05 09:43:20 (UTC)  
-  **مدت:** حدود 8.7 دقیقه  
-  **عنوان:** [Drawing Lines  - Lesson 3](https://www.youtube.com/watch?v=BDKWahmj_w4)  
-  ![](https://i.ytimg.com/vi/BDKWahmj_w4/hqdefault.jpg)

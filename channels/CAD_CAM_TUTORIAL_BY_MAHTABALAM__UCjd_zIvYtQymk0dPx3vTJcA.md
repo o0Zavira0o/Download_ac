@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
+_آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-11 03:30:24 (UTC)  
+  **مدت:** حدود 27.1 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise-263](https://www.youtube.com/watch?v=in34Z7AFzWo)  
+  ![](https://i.ytimg.com/vi/in34Z7AFzWo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-08 16:35:54 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
   **مدت:** حدود 12.3 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Furniture screw in Solidworks](https://www.youtube.com/watch?v=BzXxYMHA63Q)  
   ![](https://i.ytimg.com/vi/BzXxYMHA63Q/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-02 23:44:34 (UTC)  
-  **مدت:** حدود 18.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | Design and Assembly of Needle Roller Ball Bearing in Solidworks | Solidworks](https://www.youtube.com/watch?v=iLm3v4Ic16k)  
-  ![](https://i.ytimg.com/vi/iLm3v4Ic16k/hqdefault.jpg)

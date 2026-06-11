@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
+_آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-06-10 13:00:38 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Wonderful night🌌✨️ #diy #paperasmr](https://www.youtube.com/watch?v=2Zh1oryd-wY)  
+  ![](https://i.ytimg.com/vi/2Zh1oryd-wY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-09 13:00:08 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-06-10T12:31:04Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [ASMR Journaling black🖤 theme #journaling #journalasmr #satisfyingasmr](https://www.youtube.com/watch?v=rLwp_szeW1o)  
   ![](https://i.ytimg.com/vi/rLwp_szeW1o/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-03-30 04:58:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Collage Journaling 2/2🌸🌸 #creativejournal #collage  #thelongestpromise #肖戰 #seanxiao](https://www.youtube.com/watch?v=3W3Mp8cm0Y8)  
-  ![](https://i.ytimg.com/vi/3W3Mp8cm0Y8/hqdefault.jpg)
