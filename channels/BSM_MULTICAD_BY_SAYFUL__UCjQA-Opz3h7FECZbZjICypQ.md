@@ -1,9 +1,135 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
+_آخرین به‌روزرسانی: 2026-06-12T12:25:09Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-06-12 11:42:17 (UTC)  
+  **مدت:** حدود 34.5 دقیقه  
+  **عنوان:** [FOOTING LAYOUT PLAN AUTOCAD AND STRUCTURE DRAFTING RULES BANGLA TUTORIALS](https://www.youtube.com/watch?v=FqVcUY78N7I)  
+  ![](https://i.ytimg.com/vi/FqVcUY78N7I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 11:27:40 (UTC)  
+  **مدت:** حدود 16.2 دقیقه  
+  **عنوان:** [FOOTING LAYOUT PLAN BANGLA TUTORIALS BSM CAAD](https://www.youtube.com/watch?v=MeWFbqgvaD4)  
+  ![](https://i.ytimg.com/vi/MeWFbqgvaD4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 10:56:14 (UTC)  
+  **مدت:** حدود 54.5 دقیقه  
+  **عنوان:** [FOOTING SCHEDULE AND DETAILS BANGLA TUTORIALS BSM CAD](https://www.youtube.com/watch?v=x_QRgMv6eKg)  
+  ![](https://i.ytimg.com/vi/x_QRgMv6eKg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 10:37:40 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [FULL COURSE AUTOCAD A TO Z  ARCHITECTURE, STRUCTURE WITH BASIC AND PRESENTATIONEP 02a BSMMULTICAD](https://www.youtube.com/watch?v=4qqzR7oEBV8)  
+  ![](https://i.ytimg.com/vi/4qqzR7oEBV8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 10:33:09 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [FULL COURSE AUTOCAD A TO Z  ARCHITECTURE, STRUCTURE WITH BASIC AND PRESENTATIONEP 02b BSMMULTICAD](https://www.youtube.com/watch?v=-iPCmQBYUjQ)  
+  ![](https://i.ytimg.com/vi/-iPCmQBYUjQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 10:19:16 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [FULL COURSE AUTOCAD A TO Z  ARCHITECTURE, STRUCTURE WITH BASIC AND PRESENTATIONEP 02c BSMMULTICAD](https://www.youtube.com/watch?v=TzbPepg-oig)  
+  ![](https://i.ytimg.com/vi/TzbPepg-oig/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 10:13:22 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [FULL COURSE AUTOCAD A TO Z  ARCHITECTURE, STRUCTURE WITH BASIC AND PRESENTATIONEP 02d BSMMULTICAD](https://www.youtube.com/watch?v=iOzbgZ0yJAA)  
+  ![](https://i.ytimg.com/vi/iOzbgZ0yJAA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 10:09:45 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [FULL COURSE AUTOCAD A TO Z  ARCHITECTURE, STRUCTURE WITH BASIC AND PRESENTATIONEP 02d BSMMULTICAD](https://www.youtube.com/watch?v=369q31hTZPc)  
+  ![](https://i.ytimg.com/vi/369q31hTZPc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 09:55:37 (UTC)  
+  **مدت:** حدود 22.8 دقیقه  
+  **عنوان:** [Ground floor reinforcement details AutoCAD Bangla tutorials CAD EP 47  Reinforcement Details](https://www.youtube.com/watch?v=TRza2kT_PeI)  
+  ![](https://i.ytimg.com/vi/TRza2kT_PeI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 09:29:09 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [Ground floor reinforcement details AutoCAD Bangla tutorials CAD EP 47  Reinforcement Details b](https://www.youtube.com/watch?v=C4VZp3bjYpI)  
+  ![](https://i.ytimg.com/vi/C4VZp3bjYpI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 09:19:01 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [Ground floor reinforcement details AutoCAD Bangla tutorials CAD EP 47  Reinforcement Details c](https://www.youtube.com/watch?v=WuLoFaw8Ie8)  
+  ![](https://i.ytimg.com/vi/WuLoFaw8Ie8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 09:17:30 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [Ground floor reinforcement details AutoCAD Bangla tutorials CAD EP 47  Reinforcement Details d](https://www.youtube.com/watch?v=aJkymhalbFs)  
+  ![](https://i.ytimg.com/vi/aJkymhalbFs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 05:06:08 (UTC)  
+  **مدت:** حدود 23.2 دقیقه  
+  **عنوان:** [Ground floor reinforecment details autocad bangla tutorials](https://www.youtube.com/watch?v=jzhRmRxVJhA)  
+  ![](https://i.ytimg.com/vi/jzhRmRxVJhA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 04:44:52 (UTC)  
+  **مدت:** حدود 15.7 دقیقه  
+  **عنوان:** [HATCH BLOCK STRETCH DETAILS BANGLA TUTORIALS BSMMULTICADBYSAYFUL EP 06](https://www.youtube.com/watch?v=NSmtnemnvZQ)  
+  ![](https://i.ytimg.com/vi/NSmtnemnvZQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 04:37:18 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [how to complete course SketchUp Bangla tutorialsB](https://www.youtube.com/watch?v=iC4m-IVN7NU)  
+  ![](https://i.ytimg.com/vi/iC4m-IVN7NU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 04:32:23 (UTC)  
+  **مدت:** حدود 21.4 دقیقه  
+  **عنوان:** [HOW TO DRAW FOOTING LAYOUT PLANFOOTING WORKING DRAWING](https://www.youtube.com/watch?v=usgUCBN76W8)  
+  ![](https://i.ytimg.com/vi/usgUCBN76W8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 04:12:55 (UTC)  
+  **مدت:** حدود 15.5 دقیقه  
+  **عنوان:** [How to read SLAB reinforcement drawing  Typical SLAB DETAILS  Two way slab reinforcements CAD EP 48](https://www.youtube.com/watch?v=T_w4NMjT3dk)  
+  ![](https://i.ytimg.com/vi/T_w4NMjT3dk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 03:49:14 (UTC)  
+  **مدت:** حدود 15.5 دقیقه  
+  **عنوان:** [How to read SLAB reinforcement drawing  Typical SLAB DETAILS  Two way slab reinforcements CAD EP 48](https://www.youtube.com/watch?v=qo_c9xJgcqw)  
+  ![](https://i.ytimg.com/vi/qo_c9xJgcqw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 03:42:04 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [How to read SLAB reinforcement drawing  Typical SLAB DETAILS  Two way slab reinforcements CAD EP 48](https://www.youtube.com/watch?v=Qrt0zoue8-s)  
+  ![](https://i.ytimg.com/vi/Qrt0zoue8-s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 03:37:54 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [How to read SLAB reinforcement drawing  Typical SLAB DETAILS  Two way slab reinforcements CAD EP 48](https://www.youtube.com/watch?v=l9IbEnVjU5o)  
+  ![](https://i.ytimg.com/vi/l9IbEnVjU5o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-12 03:35:43 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [How to read SLAB reinforcement drawing  Typical SLAB DETAILS  Two way slab reinforcements CAD EP 48](https://www.youtube.com/watch?v=kSpI_hbDL3c)  
+  ![](https://i.ytimg.com/vi/kSpI_hbDL3c/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 12:23:06 (UTC)  
@@ -778,129 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
   **مدت:** حدود 13.4 دقیقه  
   **عنوان:** [SKETCHUP 3D MODELLING PAID COURSE BSM MULTICAD](https://www.youtube.com/watch?v=j0qpJlVOfMU)  
   ![](https://i.ytimg.com/vi/j0qpJlVOfMU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-13 13:22:59 (UTC)  
-  **مدت:** حدود 60.6 دقیقه  
-  **عنوان:** [A TO Z PROJECT SKETCHUP PAID COURSE BATCH 03 BANGLA TUTORIALS EP 09](https://www.youtube.com/watch?v=8DQhx2a47iw)  
-  ![](https://i.ytimg.com/vi/8DQhx2a47iw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-12 14:54:48 (UTC)  
-  **مدت:** حدود 37.0 دقیقه  
-  **عنوان:** [A TO Z PROJECT SKETCHUP PAID COURSE BATCH 03 BANGLA TUTORIALS EP 08](https://www.youtube.com/watch?v=1vxXr4nmkBg)  
-  ![](https://i.ytimg.com/vi/1vxXr4nmkBg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-12 14:45:27 (UTC)  
-  **مدت:** حدود 25.2 دقیقه  
-  **عنوان:** [A TO Z PROJECT SKETCHUP PAID COURSE BATCH 03 BANGLA TUTORIALS EP 07](https://www.youtube.com/watch?v=2q41HQmQ_Tg)  
-  ![](https://i.ytimg.com/vi/2q41HQmQ_Tg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-11 13:20:32 (UTC)  
-  **مدت:** حدود 19.9 دقیقه  
-  **عنوان:** [A TO Z PROJECT SKETCHUP PAID COURSE BATCH 03 BANGLA TUTORIALS EP 06](https://www.youtube.com/watch?v=Rms01g8Rrq4)  
-  ![](https://i.ytimg.com/vi/Rms01g8Rrq4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-11 13:02:29 (UTC)  
-  **مدت:** حدود 23.1 دقیقه  
-  **عنوان:** [A TO Z PROJECT SKETCHUP PAID COURSE BATCH 03 BANGLA TUTORIALS EP 05](https://www.youtube.com/watch?v=o6JaBf0RPE8)  
-  ![](https://i.ytimg.com/vi/o6JaBf0RPE8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-11 12:01:18 (UTC)  
-  **مدت:** حدود 33.6 دقیقه  
-  **عنوان:** [3D MODELING EXTERIOR DESIGN CLIENT WORK BANGLA |BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=j4rE5AhwidI)  
-  ![](https://i.ytimg.com/vi/j4rE5AhwidI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-10 14:57:04 (UTC)  
-  **مدت:** حدود 31.5 دقیقه  
-  **عنوان:** [A TO Z PROJECT SKETCHUP PAID COURSE BATCH 03 BANGLA TUTORIALS EP 04](https://www.youtube.com/watch?v=obIprIfEopo)  
-  ![](https://i.ytimg.com/vi/obIprIfEopo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-10 14:34:42 (UTC)  
-  **مدت:** حدود 23.8 دقیقه  
-  **عنوان:** [A TO Z PROJECT SKETCHUP PAID COURSE BATCH 03 BANGLA TUTORIALS EP 03](https://www.youtube.com/watch?v=S2E5Q2sbm_0)  
-  ![](https://i.ytimg.com/vi/S2E5Q2sbm_0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-09 15:16:00 (UTC)  
-  **مدت:** حدود 32.2 دقیقه  
-  **عنوان:** [A TO Z COURSE SKETCHUP BANLGA TUTORIALS BATCH 03 EP 01|BSMMULTICAD|](https://www.youtube.com/watch?v=78QIpvpsQ3M)  
-  ![](https://i.ytimg.com/vi/78QIpvpsQ3M/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-09 15:09:50 (UTC)  
-  **مدت:** حدود 14.8 دقیقه  
-  **عنوان:** [COMPLETE COURSE AUTOCAD ARCHITECTURE STRUCTUREA|paid course|](https://www.youtube.com/watch?v=OgHmX0gbkLg)  
-  ![](https://i.ytimg.com/vi/OgHmX0gbkLg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-09 14:58:10 (UTC)  
-  **مدت:** حدود 13.9 دقیقه  
-  **عنوان:** [Clients work SketchUp Bangla tutorials| bsmmulticad|](https://www.youtube.com/watch?v=OQFnzE6C9dI)  
-  ![](https://i.ytimg.com/vi/OQFnzE6C9dI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-08 16:16:52 (UTC)  
-  **مدت:** حدود 13.9 دقیقه  
-  **عنوان:** [SketchUp tutorials](https://www.youtube.com/watch?v=h65AeSuSwW0)  
-  ![](https://i.ytimg.com/vi/h65AeSuSwW0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-08 15:55:31 (UTC)  
-  **مدت:** حدود 13.4 دقیقه  
-  **عنوان:** [SKETCHUP 3D MODELLING PAID COURSE BSM MULTICAD](https://www.youtube.com/watch?v=Eh8LelwJdgg)  
-  ![](https://i.ytimg.com/vi/Eh8LelwJdgg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-08 15:23:09 (UTC)  
-  **مدت:** حدود 33.6 دقیقه  
-  **عنوان:** [3D MODELING EXTERIOR DESIGN CLIENT WORK BANGLA TUT](https://www.youtube.com/watch?v=4jUKQZQYi98)  
-  ![](https://i.ytimg.com/vi/4jUKQZQYi98/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-07 12:00:43 (UTC)  
-  **مدت:** حدود 19.4 دقیقه  
-  **عنوان:** [UNIT SETUP & SCALE CREATE BSM MULTICADBYSAYFUL](https://www.youtube.com/watch?v=KjlpIiMrmz8)  
-  ![](https://i.ytimg.com/vi/KjlpIiMrmz8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-04 12:01:10 (UTC)  
-  **مدت:** حدود 34.2 دقیقه  
-  **عنوان:** [SKETCHUP CLIENT WORK BANGLA TUTORIALS BSMMULTICADBYSAYFUL](https://www.youtube.com/watch?v=diFU8hl4Fg4)  
-  ![](https://i.ytimg.com/vi/diFU8hl4Fg4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-31 12:01:35 (UTC)  
-  **مدت:** حدود 14.8 دقیقه  
-  **عنوان:** [COMPLETE COURSE AUTOCAD ARCHITECTURE STRUCTURE bsmmulticadbysayful](https://www.youtube.com/watch?v=lOan2X-nMx0)  
-  ![](https://i.ytimg.com/vi/lOan2X-nMx0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-28 12:01:07 (UTC)  
-  **مدت:** حدود 34.2 دقیقه  
-  **عنوان:** [SKETCHUP CLIENT WORK BANGLA TUTORIALS BSMMULTICAD](https://www.youtube.com/watch?v=XMsDnGtKVpg)  
-  ![](https://i.ytimg.com/vi/XMsDnGtKVpg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-25 15:47:20 (UTC)  
-  **مدت:** حدود 10.0 دقیقه  
-  **عنوان:** [BSMMULTICAD POLYLINE DETAILS BANGLA TUTORIALS](https://www.youtube.com/watch?v=FMOf4jp-XJE)  
-  ![](https://i.ytimg.com/vi/FMOf4jp-XJE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-25 13:00:53 (UTC)  
-  **مدت:** حدود 41.3 دقیقه  
-  **عنوان:** [client work SketchUp Bangla tutorials |BSMMULTICADBYSAYFUL|](https://www.youtube.com/watch?v=OgXeinC11Qw)  
-  ![](https://i.ytimg.com/vi/OgXeinC11Qw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-24 13:01:33 (UTC)  
-  **مدت:** حدود 83.0 دقیقه  
-  **عنوان:** [SketchUp client work full course Bangla tutorials a to z](https://www.youtube.com/watch?v=iDrv5xUDcWQ)  
-  ![](https://i.ytimg.com/vi/iDrv5xUDcWQ/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
+_آخرین به‌روزرسانی: 2026-06-12T12:25:09Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-12 10:22:20 (UTC)  
+  **مدت:** حدود 1.7 دقیقه  
+  **عنوان:** [Kein Bock heute #shorts #realtalk](https://www.youtube.com/watch?v=C10O3pC8DzU)  
+  ![](https://i.ytimg.com/vi/C10O3pC8DzU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-10 17:00:07 (UTC)  
@@ -278,7 +284,7 @@ _آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
 
 - **تاریخ انتشار:** 2026-04-19 17:00:17 (UTC)  
   **مدت:** حدود 20.4 دقیقه  
-  **عنوان:** [Testing German  Restaurants in Australia (Part II)](https://www.youtube.com/watch?v=ILjVXsfCoLo)  
+  **عنوان:** [Testing German Restaurants in Australia (Part II)](https://www.youtube.com/watch?v=ILjVXsfCoLo)  
   ![](https://i.ytimg.com/vi/ILjVXsfCoLo/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
   **مدت:** حدود 14.3 دقیقه  
   **عنوان:** [Cari und Kapenda antworten (29) - Deutsche Musik | Namibia | Akzente | Lieblingssprachen](https://www.youtube.com/watch?v=1rEpFgW__2k)  
   ![](https://i.ytimg.com/vi/1rEpFgW__2k/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-03-13 18:43:00 (UTC)  
-  **مدت:** حدود 9.9 دقیقه  
-  **عنوان:** [Duzen und Siezen | Easy German 133](https://www.youtube.com/watch?v=R7DKffk25_g)  
-  ![](https://i.ytimg.com/vi/R7DKffk25_g/hqdefault.jpg)

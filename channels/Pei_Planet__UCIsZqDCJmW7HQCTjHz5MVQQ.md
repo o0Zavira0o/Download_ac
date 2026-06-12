@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
+_آخرین به‌روزرسانی: 2026-06-12T12:25:09Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-06-12 10:30:30 (UTC)  
+  **مدت:** حدود 22.1 دقیقه  
+  **عنوان:** [【ASMR】Forest Cats' Tea House & Candy Shop 🐱🌲🍵🍰 | Whimsical Sticker Scenes | No Talking](https://www.youtube.com/watch?v=BLCoTbkCkWQ)  
+  ![](https://i.ytimg.com/vi/BLCoTbkCkWQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-10 10:30:32 (UTC)  

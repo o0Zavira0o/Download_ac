@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
+_آخرین به‌روزرسانی: 2026-06-12T12:25:09Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-06-12 02:54:29 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Solidworks drawing sheet Crop View 😀 #ytshorts #shorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=gVPMeFMeios)  
+  ![](https://i.ytimg.com/vi/gVPMeFMeios/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-05 01:57:18 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
   **مدت:** حدود 2.6 دقیقه  
   **عنوان:** [Solidworks bending feature #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=vBLVKt0QtX0)  
   ![](https://i.ytimg.com/vi/vBLVKt0QtX0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-24 10:49:05 (UTC)  
-  **مدت:** حدود 1.7 دقیقه  
-  **عنوان:** [How to use a swept boss feature with guide curve in solidworks #shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=MavQx0ODSXc)  
-  ![](https://i.ytimg.com/vi/MavQx0ODSXc/hqdefault.jpg)

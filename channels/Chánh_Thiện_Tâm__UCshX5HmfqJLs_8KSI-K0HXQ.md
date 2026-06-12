@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-11T12:51:43Z_
+_آخرین به‌روزرسانی: 2026-06-12T12:25:09Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-12 11:54:41 (UTC)  
+  **مدت:** حدود 1.6 دقیقه  
+  **عنوان:** [Vẽ táo Solidworks](https://www.youtube.com/watch?v=c0Il8MxVX-o)  
+  ![](https://i.ytimg.com/vi/c0Il8MxVX-o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-11 12:42:35 (UTC)  
