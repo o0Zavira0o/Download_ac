@@ -1,6 +1,18 @@
-# Last Run: 2026-06-12 04:09 UTC
+# Last Run: 2026-06-12 10:20 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How Russia Could Escalate
+Published: 2026-06-12T09:00:16+00:00
+Link: https://foreignpolicy.com/2026/06/12/russia-ukraine-escalation-trump-europe-nato/
+---
+[Foreign_Affairs] China’s Edifice Complex
+Published: 2026-06-12T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/chinas-edifice-complex
+---
+[Foreign_Affairs] The Strange Defeat of Nuclear Deterrence
+Published: 2026-06-12T04:00:00+00:00
+Link: https://www.foreignaffairs.com/ukraine/strange-defeat-nuclear-deterrence-rose-gottemoeller
+---
 [Foreign_Policy] Peru’s Photo-Finish Election
 Published: 2026-06-11T21:53:52+00:00
 Link: https://foreignpolicy.com/2026/06/11/peru-president-election-results-fujimori-sanchez/
@@ -124,12 +136,4 @@ Link: https://foreignpolicy.com/2026/06/09/nato-cloud-computer-ai-iran-war/
 [Foreign_Policy] Lebanon Is No Longer About Lebanon
 Published: 2026-06-09T14:57:57+00:00
 Link: https://foreignpolicy.com/2026/06/09/lebanon-hezbollah-israel-war-trump-middle-east/
----
-[Foreign_Policy] American Power Is Wrung Out
-Published: 2026-06-09T10:00:38+00:00
-Link: https://foreignpolicy.com/2026/06/09/iran-war-trump-china-united-states-military-defense-weapons-geopolitics-strategy-taiwan/
----
-[Foreign_Policy] How to Escape Blame for Bad Advice
-Published: 2026-06-09T08:17:18+00:00
-Link: https://foreignpolicy.com/2026/06/09/iran-advice-blame-accountability-escape/
 ---
