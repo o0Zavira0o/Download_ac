@@ -1,6 +1,42 @@
-# Last Run: 2026-06-12 18:12 UTC
+# Last Run: 2026-06-12 21:50 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Netanyahu’s Reelection Could Hinge on Outcome of Iran War
+Published: 2026-06-12T20:49:52+00:00
+Link: https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/
+---
+[Foreign_Policy] Trump’s Big Weekend Could Derail the G-7
+Published: 2026-06-12T20:29:41+00:00
+Link: https://foreignpolicy.com/2026/06/12/trump-iran-war-peace-talks-deal-g7-leaders-summit/
+---
+[Foreign_Policy] How South Africa’s Myopia Is Harming the Entire Continent
+Published: 2026-06-12T20:13:45+00:00
+Link: https://foreignpolicy.com/2026/06/12/south-africa-migrants-xenophobia-protests-attacks/
+---
+[Foreign_Policy] The Aliens Aren’t the Most Unbelievable Part of Steven Spielberg’s New Movie
+Published: 2026-06-12T19:29:02+00:00
+Link: https://foreignpolicy.com/2026/06/12/disclosure-day-steven-spielberg-review/
+---
+[Foreign_Policy] Russia, Land of the Unpredictable Past
+Published: 2026-06-12T19:00:14+00:00
+Link: https://foreignpolicy.com/2026/06/12/russia-putin-censorship-law-drug-propaganda-art-music-literature/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-06-12T18:59:29+00:00
+Link: https://foreignpolicy.com/2026/06/12/foreign-policy-news-quiz-peru-earthquake-estonia-xi-taco-world-cup/
+---
+[Foreign_Policy] Trump Is Shattering the Illusion of the West
+Published: 2026-06-12T18:40:03+00:00
+Link: https://foreignpolicy.com/2026/06/12/trump-west-china-rome-civilization-vance-iran-hegseth-russia/
+---
+[Foreign_Policy] How Best to Look at Russian History
+Published: 2026-06-12T18:00:39+00:00
+Link: https://foreignpolicy.com/2026/06/12/exit-stalin-review-mark-smith-soviet-union-microhistory/
+---
+[Foreign_Policy] Will Farmers Lose Faith With Trump?
+Published: 2026-06-12T17:59:12+00:00
+Link: https://foreignpolicy.com/2026/06/12/iran-war-energy-farmers-fertilizer-economic-strain-midterms/
+---
 [Foreign_Policy] Elon Musk’s Self-Contradictory Military Policy
 Published: 2026-06-12T15:19:02+00:00
 Link: https://foreignpolicy.com/2026/06/12/musk-spacex-ipo-military-policy/
@@ -132,16 +168,4 @@ Link: https://www.foreignaffairs.com/china/fault-lines-chinas-power-ratner-danby
 [Foreign_Policy] U.S. Launches New ‘Self-Defense’ Strikes on Iran Over Apache Helicopter Crash
 Published: 2026-06-09T22:29:25+00:00
 Link: https://foreignpolicy.com/2026/06/09/trump-apache-helicopter-attack-iran-oman-lebanon-israel/
----
-[Foreign_Policy] Xi Seeks to Draw North Korea Back Into China’s Orbit
-Published: 2026-06-09T21:47:42+00:00
-Link: https://foreignpolicy.com/2026/06/09/xi-china-north-korea-xi-kim-jong-un-visit-russia/
----
-[Foreign_Policy] Why a South Korean Starbucks Ad Mocked Murdered Protesters
-Published: 2026-06-09T19:40:10+00:00
-Link: https://foreignpolicy.com/2026/06/09/starbucks-gwangju-far-right-south-korea/
----
-[Foreign_Policy] NATO’s Digital Back End Could Fall Apart Without Change
-Published: 2026-06-09T18:56:06+00:00
-Link: https://foreignpolicy.com/2026/06/09/nato-cloud-computer-ai-iran-war/
 ---
