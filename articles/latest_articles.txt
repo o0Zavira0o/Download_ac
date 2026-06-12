@@ -1,4 +1,4 @@
-# Last Run: 2026-06-12 21:50 UTC
+# Last Run: 2026-06-12 23:25 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu’s Reelection Could Hinge on Outcome of Iran War
@@ -164,8 +164,4 @@ Link: https://www.foreignaffairs.com/europe/end-open-internet
 [Foreign_Affairs] The Fault Lines in China’s Power
 Published: 2026-06-10T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/fault-lines-chinas-power-ratner-danby
----
-[Foreign_Policy] U.S. Launches New ‘Self-Defense’ Strikes on Iran Over Apache Helicopter Crash
-Published: 2026-06-09T22:29:25+00:00
-Link: https://foreignpolicy.com/2026/06/09/trump-apache-helicopter-attack-iran-oman-lebanon-israel/
 ---
