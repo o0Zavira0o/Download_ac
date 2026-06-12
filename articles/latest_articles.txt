@@ -1,6 +1,14 @@
-# Last Run: 2026-06-12 10:20 UTC
+# Last Run: 2026-06-12 15:22 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Missile Defense Worked Against Iran. It Might Not Work Against China.
+Published: 2026-06-12T13:48:49+00:00
+Link: https://foreignpolicy.com/2026/06/12/iran-war-us-china-taiwan-missile-defense-radar-interceptors/
+---
+[Foreign_Policy] Don’t Invite Syria Back Into Lebanon
+Published: 2026-06-12T13:27:06+00:00
+Link: https://foreignpolicy.com/2026/06/12/syria-trump-sharaa-hezbollah-lebanon/
+---
 [Foreign_Policy] How Russia Could Escalate
 Published: 2026-06-12T09:00:16+00:00
 Link: https://foreignpolicy.com/2026/06/12/russia-ukraine-escalation-trump-europe-nato/
@@ -132,8 +140,4 @@ Link: https://foreignpolicy.com/2026/06/09/starbucks-gwangju-far-right-south-kor
 [Foreign_Policy] NATO’s Digital Back End Could Fall Apart Without Change
 Published: 2026-06-09T18:56:06+00:00
 Link: https://foreignpolicy.com/2026/06/09/nato-cloud-computer-ai-iran-war/
----
-[Foreign_Policy] Lebanon Is No Longer About Lebanon
-Published: 2026-06-09T14:57:57+00:00
-Link: https://foreignpolicy.com/2026/06/09/lebanon-hezbollah-israel-war-trump-middle-east/
 ---
