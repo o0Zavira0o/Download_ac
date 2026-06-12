@@ -1,4 +1,4 @@
-# Last Run: 2026-06-11 23:31 UTC
+# Last Run: 2026-06-12 04:09 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Peru’s Photo-Finish Election
@@ -132,16 +132,4 @@ Link: https://foreignpolicy.com/2026/06/09/iran-war-trump-china-united-states-mi
 [Foreign_Policy] How to Escape Blame for Bad Advice
 Published: 2026-06-09T08:17:18+00:00
 Link: https://foreignpolicy.com/2026/06/09/iran-advice-blame-accountability-escape/
----
-[Foreign_Policy] The Invisible Hand Won’t Rebuild U.S. Shipyards
-Published: 2026-06-09T04:01:09+00:00
-Link: https://foreignpolicy.com/2026/06/09/rebuild-american-shipyards-iran-war/
----
-[Foreign_Affairs] Don’t Give Up on Global Order
-Published: 2026-06-09T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/dont-give-global-order
----
-[Foreign_Affairs] How America Lost Command of the Commons
-Published: 2026-06-09T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/how-america-lost-command-commons
 ---
