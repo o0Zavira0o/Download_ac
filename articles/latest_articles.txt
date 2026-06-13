@@ -1,4 +1,4 @@
-# Last Run: 2026-06-13 07:55 UTC
+# Last Run: 2026-06-13 10:35 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu’s Reelection Could Hinge on Outcome of Iran War
@@ -48,6 +48,10 @@ Link: https://foreignpolicy.com/2026/06/12/iran-war-us-china-taiwan-missile-defe
 [Foreign_Policy] Don’t Invite Syria Back Into Lebanon
 Published: 2026-06-12T13:27:06+00:00
 Link: https://foreignpolicy.com/2026/06/12/syria-trump-sharaa-hezbollah-lebanon/
+---
+[New_Yorker_Magazine] The Hell-Raising Rocker Who Conquered Country Radio
+Published: 2026-06-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/koe-wetzel-music-review
 ---
 [Foreign_Policy] How Russia Could Escalate
 Published: 2026-06-12T09:00:16+00:00
@@ -128,6 +132,10 @@ Link: https://foreignpolicy.com/2026/06/10/trump-us-strikes-iran-apache-helicopt
 [Foreign_Policy] Diagnosing the Israeli-Palestinian Conflict Doesn’t Solve It
 Published: 2026-06-10T19:47:18+00:00
 Link: https://foreignpolicy.com/2026/06/10/israel-palestine-review-bartov-abu-sarah-inon/
+---
+[New_Yorker_Magazine] “Disclosure Day” Movie Review
+Published: 2026-06-10T19:45:08+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/disclosure-day-movie-review
 ---
 [Foreign_Policy] Europe Plans to Crack Down on Russia—but for Real This Time
 Published: 2026-06-10T16:45:31+00:00
