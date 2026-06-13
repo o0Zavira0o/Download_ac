@@ -1,4 +1,4 @@
-# Last Run: 2026-06-13 14:08 UTC
+# Last Run: 2026-06-13 17:28 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu’s Reelection Could Hinge on Outcome of Iran War
@@ -136,16 +136,4 @@ Link: https://foreignpolicy.com/2026/06/10/israel-palestine-review-bartov-abu-sa
 [New_Yorker_Magazine] “Disclosure Day” Movie Review
 Published: 2026-06-10T19:45:08+00:00
 Link: https://www.newyorker.com/magazine/2026/06/22/disclosure-day-movie-review
----
-[Foreign_Policy] Europe Plans to Crack Down on Russia—but for Real This Time
-Published: 2026-06-10T16:45:31+00:00
-Link: https://foreignpolicy.com/2026/06/10/europe-russia-sanctions-package-trump-putin/
----
-[Foreign_Policy] The Geopolitics of the World Cup
-Published: 2026-06-10T16:00:52+00:00
-Link: https://foreignpolicy.com/2026/06/10/world-cup-soccer-football-mehreen-khan-fifa/
----
-[Foreign_Policy] What Comes After Global Order
-Published: 2026-06-10T15:22:49+00:00
-Link: https://foreignpolicy.com/2026/06/10/global-order-china-united-states-ordering/
 ---
