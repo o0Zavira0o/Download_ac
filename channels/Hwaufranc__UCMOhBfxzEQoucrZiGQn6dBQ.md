@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-06-12T12:25:09Z_
+_آخرین به‌روزرسانی: 2026-06-13T11:22:16Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-06-12 13:20:06 (UTC)  
+  **مدت:** حدود 9.6 دقیقه  
+  **عنوان:** [ASMR Summer Day Memories Pack Journal Unboxing jane&jace🤍 Scrapbook Haul](https://www.youtube.com/watch?v=BQUBwxhMFIc)  
+  ![](https://i.ytimg.com/vi/BQUBwxhMFIc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-11 13:00:08 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-06-12T12:25:09Z_
   **مدت:** حدود 16.9 دقیقه  
   **عنوان:** [ASMR Create Journal Supplies Haul 🌷DduiStore🌷 Variety Journaling Item 다꾸 デコ手帳](https://www.youtube.com/watch?v=Pz_7t2Xk6Ac)  
   ![](https://i.ytimg.com/vi/Pz_7t2Xk6Ac/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-04-01 13:35:00 (UTC)  
-  **مدت:** حدود 10.5 دقیقه  
-  **عنوان:** [ASMR Decorating Vintage Journal 📜🌿 Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=XQjZcFmN0z8)  
-  ![](https://i.ytimg.com/vi/XQjZcFmN0z8/hqdefault.jpg)

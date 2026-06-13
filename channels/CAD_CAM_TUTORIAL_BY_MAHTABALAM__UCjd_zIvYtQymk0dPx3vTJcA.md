@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-12T12:25:09Z_
+_آخرین به‌روزرسانی: 2026-06-13T11:22:16Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-13 03:30:30 (UTC)  
+  **مدت:** حدود 27.5 دقیقه  
+  **عنوان:** [Autodesk Fusion 360 Extrude, Revolve, Coil and Loft](https://www.youtube.com/watch?v=dmnqv0XIUkU)  
+  ![](https://i.ytimg.com/vi/dmnqv0XIUkU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-11 03:30:24 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-12T12:25:09Z_
   **مدت:** حدود 38.5 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Door Handle in Solidworks](https://www.youtube.com/watch?v=14lUguy2fv0)  
   ![](https://i.ytimg.com/vi/14lUguy2fv0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-04 00:44:37 (UTC)  
-  **مدت:** حدود 12.3 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Furniture screw in Solidworks](https://www.youtube.com/watch?v=BzXxYMHA63Q)  
-  ![](https://i.ytimg.com/vi/BzXxYMHA63Q/hqdefault.jpg)

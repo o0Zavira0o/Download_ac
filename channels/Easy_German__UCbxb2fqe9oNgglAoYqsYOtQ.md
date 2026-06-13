@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-12T12:25:09Z_
+_آخرین به‌روزرسانی: 2026-06-13T11:22:16Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-12 12:54:04 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Ein Paket abholen #shorts #paket](https://www.youtube.com/watch?v=YD-U1MNu0fc)  
+  ![](https://i.ytimg.com/vi/YD-U1MNu0fc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 10:22:20 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-12T12:25:09Z_
   **مدت:** حدود 10.1 دقیقه  
   **عنوان:** [What Germans love about Namibia | Easy German 134](https://www.youtube.com/watch?v=7nhVTMfjc8M)  
   ![](https://i.ytimg.com/vi/7nhVTMfjc8M/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-03-16 19:01:25 (UTC)  
-  **مدت:** حدود 14.3 دقیقه  
-  **عنوان:** [Cari und Kapenda antworten (29) - Deutsche Musik | Namibia | Akzente | Lieblingssprachen](https://www.youtube.com/watch?v=1rEpFgW__2k)  
-  ![](https://i.ytimg.com/vi/1rEpFgW__2k/hqdefault.jpg)

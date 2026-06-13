@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-12T12:25:09Z_
+_آخرین به‌روزرسانی: 2026-06-13T11:22:16Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-13 01:24:16 (UTC)  
+  **مدت:** حدود 9.1 دقیقه  
+  **عنوان:** [Tách khuôn mặt nạ Solidworks](https://www.youtube.com/watch?v=Yiq0MflHvC0)  
+  ![](https://i.ytimg.com/vi/Yiq0MflHvC0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 11:54:41 (UTC)  
