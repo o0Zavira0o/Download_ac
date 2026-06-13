@@ -1,4 +1,4 @@
-# Last Run: 2026-06-13 10:35 UTC
+# Last Run: 2026-06-13 14:08 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu’s Reelection Could Hinge on Outcome of Iran War
@@ -148,12 +148,4 @@ Link: https://foreignpolicy.com/2026/06/10/world-cup-soccer-football-mehreen-kha
 [Foreign_Policy] What Comes After Global Order
 Published: 2026-06-10T15:22:49+00:00
 Link: https://foreignpolicy.com/2026/06/10/global-order-china-united-states-ordering/
----
-[Foreign_Policy] Exporting U.S. Military AI Won’t Be Easy
-Published: 2026-06-10T13:56:41+00:00
-Link: https://foreignpolicy.com/2026/06/10/military-ai-middle-power-anthropic-pentagon-pax-silica/
----
-[Foreign_Policy] Progressives Should Show Real Solidarity With China
-Published: 2026-06-10T13:50:28+00:00
-Link: https://foreignpolicy.com/2026/06/10/progressives-china-beijing-labor-protests-chinamaxxing/
 ---
