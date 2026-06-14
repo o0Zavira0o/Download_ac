@@ -1,4 +1,4 @@
-# Last Run: 2026-06-14 12:03 UTC
+# Last Run: 2026-06-14 14:26 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu’s Reelection Could Hinge on Outcome of Iran War
@@ -92,8 +92,4 @@ Link: https://foreignpolicy.com/2026/06/11/trump-asia-strategy-rethink/
 [Foreign_Policy] Iran Is Now More Dangerous Than Ever
 Published: 2026-06-11T14:29:01+00:00
 Link: https://foreignpolicy.com/2026/06/11/iran-war-ceasefire-deterrence-trump-lebanon-israel/
----
-[Foreign_Policy] Sudan’s Rapid Support Forces Are Terrorists
-Published: 2026-06-11T12:50:13+00:00
-Link: https://foreignpolicy.com/2026/06/11/sudan-rapid-support-forces-united-arab-emirates-saudi-arabia-turkey-civil-war-terrorists/
 ---
