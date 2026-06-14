@@ -1,4 +1,4 @@
-# Last Run: 2026-06-14 04:16 UTC
+# Last Run: 2026-06-14 09:41 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu’s Reelection Could Hinge on Outcome of Iran War
@@ -108,8 +108,4 @@ Link: https://foreignpolicy.com/2026/06/11/mexico-soccer-world-cup-tourism-secur
 [Foreign_Policy] FIFA’s Versailles Moment
 Published: 2026-06-11T11:00:10+00:00
 Link: https://foreignpolicy.com/2026/06/11/fifa-2026-world-cup-expensive-betrays-soccer-football-fans-roots/
----
-[Foreign_Policy] The Hegseth Shock for New Zealand
-Published: 2026-06-11T09:23:10+00:00
-Link: https://foreignpolicy.com/2026/06/11/new-zealand-defense-spending-pete-hegseth-anna-fifield-freeloading-alllies/
 ---
