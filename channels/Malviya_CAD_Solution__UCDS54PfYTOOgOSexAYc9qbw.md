@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-06-13T11:22:16Z_
+_آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-06-14 02:42:57 (UTC)  
+  **مدت:** حدود 14.0 دقیقه  
+  **عنوان:** [Design of Bevel gear in Solidworks | Step by Step tutorial](https://www.youtube.com/watch?v=KRwT4uZcI-Y)  
+  ![](https://i.ytimg.com/vi/KRwT4uZcI-Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 02:54:29 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-13T11:22:16Z_
   **مدت:** حدود 2.3 دقیقه  
   **عنوان:** [How to apply multiple threads in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=QUx26ZPfKb0)  
   ![](https://i.ytimg.com/vi/QUx26ZPfKb0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-28 04:58:39 (UTC)  
-  **مدت:** حدود 2.6 دقیقه  
-  **عنوان:** [Solidworks bending feature #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=vBLVKt0QtX0)  
-  ![](https://i.ytimg.com/vi/vBLVKt0QtX0/hqdefault.jpg)

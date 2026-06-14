@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-13T11:22:16Z_
+_آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-13 13:15:10 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Stadtmodell von Halle 🏙️ #halle #easygerman #deutschlernen](https://www.youtube.com/watch?v=doNRdWFGwKg)  
+  ![](https://i.ytimg.com/vi/doNRdWFGwKg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 12:54:04 (UTC)  
@@ -146,7 +152,7 @@ _آخرین به‌روزرسانی: 2026-06-13T11:22:16Z_
 
 - **تاریخ انتشار:** 2026-05-17 17:00:48 (UTC)  
   **مدت:** حدود 15.3 دقیقه  
-  **عنوان:** [How Germans Define True Friendship](https://www.youtube.com/watch?v=dkvBJernuKE)  
+  **عنوان:** [Why Is It So Hard to Make Friends in Germany?](https://www.youtube.com/watch?v=dkvBJernuKE)  
   ![](https://i.ytimg.com/vi/dkvBJernuKE/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-13T11:22:16Z_
   **مدت:** حدود 13.7 دقیقه  
   **عنوان:** [Interview with the German Ambassador in Namibia | Easy German 135](https://www.youtube.com/watch?v=xf5dp8EyOPg)  
   ![](https://i.ytimg.com/vi/xf5dp8EyOPg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-03-20 18:06:51 (UTC)  
-  **مدت:** حدود 10.1 دقیقه  
-  **عنوان:** [What Germans love about Namibia | Easy German 134](https://www.youtube.com/watch?v=7nhVTMfjc8M)  
-  ![](https://i.ytimg.com/vi/7nhVTMfjc8M/hqdefault.jpg)

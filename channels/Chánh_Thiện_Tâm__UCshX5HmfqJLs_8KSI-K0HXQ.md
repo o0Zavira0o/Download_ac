@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-13T11:22:16Z_
+_آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-14 11:33:58 (UTC)  
+  **مدت:** حدود 12.1 دقیقه  
+  **عنوان:** [Phay khuôn VISI P1](https://www.youtube.com/watch?v=xirWigLnnYM)  
+  ![](https://i.ytimg.com/vi/xirWigLnnYM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-14 00:59:40 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Lập trình Tiện CNC Mastercam Full](https://www.youtube.com/watch?v=PMM1dNAwK44)  
+  ![](https://i.ytimg.com/vi/PMM1dNAwK44/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-13 11:54:46 (UTC)  
+  **مدت:** حدود 19.5 دقیقه  
+  **عنوان:** [Lắp ghép chuyển động Solidworks](https://www.youtube.com/watch?v=lE6FoapeZ1o)  
+  ![](https://i.ytimg.com/vi/lE6FoapeZ1o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-13 01:24:16 (UTC)  

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-06-13T11:22:16Z_
+_آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-06-14 10:00:28 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [29-2　Origami Ninja & Shuriken 🥷✨ Japanese Paper Art折り紙で忍者と手裏剣を作ってみた🥷 #origami #diy #折り紙 #asmr](https://www.youtube.com/watch?v=zDD2vaOseig)  
+  ![](https://i.ytimg.com/vi/zDD2vaOseig/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-13 10:00:12 (UTC)  
