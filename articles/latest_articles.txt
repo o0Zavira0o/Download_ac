@@ -1,4 +1,4 @@
-# Last Run: 2026-06-14 19:33 UTC
+# Last Run: 2026-06-14 21:18 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu’s Reelection Could Hinge on Outcome of Iran War
@@ -72,8 +72,4 @@ Link: https://foreignpolicy.com/2026/06/11/peru-president-election-results-fujim
 [Foreign_Policy] War and Circuses
 Published: 2026-06-11T21:23:16+00:00
 Link: https://foreignpolicy.com/2026/06/11/trump-iran-war-world-cup-ufc-fight-white-house/
----
-[Foreign_Policy] Trump Backpedals on Planned Iran Strikes, Citing Deal Progress
-Published: 2026-06-11T21:06:45+00:00
-Link: https://foreignpolicy.com/2026/06/11/trump-cancels-strikes-iran-deal-kharg-island-blockade/
 ---
