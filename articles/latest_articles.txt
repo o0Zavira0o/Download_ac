@@ -1,4 +1,4 @@
-# Last Run: 2026-06-14 09:41 UTC
+# Last Run: 2026-06-14 12:03 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu’s Reelection Could Hinge on Outcome of Iran War
@@ -96,16 +96,4 @@ Link: https://foreignpolicy.com/2026/06/11/iran-war-ceasefire-deterrence-trump-l
 [Foreign_Policy] Sudan’s Rapid Support Forces Are Terrorists
 Published: 2026-06-11T12:50:13+00:00
 Link: https://foreignpolicy.com/2026/06/11/sudan-rapid-support-forces-united-arab-emirates-saudi-arabia-turkey-civil-war-terrorists/
----
-[Foreign_Policy] How Soccer Became ‘Un-American’
-Published: 2026-06-11T11:00:26+00:00
-Link: https://foreignpolicy.com/2026/06/11/soccer-un-american-world-cup/
----
-[Foreign_Policy] Mexico Could Be the World Cup’s Biggest Winner
-Published: 2026-06-11T11:00:16+00:00
-Link: https://foreignpolicy.com/2026/06/11/mexico-soccer-world-cup-tourism-security-us-fifa/
----
-[Foreign_Policy] FIFA’s Versailles Moment
-Published: 2026-06-11T11:00:10+00:00
-Link: https://foreignpolicy.com/2026/06/11/fifa-2026-world-cup-expensive-betrays-soccer-football-fans-roots/
 ---
