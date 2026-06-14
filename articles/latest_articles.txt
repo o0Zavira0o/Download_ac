@@ -1,4 +1,4 @@
-# Last Run: 2026-06-14 14:26 UTC
+# Last Run: 2026-06-14 17:26 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu’s Reelection Could Hinge on Outcome of Iran War
@@ -80,16 +80,4 @@ Link: https://foreignpolicy.com/2026/06/11/trump-cancels-strikes-iran-deal-kharg
 [Foreign_Policy] Hormuz Isn’t Closed Anymore. But It’s Not Fully Open, Either.
 Published: 2026-06-11T19:25:35+00:00
 Link: https://foreignpolicy.com/2026/06/11/iran-us-war-hormuz-strait-shadow-fleet-trump/
----
-[Foreign_Policy] When the Beautiful Game Meets the Ugliest Ego
-Published: 2026-06-11T16:38:18+00:00
-Link: https://foreignpolicy.com/2026/06/11/when-the-beautiful-game-meets-the-ugliest-ego/
----
-[Foreign_Policy] Washington’s Asian Allies Need a Backup Plan
-Published: 2026-06-11T14:57:44+00:00
-Link: https://foreignpolicy.com/2026/06/11/trump-asia-strategy-rethink/
----
-[Foreign_Policy] Iran Is Now More Dangerous Than Ever
-Published: 2026-06-11T14:29:01+00:00
-Link: https://foreignpolicy.com/2026/06/11/iran-war-ceasefire-deterrence-trump-lebanon-israel/
 ---
