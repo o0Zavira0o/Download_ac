@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
+_آخرین به‌روزرسانی: 2026-06-15T15:22:37Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-06-15 03:32:35 (UTC)  
+  **مدت:** حدود 41.1 دقیقه  
+  **عنوان:** [FOOTING LAYOUT PLAN AND SCHEDULE BANGLA TUTORIALS](https://www.youtube.com/watch?v=GH0K0OuT-Yo)  
+  ![](https://i.ytimg.com/vi/GH0K0OuT-Yo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 11:42:17 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
   **مدت:** حدود 12.7 دقیقه  
   **عنوان:** [Answers to all your questions AUTOCAD, ESTIMATE,3D MODELING &RENDERING](https://www.youtube.com/watch?v=eDM_OxVUwZ4)  
   ![](https://i.ytimg.com/vi/eDM_OxVUwZ4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-14 12:01:27 (UTC)  
-  **مدت:** حدود 13.4 دقیقه  
-  **عنوان:** [SKETCHUP 3D MODELLING PAID COURSE BSM MULTICAD](https://www.youtube.com/watch?v=j0qpJlVOfMU)  
-  ![](https://i.ytimg.com/vi/j0qpJlVOfMU/hqdefault.jpg)

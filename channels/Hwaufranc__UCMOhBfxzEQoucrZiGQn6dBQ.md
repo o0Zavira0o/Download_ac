@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
+_آخرین به‌روزرسانی: 2026-06-15T15:22:37Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-06-15 13:00:13 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [ASMR Stamp on it!🧱 도장다꾸 #diy #stamp #asmr #diy꾸미기](https://www.youtube.com/watch?v=HMXucEoBn6A)  
+  ![](https://i.ytimg.com/vi/HMXucEoBn6A/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-14 13:15:22 (UTC)  
+  **مدت:** حدود 18.0 دقیقه  
+  **عنوان:** [ASMR Journal Summer Day Memories☀️ | DIY꾸미기 다꾸 | Scrapbook Paper 다이어리꾸미기](https://www.youtube.com/watch?v=CExPED_eJ8Y)  
+  ![](https://i.ytimg.com/vi/CExPED_eJ8Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-13 13:00:08 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [ASMR Journaling Rose🌹1/2 #journaling #journalasmr #satisfyingasmr](https://www.youtube.com/watch?v=Bh04RMIeIFk)  
   ![](https://i.ytimg.com/vi/Bh04RMIeIFk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-04-06 14:45:01 (UTC)  
-  **مدت:** حدود 8.8 دقیقه  
-  **عنوان:** [ASMR Decorating the Rose-themed Journal🌹 Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=Kr4BQsp_P8U)  
-  ![](https://i.ytimg.com/vi/Kr4BQsp_P8U/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-04-05 12:50:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [So Cool Unboxing ASMR #journalsupplies #washitape #aesthetic #journaling](https://www.youtube.com/watch?v=ys8zXKg5cUc)  
-  ![](https://i.ytimg.com/vi/ys8zXKg5cUc/hqdefault.jpg)

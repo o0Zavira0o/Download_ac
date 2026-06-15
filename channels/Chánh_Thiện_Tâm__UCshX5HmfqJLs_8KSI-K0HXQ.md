@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
+_آخرین به‌روزرسانی: 2026-06-15T15:22:37Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-15 12:31:39 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Lập trình phay cnc mastercam](https://www.youtube.com/watch?v=wF2v2juXtw8)  
+  ![](https://i.ytimg.com/vi/wF2v2juXtw8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-15 01:53:44 (UTC)  
+  **مدت:** حدود 23.1 دقیقه  
+  **عنوان:** [Phay khuôn VISI P2](https://www.youtube.com/watch?v=W__9VeFSTSc)  
+  ![](https://i.ytimg.com/vi/W__9VeFSTSc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-14 11:33:58 (UTC)  

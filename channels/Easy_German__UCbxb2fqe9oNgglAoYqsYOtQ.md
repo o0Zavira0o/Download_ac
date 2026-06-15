@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
+_آخرین به‌روزرسانی: 2026-06-15T15:22:37Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-15 10:56:29 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Was findet man in der Postfiliale #shorts](https://www.youtube.com/watch?v=QeDg29uyuX8)  
+  ![](https://i.ytimg.com/vi/QeDg29uyuX8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-14 17:00:16 (UTC)  
+  **مدت:** حدود 16.0 دقیقه  
+  **عنوان:** [Street Interviews in Magdeburg (for German Learners)](https://www.youtube.com/watch?v=kRq3WzSwUw0)  
+  ![](https://i.ytimg.com/vi/kRq3WzSwUw0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-13 13:15:10 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
   **مدت:** حدود 4.7 دقیقه  
   **عنوان:** [Zuschauer treffen - Jace aus Texas](https://www.youtube.com/watch?v=6u-rpyDa4S8)  
   ![](https://i.ytimg.com/vi/6u-rpyDa4S8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-04-03 16:18:40 (UTC)  
-  **مدت:** حدود 9.7 دقیقه  
-  **عنوان:** [Windhoek (Namibia) | Easy German 136](https://www.youtube.com/watch?v=YPYNK1gG0S8)  
-  ![](https://i.ytimg.com/vi/YPYNK1gG0S8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-03-27 14:23:50 (UTC)  
-  **مدت:** حدود 13.7 دقیقه  
-  **عنوان:** [Interview with the German Ambassador in Namibia | Easy German 135](https://www.youtube.com/watch?v=xf5dp8EyOPg)  
-  ![](https://i.ytimg.com/vi/xf5dp8EyOPg/hqdefault.jpg)

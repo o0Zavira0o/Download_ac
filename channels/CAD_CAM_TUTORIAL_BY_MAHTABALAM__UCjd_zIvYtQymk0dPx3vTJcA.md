@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
+_آخرین به‌روزرسانی: 2026-06-15T15:22:37Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-15 03:30:33 (UTC)  
+  **مدت:** حدود 23.9 دقیقه  
+  **عنوان:** [SolidWorks Surface- Modeling of SpaceX Dragon](https://www.youtube.com/watch?v=_eTgzCYa2RQ)  
+  ![](https://i.ytimg.com/vi/_eTgzCYa2RQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-13 03:30:30 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-14T11:34:45Z_
   **مدت:** حدود 24.6 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch kitchen sink in Solidworks](https://www.youtube.com/watch?v=nZFw8KKPHSc)  
   ![](https://i.ytimg.com/vi/nZFw8KKPHSc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-04 23:07:28 (UTC)  
-  **مدت:** حدود 38.5 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Door Handle in Solidworks](https://www.youtube.com/watch?v=14lUguy2fv0)  
-  ![](https://i.ytimg.com/vi/14lUguy2fv0/hqdefault.jpg)
