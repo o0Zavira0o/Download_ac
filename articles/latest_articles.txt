@@ -1,6 +1,14 @@
-# Last Run: 2026-06-15 18:32 UTC
+# Last Run: 2026-06-15 22:25 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] U.S.-Iran Peace Deal Arrives Just in Time for G-7 Summit
+Published: 2026-06-15T20:56:55+00:00
+Link: https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-mou-trump-g7-summit-israel-lebanon/
+---
+[Foreign_Policy] The Truce Between the U.S. and Iran Was the Easy Part
+Published: 2026-06-15T18:46:25+00:00
+Link: https://foreignpolicy.com/2026/06/15/iran-united-states-trump-truce-war-israel-nuclear/
+---
 [Foreign_Policy] Iran Hawks Side-Eye Trump’s Deal
 Published: 2026-06-15T17:26:57+00:00
 Link: https://foreignpolicy.com/2026/06/15/iran-cease-fire-peace-deal-trump-hawks-nuclear-weapons/
@@ -68,32 +76,4 @@ Link: https://www.foreignaffairs.com/us-chinese-relations/false-promise-us-china
 [Foreign_Affairs] The False Promise of U.S.-China Stability
 Published: 2026-06-15T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/false-promise-us-china-stability
----
-[Foreign_Policy] Netanyahu’s Reelection Could Hinge on Outcome of Iran War
-Published: 2026-06-12T20:49:52+00:00
-Link: https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/
----
-[Foreign_Policy] Trump’s Big Weekend Could Derail the G-7
-Published: 2026-06-12T20:29:41+00:00
-Link: https://foreignpolicy.com/2026/06/12/trump-iran-war-peace-talks-deal-g7-leaders-summit/
----
-[Foreign_Policy] How South Africa’s Myopia Is Harming the Entire Continent
-Published: 2026-06-12T20:13:45+00:00
-Link: https://foreignpolicy.com/2026/06/12/south-africa-migrants-xenophobia-protests-attacks/
----
-[Foreign_Policy] The Aliens Aren’t the Most Unbelievable Part of Steven Spielberg’s New Movie
-Published: 2026-06-12T19:29:02+00:00
-Link: https://foreignpolicy.com/2026/06/12/disclosure-day-steven-spielberg-review/
----
-[Foreign_Policy] Russia, Land of the Unpredictable Past
-Published: 2026-06-12T19:00:14+00:00
-Link: https://foreignpolicy.com/2026/06/12/russia-putin-censorship-law-drug-propaganda-art-music-literature/
----
-[Foreign_Policy] What in the World?
-Published: 2026-06-12T18:59:29+00:00
-Link: https://foreignpolicy.com/2026/06/12/foreign-policy-news-quiz-peru-earthquake-estonia-xi-taco-world-cup/
----
-[Foreign_Policy] Trump Is Shattering the Illusion of the West
-Published: 2026-06-12T18:40:03+00:00
-Link: https://foreignpolicy.com/2026/06/12/trump-west-china-rome-civilization-vance-iran-hegseth-russia/
 ---
