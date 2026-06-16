@@ -1,6 +1,18 @@
-# Last Run: 2026-06-15 22:25 UTC
+# Last Run: 2026-06-16 04:21 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How to Say No to an Imperial President
+Published: 2026-06-16T04:01:58+00:00
+Link: https://foreignpolicy.com/2026/06/16/nixon-irs-trump-executive-authority/
+---
+[Foreign_Affairs] The Middle East Power Paradox
+Published: 2026-06-16T04:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/middle-east-power-paradox-dana-stroul
+---
+[Foreign_Affairs] NATO’s Permanent Crisis
+Published: 2026-06-16T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/natos-permanent-crisis
+---
 [Foreign_Policy] U.S.-Iran Peace Deal Arrives Just in Time for G-7 Summit
 Published: 2026-06-15T20:56:55+00:00
 Link: https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-mou-trump-g7-summit-israel-lebanon/
