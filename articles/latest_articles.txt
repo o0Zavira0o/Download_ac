@@ -1,6 +1,10 @@
-# Last Run: 2026-06-16 04:21 UTC
+# Last Run: 2026-06-16 11:17 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Israel Has a Plan to Keep Calling Its Own Shots
+Published: 2026-06-16T10:47:37+00:00
+Link: https://foreignpolicy.com/2026/06/16/israel-netanyahu-trump-iran-deal-war-lebanon-deal-shots/
+---
 [Foreign_Policy] How to Say No to an Imperial President
 Published: 2026-06-16T04:01:58+00:00
 Link: https://foreignpolicy.com/2026/06/16/nixon-irs-trump-executive-authority/
@@ -12,6 +16,10 @@ Link: https://www.foreignaffairs.com/iran/middle-east-power-paradox-dana-stroul
 [Foreign_Affairs] NATO’s Permanent Crisis
 Published: 2026-06-16T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/natos-permanent-crisis
+---
+[New_Yorker_Magazine] Olivia Rodrigo’s Early-Twenties Lament
+Published: 2026-06-15T21:56:18+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/olivia-rodrigo-music-review
 ---
 [Foreign_Policy] U.S.-Iran Peace Deal Arrives Just in Time for G-7 Summit
 Published: 2026-06-15T20:56:55+00:00
@@ -32,6 +40,62 @@ Link: https://foreignpolicy.com/2026/06/15/iran-deal-trump-oil-market-prices/
 [Foreign_Policy] What We Do and Don’t Know About the U.S.-Iran Peace Deal
 Published: 2026-06-15T16:54:45+00:00
 Link: https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-trump-nuclear-sanctions-war-israel-lebanon-mou/
+---
+[New_Yorker_Magazine] On the Front Lines of Delaney Hall, ICE’s Newark Prison
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/on-the-front-lines-of-delaney-hall-ices-newark-prison
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/ghost-eye-whistler-newcomers-fires-in-the-night
+---
+[New_Yorker_Magazine] “Sectioned,” by Meghan O’Rourke
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/sectioned-meghan-orourke-poem
+---
+[New_Yorker_Magazine] Gustavo Dudamel and James Conlon Exit L.A.
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/gustavo-dudamel-and-james-conlon-bid-la-goodbye
+---
+[New_Yorker_Magazine] Jürgen Habermas Defended Reason in a Darkening Age
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/jurgen-habermas-desperate-fight-for-democracy
+---
+[New_Yorker_Magazine] Jackie Gleason’s Paranormal Activity
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/jackie-gleasons-paranormal-activity
+---
+[New_Yorker_Magazine] Ken Griffin’s Billions and Billions
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/ken-griffins-billions-and-billions
+---
+[New_Yorker_Magazine] Meet Russ Freud
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/meet-russ-freud
+---
+[New_Yorker_Magazine] “Yuppies,” “Mutiny,” and “How to Start,” Reviewed
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/mutiny-noam-scheiber-book-review-yuppies-dylan-gottlieb
+---
+[New_Yorker_Magazine] “American Pokeberry,” by January Gill O’Neil
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/american-pokeberry-january-gill-oneil-poem
+---
+[New_Yorker_Magazine] Misery Loves Company—If There Are Snacks
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/misery-loves-company-if-there-are-snacks
+---
+[New_Yorker_Magazine] Inside the Ludicrous, Deadly Serious Plan to Take Over Greenland
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/inside-the-ludicrous-deadly-serious-plan-to-take-over-greenland
+---
+[New_Yorker_Magazine] Beyond Banners
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/beyond-banners
+---
+[New_Yorker_Magazine] Melanie Hamrick Is Still On Pointe
+Published: 2026-06-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/melanie-hamrick-is-still-on-pointe
 ---
 [Foreign_Policy] Introducing the Summer 2026 Print Issue
 Published: 2026-06-15T05:02:14+00:00
@@ -88,4 +152,16 @@ Link: https://www.foreignaffairs.com/us-chinese-relations/false-promise-us-china
 [Foreign_Affairs] The False Promise of U.S.-China Stability
 Published: 2026-06-15T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/false-promise-us-china-stability
+---
+[New_Yorker_Magazine] Why Todd Blanche Should Not Be Attorney General
+Published: 2026-06-14T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/why-todd-blanche-should-not-be-attorney-general
+---
+[New_Yorker_Magazine] “Mutter,” by Esther Yi
+Published: 2026-06-14T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/mutter-fiction-esther-yi
+---
+[New_Yorker_Magazine] How Did American Christianity End Up Like This?
+Published: 2026-06-14T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/22/the-church-that-won-america
 ---
