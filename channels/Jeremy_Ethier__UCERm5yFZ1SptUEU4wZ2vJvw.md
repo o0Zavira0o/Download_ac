@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-06-15T15:22:37Z_
+_آخرین به‌روزرسانی: 2026-06-16T14:22:37Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,7 +10,7 @@ _آخرین به‌روزرسانی: 2026-06-15T15:22:37Z_
 
 - **تاریخ انتشار:** 2026-06-14 13:45:08 (UTC)  
   **مدت:** حدود 21.3 دقیقه  
-  **عنوان:** [I Ran Everyday For 30 Days, It Changed My Life](https://www.youtube.com/watch?v=Q743HRn2_jM)  
+  **عنوان:** [I Ran Every Day For 30 Days. This Is What Happened.](https://www.youtube.com/watch?v=Q743HRn2_jM)  
   ![](https://i.ytimg.com/vi/Q743HRn2_jM/hqdefault.jpg)
 
 

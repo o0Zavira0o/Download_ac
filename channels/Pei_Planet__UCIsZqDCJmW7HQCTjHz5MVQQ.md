@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-06-15T15:22:37Z_
+_آخرین به‌روزرسانی: 2026-06-16T14:22:37Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-06-16 10:30:38 (UTC)  
+  **مدت:** حدود 10.8 دقیقه  
+  **عنوان:** [【ASMR】Abandoned Beer Mug Turned Into an Avocado Salad Shop 🐱🥑✨🌲 | Forest Sticker Scene | No Talking](https://www.youtube.com/watch?v=BAlkIunLqrg)  
+  ![](https://i.ytimg.com/vi/BAlkIunLqrg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 10:30:30 (UTC)  

@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-15T15:22:37Z_
+_آخرین به‌روزرسانی: 2026-06-16T14:22:37Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-16 12:18:46 (UTC)  
+  **مدت:** حدود 30.1 دقیقه  
+  **عنوان:** [Vẽ khung hàn Solidworks Weldment](https://www.youtube.com/watch?v=UZcpWi5dfMY)  
+  ![](https://i.ytimg.com/vi/UZcpWi5dfMY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-15 23:31:52 (UTC)  
+  **مدت:** حدود 1.8 دقیقه  
+  **عنوان:** [Tách khuôn ky rác Solidworks](https://www.youtube.com/watch?v=RpWLPmstW5Y)  
+  ![](https://i.ytimg.com/vi/RpWLPmstW5Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-15 12:31:39 (UTC)  
