@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-16T14:22:37Z_
+_آخرین به‌روزرسانی: 2026-06-17T12:55:30Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-17 10:11:06 (UTC)  
+  **مدت:** حدود 10.7 دقیقه  
+  **عنوان:** [Tách khuôn nhựa Solidworks](https://www.youtube.com/watch?v=gJ1rwydKRCk)  
+  ![](https://i.ytimg.com/vi/gJ1rwydKRCk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-17 01:36:48 (UTC)  
+  **مدت:** حدود 3.1 دقیقه  
+  **عنوان:** [Lập Trình Tiện Mastercam](https://www.youtube.com/watch?v=eU5WaNU1FI8)  
+  ![](https://i.ytimg.com/vi/eU5WaNU1FI8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-16 12:18:46 (UTC)  

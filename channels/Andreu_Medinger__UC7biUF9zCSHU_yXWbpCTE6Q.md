@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-06-16T14:22:37Z_
+_آخرین به‌روزرسانی: 2026-06-17T12:55:30Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-06-17 11:45:20 (UTC)  
+  **مدت:** حدود 137.6 دقیقه  
+  **عنوان:** [AULA 2 - DESTRAVAR SOLIDWORKS](https://www.youtube.com/watch?v=CVEqdTK8ovc)  
+  ![](https://i.ytimg.com/vi/CVEqdTK8ovc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-15 12:15:30 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-16T14:22:37Z_
   **مدت:** حدود 1.5 دقیقه  
   **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=GR6zdwSgZy0)  
   ![](https://i.ytimg.com/vi/GR6zdwSgZy0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-01-06 22:55:00 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=bKhEunipOu4)  
-  ![](https://i.ytimg.com/vi/bKhEunipOu4/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-16T14:22:37Z_
+_آخرین به‌روزرسانی: 2026-06-17T12:55:30Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-16 17:00:23 (UTC)  
+  **مدت:** حدود 36.4 دقیقه  
+  **عنوان:** [How Germans Communicate With Their Neighbors](https://www.youtube.com/watch?v=54Oc03D4sI0)  
+  ![](https://i.ytimg.com/vi/54Oc03D4sI0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-15 10:56:29 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-16T14:22:37Z_
   **مدت:** حدود 8.1 دقیقه  
   **عنوان:** [At the Mauerpark flea market in Berlin | Easy German 137](https://www.youtube.com/watch?v=Dk_17HGD_ss)  
   ![](https://i.ytimg.com/vi/Dk_17HGD_ss/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-04-09 07:01:24 (UTC)  
-  **مدت:** حدود 4.7 دقیقه  
-  **عنوان:** [Zuschauer treffen - Jace aus Texas](https://www.youtube.com/watch?v=6u-rpyDa4S8)  
-  ![](https://i.ytimg.com/vi/6u-rpyDa4S8/hqdefault.jpg)

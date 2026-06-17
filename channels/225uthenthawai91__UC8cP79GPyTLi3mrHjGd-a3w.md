@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-06-16T14:22:37Z_
+_آخرین به‌روزرسانی: 2026-06-17T12:55:30Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-06-16 17:06:05 (UTC)  
+  **مدت:** حدود 14.2 دقیقه  
+  **عنوان:** [Ep 20.1 Modify Mortar Feeder (ทำใบ Screw)](https://www.youtube.com/watch?v=Wc2KKL2BOsg)  
+  ![](https://i.ytimg.com/vi/Wc2KKL2BOsg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-04 04:53:45 (UTC)  
