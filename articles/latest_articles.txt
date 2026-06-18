@@ -1,6 +1,26 @@
-# Last Run: 2026-06-18 04:11 UTC
+# Last Run: 2026-06-18 10:27 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Ireland Is Becoming a French Military Protectorate
+Published: 2026-06-18T09:02:27+00:00
+Link: https://foreignpolicy.com/2026/06/18/ireland-france-military-protectorate-outsourcing-defense-procurement/
+---
+[Foreign_Policy] Multilateralism Is Dead. Long Live Plurilateralism.
+Published: 2026-06-18T04:01:49+00:00
+Link: https://foreignpolicy.com/2026/06/18/multilateralism-plurilateralism-santa-marta-climate-action/
+---
+[Foreign_Affairs] China Is Pulling Up the Ladder Behind It
+Published: 2026-06-18T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/china-pulling-ladder-behind-it
+---
+[Foreign_Affairs] Iran Won the War but May Lose the Peace
+Published: 2026-06-18T04:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/iran-won-war-may-lose-peace
+---
+[Foreign_Affairs] How France Falls to the Far Right
+Published: 2026-06-18T04:00:00+00:00
+Link: https://www.foreignaffairs.com/france/how-france-falls-far-right
+---
 [Foreign_Policy] Trump Defends His Iran Deal
 Published: 2026-06-17T22:02:00+00:00
 Link: https://foreignpolicy.com/2026/06/17/us-iran-peace-deal-draft-text-mou-trump-g7-lebanon-war-israel/
@@ -128,72 +148,4 @@ Link: https://foreignpolicy.com/2026/06/15/iran-deal-trump-oil-market-prices/
 [Foreign_Policy] What We Do and Don’t Know About the U.S.-Iran Peace Deal
 Published: 2026-06-15T16:54:45+00:00
 Link: https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-trump-nuclear-sanctions-war-israel-lebanon-mou/
----
-[New_Yorker_Magazine] On the Front Lines of Delaney Hall, ICE’s Newark Prison
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/on-the-front-lines-of-delaney-hall-ices-newark-prison
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/ghost-eye-whistler-newcomers-fires-in-the-night
----
-[New_Yorker_Magazine] “Sectioned,” by Meghan O’Rourke
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/sectioned-meghan-orourke-poem
----
-[New_Yorker_Magazine] Gustavo Dudamel and James Conlon Exit L.A.
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/gustavo-dudamel-and-james-conlon-bid-la-goodbye
----
-[New_Yorker_Magazine] Jürgen Habermas Defended Reason in a Darkening Age
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/jurgen-habermas-desperate-fight-for-democracy
----
-[New_Yorker_Magazine] Jackie Gleason’s Paranormal Activity
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/jackie-gleasons-paranormal-activity
----
-[New_Yorker_Magazine] Ken Griffin’s Billions and Billions
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/ken-griffins-billions-and-billions
----
-[New_Yorker_Magazine] Meet Russ Freud
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/meet-russ-freud
----
-[New_Yorker_Magazine] “Yuppies,” “Mutiny,” and “How to Start,” Reviewed
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/mutiny-noam-scheiber-book-review-yuppies-dylan-gottlieb
----
-[New_Yorker_Magazine] “American Pokeberry,” by January Gill O’Neil
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/american-pokeberry-january-gill-oneil-poem
----
-[New_Yorker_Magazine] Misery Loves Company—If There Are Snacks
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/misery-loves-company-if-there-are-snacks
----
-[New_Yorker_Magazine] Inside the Ludicrous, Deadly Serious Plan to Take Over Greenland
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/inside-the-ludicrous-deadly-serious-plan-to-take-over-greenland
----
-[New_Yorker_Magazine] Beyond Banners
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/beyond-banners
----
-[New_Yorker_Magazine] Melanie Hamrick Is Still On Pointe
-Published: 2026-06-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/22/melanie-hamrick-is-still-on-pointe
----
-[Foreign_Policy] Introducing the Summer 2026 Print Issue
-Published: 2026-06-15T05:02:14+00:00
-Link: https://foreignpolicy.com/2026/06/15/end-of-israel-alliance-climate-politics-asylum-transatlantic-nato-neoliberalism-print-magazine/
----
-[Foreign_Policy] The End of Neoliberalism
-Published: 2026-06-15T04:13:55+00:00
-Link: https://foreignpolicy.com/2026/06/15/neoliberalism-globalization-competition-cosmopolitanism-economics-reagan-thatcher/
----
-[Foreign_Policy] The End of the U.S.-Israel Alliance
-Published: 2026-06-15T04:12:49+00:00
-Link: https://foreignpolicy.com/2026/06/15/israel-united-states-special-relationship-palestine-netanyahu-trump/
 ---
