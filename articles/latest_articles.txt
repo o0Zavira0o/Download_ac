@@ -1,6 +1,14 @@
-# Last Run: 2026-06-17 22:06 UTC
+# Last Run: 2026-06-18 04:11 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump Defends His Iran Deal
+Published: 2026-06-17T22:02:00+00:00
+Link: https://foreignpolicy.com/2026/06/17/us-iran-peace-deal-draft-text-mou-trump-g7-lebanon-war-israel/
+---
+[Foreign_Policy] U.S.-Iran Memorandum of Understanding: Full Text
+Published: 2026-06-17T21:59:35+00:00
+Link: https://foreignpolicy.com/2026/06/17/trump-us-iran-memorandum-of-understanding-mou-deal-read-full-text/
+---
 [Foreign_Policy] How RFK Jr. Managed to Block Millions in Global Vaccine Funds
 Published: 2026-06-17T20:15:36+00:00
 Link: https://foreignpolicy.com/2026/06/17/rfk-kennedy-vaccines-gavi-foreign-aid-funding-global-health/
@@ -188,48 +196,4 @@ Link: https://foreignpolicy.com/2026/06/15/neoliberalism-globalization-competiti
 [Foreign_Policy] The End of the U.S.-Israel Alliance
 Published: 2026-06-15T04:12:49+00:00
 Link: https://foreignpolicy.com/2026/06/15/israel-united-states-special-relationship-palestine-netanyahu-trump/
----
-[Foreign_Policy] The End of Trans-Atlanticism
-Published: 2026-06-15T04:11:28+00:00
-Link: https://foreignpolicy.com/2026/06/15/trans-atlanticism-europe-united-states-mark-carney-davos-nato/
----
-[Foreign_Policy] The End of Climate Politics
-Published: 2026-06-15T04:10:49+00:00
-Link: https://foreignpolicy.com/2026/06/15/climate-change-paris-cop30-china-green-energy/
----
-[Foreign_Policy] The End of the United Nations
-Published: 2026-06-15T04:09:56+00:00
-Link: https://foreignpolicy.com/2026/06/15/united-nations-obituary-gaza-ukriane-trump/
----
-[Foreign_Policy] The End of Asylum
-Published: 2026-06-15T04:08:59+00:00
-Link: https://foreignpolicy.com/2026/06/15/immigration-policy-asylum-refugees-borders-law-trump-united-states-europe/
----
-[Foreign_Policy] The End of Political Parties
-Published: 2026-06-15T04:08:24+00:00
-Link: https://foreignpolicy.com/2026/06/15/party-democracy-political-system-participation-membership-leaders-elections-voting/
----
-[Foreign_Policy] The End of Chinese Growth
-Published: 2026-06-15T04:07:46+00:00
-Link: https://foreignpolicy.com/2026/06/15/china-economy-decline-demographic-consumption-gdp-xi-jinping/
----
-[Foreign_Policy] The End of Morality
-Published: 2026-06-15T04:07:07+00:00
-Link: https://foreignpolicy.com/2026/06/15/international-law-decline-united-nations-security-council-morality-legal-institutions-west/
----
-[Foreign_Policy] The End of the Future
-Published: 2026-06-15T04:06:40+00:00
-Link: https://foreignpolicy.com/2026/06/15/future-politics-theory-big-tech-artificial-intelligence-silicon-valley-nihilism/
----
-[Foreign_Affairs] How to Beat an Autocrat
-Published: 2026-06-15T04:00:00+00:00
-Link: https://www.foreignaffairs.com/hungary/how-beat-autocrat
----
-[Foreign_Affairs] The False Promise of U.S.-China Stability
-Published: 2026-06-15T04:00:00+00:00
-Link: https://www.foreignaffairs.com/us-chinese-relations/false-promise-us-china-stability
----
-[Foreign_Affairs] The False Promise of U.S.-China Stability
-Published: 2026-06-15T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/false-promise-us-china-stability
 ---
