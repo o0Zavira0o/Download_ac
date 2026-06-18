@@ -1,6 +1,10 @@
-# Last Run: 2026-06-18 15:31 UTC
+# Last Run: 2026-06-18 18:31 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Real Reason Nothing Works in Britain
+Published: 2026-06-18T18:20:40+00:00
+Link: https://foreignpolicy.com/2026/06/18/britain-land-where-nothing-works-twilight-dons-uk-history/
+---
 [Foreign_Policy] The Iran War Damaged U.S.-India Ties
 Published: 2026-06-18T15:04:07+00:00
 Link: https://foreignpolicy.com/2026/06/18/iran-war-us-india-ties-damage-economy-modi-rubio-trump/
@@ -144,16 +148,4 @@ Link: https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-mou-trump-g7-summi
 [Foreign_Policy] The Truce Between the U.S. and Iran Was the Easy Part
 Published: 2026-06-15T18:46:25+00:00
 Link: https://foreignpolicy.com/2026/06/15/iran-united-states-trump-truce-war-israel-nuclear/
----
-[Foreign_Policy] Iran Hawks Side-Eye Trump’s Deal
-Published: 2026-06-15T17:26:57+00:00
-Link: https://foreignpolicy.com/2026/06/15/iran-cease-fire-peace-deal-trump-hawks-nuclear-weapons/
----
-[Foreign_Policy] Trump Has His Iran Deal. How Soon Until Oil Prices Come Down?
-Published: 2026-06-15T17:20:11+00:00
-Link: https://foreignpolicy.com/2026/06/15/iran-deal-trump-oil-market-prices/
----
-[Foreign_Policy] What We Do and Don’t Know About the U.S.-Iran Peace Deal
-Published: 2026-06-15T16:54:45+00:00
-Link: https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-trump-nuclear-sanctions-war-israel-lebanon-mou/
 ---
