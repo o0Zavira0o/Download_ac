@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-17T12:55:30Z_
+_آخرین به‌روزرسانی: 2026-06-18T12:30:14Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-18 10:22:06 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Endlich Konjunktiv II verstehen #shorts #easygerman #grammatik #deutschlernen](https://www.youtube.com/watch?v=onP9fcDi7FQ)  
+  ![](https://i.ytimg.com/vi/onP9fcDi7FQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-17 16:40:59 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Was gefällt dir an Hannover? #easygerman #hannover #deutschestädte](https://www.youtube.com/watch?v=2iviT7t1fdQ)  
+  ![](https://i.ytimg.com/vi/2iviT7t1fdQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-16 17:00:23 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-17T12:55:30Z_
   **مدت:** حدود 4.0 دقیقه  
   **عنوان:** [At the brewery | Easy German 139](https://www.youtube.com/watch?v=Yv0dWM1AzC4)  
   ![](https://i.ytimg.com/vi/Yv0dWM1AzC4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-04-17 17:01:19 (UTC)  
-  **مدت:** حدود 8.8 دقیقه  
-  **عنوان:** [How to learn a new language? (with Luca Lampariello) | Easy German 138](https://www.youtube.com/watch?v=ZqObBG-NYPI)  
-  ![](https://i.ytimg.com/vi/ZqObBG-NYPI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-04-10 16:10:32 (UTC)  
-  **مدت:** حدود 8.1 دقیقه  
-  **عنوان:** [At the Mauerpark flea market in Berlin | Easy German 137](https://www.youtube.com/watch?v=Dk_17HGD_ss)  
-  ![](https://i.ytimg.com/vi/Dk_17HGD_ss/hqdefault.jpg)

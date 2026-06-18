@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-06-17T12:55:30Z_
+_آخرین به‌روزرسانی: 2026-06-18T12:30:14Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  

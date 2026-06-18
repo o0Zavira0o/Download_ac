@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-06-17T12:55:30Z_
+_آخرین به‌روزرسانی: 2026-06-18T12:30:14Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-06-18 10:30:09 (UTC)  
+  **مدت:** حدود 12.7 دقیقه  
+  **عنوان:** [【ASMR】Abandoned Toaster Turned Into a Toast Bakery 🐱🌲🍞✨ | Forest Sticker Scene | No Talking](https://www.youtube.com/watch?v=ktng731gRjc)  
+  ![](https://i.ytimg.com/vi/ktng731gRjc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-16 10:30:38 (UTC)  

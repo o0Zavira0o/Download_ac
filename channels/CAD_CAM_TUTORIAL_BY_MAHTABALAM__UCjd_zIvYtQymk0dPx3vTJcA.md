@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-17T12:55:30Z_
+_آخرین به‌روزرسانی: 2026-06-18T12:30:14Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-18 03:30:30 (UTC)  
+  **مدت:** حدود 11.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial for beginners Exercise 264](https://www.youtube.com/watch?v=JlD5oQwKka4)  
+  ![](https://i.ytimg.com/vi/JlD5oQwKka4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-15 03:30:33 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-17T12:55:30Z_
   **مدت:** حدود 13.1 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Brass fitting in Solidworks](https://www.youtube.com/watch?v=n1Hx9c9GPf0)  
   ![](https://i.ytimg.com/vi/n1Hx9c9GPf0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-06 00:13:57 (UTC)  
-  **مدت:** حدود 24.6 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch kitchen sink in Solidworks](https://www.youtube.com/watch?v=nZFw8KKPHSc)  
-  ![](https://i.ytimg.com/vi/nZFw8KKPHSc/hqdefault.jpg)
