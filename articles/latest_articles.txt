@@ -1,4 +1,4 @@
-# Last Run: 2026-06-19 21:21 UTC
+# Last Run: 2026-06-19 23:04 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] A Tale of Two AI Policy Regimes
@@ -140,12 +140,4 @@ Link: https://foreignpolicy.com/2026/06/17/myanmar-china-election-junta/
 [Foreign_Affairs] The Coming Quantum National Security Crisis
 Published: 2026-06-17T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/coming-quantum-national-security-crisis
----
-[Foreign_Policy] Why Anthropic Is Fighting With Trump (Again)
-Published: 2026-06-16T21:32:04+00:00
-Link: https://foreignpolicy.com/2026/06/16/anthropic-trump-fight-mythos-fable-5-hegseth/
----
-[Foreign_Policy] What Will China Learn From the Iran War?
-Published: 2026-06-16T21:31:47+00:00
-Link: https://foreignpolicy.com/2026/06/16/china-iran-war-lessons-energy-oil-diplomacy/
 ---
