@@ -1,13 +1,25 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm
 
-_آخرین به‌روزرسانی: 2026-06-18T12:30:14Z_
+_آخرین به‌روزرسانی: 2026-06-19T12:52:26Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
 
 
+- **تاریخ انتشار:** 2026-06-19 12:38:23 (UTC)  
+  **مدت:** حدود 4.3 دقیقه  
+  **عنوان:** [Tính lực solidworks](https://www.youtube.com/watch?v=-nNHEv1vm6k)  
+  ![](https://i.ytimg.com/vi/-nNHEv1vm6k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-19 03:43:26 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Lập trình phay cnc Mastercam pro](https://www.youtube.com/watch?v=dofmx_AtPkE)  
+  ![](https://i.ytimg.com/vi/dofmx_AtPkE/hqdefault.jpg)
+
+
 - **تاریخ انتشار:** 2026-06-18 10:53:51 (UTC)  
-  **مدت:** حدود 0.0 دقیقه  
+  **مدت:** حدود 26.8 دقیقه  
   **عنوان:** [Thiết kế kim loại tấm solidworks](https://www.youtube.com/watch?v=EcP3UDHmtpo)  
   ![](https://i.ytimg.com/vi/EcP3UDHmtpo/hqdefault.jpg)
 
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-18T12:30:14Z_
   **مدت:** حدود 7.5 دقیقه  
   **عنوان:** [Vẽ 3d mastercam](https://www.youtube.com/watch?v=DjKIqosH3d0)  
   ![](https://i.ytimg.com/vi/DjKIqosH3d0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-02 22:40:01 (UTC)  
-  **مدت:** حدود 16.9 دقیقه  
-  **عنوان:** [Phay Mastercam 2d cơ bản p2](https://www.youtube.com/watch?v=P-F5N7zX9Es)  
-  ![](https://i.ytimg.com/vi/P-F5N7zX9Es/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-02 12:20:01 (UTC)  
-  **مدت:** حدود 20.2 دقیقه  
-  **عنوان:** [Phay Mastercam 2d cơ bản p1](https://www.youtube.com/watch?v=9w2z5SMo07Q)  
-  ![](https://i.ytimg.com/vi/9w2z5SMo07Q/hqdefault.jpg)

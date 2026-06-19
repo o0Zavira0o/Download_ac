@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-06-18T12:30:14Z_
+_آخرین به‌روزرسانی: 2026-06-19T12:52:26Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-06-18 16:35:54 (UTC)  
+  **مدت:** حدود 29.4 دقیقه  
+  **عنوان:** [Solidworks Induction Motor Cover Modelling (Flange type) | Solidworks tutorial 2026](https://www.youtube.com/watch?v=zWCgAAAeZwY)  
+  ![](https://i.ytimg.com/vi/zWCgAAAeZwY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-14 02:42:57 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-18T12:30:14Z_
   **مدت:** حدود 2.0 دقیقه  
   **عنوان:** [How to apply a curve shape cut on a circular surface in solidworks #shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=gwXtUF_f9fk)  
   ![](https://i.ytimg.com/vi/gwXtUF_f9fk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-02 13:20:34 (UTC)  
-  **مدت:** حدود 2.3 دقیقه  
-  **عنوان:** [How to apply multiple threads in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=QUx26ZPfKb0)  
-  ![](https://i.ytimg.com/vi/QUx26ZPfKb0/hqdefault.jpg)

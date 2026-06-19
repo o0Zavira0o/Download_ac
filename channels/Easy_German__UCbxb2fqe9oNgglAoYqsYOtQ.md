@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-18T12:30:14Z_
+_آخرین به‌روزرسانی: 2026-06-19T12:52:26Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-19 08:54:50 (UTC)  
+  **مدت:** حدود 2.2 دقیقه  
+  **عنوان:** [Lustige Geschichte aus der Jugend #shorts #funnyvideo #humor](https://www.youtube.com/watch?v=Fc92M9eeluc)  
+  ![](https://i.ytimg.com/vi/Fc92M9eeluc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-18 10:22:06 (UTC)  
@@ -200,7 +206,7 @@ _آخرین به‌روزرسانی: 2026-06-18T12:30:14Z_
 
 - **تاریخ انتشار:** 2026-05-13 17:00:35 (UTC)  
   **مدت:** حدود 18.8 دقیقه  
-  **عنوان:** [German Reflexive Verbs Made Easy (A2–B1 Learners)](https://www.youtube.com/watch?v=PndEIjybgb0)  
+  **عنوان:** [17 German Reflexive Verbs You Need to Know (Beginner Friendly)](https://www.youtube.com/watch?v=PndEIjybgb0)  
   ![](https://i.ytimg.com/vi/PndEIjybgb0/hqdefault.jpg)
 
 
@@ -518,7 +524,7 @@ _آخرین به‌روزرسانی: 2026-06-18T12:30:14Z_
 
 - **تاریخ انتشار:** 2026-03-15 18:00:02 (UTC)  
   **مدت:** حدود 11.9 دقیقه  
-  **عنوان:** [Are Germans Jealous? | Easy German 651](https://www.youtube.com/watch?v=212fb-3oJjE)  
+  **عنوان:** [Are Germans Jealous? (Street Interviews with Subtitles)](https://www.youtube.com/watch?v=212fb-3oJjE)  
   ![](https://i.ytimg.com/vi/212fb-3oJjE/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-18T12:30:14Z_
   **مدت:** حدود 7.3 دقیقه  
   **عنوان:** [At a Namibian farm | Easy German 140](https://www.youtube.com/watch?v=Df07wQXd4kI)  
   ![](https://i.ytimg.com/vi/Df07wQXd4kI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-04-24 18:12:56 (UTC)  
-  **مدت:** حدود 4.0 دقیقه  
-  **عنوان:** [At the brewery | Easy German 139](https://www.youtube.com/watch?v=Yv0dWM1AzC4)  
-  ![](https://i.ytimg.com/vi/Yv0dWM1AzC4/hqdefault.jpg)
