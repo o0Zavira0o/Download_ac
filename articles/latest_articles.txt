@@ -1,4 +1,4 @@
-# Last Run: 2026-06-19 18:04 UTC
+# Last Run: 2026-06-19 20:04 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] A Tale of Two AI Policy Regimes
@@ -152,20 +152,4 @@ Link: https://foreignpolicy.com/2026/06/16/china-iran-war-lessons-energy-oil-dip
 [Foreign_Policy] Trump Puts Russia-Ukraine War on the Back Burner
 Published: 2026-06-16T21:12:41+00:00
 Link: https://foreignpolicy.com/2026/06/16/trump-g7-summit-russia-ukraine-zelensky-iran-war/
----
-[Foreign_Policy] ‘It’s Not Competitive in Nature’
-Published: 2026-06-16T19:35:00+00:00
-Link: https://foreignpolicy.com/2026/06/16/india-ambassador-us-kwatra-modi-trump/
----
-[Foreign_Policy] Taiwan Bet Too Big on Washington
-Published: 2026-06-16T19:26:35+00:00
-Link: https://foreignpolicy.com/2026/06/16/taiwan-trump-xi-china-invasion/
----
-[Foreign_Policy] Iran Is a Bigger Defeat Than Vietnam
-Published: 2026-06-16T19:04:50+00:00
-Link: https://foreignpolicy.com/2026/06/16/iran-vietnam-strategy-defeat/
----
-[Foreign_Policy] Trump’s Drug War Tactics Don’t Work
-Published: 2026-06-16T18:33:40+00:00
-Link: https://foreignpolicy.com/2026/06/16/colombia-cocaine-usaid-drugs-trump/
 ---
