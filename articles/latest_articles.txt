@@ -1,6 +1,10 @@
-# Last Run: 2026-06-18 22:14 UTC
+# Last Run: 2026-06-19 04:28 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Vance Peace Deal
+Published: 2026-06-18T21:59:21+00:00
+Link: https://foreignpolicy.com/2026/06/18/vance-peace-deal-trump-iran-israel-lebanon-nuclear-mou/
+---
 [Foreign_Policy] Israeli Officials and U.S. Lawmakers Slam Iran Deal
 Published: 2026-06-18T19:59:48+00:00
 Link: https://foreignpolicy.com/2026/06/18/us-iran-peace-deal-mou-israel-hezbollah-lebanon-congress/
@@ -152,16 +156,4 @@ Link: https://foreignpolicy.com/2026/06/16/iran-war-trump-gulf-china-russia-isra
 [Foreign_Policy] Israel Has a Plan to Keep Calling Its Own Shots
 Published: 2026-06-16T10:47:37+00:00
 Link: https://foreignpolicy.com/2026/06/16/israel-netanyahu-trump-iran-deal-war-lebanon-deal-shots/
----
-[Foreign_Policy] How to Say No to an Imperial President
-Published: 2026-06-16T04:01:58+00:00
-Link: https://foreignpolicy.com/2026/06/16/nixon-irs-trump-executive-authority/
----
-[Foreign_Affairs] The Middle East Power Paradox
-Published: 2026-06-16T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/middle-east-power-paradox-dana-stroul
----
-[Foreign_Affairs] NATO’s Permanent Crisis
-Published: 2026-06-16T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/natos-permanent-crisis
 ---
