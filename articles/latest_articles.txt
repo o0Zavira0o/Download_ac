@@ -1,4 +1,4 @@
-# Last Run: 2026-06-20 19:31 UTC
+# Last Run: 2026-06-20 21:24 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] A Tale of Two AI Policy Regimes
@@ -100,12 +100,4 @@ Link: https://foreignpolicy.com/2026/06/17/us-iran-peace-deal-draft-text-mou-tru
 [Foreign_Policy] U.S.-Iran Memorandum of Understanding: Full Text
 Published: 2026-06-17T21:59:35+00:00
 Link: https://foreignpolicy.com/2026/06/17/trump-us-iran-memorandum-of-understanding-mou-deal-read-full-text/
----
-[Foreign_Policy] How RFK Jr. Managed to Block Millions in Global Vaccine Funds
-Published: 2026-06-17T20:15:36+00:00
-Link: https://foreignpolicy.com/2026/06/17/rfk-kennedy-vaccines-gavi-foreign-aid-funding-global-health/
----
-[Foreign_Policy] Public Anger Mounts as Kenya Cozies Up to Trump
-Published: 2026-06-17T20:02:07+00:00
-Link: https://foreignpolicy.com/2026/06/17/kenya-trump-ruto-ties-us-ebola-facility-protests/
 ---
