@@ -1,4 +1,4 @@
-# Last Run: 2026-06-20 03:52 UTC
+# Last Run: 2026-06-20 07:56 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] A Tale of Two AI Policy Regimes
@@ -132,12 +132,4 @@ Link: https://foreignpolicy.com/2026/06/17/irans-victory-war-pyrrhic/
 [Foreign_Policy] Elon Musk and the Rise of Space Capitalism
 Published: 2026-06-17T08:48:12+00:00
 Link: https://foreignpolicy.com/2026/06/17/elon-musk-spacex-ipo-space-commercial-satellites-india-china/
----
-[Foreign_Policy] Myanmar Is What Happens When China Fills a Vacuum
-Published: 2026-06-17T04:01:40+00:00
-Link: https://foreignpolicy.com/2026/06/17/myanmar-china-election-junta/
----
-[Foreign_Affairs] The Coming Quantum National Security Crisis
-Published: 2026-06-17T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/coming-quantum-national-security-crisis
 ---
