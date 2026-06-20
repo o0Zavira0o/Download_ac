@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-06-19T12:52:26Z_
+_آخرین به‌روزرسانی: 2026-06-20T11:23:22Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-06-20 10:30:32 (UTC)  
+  **مدت:** حدود 10.7 دقیقه  
+  **عنوان:** [【ASMR】DIY Hello Kitty Bakery & Dessert Shop🐱 🥐🍰 | Cozy Sticker Scene | No Talking](https://www.youtube.com/watch?v=2-yFE2RmfmE)  
+  ![](https://i.ytimg.com/vi/2-yFE2RmfmE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-18 10:30:09 (UTC)  

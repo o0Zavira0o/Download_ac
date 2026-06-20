@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-06-19T12:52:26Z_
+_آخرین به‌روزرسانی: 2026-06-20T11:23:22Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-06-20 10:00:22 (UTC)  
+  **مدت:** حدود 15.3 دقیقه  
+  **عنوان:** [30,Origami Crane with Expanding Wings – Japanese Paper Art (No Talking ASMR)羽の伸びる折り鶴を作る｜無言ASMR](https://www.youtube.com/watch?v=ov0vigp9g2E)  
+  ![](https://i.ytimg.com/vi/ov0vigp9g2E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-20 10:00:17 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [30-2 Origami Crane with Expanding Wings 🕊️✨羽が伸びる折り鶴を作ってみた🕊️ #origami #asmr #折り紙 #handmade](https://www.youtube.com/watch?v=zu9c55gcZK4)  
+  ![](https://i.ytimg.com/vi/zu9c55gcZK4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-14 10:00:28 (UTC)  
@@ -14,7 +26,7 @@ _آخرین به‌روزرسانی: 2026-06-19T12:52:26Z_
 
 - **تاریخ انتشار:** 2026-06-13 10:00:12 (UTC)  
   **مدت:** حدود 11.7 دقیقه  
-  **عنوان:** [２９，Origami Ninja & Shuriken – Japanese Paper Art (No Talking ASMR)折り紙で忍者と手裏剣を作る｜無言ASMR](https://www.youtube.com/watch?v=fot8ZZlIuUA)  
+  **عنوان:** [29，Origami Ninja & Shuriken – Japanese Paper Art (No Talking ASMR)折り紙で忍者と手裏剣を作る｜無言ASMR](https://www.youtube.com/watch?v=fot8ZZlIuUA)  
   ![](https://i.ytimg.com/vi/fot8ZZlIuUA/hqdefault.jpg)
 
 

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-06-19T12:52:26Z_
+_آخرین به‌روزرسانی: 2026-06-20T11:23:22Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-06-20 02:33:54 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Solidworks 3d modelling 🙂 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=GkZRMxP56Cs)  
+  ![](https://i.ytimg.com/vi/GkZRMxP56Cs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-18 16:35:54 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-19T12:52:26Z_
   **مدت:** حدود 20.6 دقیقه  
   **عنوان:** [Solidworks Exercise Tutorial for Beginners | Exercise34](https://www.youtube.com/watch?v=7hBC-Z2QUaI)  
   ![](https://i.ytimg.com/vi/7hBC-Z2QUaI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-03 02:44:15 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [How to apply a curve shape cut on a circular surface in solidworks #shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=gwXtUF_f9fk)  
-  ![](https://i.ytimg.com/vi/gwXtUF_f9fk/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-19T12:52:26Z_
+_آخرین به‌روزرسانی: 2026-06-20T11:23:22Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-20 03:30:21 (UTC)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [Autodesk Inventor 2027 Tutorial for beginners Exercise-36](https://www.youtube.com/watch?v=DlBa9mX7pMw)  
+  ![](https://i.ytimg.com/vi/DlBa9mX7pMw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-18 03:30:30 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-19T12:52:26Z_
   **مدت:** حدود 15.3 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Lock Nut in Solidworks](https://www.youtube.com/watch?v=yGijX4w0bRY)  
   ![](https://i.ytimg.com/vi/yGijX4w0bRY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-06 16:06:17 (UTC)  
-  **مدت:** حدود 13.1 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Brass fitting in Solidworks](https://www.youtube.com/watch?v=n1Hx9c9GPf0)  
-  ![](https://i.ytimg.com/vi/n1Hx9c9GPf0/hqdefault.jpg)

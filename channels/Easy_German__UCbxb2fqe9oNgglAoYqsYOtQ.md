@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-19T12:52:26Z_
+_آخرین به‌روزرسانی: 2026-06-20T11:23:22Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -350,7 +350,7 @@ _آخرین به‌روزرسانی: 2026-06-19T12:52:26Z_
 
 - **تاریخ انتشار:** 2026-04-15 17:00:05 (UTC)  
   **مدت:** حدود 13.9 دقیقه  
-  **عنوان:** [Apartment Hunting in Germany: Essential German Vocabulary](https://www.youtube.com/watch?v=3KZnAVWL5IQ)  
+  **عنوان:** [German in Real Life: Apartment Viewing in Berlin](https://www.youtube.com/watch?v=3KZnAVWL5IQ)  
   ![](https://i.ytimg.com/vi/3KZnAVWL5IQ/hqdefault.jpg)
 
 
