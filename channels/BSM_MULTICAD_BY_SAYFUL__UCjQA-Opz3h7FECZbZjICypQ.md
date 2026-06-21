@@ -1,9 +1,33 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-06-20T11:23:22Z_
+_آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-06-20 16:36:42 (UTC)  
+  **مدت:** حدود 9.4 دقیقه  
+  **عنوان:** [COMPLETE PROJECT AUTOCAD ESTIMATE SKETCHUP 3D MODELING RENDERING BSM CAD EP 02 AUTOCAD](https://www.youtube.com/watch?v=v79N_JF9ojQ)  
+  ![](https://i.ytimg.com/vi/v79N_JF9ojQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-20 15:54:08 (UTC)  
+  **مدت:** حدود 11.8 دقیقه  
+  **عنوان:** [COMPLETE PROJECT AUTOCAD ESTIMATE SKETCHUP 3D MODELING RENDERING BSM CAD EP 03 AUTOCAD](https://www.youtube.com/watch?v=2NFgMbjD0II)  
+  ![](https://i.ytimg.com/vi/2NFgMbjD0II/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-20 15:12:00 (UTC)  
+  **مدت:** حدود 8.9 دقیقه  
+  **عنوان:** [COMPLETE PROJECT AUTOCAD ESTIMATE SKETCHUP 3D MODELING RENDERING BSM CAD EP 04 XL LINE DETAILS](https://www.youtube.com/watch?v=1fGt-HR6Dq0)  
+  ![](https://i.ytimg.com/vi/1fGt-HR6Dq0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-20 14:41:34 (UTC)  
+  **مدت:** حدود 12.8 دقیقه  
+  **عنوان:** [SketchUp 3d modelling](https://www.youtube.com/watch?v=a0-sJC6QWFE)  
+  ![](https://i.ytimg.com/vi/a0-sJC6QWFE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-15 03:32:35 (UTC)  
@@ -880,27 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-20T11:23:22Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Answers to all your questions AUTOCAD, ESTIMATE,3D MODELING &RENDERINGF #autocadtutorial #sketchup](https://www.youtube.com/watch?v=wHwvLtnfhOQ)  
   ![](https://i.ytimg.com/vi/wHwvLtnfhOQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-15 17:02:04 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Answers to all your questions AUTOCAD , ESTIMATE,3D MODELING &RENDERINGE](https://www.youtube.com/watch?v=Hr54ASjjbOI)  
-  ![](https://i.ytimg.com/vi/Hr54ASjjbOI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-15 17:00:37 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Answers to all your questions AUTOCAD, ESTIMATE,3D MODELING &RENDERINGD #sketchup #autocadtutorial](https://www.youtube.com/watch?v=W7djVv5SlS8)  
-  ![](https://i.ytimg.com/vi/W7djVv5SlS8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-14 13:02:32 (UTC)  
-  **مدت:** حدود 8.1 دقیقه  
-  **عنوان:** [Answers to all your questions AUTOCAD , ESTIMATE,3D MODELING &RENDERINGA](https://www.youtube.com/watch?v=BBLAycqgIhg)  
-  ![](https://i.ytimg.com/vi/BBLAycqgIhg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-14 12:52:16 (UTC)  
-  **مدت:** حدود 12.7 دقیقه  
-  **عنوان:** [Answers to all your questions AUTOCAD, ESTIMATE,3D MODELING &RENDERING](https://www.youtube.com/watch?v=eDM_OxVUwZ4)  
-  ![](https://i.ytimg.com/vi/eDM_OxVUwZ4/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-20T11:23:22Z_
+_آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-20 17:56:14 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Retoure bei der Post #post #retoure #easygerman #slowgerman](https://www.youtube.com/watch?v=CytGvTHdEy4)  
+  ![](https://i.ytimg.com/vi/CytGvTHdEy4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-19 08:54:50 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-20T11:23:22Z_
   **مدت:** حدود 13.2 دقیقه  
   **عنوان:** [Cari und Kapenda antworten (30) - Was magst du an Deutschland? | Religionsunterricht | Vegetarier](https://www.youtube.com/watch?v=VyR6KyNhWH0)  
   ![](https://i.ytimg.com/vi/VyR6KyNhWH0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-04-24 23:14:12 (UTC)  
-  **مدت:** حدود 7.3 دقیقه  
-  **عنوان:** [At a Namibian farm | Easy German 140](https://www.youtube.com/watch?v=Df07wQXd4kI)  
-  ![](https://i.ytimg.com/vi/Df07wQXd4kI/hqdefault.jpg)
