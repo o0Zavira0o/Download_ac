@@ -1,4 +1,4 @@
-# Last Run: 2026-06-21 21:23 UTC
+# Last Run: 2026-06-21 23:19 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] A Tale of Two AI Policy Regimes
@@ -28,8 +28,4 @@ Link: https://www.foreignaffairs.com/world/quiet-rise-plastics-crisis
 [Foreign_Affairs] When a Cease-Fire Is Really a Stalemate
 Published: 2026-06-19T04:00:00+00:00
 Link: https://www.foreignaffairs.com/war-iran/when-cease-fire-really-stalemate
----
-[Foreign_Policy] The Vance Peace Deal
-Published: 2026-06-18T21:59:21+00:00
-Link: https://foreignpolicy.com/2026/06/18/vance-peace-deal-trump-iran-israel-lebanon-nuclear-mou/
 ---
