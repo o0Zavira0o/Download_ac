@@ -1,4 +1,4 @@
-# Last Run: 2026-06-21 04:24 UTC
+# Last Run: 2026-06-21 09:57 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] A Tale of Two AI Policy Regimes
@@ -72,8 +72,4 @@ Link: https://foreignpolicy.com/2026/06/18/iran-war-us-india-ties-damage-economy
 [Foreign_Policy] The United States Has a Kafala Problem
 Published: 2026-06-18T13:44:13+00:00
 Link: https://foreignpolicy.com/2026/06/18/migrant-labor-exploitation-guest-worker-united-states-qatar-gulf-agriculture-world-cup-stadiums-trump/
----
-[Foreign_Policy] Ireland Is Becoming a French Military Protectorate
-Published: 2026-06-18T09:02:27+00:00
-Link: https://foreignpolicy.com/2026/06/18/ireland-france-military-protectorate-outsourcing-defense-procurement/
 ---
