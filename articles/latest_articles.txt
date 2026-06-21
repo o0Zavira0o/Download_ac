@@ -1,4 +1,4 @@
-# Last Run: 2026-06-20 23:14 UTC
+# Last Run: 2026-06-21 04:24 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] A Tale of Two AI Policy Regimes
@@ -76,20 +76,4 @@ Link: https://foreignpolicy.com/2026/06/18/migrant-labor-exploitation-guest-work
 [Foreign_Policy] Ireland Is Becoming a French Military Protectorate
 Published: 2026-06-18T09:02:27+00:00
 Link: https://foreignpolicy.com/2026/06/18/ireland-france-military-protectorate-outsourcing-defense-procurement/
----
-[Foreign_Policy] Multilateralism Is Dead. Long Live Plurilateralism.
-Published: 2026-06-18T04:01:49+00:00
-Link: https://foreignpolicy.com/2026/06/18/multilateralism-plurilateralism-santa-marta-climate-action/
----
-[Foreign_Affairs] China Is Pulling Up the Ladder Behind It
-Published: 2026-06-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/china-pulling-ladder-behind-it
----
-[Foreign_Affairs] Iran Won the War but May Lose the Peace
-Published: 2026-06-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/iran-won-war-may-lose-peace
----
-[Foreign_Affairs] How France Falls to the Far Right
-Published: 2026-06-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/france/how-france-falls-far-right
 ---
