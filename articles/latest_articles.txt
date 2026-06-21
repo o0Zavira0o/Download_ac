@@ -1,4 +1,4 @@
-# Last Run: 2026-06-21 12:16 UTC
+# Last Run: 2026-06-21 15:57 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] A Tale of Two AI Policy Regimes
@@ -64,12 +64,4 @@ Link: https://foreignpolicy.com/2026/06/18/trolling-politics-social-media-right-
 [Foreign_Policy] The Real Reason Nothing Works in Britain
 Published: 2026-06-18T18:20:40+00:00
 Link: https://foreignpolicy.com/2026/06/18/britain-land-where-nothing-works-twilight-dons-uk-history/
----
-[Foreign_Policy] The Iran War Damaged U.S.-India Ties
-Published: 2026-06-18T15:04:07+00:00
-Link: https://foreignpolicy.com/2026/06/18/iran-war-us-india-ties-damage-economy-modi-rubio-trump/
----
-[Foreign_Policy] The United States Has a Kafala Problem
-Published: 2026-06-18T13:44:13+00:00
-Link: https://foreignpolicy.com/2026/06/18/migrant-labor-exploitation-guest-worker-united-states-qatar-gulf-agriculture-world-cup-stadiums-trump/
 ---
