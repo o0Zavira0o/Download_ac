@@ -1,4 +1,4 @@
-# Last Run: 2026-06-21 17:46 UTC
+# Last Run: 2026-06-21 21:23 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] A Tale of Two AI Policy Regimes
@@ -32,36 +32,4 @@ Link: https://www.foreignaffairs.com/war-iran/when-cease-fire-really-stalemate
 [Foreign_Policy] The Vance Peace Deal
 Published: 2026-06-18T21:59:21+00:00
 Link: https://foreignpolicy.com/2026/06/18/vance-peace-deal-trump-iran-israel-lebanon-nuclear-mou/
----
-[Foreign_Policy] Israeli Officials and U.S. Lawmakers Slam Iran Deal
-Published: 2026-06-18T19:59:48+00:00
-Link: https://foreignpolicy.com/2026/06/18/us-iran-peace-deal-mou-israel-hezbollah-lebanon-congress/
----
-[Foreign_Policy] Ordinary Iranians Won’t See a Dime of Trump’s Money
-Published: 2026-06-18T19:19:42+00:00
-Link: https://foreignpolicy.com/2026/06/18/trump-iranians-economy-irgc-corruption-memorandum/
----
-[Foreign_Policy] The Era of the French Intellectual Is Over
-Published: 2026-06-18T19:12:09+00:00
-Link: https://foreignpolicy.com/2026/06/18/france-intellectuals-edgar-morin-philosophy-history/
----
-[Foreign_Policy] Will Colombia Elect Its Own Bukele?
-Published: 2026-06-18T19:09:47+00:00
-Link: https://foreignpolicy.com/2026/06/18/colombia-runoff-election-espriella-cepeda-bukele-petro-gang-crime/
----
-[Foreign_Policy] How the Iran War Reshaped the Global Landscape of Power
-Published: 2026-06-18T19:09:07+00:00
-Link: https://foreignpolicy.com/2026/06/18/iran-war-ceasefire-deal-israel-united-states/
----
-[Foreign_Policy] The Iran Deal Is Hazy on Hormuz
-Published: 2026-06-18T18:59:34+00:00
-Link: https://foreignpolicy.com/2026/06/18/iran-deal-mou-hormuz-shipping-oil/
----
-[Foreign_Policy] A Brief History of Political Trolling
-Published: 2026-06-18T18:40:47+00:00
-Link: https://foreignpolicy.com/2026/06/18/trolling-politics-social-media-right-maga-trump/
----
-[Foreign_Policy] The Real Reason Nothing Works in Britain
-Published: 2026-06-18T18:20:40+00:00
-Link: https://foreignpolicy.com/2026/06/18/britain-land-where-nothing-works-twilight-dons-uk-history/
 ---
