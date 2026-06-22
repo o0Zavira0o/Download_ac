@@ -1,9 +1,69 @@
-# Last Run: 2026-06-22 12:03 UTC
+# Last Run: 2026-06-22 17:09 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump Tests the Limits of Farcepolitik
+Published: 2026-06-22T16:02:39+00:00
+Link: https://foreignpolicy.com/2026/06/22/trump-iran-memorandum-ceasefire-delusion-farcepolitik/
+---
+[Foreign_Policy] Alan Greenspan, One of the Most Influential Fed Chairs Ever, Dies at 100
+Published: 2026-06-22T12:16:06+00:00
+Link: https://foreignpolicy.com/2026/06/22/alan-greenspan-federal-reserve-chair-dead-obituary-100/
+---
 [Foreign_Policy] Don’t Let China Stack the Deck
 Published: 2026-06-22T11:00:44+00:00
 Link: https://foreignpolicy.com/2026/06/22/china-us-ai-race-artificial-intelligence-technology/
+---
+[New_Yorker_Magazine] Isabel J. Kim Makes Her Own World
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/isabel-j-kim-makes-her-own-world
+---
+[New_Yorker_Magazine] The Teen Believers in Christian Nationalism
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/the-teen-believers-in-a-christian-america
+---
+[New_Yorker_Magazine] The Pied Piper
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/the-pied-piper
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/a-terrible-intimacy-this-is-not-about-running-the-summer-boy-the-children
+---
+[New_Yorker_Magazine] What Science Knows About Grief
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/what-science-knows-about-grief
+---
+[New_Yorker_Magazine] Colson Whitehead’s Big Score
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/colson-whitehead-profile
+---
+[New_Yorker_Magazine] Dan Mintz, Reanimated
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/dan-mintz-reanimated
+---
+[New_Yorker_Magazine] The Curious Career of “the American Dream”
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/the-curious-career-of-the-american-dream
+---
+[New_Yorker_Magazine] “Domesticity,” by Lindsay Turner
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/domesticity-lindsay-turner-poem
+---
+[New_Yorker_Magazine] “On Form,” by Linda Gregerson
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/on-form-linda-gregerson-poem
+---
+[New_Yorker_Magazine] What’s the Point of Sex, Anyway?
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/on-the-origin-of-sex-book-review-lixing-sun
+---
+[New_Yorker_Magazine] The Repo Man Coming for Your Ride
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/the-repo-man-coming-for-your-ride
+---
+[New_Yorker_Magazine] Alexandra Grant Brings Spirit Back
+Published: 2026-06-22T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/alexandra-grant-brings-spirit-back
 ---
 [Foreign_Policy] The Obama Center Sets a Dangerous Precedent
 Published: 2026-06-22T04:50:33+00:00
@@ -20,4 +80,20 @@ Link: https://www.foreignaffairs.com/united-states/when-workers-lose-ai
 [Foreign_Affairs] The Only Way to Save Europe
 Published: 2026-06-22T04:00:00+00:00
 Link: https://www.foreignaffairs.com/europe/only-way-save-europe
+---
+[New_Yorker_Magazine] The Difference Between the Knicks and the White House Cage Fight
+Published: 2026-06-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/the-difference-between-the-knicks-and-the-white-house-cage-fight
+---
+[New_Yorker_Magazine] “The Readers,” by Ben Lerner
+Published: 2026-06-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/the-readers-fiction-ben-lerner
+---
+[New_Yorker_Magazine] Why the Odyssey Keeps Defeating Filmmakers
+Published: 2026-06-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/why-the-odyssey-keeps-defeating-filmmakers
+---
+[New_Yorker_Magazine] Pencils Up! The Knicks on Broadway
+Published: 2026-06-20T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/06/29/pencils-up-the-knicks-on-broadway
 ---
