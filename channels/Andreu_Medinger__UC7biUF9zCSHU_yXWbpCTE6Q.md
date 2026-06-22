@@ -1,33 +1,9 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
+_آخرین به‌روزرسانی: 2026-06-22T14:48:38Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
-
-
-- **تاریخ انتشار:** 2026-06-19 11:45:19 (UTC)  
-  **مدت:** حدود 73.2 دقیقه  
-  **عنوان:** [AULA 4 - DESTRAVAR SOLIDWORKS](https://www.youtube.com/watch?v=0JTJrne6CA0)  
-  ![](https://i.ytimg.com/vi/0JTJrne6CA0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-06-18 11:45:07 (UTC)  
-  **مدت:** حدود 249.8 دقیقه  
-  **عنوان:** [AULA 3 - DESTRAVAR SOLIDWORKS](https://www.youtube.com/watch?v=k15QUDLuM-Q)  
-  ![](https://i.ytimg.com/vi/k15QUDLuM-Q/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-06-17 11:45:20 (UTC)  
-  **مدت:** حدود 137.6 دقیقه  
-  **عنوان:** [AULA 2 - DESTRAVAR SOLIDWORKS](https://www.youtube.com/watch?v=CVEqdTK8ovc)  
-  ![](https://i.ytimg.com/vi/CVEqdTK8ovc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-06-15 12:15:30 (UTC)  
-  **مدت:** حدود 20.4 دقیقه  
-  **عنوان:** [AULA 1 - DESTRAVAR SOLIDWORKS](https://www.youtube.com/watch?v=lA33JjMzTok)  
-  ![](https://i.ytimg.com/vi/lA33JjMzTok/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 22:30:11 (UTC)  
@@ -904,3 +880,27 @@ _آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
   **مدت:** حدود 1.5 دقیقه  
   **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=lwcbWPExYWM)  
   ![](https://i.ytimg.com/vi/lwcbWPExYWM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-01-06 23:42:24 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=HBQjCmdz-RQ)  
+  ![](https://i.ytimg.com/vi/HBQjCmdz-RQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-01-06 23:37:55 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=GR6zdwSgZy0)  
+  ![](https://i.ytimg.com/vi/GR6zdwSgZy0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-01-06 22:55:00 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=bKhEunipOu4)  
+  ![](https://i.ytimg.com/vi/bKhEunipOu4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-01-06 22:49:26 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=CH8Dg5MEMng)  
+  ![](https://i.ytimg.com/vi/CH8Dg5MEMng/hqdefault.jpg)

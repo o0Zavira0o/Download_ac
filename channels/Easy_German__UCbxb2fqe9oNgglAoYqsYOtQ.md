@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
+_آخرین به‌روزرسانی: 2026-06-22T14:48:38Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-22 09:56:46 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Was hast du schon gemacht? #shorts #magdeburg](https://www.youtube.com/watch?v=WRG5ZMtGvpg)  
+  ![](https://i.ytimg.com/vi/WRG5ZMtGvpg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-21 17:00:25 (UTC)  
+  **مدت:** حدود 14.3 دقیقه  
+  **عنوان:** [Germans Answer Life’s Biggest Questions](https://www.youtube.com/watch?v=JbHUxfOQ2-U)  
+  ![](https://i.ytimg.com/vi/JbHUxfOQ2-U/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-20 17:56:14 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
   **مدت:** حدود 8.2 دقیقه  
   **عنوان:** [Most beautiful places in Germany | Easy German 142](https://www.youtube.com/watch?v=1CDsehCwnFk)  
   ![](https://i.ytimg.com/vi/1CDsehCwnFk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-01 22:00:21 (UTC)  
-  **مدت:** حدود 13.1 دقیقه  
-  **عنوان:** [German BBQ at Klaus' home | Easy German 141](https://www.youtube.com/watch?v=rIh8Vv7WoqY)  
-  ![](https://i.ytimg.com/vi/rIh8Vv7WoqY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-04-28 21:09:44 (UTC)  
-  **مدت:** حدود 13.2 دقیقه  
-  **عنوان:** [Cari und Kapenda antworten (30) - Was magst du an Deutschland? | Religionsunterricht | Vegetarier](https://www.youtube.com/watch?v=VyR6KyNhWH0)  
-  ![](https://i.ytimg.com/vi/VyR6KyNhWH0/hqdefault.jpg)

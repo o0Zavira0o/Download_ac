@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Orion Jacobson 
 
-_آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
+_آخرین به‌روزرسانی: 2026-06-22T14:48:38Z_
 
 
 **لینک استاندارد کانال:** [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)  
+
+
+- **تاریخ انتشار:** 2026-06-22 11:54:00 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [I'm 1000% serious](https://www.youtube.com/watch?v=G8dp7jwbXsY)  
+  ![](https://i.ytimg.com/vi/G8dp7jwbXsY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-22 11:53:00 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [The battery ridiculously hot just being put on the reconditioner overnight #automobile](https://www.youtube.com/watch?v=uE-117Tm418)  
+  ![](https://i.ytimg.com/vi/uE-117Tm418/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-25 15:48:26 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [my bro tried biting my hand when I free him #helpmemakethismakesense](https://www.youtube.com/watch?v=b8vuk-ghuew)  
   ![](https://i.ytimg.com/vi/b8vuk-ghuew/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-03-30 14:56:55 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [cloudy day out today](https://www.youtube.com/watch?v=DFnlTNV9uNc)  
-  ![](https://i.ytimg.com/vi/DFnlTNV9uNc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-03-28 20:23:03 (UTC)  
-  **مدت:** حدود 3.6 دقیقه  
-  **عنوان:** [Bad way to end the day #keystoneresort](https://www.youtube.com/watch?v=f-3kBWKK6e4)  
-  ![](https://i.ytimg.com/vi/f-3kBWKK6e4/hqdefault.jpg)

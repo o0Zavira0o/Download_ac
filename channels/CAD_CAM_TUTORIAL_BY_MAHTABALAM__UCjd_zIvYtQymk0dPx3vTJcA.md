@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
+_آخرین به‌روزرسانی: 2026-06-22T14:48:38Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-22 13:36:02 (UTC)  
+  **مدت:** حدود 6.4 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Honeycomb Pattern Modeling with Combine (Subtract) Features](https://www.youtube.com/watch?v=i7Y_3fzVlKs)  
+  ![](https://i.ytimg.com/vi/i7Y_3fzVlKs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-21 15:20:26 (UTC)  
+  **مدت:** حدود 9.9 دقیقه  
+  **عنوان:** [SolidWorks Surface  Modeling of Lampshade](https://www.youtube.com/watch?v=aa7lqzghu-s)  
+  ![](https://i.ytimg.com/vi/aa7lqzghu-s/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-20 03:30:21 (UTC)  
@@ -8992,15 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
   **مدت:** حدود 17.7 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Plastic fork in Solidworks](https://www.youtube.com/watch?v=XEB5LHaXwb0)  
   ![](https://i.ytimg.com/vi/XEB5LHaXwb0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-08 09:00:03 (UTC)  
-  **مدت:** حدود 10.3 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Knurled Nut in Solidworks](https://www.youtube.com/watch?v=hQnC7wbu2k0)  
-  ![](https://i.ytimg.com/vi/hQnC7wbu2k0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-07 09:00:04 (UTC)  
-  **مدت:** حدود 15.3 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Lock Nut in Solidworks](https://www.youtube.com/watch?v=yGijX4w0bRY)  
-  ![](https://i.ytimg.com/vi/yGijX4w0bRY/hqdefault.jpg)

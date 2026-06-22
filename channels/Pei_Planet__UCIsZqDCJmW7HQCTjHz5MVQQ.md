@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
+_آخرین به‌روزرسانی: 2026-06-22T14:48:38Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-06-22 14:33:49 (UTC)  
+  **مدت:** حدود 12.5 دقیقه  
+  **عنوان:** [【ASMR】DIY Kitty Cake House 🍰✨ | Sweet Sticker Scene | No Talking](https://www.youtube.com/watch?v=cZ2IKMo_yuE)  
+  ![](https://i.ytimg.com/vi/cZ2IKMo_yuE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-20 10:30:32 (UTC)  

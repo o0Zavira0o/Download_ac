@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm CNC
 
-_آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
+_آخرین به‌روزرسانی: 2026-06-22T14:48:38Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-22 01:26:27 (UTC)  
+  **مدت:** حدود 5.9 دقیقه  
+  **عنوان:** [Vẽ giày Solidworks Surface](https://www.youtube.com/watch?v=VArX6lzJxmY)  
+  ![](https://i.ytimg.com/vi/VArX6lzJxmY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-20 01:07:56 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-21T11:48:44Z_
   **مدت:** حدود 14.2 دقیقه  
   **عنوان:** [Lập trình phay mastercam cơ bản p2](https://www.youtube.com/watch?v=lO-Vk9x4So4)  
   ![](https://i.ytimg.com/vi/lO-Vk9x4So4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-04 00:43:41 (UTC)  
-  **مدت:** حدود 20.7 دقیقه  
-  **عنوان:** [Lập trình phay mastercam cơ bản p1](https://www.youtube.com/watch?v=QrR5OeEU2Ws)  
-  ![](https://i.ytimg.com/vi/QrR5OeEU2Ws/hqdefault.jpg)
