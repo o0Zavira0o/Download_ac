@@ -1,6 +1,14 @@
-# Last Run: 2026-06-22 04:25 UTC
+# Last Run: 2026-06-22 12:03 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Don’t Let China Stack the Deck
+Published: 2026-06-22T11:00:44+00:00
+Link: https://foreignpolicy.com/2026/06/22/china-us-ai-race-artificial-intelligence-technology/
+---
+[Foreign_Policy] The Obama Center Sets a Dangerous Precedent
+Published: 2026-06-22T04:50:33+00:00
+Link: https://foreignpolicy.com/2026/06/22/obama-center-presidential-libraries-dangerous-precedent/
+---
 [Foreign_Affairs] China Could Win Taiwan Without Fighting
 Published: 2026-06-22T04:00:00+00:00
 Link: https://www.foreignaffairs.com/taiwan/china-could-win-taiwan-without-fighting
@@ -12,24 +20,4 @@ Link: https://www.foreignaffairs.com/united-states/when-workers-lose-ai
 [Foreign_Affairs] The Only Way to Save Europe
 Published: 2026-06-22T04:00:00+00:00
 Link: https://www.foreignaffairs.com/europe/only-way-save-europe
----
-[Foreign_Policy] A Tale of Two AI Policy Regimes
-Published: 2026-06-19T12:00:27+00:00
-Link: https://foreignpolicy.com/2026/06/19/brazil-argentina-ai-policy-data-centers-milei/
----
-[Foreign_Policy] Syria’s War Crimes Dilemma
-Published: 2026-06-19T12:00:15+00:00
-Link: https://foreignpolicy.com/2026/06/19/syrias-war-crimes-assad-trial-sharaa-justice/
----
-[Foreign_Policy] Foreign Pressure, American Freedom
-Published: 2026-06-19T10:00:10+00:00
-Link: https://foreignpolicy.com/2026/06/19/america-250-foreign-pressure-american-freedom-ideals/
----
-[New_Yorker_Magazine] “The Invite” Movie Review
-Published: 2026-06-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/29/the-invite-movie-review
----
-[Foreign_Policy] Orban’s Defeat Is Being Dangerously Misread
-Published: 2026-06-19T06:52:13+00:00
-Link: https://foreignpolicy.com/2026/06/19/orban-defeat-strongman-playbook-erdogan/
 ---
