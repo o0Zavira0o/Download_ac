@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm CNC
 
-_آخرین به‌روزرسانی: 2026-06-22T14:48:38Z_
+_آخرین به‌روزرسانی: 2026-06-23T12:12:11Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-23 03:30:31 (UTC)  
+  **مدت:** حدود 12.9 دقیقه  
+  **عنوان:** [Vẽ ô tô Solidworks full](https://www.youtube.com/watch?v=M8mpxwYBo5c)  
+  ![](https://i.ytimg.com/vi/M8mpxwYBo5c/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-22 01:26:27 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-22T14:48:38Z_
   **مدت:** حدود 1.8 دقیقه  
   **عنوان:** [Tạo điện cực mastercam](https://www.youtube.com/watch?v=Uu4fVfzbDkw)  
   ![](https://i.ytimg.com/vi/Uu4fVfzbDkw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-04 10:24:41 (UTC)  
-  **مدت:** حدود 14.2 دقیقه  
-  **عنوان:** [Lập trình phay mastercam cơ bản p2](https://www.youtube.com/watch?v=lO-Vk9x4So4)  
-  ![](https://i.ytimg.com/vi/lO-Vk9x4So4/hqdefault.jpg)

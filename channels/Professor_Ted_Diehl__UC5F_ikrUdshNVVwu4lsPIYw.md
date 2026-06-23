@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-06-22T14:48:38Z_
+_آخرین به‌روزرسانی: 2026-06-23T12:12:11Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
+
+
+- **تاریخ انتشار:** 2026-06-23 12:12:24 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Hummingbird 1 (short, out of focus)](https://www.youtube.com/watch?v=XjhpAiYfY44)  
+  ![](https://i.ytimg.com/vi/XjhpAiYfY44/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-22 22:31:23 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Carolina Wren (maybe)](https://www.youtube.com/watch?v=xHSE36ZVIcQ)  
+  ![](https://i.ytimg.com/vi/xHSE36ZVIcQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-04-20 02:40:31 (UTC)  
