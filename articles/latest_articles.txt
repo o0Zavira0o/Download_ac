@@ -1,6 +1,14 @@
-# Last Run: 2026-06-23 07:55 UTC
+# Last Run: 2026-06-23 11:22 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How America Made the Mafia
+Published: 2026-06-23T10:15:47+00:00
+Link: https://foreignpolicy.com/2026/06/23/united-states-history-mafia-organized-crime/
+---
+[Foreign_Policy] From Bloody Kansas to the Rebuilding of Europe
+Published: 2026-06-23T10:00:49+00:00
+Link: https://foreignpolicy.com/2026/06/23/america-250-rebuilding-wwii-bloody-kansas-europe/
+---
 [Foreign_Affairs] How to Survive the AI Shock
 Published: 2026-06-23T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/survive-artificial-intelligence-shock-davidson-slaughter
@@ -148,8 +156,4 @@ Link: https://www.newyorker.com/magazine/2026/06/29/the-readers-fiction-ben-lern
 [New_Yorker_Magazine] Why the Odyssey Keeps Defeating Filmmakers
 Published: 2026-06-21T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/06/29/why-the-odyssey-keeps-defeating-filmmakers
----
-[New_Yorker_Magazine] Pencils Up! The Knicks on Broadway
-Published: 2026-06-20T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/29/pencils-up-the-knicks-on-broadway
 ---
