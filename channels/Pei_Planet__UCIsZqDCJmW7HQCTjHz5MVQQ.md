@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-06-23T12:12:11Z_
+_آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-06-24 10:30:35 (UTC)  
+  **مدت:** حدود 34.8 دقیقه  
+  **عنوان:** [【30 MIN ASMR for study and sleep】Welcome to Kitty's Town 🏘️✨ | 4 Cozy Sticker Shops | No Talking](https://www.youtube.com/watch?v=TiWsViJYbzE)  
+  ![](https://i.ytimg.com/vi/TiWsViJYbzE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-22 14:33:49 (UTC)  

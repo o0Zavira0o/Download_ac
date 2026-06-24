@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-23T12:12:11Z_
+_آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-24 06:21:19 (UTC)  
+  **مدت:** حدود 1.7 دقیقه  
+  **عنوان:** [Kundenservice in 🇩🇪 #easygermanpodcast #deutschlernen #germany](https://www.youtube.com/watch?v=lWf7P9p5Kcw)  
+  ![](https://i.ytimg.com/vi/lWf7P9p5Kcw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-22 09:56:46 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-23T12:12:11Z_
   **مدت:** حدود 1.1 دقیقه  
   **عنوان:** [German with Turkish subtitles (7) -  10 most important words](https://www.youtube.com/watch?v=bm4cF7EKWUQ)  
   ![](https://i.ytimg.com/vi/bm4cF7EKWUQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-08 17:58:07 (UTC)  
-  **مدت:** حدود 8.2 دقیقه  
-  **عنوان:** [Most beautiful places in Germany | Easy German 142](https://www.youtube.com/watch?v=1CDsehCwnFk)  
-  ![](https://i.ytimg.com/vi/1CDsehCwnFk/hqdefault.jpg)

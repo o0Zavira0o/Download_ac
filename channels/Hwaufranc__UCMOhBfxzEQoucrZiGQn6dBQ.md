@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-06-23T12:12:11Z_
+_آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-06-23 13:00:06 (UTC)  
+  **مدت:** حدود 98.0 دقیقه  
+  **عنوان:** [ASMR Journal Compilation 1 HOUR | Paper asmr 다꾸 diy꾸미기 Scrapbooking](https://www.youtube.com/watch?v=FZx41DeRzow)  
+  ![](https://i.ytimg.com/vi/FZx41DeRzow/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-22 13:20:40 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-06-23T12:12:11Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [Aesthetic Journaling 2/2 #journaling #journal #aesthetic #asmrsounds](https://www.youtube.com/watch?v=0dMzgrT0NR0)  
   ![](https://i.ytimg.com/vi/0dMzgrT0NR0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-04-12 12:50:00 (UTC)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Aesthetic Journaling 1/2 #journaling #journal #aesthetic #asmrsounds](https://www.youtube.com/watch?v=2rddVD3WLB0)  
-  ![](https://i.ytimg.com/vi/2rddVD3WLB0/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-06-23T12:12:11Z_
+_آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-06-24 03:39:09 (UTC)  
+  **مدت:** حدود 3.0 دقیقه  
+  **عنوان:** [Drill bit in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=tKwwk5CP3ag)  
+  ![](https://i.ytimg.com/vi/tKwwk5CP3ag/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-20 02:33:54 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-23T12:12:11Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [Barrel Mechanism in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=4uPwke8aJSc)  
   ![](https://i.ytimg.com/vi/4uPwke8aJSc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-04 02:55:33 (UTC)  
-  **مدت:** حدود 20.6 دقیقه  
-  **عنوان:** [Solidworks Exercise Tutorial for Beginners | Exercise34](https://www.youtube.com/watch?v=7hBC-Z2QUaI)  
-  ![](https://i.ytimg.com/vi/7hBC-Z2QUaI/hqdefault.jpg)
