@@ -1,6 +1,14 @@
-# Last Run: 2026-06-24 03:44 UTC
+# Last Run: 2026-06-24 10:56 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Russia Makes Inroads in Southeast Asia
+Published: 2026-06-24T05:00:55+00:00
+Link: https://foreignpolicy.com/2026/06/24/russia-asean-kazan-summit-energy-southeast-asia/
+---
+[Foreign_Affairs] New Prime Minister, Same Problem
+Published: 2026-06-24T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-kingdom/new-prime-minister-same-problem
+---
 [Foreign_Policy] U.S., Iran Rally Support for Interim Peace Deal Abroad
 Published: 2026-06-23T20:40:57+00:00
 Link: https://foreignpolicy.com/2026/06/23/us-iran-peace-deal-rubio-uae-kuwait-bahrain-pezeshkian-pakistan/
@@ -164,16 +172,4 @@ Link: https://www.foreignaffairs.com/united-states/when-workers-lose-ai
 [Foreign_Affairs] The Only Way to Save Europe
 Published: 2026-06-22T04:00:00+00:00
 Link: https://www.foreignaffairs.com/europe/only-way-save-europe
----
-[New_Yorker_Magazine] The Difference Between the Knicks and the White House Cage Fight
-Published: 2026-06-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/29/the-difference-between-the-knicks-and-the-white-house-cage-fight
----
-[New_Yorker_Magazine] “The Readers,” by Ben Lerner
-Published: 2026-06-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/29/the-readers-fiction-ben-lerner
----
-[New_Yorker_Magazine] Why the Odyssey Keeps Defeating Filmmakers
-Published: 2026-06-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/06/29/why-the-odyssey-keeps-defeating-filmmakers
 ---
