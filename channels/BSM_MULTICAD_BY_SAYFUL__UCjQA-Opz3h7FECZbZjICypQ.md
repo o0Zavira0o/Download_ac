@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
+_آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-06-24 17:24:46 (UTC)  
+  **مدت:** حدود 6.3 دقیقه  
+  **عنوان:** [Sketchup 2025 software install bangla tutorials](https://www.youtube.com/watch?v=kPujzi4DMgU)  
+  ![](https://i.ytimg.com/vi/kPujzi4DMgU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-20 16:36:42 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
   **مدت:** حدود 4.2 دقیقه  
   **عنوان:** [Answers to all your questions AUTOCAD , ESTIMATE,3D MODELING &RENDERINGG](https://www.youtube.com/watch?v=XBN7kvKV3Pw)  
   ![](https://i.ytimg.com/vi/XBN7kvKV3Pw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-15 17:02:44 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Answers to all your questions AUTOCAD, ESTIMATE,3D MODELING &RENDERINGF #autocadtutorial #sketchup](https://www.youtube.com/watch?v=wHwvLtnfhOQ)  
-  ![](https://i.ytimg.com/vi/wHwvLtnfhOQ/hqdefault.jpg)

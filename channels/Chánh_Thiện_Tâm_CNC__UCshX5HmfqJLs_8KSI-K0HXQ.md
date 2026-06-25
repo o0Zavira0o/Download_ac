@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm CNC
 
-_آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
+_آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-25 04:08:51 (UTC)  
+  **مدت:** حدود 7.3 دقیقه  
+  **عنوان:** [Vẽ chai Solidworks pro](https://www.youtube.com/watch?v=fH5RXSYm6fQ)  
+  ![](https://i.ytimg.com/vi/fH5RXSYm6fQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-24 03:25:56 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
   **مدت:** حدود 15.0 دقیقه  
   **عنوان:** [Phay 2d mastercam Full](https://www.youtube.com/watch?v=HY_zDCqPEBQ)  
   ![](https://i.ytimg.com/vi/HY_zDCqPEBQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-05 11:26:02 (UTC)  
-  **مدت:** حدود 3.9 دقیقه  
-  **عنوان:** [Bít lỗ bề mặt mastercam](https://www.youtube.com/watch?v=DDrMcCT98GE)  
-  ![](https://i.ytimg.com/vi/DDrMcCT98GE/hqdefault.jpg)

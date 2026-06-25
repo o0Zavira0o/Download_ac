@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
+_آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
+
+
+- **تاریخ انتشار:** 2026-06-24 18:28:29 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Tufted Titmouse](https://www.youtube.com/watch?v=NCWIFW5xDWs)  
+  ![](https://i.ytimg.com/vi/NCWIFW5xDWs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-23 12:12:24 (UTC)  

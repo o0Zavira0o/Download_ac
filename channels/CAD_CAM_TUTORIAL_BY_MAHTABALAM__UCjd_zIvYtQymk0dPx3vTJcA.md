@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
+_آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-25 03:30:33 (UTC)  
+  **مدت:** حدود 57.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial-Housing Modeling](https://www.youtube.com/watch?v=6irawVCo5rA)  
+  ![](https://i.ytimg.com/vi/6irawVCo5rA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-22 13:36:02 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
   **مدت:** حدود 14.3 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Furniture Screw M5 in Solidworks](https://www.youtube.com/watch?v=IDwPi7UkGK4)  
   ![](https://i.ytimg.com/vi/IDwPi7UkGK4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-10 19:23:55 (UTC)  
-  **مدت:** حدود 17.7 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Plastic fork in Solidworks](https://www.youtube.com/watch?v=XEB5LHaXwb0)  
-  ![](https://i.ytimg.com/vi/XEB5LHaXwb0/hqdefault.jpg)

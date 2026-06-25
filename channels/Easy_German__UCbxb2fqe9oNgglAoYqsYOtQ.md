@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
+_آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-24 17:00:22 (UTC)  
+  **مدت:** حدود 2.6 دقیقه  
+  **عنوان:** [Join the Easy German Book Club!](https://www.youtube.com/watch?v=ttNP1AXhfEo)  
+  ![](https://i.ytimg.com/vi/ttNP1AXhfEo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-24 06:21:19 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-24T11:51:26Z_
   **مدت:** حدود 1.6 دقیقه  
   **عنوان:** [German with Turkish subtitles (6) - 10 phrases to ask where do you come from](https://www.youtube.com/watch?v=6O7rDgv6_1Y)  
   ![](https://i.ytimg.com/vi/6O7rDgv6_1Y/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-09 20:41:24 (UTC)  
-  **مدت:** حدود 1.1 دقیقه  
-  **عنوان:** [German with Turkish subtitles (7) -  10 most important words](https://www.youtube.com/watch?v=bm4cF7EKWUQ)  
-  ![](https://i.ytimg.com/vi/bm4cF7EKWUQ/hqdefault.jpg)
