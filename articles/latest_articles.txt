@@ -1,6 +1,26 @@
-# Last Run: 2026-06-25 18:18 UTC
+# Last Run: 2026-06-25 23:23 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Geopolitics of SpaceX and Elon Musk
+Published: 2026-06-25T22:10:57+00:00
+Link: https://foreignpolicy.com/2026/06/25/spacex-elon-musk-geopolitics-ai-x-quinn-slobodian/
+---
+[Foreign_Policy] Restocking the Pentagon
+Published: 2026-06-25T20:34:32+00:00
+Link: https://foreignpolicy.com/2026/06/25/trump-weapons-iran-lockheed-ukraine-nato-rutte/
+---
+[Foreign_Policy] Will Kenya’s Ruto Finally Reconcile with the Country’s Somali Minority?
+Published: 2026-06-25T20:34:31+00:00
+Link: https://foreignpolicy.com/2026/06/25/kenya-ruto-election-somali-democracy-nairobi-odinga/
+---
+[Foreign_Policy] As the Tide Turns Against Putin, Beware the Drowning Man
+Published: 2026-06-25T20:16:57+00:00
+Link: https://foreignpolicy.com/2026/06/25/russia-ukraine-war-putin-escalation-nato-europe/
+---
+[Foreign_Policy] Venezuela Reels From Twin Deadly Earthquakes
+Published: 2026-06-25T20:15:32+00:00
+Link: https://foreignpolicy.com/2026/06/25/venezuela-earthquakes-death-toll-delcy-rodriguez-search-rescue-operations/
+---
 [Foreign_Policy] The Quest for Nuclear Superiority Makes No Sense
 Published: 2026-06-25T13:43:37+00:00
 Link: https://foreignpolicy.com/2026/06/25/nuclear-arsenal-modernization-weapons-no-sense/
@@ -128,28 +148,4 @@ Link: https://www.foreignaffairs.com/china/why-china-first-will-fail-patricia-ki
 [Foreign_Affairs] Losing the War of the Future
 Published: 2026-06-23T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/losing-war-future-paul-scharre
----
-[Foreign_Policy] Starmer Resigns as Burnham Eyes Top Job
-Published: 2026-06-22T22:13:02+00:00
-Link: https://foreignpolicy.com/2026/06/22/keir-starmer-uk-prime-minister-resignation-andy-burnham-labour/
----
-[Foreign_Policy] China Flexes Its Rare-Earth Muscle—Again
-Published: 2026-06-22T21:09:06+00:00
-Link: https://foreignpolicy.com/2026/06/22/china-us-rare-earth-export-control-trade/
----
-[Foreign_Policy] Why Is Alibaba on a Pentagon Blacklist?
-Published: 2026-06-22T21:08:33+00:00
-Link: https://foreignpolicy.com/2026/06/22/china-military-civil-fusion-pentagon-blacklist-alibaba-baidu/
----
-[Foreign_Policy] The Strange Logic of World Cup Ticket Prices
-Published: 2026-06-22T20:46:45+00:00
-Link: https://foreignpolicy.com/2026/06/22/world-cup-fifa-soccer-resale-gouging-prices/
----
-[Foreign_Policy] How the Iran Deal Sets the Stage for More Conflict
-Published: 2026-06-22T20:16:49+00:00
-Link: https://foreignpolicy.com/2026/06/22/trump-iran-israel-war-oil-deal-gaza/
----
-[Foreign_Policy] The White House’s New Pro-Ukraine Tone Shift
-Published: 2026-06-22T19:53:51+00:00
-Link: https://foreignpolicy.com/2026/06/22/trump-administration-ukraine-russia-war-zelensky-rhetoric/
 ---
