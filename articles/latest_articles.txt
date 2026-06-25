@@ -1,4 +1,4 @@
-# Last Run: 2026-06-25 10:47 UTC
+# Last Run: 2026-06-25 14:40 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] This Industrial Revolution Is Not Like the Last One
@@ -148,12 +148,4 @@ Link: https://foreignpolicy.com/2026/06/22/trump-administration-ukraine-russia-w
 [Foreign_Policy] Trump Tests the Limits of Farcepolitik
 Published: 2026-06-22T16:02:39+00:00
 Link: https://foreignpolicy.com/2026/06/22/trump-iran-memorandum-ceasefire-delusion-farcepolitik/
----
-[Foreign_Policy] Alan Greenspan, One of the Most Influential Fed Chairs Ever, Dies at 100
-Published: 2026-06-22T12:16:06+00:00
-Link: https://foreignpolicy.com/2026/06/22/alan-greenspan-federal-reserve-chair-dead-obituary-100/
----
-[Foreign_Policy] Don’t Let China Stack the Deck
-Published: 2026-06-22T11:00:44+00:00
-Link: https://foreignpolicy.com/2026/06/22/china-us-ai-race-artificial-intelligence-technology/
 ---
