@@ -1,4 +1,46 @@
 ================================================================================
+2026-06-25 19:48:14 (Asia/Tehran) | hill0
+Title  : Modern C++ Programming Cookbook (3rd Edition)
+Details: English | 2024 | ISBN: 1835080545 | 817 Pages | PDF (True) | 10 MB
+Link   : http://zavat.pw/ebooks/9781835080542p.html
+
+================================================================================
+2026-06-25 19:48:14 (Asia/Tehran) | hill0
+Title  : Modern C++ Programming
+Details: English | 2024 | ISBN: n/a | 524 Pages | PDF | 4 MB
+Link   : http://zavat.pw/ebooks/modern-c-programming-including.html
+
+================================================================================
+2026-06-25 19:48:14 (Asia/Tehran) | hill0
+Title  : Flowers for Elephants
+Details: English | 2022 | ISBN: 1787386937 | 364 Pages | EPUB (True) | 7 MB
+Link   : http://zavat.pw/ebooks/1787386937.html
+
+================================================================================
+2026-06-25 19:48:14 (Asia/Tehran) | hill0
+Title  : Software Design
+Details: English | 2024 | ISBN: 1774697793 | 239 Pages | PDF (True) | 169 MB
+Link   : http://zavat.pw/ebooks/1774697793p.html
+
+================================================================================
+2026-06-25 19:48:14 (Asia/Tehran) | hill0
+Title  : Computer Games and Software Engineering
+Details: English | 2015 | ISBN: 1482226685 | 274 Pages | EPUB (True) | 8 MB
+Link   : http://zavat.pw/ebooks/1482226685e.html
+
+================================================================================
+2026-06-25 19:48:14 (Asia/Tehran) | hill0
+Title  : Systems Engineering of Software-Enabled Systems
+Details: English | 2019 | ISBN: 1119535018 | 512 Pages | EPUB (True) | 7 MB
+Link   : http://zavat.pw/ebooks/1119535018e.html
+
+================================================================================
+2026-06-25 19:48:14 (Asia/Tehran) | hill0
+Title  : General Audio Signal Processing with Deep Learning
+Details: English | 2026 | ISBN: 9819508355 | 697 Pages | PDF EPUB (True) | 107 MB
+Link   : http://zavat.pw/ebooks/9819508355.html
+
+================================================================================
 2026-06-25 17:03:47 (Asia/Tehran) | IrGens
 Title  : What's Next in AI with Bernard Marr
 Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 44m | 203 MB
