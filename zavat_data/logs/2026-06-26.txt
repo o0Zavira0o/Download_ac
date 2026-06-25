@@ -1,4 +1,58 @@
 ================================================================================
+2026-06-26 01:47:02 (Asia/Tehran) | IrGens
+Title  : Business Acumen Fundamentals
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 6m | 527 MB
+Link   : http://zavat.pw/ebooks/business-acumen-fundamentals.html
+
+================================================================================
+2026-06-26 01:47:02 (Asia/Tehran) | IrGens
+Title  : Getting Started with EF Core 10
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h 38m | 846 MB
+Link   : http://zavat.pw/ebooks/getting-started-ef-core-10.html
+
+================================================================================
+2026-06-26 01:47:02 (Asia/Tehran) | IrGens
+Title  : Basic Navigation and Deployment Patterns for Google Cloud
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 36m | 137 MB
+Link   : http://zavat.pw/ebooks/basic-navigation-and-deployment-patterns-for-google-cloud.html
+
+================================================================================
+2026-06-26 01:47:02 (Asia/Tehran) | IrGens
+Title  : Automate Machine Learning Using Databricks AutoML
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 14m | 208 MB
+Link   : http://zavat.pw/ebooks/databricks-automl-automate-machine-learning.html
+
+================================================================================
+2026-06-26 01:47:02 (Asia/Tehran) | IrGens
+Title  : Amazon Linux Foundations
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 28m | 338 MB
+Link   : http://zavat.pw/ebooks/amazon-linux-foundations.html
+
+================================================================================
+2026-06-26 01:47:02 (Asia/Tehran) | IrGens
+Title  : Working with Data in PowerShell
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 30m | 521 MB
+Link   : http://zavat.pw/ebooks/working-data-powershell-2.html
+
+================================================================================
+2026-06-26 01:47:02 (Asia/Tehran) | IrGens
+Title  : Red Hat Identity Management and LDAP Integration
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 2h 37m | 300 MB
+Link   : http://zavat.pw/ebooks/red-hat-identity-management-and-ldap-integration.html
+
+================================================================================
+2026-06-26 01:47:02 (Asia/Tehran) | IrGens
+Title  : Give Your AI Agent Skills
+Details: .MP4, AVC, 1152x720, 30 fps | English, AAC, 2 Ch | 42m | 93 MB
+Link   : http://zavat.pw/ebooks/give-your-ai-agent-skills.html
+
+================================================================================
+2026-06-26 01:47:02 (Asia/Tehran) | IrGens
+Title  : Power BI Data Dashboards [Updated: 6/25/2026]
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 2h 36m | 536 MB
+Link   : http://zavat.pw/ebooks/power-bi-data-dashboards-6252026.html
+
+================================================================================
 2026-06-26 00:03:19 (Asia/Tehran) | hill0
 Title  : The Value of Sport: An Economic Perspective
 Details: English | 2026 | ASIN: B0GN12GK8X | 194 Pages | PDF EPUB (True) | 7 MB
