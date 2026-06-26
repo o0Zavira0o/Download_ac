@@ -1,4 +1,4 @@
-# Last Run: 2026-06-26 19:54 UTC
+# Last Run: 2026-06-26 21:24 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Is Hezbollah Now More an Obligation Than an Asset to Tehran?
@@ -108,12 +108,4 @@ Link: https://foreignpolicy.com/2026/06/24/russia-asean-kazan-summit-energy-sout
 [Foreign_Affairs] New Prime Minister, Same Problem
 Published: 2026-06-24T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-kingdom/new-prime-minister-same-problem
----
-[Foreign_Policy] U.S., Iran Rally Support for Interim Peace Deal Abroad
-Published: 2026-06-23T20:40:57+00:00
-Link: https://foreignpolicy.com/2026/06/23/us-iran-peace-deal-rubio-uae-kuwait-bahrain-pezeshkian-pakistan/
----
-[Foreign_Policy] Why the World Cup Keeps Eluding China
-Published: 2026-06-23T20:00:24+00:00
-Link: https://foreignpolicy.com/2026/06/23/world-cup-china-soccer-xi-jinping-corruption-reform/
 ---
