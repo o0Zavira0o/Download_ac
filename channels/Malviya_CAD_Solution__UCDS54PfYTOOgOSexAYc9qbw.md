@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
+_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-06-26 02:38:11 (UTC)  
+  **مدت:** حدود 18.0 دقیقه  
+  **عنوان:** [Solidworks Drill Bit Tutorial | Size 1" inch | Perfect shape with swept cut feature](https://www.youtube.com/watch?v=wKFOYlbrYec)  
+  ![](https://i.ytimg.com/vi/wKFOYlbrYec/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-24 03:39:09 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
   **مدت:** حدود 2.1 دقیقه  
   **عنوان:** [How to use the Subtract tool in Solidworks #ytshorts #shorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=yXcyW6kBRf8)  
   ![](https://i.ytimg.com/vi/yXcyW6kBRf8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-05 03:14:59 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Barrel Mechanism in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=4uPwke8aJSc)  
-  ![](https://i.ytimg.com/vi/4uPwke8aJSc/hqdefault.jpg)

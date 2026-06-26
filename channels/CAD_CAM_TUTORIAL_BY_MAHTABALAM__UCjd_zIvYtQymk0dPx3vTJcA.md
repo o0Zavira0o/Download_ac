@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
+_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-26 06:30:14 (UTC)  
+  **مدت:** حدود 5.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial  Hexagonal Tetrapod Modeling](https://www.youtube.com/watch?v=62Tm5AflX0s)  
+  ![](https://i.ytimg.com/vi/62Tm5AflX0s/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-25 03:30:33 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
   **مدت:** حدود 40.0 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Stepper motor in Solidworks](https://www.youtube.com/watch?v=pPndnk_DAh0)  
   ![](https://i.ytimg.com/vi/pPndnk_DAh0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-12 18:12:41 (UTC)  
-  **مدت:** حدود 14.3 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Furniture Screw M5 in Solidworks](https://www.youtube.com/watch?v=IDwPi7UkGK4)  
-  ![](https://i.ytimg.com/vi/IDwPi7UkGK4/hqdefault.jpg)

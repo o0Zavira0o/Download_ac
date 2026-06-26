@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm CNC
 
-_آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
+_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-26 07:40:46 (UTC)  
+  **مدت:** حدود 6.1 دقیقه  
+  **عنوان:** [Vẽ Solidworks Surface ipro](https://www.youtube.com/watch?v=afWiLeM6jyk)  
+  ![](https://i.ytimg.com/vi/afWiLeM6jyk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-25 04:08:51 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
   **مدت:** حدود 15.4 دقیقه  
   **عنوان:** [Xuất sửa chương trình cnc mastercam](https://www.youtube.com/watch?v=Zft0CYWKX5U)  
   ![](https://i.ytimg.com/vi/Zft0CYWKX5U/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-05 23:36:16 (UTC)  
-  **مدت:** حدود 15.0 دقیقه  
-  **عنوان:** [Phay 2d mastercam Full](https://www.youtube.com/watch?v=HY_zDCqPEBQ)  
-  ![](https://i.ytimg.com/vi/HY_zDCqPEBQ/hqdefault.jpg)

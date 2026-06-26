@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
+_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-06-26 09:20:06 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [ASMR Stamp on it🐾 스탬프 다꾸 #diy #stamp #asmr #crafts](https://www.youtube.com/watch?v=Fdi241sIYhs)  
+  ![](https://i.ytimg.com/vi/Fdi241sIYhs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-25 13:20:00 (UTC)  
+  **مدت:** حدود 14.1 دقیقه  
+  **عنوان:** [ASMR Stamp & Wax Seal Unboxing 스탬프 실링왁스 다꾸 언박싱 | Journal Supplies Haul](https://www.youtube.com/watch?v=4K13NtS-5Ko)  
+  ![](https://i.ytimg.com/vi/4K13NtS-5Ko/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-24 13:00:29 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
   **مدت:** حدود 10.1 دقیقه  
   **عنوان:** [ASMR Decorating Vintage Art Journal⏳️💙 Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=owUVWh8cu0U)  
   ![](https://i.ytimg.com/vi/owUVWh8cu0U/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-04-13 12:51:00 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Creative journaling 2/2 #journalasmr #journal #asmr #calendar](https://www.youtube.com/watch?v=EzKXKtKEeqc)  
-  ![](https://i.ytimg.com/vi/EzKXKtKEeqc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-04-13 12:50:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Creative journaling 1/2 #journalasmr #journal #asmr #calendar](https://www.youtube.com/watch?v=Uo_l9x5ywWw)  
-  ![](https://i.ytimg.com/vi/Uo_l9x5ywWw/hqdefault.jpg)

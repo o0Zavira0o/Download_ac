@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
+_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
+
+
+- **تاریخ انتشار:** 2026-06-25 18:23:32 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Two Carolina Wrens (one’s a klutz)](https://www.youtube.com/watch?v=XxUjtWYAxyk)  
+  ![](https://i.ytimg.com/vi/XxUjtWYAxyk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-25 16:02:26 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [American Bushtit](https://www.youtube.com/watch?v=hyq2O2o1evc)  
+  ![](https://i.ytimg.com/vi/hyq2O2o1evc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-24 18:28:29 (UTC)  

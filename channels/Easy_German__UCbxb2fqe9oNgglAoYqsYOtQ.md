@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
+_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-26 10:03:25 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Was hast du heute vor? #shorts #halle](https://www.youtube.com/watch?v=ZLYJ1tUTbPI)  
+  ![](https://i.ytimg.com/vi/ZLYJ1tUTbPI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-25 14:46:55 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Partygarnelen #shorts #easygerman #nachbarschaft](https://www.youtube.com/watch?v=xQlJLrJxGnA)  
+  ![](https://i.ytimg.com/vi/xQlJLrJxGnA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-24 17:00:22 (UTC)  
@@ -554,7 +566,7 @@ _آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
 
 - **تاریخ انتشار:** 2026-03-15 18:00:02 (UTC)  
   **مدت:** حدود 11.9 دقیقه  
-  **عنوان:** [Are Germans Jealous? (Street Interviews with Subtitles)](https://www.youtube.com/watch?v=212fb-3oJjE)  
+  **عنوان:** [Easy German Conversations About Love, Trust and Jealousy](https://www.youtube.com/watch?v=212fb-3oJjE)  
   ![](https://i.ytimg.com/vi/212fb-3oJjE/hqdefault.jpg)
 
 
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-25T11:46:09Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [German with Turkish subtitles (4) - Asking which languages somebody speaks](https://www.youtube.com/watch?v=yDKvzLyx1Q4)  
   ![](https://i.ytimg.com/vi/yDKvzLyx1Q4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-09 20:43:43 (UTC)  
-  **مدت:** حدود 1.2 دقیقه  
-  **عنوان:** [German with Turkish subtitles (5) - Solving a misunderstanding](https://www.youtube.com/watch?v=-ir23tGjQ6g)  
-  ![](https://i.ytimg.com/vi/-ir23tGjQ6g/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-09 20:42:51 (UTC)  
-  **مدت:** حدود 1.6 دقیقه  
-  **عنوان:** [German with Turkish subtitles (6) - 10 phrases to ask where do you come from](https://www.youtube.com/watch?v=6O7rDgv6_1Y)  
-  ![](https://i.ytimg.com/vi/6O7rDgv6_1Y/hqdefault.jpg)
