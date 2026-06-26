@@ -1,6 +1,10 @@
-# Last Run: 2026-06-26 10:57 UTC
+# Last Run: 2026-06-26 14:31 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Colombia Swings to the Right
+Published: 2026-06-26T12:00:13+00:00
+Link: https://foreignpolicy.com/2026/06/26/colombia-presidential-vote-espriella-tigre-cepeda-petro-trump/
+---
 [Foreign_Policy] The United States Is Now a Guarantor of Last Resort
 Published: 2026-06-26T09:27:21+00:00
 Link: https://foreignpolicy.com/2026/06/26/united-states-middle-east-iran-gulf-uae-saudi-last-resort/
@@ -100,16 +104,4 @@ Link: https://foreignpolicy.com/2026/06/23/us-iran-peace-deal-rubio-uae-kuwait-b
 [Foreign_Policy] Why the World Cup Keeps Eluding China
 Published: 2026-06-23T20:00:24+00:00
 Link: https://foreignpolicy.com/2026/06/23/world-cup-china-soccer-xi-jinping-corruption-reform/
----
-[Foreign_Policy] Poland, Ukraine, and the Ongoing Battle Over the Ukrainian Insurgent Army
-Published: 2026-06-23T13:56:15+00:00
-Link: https://foreignpolicy.com/2026/06/23/ukraine-russia-poland-zelenksy-history-nazis-world-war-two/
----
-[Foreign_Policy] The U.S. Won the War With Iran
-Published: 2026-06-23T12:30:11+00:00
-Link: https://foreignpolicy.com/2026/06/23/iran-war-hormuz-oil-trump-victory-memorandum-ceasefire/
----
-[Foreign_Policy] Is the MOU a Treaty or Not? And Why Should We Care?
-Published: 2026-06-23T12:12:42+00:00
-Link: https://foreignpolicy.com/2026/06/23/us-iran-war-mou-hormuz-trump-ceasefire-treaty-congress/
 ---
