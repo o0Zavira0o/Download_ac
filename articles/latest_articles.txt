@@ -1,6 +1,10 @@
-# Last Run: 2026-06-26 07:59 UTC
+# Last Run: 2026-06-26 10:57 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The United States Is Now a Guarantor of Last Resort
+Published: 2026-06-26T09:27:21+00:00
+Link: https://foreignpolicy.com/2026/06/26/united-states-middle-east-iran-gulf-uae-saudi-last-resort/
+---
 [Foreign_Affairs] Who Is Winning Africa’s Drone Wars?
 Published: 2026-06-26T04:00:00+00:00
 Link: https://www.foreignaffairs.com/somalia/who-winning-africas-drone-wars
@@ -108,16 +112,4 @@ Link: https://foreignpolicy.com/2026/06/23/iran-war-hormuz-oil-trump-victory-mem
 [Foreign_Policy] Is the MOU a Treaty or Not? And Why Should We Care?
 Published: 2026-06-23T12:12:42+00:00
 Link: https://foreignpolicy.com/2026/06/23/us-iran-war-mou-hormuz-trump-ceasefire-treaty-congress/
----
-[Foreign_Policy] How America Made the Mafia
-Published: 2026-06-23T10:15:47+00:00
-Link: https://foreignpolicy.com/2026/06/23/united-states-history-mafia-organized-crime/
----
-[Foreign_Policy] From Bloody Kansas to the Rebuilding of Europe
-Published: 2026-06-23T10:00:49+00:00
-Link: https://foreignpolicy.com/2026/06/23/america-250-rebuilding-wwii-bloody-kansas-europe/
----
-[New_Yorker_Magazine] Chronicle of a Disaster Foretold
-Published: 2026-06-23T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/06/chronicle-of-a-disaster-foretold
 ---
