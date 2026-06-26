@@ -1,6 +1,10 @@
-# Last Run: 2026-06-26 03:54 UTC
+# Last Run: 2026-06-26 07:59 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] Who Is Winning Africa’s Drone Wars?
+Published: 2026-06-26T04:00:00+00:00
+Link: https://www.foreignaffairs.com/somalia/who-winning-africas-drone-wars
+---
 [Foreign_Policy] The Geopolitics of SpaceX and Elon Musk
 Published: 2026-06-25T22:10:57+00:00
 Link: https://foreignpolicy.com/2026/06/25/spacex-elon-musk-geopolitics-ai-x-quinn-slobodian/
@@ -116,36 +120,4 @@ Link: https://foreignpolicy.com/2026/06/23/america-250-rebuilding-wwii-bloody-ka
 [New_Yorker_Magazine] Chronicle of a Disaster Foretold
 Published: 2026-06-23T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/07/06/chronicle-of-a-disaster-foretold
----
-[Foreign_Affairs] How to Survive the AI Shock
-Published: 2026-06-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/survive-artificial-intelligence-shock-davidson-slaughter
----
-[Foreign_Affairs] Heartland vs. Rimland
-Published: 2026-06-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/heartland-vs-rimland-beckley-brands
----
-[Foreign_Affairs] The Mirage of China's Military Edge
-Published: 2026-06-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/mirage-chinas-military-edge-dennis-blair
----
-[Foreign_Affairs] The Next Russia Threat
-Published: 2026-06-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/russia/next-russia-threat-michael-kofman
----
-[Foreign_Affairs] The Broken Nuclear Umbrella
-Published: 2026-06-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/broken-nuclear-umbrella-lind-press
----
-[Foreign_Affairs] The Afghanistan Reckoning
-Published: 2026-06-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
----
-[Foreign_Affairs] Why “China First” Will Fail
-Published: 2026-06-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/why-china-first-will-fail-patricia-kim
----
-[Foreign_Affairs] Losing the War of the Future
-Published: 2026-06-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/losing-war-future-paul-scharre
 ---
