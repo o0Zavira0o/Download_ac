@@ -1,4 +1,4 @@
-# Last Run: 2026-06-27 21:09 UTC
+# Last Run: 2026-06-27 23:08 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S. Strikes Iran Over Attack on Hormuz Ship
@@ -64,12 +64,4 @@ Link: https://foreignpolicy.com/2026/06/25/latin-america-new-right-colombia/
 [Foreign_Affairs] Iran Didn’t Win the War
 Published: 2026-06-25T04:00:00+00:00
 Link: https://www.foreignaffairs.com/iran/iran-didnt-win-war
----
-[Foreign_Policy] Will Pakistan’s Iran Gamble Pay Off?
-Published: 2026-06-24T21:33:26+00:00
-Link: https://foreignpolicy.com/2026/06/24/pakistan-iran-deal-war-mediation-middle-east/
----
-[Foreign_Policy] Can Rutte Sweet-Talk Trump Enough to Soothe NATO Tensions?
-Published: 2026-06-24T21:13:13+00:00
-Link: https://foreignpolicy.com/2026/06/24/rutte-nato-trump-whisperer-iran-war-europe-us-military/
 ---
