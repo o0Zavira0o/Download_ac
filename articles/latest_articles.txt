@@ -1,4 +1,4 @@
-# Last Run: 2026-06-27 17:16 UTC
+# Last Run: 2026-06-27 19:26 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S. Strikes Iran Over Attack on Hormuz Ship
@@ -76,12 +76,4 @@ Link: https://foreignpolicy.com/2026/06/24/rutte-nato-trump-whisperer-iran-war-e
 [Foreign_Policy] Will Congo’s President Push a Third Term?
 Published: 2026-06-24T19:46:00+00:00
 Link: https://foreignpolicy.com/2026/06/24/congo-controversial-bill-felix-tshisekedi-constitution/
----
-[Foreign_Policy] Treasury Chief Bessent Defends Trump’s Iran Deal
-Published: 2026-06-24T18:24:39+00:00
-Link: https://foreignpolicy.com/2026/06/24/treasury-secretary-bessent-defends-trump-iran-deal-sanctions-relief/
----
-[Foreign_Policy] The Middle East’s Great Divergence Is Underway
-Published: 2026-06-24T17:58:11+00:00
-Link: https://foreignpolicy.com/2026/06/24/iran-war-middle-east-us-china-military-economy-diplomacy/
 ---
