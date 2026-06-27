@@ -1,4 +1,4 @@
-# Last Run: 2026-06-27 19:26 UTC
+# Last Run: 2026-06-27 21:09 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S. Strikes Iran Over Attack on Hormuz Ship
@@ -72,8 +72,4 @@ Link: https://foreignpolicy.com/2026/06/24/pakistan-iran-deal-war-mediation-midd
 [Foreign_Policy] Can Rutte Sweet-Talk Trump Enough to Soothe NATO Tensions?
 Published: 2026-06-24T21:13:13+00:00
 Link: https://foreignpolicy.com/2026/06/24/rutte-nato-trump-whisperer-iran-war-europe-us-military/
----
-[Foreign_Policy] Will Congo’s President Push a Third Term?
-Published: 2026-06-24T19:46:00+00:00
-Link: https://foreignpolicy.com/2026/06/24/congo-controversial-bill-felix-tshisekedi-constitution/
 ---
