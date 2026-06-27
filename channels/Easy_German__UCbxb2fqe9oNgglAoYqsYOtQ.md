@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
+_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -200,7 +200,7 @@ _آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
 
 - **تاریخ انتشار:** 2026-05-24 17:00:26 (UTC)  
   **مدت:** حدود 15.6 دقیقه  
-  **عنوان:** [Is Hannover a Good Place to Live in? | Easy German 661](https://www.youtube.com/watch?v=fHzNx78tSe0)  
+  **عنوان:** [Is Hannover a Good Place to Live in? (German Street Interview)](https://www.youtube.com/watch?v=fHzNx78tSe0)  
   ![](https://i.ytimg.com/vi/fHzNx78tSe0/hqdefault.jpg)
 
 

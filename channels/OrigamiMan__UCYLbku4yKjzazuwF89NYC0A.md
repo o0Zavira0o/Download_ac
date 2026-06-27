@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
+_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-06-27 10:00:15 (UTC)  
+  **مدت:** حدود 32.8 دقیقه  
+  **عنوان:** [31,Origami Rose with Washi Paper | Quiet Paper Flower Craft　和紙で作る一輪の薔薇｜静かに楽しむペーパークラフト](https://www.youtube.com/watch?v=G-Ua0VcgEDs)  
+  ![](https://i.ytimg.com/vi/G-Ua0VcgEDs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-20 10:00:22 (UTC)  

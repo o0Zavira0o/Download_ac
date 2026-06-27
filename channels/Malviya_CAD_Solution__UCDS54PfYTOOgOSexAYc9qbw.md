@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
+_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-06-27 02:43:05 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Sketch not visible in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=s3OR25-ctNQ)  
+  ![](https://i.ytimg.com/vi/s3OR25-ctNQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-26 02:38:11 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Solidworks 3d modelling #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=ymoRhO5zn5w)  
   ![](https://i.ytimg.com/vi/ymoRhO5zn5w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-06 02:49:58 (UTC)  
-  **مدت:** حدود 2.1 دقیقه  
-  **عنوان:** [How to use the Subtract tool in Solidworks #ytshorts #shorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=yXcyW6kBRf8)  
-  ![](https://i.ytimg.com/vi/yXcyW6kBRf8/hqdefault.jpg)

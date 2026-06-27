@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
+_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-06-27 00:18:25 (UTC)  
+  **مدت:** حدود 40.1 دقیقه  
+  **عنوان:** [Complete Interior Design Bangla   Bedroom, livingroom & Bathroom](https://www.youtube.com/watch?v=WkHu-gqLaJ0)  
+  ![](https://i.ytimg.com/vi/WkHu-gqLaJ0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-24 17:24:46 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
   **مدت:** حدود 9.9 دقیقه  
   **عنوان:** [Are you an engineer and Architect then this course is for you Full package](https://www.youtube.com/watch?v=qBBWOv_oH2c)  
   ![](https://i.ytimg.com/vi/qBBWOv_oH2c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-15 17:03:48 (UTC)  
-  **مدت:** حدود 4.2 دقیقه  
-  **عنوان:** [Answers to all your questions AUTOCAD , ESTIMATE,3D MODELING &RENDERINGG](https://www.youtube.com/watch?v=XBN7kvKV3Pw)  
-  ![](https://i.ytimg.com/vi/XBN7kvKV3Pw/hqdefault.jpg)

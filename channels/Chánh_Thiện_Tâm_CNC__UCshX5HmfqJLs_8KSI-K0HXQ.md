@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm CNC
 
-_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
+_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-06-27 02:17:42 (UTC)  
+  **مدت:** حدود 4.7 دقیقه  
+  **عنوان:** [Mastercam 4 trục](https://www.youtube.com/watch?v=Z0RSyEWEzjU)  
+  ![](https://i.ytimg.com/vi/Z0RSyEWEzjU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-26 07:40:46 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
   **مدت:** حدود 33.4 دقیقه  
   **عنوان:** [Phay mastercam nâng cao](https://www.youtube.com/watch?v=1Synm1z9dI4)  
   ![](https://i.ytimg.com/vi/1Synm1z9dI4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-06 11:58:21 (UTC)  
-  **مدت:** حدود 15.4 دقیقه  
-  **عنوان:** [Xuất sửa chương trình cnc mastercam](https://www.youtube.com/watch?v=Zft0CYWKX5U)  
-  ![](https://i.ytimg.com/vi/Zft0CYWKX5U/hqdefault.jpg)

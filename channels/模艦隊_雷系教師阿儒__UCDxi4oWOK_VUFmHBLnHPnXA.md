@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
+_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-06-26 11:55:19 (UTC)  
+  **مدت:** حدود 18.4 دقیقه  
+  **عنوان:** [【onshape】基礎零件：伸長填料取代旋轉｜搭配sw對照服用～](https://www.youtube.com/watch?v=8-VYlnpZVhg)  
+  ![](https://i.ytimg.com/vi/8-VYlnpZVhg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-24 11:00:26 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
   **مدت:** حدود 10.8 دقیقه  
   **عنوان:** [【onshape】超簡單模具練習：樂高｜弄懂觀念就會變簡單](https://www.youtube.com/watch?v=IOw8Ts_F97s)  
   ![](https://i.ytimg.com/vi/IOw8Ts_F97s/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-04-23 11:00:15 (UTC)  
-  **مدت:** حدود 15.8 دقیقه  
-  **عنوان:** [【solidworks】分區處理+資料夾怎麼用｜用建模來練管理](https://www.youtube.com/watch?v=9QPQYeuOLIU)  
-  ![](https://i.ytimg.com/vi/9QPQYeuOLIU/hqdefault.jpg)

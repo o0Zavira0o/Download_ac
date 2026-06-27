@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Orion Jacobson 
 
-_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
+_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
 
 
 **لینک استاندارد کانال:** [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)  
+
+
+- **تاریخ انتشار:** 2026-06-26 11:52:22 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [ted talk #worldcup](https://www.youtube.com/watch?v=u-n0tuGLuSs)  
+  ![](https://i.ytimg.com/vi/u-n0tuGLuSs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-22 11:54:00 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [immaculate vibes boys #geeb](https://www.youtube.com/watch?v=dqZ-nPUDzLs)  
   ![](https://i.ytimg.com/vi/dqZ-nPUDzLs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-03-31 18:20:35 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [my bro tried biting my hand when I free him #helpmemakethismakesense](https://www.youtube.com/watch?v=b8vuk-ghuew)  
-  ![](https://i.ytimg.com/vi/b8vuk-ghuew/hqdefault.jpg)

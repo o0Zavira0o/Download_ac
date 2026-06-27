@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
+_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-27 03:30:29 (UTC)  
+  **مدت:** حدود 5.2 دقیقه  
+  **عنوان:** [SolidWorks Tutorial  Swept Cut on Non Uniform Cross Section](https://www.youtube.com/watch?v=Odi8QYPOJeo)  
+  ![](https://i.ytimg.com/vi/Odi8QYPOJeo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-26 06:30:14 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
   **مدت:** حدود 5.1 دقیقه  
   **عنوان:** [Top ten Best Laptop for engineers (Laptop for CAD softwares)](https://www.youtube.com/watch?v=GEy2eiTxgPg)  
   ![](https://i.ytimg.com/vi/GEy2eiTxgPg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-14 04:22:12 (UTC)  
-  **مدت:** حدود 40.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Stepper motor in Solidworks](https://www.youtube.com/watch?v=pPndnk_DAh0)  
-  ![](https://i.ytimg.com/vi/pPndnk_DAh0/hqdefault.jpg)

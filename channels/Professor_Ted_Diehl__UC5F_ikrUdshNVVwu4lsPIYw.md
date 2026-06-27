@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-06-26T11:48:21Z_
+_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
+
+
+- **تاریخ انتشار:** 2026-06-27 04:43:27 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Chip without Dale birdseed muncher… just asking for war](https://www.youtube.com/watch?v=hONn9kOpwDM)  
+  ![](https://i.ytimg.com/vi/hONn9kOpwDM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-27 04:36:56 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [And evil says “My hunger must be fed!”  Thus the battle begins](https://www.youtube.com/watch?v=sB9ppOYwmNg)  
+  ![](https://i.ytimg.com/vi/sB9ppOYwmNg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-25 18:23:32 (UTC)  
