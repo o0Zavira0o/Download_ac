@@ -1,4 +1,4 @@
-# Last Run: 2026-06-26 23:12 UTC
+# Last Run: 2026-06-27 06:57 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S. Strikes Iran Over Attack on Hormuz Ship
@@ -104,12 +104,4 @@ Link: https://foreignpolicy.com/2026/06/24/china-dollar-dedollarization-yuan-ren
 [Foreign_Policy] Washington’s Middle East Military Presence Is Uniquely Counterproductive
 Published: 2026-06-24T14:03:44+00:00
 Link: https://foreignpolicy.com/2026/06/24/washington-iran-hormuz-oil-bases-middle-east-restraint-war/
----
-[Foreign_Policy] Russia Makes Inroads in Southeast Asia
-Published: 2026-06-24T05:00:55+00:00
-Link: https://foreignpolicy.com/2026/06/24/russia-asean-kazan-summit-energy-southeast-asia/
----
-[Foreign_Affairs] New Prime Minister, Same Problem
-Published: 2026-06-24T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-kingdom/new-prime-minister-same-problem
 ---
