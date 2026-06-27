@@ -1,4 +1,4 @@
-# Last Run: 2026-06-27 10:14 UTC
+# Last Run: 2026-06-27 14:23 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S. Strikes Iran Over Attack on Hormuz Ship
@@ -100,8 +100,4 @@ Link: https://foreignpolicy.com/2026/06/24/world-cup-soccer-football-immigration
 [Foreign_Policy] China’s De-Dollarization Drive Has Hit a Wall
 Published: 2026-06-24T14:25:14+00:00
 Link: https://foreignpolicy.com/2026/06/24/china-dollar-dedollarization-yuan-renminbi-brics-finance-banks-sanctions/
----
-[Foreign_Policy] Washington’s Middle East Military Presence Is Uniquely Counterproductive
-Published: 2026-06-24T14:03:44+00:00
-Link: https://foreignpolicy.com/2026/06/24/washington-iran-hormuz-oil-bases-middle-east-restraint-war/
 ---
