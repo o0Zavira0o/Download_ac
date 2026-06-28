@@ -1,4 +1,4 @@
-# Last Run: 2026-06-28 10:33 UTC
+# Last Run: 2026-06-28 13:54 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S. Strikes Iran Over Attack on Hormuz Ship
@@ -48,8 +48,4 @@ Link: https://foreignpolicy.com/2026/06/25/russia-ukraine-war-putin-escalation-n
 [Foreign_Policy] Venezuela Reels From Twin Deadly Earthquakes
 Published: 2026-06-25T20:15:32+00:00
 Link: https://foreignpolicy.com/2026/06/25/venezuela-earthquakes-death-toll-delcy-rodriguez-search-rescue-operations/
----
-[Foreign_Policy] The Quest for Nuclear Superiority Makes No Sense
-Published: 2026-06-25T13:43:37+00:00
-Link: https://foreignpolicy.com/2026/06/25/nuclear-arsenal-modernization-weapons-no-sense/
 ---
