@@ -1,4 +1,4 @@
-# Last Run: 2026-06-28 04:00 UTC
+# Last Run: 2026-06-28 07:57 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S. Strikes Iran Over Attack on Hormuz Ship
@@ -52,12 +52,4 @@ Link: https://foreignpolicy.com/2026/06/25/venezuela-earthquakes-death-toll-delc
 [Foreign_Policy] The Quest for Nuclear Superiority Makes No Sense
 Published: 2026-06-25T13:43:37+00:00
 Link: https://foreignpolicy.com/2026/06/25/nuclear-arsenal-modernization-weapons-no-sense/
----
-[Foreign_Policy] This Industrial Revolution Is Not Like the Last One
-Published: 2026-06-25T04:01:08+00:00
-Link: https://foreignpolicy.com/2026/06/25/ai-industrial-revolution-manufacturing-toolkit/
----
-[Foreign_Policy] Why Latin America’s New Right Will Struggle to Govern
-Published: 2026-06-25T04:01:02+00:00
-Link: https://foreignpolicy.com/2026/06/25/latin-america-new-right-colombia/
 ---
