@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
+_آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
+
+
+- **تاریخ انتشار:** 2026-06-27 22:14:27 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Hummingbird 2](https://www.youtube.com/watch?v=f6rP_RaaKFk)  
+  ![](https://i.ytimg.com/vi/f6rP_RaaKFk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-27 04:43:27 (UTC)  

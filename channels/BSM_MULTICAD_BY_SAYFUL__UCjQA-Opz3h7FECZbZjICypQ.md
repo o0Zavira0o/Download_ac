@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
+_آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-06-28 04:12:47 (UTC)  
+  **مدت:** حدود 44.4 دقیقه  
+  **عنوان:** [apni autocad kno sikben](https://www.youtube.com/watch?v=-dVi8EMlwQk)  
+  ![](https://i.ytimg.com/vi/-dVi8EMlwQk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-27 16:51:40 (UTC)  
+  **مدت:** حدود 15.4 دقیقه  
+  **عنوان:** [COMPLETE COURSE AUTOCAD ARCHITECTURE STRUCTURE AS PER SCALE FLOOR PLAN CREATE P 02PAID COURSE SINGAP](https://www.youtube.com/watch?v=QRb4dwxHKLo)  
+  ![](https://i.ytimg.com/vi/QRb4dwxHKLo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-27 00:18:25 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Are you an engineer and Architect then this course is for you Full packageb](https://www.youtube.com/watch?v=9bWlUMuNJ8s)  
   ![](https://i.ytimg.com/vi/9bWlUMuNJ8s/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-16 16:35:36 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Are you an engineer and Architect then this course is for you Full packagea](https://www.youtube.com/watch?v=XoFZGt1Wrlk)  
-  ![](https://i.ytimg.com/vi/XoFZGt1Wrlk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-16 16:34:28 (UTC)  
-  **مدت:** حدود 9.9 دقیقه  
-  **عنوان:** [Are you an engineer and Architect then this course is for you Full package](https://www.youtube.com/watch?v=qBBWOv_oH2c)  
-  ![](https://i.ytimg.com/vi/qBBWOv_oH2c/hqdefault.jpg)

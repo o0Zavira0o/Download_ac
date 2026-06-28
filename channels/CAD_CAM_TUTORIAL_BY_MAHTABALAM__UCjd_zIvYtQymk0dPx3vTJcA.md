@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
+_آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-28 03:30:33 (UTC)  
+  **مدت:** حدود 18.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Valve Body Modeling](https://www.youtube.com/watch?v=PqLdvgCo4UQ)  
+  ![](https://i.ytimg.com/vi/PqLdvgCo4UQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-27 03:30:29 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
   **مدت:** حدود 38.4 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Battleaxe in Solidworks](https://www.youtube.com/watch?v=O1YZxzEat-k)  
   ![](https://i.ytimg.com/vi/O1YZxzEat-k/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-15 00:51:59 (UTC)  
-  **مدت:** حدود 5.1 دقیقه  
-  **عنوان:** [Top ten Best Laptop for engineers (Laptop for CAD softwares)](https://www.youtube.com/watch?v=GEy2eiTxgPg)  
-  ![](https://i.ytimg.com/vi/GEy2eiTxgPg/hqdefault.jpg)

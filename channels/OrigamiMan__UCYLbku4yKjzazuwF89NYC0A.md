@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-06-27T11:01:16Z_
+_آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-06-28 10:00:27 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [31-2 Bloom 🌹 Making a Beautiful Washi Paper Rose 和紙で咲く一輪の薔薇🌹 #shorts](https://www.youtube.com/watch?v=ftbVPk-W8qE)  
+  ![](https://i.ytimg.com/vi/ftbVPk-W8qE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-27 10:00:15 (UTC)  
