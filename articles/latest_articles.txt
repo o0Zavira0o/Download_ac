@@ -1,4 +1,4 @@
-# Last Run: 2026-06-28 19:29 UTC
+# Last Run: 2026-06-28 21:06 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] OnlyFans Creators Bare All
@@ -40,20 +40,4 @@ Link: https://www.foreignaffairs.com/somalia/who-winning-africas-drone-wars
 [Foreign_Policy] The Geopolitics of SpaceX and Elon Musk
 Published: 2026-06-25T22:10:57+00:00
 Link: https://foreignpolicy.com/2026/06/25/spacex-elon-musk-geopolitics-ai-x-quinn-slobodian/
----
-[Foreign_Policy] Restocking the Pentagon
-Published: 2026-06-25T20:34:32+00:00
-Link: https://foreignpolicy.com/2026/06/25/trump-weapons-iran-lockheed-ukraine-nato-rutte/
----
-[Foreign_Policy] Will Kenya’s Ruto Finally Reconcile with the Country’s Somali Minority?
-Published: 2026-06-25T20:34:31+00:00
-Link: https://foreignpolicy.com/2026/06/25/kenya-ruto-election-somali-democracy-nairobi-odinga/
----
-[Foreign_Policy] As the Tide Turns Against Putin, Beware the Drowning Man
-Published: 2026-06-25T20:16:57+00:00
-Link: https://foreignpolicy.com/2026/06/25/russia-ukraine-war-putin-escalation-nato-europe/
----
-[Foreign_Policy] Venezuela Reels From Twin Deadly Earthquakes
-Published: 2026-06-25T20:15:32+00:00
-Link: https://foreignpolicy.com/2026/06/25/venezuela-earthquakes-death-toll-delcy-rodriguez-search-rescue-operations/
 ---
