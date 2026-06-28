@@ -1,4 +1,10 @@
 ================================================================================
+2026-06-28 23:38:00 (Asia/Tehran) | hill0
+Title  : Algorithmen Und Datenstrukturen, 3. Auflage
+Details: Deutsch | 2026 | ISBN: 3110693291 | 603 Pages | EPUB | 36 MB
+Link   : http://zavat.pw/ebooks/3110693291.html
+
+================================================================================
 2026-06-28 22:11:32 (Asia/Tehran) | hill0
 Title  : Adversarial AI Attacks, Mitigations, and Defense Strategies
 Details: English | 2024 | ISBN: 9781835087985 | 586 Pages | PDF EPUB (True) | 43 MB
