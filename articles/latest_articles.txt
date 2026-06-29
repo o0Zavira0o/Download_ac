@@ -1,4 +1,4 @@
-# Last Run: 2026-06-28 23:08 UTC
+# Last Run: 2026-06-29 04:07 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] OnlyFans Creators Bare All
@@ -32,8 +32,4 @@ Link: https://foreignpolicy.com/2026/06/26/colombia-presidential-vote-espriella-
 [Foreign_Policy] The United States Is Now a Guarantor of Last Resort
 Published: 2026-06-26T09:27:21+00:00
 Link: https://foreignpolicy.com/2026/06/26/united-states-middle-east-iran-gulf-uae-saudi-last-resort/
----
-[Foreign_Affairs] Who Is Winning Africa’s Drone Wars?
-Published: 2026-06-26T04:00:00+00:00
-Link: https://www.foreignaffairs.com/somalia/who-winning-africas-drone-wars
 ---
