@@ -1,6 +1,18 @@
-# Last Run: 2026-06-29 11:06 UTC
+# Last Run: 2026-06-29 15:53 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] America’s Sexual Exceptionalism
+Published: 2026-06-29T14:46:39+00:00
+Link: https://foreignpolicy.com/2026/06/29/america-sex-prostitution-police-history/
+---
+[Foreign_Policy] Whales, Cars, Farms, and Parks
+Published: 2026-06-29T14:30:38+00:00
+Link: https://foreignpolicy.com/2026/06/29/climate-america-bison-whales-oil-fertilizer-environment-china/
+---
+[Foreign_Policy] With America in Retreat, Europe Now Depends on Ukraine
+Published: 2026-06-29T14:11:18+00:00
+Link: https://foreignpolicy.com/2026/06/29/europe-nato-war-russia-ukraine-security-defense-trump-alliance-deterrence/
+---
 [Foreign_Policy] Europe Will Never Be an AI Superpower
 Published: 2026-06-29T08:59:19+00:00
 Link: https://foreignpolicy.com/2026/06/29/europe-ai-superpower-eurostack-anthopic-mistral-openai/
@@ -36,8 +48,4 @@ Link: https://foreignpolicy.com/2026/06/26/british-art-yale-east-india-company-c
 [Foreign_Policy] What in the World?
 Published: 2026-06-26T17:29:35+00:00
 Link: https://foreignpolicy.com/2026/06/26/news-quiz-colombia-election-right-wing-starmer-resign-uk-trump-rutte-nato/
----
-[Foreign_Policy] Colombia Swings to the Right
-Published: 2026-06-26T12:00:13+00:00
-Link: https://foreignpolicy.com/2026/06/26/colombia-presidential-vote-espriella-tigre-cepeda-petro-trump/
 ---
