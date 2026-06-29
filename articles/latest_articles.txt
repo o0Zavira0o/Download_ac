@@ -1,6 +1,18 @@
-# Last Run: 2026-06-29 04:07 UTC
+# Last Run: 2026-06-29 11:06 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Europe Will Never Be an AI Superpower
+Published: 2026-06-29T08:59:19+00:00
+Link: https://foreignpolicy.com/2026/06/29/europe-ai-superpower-eurostack-anthopic-mistral-openai/
+---
+[Foreign_Policy] The Cost of America Abandoning the Military Draft
+Published: 2026-06-29T04:01:54+00:00
+Link: https://foreignpolicy.com/2026/06/29/end-military-draft-united-states/
+---
+[Foreign_Affairs] Europe Goes Its Own Way
+Published: 2026-06-29T04:00:00+00:00
+Link: https://www.foreignaffairs.com/europe/europe-goes-its-own-way
+---
 [New_Yorker_Magazine] OnlyFans Creators Bare All
 Published: 2026-06-28T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/07/06/onlyfans-creators-sex-worker-photo-portfolio
@@ -28,8 +40,4 @@ Link: https://foreignpolicy.com/2026/06/26/news-quiz-colombia-election-right-win
 [Foreign_Policy] Colombia Swings to the Right
 Published: 2026-06-26T12:00:13+00:00
 Link: https://foreignpolicy.com/2026/06/26/colombia-presidential-vote-espriella-tigre-cepeda-petro-trump/
----
-[Foreign_Policy] The United States Is Now a Guarantor of Last Resort
-Published: 2026-06-26T09:27:21+00:00
-Link: https://foreignpolicy.com/2026/06/26/united-states-middle-east-iran-gulf-uae-saudi-last-resort/
 ---
