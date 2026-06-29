@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
+_آخرین به‌روزرسانی: 2026-06-29T13:12:44Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-06-29 13:00:17 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [ASMR Bookmark Oliva🫒 Art Journal 다꾸 diy #satisfying #scrapbooking](https://www.youtube.com/watch?v=wpRXSkU8-X4)  
+  ![](https://i.ytimg.com/vi/wpRXSkU8-X4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-28 13:10:38 (UTC)  
+  **مدت:** حدود 1.6 دقیقه  
+  **عنوان:** [June Craft Box🍕 stamp, journal paper 다꾸 asmr CoraCreaCrafts #shorts](https://www.youtube.com/watch?v=eaMDk7qLi4A)  
+  ![](https://i.ytimg.com/vi/eaMDk7qLi4A/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-27 13:35:29 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [journaling asmr #shorts](https://www.youtube.com/watch?v=3HKvDBJbkmA)  
   ![](https://i.ytimg.com/vi/3HKvDBJbkmA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-04-15 12:19:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Creative Journaling 🦌2/2 #journalasmr #journal #asmr #satisfying](https://www.youtube.com/watch?v=Vnhqh1b65us)  
-  ![](https://i.ytimg.com/vi/Vnhqh1b65us/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-04-15 12:18:00 (UTC)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Creative Journaling 🦌1/2 #journalasmr #journal #asmr #creativejournal](https://www.youtube.com/watch?v=-Amw0FjLo50)  
-  ![](https://i.ytimg.com/vi/-Amw0FjLo50/hqdefault.jpg)

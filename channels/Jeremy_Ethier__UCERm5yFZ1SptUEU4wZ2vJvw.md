@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
+_آخرین به‌روزرسانی: 2026-06-29T13:12:44Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/jeremyethier  
+
+
+- **تاریخ انتشار:** 2026-06-28 13:45:31 (UTC)  
+  **مدت:** حدود 10.8 دقیقه  
+  **عنوان:** [Why Your Tendons Never Heal (And How To Fix Them)](https://www.youtube.com/watch?v=GSwL3Lgw6zI)  
+  ![](https://i.ytimg.com/vi/GSwL3Lgw6zI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-14 13:45:08 (UTC)  

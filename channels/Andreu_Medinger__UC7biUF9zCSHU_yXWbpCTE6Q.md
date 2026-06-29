@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
+_آخرین به‌روزرسانی: 2026-06-29T13:12:44Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-06-28 13:08:08 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [PRÉ-AQUECIMENTO DOS AÇOS NA SOLDAGEM - Imagens: @marcio_tornearia #usinagem #soldagem #industria](https://www.youtube.com/watch?v=K_zZh4Ll1QI)  
+  ![](https://i.ytimg.com/vi/K_zZh4Ll1QI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-26 22:30:01 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
   **مدت:** حدود 1.3 دقیقه  
   **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=HBQjCmdz-RQ)  
   ![](https://i.ytimg.com/vi/HBQjCmdz-RQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-01-06 23:37:55 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=GR6zdwSgZy0)  
-  ![](https://i.ytimg.com/vi/GR6zdwSgZy0/hqdefault.jpg)

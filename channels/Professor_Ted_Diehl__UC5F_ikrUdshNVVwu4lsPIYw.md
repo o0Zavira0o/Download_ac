@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
+_آخرین به‌روزرسانی: 2026-06-29T13:12:44Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
+
+
+- **تاریخ انتشار:** 2026-06-28 18:43:38 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Verdin](https://www.youtube.com/watch?v=Ff9R6owcUIk)  
+  ![](https://i.ytimg.com/vi/Ff9R6owcUIk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-28 15:52:41 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Northern Cardinal](https://www.youtube.com/watch?v=fXyjB1yno-E)  
+  ![](https://i.ytimg.com/vi/fXyjB1yno-E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-27 22:14:27 (UTC)  

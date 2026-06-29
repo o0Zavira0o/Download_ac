@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
+_آخرین به‌روزرسانی: 2026-06-29T13:12:44Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-06-29 12:21:46 (UTC)  
+  **مدت:** حدود 8.6 دقیقه  
+  **عنوان:** [Master Exterior Details: Create Columns, Roof Eave & Base Finish - nanoCAD 3D Modeling - Lesson 11](https://www.youtube.com/watch?v=i42DONBCTt8)  
+  ![](https://i.ytimg.com/vi/i42DONBCTt8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-11 06:00:31 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
   **مدت:** حدود 5.4 دقیقه  
   **عنوان:** [Drawing Polylines - Lesson 5](https://www.youtube.com/watch?v=8e_zFpk3EC8)  
   ![](https://i.ytimg.com/vi/8e_zFpk3EC8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2019-11-05 09:48:18 (UTC)  
-  **مدت:** حدود 4.0 دقیقه  
-  **عنوان:** [Drawing Arcs - Lesson 4](https://www.youtube.com/watch?v=xId1MC4h6P0)  
-  ![](https://i.ytimg.com/vi/xId1MC4h6P0/hqdefault.jpg)

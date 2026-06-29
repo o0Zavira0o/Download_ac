@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
+_آخرین به‌روزرسانی: 2026-06-29T13:12:44Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-29 11:55:46 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Was ist das Lustigste, das dir in der letzten Zeit passiert ist? #shorts #humor](https://www.youtube.com/watch?v=LLhAI3AhAig)  
+  ![](https://i.ytimg.com/vi/LLhAI3AhAig/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-28 17:00:26 (UTC)  
+  **مدت:** حدود 14.5 دقیقه  
+  **عنوان:** [We Asked People in Cologne How Much They Earn](https://www.youtube.com/watch?v=ERHUpp091Kw)  
+  ![](https://i.ytimg.com/vi/ERHUpp091Kw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-26 10:03:25 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-28T11:12:39Z_
   **مدت:** حدود 1.4 دقیقه  
   **عنوان:** [German with Turkish subtitles (2) - Introducing yourself in German](https://www.youtube.com/watch?v=KORSS-I4J08)  
   ![](https://i.ytimg.com/vi/KORSS-I4J08/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-09 20:45:48 (UTC)  
-  **مدت:** حدود 1.2 دقیقه  
-  **عنوان:** [German with Turkish subtitles (3) - Describe yourself in German](https://www.youtube.com/watch?v=QZDmFXXJ_Ng)  
-  ![](https://i.ytimg.com/vi/QZDmFXXJ_Ng/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-09 20:44:46 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [German with Turkish subtitles (4) - Asking which languages somebody speaks](https://www.youtube.com/watch?v=yDKvzLyx1Q4)  
-  ![](https://i.ytimg.com/vi/yDKvzLyx1Q4/hqdefault.jpg)
