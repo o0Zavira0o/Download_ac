@@ -1,4 +1,16 @@
 ================================================================================
+2026-06-30 02:04:51 (Asia/Tehran) | hill0
+Title  : Biomolecular Information Processing
+Details: English | 2012 | ISBN: 3527332286 | 412 Pages | EPUB (True) | 15 MB
+Link   : http://zavat.pw/ebooks/3527332286.html
+
+================================================================================
+2026-06-30 02:04:51 (Asia/Tehran) | hill0
+Title  : Building Ambient AI Agents (Early Access)
+Details: English | 2026 | ISBN: 9781807601270 | 78 Pages | EPUB | 18 MB
+Link   : http://zavat.pw/ebooks/9781807601270.html
+
+================================================================================
 2026-06-30 00:49:08 (Asia/Tehran) | hill0
 Title  : Mastering SIMD with Java Vector API
 Details: English | 2026 | ASIN: B0GPBQNTJ5 | 361 Pages | PDF EPUB (True) | 5 MB
