@@ -1,6 +1,10 @@
-# Last Run: 2026-06-29 15:53 UTC
+# Last Run: 2026-06-29 18:18 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Can NATO Pull Off a Dull Summit?
+Published: 2026-06-29T17:22:23+00:00
+Link: https://foreignpolicy.com/2026/06/29/nato-trump-erdogan-ankara-summit-europe-defense-russia/
+---
 [Foreign_Policy] America’s Sexual Exceptionalism
 Published: 2026-06-29T14:46:39+00:00
 Link: https://foreignpolicy.com/2026/06/29/america-sex-prostitution-police-history/
@@ -44,8 +48,4 @@ Link: https://foreignpolicy.com/2026/06/26/iran-hezbollah-united-states-war-isra
 [Foreign_Policy] The Art That Created Colonialism
 Published: 2026-06-26T19:00:51+00:00
 Link: https://foreignpolicy.com/2026/06/26/british-art-yale-east-india-company-colonialism-turner-india/
----
-[Foreign_Policy] What in the World?
-Published: 2026-06-26T17:29:35+00:00
-Link: https://foreignpolicy.com/2026/06/26/news-quiz-colombia-election-right-wing-starmer-resign-uk-trump-rutte-nato/
 ---
