@@ -1,6 +1,14 @@
-# Last Run: 2026-06-29 18:18 UTC
+# Last Run: 2026-06-29 21:32 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Supreme Court Pushes Back on Trump’s Fed Assault
+Published: 2026-06-29T19:53:13+00:00
+Link: https://foreignpolicy.com/2026/06/29/trump-united-states-supreme-court-federal-reserve-lisa-cook/
+---
+[Foreign_Policy] Farmers Worldwide Brace for El Niño
+Published: 2026-06-29T19:00:37+00:00
+Link: https://foreignpolicy.com/2026/06/29/el-nino-agriculture-farmers-food-production-security/
+---
 [Foreign_Policy] Can NATO Pull Off a Dull Summit?
 Published: 2026-06-29T17:22:23+00:00
 Link: https://foreignpolicy.com/2026/06/29/nato-trump-erdogan-ankara-summit-europe-defense-russia/
@@ -40,12 +48,4 @@ Link: https://www.newyorker.com/magazine/2026/07/06/pig-lab-fiction-will-mackin
 [Foreign_Policy] U.S. Strikes Iran Over Attack on Hormuz Ship
 Published: 2026-06-26T21:35:17+00:00
 Link: https://foreignpolicy.com/2026/06/26/us-strikes-iran-cease-fire-violation-hormuz-ever-lovely-mou-trump/
----
-[Foreign_Policy] Is Hezbollah Now More an Obligation Than an Asset to Tehran?
-Published: 2026-06-26T19:20:07+00:00
-Link: https://foreignpolicy.com/2026/06/26/iran-hezbollah-united-states-war-israel-lebanon-proxies/
----
-[Foreign_Policy] The Art That Created Colonialism
-Published: 2026-06-26T19:00:51+00:00
-Link: https://foreignpolicy.com/2026/06/26/british-art-yale-east-india-company-colonialism-turner-india/
 ---
