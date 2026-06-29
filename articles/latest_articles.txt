@@ -1,4 +1,4 @@
-# Last Run: 2026-06-29 21:32 UTC
+# Last Run: 2026-06-29 23:03 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Supreme Court Pushes Back on Trump’s Fed Assault
@@ -44,8 +44,4 @@ Link: https://www.newyorker.com/magazine/2026/07/06/onlyfans-creators-sex-worker
 [New_Yorker_Magazine] “Pig Lab,” by Will Mackin
 Published: 2026-06-28T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/07/06/pig-lab-fiction-will-mackin
----
-[Foreign_Policy] U.S. Strikes Iran Over Attack on Hormuz Ship
-Published: 2026-06-26T21:35:17+00:00
-Link: https://foreignpolicy.com/2026/06/26/us-strikes-iran-cease-fire-violation-hormuz-ever-lovely-mou-trump/
 ---
