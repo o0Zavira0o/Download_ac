@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Orion Jacobson 
 
-_آخرین به‌روزرسانی: 2026-06-29T13:12:44Z_
+_آخرین به‌روزرسانی: 2026-06-30T11:48:40Z_
 
 
 **لینک استاندارد کانال:** [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)  
+
+
+- **تاریخ انتشار:** 2026-06-29 17:58:11 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [obviously ice is even worse #broken #system](https://www.youtube.com/watch?v=9g_xCXiaZVo)  
+  ![](https://i.ytimg.com/vi/9g_xCXiaZVo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-26 11:52:22 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-06-29T13:12:44Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [what goes down must come back up #keef #geeb](https://www.youtube.com/watch?v=sh9HiGcuSmE)  
   ![](https://i.ytimg.com/vi/sh9HiGcuSmE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-04-01 02:17:47 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [immaculate vibes boys #geeb](https://www.youtube.com/watch?v=dqZ-nPUDzLs)  
-  ![](https://i.ytimg.com/vi/dqZ-nPUDzLs/hqdefault.jpg)

@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-29T13:12:44Z_
+_آخرین به‌روزرسانی: 2026-06-30T11:48:40Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -14,7 +14,7 @@ _آخرین به‌روزرسانی: 2026-06-29T13:12:44Z_
 
 - **تاریخ انتشار:** 2026-06-28 17:00:26 (UTC)  
   **مدت:** حدود 14.5 دقیقه  
-  **عنوان:** [We Asked People in Cologne How Much They Earn](https://www.youtube.com/watch?v=ERHUpp091Kw)  
+  **عنوان:** [Can You Live Well on This Salary in Germany?](https://www.youtube.com/watch?v=ERHUpp091Kw)  
   ![](https://i.ytimg.com/vi/ERHUpp091Kw/hqdefault.jpg)
 
 

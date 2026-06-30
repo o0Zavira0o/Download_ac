@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-06-29T13:12:44Z_
+_آخرین به‌روزرسانی: 2026-06-30T11:48:40Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-06-29 14:09:24 (UTC)  
+  **مدت:** حدود 26.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial-Mercedes Alloy Wheel Modeling](https://www.youtube.com/watch?v=xlUeYynx7cg)  
+  ![](https://i.ytimg.com/vi/xlUeYynx7cg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-28 03:30:33 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-06-29T13:12:44Z_
   **مدت:** حدود 31.2 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Door Knob in Solidworks](https://www.youtube.com/watch?v=FIxz81ll7_I)  
   ![](https://i.ytimg.com/vi/FIxz81ll7_I/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-15 23:16:27 (UTC)  
-  **مدت:** حدود 38.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Battleaxe in Solidworks](https://www.youtube.com/watch?v=O1YZxzEat-k)  
-  ![](https://i.ytimg.com/vi/O1YZxzEat-k/hqdefault.jpg)
