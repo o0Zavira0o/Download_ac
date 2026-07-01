@@ -1,6 +1,18 @@
-# Last Run: 2026-07-01 16:32 UTC
+# Last Run: 2026-07-01 20:02 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trans-Atlanticism Isn’t Dead—It’s Being Renegotiated
+Published: 2026-07-01T18:50:18+00:00
+Link: https://foreignpolicy.com/2026/07/01/nato-summit-transatlantic-alliance-dead-alive-trump-russia-defense-geopolitics/
+---
+[Foreign_Policy] Is Meloni Done With Trump?
+Published: 2026-07-01T18:23:06+00:00
+Link: https://foreignpolicy.com/2026/07/01/meloni-trump-photo-italy-us-europe-far-right/
+---
+[Foreign_Policy] Is Cuba Really Next?
+Published: 2026-07-01T17:40:59+00:00
+Link: https://foreignpolicy.com/2026/07/01/michael-bustamante-cuba-trump-venezuela-rubio-regime-change-blockade/
+---
 [Foreign_Policy] How to Spin an Empire
 Published: 2026-07-01T13:57:36+00:00
 Link: https://foreignpolicy.com/2026/07/01/trump-cuba-imperialism-history-empire-cold-war-books/
@@ -104,6 +116,78 @@ Link: https://foreignpolicy.com/2026/06/29/climate-america-bison-whales-oil-fert
 [Foreign_Policy] With America in Retreat, Europe Now Depends on Ukraine
 Published: 2026-06-29T14:11:18+00:00
 Link: https://foreignpolicy.com/2026/06/29/europe-nato-war-russia-ukraine-security-defense-trump-alliance-deterrence/
+---
+[New_Yorker_Magazine] My Great Meeting with God
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/my-great-meeting-with-god
+---
+[New_Yorker_Magazine] The Fibre Fad Keeps On Moving
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/the-fibre-fad-keeps-on-moving
+---
+[New_Yorker_Magazine] Herding the Fro-Yo Sheep
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/herding-the-fro-yo-sheep
+---
+[New_Yorker_Magazine] What Happened to Your Face?
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/the-human-face-a-cultural-history-fay-bound-albert-book-review
+---
+[New_Yorker_Magazine] Sublime Fury at the Ojai Festival
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/esa-pekka-salonen-music-review
+---
+[New_Yorker_Magazine] At Pacha New York, an Infamous Night Club Is Reborn
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/at-pacha-new-york-an-infamous-night-club-is-reborn
+---
+[New_Yorker_Magazine] Are Humanoid Robots Ready to Be Deployed?
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/are-humanoid-robots-ready-to-be-deployed
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/the-infinity-machine-if-this-be-magic-while-we-were-waiting-coyoteland
+---
+[New_Yorker_Magazine] “Costume Art,” at the Met Museum’s Costume Institute, Makes a Case for Fashion
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/the-mets-costume-art-makes-a-case-for-fashion
+---
+[New_Yorker_Magazine] “requiem for a barber,” by Jan Wagner
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/requiem-for-a-barber-jan-wagner-poem
+---
+[New_Yorker_Magazine] “Campbell’s Tomato Soup,” by Campbell McGrath
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/campbells-tomato-soup-campbell-mcgrath-poem
+---
+[New_Yorker_Magazine] The Tick That Hunts Down Its Hosts—Including Us
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/the-tick-that-hunts-down-its-hosts-including-us
+---
+[New_Yorker_Magazine] Bruce Nauman Isn’t Bound by the Rules
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/bruce-nauman-isnt-bound-by-the-rules
+---
+[New_Yorker_Magazine] The Natural Memory of Kabir Sehgal
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/the-natural-memory-of-kabir-sehgal
+---
+[New_Yorker_Magazine] Postscript: Mark Singer
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/postscript-mark-singer
+---
+[New_Yorker_Magazine] Did a Climber Leave His Girlfriend to Die at the Top of a Mountain?
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/did-a-climber-leave-his-girlfriend-to-die-at-the-top-of-a-mountain
+---
+[New_Yorker_Magazine] The Billionaires’ Vagina Club
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/the-billionaires-vagina-club
+---
+[New_Yorker_Magazine] Something Is Very Wrong with Modern Longevity Science
+Published: 2026-06-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-book-review-eat-your-ice-cream-ezekiel-j-emanuel
 ---
 [Foreign_Policy] Europe Will Never Be an AI Superpower
 Published: 2026-06-29T08:59:19+00:00
