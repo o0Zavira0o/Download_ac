@@ -1,6 +1,18 @@
-# Last Run: 2026-07-01 08:24 UTC
+# Last Run: 2026-07-01 12:41 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] India Should Stop Panicking About Trump
+Published: 2026-07-01T09:26:05+00:00
+Link: https://foreignpolicy.com/2026/07/01/india-trump-modi-united-states-china-geopolitics-brics-quad/
+---
+[Foreign_Policy] Trump’s Trans-Atlantic Tech Schism
+Published: 2026-07-01T09:00:02+00:00
+Link: https://foreignpolicy.com/2026/07/01/trump-europe-tech-sovereignty-digital-ai-viola-helberg-pax-silica/
+---
+[Foreign_Policy] The Middle East Has a New Saudi-Led Axis
+Published: 2026-07-01T08:52:16+00:00
+Link: https://foreignpolicy.com/2026/07/01/saudi-qatar-pakistan-turkey-egypt-uae-axis-alliance-iran-middle-east/
+---
 [Foreign_Policy] Blackouts Are Prabowo’s Latest Problem
 Published: 2026-07-01T05:00:02+00:00
 Link: https://foreignpolicy.com/2026/07/01/indonesia-blackouts-prabowo-coal/
@@ -96,12 +108,4 @@ Link: https://foreignpolicy.com/2026/06/29/end-military-draft-united-states/
 [Foreign_Affairs] Europe Goes Its Own Way
 Published: 2026-06-29T04:00:00+00:00
 Link: https://www.foreignaffairs.com/europe/europe-goes-its-own-way
----
-[New_Yorker_Magazine] OnlyFans Creators Bare All
-Published: 2026-06-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/06/onlyfans-creators-sex-worker-photo-portfolio
----
-[New_Yorker_Magazine] “Pig Lab,” by Will Mackin
-Published: 2026-06-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/06/pig-lab-fiction-will-mackin
 ---
