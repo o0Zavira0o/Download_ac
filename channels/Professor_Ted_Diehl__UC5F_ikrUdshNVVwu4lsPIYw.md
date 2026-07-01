@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-06-30T11:48:40Z_
+_آخرین به‌روزرسانی: 2026-07-01T12:13:31Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
@@ -8,9 +8,21 @@ _آخرین به‌روزرسانی: 2026-06-30T11:48:40Z_
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
 
 
+- **تاریخ انتشار:** 2026-06-30 17:42:14 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Northern Cardinal (better crest than previous)](https://www.youtube.com/watch?v=yzwJ3wn_AeI)  
+  ![](https://i.ytimg.com/vi/yzwJ3wn_AeI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-06-30 13:54:32 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Hairy Woodpecker (AI identified it as a Downy Woodpecker)](https://www.youtube.com/watch?v=lxJbqtHtm3g)  
+  ![](https://i.ytimg.com/vi/lxJbqtHtm3g/hqdefault.jpg)
+
+
 - **تاریخ انتشار:** 2026-06-28 18:43:38 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Verdin](https://www.youtube.com/watch?v=Ff9R6owcUIk)  
+  **عنوان:** [Tufted Titmouse (Probably not a Verdin as identified by AI)](https://www.youtube.com/watch?v=Ff9R6owcUIk)  
   ![](https://i.ytimg.com/vi/Ff9R6owcUIk/hqdefault.jpg)
 
 
@@ -46,13 +58,13 @@ _آخرین به‌روزرسانی: 2026-06-30T11:48:40Z_
 
 - **تاریخ انتشار:** 2026-06-25 16:02:26 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [American Bushtit](https://www.youtube.com/watch?v=hyq2O2o1evc)  
+  **عنوان:** [Tufted Titmouse (AI birdfeeder says it's the American Bushtit)](https://www.youtube.com/watch?v=hyq2O2o1evc)  
   ![](https://i.ytimg.com/vi/hyq2O2o1evc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-24 18:28:29 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Tufted Titmouse](https://www.youtube.com/watch?v=NCWIFW5xDWs)  
+  **عنوان:** [Tufted Titmouse?  Maybe has hair slicked back.](https://www.youtube.com/watch?v=NCWIFW5xDWs)  
   ![](https://i.ytimg.com/vi/NCWIFW5xDWs/hqdefault.jpg)
 
 
@@ -64,7 +76,7 @@ _آخرین به‌روزرسانی: 2026-06-30T11:48:40Z_
 
 - **تاریخ انتشار:** 2026-06-22 22:31:23 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Carolina Wren (maybe)](https://www.youtube.com/watch?v=xHSE36ZVIcQ)  
+  **عنوان:** [Carolina Wren](https://www.youtube.com/watch?v=xHSE36ZVIcQ)  
   ![](https://i.ytimg.com/vi/xHSE36ZVIcQ/hqdefault.jpg)
 
 

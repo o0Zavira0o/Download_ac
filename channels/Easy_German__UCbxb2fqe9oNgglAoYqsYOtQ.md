@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-06-30T11:48:40Z_
+_آخرین به‌روزرسانی: 2026-07-01T12:13:31Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-06-30 12:59:49 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Mach mit beim Easy German Book Club für Anfänger! #easygerman #lesen #deutschlernen](https://www.youtube.com/watch?v=bos5NIhaMfI)  
+  ![](https://i.ytimg.com/vi/bos5NIhaMfI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-29 11:55:46 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-06-30T11:48:40Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [German with Turkish subtitles (1) - Greeting somebody in German](https://www.youtube.com/watch?v=Ba-JMXneiuE)  
   ![](https://i.ytimg.com/vi/Ba-JMXneiuE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-09 20:46:48 (UTC)  
-  **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [German with Turkish subtitles (2) - Introducing yourself in German](https://www.youtube.com/watch?v=KORSS-I4J08)  
-  ![](https://i.ytimg.com/vi/KORSS-I4J08/hqdefault.jpg)
