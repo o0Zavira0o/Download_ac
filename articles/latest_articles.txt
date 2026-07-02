@@ -1,6 +1,26 @@
-# Last Run: 2026-07-02 19:30 UTC
+# Last Run: 2026-07-02 23:16 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Angsty in Ankara
+Published: 2026-07-02T22:03:52+00:00
+Link: https://foreignpolicy.com/2026/07/02/nato-summit-ankara-trump-rutte-erdogan-ukraine-iran/
+---
+[Foreign_Policy] Is Sports Diplomacy Still Possible?
+Published: 2026-07-02T21:31:30+00:00
+Link: https://foreignpolicy.com/2026/07/02/sports-diplomacy-politics-world-cup-sportswashing-immigration-war/
+---
+[Foreign_Policy] Russia’s 11-Hour Assault on Kyiv
+Published: 2026-07-02T20:49:19+00:00
+Link: https://foreignpolicy.com/2026/07/02/russia-ukraine-missiles-drones-kyiv-oil-energy-critical-infrastructure-strikes/
+---
+[Foreign_Policy] Gen Z Goes to Hollywood
+Published: 2026-07-02T19:00:53+00:00
+Link: https://foreignpolicy.com/2026/07/02/obsession-backrooms-amazing-digital-circus-movie-review-gen-z-hollywood/
+---
+[Foreign_Policy] A Short Economic History of the United States
+Published: 2026-07-02T17:23:28+00:00
+Link: https://foreignpolicy.com/2026/07/02/united-states-economy-slavery-empire-immigration-socialism/
+---
 [Foreign_Policy] America, the Once Global Nation
 Published: 2026-07-02T16:30:58+00:00
 Link: https://foreignpolicy.com/2026/07/02/america-the-once-global-nation/
@@ -136,12 +156,4 @@ Link: https://foreignpolicy.com/2026/06/30/libya-family-rule-saddam-haftar-rubio
 [Foreign_Affairs] Extreme Weather Will Upend U.S.-China Competition
 Published: 2026-06-30T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/extreme-weather-will-upend-us-china-competition
----
-[Foreign_Policy] U.S., Iran Prepare for Talks on Strait of Hormuz
-Published: 2026-06-29T21:20:00+00:00
-Link: https://foreignpolicy.com/2026/06/29/us-iran-talks-qatar-strait-hormuz-attacks-oman/
----
-[Foreign_Policy] The Supreme Court Pushes Back on Trump’s Fed Assault
-Published: 2026-06-29T19:53:13+00:00
-Link: https://foreignpolicy.com/2026/06/29/trump-united-states-supreme-court-federal-reserve-lisa-cook/
 ---
