@@ -1,6 +1,14 @@
-# Last Run: 2026-07-02 03:45 UTC
+# Last Run: 2026-07-02 07:38 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The End of Hamas
+Published: 2026-07-02T04:00:02+00:00
+Link: https://www.foreignaffairs.com/palestinian-territories/end-hamas
+---
+[Foreign_Affairs] Why Trump’s Congo Deal Is Falling Apart
+Published: 2026-07-02T04:00:00+00:00
+Link: https://www.foreignaffairs.com/democratic-republic-congo/why-trumps-congo-deal-falling-apart
+---
 [Foreign_Policy] The Political Aftershocks of Venezuela’s Earthquakes
 Published: 2026-07-01T21:32:23+00:00
 Link: https://foreignpolicy.com/2026/07/01/venezuela-earthquakes-us-politics-rodriguez-maduro-machado/
@@ -208,12 +216,4 @@ Link: https://www.newyorker.com/magazine/2026/07/06/morbid-saul-justin-newman-bo
 [Foreign_Policy] Europe Will Never Be an AI Superpower
 Published: 2026-06-29T08:59:19+00:00
 Link: https://foreignpolicy.com/2026/06/29/europe-ai-superpower-eurostack-anthopic-mistral-openai/
----
-[Foreign_Policy] The Cost of America Abandoning the Military Draft
-Published: 2026-06-29T04:01:54+00:00
-Link: https://foreignpolicy.com/2026/06/29/end-military-draft-united-states/
----
-[Foreign_Affairs] Europe Goes Its Own Way
-Published: 2026-06-29T04:00:00+00:00
-Link: https://www.foreignaffairs.com/europe/europe-goes-its-own-way
 ---
