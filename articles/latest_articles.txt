@@ -1,6 +1,22 @@
-# Last Run: 2026-07-02 14:07 UTC
+# Last Run: 2026-07-02 17:54 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] America, the Once Global Nation
+Published: 2026-07-02T16:30:58+00:00
+Link: https://foreignpolicy.com/2026/07/02/america-the-once-global-nation/
+---
+[Foreign_Policy] The MOU Is Paying Off Early for Iran
+Published: 2026-07-02T15:56:26+00:00
+Link: https://foreignpolicy.com/2026/07/02/mou-iran-us-talks-doha-strait-hormuz-oil-sanctions-profits-exports/
+---
+[Foreign_Policy] The U.S. at 250: Terminally Ill or Just Very Sick?
+Published: 2026-07-02T14:35:02+00:00
+Link: https://foreignpolicy.com/2026/07/02/united-states-250-independence-day-democracy-president/
+---
+[Foreign_Policy] Between Independence and Freedom
+Published: 2026-07-02T14:25:44+00:00
+Link: https://foreignpolicy.com/2026/07/02/america-250-declaration-independence-foreign-policy/
+---
 [Foreign_Policy] The Hypocrisy That Shields Erdogan From Global Criticism
 Published: 2026-07-02T11:00:53+00:00
 Link: https://foreignpolicy.com/2026/07/02/turkey-erdogan-trump-human-rights-kavala-imamoglu/
@@ -132,20 +148,4 @@ Link: https://foreignpolicy.com/2026/06/29/trump-united-states-supreme-court-fed
 [Foreign_Policy] Farmers Worldwide Brace for El Niño
 Published: 2026-06-29T19:00:37+00:00
 Link: https://foreignpolicy.com/2026/06/29/el-nino-agriculture-farmers-food-production-security/
----
-[Foreign_Policy] Can NATO Pull Off a Dull Summit?
-Published: 2026-06-29T17:22:23+00:00
-Link: https://foreignpolicy.com/2026/06/29/nato-trump-erdogan-ankara-summit-europe-defense-russia/
----
-[Foreign_Policy] America’s Sexual Exceptionalism
-Published: 2026-06-29T14:46:39+00:00
-Link: https://foreignpolicy.com/2026/06/29/america-sex-prostitution-police-history/
----
-[Foreign_Policy] Whales, Cars, Farms, and Parks
-Published: 2026-06-29T14:30:38+00:00
-Link: https://foreignpolicy.com/2026/06/29/climate-america-bison-whales-oil-fertilizer-environment-china/
----
-[Foreign_Policy] With America in Retreat, Europe Now Depends on Ukraine
-Published: 2026-06-29T14:11:18+00:00
-Link: https://foreignpolicy.com/2026/06/29/europe-nato-war-russia-ukraine-security-defense-trump-alliance-deterrence/
 ---
