@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm CNC
 
-_آخرین به‌روزرسانی: 2026-07-01T12:13:31Z_
+_آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-07-02 10:37:08 (UTC)  
+  **مدت:** حدود 3.1 دقیقه  
+  **عنوان:** [Vẽ muỗng Solidworks pro](https://www.youtube.com/watch?v=hUH3ia7rztc)  
+  ![](https://i.ytimg.com/vi/hUH3ia7rztc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-27 02:17:42 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-01T12:13:31Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Trải tôn kim loại tấm khuôn dập Solidworks](https://www.youtube.com/watch?v=6BqTutg2WeU)  
   ![](https://i.ytimg.com/vi/6BqTutg2WeU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-06 23:14:21 (UTC)  
-  **مدت:** حدود 33.4 دقیقه  
-  **عنوان:** [Phay mastercam nâng cao](https://www.youtube.com/watch?v=1Synm1z9dI4)  
-  ![](https://i.ytimg.com/vi/1Synm1z9dI4/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-01T12:13:31Z_
+_آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-01 15:29:45 (UTC)  
+  **مدت:** حدود 13.9 دقیقه  
+  **عنوان:** [SolidWorks Surface Exercise-Hair Dryer Body Part modeling](https://www.youtube.com/watch?v=TQryOcApheE)  
+  ![](https://i.ytimg.com/vi/TQryOcApheE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-29 14:09:24 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-01T12:13:31Z_
   **مدت:** حدود 16.0 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Spring with Swivel hook in solidworks](https://www.youtube.com/watch?v=70EB0Wf0WbM)  
   ![](https://i.ytimg.com/vi/70EB0Wf0WbM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-17 08:22:17 (UTC)  
-  **مدت:** حدود 31.2 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Door Knob in Solidworks](https://www.youtube.com/watch?v=FIxz81ll7_I)  
-  ![](https://i.ytimg.com/vi/FIxz81ll7_I/hqdefault.jpg)

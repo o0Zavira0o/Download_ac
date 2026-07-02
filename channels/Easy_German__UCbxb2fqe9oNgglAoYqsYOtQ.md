@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-01T12:13:31Z_
+_آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-02 08:30:15 (UTC)  
+  **مدت:** حدود 1.6 دقیقه  
+  **عنوان:** [Per Einschreiben verschicken #shorts #easygerman #post](https://www.youtube.com/watch?v=XfPtqBSD3Sk)  
+  ![](https://i.ytimg.com/vi/XfPtqBSD3Sk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-01 17:00:16 (UTC)  
+  **مدت:** حدود 18.7 دقیقه  
+  **عنوان:** [Our Backpacks in Slow German](https://www.youtube.com/watch?v=aC5IIC5y7UQ)  
+  ![](https://i.ytimg.com/vi/aC5IIC5y7UQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-30 12:59:49 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-01T12:13:31Z_
   **مدت:** حدود 7.5 دقیقه  
   **عنوان:** [What Germans say about Donald Trump | Easy German 143](https://www.youtube.com/watch?v=eQkmPYnNbqw)  
   ![](https://i.ytimg.com/vi/eQkmPYnNbqw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-11 14:42:06 (UTC)  
-  **مدت:** حدود 6.1 دقیقه  
-  **عنوان:** [Fake it till you make it - German for beginners (1)](https://www.youtube.com/watch?v=bebsWrknvPI)  
-  ![](https://i.ytimg.com/vi/bebsWrknvPI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-09 20:47:35 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [German with Turkish subtitles (1) - Greeting somebody in German](https://www.youtube.com/watch?v=Ba-JMXneiuE)  
-  ![](https://i.ytimg.com/vi/Ba-JMXneiuE/hqdefault.jpg)
