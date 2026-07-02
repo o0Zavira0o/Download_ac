@@ -1,4 +1,4 @@
-# Last Run: 2026-07-02 17:54 UTC
+# Last Run: 2026-07-02 19:30 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] America, the Once Global Nation
@@ -144,8 +144,4 @@ Link: https://foreignpolicy.com/2026/06/29/us-iran-talks-qatar-strait-hormuz-att
 [Foreign_Policy] The Supreme Court Pushes Back on Trump’s Fed Assault
 Published: 2026-06-29T19:53:13+00:00
 Link: https://foreignpolicy.com/2026/06/29/trump-united-states-supreme-court-federal-reserve-lisa-cook/
----
-[Foreign_Policy] Farmers Worldwide Brace for El Niño
-Published: 2026-06-29T19:00:37+00:00
-Link: https://foreignpolicy.com/2026/06/29/el-nino-agriculture-farmers-food-production-security/
 ---
