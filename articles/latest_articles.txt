@@ -1,4 +1,4 @@
-# Last Run: 2026-07-03 19:29 UTC
+# Last Run: 2026-07-03 21:14 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -128,12 +128,4 @@ Link: https://www.foreignaffairs.com/china/worse-axis
 [Foreign_Policy] Anti-Immigrant Marches Held Across South Africa
 Published: 2026-06-30T21:38:53+00:00
 Link: https://foreignpolicy.com/2026/06/30/south-africa-anti-immigrant-rallies-self-deport-ramaphosa-xenophobia/
----
-[Foreign_Policy] Small-Plane Crash Tests China’s Security State
-Published: 2026-06-30T21:12:50+00:00
-Link: https://foreignpolicy.com/2026/06/30/china-plane-crash-beijing-citic-tower-security/
----
-[Foreign_Policy] Washington’s Cuba Policy Is Self-Sabotage
-Published: 2026-06-30T20:37:22+00:00
-Link: https://foreignpolicy.com/2026/06/30/cuba-us-blockade-sanctions-trump-humanitarian-crisis/
 ---
