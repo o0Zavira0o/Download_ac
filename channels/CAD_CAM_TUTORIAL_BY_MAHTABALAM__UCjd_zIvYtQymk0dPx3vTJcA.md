@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
+_آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-03 03:30:20 (UTC)  
+  **مدت:** حدود 88.9 دقیقه  
+  **عنوان:** [Hair Dryer-SolidWorks Advanced Surface Exercise](https://www.youtube.com/watch?v=3lE-mAtXV8M)  
+  ![](https://i.ytimg.com/vi/3lE-mAtXV8M/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-01 15:29:45 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
   **مدت:** حدود 31.4 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Flail Weapon in Solidworks](https://www.youtube.com/watch?v=3Z-0FIcAtbY)  
   ![](https://i.ytimg.com/vi/3Z-0FIcAtbY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-18 03:00:35 (UTC)  
-  **مدت:** حدود 16.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Spring with Swivel hook in solidworks](https://www.youtube.com/watch?v=70EB0Wf0WbM)  
-  ![](https://i.ytimg.com/vi/70EB0Wf0WbM/hqdefault.jpg)

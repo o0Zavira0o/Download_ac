@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
+_آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -256,7 +256,7 @@ _آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
 
 - **تاریخ انتشار:** 2025-02-09 13:30:05 (UTC)  
   **مدت:** حدود 17.1 دقیقه  
-  **عنوان:** [I Replaced My Fat Loss Diet With McDonald's For 30 Days](https://www.youtube.com/watch?v=95I4Nm4m2-o)  
+  **عنوان:** [Fit Person ONLY Eats McDonalds For 30 Days](https://www.youtube.com/watch?v=95I4Nm4m2-o)  
   ![](https://i.ytimg.com/vi/95I4Nm4m2-o/hqdefault.jpg)
 
 

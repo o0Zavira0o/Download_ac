@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
+_آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-03 11:38:41 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Ist die Welt objektiv oder konstruieren wir sie im Bewusstsein? #shorts #philosophie](https://www.youtube.com/watch?v=IxiCmZgABpI)  
+  ![](https://i.ytimg.com/vi/IxiCmZgABpI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-02 08:30:15 (UTC)  
@@ -14,7 +20,7 @@ _آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
 
 - **تاریخ انتشار:** 2026-07-01 17:00:16 (UTC)  
   **مدت:** حدود 18.7 دقیقه  
-  **عنوان:** [Our Backpacks in Slow German](https://www.youtube.com/watch?v=aC5IIC5y7UQ)  
+  **عنوان:** [What’s in Our Backpacks? (Slow German Conversation)](https://www.youtube.com/watch?v=aC5IIC5y7UQ)  
   ![](https://i.ytimg.com/vi/aC5IIC5y7UQ/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
   **مدت:** حدود 7.5 دقیقه  
   **عنوان:** [Who was your favourite teacher? | Easy German 144](https://www.youtube.com/watch?v=8eDCVCDANSw)  
   ![](https://i.ytimg.com/vi/8eDCVCDANSw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-15 18:01:33 (UTC)  
-  **مدت:** حدود 7.5 دقیقه  
-  **عنوان:** [What Germans say about Donald Trump | Easy German 143](https://www.youtube.com/watch?v=eQkmPYnNbqw)  
-  ![](https://i.ytimg.com/vi/eQkmPYnNbqw/hqdefault.jpg)

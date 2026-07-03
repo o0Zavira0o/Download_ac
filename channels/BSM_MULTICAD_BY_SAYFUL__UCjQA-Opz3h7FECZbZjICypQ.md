@@ -1,9 +1,39 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
+_آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-03 10:15:14 (UTC)  
+  **مدت:** حدود 53.9 دقیقه  
+  **عنوان:** [SketchUp Basic to Advanced Full Course 2026 Complete Bangla Tutorial EP 06](https://www.youtube.com/watch?v=FlVHQUOSkw4)  
+  ![](https://i.ytimg.com/vi/FlVHQUOSkw4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-03 09:37:52 (UTC)  
+  **مدت:** حدود 6.2 دقیقه  
+  **عنوان:** [“Complete Design & Estimation Review Class  AutoCAD + SketchUp + Exterior & Interior Bangla”](https://www.youtube.com/watch?v=MdUwlpeh3Sc)  
+  ![](https://i.ytimg.com/vi/MdUwlpeh3Sc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-03 08:28:25 (UTC)  
+  **مدت:** حدود 68.1 دقیقه  
+  **عنوان:** [BSM CAD AutoCAD Course – Class 01  User Interface, Line & Dimension Basics](https://www.youtube.com/watch?v=PBYycIdoGLA)  
+  ![](https://i.ytimg.com/vi/PBYycIdoGLA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-03 06:08:30 (UTC)  
+  **مدت:** حدود 84.1 دقیقه  
+  **عنوان:** [SketchUp Tutorial for Beginners   Step by Step Bangla Guide](https://www.youtube.com/watch?v=3vrlJav5Y5s)  
+  ![](https://i.ytimg.com/vi/3vrlJav5Y5s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-03 05:27:19 (UTC)  
+  **مدت:** حدود 4.9 دقیقه  
+  **عنوان:** [V-Ray 7.10 for SketchUp Full Installation Tutorial বাংলা | Easy Step-by-Step Guide (2026)](https://www.youtube.com/watch?v=IZBcW1jfWfw)  
+  ![](https://i.ytimg.com/vi/IZBcW1jfWfw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-28 04:12:47 (UTC)  
@@ -874,33 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Are you an engineer and Architect then this course is for you Full packageh #sketchup](https://www.youtube.com/watch?v=Xld-reguprk)  
   ![](https://i.ytimg.com/vi/Xld-reguprk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-16 16:52:48 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Are you an engineer and Architect then this course is for you Full packagef #sketchup](https://www.youtube.com/watch?v=DGdQ4_cqLig)  
-  ![](https://i.ytimg.com/vi/DGdQ4_cqLig/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-16 16:52:18 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Are you an engineer and Architect then this course is for you Full packagee #sketchup #autocadcivil](https://www.youtube.com/watch?v=pHCAcTpNMRc)  
-  ![](https://i.ytimg.com/vi/pHCAcTpNMRc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-16 16:38:47 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Are you an engineer and Architect then this course is for you Full packaged](https://www.youtube.com/watch?v=8Pp4A-Qiukk)  
-  ![](https://i.ytimg.com/vi/8Pp4A-Qiukk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-16 16:38:41 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Are you an engineer and Architect then this course is for you Full packagec](https://www.youtube.com/watch?v=Qru8Tq4tTko)  
-  ![](https://i.ytimg.com/vi/Qru8Tq4tTko/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-16 16:38:32 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Are you an engineer and Architect then this course is for you Full packageb](https://www.youtube.com/watch?v=9bWlUMuNJ8s)  
-  ![](https://i.ytimg.com/vi/9bWlUMuNJ8s/hqdefault.jpg)

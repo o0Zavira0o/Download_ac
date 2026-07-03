@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
+_آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-07-03 11:00:12 (UTC)  
+  **مدت:** حدود 17.1 دقیقه  
+  **عنوان:** [【onshape】基礎零件：支架｜基準面(平面)+分割](https://www.youtube.com/watch?v=JFnLjkG-1bI)  
+  ![](https://i.ytimg.com/vi/JFnLjkG-1bI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-01 11:00:06 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-02T11:39:55Z_
   **مدت:** حدود 9.9 دقیقه  
   **عنوان:** [【solidworks】特殊特徵：彎曲+扭轉｜還在煩惱怎麼畫嗎?｜先變簡單再改變](https://www.youtube.com/watch?v=FMsdb2mTj-A)  
   ![](https://i.ytimg.com/vi/FMsdb2mTj-A/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-04-26 11:01:11 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [短片看建模：Onshape分區建模](https://www.youtube.com/watch?v=kZT3xYPPQHY)  
-  ![](https://i.ytimg.com/vi/kZT3xYPPQHY/hqdefault.jpg)
