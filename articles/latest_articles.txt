@@ -1,6 +1,14 @@
-# Last Run: 2026-07-03 03:25 UTC
+# Last Run: 2026-07-03 07:26 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The Military and the Republic
+Published: 2026-07-03T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/military-and-republic
+---
+[Foreign_Affairs] The Strong Do What They Can—and Suffer What They Must
+Published: 2026-07-03T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/strong-do-what-they-can-and-suffer-what-they-must
+---
 [Foreign_Policy] Angsty in Ankara
 Published: 2026-07-02T22:03:52+00:00
 Link: https://foreignpolicy.com/2026/07/02/nato-summit-ankara-trump-rutte-erdogan-ukraine-iran/
@@ -152,8 +160,4 @@ Link: https://foreignpolicy.com/2026/06/30/trump-united-nations-multilateral-sys
 [Foreign_Policy] Is Washington Endorsing Family Rule in Libya?
 Published: 2026-06-30T11:21:39+00:00
 Link: https://foreignpolicy.com/2026/06/30/libya-family-rule-saddam-haftar-rubio/
----
-[Foreign_Affairs] Extreme Weather Will Upend U.S.-China Competition
-Published: 2026-06-30T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/extreme-weather-will-upend-us-china-competition
 ---
