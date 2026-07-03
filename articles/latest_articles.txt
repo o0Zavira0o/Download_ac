@@ -1,9 +1,13 @@
-# Last Run: 2026-07-03 14:10 UTC
+# Last Run: 2026-07-03 17:31 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
 Published: 2026-07-03T12:00:53+00:00
 Link: https://foreignpolicy.com/2026/07/03/venezuela-earthquakes-rodriguez-machado-politics/
+---
+[Foreign_Affairs] The Military and the Republic
+Published: 2026-07-03T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/military-and-republic-charles-q-brown
 ---
 [Foreign_Affairs] The Military and the Republic
 Published: 2026-07-03T04:00:00+00:00
@@ -140,8 +144,4 @@ Link: https://foreignpolicy.com/2026/06/30/science-climate-europe-global-warming
 [Foreign_Policy] The European Country That Figured Out Trump’s White House
 Published: 2026-06-30T17:32:09+00:00
 Link: https://foreignpolicy.com/2026/06/30/poland-trump-military-spending-nato-troops-nawrocki/
----
-[Foreign_Policy] Israel Has a Hezbollah Drone Problem
-Published: 2026-06-30T14:26:52+00:00
-Link: https://foreignpolicy.com/2026/06/30/israel-hezbollah-drones-lebanon-fpv-iran-idf/
 ---
