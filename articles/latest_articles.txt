@@ -1,4 +1,4 @@
-# Last Run: 2026-07-03 17:31 UTC
+# Last Run: 2026-07-03 19:29 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -136,12 +136,4 @@ Link: https://foreignpolicy.com/2026/06/30/china-plane-crash-beijing-citic-tower
 [Foreign_Policy] Washington’s Cuba Policy Is Self-Sabotage
 Published: 2026-06-30T20:37:22+00:00
 Link: https://foreignpolicy.com/2026/06/30/cuba-us-blockade-sanctions-trump-humanitarian-crisis/
----
-[Foreign_Policy] Doomsday Climate Scenarios Were Wrong. That Doesn’t Help Europe.
-Published: 2026-06-30T19:07:45+00:00
-Link: https://foreignpolicy.com/2026/06/30/science-climate-europe-global-warming-heat-wave/
----
-[Foreign_Policy] The European Country That Figured Out Trump’s White House
-Published: 2026-06-30T17:32:09+00:00
-Link: https://foreignpolicy.com/2026/06/30/poland-trump-military-spending-nato-troops-nawrocki/
 ---
