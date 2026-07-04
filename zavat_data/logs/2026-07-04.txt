@@ -1,4 +1,100 @@
 ================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | IrGens
+Title  : Deploying ASP.NET Core 10 Blazor Applications
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 44m | 315 MB
+Link   : http://zavat.pw/ebooks/deploying-asp-dot-net-core-10-blazor-applications.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | IrGens
+Title  : Red Hat Certified System Administrator (RHCSA-EX200): Creating and Configuring File Systems
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h 51m | 332 MB
+Link   : http://zavat.pw/ebooks/rhcsa-ex200-creating-configuring-file-systems.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | IrGens
+Title  : Testing ASP.NET Core 10 Web APIs
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h 47m | 826 MB
+Link   : http://zavat.pw/ebooks/testing-asp-dot-net-core-10-web-apis.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | IrGens
+Title  : Time Series Modeling Methods
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 13m | 154 MB
+Link   : http://zavat.pw/ebooks/time-series-modeling-methods.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | IrGens
+Title  : Getting Started with Feature Engineering
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 34m | 201 MB
+Link   : http://zavat.pw/ebooks/getting-started-feature-engineering.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | IrGens
+Title  : AI for Intelligent Testing and QA
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 36m | 242 MB
+Link   : http://zavat.pw/ebooks/ai-intelligent-testing-qa.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | IrGens
+Title  : OpenAI Codex in Practice
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 57m | 232 MB
+Link   : http://zavat.pw/ebooks/openai-codex-practice.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | hill0
+Title  : Optical Nanomanipulation (2nd Edition)
+Details: English | 2022 | ISBN: 0750341890 | 184 Pages | PDF EPUB (True) | 27 MB
+Link   : http://zavat.pw/ebooks/0750341890.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | hill0
+Title  : The New York Times - July 4, 2026
+Details: English | 46 pages | True PDF | 25 MB
+Link   : http://zavat.pw/newspapers/NYT-040726.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | hill0
+Title  : Investor Relations Strategy
+Details: English | 2026 | ISBN: 3032216788 | 293 Pages | PDF EPUB (True) | 9 MB
+Link   : http://zavat.pw/ebooks/3032216788.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | crazy-slim
+Title  : Barron's - July 6, 2026
+Details: English | 53 pages | True PDF | 9.6 MB
+Link   : http://zavat.pw/magazines/BarronsJuly62026-91083.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | crazy-slim
+Title  : Hartford Courant - 4 July 2026
+Details: English | 24 pages | True PDF | 35.9 MB
+Link   : http://zavat.pw/newspapers/HartfordCourant4July2026-40838.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | crazy-slim
+Title  : The Boston Globe - 4 July 2026
+Details: English | 32 pages | True PDF | 16.0 MB
+Link   : http://zavat.pw/newspapers/TheBostonGlobe4July2026-79447.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | crazy-slim
+Title  : The Baltimore Sun - 4 July 2026
+Details: English | 30 pages | True PDF | 32.2 MB
+Link   : http://zavat.pw/newspapers/TheBaltimoreSun4July2026-79266.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | crazy-slim
+Title  : Los Angeles Times - 4 July 2026
+Details: English | 76 pages | True PDF | 59.2 MB
+Link   : http://zavat.pw/newspapers/LosAngelesTimes4July2026-17844.html
+
+================================================================================
+2026-07-04 15:32:25 (Asia/Tehran) | crazy-slim
+Title  : The Baltimore Sun Carroll County Times - 4 July 2026
+Details: English | 24 pages | True PDF | 28.7 MB
+Link   : http://zavat.pw/newspapers/TheBaltimoreSunCarrollCountyTimes4July2026-99655.html
+
+================================================================================
 2026-07-04 14:01:37 (Asia/Tehran) | hill0
 Title  : Hyper-Personalization
 Details: Deutsch | 2026 | ISBN: 3658516348 | 151 Pages | PDF (True) | 6 MB
