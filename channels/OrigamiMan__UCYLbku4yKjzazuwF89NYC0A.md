@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
+_آخرین به‌روزرسانی: 2026-07-04T10:57:48Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-07-04 10:00:11 (UTC)  
+  **مدت:** حدود 23.8 دقیقه  
+  **عنوان:** [32、Beautiful 12-Piece Modular Origami | Tower Polyhedron (No Talking)12枚で組む美しいユニット折り紙｜やぐら型の多面体](https://www.youtube.com/watch?v=sPY02I_b-oA)  
+  ![](https://i.ytimg.com/vi/sPY02I_b-oA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-28 10:00:27 (UTC)  

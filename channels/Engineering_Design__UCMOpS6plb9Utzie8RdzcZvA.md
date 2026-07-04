@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
+_آخرین به‌روزرسانی: 2026-07-04T10:57:48Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-07-04 08:24:13 (UTC)  
+  **مدت:** حدود 26.5 دقیقه  
+  **عنوان:** [35+ SOLIDWORKS Hacks to Speed Up Your Workflow (Stop Wasting Time!)](https://www.youtube.com/watch?v=mb2jp6ZOgpg)  
+  ![](https://i.ytimg.com/vi/mb2jp6ZOgpg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-04 02:37:39 (UTC)  
@@ -252,12 +258,6 @@ _آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
   ![](https://i.ytimg.com/vi/663ZtEKEyrE/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2026-03-11 02:13:07 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [CAD Design Under Minute #cad #cadsoftwaretutorial #3dprinting #mechanicalengineerinterview](https://www.youtube.com/watch?v=Hm5qV1Al6cs)  
-  ![](https://i.ytimg.com/vi/Hm5qV1Al6cs/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2026-03-08 15:57:03 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [How to Add Multiple Planes on Different Angles in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=NaswhJ8W1bk)  
@@ -352,12 +352,6 @@ _آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
   **مدت:** حدود 13.1 دقیقه  
   **عنوان:** [Solidworks Assembly Tutorial | How to Design Scissor lift Mechanism in Solidworks](https://www.youtube.com/watch?v=j0i0r9vZDvs)  
   ![](https://i.ytimg.com/vi/j0i0r9vZDvs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-12 08:47:11 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [What is Mechanical Engineering? #mechanicalengineering](https://www.youtube.com/watch?v=zdsEAYA3Fns)  
-  ![](https://i.ytimg.com/vi/zdsEAYA3Fns/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-02-07 14:38:52 (UTC)  
@@ -904,3 +898,9 @@ _آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅ Mechanical Mechanism 06](https://www.youtube.com/watch?v=gMh57VBfBHM)  
   ![](https://i.ytimg.com/vi/gMh57VBfBHM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-07-29 11:47:18 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [✅Hybrid and Opposed-Piston Engines Explained](https://www.youtube.com/watch?v=tSHKxQ3HR-0)  
+  ![](https://i.ytimg.com/vi/tSHKxQ3HR-0/hqdefault.jpg)

@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
+_آخرین به‌روزرسانی: 2026-07-04T10:57:48Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
+
+
+- **تاریخ انتشار:** 2026-07-03 23:38:50 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Chestnut-backed Chickadee](https://www.youtube.com/watch?v=-2nKu_a_BRo)  
+  ![](https://i.ytimg.com/vi/-2nKu_a_BRo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-02 20:07:59 (UTC)  

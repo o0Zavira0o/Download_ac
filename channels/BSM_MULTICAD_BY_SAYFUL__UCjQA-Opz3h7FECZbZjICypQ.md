@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
+_آخرین به‌روزرسانی: 2026-07-04T10:57:48Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-03 17:14:36 (UTC)  
+  **مدت:** حدود 59.4 دقیقه  
+  **عنوان:** [BSM CAD Batch 04   Class 02   Unit Setup, Dimension, Scale, Stretch, Block & Array   AutoCAD](https://www.youtube.com/watch?v=U5K34rXafk4)  
+  ![](https://i.ytimg.com/vi/U5K34rXafk4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-03 13:03:32 (UTC)  
+  **مدت:** حدود 53.4 دقیقه  
+  **عنوان:** [BATCH 08  AUTOCAD FULL PAKAGE COURSE  CLASS  01  BANGLA TUTORIALS](https://www.youtube.com/watch?v=DUYdHD4RlZw)  
+  ![](https://i.ytimg.com/vi/DUYdHD4RlZw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-03 10:15:14 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Are you an engineer and Architect then this course is for you Full packagek](https://www.youtube.com/watch?v=ylsEtkje4Q4)  
   ![](https://i.ytimg.com/vi/ylsEtkje4Q4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-16 16:54:40 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Are you an engineer and Architect then this course is for you Full packagei #sketchup](https://www.youtube.com/watch?v=DTtI5gBblww)  
-  ![](https://i.ytimg.com/vi/DTtI5gBblww/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-16 16:53:30 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Are you an engineer and Architect then this course is for you Full packageh #sketchup](https://www.youtube.com/watch?v=Xld-reguprk)  
-  ![](https://i.ytimg.com/vi/Xld-reguprk/hqdefault.jpg)

@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Chánh Thiện Tâm CNC
 
-_آخرین به‌روزرسانی: 2026-07-03T11:38:29Z_
+_آخرین به‌روزرسانی: 2026-07-04T10:57:48Z_
 
 
 **لینک استاندارد کانال:** [Chánh Thiện Tâm CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
