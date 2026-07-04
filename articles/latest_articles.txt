@@ -1,4 +1,4 @@
-# Last Run: 2026-07-04 17:12 UTC
+# Last Run: 2026-07-04 19:19 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -84,16 +84,4 @@ Link: https://foreignpolicy.com/2026/07/01/bangladesh-china-rahman-visit-diploma
 [Foreign_Policy] What to Know About Ethiopia’s Debt Breakthrough
 Published: 2026-07-01T20:41:20+00:00
 Link: https://foreignpolicy.com/2026/07/01/ethiopia-debt-relief-g-20-uk-france-china-abiy-ahmed/
----
-[Foreign_Policy] Trans-Atlanticism Isn’t Dead—It’s Being Renegotiated
-Published: 2026-07-01T18:50:18+00:00
-Link: https://foreignpolicy.com/2026/07/01/nato-summit-transatlantic-alliance-dead-alive-trump-russia-defense-geopolitics/
----
-[Foreign_Policy] Is Meloni Done With Trump?
-Published: 2026-07-01T18:23:06+00:00
-Link: https://foreignpolicy.com/2026/07/01/meloni-trump-photo-italy-us-europe-far-right/
----
-[Foreign_Policy] Is Cuba Really Next?
-Published: 2026-07-01T17:40:59+00:00
-Link: https://foreignpolicy.com/2026/07/01/michael-bustamante-cuba-trump-venezuela-rubio-regime-change-blockade/
 ---
