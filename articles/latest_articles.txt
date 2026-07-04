@@ -1,4 +1,4 @@
-# Last Run: 2026-07-04 03:20 UTC
+# Last Run: 2026-07-04 06:53 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -112,16 +112,4 @@ Link: https://foreignpolicy.com/2026/07/01/trump-europe-tech-sovereignty-digital
 [Foreign_Policy] The Middle East Has a New Saudi-Led Axis
 Published: 2026-07-01T08:52:16+00:00
 Link: https://foreignpolicy.com/2026/07/01/saudi-qatar-pakistan-turkey-egypt-uae-axis-alliance-iran-middle-east/
----
-[Foreign_Policy] Blackouts Are Prabowo’s Latest Problem
-Published: 2026-07-01T05:00:02+00:00
-Link: https://foreignpolicy.com/2026/07/01/indonesia-blackouts-prabowo-coal/
----
-[Foreign_Affairs] How to Save the U.S.-Israeli Alliance
-Published: 2026-07-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/israel/how-save-us-israeli-alliance
----
-[Foreign_Affairs] Worse Than an Axis
-Published: 2026-07-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/worse-axis
 ---
