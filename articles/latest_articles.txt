@@ -1,4 +1,4 @@
-# Last Run: 2026-07-03 21:14 UTC
+# Last Run: 2026-07-04 03:20 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -124,8 +124,4 @@ Link: https://www.foreignaffairs.com/israel/how-save-us-israeli-alliance
 [Foreign_Affairs] Worse Than an Axis
 Published: 2026-07-01T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/worse-axis
----
-[Foreign_Policy] Anti-Immigrant Marches Held Across South Africa
-Published: 2026-06-30T21:38:53+00:00
-Link: https://foreignpolicy.com/2026/06/30/south-africa-anti-immigrant-rallies-self-deport-ramaphosa-xenophobia/
 ---
