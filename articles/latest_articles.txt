@@ -1,4 +1,4 @@
-# Last Run: 2026-07-04 19:19 UTC
+# Last Run: 2026-07-04 21:05 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -80,8 +80,4 @@ Link: https://foreignpolicy.com/2026/07/01/usmca-renewal-us-canada-mexico-trade-
 [Foreign_Policy] Bangladesh Sends Signal With China Visit
 Published: 2026-07-01T21:09:26+00:00
 Link: https://foreignpolicy.com/2026/07/01/bangladesh-china-rahman-visit-diplomacy-india/
----
-[Foreign_Policy] What to Know About Ethiopia’s Debt Breakthrough
-Published: 2026-07-01T20:41:20+00:00
-Link: https://foreignpolicy.com/2026/07/01/ethiopia-debt-relief-g-20-uk-france-china-abiy-ahmed/
 ---
