@@ -1,4 +1,4 @@
-# Last Run: 2026-07-04 21:05 UTC
+# Last Run: 2026-07-04 23:04 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -68,16 +68,4 @@ Link: https://www.foreignaffairs.com/palestinian-territories/end-hamas
 [Foreign_Affairs] Why Trump’s Congo Deal Is Falling Apart
 Published: 2026-07-02T04:00:00+00:00
 Link: https://www.foreignaffairs.com/democratic-republic-congo/why-trumps-congo-deal-falling-apart
----
-[Foreign_Policy] The Political Aftershocks of Venezuela’s Earthquakes
-Published: 2026-07-01T21:32:23+00:00
-Link: https://foreignpolicy.com/2026/07/01/venezuela-earthquakes-us-politics-rodriguez-maduro-machado/
----
-[Foreign_Policy] USMCA Was Once Trump’s Brainchild. Now, It’s a Dead Deal Walking.
-Published: 2026-07-01T21:18:05+00:00
-Link: https://foreignpolicy.com/2026/07/01/usmca-renewal-us-canada-mexico-trade-deficit-annual-reviews/
----
-[Foreign_Policy] Bangladesh Sends Signal With China Visit
-Published: 2026-07-01T21:09:26+00:00
-Link: https://foreignpolicy.com/2026/07/01/bangladesh-china-rahman-visit-diplomacy-india/
 ---
