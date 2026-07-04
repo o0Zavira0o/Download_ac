@@ -1,4 +1,4 @@
-# Last Run: 2026-07-04 06:53 UTC
+# Last Run: 2026-07-04 10:15 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -100,16 +100,4 @@ Link: https://foreignpolicy.com/2026/07/01/michael-bustamante-cuba-trump-venezue
 [Foreign_Policy] How to Spin an Empire
 Published: 2026-07-01T13:57:36+00:00
 Link: https://foreignpolicy.com/2026/07/01/trump-cuba-imperialism-history-empire-cold-war-books/
----
-[Foreign_Policy] India Should Stop Panicking About Trump
-Published: 2026-07-01T09:26:05+00:00
-Link: https://foreignpolicy.com/2026/07/01/india-trump-modi-united-states-china-geopolitics-brics-quad/
----
-[Foreign_Policy] Trump’s Trans-Atlantic Tech Schism
-Published: 2026-07-01T09:00:02+00:00
-Link: https://foreignpolicy.com/2026/07/01/trump-europe-tech-sovereignty-digital-ai-viola-helberg-pax-silica/
----
-[Foreign_Policy] The Middle East Has a New Saudi-Led Axis
-Published: 2026-07-01T08:52:16+00:00
-Link: https://foreignpolicy.com/2026/07/01/saudi-qatar-pakistan-turkey-egypt-uae-axis-alliance-iran-middle-east/
 ---
