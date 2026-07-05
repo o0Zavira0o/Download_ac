@@ -1,4 +1,4 @@
-# Last Run: 2026-07-05 17:16 UTC
+# Last Run: 2026-07-05 19:23 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -28,12 +28,4 @@ Link: https://foreignpolicy.com/2026/07/02/sports-diplomacy-politics-world-cup-s
 [Foreign_Policy] Russia’s 11-Hour Assault on Kyiv
 Published: 2026-07-02T20:49:19+00:00
 Link: https://foreignpolicy.com/2026/07/02/russia-ukraine-missiles-drones-kyiv-oil-energy-critical-infrastructure-strikes/
----
-[Foreign_Policy] Gen Z Goes to Hollywood
-Published: 2026-07-02T19:00:53+00:00
-Link: https://foreignpolicy.com/2026/07/02/obsession-backrooms-amazing-digital-circus-movie-review-gen-z-hollywood/
----
-[Foreign_Policy] A Short Economic History of the United States
-Published: 2026-07-02T17:23:28+00:00
-Link: https://foreignpolicy.com/2026/07/02/united-states-economy-slavery-empire-immigration-socialism/
 ---
