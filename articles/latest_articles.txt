@@ -1,4 +1,4 @@
-# Last Run: 2026-07-05 19:23 UTC
+# Last Run: 2026-07-05 21:05 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -24,8 +24,4 @@ Link: https://foreignpolicy.com/2026/07/02/nato-summit-ankara-trump-rutte-erdoga
 [Foreign_Policy] Is Sports Diplomacy Still Possible?
 Published: 2026-07-02T21:31:30+00:00
 Link: https://foreignpolicy.com/2026/07/02/sports-diplomacy-politics-world-cup-sportswashing-immigration-war/
----
-[Foreign_Policy] Russia’s 11-Hour Assault on Kyiv
-Published: 2026-07-02T20:49:19+00:00
-Link: https://foreignpolicy.com/2026/07/02/russia-ukraine-missiles-drones-kyiv-oil-energy-critical-infrastructure-strikes/
 ---
