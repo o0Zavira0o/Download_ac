@@ -1,4 +1,4 @@
-# Last Run: 2026-07-05 10:18 UTC
+# Last Run: 2026-07-05 13:47 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -52,12 +52,4 @@ Link: https://foreignpolicy.com/2026/07/02/united-states-250-independence-day-de
 [Foreign_Policy] Between Independence and Freedom
 Published: 2026-07-02T14:25:44+00:00
 Link: https://foreignpolicy.com/2026/07/02/america-250-declaration-independence-foreign-policy/
----
-[Foreign_Policy] The Hypocrisy That Shields Erdogan From Global Criticism
-Published: 2026-07-02T11:00:53+00:00
-Link: https://foreignpolicy.com/2026/07/02/turkey-erdogan-trump-human-rights-kavala-imamoglu/
----
-[Foreign_Policy] The Strategy Behind the Battle for Crimea
-Published: 2026-07-02T10:47:21+00:00
-Link: https://foreignpolicy.com/2026/07/02/ukraine-crimea-russia-strategy/
 ---
