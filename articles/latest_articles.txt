@@ -1,4 +1,4 @@
-# Last Run: 2026-07-05 13:47 UTC
+# Last Run: 2026-07-05 15:18 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -44,12 +44,4 @@ Link: https://foreignpolicy.com/2026/07/02/america-the-once-global-nation/
 [Foreign_Policy] The MOU Is Paying Off Early for Iran
 Published: 2026-07-02T15:56:26+00:00
 Link: https://foreignpolicy.com/2026/07/02/mou-iran-us-talks-doha-strait-hormuz-oil-sanctions-profits-exports/
----
-[Foreign_Policy] The U.S. at 250: Terminally Ill or Just Very Sick?
-Published: 2026-07-02T14:35:02+00:00
-Link: https://foreignpolicy.com/2026/07/02/united-states-250-independence-day-democracy-president/
----
-[Foreign_Policy] Between Independence and Freedom
-Published: 2026-07-02T14:25:44+00:00
-Link: https://foreignpolicy.com/2026/07/02/america-250-declaration-independence-foreign-policy/
 ---
