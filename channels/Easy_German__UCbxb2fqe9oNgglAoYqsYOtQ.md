@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-04T10:57:48Z_
+_آخرین به‌روزرسانی: 2026-07-05T11:08:56Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-05 10:45:44 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Was packen wir in unsere Rucksäcke? #shorts #learngerman #rucksack](https://www.youtube.com/watch?v=KStPOHsv1VY)  
+  ![](https://i.ytimg.com/vi/KStPOHsv1VY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-04 17:10:22 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Was gefällt dir an Hannover nicht? #hannover #germanlearning #easygerman](https://www.youtube.com/watch?v=S567gq3vuEw)  
+  ![](https://i.ytimg.com/vi/S567gq3vuEw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-03 11:38:41 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-04T10:57:48Z_
   **مدت:** حدود 9.4 دقیقه  
   **عنوان:** [What do Germans like about Poland? | Easy German 145](https://www.youtube.com/watch?v=FHy2r-PjeWQ)  
   ![](https://i.ytimg.com/vi/FHy2r-PjeWQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-27 07:38:11 (UTC)  
-  **مدت:** حدود 16.9 دقیقه  
-  **عنوان:** [Cari und Dana antworten (31) - Pronouncing 'R' in German | Bayern vs. Deutschland | Hin & Her](https://www.youtube.com/watch?v=Va_gqMj6Nd4)  
-  ![](https://i.ytimg.com/vi/Va_gqMj6Nd4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-22 16:21:05 (UTC)  
-  **مدت:** حدود 7.5 دقیقه  
-  **عنوان:** [Who was your favourite teacher? | Easy German 144](https://www.youtube.com/watch?v=8eDCVCDANSw)  
-  ![](https://i.ytimg.com/vi/8eDCVCDANSw/hqdefault.jpg)

@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-07-04T10:57:48Z_
+_آخرین به‌روزرسانی: 2026-07-05T11:08:56Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
+
+
+- **تاریخ انتشار:** 2026-07-04 18:52:48 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [White-breasted Nuthatch](https://www.youtube.com/watch?v=twvqBjtLG8Y)  
+  ![](https://i.ytimg.com/vi/twvqBjtLG8Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-03 23:38:50 (UTC)  

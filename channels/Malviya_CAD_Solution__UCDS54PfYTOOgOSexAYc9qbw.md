@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-04T10:57:48Z_
+_آخرین به‌روزرسانی: 2026-07-05T11:08:56Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-05 03:38:41 (UTC)  
+  **مدت:** حدود 2.1 دقیقه  
+  **عنوان:** [Detail view in solidworks drawing sheet #ytshorts #shorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=K8JAwXcyzvs)  
+  ![](https://i.ytimg.com/vi/K8JAwXcyzvs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-27 02:43:05 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-04T10:57:48Z_
   **مدت:** حدود 1.8 دقیقه  
   **عنوان:** [Solidworks assembly explode animation #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=ZCp0_02KKH0)  
   ![](https://i.ytimg.com/vi/ZCp0_02KKH0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-10 14:00:35 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Solidworks 3d modelling #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=ymoRhO5zn5w)  
-  ![](https://i.ytimg.com/vi/ymoRhO5zn5w/hqdefault.jpg)

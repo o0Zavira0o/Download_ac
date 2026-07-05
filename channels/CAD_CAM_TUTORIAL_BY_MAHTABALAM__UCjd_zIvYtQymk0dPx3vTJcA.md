@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-04T10:57:48Z_
+_آخرین به‌روزرسانی: 2026-07-05T11:08:56Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-05 03:30:34 (UTC)  
+  **مدت:** حدود 30.1 دقیقه  
+  **عنوان:** [SolidWorks Surface-Angle Neck Bottle](https://www.youtube.com/watch?v=B_nGY-FLLPE)  
+  ![](https://i.ytimg.com/vi/B_nGY-FLLPE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-03 03:30:20 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-04T10:57:48Z_
   **مدت:** حدود 24.6 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch key in Solidworks](https://www.youtube.com/watch?v=VNZOB0sZJJY)  
   ![](https://i.ytimg.com/vi/VNZOB0sZJJY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-19 07:16:02 (UTC)  
-  **مدت:** حدود 31.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Flail Weapon in Solidworks](https://www.youtube.com/watch?v=3Z-0FIcAtbY)  
-  ![](https://i.ytimg.com/vi/3Z-0FIcAtbY/hqdefault.jpg)
