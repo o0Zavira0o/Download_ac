@@ -1,4 +1,4 @@
-# Last Run: 2026-07-05 15:18 UTC
+# Last Run: 2026-07-05 17:16 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
@@ -36,12 +36,4 @@ Link: https://foreignpolicy.com/2026/07/02/obsession-backrooms-amazing-digital-c
 [Foreign_Policy] A Short Economic History of the United States
 Published: 2026-07-02T17:23:28+00:00
 Link: https://foreignpolicy.com/2026/07/02/united-states-economy-slavery-empire-immigration-socialism/
----
-[Foreign_Policy] America, the Once Global Nation
-Published: 2026-07-02T16:30:58+00:00
-Link: https://foreignpolicy.com/2026/07/02/america-the-once-global-nation/
----
-[Foreign_Policy] The MOU Is Paying Off Early for Iran
-Published: 2026-07-02T15:56:26+00:00
-Link: https://foreignpolicy.com/2026/07/02/mou-iran-us-talks-doha-strait-hormuz-oil-sanctions-profits-exports/
 ---
