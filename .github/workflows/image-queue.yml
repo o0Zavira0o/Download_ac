@@ -1,0 +1,92 @@
+name: Image Queue Worker
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_images:
+        description: "Maximum images to process in this run"
+        required: false
+        default: "25"
+      force:
+        description: "Ignore blocked_until and try now"
+        required: false
+        default: "false"
+  push:
+    branches: [main]
+    paths:
+      - "image_jobs/inbox/**"
+      - "image_jobs/manifest.csv"
+      - "src/**"
+      - "requirements.txt"
+      - ".github/workflows/image-queue.yml"
+  schedule:
+    - cron: "17 * * * *"
+
+concurrency:
+  group: image-queue-worker
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+  OPENAI_IMAGE_MODEL: ${{ vars.OPENAI_IMAGE_MODEL || 'gpt-image-2' }}
+  PORTRAIT_SIZE: ${{ vars.PORTRAIT_SIZE || '1152x2048' }}
+  LANDSCAPE_SIZE: ${{ vars.LANDSCAPE_SIZE || '2048x1152' }}
+  SQUARE_SIZE: ${{ vars.SQUARE_SIZE || '2048x2048' }}
+  IMAGE_QUALITY: ${{ vars.IMAGE_QUALITY || 'high' }}
+  OUTPUT_FORMAT: ${{ vars.OUTPUT_FORMAT || 'png' }}
+  MIN_OUTPUT_BYTES: ${{ vars.MIN_OUTPUT_BYTES || '2097152' }}
+  QUEUE_ROOT: ./image_jobs
+  QUEUE_MAX_IMAGES_PER_RUN: ${{ github.event.inputs.max_images || vars.QUEUE_MAX_IMAGES_PER_RUN || '25' }}
+  QUEUE_DEFAULT_LIMIT_WAIT_MINUTES: ${{ vars.QUEUE_DEFAULT_LIMIT_WAIT_MINUTES || '60' }}
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Process image queue
+        run: |
+          FORCE_FLAG=""
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            FORCE_FLAG="--force"
+          fi
+          python src/queue_worker.py --max-images "${QUEUE_MAX_IMAGES_PER_RUN}" ${FORCE_FLAG}
+
+      - name: Upload outputs as workflow artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: image-queue-outputs
+          path: |
+            image_jobs/outputs/**
+            image_jobs/STATUS.md
+            image_jobs/state.json
+          if-no-files-found: ignore
+
+      - name: Commit queue state and outputs
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add image_jobs
+          if git diff --cached --quiet; then
+            echo "No queue changes to commit."
+          else
+            git commit -m "Update image queue outputs [skip ci]"
+            git push
+          fi
