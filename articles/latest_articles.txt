@@ -1,6 +1,18 @@
-# Last Run: 2026-07-06 08:25 UTC
+# Last Run: 2026-07-06 13:50 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Israel Belongs in the New Saudi-Iranian Order
+Published: 2026-07-06T12:25:46+00:00
+Link: https://foreignpolicy.com/2026/07/06/saudi-iran-order-israel-palestine/
+---
+[Foreign_Policy] War Has Become Pointless
+Published: 2026-07-06T12:00:37+00:00
+Link: https://foreignpolicy.com/2026/07/06/war-iran-ukraine-israel-united-states-russia-pointless/
+---
+[Foreign_Policy] The U.S. Can’t ‘Yield Even an Inch’ to Xi, Top Democrat Says
+Published: 2026-07-06T11:00:05+00:00
+Link: https://foreignpolicy.com/2026/07/06/senator-duckworth-taiwan-visit-china-trump-xi-jinping/
+---
 [Foreign_Policy] Jimmy Carter Knew What Ails America
 Published: 2026-07-06T04:01:16+00:00
 Link: https://foreignpolicy.com/2026/07/06/jimmy-carter-speech-malaise/
@@ -12,8 +24,4 @@ Link: https://www.foreignaffairs.com/united-states/better-way-build-ai
 [Foreign_Affairs] The Transatlantic Alliance Can’t Survive Without Trust
 Published: 2026-07-06T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/transatlantic-alliance-cant-survive-without-trust
----
-[Foreign_Policy] Venezuela’s Bungled Earthquake Response
-Published: 2026-07-03T12:00:53+00:00
-Link: https://foreignpolicy.com/2026/07/03/venezuela-earthquakes-rodriguez-machado-politics/
 ---
