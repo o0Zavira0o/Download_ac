@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-07-05T11:08:56Z_
+_آخرین به‌روزرسانی: 2026-07-06T12:55:22Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-07-05 13:00:06 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [ASMR Journal 1분다꾸 #shorts #journal #다꾸](https://www.youtube.com/watch?v=U5sOyh0-GMI)  
+  ![](https://i.ytimg.com/vi/U5sOyh0-GMI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-04 13:00:34 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-07-05T11:08:56Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [scrapbooking asmr 2/2🌿 #shorts #scrapbooking #satisfying](https://www.youtube.com/watch?v=9smss9wzDDU)  
   ![](https://i.ytimg.com/vi/9smss9wzDDU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-04-19 13:28:00 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [scrapbooking asmr 🌿 #shorts #scrapbooking #satisfying](https://www.youtube.com/watch?v=ee2F4f6wJZc)  
-  ![](https://i.ytimg.com/vi/ee2F4f6wJZc/hqdefault.jpg)

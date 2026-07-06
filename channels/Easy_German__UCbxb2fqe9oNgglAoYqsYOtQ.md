@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-05T11:08:56Z_
+_آخرین به‌روزرسانی: 2026-07-06T12:55:22Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-06 11:16:25 (UTC)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [In Deutschland weiß man immer, woran man ist #shorts #interkulturell](https://www.youtube.com/watch?v=87MQfnBTe1w)  
+  ![](https://i.ytimg.com/vi/87MQfnBTe1w/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-05 17:00:26 (UTC)  
+  **مدت:** حدود 35.1 دقیقه  
+  **عنوان:** [I Crossed Germany By Bike (Again)](https://www.youtube.com/watch?v=tlRrej2zmqY)  
+  ![](https://i.ytimg.com/vi/tlRrej2zmqY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-05 10:45:44 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-05T11:08:56Z_
   **مدت:** حدود 7.0 دقیقه  
   **عنوان:** [What Germans think about art | Easy German 147](https://www.youtube.com/watch?v=0otjfbqcjNE)  
   ![](https://i.ytimg.com/vi/0otjfbqcjNE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-06-05 16:48:22 (UTC)  
-  **مدت:** حدود 7.0 دقیقه  
-  **عنوان:** [Who should pay on the first date? (with Dana from Wanted Adventure) | Easy German 146](https://www.youtube.com/watch?v=THXoBj5jMkM)  
-  ![](https://i.ytimg.com/vi/THXoBj5jMkM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-05-29 22:13:18 (UTC)  
-  **مدت:** حدود 9.4 دقیقه  
-  **عنوان:** [What do Germans like about Poland? | Easy German 145](https://www.youtube.com/watch?v=FHy2r-PjeWQ)  
-  ![](https://i.ytimg.com/vi/FHy2r-PjeWQ/hqdefault.jpg)

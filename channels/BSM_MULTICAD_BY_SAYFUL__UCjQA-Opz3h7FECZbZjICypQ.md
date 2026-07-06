@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-05T11:08:56Z_
+_آخرین به‌روزرسانی: 2026-07-06T12:55:22Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-06 11:19:35 (UTC)  
+  **مدت:** حدود 94.8 دقیقه  
+  **عنوان:** [SketchUp Bangla tutorials paid course a to z batch 03](https://www.youtube.com/watch?v=eICG7XZ1l-I)  
+  ![](https://i.ytimg.com/vi/eICG7XZ1l-I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-03 17:14:36 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-05T11:08:56Z_
   **مدت:** حدود 37.0 دقیقه  
   **عنوان:** [SketchUp 3d Bangla tutorials |bsmmulticadbysayful|](https://www.youtube.com/watch?v=ecq67VSSwqk)  
   ![](https://i.ytimg.com/vi/ecq67VSSwqk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-16 16:55:31 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Are you an engineer and Architect then this course is for you Full packagek](https://www.youtube.com/watch?v=ylsEtkje4Q4)  
-  ![](https://i.ytimg.com/vi/ylsEtkje4Q4/hqdefault.jpg)

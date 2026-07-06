@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-07-05T11:08:56Z_
+_آخرین به‌روزرسانی: 2026-07-06T12:55:22Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-07-06 04:42:44 (UTC)  
+  **مدت:** حدود 18.8 دقیقه  
+  **عنوان:** [Ep.21 First 3D Printing Test (ทดสอบพิมพ์ครั้งแรก)](https://www.youtube.com/watch?v=GKfNZE2sR1w)  
+  ![](https://i.ytimg.com/vi/GKfNZE2sR1w/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-05 16:12:51 (UTC)  
+  **مدت:** حدود 7.3 دقیقه  
+  **عنوان:** [Ep.20.2  Modify ใบ Scew & Hopper พร้อมทดสอบ](https://www.youtube.com/watch?v=6PDDz5WtKVo)  
+  ![](https://i.ytimg.com/vi/6PDDz5WtKVo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-16 17:06:05 (UTC)  

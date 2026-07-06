@@ -1,11 +1,35 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-07-05T11:08:56Z_
+_آخرین به‌روزرسانی: 2026-07-06T12:55:22Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
+
+
+- **تاریخ انتشار:** 2026-07-05 21:03:47 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Hummingbird at back porch feeder in slomo](https://www.youtube.com/watch?v=2jJodgD1nmw)  
+  ![](https://i.ytimg.com/vi/2jJodgD1nmw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-05 15:51:01 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Thiccc w/ 3 c’s Mourning Dove taking up space](https://www.youtube.com/watch?v=FpG8hgrsI9U)  
+  ![](https://i.ytimg.com/vi/FpG8hgrsI9U/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-05 15:46:43 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Bird Fight!](https://www.youtube.com/watch?v=eLI_M4oozmk)  
+  ![](https://i.ytimg.com/vi/eLI_M4oozmk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-05 15:26:49 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Mourning Dove](https://www.youtube.com/watch?v=D-luOeUmqpA)  
+  ![](https://i.ytimg.com/vi/D-luOeUmqpA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-04 18:52:48 (UTC)  
