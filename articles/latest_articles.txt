@@ -1,4 +1,4 @@
-# Last Run: 2026-07-06 13:50 UTC
+# Last Run: 2026-07-06 16:57 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Israel Belongs in the New Saudi-Iranian Order
@@ -16,6 +16,10 @@ Link: https://foreignpolicy.com/2026/07/06/senator-duckworth-taiwan-visit-china-
 [Foreign_Policy] Jimmy Carter Knew What Ails America
 Published: 2026-07-06T04:01:16+00:00
 Link: https://foreignpolicy.com/2026/07/06/jimmy-carter-speech-malaise/
+---
+[Foreign_Affairs] The Transatlantic Alliance Can’t Survive Without Trust
+Published: 2026-07-06T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/nato-transatlantic-alliance-cant-survive-without-trust
 ---
 [Foreign_Affairs] A Better Way to Build AI
 Published: 2026-07-06T04:00:00+00:00
