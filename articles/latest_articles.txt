@@ -1,19 +1,19 @@
-# Last Run: 2026-07-06 03:42 UTC
+# Last Run: 2026-07-06 08:25 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Jimmy Carter Knew What Ails America
+Published: 2026-07-06T04:01:16+00:00
+Link: https://foreignpolicy.com/2026/07/06/jimmy-carter-speech-malaise/
+---
+[Foreign_Affairs] A Better Way to Build AI
+Published: 2026-07-06T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/better-way-build-ai
+---
+[Foreign_Affairs] The Transatlantic Alliance Can’t Survive Without Trust
+Published: 2026-07-06T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/transatlantic-alliance-cant-survive-without-trust
+---
 [Foreign_Policy] Venezuela’s Bungled Earthquake Response
 Published: 2026-07-03T12:00:53+00:00
 Link: https://foreignpolicy.com/2026/07/03/venezuela-earthquakes-rodriguez-machado-politics/
----
-[Foreign_Affairs] The Military and the Republic
-Published: 2026-07-03T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/military-and-republic-charles-q-brown
----
-[Foreign_Affairs] The Military and the Republic
-Published: 2026-07-03T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/military-and-republic
----
-[Foreign_Affairs] The Strong Do What They Can—and Suffer What They Must
-Published: 2026-07-03T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/strong-do-what-they-can-and-suffer-what-they-must
 ---
