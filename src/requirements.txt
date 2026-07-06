@@ -1,0 +1,4 @@
+openai>=1.99.0
+python-dotenv>=1.0.1
+Pillow>=10.4.0
+tenacity>=8.5.0
