@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-06T12:55:22Z_
+_آخرین به‌روزرسانی: 2026-07-07T12:03:35Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-07 07:05:47 (UTC)  
+  **مدت:** حدود 82.1 دقیقه  
+  **عنوان:** [AutoCAD for Civil Engineers Architecture  BSM CAD](https://www.youtube.com/watch?v=xCgFYp-7uzU)  
+  ![](https://i.ytimg.com/vi/xCgFYp-7uzU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-06 11:19:35 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-06T12:55:22Z_
   **مدت:** حدود 13.0 دقیقه  
   **عنوان:** [AUTOCAD BASIC TUTORIALS BSM CAD 01](https://www.youtube.com/watch?v=wQFPoqb8l8I)  
   ![](https://i.ytimg.com/vi/wQFPoqb8l8I/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-17 13:51:50 (UTC)  
-  **مدت:** حدود 37.0 دقیقه  
-  **عنوان:** [SketchUp 3d Bangla tutorials |bsmmulticadbysayful|](https://www.youtube.com/watch?v=ecq67VSSwqk)  
-  ![](https://i.ytimg.com/vi/ecq67VSSwqk/hqdefault.jpg)

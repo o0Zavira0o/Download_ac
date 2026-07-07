@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-06T12:55:22Z_
+_آخرین به‌روزرسانی: 2026-07-07T12:03:35Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-07 03:30:27 (UTC)  
+  **مدت:** حدود 25.9 دقیقه  
+  **عنوان:** [SolidWorks Exercise-Triple Clamp Modeling](https://www.youtube.com/watch?v=6Qq56SY7tks)  
+  ![](https://i.ytimg.com/vi/6Qq56SY7tks/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-05 03:30:34 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-06T12:55:22Z_
   **مدت:** حدود 26.4 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Airhorn in Solidworks](https://www.youtube.com/watch?v=pf8LUsJIkaw)  
   ![](https://i.ytimg.com/vi/pf8LUsJIkaw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-20 09:01:26 (UTC)  
-  **مدت:** حدود 24.6 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch key in Solidworks](https://www.youtube.com/watch?v=VNZOB0sZJJY)  
-  ![](https://i.ytimg.com/vi/VNZOB0sZJJY/hqdefault.jpg)
