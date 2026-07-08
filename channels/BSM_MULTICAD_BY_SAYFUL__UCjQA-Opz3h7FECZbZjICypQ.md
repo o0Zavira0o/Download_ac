@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-07T12:03:35Z_
+_آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-07 14:46:47 (UTC)  
+  **مدت:** حدود 85.5 دقیقه  
+  **عنوان:** [AutoCAD Masterclass for Civil & Architecture](https://www.youtube.com/watch?v=LJtYc26Pg14)  
+  ![](https://i.ytimg.com/vi/LJtYc26Pg14/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-07 07:05:47 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-07T12:03:35Z_
   **مدت:** حدود 15.7 دقیقه  
   **عنوان:** [AUTOCAD BASIC TUTORIALS BSM CAD 02](https://www.youtube.com/watch?v=7aXClCRRWn4)  
   ![](https://i.ytimg.com/vi/7aXClCRRWn4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-17 14:32:03 (UTC)  
-  **مدت:** حدود 13.0 دقیقه  
-  **عنوان:** [AUTOCAD BASIC TUTORIALS BSM CAD 01](https://www.youtube.com/watch?v=wQFPoqb8l8I)  
-  ![](https://i.ytimg.com/vi/wQFPoqb8l8I/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-07T12:03:35Z_
+_آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-07 16:26:54 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Kotze im Treppenhaus #easygerman #easygermanpodcast #deutschlernenonline](https://www.youtube.com/watch?v=LpIQPQ6E_PI)  
+  ![](https://i.ytimg.com/vi/LpIQPQ6E_PI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-06 11:16:25 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-07T12:03:35Z_
   **مدت:** حدود 7.8 دقیقه  
   **عنوان:** [Bratislava | Easy German 148](https://www.youtube.com/watch?v=hBkNyoT1jZs)  
   ![](https://i.ytimg.com/vi/hBkNyoT1jZs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-06-12 17:28:38 (UTC)  
-  **مدت:** حدود 7.0 دقیقه  
-  **عنوان:** [What Germans think about art | Easy German 147](https://www.youtube.com/watch?v=0otjfbqcjNE)  
-  ![](https://i.ytimg.com/vi/0otjfbqcjNE/hqdefault.jpg)

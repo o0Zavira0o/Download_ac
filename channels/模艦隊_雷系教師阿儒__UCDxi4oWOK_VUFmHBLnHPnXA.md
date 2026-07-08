@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-07-07T12:03:35Z_
+_آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-07-08 11:00:08 (UTC)  
+  **مدت:** حدود 12.6 دقیقه  
+  **عنوان:** [【SolidWorks】產品練習：鯊魚臂｜分區處理](https://www.youtube.com/watch?v=BmPJzyILbgQ)  
+  ![](https://i.ytimg.com/vi/BmPJzyILbgQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-03 11:00:12 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-07T12:03:35Z_
   **مدت:** حدود 12.8 دقیقه  
   **عنوان:** [【onshape】管件：投影曲線｜設計變更 不用愁](https://www.youtube.com/watch?v=oTDqTiAYtiY)  
   ![](https://i.ytimg.com/vi/oTDqTiAYtiY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-04-30 11:00:22 (UTC)  
-  **مدت:** حدود 9.9 دقیقه  
-  **عنوان:** [【solidworks】特殊特徵：彎曲+扭轉｜還在煩惱怎麼畫嗎?｜先變簡單再改變](https://www.youtube.com/watch?v=FMsdb2mTj-A)  
-  ![](https://i.ytimg.com/vi/FMsdb2mTj-A/hqdefault.jpg)

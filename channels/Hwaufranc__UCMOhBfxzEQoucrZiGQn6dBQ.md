@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-07-07T12:03:35Z_
+_آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-07-07 13:00:24 (UTC)  
+  **مدت:** حدود 3.2 دقیقه  
+  **عنوان:** [ASMR Journal Stationery Unboxing | 다이어리꾸미기 다꾸 문구 하울 diy 꾸미기](https://www.youtube.com/watch?v=LfMAdkPWcmQ)  
+  ![](https://i.ytimg.com/vi/LfMAdkPWcmQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-06 13:30:09 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-07-07T12:03:35Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [Harry Potter 🚂Platform 9 3/4 #shorts #harrypotter #waxmelts #waxart #artworks](https://www.youtube.com/watch?v=ojsIeWAOHLg)  
   ![](https://i.ytimg.com/vi/ojsIeWAOHLg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-04-21 14:35:00 (UTC)  
-  **مدت:** حدود 9.2 دقیقه  
-  **عنوان:** [ASMR Harry Potter Journal Decoration 🚂Platform 9 3/4 : variety of journaling themes](https://www.youtube.com/watch?v=zVvJwW64DSo)  
-  ![](https://i.ytimg.com/vi/zVvJwW64DSo/hqdefault.jpg)

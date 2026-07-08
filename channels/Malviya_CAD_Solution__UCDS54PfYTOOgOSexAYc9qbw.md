@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-07T12:03:35Z_
+_آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-08 03:24:38 (UTC)  
+  **مدت:** حدود 21.9 دقیقه  
+  **عنوان:** [Solidworks Exercise Tutorial | Exercise39](https://www.youtube.com/watch?v=ZWYAP3Z1-7U)  
+  ![](https://i.ytimg.com/vi/ZWYAP3Z1-7U/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-05 03:38:41 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-07T12:03:35Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [Swept Boss in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=UbRkwtXZjmw)  
   ![](https://i.ytimg.com/vi/UbRkwtXZjmw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-12 04:06:31 (UTC)  
-  **مدت:** حدود 1.8 دقیقه  
-  **عنوان:** [Solidworks assembly explode animation #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=ZCp0_02KKH0)  
-  ![](https://i.ytimg.com/vi/ZCp0_02KKH0/hqdefault.jpg)
