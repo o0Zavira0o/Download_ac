@@ -1,6 +1,14 @@
-# Last Run: 2026-07-09 03:27 UTC
+# Last Run: 2026-07-09 07:42 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] Trump Is Remaking Latin America
+Published: 2026-07-09T04:00:00+00:00
+Link: https://www.foreignaffairs.com/americas/trump-remaking-latin-america
+---
+[Foreign_Affairs] How to Save the UN From Irrelevance
+Published: 2026-07-09T04:00:00+00:00
+Link: https://www.foreignaffairs.com/ukraine/how-save-irrelevance
+---
 [Foreign_Policy] Trump Hands NATO a Mixed Bag
 Published: 2026-07-08T22:06:40+00:00
 Link: https://foreignpolicy.com/2026/07/08/trump-nato-ankara-summit-iran-ukraine-greenland-spain/
@@ -140,20 +148,4 @@ Link: https://foreignpolicy.com/2026/07/06/war-iran-ukraine-israel-united-states
 [Foreign_Policy] The U.S. Can’t ‘Yield Even an Inch’ to Xi, Top Democrat Says
 Published: 2026-07-06T11:00:05+00:00
 Link: https://foreignpolicy.com/2026/07/06/senator-duckworth-taiwan-visit-china-trump-xi-jinping/
----
-[Foreign_Policy] Jimmy Carter Knew What Ails America
-Published: 2026-07-06T04:01:16+00:00
-Link: https://foreignpolicy.com/2026/07/06/jimmy-carter-speech-malaise/
----
-[Foreign_Affairs] The Transatlantic Alliance Can’t Survive Without Trust
-Published: 2026-07-06T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/nato-transatlantic-alliance-cant-survive-without-trust
----
-[Foreign_Affairs] A Better Way to Build AI
-Published: 2026-07-06T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/better-way-build-ai
----
-[Foreign_Affairs] The Transatlantic Alliance Can’t Survive Without Trust
-Published: 2026-07-06T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/transatlantic-alliance-cant-survive-without-trust
 ---
