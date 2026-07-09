@@ -1,6 +1,10 @@
-# Last Run: 2026-07-09 15:16 UTC
+# Last Run: 2026-07-09 19:59 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Will Iraq’s New Prime Minister Really Take On Corruption?
+Published: 2026-07-09T15:01:33+00:00
+Link: https://foreignpolicy.com/2026/07/09/iraq-prime-minister-iran-oil-militias-corruption/
+---
 [Foreign_Policy] Ukraine Finally Has a Theory of Victory. Will It Work?
 Published: 2026-07-09T10:52:24+00:00
 Link: https://foreignpolicy.com/2026/07/09/ukraine-russia-war-theory-victory-putin-zelensky-crimea-missiles-deep-strikes-oil-refinieries/
@@ -132,12 +136,4 @@ Link: https://foreignpolicy.com/2026/07/06/erdogan-nato-summit-ankara/
 [Foreign_Policy] What to Expect at the 2026 NATO Summit
 Published: 2026-07-06T21:36:54+00:00
 Link: https://foreignpolicy.com/2026/07/06/nato-leaders-summit-trump-defense-spending-iran-russia-ukraine/
----
-[Foreign_Policy] Are U.S.-India Ties Really Thawing?
-Published: 2026-07-06T17:57:19+00:00
-Link: https://foreignpolicy.com/2026/07/06/us-india-trade-deal-thaw-trump-modi/
----
-[Foreign_Policy] Why This Year’s NATO Summit Is Different for Ukraine
-Published: 2026-07-06T17:42:11+00:00
-Link: https://foreignpolicy.com/2026/07/06/nato-summit-ankara-ukraine-zelensky-russia-war/
 ---
