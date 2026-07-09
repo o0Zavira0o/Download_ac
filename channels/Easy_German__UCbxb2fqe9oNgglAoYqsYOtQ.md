@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
+_آخرین به‌روزرسانی: 2026-07-09T12:12:19Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-09 10:49:56 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [#shorts #deutschlernen #stadterkundung](https://www.youtube.com/watch?v=n1u2YkN5_y4)  
+  ![](https://i.ytimg.com/vi/n1u2YkN5_y4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-08 17:00:09 (UTC)  
+  **مدت:** حدود 17.2 دقیقه  
+  **عنوان:** [Cologne in Slow German](https://www.youtube.com/watch?v=6tAMFeWl55o)  
+  ![](https://i.ytimg.com/vi/6tAMFeWl55o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-07 16:26:54 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
   **مدت:** حدود 10.7 دقیقه  
   **عنوان:** [What Austrians think about Germans | Easy German 149](https://www.youtube.com/watch?v=R-KKZWwSaHU)  
   ![](https://i.ytimg.com/vi/R-KKZWwSaHU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-06-22 12:14:31 (UTC)  
-  **مدت:** حدود 7.3 دقیقه  
-  **عنوان:** [Personal pronouns in the nominative and accusative - German for Beginners (5)](https://www.youtube.com/watch?v=5b9cW9sO3og)  
-  ![](https://i.ytimg.com/vi/5b9cW9sO3og/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-06-19 17:19:11 (UTC)  
-  **مدت:** حدود 7.8 دقیقه  
-  **عنوان:** [Bratislava | Easy German 148](https://www.youtube.com/watch?v=hBkNyoT1jZs)  
-  ![](https://i.ytimg.com/vi/hBkNyoT1jZs/hqdefault.jpg)

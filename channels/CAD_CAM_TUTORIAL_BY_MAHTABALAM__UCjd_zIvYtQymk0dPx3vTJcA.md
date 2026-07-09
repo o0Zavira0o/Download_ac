@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
+_آخرین به‌روزرسانی: 2026-07-09T12:12:19Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-08 12:30:24 (UTC)  
+  **مدت:** حدود 14.9 دقیقه  
+  **عنوان:** [SolidWorks Tutorial Exercise-265](https://www.youtube.com/watch?v=gGfXIic_HyE)  
+  ![](https://i.ytimg.com/vi/gGfXIic_HyE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-07 03:30:27 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
   **مدت:** حدود 34.7 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Shock absorber in Solidworks](https://www.youtube.com/watch?v=osW5RnYIVoc)  
   ![](https://i.ytimg.com/vi/osW5RnYIVoc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-21 11:55:12 (UTC)  
-  **مدت:** حدود 26.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Airhorn in Solidworks](https://www.youtube.com/watch?v=pf8LUsJIkaw)  
-  ![](https://i.ytimg.com/vi/pf8LUsJIkaw/hqdefault.jpg)

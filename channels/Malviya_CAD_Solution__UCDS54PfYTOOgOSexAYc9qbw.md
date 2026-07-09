@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
+_آخرین به‌روزرسانی: 2026-07-09T12:12:19Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-09 05:25:12 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Delete face in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=rcxmVJkKCR8)  
+  ![](https://i.ytimg.com/vi/rcxmVJkKCR8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-08 03:24:38 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
   **مدت:** حدود 2.0 دقیقه  
   **عنوان:** [Curve spiral in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=RCQ-4P1A-fI)  
   ![](https://i.ytimg.com/vi/RCQ-4P1A-fI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-12 08:42:43 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [Swept Boss in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=UbRkwtXZjmw)  
-  ![](https://i.ytimg.com/vi/UbRkwtXZjmw/hqdefault.jpg)

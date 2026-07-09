@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
+_آخرین به‌روزرسانی: 2026-07-09T12:12:19Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-09 06:28:50 (UTC)  
+  **مدت:** حدود 76.5 دقیقه  
+  **عنوان:** [AutoCAD Complete Architectural & Structural Design Course   Paid Training](https://www.youtube.com/watch?v=mNAusUeg7-w)  
+  ![](https://i.ytimg.com/vi/mNAusUeg7-w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-07 14:46:47 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-08T11:10:16Z_
   **مدت:** حدود 30.4 دقیقه  
   **عنوان:** [AUTOCAD BLOCK DOOR CREATE BANGLA TUTORIALS BATCH  05 EP  06](https://www.youtube.com/watch?v=E6ZCLRGcdhY)  
   ![](https://i.ytimg.com/vi/E6ZCLRGcdhY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-23 03:21:50 (UTC)  
-  **مدت:** حدود 15.7 دقیقه  
-  **عنوان:** [AUTOCAD BASIC TUTORIALS BSM CAD 02](https://www.youtube.com/watch?v=7aXClCRRWn4)  
-  ![](https://i.ytimg.com/vi/7aXClCRRWn4/hqdefault.jpg)
