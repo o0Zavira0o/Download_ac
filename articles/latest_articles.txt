@@ -1,4 +1,4 @@
-# Last Run: 2026-07-10 17:52 UTC
+# Last Run: 2026-07-10 19:32 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] How Ukraine Figured Out Trump World
@@ -136,8 +136,4 @@ Link: https://foreignpolicy.com/2026/07/07/nato-summit-trump-rutte-ankara-defens
 [Foreign_Policy] Xi Is Defining History on His Own Terms
 Published: 2026-07-07T20:08:00+00:00
 Link: https://foreignpolicy.com/2026/07/07/xi-mao-deng-china-history-new-era/
----
-[Foreign_Policy] Taiwan Believes Japan Will Help Defend Against China
-Published: 2026-07-07T18:46:00+00:00
-Link: https://foreignpolicy.com/2026/07/07/china-taiwan-japan-invasion-polling/
 ---
