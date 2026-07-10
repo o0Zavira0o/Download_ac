@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-09T12:12:19Z_
+_آخرین به‌روزرسانی: 2026-07-10T12:05:35Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-10 11:07:27 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [I Crossed Germany By Bike (Again) #shorts #bike](https://www.youtube.com/watch?v=gikumQqqLhA)  
+  ![](https://i.ytimg.com/vi/gikumQqqLhA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-09 10:49:56 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-09T12:12:19Z_
   **مدت:** حدود 2.8 دقیقه  
   **عنوان:** [5 Steps to a perfect German Accent](https://www.youtube.com/watch?v=XlGGgNFYMQo)  
   ![](https://i.ytimg.com/vi/XlGGgNFYMQo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-06-26 18:33:21 (UTC)  
-  **مدت:** حدود 10.7 دقیقه  
-  **عنوان:** [What Austrians think about Germans | Easy German 149](https://www.youtube.com/watch?v=R-KKZWwSaHU)  
-  ![](https://i.ytimg.com/vi/R-KKZWwSaHU/hqdefault.jpg)

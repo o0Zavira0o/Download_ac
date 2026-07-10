@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-07-09T12:12:19Z_
+_آخرین به‌روزرسانی: 2026-07-10T12:05:35Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-07-10 11:00:32 (UTC)  
+  **مدت:** حدود 11.5 دقیقه  
+  **عنوان:** [【onshape】基礎課程：草圖繪製、限制條件](https://www.youtube.com/watch?v=RECyksQ-hWA)  
+  ![](https://i.ytimg.com/vi/RECyksQ-hWA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-08 11:00:08 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-09T12:12:19Z_
   **مدت:** حدود 0.4 دقیقه  
   **عنوان:** [短片看建模：Onshape複雜的題目簡單畫](https://www.youtube.com/watch?v=uvLX25q2-34)  
   ![](https://i.ytimg.com/vi/uvLX25q2-34/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-05-02 11:01:19 (UTC)  
-  **مدت:** حدود 12.8 دقیقه  
-  **عنوان:** [【onshape】管件：投影曲線｜設計變更 不用愁](https://www.youtube.com/watch?v=oTDqTiAYtiY)  
-  ![](https://i.ytimg.com/vi/oTDqTiAYtiY/hqdefault.jpg)

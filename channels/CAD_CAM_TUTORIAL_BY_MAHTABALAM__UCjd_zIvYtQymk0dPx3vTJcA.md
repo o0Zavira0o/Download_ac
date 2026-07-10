@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-09T12:12:19Z_
+_آخرین به‌روزرسانی: 2026-07-10T12:05:35Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-09 14:55:13 (UTC)  
+  **مدت:** حدود 20.0 دقیقه  
+  **عنوان:** [Plastic Bottle Modeling-SolidWorks Exercise](https://www.youtube.com/watch?v=QS3w4wfp6Rk)  
+  ![](https://i.ytimg.com/vi/QS3w4wfp6Rk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-08 12:30:24 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-09T12:12:19Z_
   **مدت:** حدود 21.0 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Bolt and Nut in Solidworks](https://www.youtube.com/watch?v=N2mRhiN-_cY)  
   ![](https://i.ytimg.com/vi/N2mRhiN-_cY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-22 18:45:55 (UTC)  
-  **مدت:** حدود 34.7 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Shock absorber in Solidworks](https://www.youtube.com/watch?v=osW5RnYIVoc)  
-  ![](https://i.ytimg.com/vi/osW5RnYIVoc/hqdefault.jpg)

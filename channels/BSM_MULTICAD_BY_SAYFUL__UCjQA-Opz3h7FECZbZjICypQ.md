@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-09T12:12:19Z_
+_آخرین به‌روزرسانی: 2026-07-10T12:05:35Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-09 15:57:08 (UTC)  
+  **مدت:** حدود 9.9 دقیقه  
+  **عنوان:** [enscape software install 4 15 tutorials](https://www.youtube.com/watch?v=imFE_omtiVI)  
+  ![](https://i.ytimg.com/vi/imFE_omtiVI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-09 06:28:50 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-09T12:12:19Z_
   **مدت:** حدود 37.3 دقیقه  
   **عنوان:** [autocad column layout plan with dimension bangla tutorials batch 04 ep 15](https://www.youtube.com/watch?v=ddX25U199vs)  
   ![](https://i.ytimg.com/vi/ddX25U199vs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-23 03:29:39 (UTC)  
-  **مدت:** حدود 30.4 دقیقه  
-  **عنوان:** [AUTOCAD BLOCK DOOR CREATE BANGLA TUTORIALS BATCH  05 EP  06](https://www.youtube.com/watch?v=E6ZCLRGcdhY)  
-  ![](https://i.ytimg.com/vi/E6ZCLRGcdhY/hqdefault.jpg)
