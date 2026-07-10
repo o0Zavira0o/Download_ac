@@ -1,6 +1,14 @@
-# Last Run: 2026-07-10 14:33 UTC
+# Last Run: 2026-07-10 17:52 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How Ukraine Figured Out Trump World
+Published: 2026-07-10T17:48:02+00:00
+Link: https://foreignpolicy.com/2026/07/10/dmytro-kuleba-ukraine-russia-war-victory-nato-patriot-missile/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-07-10T17:38:55+00:00
+Link: https://foreignpolicy.com/2026/07/10/news-quiz-china-missile-test-fire-philippines-impeachment-nato-leaders-summit/
+---
 [Foreign_Policy] Is Ukraine’s Decentralized Drone Innovation a Blip or a Revolution?
 Published: 2026-07-10T13:55:20+00:00
 Link: https://foreignpolicy.com/2026/07/10/ukraine-drones-front-battlefield-innovation/
@@ -132,16 +140,4 @@ Link: https://foreignpolicy.com/2026/07/07/xi-mao-deng-china-history-new-era/
 [Foreign_Policy] Taiwan Believes Japan Will Help Defend Against China
 Published: 2026-07-07T18:46:00+00:00
 Link: https://foreignpolicy.com/2026/07/07/china-taiwan-japan-invasion-polling/
----
-[Foreign_Policy] How Trump Lost America the World Cup
-Published: 2026-07-07T17:10:00+00:00
-Link: https://foreignpolicy.com/2026/07/07/folarin-balogun-world-cup-red-card-trump-infantino-fifa/
----
-[Foreign_Policy] Putin May Escalate, but Ukraine Is Winning
-Published: 2026-07-07T15:59:50+00:00
-Link: https://foreignpolicy.com/2026/07/07/ukraine-winning-war-russia-zelensky-putin-kyiv-moscow/
----
-[Foreign_Policy] Iran Is Still Fighting a War Against Dissidents Abroad
-Published: 2026-07-07T15:56:41+00:00
-Link: https://foreignpolicy.com/2026/07/07/iran-war-dissidents-diaspora-threats-irgc-eu-uk/
 ---
