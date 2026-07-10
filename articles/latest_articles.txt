@@ -1,4 +1,4 @@
-# Last Run: 2026-07-10 21:15 UTC
+# Last Run: 2026-07-10 23:04 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
@@ -144,8 +144,4 @@ Link: https://www.foreignaffairs.com/united-states/ukraine-lesson-taiwan-keeps-m
 [Foreign_Affairs] Can the Private Sector Save Vietnam?
 Published: 2026-07-08T04:00:00+00:00
 Link: https://www.foreignaffairs.com/southeast-asia/can-private-sector-save-vietnam
----
-[Foreign_Policy] Explosions in Damascus Won’t Shake Macron’s Faith in Sharaa
-Published: 2026-07-07T21:55:30+00:00
-Link: https://foreignpolicy.com/2026/07/07/explosions-damascus-syria-sharaa-macron-france-investment/
 ---
