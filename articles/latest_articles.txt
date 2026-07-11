@@ -1,4 +1,4 @@
-# Last Run: 2026-07-11 06:18 UTC
+# Last Run: 2026-07-11 09:43 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
@@ -136,8 +136,4 @@ Link: https://foreignpolicy.com/2026/07/08/energy-oil-fossil-fuel-hormuz-iran-uk
 [Foreign_Policy] Marco Rubio Burned Down the House to Fix a Sink
 Published: 2026-07-08T10:00:57+00:00
 Link: https://foreignpolicy.com/2026/07/08/marco-rubio-secretary-state-trump-administration-human-rights/
----
-[Foreign_Policy] The Philippines’ ‘Trial of the Century’ Begins
-Published: 2026-07-08T07:00:46+00:00
-Link: https://foreignpolicy.com/2026/07/08/the-philippines-trial-of-the-century-begins/
 ---
