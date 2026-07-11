@@ -1,4 +1,4 @@
-# Last Run: 2026-07-11 02:47 UTC
+# Last Run: 2026-07-11 06:18 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
@@ -140,12 +140,4 @@ Link: https://foreignpolicy.com/2026/07/08/marco-rubio-secretary-state-trump-adm
 [Foreign_Policy] The Philippines’ ‘Trial of the Century’ Begins
 Published: 2026-07-08T07:00:46+00:00
 Link: https://foreignpolicy.com/2026/07/08/the-philippines-trial-of-the-century-begins/
----
-[Foreign_Affairs] The Ukraine Lesson Taiwan Keeps Missing
-Published: 2026-07-08T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/ukraine-lesson-taiwan-keeps-missing
----
-[Foreign_Affairs] Can the Private Sector Save Vietnam?
-Published: 2026-07-08T04:00:00+00:00
-Link: https://www.foreignaffairs.com/southeast-asia/can-private-sector-save-vietnam
 ---
