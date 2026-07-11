@@ -1,4 +1,4 @@
-# Last Run: 2026-07-11 13:25 UTC
+# Last Run: 2026-07-11 14:58 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
@@ -120,12 +120,4 @@ Link: https://foreignpolicy.com/2026/07/08/nato-heat-climate-change/
 [Foreign_Policy] What Will Happen to Iran’s Sea Mines?
 Published: 2026-07-08T16:44:09+00:00
 Link: https://foreignpolicy.com/2026/07/08/iran-hormuz-strait-mines-trade-economy-china-us/
----
-[Foreign_Policy] The Ankara Summit Declaration
-Published: 2026-07-08T14:05:08+00:00
-Link: https://foreignpolicy.com/2026/07/08/nato-ankara-summit-declaration-full-text-trump-ukraine-russia/
----
-[Foreign_Policy] Confronting Russia’s Shadow Fleet in Broad Daylight
-Published: 2026-07-08T14:02:05+00:00
-Link: https://foreignpolicy.com/2026/07/08/russia-shadow-fleet-reflagging-smuggling-maritime-baltics/
 ---
