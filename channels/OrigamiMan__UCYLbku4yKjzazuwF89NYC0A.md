@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-07-10T12:05:35Z_
+_آخرین به‌روزرسانی: 2026-07-11T10:21:00Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-07-11 10:00:16 (UTC)  
+  **مدت:** حدود 16.7 دقیقه  
+  **عنوان:** [33,Rainbow Expanding Wings Crane 🌈 | Requested by a Viewer | Quiet Origami【視聴者リクエスト】虹色の羽が広がる折り鶴](https://www.youtube.com/watch?v=34RW06z5qbg)  
+  ![](https://i.ytimg.com/vi/34RW06z5qbg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-04 10:00:11 (UTC)  

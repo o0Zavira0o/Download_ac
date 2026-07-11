@@ -1,9 +1,33 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-10T12:05:35Z_
+_آخرین به‌روزرسانی: 2026-07-11T10:21:00Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-11 10:09:33 (UTC)  
+  **مدت:** حدود 9.0 دقیقه  
+  **عنوان:** [AutoCAD Circle Command Bangla Tutorial  Center Radius, Diameter, 2P, 3P, TTR Explained  AutoCAD Cour](https://www.youtube.com/watch?v=epFgebzKuPA)  
+  ![](https://i.ytimg.com/vi/epFgebzKuPA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-11 04:11:58 (UTC)  
+  **مدت:** حدود 12.6 دقیقه  
+  **عنوان:** [AutoCAD XL Line Complete Details  Paid Full Course  Batch 08  EP 02](https://www.youtube.com/watch?v=ffqnssTfRfY)  
+  ![](https://i.ytimg.com/vi/ffqnssTfRfY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-10 15:57:34 (UTC)  
+  **مدت:** حدود 53.4 دقیقه  
+  **عنوان:** [BATCH 08 AUTOCAD FULL PAKAGE COURSE CLASS 01 BANGLA TUTORIALS](https://www.youtube.com/watch?v=DyBthFD7k_E)  
+  ![](https://i.ytimg.com/vi/DyBthFD7k_E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-10 15:15:47 (UTC)  
+  **مدت:** حدود 76.5 دقیقه  
+  **عنوان:** [AutoCAD Complete Architectural & Structural Design Course   Paid Training](https://www.youtube.com/watch?v=qwypfbYyAGI)  
+  ![](https://i.ytimg.com/vi/qwypfbYyAGI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-09 15:57:08 (UTC)  
@@ -880,27 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-10T12:05:35Z_
   **مدت:** حدود 21.4 دقیقه  
   **عنوان:** [AUTOCAD FOOTING SCHEDULE BANGLA TUTORIALS BSM CAD](https://www.youtube.com/watch?v=bt-BqZOhwsw)  
   ![](https://i.ytimg.com/vi/bt-BqZOhwsw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-24 16:09:39 (UTC)  
-  **مدت:** حدود 41.4 دقیقه  
-  **عنوان:** [AUTOCAD FOOTING DETAILS BANGLA TUTORIALS BSM CAD BATCH 03](https://www.youtube.com/watch?v=ikdlJKUmYgE)  
-  ![](https://i.ytimg.com/vi/ikdlJKUmYgE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-23 08:00:44 (UTC)  
-  **مدت:** حدود 11.6 دقیقه  
-  **عنوان:** [AutoCAD dimension Bangla tutorials bsm cad](https://www.youtube.com/watch?v=XRfD76nY59o)  
-  ![](https://i.ytimg.com/vi/XRfD76nY59o/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-23 07:55:28 (UTC)  
-  **مدت:** حدود 37.3 دقیقه  
-  **عنوان:** [AutoCAD column layout plan with dimension Bangla tutorials batch 04 ep 15](https://www.youtube.com/watch?v=xNC9oWnK4PM)  
-  ![](https://i.ytimg.com/vi/xNC9oWnK4PM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-23 04:03:01 (UTC)  
-  **مدت:** حدود 37.3 دقیقه  
-  **عنوان:** [autocad column layout plan with dimension bangla tutorials batch 04 ep 15](https://www.youtube.com/watch?v=ddX25U199vs)  
-  ![](https://i.ytimg.com/vi/ddX25U199vs/hqdefault.jpg)
