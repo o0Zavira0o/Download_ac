@@ -1,4 +1,4 @@
-# Last Run: 2026-07-11 11:10 UTC
+# Last Run: 2026-07-11 13:25 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
@@ -128,8 +128,4 @@ Link: https://foreignpolicy.com/2026/07/08/nato-ankara-summit-declaration-full-t
 [Foreign_Policy] Confronting Russia’s Shadow Fleet in Broad Daylight
 Published: 2026-07-08T14:02:05+00:00
 Link: https://foreignpolicy.com/2026/07/08/russia-shadow-fleet-reflagging-smuggling-maritime-baltics/
----
-[Foreign_Policy] The Global Energy Map Is Being Redrawn in Real Time
-Published: 2026-07-08T13:10:06+00:00
-Link: https://foreignpolicy.com/2026/07/08/energy-oil-fossil-fuel-hormuz-iran-ukraine-war/
 ---
