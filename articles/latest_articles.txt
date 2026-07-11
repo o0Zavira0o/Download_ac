@@ -1,4 +1,4 @@
-# Last Run: 2026-07-10 23:04 UTC
+# Last Run: 2026-07-11 02:47 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
@@ -72,6 +72,10 @@ Link: https://foreignpolicy.com/2026/07/09/iraq-prime-minister-iran-oil-militias
 [Foreign_Policy] Ukraine Finally Has a Theory of Victory. Will It Work?
 Published: 2026-07-09T10:52:24+00:00
 Link: https://foreignpolicy.com/2026/07/09/ukraine-russia-war-theory-victory-putin-zelensky-crimea-missiles-deep-strikes-oil-refinieries/
+---
+[New_Yorker_Magazine] “Birthright” and “Giant” Tackle Jewish Identity.
+Published: 2026-07-09T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/07/20/birthright-theatre-review-giant-broadway
 ---
 [Foreign_Affairs] Trump Is Remaking Latin America
 Published: 2026-07-09T04:00:00+00:00
