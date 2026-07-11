@@ -1,4 +1,4 @@
-# Last Run: 2026-07-11 19:07 UTC
+# Last Run: 2026-07-11 20:53 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
@@ -96,12 +96,4 @@ Link: https://foreignpolicy.com/2026/07/08/us-iran-cease-fire-over-trump-nato-su
 [Foreign_Policy] Modi Seeks to Project Influence on Asia-Pacific Trip
 Published: 2026-07-08T20:55:25+00:00
 Link: https://foreignpolicy.com/2026/07/08/modi-trip-asia-pacific-india-indonesia-australia-new-zealand/
----
-[Foreign_Policy] Propaganda Sustains Russians Fighting in Ukraine
-Published: 2026-07-08T19:39:46+00:00
-Link: https://foreignpolicy.com/2026/07/08/propaganda-sustains-russians-fighting-in-ukraine/
----
-[Foreign_Policy] Can Zambia’s Historic Debt Swap Drive Economic Growth?
-Published: 2026-07-08T19:38:37+00:00
-Link: https://foreignpolicy.com/2026/07/08/zambia-debt-swap-economics-energy-power-copper/
 ---
