@@ -1,4 +1,4 @@
-# Last Run: 2026-07-12 20:55 UTC
+# Last Run: 2026-07-12 22:59 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
@@ -56,12 +56,4 @@ Link: https://www.foreignaffairs.com/united-states/how-win-defense-innovation-co
 [Foreign_Affairs] Iran Is Losing Iraq
 Published: 2026-07-10T04:00:00+00:00
 Link: https://www.foreignaffairs.com/iran/iran-losing-iraq
----
-[Foreign_Policy] NATO’s Waiting Game
-Published: 2026-07-09T21:24:23+00:00
-Link: https://foreignpolicy.com/2026/07/09/nato-summit-ankara-trump-europe-rutte-erdogan/
----
-[Foreign_Policy] U.S., Iran Return to the Brink of All-Out War
-Published: 2026-07-09T21:10:18+00:00
-Link: https://foreignpolicy.com/2026/07/09/us-iran-war-strikes-intensify-cease-fire-over-trump-strait-hormuz/
 ---
