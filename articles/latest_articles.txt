@@ -1,4 +1,4 @@
-# Last Run: 2026-07-12 09:55 UTC
+# Last Run: 2026-07-12 11:14 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
@@ -68,12 +68,4 @@ Link: https://foreignpolicy.com/2026/07/09/us-iran-war-strikes-intensify-cease-f
 [Foreign_Policy] Will Iraq’s New Prime Minister Really Take On Corruption?
 Published: 2026-07-09T15:01:33+00:00
 Link: https://foreignpolicy.com/2026/07/09/iraq-prime-minister-iran-oil-militias-corruption/
----
-[Foreign_Policy] Ukraine Finally Has a Theory of Victory. Will It Work?
-Published: 2026-07-09T10:52:24+00:00
-Link: https://foreignpolicy.com/2026/07/09/ukraine-russia-war-theory-victory-putin-zelensky-crimea-missiles-deep-strikes-oil-refinieries/
----
-[New_Yorker_Magazine] “Birthright” and “Giant” Tackle Jewish Identity.
-Published: 2026-07-09T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/birthright-theatre-review-giant-broadway
 ---
