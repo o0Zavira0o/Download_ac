@@ -1,4 +1,4 @@
-# Last Run: 2026-07-12 13:26 UTC
+# Last Run: 2026-07-12 16:01 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
@@ -64,8 +64,4 @@ Link: https://foreignpolicy.com/2026/07/09/nato-summit-ankara-trump-europe-rutte
 [Foreign_Policy] U.S., Iran Return to the Brink of All-Out War
 Published: 2026-07-09T21:10:18+00:00
 Link: https://foreignpolicy.com/2026/07/09/us-iran-war-strikes-intensify-cease-fire-over-trump-strait-hormuz/
----
-[Foreign_Policy] Will Iraq’s New Prime Minister Really Take On Corruption?
-Published: 2026-07-09T15:01:33+00:00
-Link: https://foreignpolicy.com/2026/07/09/iraq-prime-minister-iran-oil-militias-corruption/
 ---
