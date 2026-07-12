@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-11T10:21:00Z_
+_آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-11 16:10:29 (UTC)  
+  **مدت:** حدود 20.3 دقیقه  
+  **عنوان:** [Autodesk Inventor Tutorial-Exercise 37](https://www.youtube.com/watch?v=4Sv7lnfUQiE)  
+  ![](https://i.ytimg.com/vi/4Sv7lnfUQiE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-09 14:55:13 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-11T10:21:00Z_
   **مدت:** حدود 33.0 دقیقه  
   **عنوان:** [Solidworks tutorial | motion Study (Animation) in Solidworks](https://www.youtube.com/watch?v=o7imLniOXEY)  
   ![](https://i.ytimg.com/vi/o7imLniOXEY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-23 20:16:09 (UTC)  
-  **مدت:** حدود 21.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Bolt and Nut in Solidworks](https://www.youtube.com/watch?v=N2mRhiN-_cY)  
-  ![](https://i.ytimg.com/vi/N2mRhiN-_cY/hqdefault.jpg)

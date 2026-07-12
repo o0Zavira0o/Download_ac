@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-11T10:21:00Z_
+_آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-11 20:29:42 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Post & DHL App #easygerman #post #dhl #deutschonline](https://www.youtube.com/watch?v=f7t8ze2G1ds)  
+  ![](https://i.ytimg.com/vi/f7t8ze2G1ds/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-10 11:07:27 (UTC)  
@@ -1124,7 +1130,7 @@ _آخرین به‌روزرسانی: 2026-07-11T10:21:00Z_
 
 - **تاریخ انتشار:** 2025-12-21 18:01:04 (UTC)  
   **مدت:** حدود 24.1 دقیقه  
-  **عنوان:** [48 Hours in Istanbul (German Vlog) | Easy German 640](https://www.youtube.com/watch?v=srGx0oAtkYg)  
+  **عنوان:** [48 Hours in Istanbul (German Vlog)](https://www.youtube.com/watch?v=srGx0oAtkYg)  
   ![](https://i.ytimg.com/vi/srGx0oAtkYg/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-11T10:21:00Z_
   **مدت:** حدود 7.7 دقیقه  
   **عنوان:** [What do you think about Facebook? | Easy German 150](https://www.youtube.com/watch?v=KW0egCK5MKc)  
   ![](https://i.ytimg.com/vi/KW0egCK5MKc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-06-30 20:54:11 (UTC)  
-  **مدت:** حدود 2.8 دقیقه  
-  **عنوان:** [5 Steps to a perfect German Accent](https://www.youtube.com/watch?v=XlGGgNFYMQo)  
-  ![](https://i.ytimg.com/vi/XlGGgNFYMQo/hqdefault.jpg)

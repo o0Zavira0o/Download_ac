@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-11T10:21:00Z_
+_آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-12 08:56:51 (UTC)  
+  **مدت:** حدود 40.0 دقیقه  
+  **عنوان:** [Untitled ProjectSketchUp Basic to Advanced Full Course 2026  Complete Bangla Tutorial EP 09](https://www.youtube.com/watch?v=JAe1BTmqOfc)  
+  ![](https://i.ytimg.com/vi/JAe1BTmqOfc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-11 10:09:33 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-11T10:21:00Z_
   **مدت:** حدود 106.4 دقیقه  
   **عنوان:** [AUTOCAD FULL COURSE A TO Z BANGLA TUTORIALS Architecture & StructureB](https://www.youtube.com/watch?v=Ewk7v92BY2A)  
   ![](https://i.ytimg.com/vi/Ewk7v92BY2A/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-24 16:21:31 (UTC)  
-  **مدت:** حدود 21.4 دقیقه  
-  **عنوان:** [AUTOCAD FOOTING SCHEDULE BANGLA TUTORIALS BSM CAD](https://www.youtube.com/watch?v=bt-BqZOhwsw)  
-  ![](https://i.ytimg.com/vi/bt-BqZOhwsw/hqdefault.jpg)

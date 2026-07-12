@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-11T10:21:00Z_
+_آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-11 16:20:47 (UTC)  
+  **مدت:** حدود 11.4 دقیقه  
+  **عنوان:** [Solidworks Cube design with multiple bodies | Solidworks beginners tutorial](https://www.youtube.com/watch?v=b46RYxUGTZ4)  
+  ![](https://i.ytimg.com/vi/b46RYxUGTZ4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-11 02:49:29 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-11T10:21:00Z_
   **مدت:** حدود 32.6 دقیقه  
   **عنوان:** [SOLIDWORKS BARREL MECHANISM TUTORIAL | PARTS DESIGN - ASSEMBLY - ANIMATION](https://www.youtube.com/watch?v=_OgqWYrGrL8)  
   ![](https://i.ytimg.com/vi/_OgqWYrGrL8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-15 03:09:53 (UTC)  
-  **مدت:** حدود 2.1 دقیقه  
-  **عنوان:** [Cut on curve surface in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=72tO7EsxpHI)  
-  ![](https://i.ytimg.com/vi/72tO7EsxpHI/hqdefault.jpg)
