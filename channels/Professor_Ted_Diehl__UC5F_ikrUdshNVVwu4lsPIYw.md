@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
+_آخرین به‌روزرسانی: 2026-07-13T12:14:16Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
+
+
+- **تاریخ انتشار:** 2026-07-12 20:29:27 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Chipping Sparrow](https://www.youtube.com/watch?v=TI2TUXQGfp8)  
+  ![](https://i.ytimg.com/vi/TI2TUXQGfp8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-05 21:03:47 (UTC)  

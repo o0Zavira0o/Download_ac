@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
+_آخرین به‌روزرسانی: 2026-07-13T12:14:16Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-13 03:30:15 (UTC)  
+  **مدت:** حدود 26.8 دقیقه  
+  **عنوان:** [SolidWorks Exercise-Crane Hook Modeling](https://www.youtube.com/watch?v=bBa6PwXW6I4)  
+  ![](https://i.ytimg.com/vi/bBa6PwXW6I4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-11 16:10:29 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
   **مدت:** حدود 49.3 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch House in Solidworks](https://www.youtube.com/watch?v=-MKz6uIzrc8)  
   ![](https://i.ytimg.com/vi/-MKz6uIzrc8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-24 21:14:44 (UTC)  
-  **مدت:** حدود 33.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | motion Study (Animation) in Solidworks](https://www.youtube.com/watch?v=o7imLniOXEY)  
-  ![](https://i.ytimg.com/vi/o7imLniOXEY/hqdefault.jpg)

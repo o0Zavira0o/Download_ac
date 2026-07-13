@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
+_آخرین به‌روزرسانی: 2026-07-13T12:14:16Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/jeremyethier  
+
+
+- **تاریخ انتشار:** 2026-07-12 13:30:35 (UTC)  
+  **مدت:** حدود 23.1 دقیقه  
+  **عنوان:** [10% Body Fat vs 50% Body Fat (Diet Swap)](https://www.youtube.com/watch?v=HkrWExj1QNk)  
+  ![](https://i.ytimg.com/vi/HkrWExj1QNk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-28 13:45:31 (UTC)  

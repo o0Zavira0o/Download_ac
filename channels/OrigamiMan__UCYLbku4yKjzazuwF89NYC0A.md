@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
+_آخرین به‌روزرسانی: 2026-07-13T12:14:16Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-07-13 10:00:19 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [32-2✨ 12 Sheets → Stunning Diamond Pattern! | Modular Origami Short12枚で組む美しいダイヤ模様✨ やぐら型ユニット折り紙｜ショート](https://www.youtube.com/watch?v=UgFzW5Ah5-Q)  
+  ![](https://i.ytimg.com/vi/UgFzW5Ah5-Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-11 10:00:16 (UTC)  

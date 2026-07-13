@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
+_آخرین به‌روزرسانی: 2026-07-13T12:14:16Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-07-13 12:02:49 (UTC)  
+  **مدت:** حدود 5.2 دقیقه  
+  **عنوان:** [Glass Fence Modeling in nanoCAD: Array, Trim & Extend - nanoCAD 3D Modeling - Lesson 12](https://www.youtube.com/watch?v=0rUjYz8A0Sw)  
+  ![](https://i.ytimg.com/vi/0rUjYz8A0Sw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-29 12:21:46 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
   **مدت:** حدود 5.6 دقیقه  
   **عنوان:** [Placing Text - Lesson 6](https://www.youtube.com/watch?v=tbGJGXHol7U)  
   ![](https://i.ytimg.com/vi/tbGJGXHol7U/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2019-11-14 13:42:48 (UTC)  
-  **مدت:** حدود 5.4 دقیقه  
-  **عنوان:** [Drawing Polylines - Lesson 5](https://www.youtube.com/watch?v=8e_zFpk3EC8)  
-  ![](https://i.ytimg.com/vi/8e_zFpk3EC8/hqdefault.jpg)

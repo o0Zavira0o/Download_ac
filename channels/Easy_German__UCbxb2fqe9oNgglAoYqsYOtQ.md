@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
+_آخرین به‌روزرسانی: 2026-07-13T12:14:16Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-13 10:10:42 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Warum gibt es etwas und nicht vielmehr nichts? #shorts](https://www.youtube.com/watch?v=-67n7axrqZ0)  
+  ![](https://i.ytimg.com/vi/-67n7axrqZ0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-12 17:00:23 (UTC)  
+  **مدت:** حدود 14.7 دقیقه  
+  **عنوان:** [Learn German from the Streets of Cologne](https://www.youtube.com/watch?v=IWfznDk-rLc)  
+  ![](https://i.ytimg.com/vi/IWfznDk-rLc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-11 20:29:42 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-12T10:39:19Z_
   **مدت:** حدود 8.8 دقیقه  
   **عنوان:** [At a German School | Easy German 152](https://www.youtube.com/watch?v=uQ7hsFGnfrY)  
   ![](https://i.ytimg.com/vi/uQ7hsFGnfrY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-07-10 17:31:07 (UTC)  
-  **مدت:** حدود 8.7 دقیقه  
-  **عنوان:** [What are Germans most afraid of? | Easy German 151](https://www.youtube.com/watch?v=r6agxcZaBrk)  
-  ![](https://i.ytimg.com/vi/r6agxcZaBrk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-07-03 16:51:19 (UTC)  
-  **مدت:** حدود 7.7 دقیقه  
-  **عنوان:** [What do you think about Facebook? | Easy German 150](https://www.youtube.com/watch?v=KW0egCK5MKc)  
-  ![](https://i.ytimg.com/vi/KW0egCK5MKc/hqdefault.jpg)
