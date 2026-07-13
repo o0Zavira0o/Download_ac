@@ -1,6 +1,10 @@
-# Last Run: 2026-07-13 11:17 UTC
+# Last Run: 2026-07-13 14:39 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Will Lula Win the Century?
+Published: 2026-07-13T11:00:50+00:00
+Link: https://foreignpolicy.com/2026/07/13/brazil-lula-bolsonaro-election-history-pagliarini-book-review/
+---
 [Foreign_Policy] NATO Is Still a Sick Puppy
 Published: 2026-07-13T09:30:49+00:00
 Link: https://foreignpolicy.com/2026/07/13/nato-trump-europe-summit-ankara-alliance-russia-defense-geopolitics/
@@ -48,12 +52,4 @@ Link: https://foreignpolicy.com/2026/07/10/dmytro-kuleba-ukraine-russia-war-vict
 [Foreign_Policy] What in the World?
 Published: 2026-07-10T17:38:55+00:00
 Link: https://foreignpolicy.com/2026/07/10/news-quiz-china-missile-test-fire-philippines-impeachment-nato-leaders-summit/
----
-[Foreign_Policy] Is Ukraine’s Decentralized Drone Innovation a Blip or a Revolution?
-Published: 2026-07-10T13:55:20+00:00
-Link: https://foreignpolicy.com/2026/07/10/ukraine-drones-front-battlefield-innovation/
----
-[Foreign_Policy] What the World Cup Meant to Mexico
-Published: 2026-07-10T12:00:53+00:00
-Link: https://foreignpolicy.com/2026/07/10/mexico-world-cup-legacy-host-quinones-jimenez-sheinbaum/
 ---
