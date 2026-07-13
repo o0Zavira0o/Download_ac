@@ -1,6 +1,14 @@
-# Last Run: 2026-07-13 14:39 UTC
+# Last Run: 2026-07-13 19:28 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Stop Overreacting to China’s Missile Test
+Published: 2026-07-13T16:20:51+00:00
+Link: https://foreignpolicy.com/2026/07/13/china-nuclear-missile-test-launch-slbm/
+---
+[Foreign_Policy] Washington Shouldn’t Fear NATO Expansion
+Published: 2026-07-13T15:43:27+00:00
+Link: https://foreignpolicy.com/2026/07/13/nato-expansion-ukraine-sweden-trump/
+---
 [Foreign_Policy] Will Lula Win the Century?
 Published: 2026-07-13T11:00:50+00:00
 Link: https://foreignpolicy.com/2026/07/13/brazil-lula-bolsonaro-election-history-pagliarini-book-review/
@@ -20,36 +28,4 @@ Link: https://www.foreignaffairs.com/united-states/america-and-irans-strange-mom
 [Foreign_Affairs] Senegal Is on the Brink
 Published: 2026-07-13T04:00:00+00:00
 Link: https://www.foreignaffairs.com/senegal/senegal-brink
----
-[Foreign_Policy] U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
-Published: 2026-07-10T19:27:46+00:00
-Link: https://foreignpolicy.com/2026/07/10/us-iran-war-cease-fire-over-strikes-strait-hormuz-qatar-pakistan/
----
-[Foreign_Policy] Evacuating Art From Ukraine’s Front Lines
-Published: 2026-07-10T19:01:49+00:00
-Link: https://foreignpolicy.com/2026/07/10/evacuating-art-from-ukraines-front-lines/
----
-[Foreign_Policy] The CIA’s First Failed Coup
-Published: 2026-07-10T18:45:27+00:00
-Link: https://foreignpolicy.com/2026/07/10/cia-history-communist-albania-cold-war-kim-philby-review/
----
-[Foreign_Policy] Surviving an Oil Spill in Louisiana, and More New Fiction for July
-Published: 2026-07-10T18:30:50+00:00
-Link: https://foreignpolicy.com/2026/07/10/international-fiction-releases-should-waters-take-us-stephanie-soileau-hustle-baby-priya-guns/
----
-[Foreign_Policy] A World of Scams
-Published: 2026-07-10T18:15:13+00:00
-Link: https://foreignpolicy.com/2026/07/10/yahoo-boys-crime-nigeria-scams/
----
-[Foreign_Policy] Are Movies to Blame?
-Published: 2026-07-10T18:00:56+00:00
-Link: https://foreignpolicy.com/2026/07/10/review-flicker-light-revisionist-history-thomson/
----
-[Foreign_Policy] How Ukraine Figured Out Trump World
-Published: 2026-07-10T17:48:02+00:00
-Link: https://foreignpolicy.com/2026/07/10/dmytro-kuleba-ukraine-russia-war-victory-nato-patriot-missile/
----
-[Foreign_Policy] What in the World?
-Published: 2026-07-10T17:38:55+00:00
-Link: https://foreignpolicy.com/2026/07/10/news-quiz-china-missile-test-fire-philippines-impeachment-nato-leaders-summit/
 ---
