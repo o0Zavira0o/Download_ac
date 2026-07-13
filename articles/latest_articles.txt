@@ -1,6 +1,18 @@
-# Last Run: 2026-07-13 02:56 UTC
+# Last Run: 2026-07-13 06:58 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Politicization of the U.S. Military Did Not Start With Trump
+Published: 2026-07-13T04:01:26+00:00
+Link: https://foreignpolicy.com/2026/07/13/politicization-military-trump-macarthur-truman/
+---
+[Foreign_Affairs] America and Iran’s Strange Moment of Opportunity
+Published: 2026-07-13T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/america-and-irans-strange-moment-opportunity
+---
+[Foreign_Affairs] Senegal Is on the Brink
+Published: 2026-07-13T04:00:00+00:00
+Link: https://www.foreignaffairs.com/senegal/senegal-brink
+---
 [Foreign_Policy] U.S.-Iran Talks May Continue, but the Cease-Fire Is Over
 Published: 2026-07-10T19:27:46+00:00
 Link: https://foreignpolicy.com/2026/07/10/us-iran-war-cease-fire-over-strikes-strait-hormuz-qatar-pakistan/
@@ -44,16 +56,4 @@ Link: https://foreignpolicy.com/2026/07/10/mexico-world-cup-legacy-host-quinones
 [Foreign_Policy] Why Netanyahu Is Crying Wolf on Turkey
 Published: 2026-07-10T10:29:42+00:00
 Link: https://foreignpolicy.com/2026/07/10/israel-netanyahu-turkey-erdogan-politics-election-iran/
----
-[Foreign_Policy] Why We Know More About China’s Next-Generation Fighters Than America’s
-Published: 2026-07-10T04:01:06+00:00
-Link: https://foreignpolicy.com/2026/07/10/china-next-generation-fighters-internet-intelligence/
----
-[Foreign_Affairs] How to Win the Defense Innovation Contest
-Published: 2026-07-10T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/how-win-defense-innovation-contest
----
-[Foreign_Affairs] Iran Is Losing Iraq
-Published: 2026-07-10T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/iran-losing-iraq
 ---
