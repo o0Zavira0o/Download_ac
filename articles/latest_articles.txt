@@ -1,6 +1,10 @@
-# Last Run: 2026-07-14 11:43 UTC
+# Last Run: 2026-07-14 13:54 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] AOC Meets World
+Published: 2026-07-14T11:00:01+00:00
+Link: https://foreignpolicy.com/2026/07/14/aoc-progressive-foreign-policy-trump-democrats-taiwan-palestine-munich-2028/
+---
 [Foreign_Affairs] Putin Will Turn a Cease-Fire Into a Weapon
 Published: 2026-07-14T04:00:00+00:00
 Link: https://www.foreignaffairs.com/russia/putin-will-turn-cease-fire-weapon
