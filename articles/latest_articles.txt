@@ -1,4 +1,4 @@
-# Last Run: 2026-07-14 06:16 UTC
+# Last Run: 2026-07-14 10:03 UTC
 # Articles published in last 72 hours
 
 [Foreign_Affairs] Putin Will Turn a Cease-Fire Into a Weapon
@@ -116,8 +116,4 @@ Link: https://www.newyorker.com/magazine/2026/07/20/gatekeeping-fiction-bryan-wa
 [New_Yorker_Magazine] An O.M.B. Plan to Defund Science—and Anything Trump Doesn’t Like
 Published: 2026-07-12T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/07/20/an-omb-plan-to-defund-science-and-anything-trump-doesnt-like
----
-[New_Yorker_Magazine] The Great American State Flop
-Published: 2026-07-11T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/the-great-american-state-flop
 ---
