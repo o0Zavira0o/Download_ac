@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-13T12:14:16Z_
+_آخرین به‌روزرسانی: 2026-07-14T10:52:51Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-14 07:22:07 (UTC)  
+  **مدت:** حدود 53.9 دقیقه  
+  **عنوان:** [SketchUp Basic to Advanced Full Course 2026  Complete Bangla Tutorial EP 06](https://www.youtube.com/watch?v=FDXFw0dwjes)  
+  ![](https://i.ytimg.com/vi/FDXFw0dwjes/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-14 04:47:19 (UTC)  
+  **مدت:** حدود 29.7 دقیقه  
+  **عنوان:** [SketchUp Basic to Advanced Full Course 2026  Complete Bangla Tutorial EP 07](https://www.youtube.com/watch?v=QF1AFhbHank)  
+  ![](https://i.ytimg.com/vi/QF1AFhbHank/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-13 16:09:34 (UTC)  
+  **مدت:** حدود 47.8 دقیقه  
+  **عنوان:** [SketchUp Basic to Advanced Full Course 2026  Complete Bangla Tutorial EP 08](https://www.youtube.com/watch?v=Iw05XUdwYkI)  
+  ![](https://i.ytimg.com/vi/Iw05XUdwYkI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-12 08:56:51 (UTC)  
@@ -886,21 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-13T12:14:16Z_
   **مدت:** حدود 17.8 دقیقه  
   **عنوان:** [AutoCAD full course Saudi Arabia a to z Bangla tutorials Ep 22](https://www.youtube.com/watch?v=s9SfWVMcwIg)  
   ![](https://i.ytimg.com/vi/s9SfWVMcwIg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-28 16:27:52 (UTC)  
-  **مدت:** حدود 121.9 دقیقه  
-  **عنوان:** [AUTOCAD FULL COURSE A TO Z BANGLA TUTORIALS architecture & structure](https://www.youtube.com/watch?v=D9kkbJ0ofOA)  
-  ![](https://i.ytimg.com/vi/D9kkbJ0ofOA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-27 18:52:34 (UTC)  
-  **مدت:** حدود 230.7 دقیقه  
-  **عنوان:** [AUTOCAD FULL COURSE A TO Z BANGLA TUTORIALS Architecture & StructureC](https://www.youtube.com/watch?v=FG9kiXjEPyU)  
-  ![](https://i.ytimg.com/vi/FG9kiXjEPyU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-24 16:42:09 (UTC)  
-  **مدت:** حدود 106.4 دقیقه  
-  **عنوان:** [AUTOCAD FULL COURSE A TO Z BANGLA TUTORIALS Architecture & StructureB](https://www.youtube.com/watch?v=Ewk7v92BY2A)  
-  ![](https://i.ytimg.com/vi/Ewk7v92BY2A/hqdefault.jpg)
