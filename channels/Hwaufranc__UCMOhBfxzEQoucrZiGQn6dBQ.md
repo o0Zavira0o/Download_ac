@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-07-14T10:52:51Z_
+_آخرین به‌روزرسانی: 2026-07-15T10:57:11Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-07-14 13:00:26 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [다꾸 ASMR Scrapbooking💛💛 #shorts #journal](https://www.youtube.com/watch?v=k7YxV0fiy0Y)  
+  ![](https://i.ytimg.com/vi/k7YxV0fiy0Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-13 13:00:18 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-07-14T10:52:51Z_
   **مدت:** حدود 9.4 دقیقه  
   **عنوان:** [ASMR Various Stationery Haul ⚘️Stationery Pal⚘️ Creative Journaling Item Unboxing](https://www.youtube.com/watch?v=t_4bjcGihFo)  
   ![](https://i.ytimg.com/vi/t_4bjcGihFo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-04-29 13:53:00 (UTC)  
-  **مدت:** حدود 2.7 دقیقه  
-  **عنوان:** [ASMR Aesthetic Scrapbooking and Unboxing❤️ by Obujo](https://www.youtube.com/watch?v=BdW7ZN1gt3E)  
-  ![](https://i.ytimg.com/vi/BdW7ZN1gt3E/hqdefault.jpg)

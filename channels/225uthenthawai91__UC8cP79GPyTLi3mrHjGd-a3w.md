@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-07-14T10:52:51Z_
+_آخرین به‌روزرسانی: 2026-07-15T10:57:11Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-07-14 18:35:46 (UTC)  
+  **مدت:** حدود 10.6 دقیقه  
+  **عنوان:** [Ep.22 Upgrade Main Extruder Hopper & Mortar Auger Feed  Unit](https://www.youtube.com/watch?v=9CWeC79ENOc)  
+  ![](https://i.ytimg.com/vi/9CWeC79ENOc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-06 04:42:44 (UTC)  

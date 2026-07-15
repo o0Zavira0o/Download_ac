@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال SolidWorks With Aryan Fallahi
 
-_آخرین به‌روزرسانی: 2026-07-14T10:52:51Z_
+_آخرین به‌روزرسانی: 2026-07-15T10:57:11Z_
 
 
 **لینک استاندارد کانال:** [SolidWorks With Aryan Fallahi](https://www.youtube.com/channel/UCRmLnVaHsSAH0HkXfeoxG6w)  
+
+
+- **تاریخ انتشار:** 2026-07-14 14:00:02 (UTC)  
+  **مدت:** حدود 12.2 دقیقه  
+  **عنوان:** [The End of the Average CAD Designer](https://www.youtube.com/watch?v=Eo9Apk2Gb1g)  
+  ![](https://i.ytimg.com/vi/Eo9Apk2Gb1g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-19 21:48:36 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-14T10:52:51Z_
   **مدت:** حدود 16.6 دقیقه  
   **عنوان:** [Leveraging SOLIDWORKS to make money](https://www.youtube.com/watch?v=lekV4-Cl_ko)  
   ![](https://i.ytimg.com/vi/lekV4-Cl_ko/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2023-07-15 17:00:03 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [3DEXPERIENCE | Cloud Offer](https://www.youtube.com/watch?v=4jPDALDeCLo)  
-  ![](https://i.ytimg.com/vi/4jPDALDeCLo/hqdefault.jpg)

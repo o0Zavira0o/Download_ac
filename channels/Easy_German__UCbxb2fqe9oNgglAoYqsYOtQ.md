@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-14T10:52:51Z_
+_آخرین به‌روزرسانی: 2026-07-15T10:57:11Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-14 19:21:37 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Tipps für Hannover #easygerman #hannover #studygerman](https://www.youtube.com/watch?v=f1l0bIZdIcg)  
+  ![](https://i.ytimg.com/vi/f1l0bIZdIcg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-13 10:10:42 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-14T10:52:51Z_
   **مدت:** حدود 5.0 دقیقه  
   **عنوان:** [German School Vocabulary | Easy German 153](https://www.youtube.com/watch?v=k2HCSyOmNAg)  
   ![](https://i.ytimg.com/vi/k2HCSyOmNAg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-07-17 20:45:06 (UTC)  
-  **مدت:** حدود 8.8 دقیقه  
-  **عنوان:** [At a German School | Easy German 152](https://www.youtube.com/watch?v=uQ7hsFGnfrY)  
-  ![](https://i.ytimg.com/vi/uQ7hsFGnfrY/hqdefault.jpg)

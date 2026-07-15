@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-14T10:52:51Z_
+_آخرین به‌روزرسانی: 2026-07-15T10:57:11Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-15 03:30:01 (UTC)  
+  **مدت:** حدود 28.8 دقیقه  
+  **عنوان:** [ice Mold tutorial-SolidWorks Mold exercise](https://www.youtube.com/watch?v=vdM6FCppj3I)  
+  ![](https://i.ytimg.com/vi/vdM6FCppj3I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-13 03:30:15 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-14T10:52:51Z_
   **مدت:** حدود 127.5 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Quadcopter (Drone) in Solidworks](https://www.youtube.com/watch?v=8BchvQPJsL0)  
   ![](https://i.ytimg.com/vi/8BchvQPJsL0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-26 01:04:14 (UTC)  
-  **مدت:** حدود 49.3 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch House in Solidworks](https://www.youtube.com/watch?v=-MKz6uIzrc8)  
-  ![](https://i.ytimg.com/vi/-MKz6uIzrc8/hqdefault.jpg)

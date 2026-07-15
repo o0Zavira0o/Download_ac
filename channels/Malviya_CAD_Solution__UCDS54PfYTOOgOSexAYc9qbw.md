@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-14T10:52:51Z_
+_آخرین به‌روزرسانی: 2026-07-15T10:57:11Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-15 02:11:42 (UTC)  
+  **مدت:** حدود 2.6 دقیقه  
+  **عنوان:** [Herringbone gear mate in solidworks 😀 #shorts #ytshorts #malviyacadsolution #solidworks](https://www.youtube.com/watch?v=me3kFUm1di8)  
+  ![](https://i.ytimg.com/vi/me3kFUm1di8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-11 16:20:47 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-14T10:52:51Z_
   **مدت:** حدود 2.1 دقیقه  
   **عنوان:** [Rope Design in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=IaoXvf1shzw)  
   ![](https://i.ytimg.com/vi/IaoXvf1shzw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-16 02:41:33 (UTC)  
-  **مدت:** حدود 32.6 دقیقه  
-  **عنوان:** [SOLIDWORKS BARREL MECHANISM TUTORIAL | PARTS DESIGN - ASSEMBLY - ANIMATION](https://www.youtube.com/watch?v=_OgqWYrGrL8)  
-  ![](https://i.ytimg.com/vi/_OgqWYrGrL8/hqdefault.jpg)
