@@ -1,6 +1,22 @@
-# Last Run: 2026-07-15 02:35 UTC
+# Last Run: 2026-07-15 10:09 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] What Did the Nine-Dash Line Ruling Accomplish?
+Published: 2026-07-15T05:00:42+00:00
+Link: https://foreignpolicy.com/2026/07/15/south-china-sea-philippines-nine-dash-line-ruling/
+---
+[Foreign_Policy] NATO Is Splitting in Two
+Published: 2026-07-15T04:01:47+00:00
+Link: https://foreignpolicy.com/2026/07/15/nato-future-ankara-summit/
+---
+[Foreign_Affairs] The World Is Giving Up on America
+Published: 2026-07-15T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/world-giving-america
+---
+[Foreign_Affairs] China Is Sabotaging the World That Enables Its Rise
+Published: 2026-07-15T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/china-sabotaging-world-enables-its-rise
+---
 [Foreign_Policy] China Wants to Regulate AI Companions
 Published: 2026-07-14T22:19:15+00:00
 Link: https://foreignpolicy.com/2026/07/14/china-ai-companions-regulation-takes-effect/
@@ -136,16 +152,4 @@ Link: https://www.foreignaffairs.com/united-states/america-and-irans-strange-mom
 [Foreign_Affairs] Senegal Is on the Brink
 Published: 2026-07-13T04:00:00+00:00
 Link: https://www.foreignaffairs.com/senegal/senegal-brink
----
-[New_Yorker_Magazine] The Art of Ana Mendieta Comes Into Focus at the Tate Modern
-Published: 2026-07-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/ana-mendieta-the-body-artist
----
-[New_Yorker_Magazine] “Gatekeeping,” by Bryan Washington
-Published: 2026-07-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/gatekeeping-fiction-bryan-washington
----
-[New_Yorker_Magazine] An O.M.B. Plan to Defund Science—and Anything Trump Doesn’t Like
-Published: 2026-07-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/an-omb-plan-to-defund-science-and-anything-trump-doesnt-like
 ---
