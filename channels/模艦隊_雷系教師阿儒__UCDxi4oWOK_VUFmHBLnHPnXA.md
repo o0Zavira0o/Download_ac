@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-07-15T10:57:11Z_
+_آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-07-15 11:00:22 (UTC)  
+  **مدت:** حدود 18.0 دقیقه  
+  **عنوان:** [【SolidWorks】軸支撐底座：肋材練習｜別再用伸長填料代替囉](https://www.youtube.com/watch?v=QbUk3Kb-Ugc)  
+  ![](https://i.ytimg.com/vi/QbUk3Kb-Ugc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-10 11:00:32 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-15T10:57:11Z_
   **مدت:** حدود 18.8 دقیقه  
   **عنوان:** [【solidworks】證照題庫練習：修改圓角｜內容超精彩](https://www.youtube.com/watch?v=lBUToJAi6lw)  
   ![](https://i.ytimg.com/vi/lBUToJAi6lw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-05-03 11:01:22 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [短片看建模：Onshape複雜的題目簡單畫](https://www.youtube.com/watch?v=uvLX25q2-34)  
-  ![](https://i.ytimg.com/vi/uvLX25q2-34/hqdefault.jpg)

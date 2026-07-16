@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-15T10:57:11Z_
+_آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-15 17:00:07 (UTC)  
+  **مدت:** حدود 2.4 دقیقه  
+  **عنوان:** [Invite Easy German to Your Country!](https://www.youtube.com/watch?v=y4FvsGRduAM)  
+  ![](https://i.ytimg.com/vi/y4FvsGRduAM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-14 19:21:37 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-15T10:57:11Z_
   **مدت:** حدود 8.8 دقیقه  
   **عنوان:** [Which role would you play in a movie? | Easy German 154](https://www.youtube.com/watch?v=Qmk3pX58NB8)  
   ![](https://i.ytimg.com/vi/Qmk3pX58NB8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-07-24 18:01:02 (UTC)  
-  **مدت:** حدود 5.0 دقیقه  
-  **عنوان:** [German School Vocabulary | Easy German 153](https://www.youtube.com/watch?v=k2HCSyOmNAg)  
-  ![](https://i.ytimg.com/vi/k2HCSyOmNAg/hqdefault.jpg)

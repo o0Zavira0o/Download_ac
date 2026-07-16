@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-15T10:57:11Z_
+_آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-15 17:37:05 (UTC)  
+  **مدت:** حدود 11.8 دقیقه  
+  **عنوان:** [Herringbone Gear assembly in Solidworks | Solidworks assembly tutorial](https://www.youtube.com/watch?v=HL4auB956Xw)  
+  ![](https://i.ytimg.com/vi/HL4auB956Xw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-15 02:11:42 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-15T10:57:11Z_
   **مدت:** حدود 14.3 دقیقه  
   **عنوان:** [Design of wire rope in Solidworks | Full tutorial step by step](https://www.youtube.com/watch?v=FEmsAU9agL4)  
   ![](https://i.ytimg.com/vi/FEmsAU9agL4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-18 02:22:18 (UTC)  
-  **مدت:** حدود 2.1 دقیقه  
-  **عنوان:** [Rope Design in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=IaoXvf1shzw)  
-  ![](https://i.ytimg.com/vi/IaoXvf1shzw/hqdefault.jpg)
