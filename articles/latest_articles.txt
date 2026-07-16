@@ -1,4 +1,4 @@
-# Last Run: 2026-07-16 06:24 UTC
+# Last Run: 2026-07-16 10:13 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Iranian Attacks Need Not Change the Gulf’s AI Ambitions
@@ -128,68 +128,4 @@ Link: https://foreignpolicy.com/2026/07/13/nato-expansion-ukraine-sweden-trump/
 [Foreign_Policy] Will Lula Win the Century?
 Published: 2026-07-13T11:00:50+00:00
 Link: https://foreignpolicy.com/2026/07/13/brazil-lula-bolsonaro-election-history-pagliarini-book-review/
----
-[New_Yorker_Magazine] “Review to Remember,” by Terrance Hayes
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/review-to-remember-terrance-hayes-poem
----
-[New_Yorker_Magazine] Rope-a-Dope
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/rope-a-dope
----
-[New_Yorker_Magazine] When A.I. Is a Member of the Family
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family
----
-[New_Yorker_Magazine] The Lost Art of the Bromance
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/who-needs-friends-andrew-mccarthy-book-review
----
-[New_Yorker_Magazine] Inside ICE’s Largest Detention Center
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/locked-away
----
-[New_Yorker_Magazine] How “Piss Christ” Became a Culture-War Bomb
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/the-perfect-moment-isaac-butler-book-review
----
-[New_Yorker_Magazine] Franz Wright’s Final Poems, Reviewed
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/axe-in-blossom-franz-wright-book-review
----
-[New_Yorker_Magazine] The Met Turns Orientalism Inside Out
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/the-met-turns-orientalism-inside-out
----
-[New_Yorker_Magazine] Madonna Wants to Take You There
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/madonna-wants-to-take-you-there
----
-[New_Yorker_Magazine] New York Is a Pickle Kind of Town
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/new-york-is-a-pickle-kind-of-town
----
-[New_Yorker_Magazine] Voting Rights, Updated
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/voting-rights-updated
----
-[New_Yorker_Magazine] “Elegy for the Penny,” by Catherine Bowman
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/elegy-for-the-penny-catherine-bowman-poem
----
-[New_Yorker_Magazine] Letters from Our Readers
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/letters-from-the-july-20-2026-issue
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/death-of-the-soccer-god-nebraska-muskism-spawning-season
----
-[New_Yorker_Magazine] Meet the Minion-Maker
-Published: 2026-07-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/20/meet-the-minion-maker
----
-[Foreign_Policy] NATO Is Still a Sick Puppy
-Published: 2026-07-13T09:30:49+00:00
-Link: https://foreignpolicy.com/2026/07/13/nato-trump-europe-summit-ankara-alliance-russia-defense-geopolitics/
 ---
