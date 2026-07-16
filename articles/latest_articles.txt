@@ -1,6 +1,14 @@
-# Last Run: 2026-07-16 13:57 UTC
+# Last Run: 2026-07-16 17:21 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] German Military Power Needs to Go It Alone
+Published: 2026-07-16T16:05:43+00:00
+Link: https://foreignpolicy.com/2026/07/16/germany-military-power-bundeswehr-nato-europe-russia/
+---
+[Foreign_Policy] A Divided World Is North Korea’s Greatest Asset
+Published: 2026-07-16T14:02:45+00:00
+Link: https://foreignpolicy.com/2026/07/16/north-korea-sanctions-nuclear-weapons-united-states-russia-china-united-nations-security-council/
+---
 [Foreign_Policy] Nigeria Is Quietly Becoming a Diplomatic Powerhouse
 Published: 2026-07-16T13:00:42+00:00
 Link: https://foreignpolicy.com/2026/07/16/nigeria-diplomacy-west-africa-bola-tinubu-doctrine/
@@ -120,12 +128,4 @@ Link: https://foreignpolicy.com/2026/07/13/trump-strait-hormuz-tolls-shipping-us
 [Foreign_Policy] Russian Energy Is Now at Ukraine’s Mercy
 Published: 2026-07-13T20:10:12+00:00
 Link: https://foreignpolicy.com/2026/07/13/ukraine-drone-strike-russia-energy-oil-refinery-putin/
----
-[Foreign_Policy] Stop Overreacting to China’s Missile Test
-Published: 2026-07-13T16:20:51+00:00
-Link: https://foreignpolicy.com/2026/07/13/china-nuclear-missile-test-launch-slbm/
----
-[Foreign_Policy] Washington Shouldn’t Fear NATO Expansion
-Published: 2026-07-13T15:43:27+00:00
-Link: https://foreignpolicy.com/2026/07/13/nato-expansion-ukraine-sweden-trump/
 ---
