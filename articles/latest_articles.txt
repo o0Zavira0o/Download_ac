@@ -1,6 +1,18 @@
-# Last Run: 2026-07-16 02:45 UTC
+# Last Run: 2026-07-16 06:24 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Iranian Attacks Need Not Change the Gulf’s AI Ambitions
+Published: 2026-07-16T04:01:55+00:00
+Link: https://foreignpolicy.com/2026/07/16/iranian-attacks-gulf-ai-ambitions/
+---
+[Foreign_Affairs] The Coming Clash Between China and Europe
+Published: 2026-07-16T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/coming-clash-between-china-and-europe
+---
+[Foreign_Affairs] The Lost Art of Coercion
+Published: 2026-07-16T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/lost-art-coercion
+---
 [Foreign_Policy] Russia Shifts Its Focus to the Black Sea
 Published: 2026-07-15T20:45:20+00:00
 Link: https://foreignpolicy.com/2026/07/15/russia-ukraine-war-strikes-black-sea-ports-odesa-zelensky-koretskyi-fedorov/
@@ -180,16 +192,4 @@ Link: https://www.newyorker.com/magazine/2026/07/20/meet-the-minion-maker
 [Foreign_Policy] NATO Is Still a Sick Puppy
 Published: 2026-07-13T09:30:49+00:00
 Link: https://foreignpolicy.com/2026/07/13/nato-trump-europe-summit-ankara-alliance-russia-defense-geopolitics/
----
-[Foreign_Policy] The Politicization of the U.S. Military Did Not Start With Trump
-Published: 2026-07-13T04:01:26+00:00
-Link: https://foreignpolicy.com/2026/07/13/politicization-military-trump-macarthur-truman/
----
-[Foreign_Affairs] America and Iran’s Strange Moment of Opportunity
-Published: 2026-07-13T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/america-and-irans-strange-moment-opportunity
----
-[Foreign_Affairs] Senegal Is on the Brink
-Published: 2026-07-13T04:00:00+00:00
-Link: https://www.foreignaffairs.com/senegal/senegal-brink
 ---
