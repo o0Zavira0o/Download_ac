@@ -1,6 +1,10 @@
-# Last Run: 2026-07-16 10:13 UTC
+# Last Run: 2026-07-16 13:57 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Nigeria Is Quietly Becoming a Diplomatic Powerhouse
+Published: 2026-07-16T13:00:42+00:00
+Link: https://foreignpolicy.com/2026/07/16/nigeria-diplomacy-west-africa-bola-tinubu-doctrine/
+---
 [Foreign_Policy] Iranian Attacks Need Not Change the Gulf’s AI Ambitions
 Published: 2026-07-16T04:01:55+00:00
 Link: https://foreignpolicy.com/2026/07/16/iranian-attacks-gulf-ai-ambitions/
@@ -124,8 +128,4 @@ Link: https://foreignpolicy.com/2026/07/13/china-nuclear-missile-test-launch-slb
 [Foreign_Policy] Washington Shouldn’t Fear NATO Expansion
 Published: 2026-07-13T15:43:27+00:00
 Link: https://foreignpolicy.com/2026/07/13/nato-expansion-ukraine-sweden-trump/
----
-[Foreign_Policy] Will Lula Win the Century?
-Published: 2026-07-13T11:00:50+00:00
-Link: https://foreignpolicy.com/2026/07/13/brazil-lula-bolsonaro-election-history-pagliarini-book-review/
 ---
