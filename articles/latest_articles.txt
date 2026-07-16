@@ -1,4 +1,4 @@
-# Last Run: 2026-07-16 19:18 UTC
+# Last Run: 2026-07-16 21:05 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] German Military Power Needs to Go It Alone
@@ -124,8 +124,4 @@ Link: https://www.foreignaffairs.com/china/how-china-winning-friends-and-influen
 [Foreign_Policy] Trump Is Taking a Page Out of Iran’s Playbook
 Published: 2026-07-13T21:08:59+00:00
 Link: https://foreignpolicy.com/2026/07/13/trump-strait-hormuz-tolls-shipping-us-blockade-iran/
----
-[Foreign_Policy] Russian Energy Is Now at Ukraine’s Mercy
-Published: 2026-07-13T20:10:12+00:00
-Link: https://foreignpolicy.com/2026/07/13/ukraine-drone-strike-russia-energy-oil-refinery-putin/
 ---
