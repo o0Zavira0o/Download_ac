@@ -1,6 +1,26 @@
-# Last Run: 2026-07-17 17:19 UTC
+# Last Run: 2026-07-17 19:15 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Inside the Race to Protect Ukrainian
+Published: 2026-07-17T18:00:19+00:00
+Link: https://foreignpolicy.com/2026/07/17/ukrainian-language-preservation-russia-invasion/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-07-17T17:03:33+00:00
+Link: https://foreignpolicy.com/2026/07/17/news-quiz-china-ai-regulation-toll-hormuz-trump-congo-ebola/
+---
+[Foreign_Policy] Syria’s Weak Parliament Still Matters
+Published: 2026-07-17T16:35:11+00:00
+Link: https://foreignpolicy.com/2026/07/17/syria-parliament-damascus-sharaa-assad-democracy/
+---
+[Foreign_Policy] The U.S. and Iran Signed a Memorandum of Misunderstanding
+Published: 2026-07-17T16:17:01+00:00
+Link: https://foreignpolicy.com/2026/07/17/trump-peacemaking-iran-war-mou/
+---
+[Foreign_Policy] Does Cuba Really Have Iranian Drones?
+Published: 2026-07-17T16:14:08+00:00
+Link: https://foreignpolicy.com/2026/07/17/cuba-iran-drones-trump-venezuela-us-military/
+---
 [Foreign_Policy] Lebanon’s Peacekeepers Are Heading for the Exits
 Published: 2026-07-17T14:25:23+00:00
 Link: https://foreignpolicy.com/2026/07/17/lebanon-un-peacekeepers-israel-unifil/
@@ -132,12 +152,4 @@ Link: https://foreignpolicy.com/2026/07/14/trump-strait-hormuz-tolls-investment-
 [Foreign_Policy] The Gulf States That Iran Thinks It Can Attack
 Published: 2026-07-14T20:24:17+00:00
 Link: https://foreignpolicy.com/2026/07/14/iran-gulf-attacks-kuwait-bahrain-saudi-arabia-uae-trump/
----
-[Foreign_Policy] China Is Ready to Get Tough
-Published: 2026-07-14T19:08:18+00:00
-Link: https://foreignpolicy.com/2026/07/14/china-diplomacy-retaliation-sanctions/
----
-[Foreign_Policy] The Houthis Have Joined the Chat
-Published: 2026-07-14T19:04:43+00:00
-Link: https://foreignpolicy.com/2026/07/14/houthis-iran-war-saudi-arabia-bab-el-mandeb-strait-hormuz-oil/
 ---
