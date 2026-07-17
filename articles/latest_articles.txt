@@ -1,6 +1,26 @@
-# Last Run: 2026-07-17 21:02 UTC
+# Last Run: 2026-07-17 22:57 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] U.S., Iranian Forces Target Civilian Infrastructure
+Published: 2026-07-17T21:24:51+00:00
+Link: https://foreignpolicy.com/2026/07/17/us-iran-strikes-civilian-infrastructure-bridges-kuwait-desalination-syria/
+---
+[Foreign_Policy] Spain and Argentina Share a Common Language and Love for Soccer—but Not Much Else
+Published: 2026-07-17T20:46:27+00:00
+Link: https://foreignpolicy.com/2026/07/17/spain-argentina-soccer-world-cup-final-football/
+---
+[Foreign_Policy] Beijing Is Trying to Turn Taiwan’s Sea Goddess Into a Chinese Agent
+Published: 2026-07-17T19:00:33+00:00
+Link: https://foreignpolicy.com/2026/07/17/china-taiwan-mazu-matsu-goddess-pilgrimage/
+---
+[Foreign_Policy] The Battle for Borsch
+Published: 2026-07-17T18:40:56+00:00
+Link: https://foreignpolicy.com/2026/07/17/ukraine-russia-war-borsch-cultural-heritage-unesco/
+---
+[Foreign_Policy] The Soccer Surveillance State
+Published: 2026-07-17T18:35:59+00:00
+Link: https://foreignpolicy.com/2026/07/17/world-cup-us-surveillance-ice-trump-infantino/
+---
 [Foreign_Policy] Inside the Race to Protect Ukrainian
 Published: 2026-07-17T18:00:19+00:00
 Link: https://foreignpolicy.com/2026/07/17/ukrainian-language-preservation-russia-invasion/
@@ -140,12 +160,4 @@ Link: https://www.foreignaffairs.com/united-states/world-giving-america
 [Foreign_Affairs] China Is Sabotaging the World That Enables Its Rise
 Published: 2026-07-15T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/china-sabotaging-world-enables-its-rise
----
-[Foreign_Policy] China Wants to Regulate AI Companions
-Published: 2026-07-14T22:19:15+00:00
-Link: https://foreignpolicy.com/2026/07/14/china-ai-companions-regulation-takes-effect/
----
-[Foreign_Policy] Trump Pivots His Strait of Hormuz Strategy—Again
-Published: 2026-07-14T21:09:46+00:00
-Link: https://foreignpolicy.com/2026/07/14/trump-strait-hormuz-tolls-investment-trade-gulf-iran-war/
 ---
