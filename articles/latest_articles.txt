@@ -1,6 +1,14 @@
-# Last Run: 2026-07-17 02:51 UTC
+# Last Run: 2026-07-17 06:22 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] America’s Trillion-Dollar Failure
+Published: 2026-07-17T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/americas-trillion-dollar-failure-ro-khanna
+---
+[Foreign_Affairs] A Dangerous Game in the Arctic
+Published: 2026-07-17T04:00:00+00:00
+Link: https://www.foreignaffairs.com/arctic-antarctic/dangerous-game-arctic
+---
 [Foreign_Policy] The America First Contradiction
 Published: 2026-07-16T21:54:10+00:00
 Link: https://foreignpolicy.com/2026/07/16/elbridge-colby-middle-powers-america-first-trump/
@@ -56,6 +64,10 @@ Link: https://foreignpolicy.com/2026/07/15/ukraine-ballistic-missile-freyja-patr
 [Foreign_Policy] Ukraine’s Drones Have Turned the Tide, but Can They Change the Map?
 Published: 2026-07-15T18:03:09+00:00
 Link: https://foreignpolicy.com/2026/07/15/ukraine-drones-russia-war-territory-battlefield-offensive/
+---
+[New_Yorker_Magazine] “The Odyssey” Movie Review
+Published: 2026-07-15T16:00:04+00:00
+Link: https://www.newyorker.com/magazine/2026/07/27/the-odyssey-christopher-nolan-movie-review
 ---
 [Foreign_Policy] The Other American Anniversary
 Published: 2026-07-15T14:51:25+00:00
@@ -120,12 +132,4 @@ Link: https://foreignpolicy.com/2026/07/14/pentagon-defense-budget-trillion-cong
 [Foreign_Policy] AOC Meets World
 Published: 2026-07-14T11:00:01+00:00
 Link: https://foreignpolicy.com/2026/07/14/aoc-progressive-foreign-policy-trump-democrats-taiwan-palestine-munich-2028/
----
-[Foreign_Affairs] Putin Will Turn a Cease-Fire Into a Weapon
-Published: 2026-07-14T04:00:00+00:00
-Link: https://www.foreignaffairs.com/russia/putin-will-turn-cease-fire-weapon
----
-[Foreign_Affairs] How China Is Winning Friends and Influencing People
-Published: 2026-07-14T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/how-china-winning-friends-and-influencing-people
 ---

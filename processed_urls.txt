@@ -490,6 +490,7 @@ https://foreignpolicy.com/2026/07/16/north-korea-sanctions-nuclear-weapons-unite
 https://foreignpolicy.com/2026/07/16/ukraine-zelensky-cabinet-reshuffle-protests-fedorov-russia-war-drones/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/americas/trump-remaking-latin-america
+https://www.foreignaffairs.com/arctic-antarctic/dangerous-game-arctic
 https://www.foreignaffairs.com/china/china-pulling-ladder-behind-it
 https://www.foreignaffairs.com/china/china-sabotaging-world-enables-its-rise
 https://www.foreignaffairs.com/china/chinas-ai-heist
@@ -568,6 +569,7 @@ https://www.foreignaffairs.com/united-arab-emirates/can-uae-go-it-alone
 https://www.foreignaffairs.com/united-kingdom/new-prime-minister-same-problem
 https://www.foreignaffairs.com/united-states/america-and-irans-strange-moment-opportunity
 https://www.foreignaffairs.com/united-states/american-militarys-coming-marathon
+https://www.foreignaffairs.com/united-states/americas-trillion-dollar-failure-ro-khanna
 https://www.foreignaffairs.com/united-states/better-way-build-ai
 https://www.foreignaffairs.com/united-states/broken-nuclear-umbrella-lind-press
 https://www.foreignaffairs.com/united-states/china-and-america-are-courting-nuclear-catastrophe
@@ -804,3 +806,4 @@ https://www.newyorker.com/magazine/2026/07/20/the-perfect-moment-isaac-butler-bo
 https://www.newyorker.com/magazine/2026/07/20/voting-rights-updated
 https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family
 https://www.newyorker.com/magazine/2026/07/20/who-needs-friends-andrew-mccarthy-book-review
+https://www.newyorker.com/magazine/2026/07/27/the-odyssey-christopher-nolan-movie-review
