@@ -1,4 +1,4 @@
-# Last Run: 2026-07-17 19:15 UTC
+# Last Run: 2026-07-17 21:02 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Inside the Race to Protect Ukrainian
@@ -148,8 +148,4 @@ Link: https://foreignpolicy.com/2026/07/14/china-ai-companions-regulation-takes-
 [Foreign_Policy] Trump Pivots His Strait of Hormuz Strategy—Again
 Published: 2026-07-14T21:09:46+00:00
 Link: https://foreignpolicy.com/2026/07/14/trump-strait-hormuz-tolls-investment-trade-gulf-iran-war/
----
-[Foreign_Policy] The Gulf States That Iran Thinks It Can Attack
-Published: 2026-07-14T20:24:17+00:00
-Link: https://foreignpolicy.com/2026/07/14/iran-gulf-attacks-kuwait-bahrain-saudi-arabia-uae-trump/
 ---
