@@ -1,6 +1,14 @@
-# Last Run: 2026-07-16 21:05 UTC
+# Last Run: 2026-07-17 02:51 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The America First Contradiction
+Published: 2026-07-16T21:54:10+00:00
+Link: https://foreignpolicy.com/2026/07/16/elbridge-colby-middle-powers-america-first-trump/
+---
+[Foreign_Policy] Zelensky’s Cabinet Reshuffle Sparks Public Outcry in Ukraine
+Published: 2026-07-16T20:51:49+00:00
+Link: https://foreignpolicy.com/2026/07/16/ukraine-zelensky-cabinet-reshuffle-protests-fedorov-russia-war-drones/
+---
 [Foreign_Policy] German Military Power Needs to Go It Alone
 Published: 2026-07-16T16:05:43+00:00
 Link: https://foreignpolicy.com/2026/07/16/germany-military-power-bundeswehr-nato-europe-russia/
@@ -120,8 +128,4 @@ Link: https://www.foreignaffairs.com/russia/putin-will-turn-cease-fire-weapon
 [Foreign_Affairs] How China Is Winning Friends and Influencing People
 Published: 2026-07-14T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/how-china-winning-friends-and-influencing-people
----
-[Foreign_Policy] Trump Is Taking a Page Out of Iran’s Playbook
-Published: 2026-07-13T21:08:59+00:00
-Link: https://foreignpolicy.com/2026/07/13/trump-strait-hormuz-tolls-shipping-us-blockade-iran/
 ---
