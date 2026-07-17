@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
+_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-07-16 11:30:58 (UTC)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Why JOIN Beats OFFSET in nanoCAD – CAD Pro Secret](https://www.youtube.com/watch?v=6-GXTbK-Po0)  
+  ![](https://i.ytimg.com/vi/6-GXTbK-Po0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-13 12:02:49 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
   **مدت:** حدود 3.8 دقیقه  
   **عنوان:** [Placing Multiline Text - Lesson 7](https://www.youtube.com/watch?v=ZmUZopZu2qw)  
   ![](https://i.ytimg.com/vi/ZmUZopZu2qw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2019-11-22 08:51:11 (UTC)  
-  **مدت:** حدود 5.6 دقیقه  
-  **عنوان:** [Placing Text - Lesson 6](https://www.youtube.com/watch?v=tbGJGXHol7U)  
-  ![](https://i.ytimg.com/vi/tbGJGXHol7U/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
+_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-16 12:30:39 (UTC)  
+  **مدت:** حدود 10.4 دقیقه  
+  **عنوان:** [Mangosteen Fruit Modeling-SolidWorks Exercise](https://www.youtube.com/watch?v=-oc8el30hkg)  
+  ![](https://i.ytimg.com/vi/-oc8el30hkg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-15 03:30:01 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
   **مدت:** حدود 36.8 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Computer fan in Solidworks](https://www.youtube.com/watch?v=bspA1quUf9s)  
   ![](https://i.ytimg.com/vi/bspA1quUf9s/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-28 07:41:24 (UTC)  
-  **مدت:** حدود 127.5 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Quadcopter (Drone) in Solidworks](https://www.youtube.com/watch?v=8BchvQPJsL0)  
-  ![](https://i.ytimg.com/vi/8BchvQPJsL0/hqdefault.jpg)

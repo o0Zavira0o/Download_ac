@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
+_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-07-16 13:40:38 (UTC)  
+  **مدت:** حدود 1.8 دقیقه  
+  **عنوان:** [ASMR Journal Unboxing🐓 다꾸 문구 언박싱 diy #shorts #asmr #journal](https://www.youtube.com/watch?v=7_E2meQTbT0)  
+  ![](https://i.ytimg.com/vi/7_E2meQTbT0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-15 13:20:25 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
   **مدت:** حدود 2.8 دقیقه  
   **عنوان:** [Washi Tape Unboxing ASMR🎀 TheWashiTapeShop (journal supplies, aesthetic stationery )](https://www.youtube.com/watch?v=woN7k1-woAo)  
   ![](https://i.ytimg.com/vi/woN7k1-woAo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-03 13:30:11 (UTC)  
-  **مدت:** حدود 6.2 دقیقه  
-  **عنوان:** [ASMR Decorating Vintage Art Journal🪞 Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=XGSQIPdOvps)  
-  ![](https://i.ytimg.com/vi/XGSQIPdOvps/hqdefault.jpg)

@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
+_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,7 +10,7 @@ _آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
 
 - **تاریخ انتشار:** 2026-07-12 13:30:35 (UTC)  
   **مدت:** حدود 23.1 دقیقه  
-  **عنوان:** [I Made Them Eat The Diet That Got Me 6-Pack Abs](https://www.youtube.com/watch?v=HkrWExj1QNk)  
+  **عنوان:** [I Proved My 6-Pack Abs Diet Works For ANYONE](https://www.youtube.com/watch?v=HkrWExj1QNk)  
   ![](https://i.ytimg.com/vi/HkrWExj1QNk/hqdefault.jpg)
 
 

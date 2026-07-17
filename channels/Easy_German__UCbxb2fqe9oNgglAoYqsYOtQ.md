@@ -1,14 +1,26 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
+_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
 
 
+- **تاریخ انتشار:** 2026-07-17 06:33:14 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Seilbahn über den Rhein #shorts #köln](https://www.youtube.com/watch?v=hBinOb53uJo)  
+  ![](https://i.ytimg.com/vi/hBinOb53uJo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-16 13:26:59 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Das einjährige Paket #lerndeutsch #notesofberlin #podcast](https://www.youtube.com/watch?v=LEcVj2UGLzk)  
+  ![](https://i.ytimg.com/vi/LEcVj2UGLzk/hqdefault.jpg)
+
+
 - **تاریخ انتشار:** 2026-07-15 17:00:07 (UTC)  
   **مدت:** حدود 2.4 دقیقه  
-  **عنوان:** [Invite Easy German to Your Country!](https://www.youtube.com/watch?v=y4FvsGRduAM)  
+  **عنوان:** [We Want to Meet German Learners Around the World](https://www.youtube.com/watch?v=y4FvsGRduAM)  
   ![](https://i.ytimg.com/vi/y4FvsGRduAM/hqdefault.jpg)
 
 
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
   **مدت:** حدود 7.0 دقیقه  
   **عنوان:** [Conspiracy Theories | Easy German 155](https://www.youtube.com/watch?v=G680ZS2bjuE)  
   ![](https://i.ytimg.com/vi/G680ZS2bjuE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-08-05 20:23:26 (UTC)  
-  **مدت:** حدود 5.0 دقیقه  
-  **عنوان:** [Easy German goes USA: Be part of our trip!](https://www.youtube.com/watch?v=0hGy0DHNA-U)  
-  ![](https://i.ytimg.com/vi/0hGy0DHNA-U/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-07-31 18:18:02 (UTC)  
-  **مدت:** حدود 8.8 دقیقه  
-  **عنوان:** [Which role would you play in a movie? | Easy German 154](https://www.youtube.com/watch?v=Qmk3pX58NB8)  
-  ![](https://i.ytimg.com/vi/Qmk3pX58NB8/hqdefault.jpg)

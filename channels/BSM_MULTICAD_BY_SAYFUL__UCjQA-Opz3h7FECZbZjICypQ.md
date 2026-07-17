@@ -1,9 +1,33 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
+_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-17 08:33:05 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [class 03c #autocadcivil #autocad #autocadtutorial #sketchup #architecture #autocadforbeginners](https://www.youtube.com/watch?v=FhHVGlKnzH4)  
+  ![](https://i.ytimg.com/vi/FhHVGlKnzH4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-17 07:40:44 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [class 03d #autocadcivil #autocadtutorial #sketchup #autocadforbeginners #architecture #civildrawing](https://www.youtube.com/watch?v=jtO2RpquLXg)  
+  ![](https://i.ytimg.com/vi/jtO2RpquLXg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-17 03:48:54 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [class 03e #autocadcivil #autocad #autocadtutorial #sketchup #architecture #autocadforbeginners](https://www.youtube.com/watch?v=mAQhI05Sgbs)  
+  ![](https://i.ytimg.com/vi/mAQhI05Sgbs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-16 15:42:31 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [g #autocadcivil #autocad #autocadtutorial #sketchup #civildrawing #architecture #autocadforbeginners](https://www.youtube.com/watch?v=iiHty9rJgoE)  
+  ![](https://i.ytimg.com/vi/iiHty9rJgoE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-16 01:54:32 (UTC)  
@@ -880,27 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
   **مدت:** حدود 11.7 دقیقه  
   **عنوان:** [AutoCAD full course Saudi Arabia a to z Bangla tutorials Ep 26](https://www.youtube.com/watch?v=8azHO0FdukA)  
   ![](https://i.ytimg.com/vi/8azHO0FdukA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-29 19:44:40 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [AutoCAD full course Saudi Arabia a to z Bangla tutorials Ep 25C](https://www.youtube.com/watch?v=0lqrrRUTmbg)  
-  ![](https://i.ytimg.com/vi/0lqrrRUTmbg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-29 19:44:20 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [AutoCAD full course Saudi Arabia a to z Bangla tutorials Ep 25B](https://www.youtube.com/watch?v=ecvLltkLgEc)  
-  ![](https://i.ytimg.com/vi/ecvLltkLgEc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-29 19:43:36 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [AutoCAD full course Saudi Arabia a to z Bangla tutorials Ep 25A #autocadcivil #autocad](https://www.youtube.com/watch?v=kEaIR1j2VRk)  
-  ![](https://i.ytimg.com/vi/kEaIR1j2VRk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-29 19:42:24 (UTC)  
-  **مدت:** حدود 21.1 دقیقه  
-  **عنوان:** [AutoCAD full course Saudi Arabia a to z Bangla tutorials Ep 25](https://www.youtube.com/watch?v=H4AApOzuouA)  
-  ![](https://i.ytimg.com/vi/H4AApOzuouA/hqdefault.jpg)

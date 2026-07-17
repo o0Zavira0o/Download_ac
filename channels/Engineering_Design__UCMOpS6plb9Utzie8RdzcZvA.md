@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
+_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-07-17 02:44:58 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [Lofted Boss Base Vs Shell Command in Solidworks](https://www.youtube.com/watch?v=eahM8L7th_g)  
+  ![](https://i.ytimg.com/vi/eahM8L7th_g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-04 08:24:13 (UTC)  
@@ -32,13 +38,13 @@ _آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
 
 - **تاریخ انتشار:** 2026-05-25 02:39:52 (UTC)  
   **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [Can Beginners Design This in SolidWorks? Expert Method Revealed!](https://www.youtube.com/watch?v=cZZaVZm9TSA)  
+  **عنوان:** [✅Can Beginners Design This in SolidWorks? Expert Method Revealed!](https://www.youtube.com/watch?v=cZZaVZm9TSA)  
   ![](https://i.ytimg.com/vi/cZZaVZm9TSA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-22 12:20:04 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Intersection Curve Solidworks Beginners vs Expert](https://www.youtube.com/watch?v=LCRHD83BBTY)  
+  **عنوان:** [✅Intersection Curve Solidworks Beginners vs Expert](https://www.youtube.com/watch?v=LCRHD83BBTY)  
   ![](https://i.ytimg.com/vi/LCRHD83BBTY/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-16T11:06:16Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅ Mechanical Mechanism 06](https://www.youtube.com/watch?v=gMh57VBfBHM)  
   ![](https://i.ytimg.com/vi/gMh57VBfBHM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-29 11:47:18 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Hybrid and Opposed-Piston Engines Explained](https://www.youtube.com/watch?v=tSHKxQ3HR-0)  
-  ![](https://i.ytimg.com/vi/tSHKxQ3HR-0/hqdefault.jpg)
