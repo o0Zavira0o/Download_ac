@@ -1,4 +1,4 @@
-# Last Run: 2026-07-18 09:31 UTC
+# Last Run: 2026-07-18 11:07 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S., Iranian Forces Target Civilian Infrastructure
@@ -140,8 +140,4 @@ Link: https://foreignpolicy.com/2026/07/15/trumps-boat-strikes-crimes-against-hu
 [Foreign_Policy] Putin’s War Comes Home to Russia
 Published: 2026-07-15T11:45:39+00:00
 Link: https://foreignpolicy.com/2026/07/15/russia-ukraine-war-drone-attacks-refineries-fuel-gas-stations-crimea-moscow-putin/
----
-[Foreign_Policy] How the United States and Iran Can Solve Hormuz
-Published: 2026-07-15T10:48:10+00:00
-Link: https://foreignpolicy.com/2026/07/15/hormuz-iran-united-states-trump-war-israel-shipping/
 ---
