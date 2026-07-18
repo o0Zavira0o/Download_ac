@@ -1,4 +1,10 @@
 ================================================================================
+2026-07-19 01:12:31 (Asia/Tehran) | IrGens
+Title  : PowerShell Basic: Mastering PowerShell Fundamentals
+Details: ISBN: 9780135913949 | .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 12h 50m | 16 GB
+Link   : http://zavat.pw/ebooks/9780135913949.html
+
+================================================================================
 2026-07-19 00:08:49 (Asia/Tehran) | IrGens
 Title  : PowerShell AI: Building AI Applications with PowerShell
 Details: ISBN: 9780135916506 | .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 14h 58m | 24.5 GB
