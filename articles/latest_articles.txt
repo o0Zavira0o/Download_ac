@@ -1,4 +1,4 @@
-# Last Run: 2026-07-18 11:07 UTC
+# Last Run: 2026-07-18 13:21 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S., Iranian Forces Target Civilian Infrastructure
@@ -136,8 +136,4 @@ Link: https://foreignpolicy.com/2026/07/15/panama-congress-anniversary-america-2
 [Foreign_Policy] Trump’s Boat Strikes Are Crimes Against Humanity
 Published: 2026-07-15T13:29:21+00:00
 Link: https://foreignpolicy.com/2026/07/15/trumps-boat-strikes-crimes-against-humanity/
----
-[Foreign_Policy] Putin’s War Comes Home to Russia
-Published: 2026-07-15T11:45:39+00:00
-Link: https://foreignpolicy.com/2026/07/15/russia-ukraine-war-drone-attacks-refineries-fuel-gas-stations-crimea-moscow-putin/
 ---
