@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
+_آخرین به‌روزرسانی: 2026-07-18T10:24:20Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-07-18 10:00:15 (UTC)  
+  **مدت:** حدود 28.6 دقیقه  
+  **عنوان:** [35,👽 Origami Crane Alien!? Poseable Paper Figure | Quiet Origami 折り鶴が進化！？ポーズを決められる「ツル星人」を折ってみた👽](https://www.youtube.com/watch?v=Jr85SUdyfZg)  
+  ![](https://i.ytimg.com/vi/Jr85SUdyfZg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-18 03:00:13 (UTC)  
+  **مدت:** حدود 30.9 دقیقه  
+  **عنوان:** [34,✨🖤  Gold & Black　Expanding Wings Crane | Viewer Request 【視聴者リクエスト】金と黒の羽が広がる折り鶴](https://www.youtube.com/watch?v=uU5rCZFTgdI)  
+  ![](https://i.ytimg.com/vi/uU5rCZFTgdI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-13 10:00:19 (UTC)  

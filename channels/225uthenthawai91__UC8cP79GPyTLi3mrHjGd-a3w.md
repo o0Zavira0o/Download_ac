@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
+_آخرین به‌روزرسانی: 2026-07-18T10:24:20Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-07-18 07:51:58 (UTC)  
+  **مدت:** حدود 9.4 دقیقه  
+  **عنوان:** [Ep.23 GRBL PWM to ESP32 Motor Control Test](https://www.youtube.com/watch?v=J_9gMeF2hlU)  
+  ![](https://i.ytimg.com/vi/J_9gMeF2hlU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-14 18:35:46 (UTC)  

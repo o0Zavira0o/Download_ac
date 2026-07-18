@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
+_آخرین به‌روزرسانی: 2026-07-18T10:24:20Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-18 03:35:00 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Force on Bolt connection in solidworks simulation 😄 #ytshorts #shorts #solidworks#malviyacadsolution](https://www.youtube.com/watch?v=4PeX3esVOnE)  
+  ![](https://i.ytimg.com/vi/4PeX3esVOnE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-15 17:37:05 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [Rope modelling in solidworks 😀 #ytshorts #shorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=NyambtDtE-Q)  
   ![](https://i.ytimg.com/vi/NyambtDtE-Q/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-21 11:20:25 (UTC)  
-  **مدت:** حدود 14.3 دقیقه  
-  **عنوان:** [Design of wire rope in Solidworks | Full tutorial step by step](https://www.youtube.com/watch?v=FEmsAU9agL4)  
-  ![](https://i.ytimg.com/vi/FEmsAU9agL4/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
+_آخرین به‌روزرسانی: 2026-07-18T10:24:20Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-17 15:14:55 (UTC)  
+  **مدت:** حدود 19.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial-Honey Bee Egg Modeling](https://www.youtube.com/watch?v=g4DRCtJXKxo)  
+  ![](https://i.ytimg.com/vi/g4DRCtJXKxo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-16 12:30:39 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
   **مدت:** حدود 51.2 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch AC Power Plug in Solidworks](https://www.youtube.com/watch?v=wLENd8APW9M)  
   ![](https://i.ytimg.com/vi/wLENd8APW9M/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-29 12:30:04 (UTC)  
-  **مدت:** حدود 36.8 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Computer fan in Solidworks](https://www.youtube.com/watch?v=bspA1quUf9s)  
-  ![](https://i.ytimg.com/vi/bspA1quUf9s/hqdefault.jpg)

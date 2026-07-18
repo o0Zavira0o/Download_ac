@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
+_آخرین به‌روزرسانی: 2026-07-18T10:24:20Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-17 17:58:02 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [class 03a #autocadcivil #autocadblocks #autocadtutorial #sketchup #architecture #civildrawing](https://www.youtube.com/watch?v=_jXEwOP2u04)  
+  ![](https://i.ytimg.com/vi/_jXEwOP2u04/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-17 17:53:50 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [class 03b #autocadcivil #autocad #autocadtutorial #sketchup #autocadforbeginners #civildrawing](https://www.youtube.com/watch?v=yC0xZOu6cbk)  
+  ![](https://i.ytimg.com/vi/yC0xZOu6cbk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-17 08:33:05 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
   **مدت:** حدود 43.9 دقیقه  
   **عنوان:** [BSM CAD FULL PACKAGE COURSEAUTOCAD, ESTIMATE,SKETCHUP V RAY11](https://www.youtube.com/watch?v=1WuNsVEEo3I)  
   ![](https://i.ytimg.com/vi/1WuNsVEEo3I/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-07 17:39:42 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [BSM CAD FULL PACKAGE COURSEAUTOCAD,ESTIMATE,SKETCHUP V RAY10a #autocad #autocadtutorial](https://www.youtube.com/watch?v=NQGBDmv0MGM)  
-  ![](https://i.ytimg.com/vi/NQGBDmv0MGM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-30 15:38:22 (UTC)  
-  **مدت:** حدود 11.7 دقیقه  
-  **عنوان:** [AutoCAD full course Saudi Arabia a to z Bangla tutorials Ep 26](https://www.youtube.com/watch?v=8azHO0FdukA)  
-  ![](https://i.ytimg.com/vi/8azHO0FdukA/hqdefault.jpg)

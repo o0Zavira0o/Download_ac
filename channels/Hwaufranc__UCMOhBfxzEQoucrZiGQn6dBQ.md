@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
+_آخرین به‌روزرسانی: 2026-07-18T10:24:20Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-07-18 06:15:14 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [ASMR Stamp on it✨️12 DIY Decoration Ideas compilation 스탬프 도장다꾸 diy꾸미기](https://www.youtube.com/watch?v=QY2uR5KbmFQ)  
+  ![](https://i.ytimg.com/vi/QY2uR5KbmFQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-17 13:20:29 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [ASMR Scrapbook 다꾸 Card diy #asmr #journal #다꾸](https://www.youtube.com/watch?v=LRcVD8GHw3o)  
+  ![](https://i.ytimg.com/vi/LRcVD8GHw3o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-16 13:40:38 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-07-17T10:54:01Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [ASMR Creative Art DIY Phone Case 1/2🏛 #asmr #diy #scrapbooking #craft](https://www.youtube.com/watch?v=iHB4I_H7ARo)  
   ![](https://i.ytimg.com/vi/iHB4I_H7ARo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-05 13:47:00 (UTC)  
-  **مدت:** حدود 13.4 دقیقه  
-  **عنوان:** [ASMR Creative Journaling Collection💜 Journal Scrapbooking Variety of sounds](https://www.youtube.com/watch?v=66cNxnd8hGw)  
-  ![](https://i.ytimg.com/vi/66cNxnd8hGw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-04 14:00:49 (UTC)  
-  **مدت:** حدود 2.8 دقیقه  
-  **عنوان:** [Washi Tape Unboxing ASMR🎀 TheWashiTapeShop (journal supplies, aesthetic stationery )](https://www.youtube.com/watch?v=woN7k1-woAo)  
-  ![](https://i.ytimg.com/vi/woN7k1-woAo/hqdefault.jpg)
