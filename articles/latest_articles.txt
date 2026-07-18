@@ -1,4 +1,4 @@
-# Last Run: 2026-07-18 17:03 UTC
+# Last Run: 2026-07-18 19:10 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S., Iranian Forces Target Civilian Infrastructure
@@ -120,8 +120,4 @@ Link: https://foreignpolicy.com/2026/07/15/sudan-civil-war-crimes-sanctions-un-r
 [Foreign_Policy] Ukraine Isn’t Waiting Around for Patriots
 Published: 2026-07-15T19:27:00+00:00
 Link: https://foreignpolicy.com/2026/07/15/ukraine-ballistic-missile-freyja-patriot-europe-france/
----
-[Foreign_Policy] Ukraine’s Drones Have Turned the Tide, but Can They Change the Map?
-Published: 2026-07-15T18:03:09+00:00
-Link: https://foreignpolicy.com/2026/07/15/ukraine-drones-russia-war-territory-battlefield-offensive/
 ---
