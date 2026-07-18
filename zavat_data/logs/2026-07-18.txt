@@ -1,4 +1,52 @@
 ================================================================================
+2026-07-18 16:28:05 (Asia/Tehran) | hill0
+Title  : Handbook of Visual, Experimental and Computational Mathematics
+Details: English | 2026 | ISBN: 3032163676 | 1860 Pages | PDF (True) | 107 MB
+Link   : http://zavat.pw/ebooks/3032163676.html
+
+================================================================================
+2026-07-18 16:28:05 (Asia/Tehran) | hill0
+Title  : Mathematical Modeling and Methods for Industrial Applications
+Details: English | 2026 | ISBN: 3032248493 | 434 Pages | PDF EPUB (True) | 53 MB
+Link   : http://zavat.pw/ebooks/3032248493.html
+
+================================================================================
+2026-07-18 16:28:05 (Asia/Tehran) | hill0
+Title  : Radiation: The Photon in the Classical Context
+Details: English | 2026 | ASIN: B0GMW3GBHN | 317 Pages | PDF EPUB (True) | 19 MB
+Link   : http://zavat.pw/ebooks/B0GMW3GBHN.html
+
+================================================================================
+2026-07-18 16:28:05 (Asia/Tehran) | hill0
+Title  : XR and Metaverse
+Details: English | 2026 | ISBN: 3032119820 | 507 Pages | PDF EPUB (True) | 57 MB
+Link   : http://zavat.pw/ebooks/3032119820.html
+
+================================================================================
+2026-07-18 16:28:05 (Asia/Tehran) | hill0
+Title  : Astronomy and Philosophy
+Details: English | 2026 | ISBN: 1009621130 | 467 Pages | PDF | 10 MB
+Link   : http://zavat.pw/ebooks/1009621130.html
+
+================================================================================
+2026-07-18 16:28:05 (Asia/Tehran) | hill0
+Title  : Programming with Python: And Its Applications to Physical Systems
+Details: English | 2024 | ISBN: 1032591668 | 363 Pages | PDF (True) | 213 MB
+Link   : http://zavat.pw/ebooks/1032591668t.html
+
+================================================================================
+2026-07-18 16:28:05 (Asia/Tehran) | hill0
+Title  : SQL Server Database Programming with C#: Desktop and Web Applications
+Details: English | 2024 | ISBN: 1032334770 | 671 Pages | PDF (True) | 117 MB
+Link   : http://zavat.pw/ebooks/1032334770t.html
+
+================================================================================
+2026-07-18 16:28:05 (Asia/Tehran) | hill0
+Title  : Smart Home Automation with IoT
+Details: English | 2024 | ISBN: 9355519192 | 269 Pages | EPUB (True) | 12 MB
+Link   : http://zavat.pw/ebooks/9355519192.html
+
+================================================================================
 2026-07-18 15:17:42 (Asia/Tehran) | hill0
 Title  : Mastering Veeam Backup & Replication (4th Edition)
 Details: English | 2026 | ISBN: 9781806388899 | 486 Pages | PDF (True) | 526 MB
