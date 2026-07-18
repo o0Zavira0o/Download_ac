@@ -1,4 +1,4 @@
-# Last Run: 2026-07-18 19:10 UTC
+# Last Run: 2026-07-18 20:54 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S., Iranian Forces Target Civilian Infrastructure
@@ -100,24 +100,4 @@ Link: https://www.foreignaffairs.com/china/coming-clash-between-china-and-europe
 [Foreign_Affairs] The Lost Art of Coercion
 Published: 2026-07-16T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/lost-art-coercion
----
-[Foreign_Policy] Russia Shifts Its Focus to the Black Sea
-Published: 2026-07-15T20:45:20+00:00
-Link: https://foreignpolicy.com/2026/07/15/russia-ukraine-war-strikes-black-sea-ports-odesa-zelensky-koretskyi-fedorov/
----
-[Foreign_Policy] Will Hasina Return to Bangladesh?
-Published: 2026-07-15T20:35:40+00:00
-Link: https://foreignpolicy.com/2026/07/15/bangladesh-sheikh-hasina-return-bnp-rahman/
----
-[Foreign_Policy] A New Law Heralds China’s Fraught Ethnic Future
-Published: 2026-07-15T19:58:57+00:00
-Link: https://foreignpolicy.com/2026/07/15/china-ethnic-laws-xinjiang-tibet-xi/
----
-[Foreign_Policy] Sudan Faces New Sanctions as Evidence of Atrocities Mounts
-Published: 2026-07-15T19:46:20+00:00
-Link: https://foreignpolicy.com/2026/07/15/sudan-civil-war-crimes-sanctions-un-report-genocide/
----
-[Foreign_Policy] Ukraine Isn’t Waiting Around for Patriots
-Published: 2026-07-15T19:27:00+00:00
-Link: https://foreignpolicy.com/2026/07/15/ukraine-ballistic-missile-freyja-patriot-europe-france/
 ---
