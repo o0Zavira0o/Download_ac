@@ -1,4 +1,4 @@
-# Last Run: 2026-07-19 19:11 UTC
+# Last Run: 2026-07-19 20:53 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S., Iranian Forces Target Civilian Infrastructure
@@ -72,8 +72,4 @@ Link: https://www.foreignaffairs.com/arctic-antarctic/dangerous-game-arctic
 [Foreign_Policy] The America First Contradiction
 Published: 2026-07-16T21:54:10+00:00
 Link: https://foreignpolicy.com/2026/07/16/elbridge-colby-middle-powers-america-first-trump/
----
-[Foreign_Policy] Zelensky’s Cabinet Reshuffle Sparks Public Outcry in Ukraine
-Published: 2026-07-16T20:51:49+00:00
-Link: https://foreignpolicy.com/2026/07/16/ukraine-zelensky-cabinet-reshuffle-protests-fedorov-russia-war-drones/
 ---
