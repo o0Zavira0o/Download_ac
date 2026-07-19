@@ -1,4 +1,4 @@
-# Last Run: 2026-07-19 02:52 UTC
+# Last Run: 2026-07-19 06:34 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S., Iranian Forces Target Civilian Infrastructure
@@ -88,16 +88,4 @@ Link: https://foreignpolicy.com/2026/07/16/north-korea-sanctions-nuclear-weapons
 [Foreign_Policy] Nigeria Is Quietly Becoming a Diplomatic Powerhouse
 Published: 2026-07-16T13:00:42+00:00
 Link: https://foreignpolicy.com/2026/07/16/nigeria-diplomacy-west-africa-bola-tinubu-doctrine/
----
-[Foreign_Policy] Iranian Attacks Need Not Change the Gulf’s AI Ambitions
-Published: 2026-07-16T04:01:55+00:00
-Link: https://foreignpolicy.com/2026/07/16/iranian-attacks-gulf-ai-ambitions/
----
-[Foreign_Affairs] The Coming Clash Between China and Europe
-Published: 2026-07-16T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/coming-clash-between-china-and-europe
----
-[Foreign_Affairs] The Lost Art of Coercion
-Published: 2026-07-16T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/lost-art-coercion
 ---
