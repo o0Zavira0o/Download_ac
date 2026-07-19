@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-18T10:24:20Z_
+_آخرین به‌روزرسانی: 2026-07-19T10:39:36Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-18 17:16:27 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Wie viel Geld braucht man in Köln? #easygerman #köln #lebenshaltungskosten #germancourse](https://www.youtube.com/watch?v=bb_ETd5Px2w)  
+  ![](https://i.ytimg.com/vi/bb_ETd5Px2w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-17 06:33:14 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-18T10:24:20Z_
   **مدت:** حدود 8.4 دقیقه  
   **عنوان:** [What do Berliners have in their bags? | Easy German 156](https://www.youtube.com/watch?v=_kknZ0z3TxI)  
   ![](https://i.ytimg.com/vi/_kknZ0z3TxI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-08-07 20:32:18 (UTC)  
-  **مدت:** حدود 7.0 دقیقه  
-  **عنوان:** [Conspiracy Theories | Easy German 155](https://www.youtube.com/watch?v=G680ZS2bjuE)  
-  ![](https://i.ytimg.com/vi/G680ZS2bjuE/hqdefault.jpg)

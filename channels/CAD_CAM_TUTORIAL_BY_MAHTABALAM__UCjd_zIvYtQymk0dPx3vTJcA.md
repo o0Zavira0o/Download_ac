@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-18T10:24:20Z_
+_آخرین به‌روزرسانی: 2026-07-19T10:39:36Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-19 03:30:17 (UTC)  
+  **مدت:** حدود 22.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial-Glass with liquid](https://www.youtube.com/watch?v=-Omi-SJNyfg)  
+  ![](https://i.ytimg.com/vi/-Omi-SJNyfg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-17 15:14:55 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-18T10:24:20Z_
   **مدت:** حدود 57.7 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch DC motor in Solidworks](https://www.youtube.com/watch?v=9c5F1E9n0vk)  
   ![](https://i.ytimg.com/vi/9c5F1E9n0vk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-30 23:32:22 (UTC)  
-  **مدت:** حدود 51.2 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch AC Power Plug in Solidworks](https://www.youtube.com/watch?v=wLENd8APW9M)  
-  ![](https://i.ytimg.com/vi/wLENd8APW9M/hqdefault.jpg)

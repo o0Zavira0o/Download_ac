@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-18T10:24:20Z_
+_آخرین به‌روزرسانی: 2026-07-19T10:39:36Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-19 01:06:25 (UTC)  
+  **مدت:** حدود 40.1 دقیقه  
+  **عنوان:** [Interior DESIGN TUTORIALS](https://www.youtube.com/watch?v=C95lhXqKxds)  
+  ![](https://i.ytimg.com/vi/C95lhXqKxds/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-18 17:36:39 (UTC)  
+  **مدت:** حدود 113.7 دقیقه  
+  **عنوان:** [Modern Bedroom Interior Design Using SketchUp: A 3D Visualization Project](https://www.youtube.com/watch?v=JZgGKec3t7U)  
+  ![](https://i.ytimg.com/vi/JZgGKec3t7U/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-18 16:40:43 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [Install SketchUp Plugins in 2 Minutes!](https://www.youtube.com/watch?v=dTjZ3BmDnPA)  
+  ![](https://i.ytimg.com/vi/dTjZ3BmDnPA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-17 17:58:02 (UTC)  
@@ -886,21 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-18T10:24:20Z_
   **مدت:** حدود 46.7 دقیقه  
   **عنوان:** [BSM CAD FULL PACKAGE COURSEAUTOCAD, ESTIMATE, SKETCHUP V RAY19](https://www.youtube.com/watch?v=XhoRhN0Zivk)  
   ![](https://i.ytimg.com/vi/XhoRhN0Zivk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-09 11:38:32 (UTC)  
-  **مدت:** حدود 38.0 دقیقه  
-  **عنوان:** [BSM CAD FULL PACKAGE COURSEAUTOCAD,ESTIMATE,SKETCHUP V RAY18](https://www.youtube.com/watch?v=YuFEl-Zx5-8)  
-  ![](https://i.ytimg.com/vi/YuFEl-Zx5-8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-09 11:32:59 (UTC)  
-  **مدت:** حدود 33.0 دقیقه  
-  **عنوان:** [BSM CAD FULL PACKAGE COURSEAUTOCAD,ESTIMATE,SKETCHUP V RAY17](https://www.youtube.com/watch?v=-l3rSNSTmfY)  
-  ![](https://i.ytimg.com/vi/-l3rSNSTmfY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-07 18:22:11 (UTC)  
-  **مدت:** حدود 43.9 دقیقه  
-  **عنوان:** [BSM CAD FULL PACKAGE COURSEAUTOCAD, ESTIMATE,SKETCHUP V RAY11](https://www.youtube.com/watch?v=1WuNsVEEo3I)  
-  ![](https://i.ytimg.com/vi/1WuNsVEEo3I/hqdefault.jpg)
