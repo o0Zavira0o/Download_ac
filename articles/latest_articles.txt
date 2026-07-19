@@ -1,4 +1,4 @@
-# Last Run: 2026-07-19 13:26 UTC
+# Last Run: 2026-07-19 17:04 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S., Iranian Forces Target Civilian Infrastructure
@@ -76,12 +76,4 @@ Link: https://foreignpolicy.com/2026/07/16/elbridge-colby-middle-powers-america-
 [Foreign_Policy] Zelensky’s Cabinet Reshuffle Sparks Public Outcry in Ukraine
 Published: 2026-07-16T20:51:49+00:00
 Link: https://foreignpolicy.com/2026/07/16/ukraine-zelensky-cabinet-reshuffle-protests-fedorov-russia-war-drones/
----
-[Foreign_Policy] German Military Power Needs to Go It Alone
-Published: 2026-07-16T16:05:43+00:00
-Link: https://foreignpolicy.com/2026/07/16/germany-military-power-bundeswehr-nato-europe-russia/
----
-[Foreign_Policy] A Divided World Is North Korea’s Greatest Asset
-Published: 2026-07-16T14:02:45+00:00
-Link: https://foreignpolicy.com/2026/07/16/north-korea-sanctions-nuclear-weapons-united-states-russia-china-united-nations-security-council/
 ---
