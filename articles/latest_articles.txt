@@ -1,4 +1,4 @@
-# Last Run: 2026-07-19 20:53 UTC
+# Last Run: 2026-07-19 22:58 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] U.S., Iranian Forces Target Civilian Infrastructure
@@ -68,8 +68,4 @@ Link: https://www.foreignaffairs.com/united-states/americas-trillion-dollar-fail
 [Foreign_Affairs] A Dangerous Game in the Arctic
 Published: 2026-07-17T04:00:00+00:00
 Link: https://www.foreignaffairs.com/arctic-antarctic/dangerous-game-arctic
----
-[Foreign_Policy] The America First Contradiction
-Published: 2026-07-16T21:54:10+00:00
-Link: https://foreignpolicy.com/2026/07/16/elbridge-colby-middle-powers-america-first-trump/
 ---
