@@ -1,6 +1,18 @@
-# Last Run: 2026-07-20 10:57 UTC
+# Last Run: 2026-07-20 14:12 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Fixing U.S. Security Assistance
+Published: 2026-07-20T13:00:48+00:00
+Link: https://foreignpolicy.com/2026/07/20/us-security-assistance-bill-jacobs-congress-legislation/
+---
+[Foreign_Policy] Britain’s New Prime Minister Must Stand Up to Trump
+Published: 2026-07-20T12:35:34+00:00
+Link: https://foreignpolicy.com/2026/07/20/britain-new-prime-minister-andy-burnham-starmer-trump/
+---
+[Foreign_Policy] Flamingos Against Autocrats
+Published: 2026-07-20T12:30:50+00:00
+Link: https://foreignpolicy.com/2026/07/20/albania-flamingo-revolution-jared-kushner-sazan-island-resort/
+---
 [Foreign_Policy] Banning AI Models Doesn’t Add Up to a Policy
 Published: 2026-07-20T04:37:02+00:00
 Link: https://foreignpolicy.com/2026/07/20/anthropic-ban-ai-united-states/
@@ -76,16 +88,4 @@ Link: https://foreignpolicy.com/2026/07/17/lebanon-un-peacekeepers-israel-unifil
 [Foreign_Policy] U.S.-China Relations Are More Volatile Than Ever
 Published: 2026-07-17T14:15:08+00:00
 Link: https://foreignpolicy.com/2026/07/17/china-united-states-diplomacy-trump-xi-taiwan-stability-chaos-rivalry-partnership/
----
-[Foreign_Policy] How to Isolate Tehran
-Published: 2026-07-17T12:53:34+00:00
-Link: https://foreignpolicy.com/2026/07/17/tehran-iran-trump-hormuz-diplomacy-force-strikes/
----
-[Foreign_Policy] Latin America’s Oil Boom
-Published: 2026-07-17T12:00:33+00:00
-Link: https://foreignpolicy.com/2026/07/17/oil-exports-economy-argentina-brazil-guyana-iran/
----
-[Foreign_Policy] Russia’s Arms Buyers Rejoice Over Trump’s Deal With Turkey
-Published: 2026-07-17T11:27:28+00:00
-Link: https://foreignpolicy.com/2026/07/17/trump-russia-turkey-arms-sales-caatsa-sanctions-india-erdogan-f35/
 ---
