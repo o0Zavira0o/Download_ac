@@ -1,6 +1,14 @@
-# Last Run: 2026-07-20 18:10 UTC
+# Last Run: 2026-07-20 21:17 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Houthis Declare a Naval Blockade on Saudi Arabia
+Published: 2026-07-20T20:56:10+00:00
+Link: https://foreignpolicy.com/2026/07/20/houthi-blockade-saudi-iran-war-red-sea-gulf-aden-hormuz/
+---
+[Foreign_Policy] The Slow Death of the Global Commons
+Published: 2026-07-20T17:51:53+00:00
+Link: https://foreignpolicy.com/2026/07/20/trump-hormuz-iran-global-commons-fonops/
+---
 [Foreign_Policy] Suwayda’s Struggle
 Published: 2026-07-20T16:51:41+00:00
 Link: https://foreignpolicy.com/2026/07/20/suwayda-druze-syria-israel-sharaa-damascus/
@@ -60,20 +68,4 @@ Link: https://www.newyorker.com/magazine/2026/07/27/trumps-war-on-journalists
 [Foreign_Policy] U.S., Iranian Forces Target Civilian Infrastructure
 Published: 2026-07-17T21:24:51+00:00
 Link: https://foreignpolicy.com/2026/07/17/us-iran-strikes-civilian-infrastructure-bridges-kuwait-desalination-syria/
----
-[Foreign_Policy] Spain and Argentina Share a Common Language and Love for Soccer—but Not Much Else
-Published: 2026-07-17T20:46:27+00:00
-Link: https://foreignpolicy.com/2026/07/17/spain-argentina-soccer-world-cup-final-football/
----
-[Foreign_Policy] Beijing Is Trying to Turn Taiwan’s Sea Goddess Into a Chinese Agent
-Published: 2026-07-17T19:00:33+00:00
-Link: https://foreignpolicy.com/2026/07/17/china-taiwan-mazu-matsu-goddess-pilgrimage/
----
-[Foreign_Policy] The Battle for Borsch
-Published: 2026-07-17T18:40:56+00:00
-Link: https://foreignpolicy.com/2026/07/17/ukraine-russia-war-borsch-cultural-heritage-unesco/
----
-[Foreign_Policy] The Soccer Surveillance State
-Published: 2026-07-17T18:35:59+00:00
-Link: https://foreignpolicy.com/2026/07/17/world-cup-us-surveillance-ice-trump-infantino/
 ---
