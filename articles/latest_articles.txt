@@ -1,6 +1,18 @@
-# Last Run: 2026-07-20 14:12 UTC
+# Last Run: 2026-07-20 18:10 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Suwayda’s Struggle
+Published: 2026-07-20T16:51:41+00:00
+Link: https://foreignpolicy.com/2026/07/20/suwayda-druze-syria-israel-sharaa-damascus/
+---
+[Foreign_Policy] Europe Is Back in 1952
+Published: 2026-07-20T15:01:11+00:00
+Link: https://foreignpolicy.com/2026/07/20/europe-germany-france-eu-1952/
+---
+[Foreign_Policy] A New Great Game Is Underway in Central Asia
+Published: 2026-07-20T14:35:53+00:00
+Link: https://foreignpolicy.com/2026/07/20/great-game-central-asia-rare-earths/
+---
 [Foreign_Policy] Fixing U.S. Security Assistance
 Published: 2026-07-20T13:00:48+00:00
 Link: https://foreignpolicy.com/2026/07/20/us-security-assistance-bill-jacobs-congress-legislation/
@@ -20,6 +32,10 @@ Link: https://foreignpolicy.com/2026/07/20/anthropic-ban-ai-united-states/
 [Foreign_Policy] The Liberal Origins of the War Against the Deep State
 Published: 2026-07-20T04:01:07+00:00
 Link: https://foreignpolicy.com/2026/07/20/deep-state-liberal-origins-frank-church/
+---
+[Foreign_Affairs] An Iranian Vision of the New Middle East
+Published: 2026-07-20T04:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/iranian-vision-new-middle-east-zarif
 ---
 [Foreign_Affairs] An Iranian Vision of the New Middle East
 Published: 2026-07-20T04:00:00+00:00
@@ -60,32 +76,4 @@ Link: https://foreignpolicy.com/2026/07/17/ukraine-russia-war-borsch-cultural-he
 [Foreign_Policy] The Soccer Surveillance State
 Published: 2026-07-17T18:35:59+00:00
 Link: https://foreignpolicy.com/2026/07/17/world-cup-us-surveillance-ice-trump-infantino/
----
-[Foreign_Policy] Inside the Race to Protect Ukrainian
-Published: 2026-07-17T18:00:19+00:00
-Link: https://foreignpolicy.com/2026/07/17/ukrainian-language-preservation-russia-invasion/
----
-[Foreign_Policy] What in the World?
-Published: 2026-07-17T17:03:33+00:00
-Link: https://foreignpolicy.com/2026/07/17/news-quiz-china-ai-regulation-toll-hormuz-trump-congo-ebola/
----
-[Foreign_Policy] Syria’s Weak Parliament Still Matters
-Published: 2026-07-17T16:35:11+00:00
-Link: https://foreignpolicy.com/2026/07/17/syria-parliament-damascus-sharaa-assad-democracy/
----
-[Foreign_Policy] The U.S. and Iran Signed a Memorandum of Misunderstanding
-Published: 2026-07-17T16:17:01+00:00
-Link: https://foreignpolicy.com/2026/07/17/trump-peacemaking-iran-war-mou/
----
-[Foreign_Policy] Does Cuba Really Have Iranian Drones?
-Published: 2026-07-17T16:14:08+00:00
-Link: https://foreignpolicy.com/2026/07/17/cuba-iran-drones-trump-venezuela-us-military/
----
-[Foreign_Policy] Lebanon’s Peacekeepers Are Heading for the Exits
-Published: 2026-07-17T14:25:23+00:00
-Link: https://foreignpolicy.com/2026/07/17/lebanon-un-peacekeepers-israel-unifil/
----
-[Foreign_Policy] U.S.-China Relations Are More Volatile Than Ever
-Published: 2026-07-17T14:15:08+00:00
-Link: https://foreignpolicy.com/2026/07/17/china-united-states-diplomacy-trump-xi-taiwan-stability-chaos-rivalry-partnership/
 ---
