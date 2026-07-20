@@ -1,4 +1,4 @@
-# Last Run: 2026-07-20 21:17 UTC
+# Last Run: 2026-07-20 23:06 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Houthis Declare a Naval Blockade on Saudi Arabia
@@ -64,8 +64,4 @@ Link: https://www.newyorker.com/magazine/2026/07/27/eric-bogosians-killer-gig
 [New_Yorker_Magazine] Trump’s War on Journalists
 Published: 2026-07-18T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/07/27/trumps-war-on-journalists
----
-[Foreign_Policy] U.S., Iranian Forces Target Civilian Infrastructure
-Published: 2026-07-17T21:24:51+00:00
-Link: https://foreignpolicy.com/2026/07/17/us-iran-strikes-civilian-infrastructure-bridges-kuwait-desalination-syria/
 ---
