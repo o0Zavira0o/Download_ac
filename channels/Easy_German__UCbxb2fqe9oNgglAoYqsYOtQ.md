@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-19T10:39:36Z_
+_آخرین به‌روزرسانی: 2026-07-20T11:52:37Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-20 11:16:01 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Tipps für Magdeburg #shorts #reisen](https://www.youtube.com/watch?v=1mh8pKn6ty0)  
+  ![](https://i.ytimg.com/vi/1mh8pKn6ty0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-19 17:00:36 (UTC)  
+  **مدت:** حدود 32.5 دقیقه  
+  **عنوان:** [The Secret of German Friendship](https://www.youtube.com/watch?v=KDs-4nH64fc)  
+  ![](https://i.ytimg.com/vi/KDs-4nH64fc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-18 17:16:27 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-19T10:39:36Z_
   **مدت:** حدود 10.0 دقیقه  
   **عنوان:** [Family life in Germany | Easy German 158](https://www.youtube.com/watch?v=B3LagCVBKKc)  
   ![](https://i.ytimg.com/vi/B3LagCVBKKc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-08-21 17:17:20 (UTC)  
-  **مدت:** حدود 7.7 دقیقه  
-  **عنوان:** [If you had superpowers | Easy German 157](https://www.youtube.com/watch?v=BImUxl7j2Fs)  
-  ![](https://i.ytimg.com/vi/BImUxl7j2Fs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-08-14 18:00:05 (UTC)  
-  **مدت:** حدود 8.4 دقیقه  
-  **عنوان:** [What do Berliners have in their bags? | Easy German 156](https://www.youtube.com/watch?v=_kknZ0z3TxI)  
-  ![](https://i.ytimg.com/vi/_kknZ0z3TxI/hqdefault.jpg)

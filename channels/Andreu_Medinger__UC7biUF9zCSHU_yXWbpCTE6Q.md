@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-07-19T10:39:36Z_
+_آخرین به‌روزرسانی: 2026-07-20T11:52:37Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-07-20 11:45:21 (UTC)  
+  **مدت:** حدود 22.6 دقیقه  
+  **عنوان:** [AULA 1 - DESCOMPLICA SOLIDWORKS SIMULATION](https://www.youtube.com/watch?v=Kmy3g1S3lUM)  
+  ![](https://i.ytimg.com/vi/Kmy3g1S3lUM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-17 22:30:10 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-19T10:39:36Z_
   **مدت:** حدود 1.5 دقیقه  
   **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=6gve0tbjyXk)  
   ![](https://i.ytimg.com/vi/6gve0tbjyXk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-01-07 00:11:22 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=nT-iuX-wOJg)  
-  ![](https://i.ytimg.com/vi/nT-iuX-wOJg/hqdefault.jpg)
