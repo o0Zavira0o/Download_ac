@@ -503,6 +503,8 @@ https://foreignpolicy.com/2026/07/17/ukraine-russia-war-borsch-cultural-heritage
 https://foreignpolicy.com/2026/07/17/ukrainian-language-preservation-russia-invasion/
 https://foreignpolicy.com/2026/07/17/us-iran-strikes-civilian-infrastructure-bridges-kuwait-desalination-syria/
 https://foreignpolicy.com/2026/07/17/world-cup-us-surveillance-ice-trump-infantino/
+https://foreignpolicy.com/2026/07/20/anthropic-ban-ai-united-states/
+https://foreignpolicy.com/2026/07/20/deep-state-liberal-origins-frank-church/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/americas/trump-remaking-latin-america
 https://www.foreignaffairs.com/arctic-antarctic/dangerous-game-arctic
@@ -547,6 +549,7 @@ https://www.foreignaffairs.com/iran/iran-didnt-win-war
 https://www.foreignaffairs.com/iran/iran-embraces-forever-war
 https://www.foreignaffairs.com/iran/iran-losing-iraq
 https://www.foreignaffairs.com/iran/iran-won-war-may-lose-peace
+https://www.foreignaffairs.com/iran/iranian-vision-new-middle-east
 https://www.foreignaffairs.com/iran/irans-new-grand-strategy
 https://www.foreignaffairs.com/iran/irans-new-oil-weapon
 https://www.foreignaffairs.com/iran/let-iran-defeat-itself
@@ -561,6 +564,7 @@ https://www.foreignaffairs.com/japan/japans-point-no-return
 https://www.foreignaffairs.com/japan/return-japanese-hard-power
 https://www.foreignaffairs.com/libya/libyas-false-peace
 https://www.foreignaffairs.com/mexico/why-mexicos-cartels-are-so-hard-defeat
+https://www.foreignaffairs.com/pakistan/pakistan-won-war-iran
 https://www.foreignaffairs.com/palestinian-territories/build-palestinian-state
 https://www.foreignaffairs.com/palestinian-territories/end-hamas
 https://www.foreignaffairs.com/persian-gulf/silicon-valleys-bad-bet-gulf
@@ -821,4 +825,8 @@ https://www.newyorker.com/magazine/2026/07/20/the-perfect-moment-isaac-butler-bo
 https://www.newyorker.com/magazine/2026/07/20/voting-rights-updated
 https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family
 https://www.newyorker.com/magazine/2026/07/20/who-needs-friends-andrew-mccarthy-book-review
+https://www.newyorker.com/magazine/2026/07/27/eric-bogosians-killer-gig
+https://www.newyorker.com/magazine/2026/07/27/peter-hujars-search-for-secrets
+https://www.newyorker.com/magazine/2026/07/27/testing-fiction-min-jin-lee
 https://www.newyorker.com/magazine/2026/07/27/the-odyssey-christopher-nolan-movie-review
+https://www.newyorker.com/magazine/2026/07/27/trumps-war-on-journalists
