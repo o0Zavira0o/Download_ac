@@ -1,4 +1,118 @@
 ================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | IrGens
+Title  : Managing and Scaling Power BI Semantic Models with MCP Server
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 1h 8m | 225 MB
+Link   : http://zavat.pw/ebooks/managing-and-scaling-power-bi-semantic-models-with-mcp-server.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | IrGens
+Title  : Git and GitHub for Data Professionals
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 2h 59m | 387 MB
+Link   : http://zavat.pw/ebooks/git-and-github-for-data-professionals.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | IrGens
+Title  : Build Python Web Apps with Streamlit, Video Edition
+Details: .MP4, AVC, 1920x1080, 15 fps | English, AAC, 2 Ch | 12h 58m | 2.92 GB
+Link   : http://zavat.pw/ebooks/9781633436015VE.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | hill0
+Title  : Nature Beats
+Details: English | 2026 | ISBN: 3032242495 | 557 Pages | PDF EPUB (True) | 15 MB
+Link   : http://zavat.pw/ebooks/3032242495.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | hill0
+Title  : Computational Modeling and Simulation of Medical Devices
+Details: English | 2026 | ISBN: 3032091799 | 662 Pages | PDF EPUB (True) | 99 MB
+Link   : http://zavat.pw/ebooks/3032091799.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | hill0
+Title  : Clean Ruby (2nd Edition)
+Details: English | 2026 | ASIN: B0GLX69HXS | 379 Pages | PDF EPUB (True) | 3 MB
+Link   : http://zavat.pw/ebooks/B0GLX69HXS.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : Télémagazine N.3690 - 21 Juillet 2026
+Details: Français | 108 pages | True PDF | 73.0 MB
+Link   : http://zavat.pw/magazines/T%C3%A9l%C3%A9magazineN369021Juillet2026-11356.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : Modern Rodding - August 2026
+Details: English | 92 pages | True PDF | 154.3 MB
+Link   : http://zavat.pw/magazines/ModernRoddingAugust2026-51276.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : Street Trucks - August 2026
+Details: English | 100 pages | True PDF | 62.0 MB
+Link   : http://zavat.pw/magazines/StreetTrucksAugust2026-69563.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : Sunset - Outdoor Living 2026
+Details: English | 100 pages | True PDF | 63.7 MB
+Link   : http://zavat.pw/magazines/SunsetOutdoorLiving2026-21458.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : The Trapper - September 2026
+Details: English | 56 pages | True PDF | 30.9 MB
+Link   : http://zavat.pw/magazines/TheTrapperSeptember2026-11061.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : Radio Times - 25 July 2026
+Details: English | 146 pages | True PDF | 72.6 MB
+Link   : http://zavat.pw/magazines/RadioTimes25July2026-11250.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : Quilter's World - Late Autumn 2026
+Details: English | 100 pages | True PDF | 54.1 MB
+Link   : http://zavat.pw/magazines/QuiltersWorldLateAutumn2026-58669.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : National Geographic USA - August 2026
+Details: English | 136 pages | True PDF | 62.4 MB
+Link   : http://zavat.pw/magazines/NationalGeographicUSAAugust2026-06654.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : Cowboys & Indians - August-September 2026
+Details: English | 140 pages | True PDF | 79.3 MB
+Link   : http://zavat.pw/magazines/CowboysIndiansAugustSeptember2026-87802.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : Champak English Edition - July 2026 II
+Details: English | 54 pages | True PDF | 57.4 MB
+Link   : http://zavat.pw/magazines/ChampakEnglishEditionJuly2026II-44320.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : Lion's Roar - September 2026
+Details: English | 84 pages | True PDF | 32.0 MB
+Link   : http://zavat.pw/magazines/LionsRoarSeptember2026-56091.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : Discover - Summer 2026
+Details: English | 84 pages | True PDF | 38.1 MB
+Link   : http://zavat.pw/magazines/DiscoverSummer2026-86748.html
+
+================================================================================
+2026-07-21 18:01:50 (Asia/Tehran) | crazy-slim
+Title  : Florida Sportsman - August-September 2026
+Details: English | 100 pages | True PDF | 48.8 MB
+Link   : http://zavat.pw/magazines/FloridaSportsmanAugustSeptember2026-34752.html
+
+================================================================================
 2026-07-21 15:38:30 (Asia/Tehran) | hill0
 Title  : Service Oriented, Holonic and Multi-agent Manufacturing Systems for Industry of the Future
 Details: English | 2026 | ISBN: 3032187850 | 488 Pages | PDF (True) | 54 MB
