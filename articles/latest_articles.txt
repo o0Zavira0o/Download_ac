@@ -1,6 +1,10 @@
-# Last Run: 2026-07-21 06:33 UTC
+# Last Run: 2026-07-21 10:30 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Western Myth of Russian Greatness
+Published: 2026-07-21T09:33:02+00:00
+Link: https://foreignpolicy.com/2026/07/21/russia-myths-great-power-putin-war-ukraine/
+---
 [Foreign_Policy] Trump Needs to Defy History to End the Iran War
 Published: 2026-07-21T04:19:29+00:00
 Link: https://foreignpolicy.com/2026/07/21/trump-end-iran-war-history/
@@ -80,8 +84,4 @@ Link: https://www.newyorker.com/magazine/2026/07/27/testing-fiction-min-jin-lee
 [New_Yorker_Magazine] Eric Bogosian’s Killer Gig
 Published: 2026-07-19T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/07/27/eric-bogosians-killer-gig
----
-[New_Yorker_Magazine] Trump’s War on Journalists
-Published: 2026-07-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/27/trumps-war-on-journalists
 ---
