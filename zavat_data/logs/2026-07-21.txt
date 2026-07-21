@@ -1,4 +1,34 @@
 ================================================================================
+2026-07-21 22:37:42 (Asia/Tehran) | IrGens
+Title  : Advanced MySQL for Data Analytics
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 3h 12m | 461 MB
+Link   : http://zavat.pw/ebooks/advanced-mysql-for-data-analytics.html
+
+================================================================================
+2026-07-21 22:37:42 (Asia/Tehran) | IrGens
+Title  : The AI-Native Product Manager’s Toolkit
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 1h 3m | 217 MB
+Link   : http://zavat.pw/ebooks/the-ai-native-product-manager-s-toolkit.html
+
+================================================================================
+2026-07-21 22:37:42 (Asia/Tehran) | IrGens
+Title  : Building with Claude Agent SDK
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 34m | 228 MB
+Link   : http://zavat.pw/ebooks/building-claude-agent-sdk.html
+
+================================================================================
+2026-07-21 22:37:42 (Asia/Tehran) | hill0
+Title  : Solar Surveyors: Observing the Sun from Space
+Details: English | 2022 | ISBN: 3030987876 | 852 Pages | EPUB (True) | 164 MB
+Link   : http://zavat.pw/ebooks/3030987876T.html
+
+================================================================================
+2026-07-21 22:37:42 (Asia/Tehran) | hill0
+Title  : Beautiful Blooms
+Details: English | 2026 | ISBN: 1423669665 | 253 Pages | PDF | 110 MB
+Link   : http://zavat.pw/ebooks/1423669665p.html
+
+================================================================================
 2026-07-21 21:21:16 (Asia/Tehran) | IrGens
 Title  : Extending Claude Code with Plugins
 Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 34m | 146 MB
