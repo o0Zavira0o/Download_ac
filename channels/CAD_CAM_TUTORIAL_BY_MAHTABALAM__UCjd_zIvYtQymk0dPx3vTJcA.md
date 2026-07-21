@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-20T11:52:37Z_
+_آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-20 14:53:21 (UTC)  
+  **مدت:** حدود 11.3 دقیقه  
+  **عنوان:** [SolidWorks Tutorial-Metal Ornament](https://www.youtube.com/watch?v=FhUc4b5t2Hk)  
+  ![](https://i.ytimg.com/vi/FhUc4b5t2Hk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-19 03:30:17 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-20T11:52:37Z_
   **مدت:** حدود 26.8 دقیقه  
   **عنوان:** [Solidworks tutorial sketch Angry Bird in Solidworks](https://www.youtube.com/watch?v=MwiEXOuvF7o)  
   ![](https://i.ytimg.com/vi/MwiEXOuvF7o/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-01 20:51:39 (UTC)  
-  **مدت:** حدود 57.7 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch DC motor in Solidworks](https://www.youtube.com/watch?v=9c5F1E9n0vk)  
-  ![](https://i.ytimg.com/vi/9c5F1E9n0vk/hqdefault.jpg)

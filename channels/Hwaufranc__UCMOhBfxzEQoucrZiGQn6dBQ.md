@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-07-20T11:52:37Z_
+_آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-07-20 13:00:26 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [ASMR 🏰Stamp on it 스탬프다꾸 コラージュ #diy #stamp #asmr](https://www.youtube.com/watch?v=4zYpqirQy3I)  
+  ![](https://i.ytimg.com/vi/4zYpqirQy3I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-19 13:00:09 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-07-20T11:52:37Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [Wax Art 🩵 #waxart #waxbeads #waxmelts #craft #satisfying #asmr](https://www.youtube.com/watch?v=KEfEpbbdqFI)  
   ![](https://i.ytimg.com/vi/KEfEpbbdqFI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-06 12:57:00 (UTC)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [ASMR Creative Art DIY Phone Case 2/2🏛 #asmr #diy #scrapbooking #craft](https://www.youtube.com/watch?v=WssefezYWyo)  
-  ![](https://i.ytimg.com/vi/WssefezYWyo/hqdefault.jpg)
