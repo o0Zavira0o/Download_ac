@@ -1,4 +1,28 @@
 ================================================================================
+2026-07-22 18:02:26 (Asia/Tehran) | IrGens
+Title  : Build Secure AWS Pipelines with GitHub Actions and OIDC
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 45m | 141 MB
+Link   : http://zavat.pw/ebooks/build-secure-aws-pipelines-with-github-actions-and-oidc.html
+
+================================================================================
+2026-07-22 18:02:26 (Asia/Tehran) | IrGens
+Title  : Excel for Data Analytics
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 9h 29m | 1.88 GB
+Link   : http://zavat.pw/ebooks/excel-for-data-analytics.html
+
+================================================================================
+2026-07-22 18:02:26 (Asia/Tehran) | IrGens
+Title  : Advanced Excel for Automation
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 3h 41m | 746 MB
+Link   : http://zavat.pw/ebooks/advanced-excel-for-automation.html
+
+================================================================================
+2026-07-22 18:02:26 (Asia/Tehran) | IrGens
+Title  : PowerShell UI Design: Designing Interactive PowerShell Tools and Mastering GUI Development
+Details: ISBN: 9780135916629 | .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 11h 43m | 19 GB
+Link   : http://zavat.pw/ebooks/9780135916629.html
+
+================================================================================
 2026-07-22 15:52:49 (Asia/Tehran) | IrGens
 Title  : The Idiot: A New Translation
 Details: English | July 21, 2026 | ISBN: 1324096373, 9781324096382 | True EPUB | 800 pages | 0.9 MB
