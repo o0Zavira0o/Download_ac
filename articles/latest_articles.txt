@@ -1,4 +1,4 @@
-# Last Run: 2026-07-22 06:33 UTC
+# Last Run: 2026-07-22 10:33 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] China Pitches Its AI Leadership to the World
@@ -124,12 +124,4 @@ Link: https://www.foreignaffairs.com/iran/iranian-vision-new-middle-east
 [Foreign_Affairs] Pakistan Won the War in Iran
 Published: 2026-07-20T04:00:00+00:00
 Link: https://www.foreignaffairs.com/pakistan/pakistan-won-war-iran
----
-[New_Yorker_Magazine] “Testing,” by Min Jin Lee
-Published: 2026-07-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/27/testing-fiction-min-jin-lee
----
-[New_Yorker_Magazine] Eric Bogosian’s Killer Gig
-Published: 2026-07-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/07/27/eric-bogosians-killer-gig
 ---
