@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
+_آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-07-21 15:27:52 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [2 Roofs in 1 Video! ⚡ nanoCAD Loft & Subtraction #nanoCAD #RoofModeling #3DModeling #Architecture](https://www.youtube.com/watch?v=fendivClO1k)  
+  ![](https://i.ytimg.com/vi/fendivClO1k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-21 15:18:38 (UTC)  
+  **مدت:** حدود 5.7 دقیقه  
+  **عنوان:** [nanoCAD Roof Modeling: Hip Roof & Flat Roof in One Tutorial - nanoCAD 3D Modeling - Lesson 13](https://www.youtube.com/watch?v=vjm7k0koXtE)  
+  ![](https://i.ytimg.com/vi/vjm7k0koXtE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-16 11:30:58 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
   **مدت:** حدود 5.2 دقیقه  
   **عنوان:** [Drawing Rectangles & Regular Polygons - Lesson 9](https://www.youtube.com/watch?v=SjsFKmMTRx0)  
   ![](https://i.ytimg.com/vi/SjsFKmMTRx0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2019-12-11 14:05:11 (UTC)  
-  **مدت:** حدود 4.5 دقیقه  
-  **عنوان:** [Circles and Ellipses - Lesson 8](https://www.youtube.com/watch?v=LqfrB6e2iXg)  
-  ![](https://i.ytimg.com/vi/LqfrB6e2iXg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2019-11-29 10:33:49 (UTC)  
-  **مدت:** حدود 3.8 دقیقه  
-  **عنوان:** [Placing Multiline Text - Lesson 7](https://www.youtube.com/watch?v=ZmUZopZu2qw)  
-  ![](https://i.ytimg.com/vi/ZmUZopZu2qw/hqdefault.jpg)

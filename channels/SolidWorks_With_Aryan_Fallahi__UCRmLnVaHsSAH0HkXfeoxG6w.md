@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال SolidWorks With Aryan Fallahi
 
-_آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
+_آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
 
 
 **لینک استاندارد کانال:** [SolidWorks With Aryan Fallahi](https://www.youtube.com/channel/UCRmLnVaHsSAH0HkXfeoxG6w)  
+
+
+- **تاریخ انتشار:** 2026-07-21 19:10:48 (UTC)  
+  **مدت:** حدود 7.3 دقیقه  
+  **عنوان:** [The One Simulation You Didn't Know You Need](https://www.youtube.com/watch?v=YfALi1t6ACU)  
+  ![](https://i.ytimg.com/vi/YfALi1t6ACU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-14 14:00:02 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [How much to charge for your SOLIDWORKS services #solidworks2023 #solidworks #3dentertainment](https://www.youtube.com/watch?v=EGMPDFhhPqs)  
   ![](https://i.ytimg.com/vi/EGMPDFhhPqs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2023-08-10 20:30:04 (UTC)  
-  **مدت:** حدود 16.6 دقیقه  
-  **عنوان:** [Leveraging SOLIDWORKS to make money](https://www.youtube.com/watch?v=lekV4-Cl_ko)  
-  ![](https://i.ytimg.com/vi/lekV4-Cl_ko/hqdefault.jpg)

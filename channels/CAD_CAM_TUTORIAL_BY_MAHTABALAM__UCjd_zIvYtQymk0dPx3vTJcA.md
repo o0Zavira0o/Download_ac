@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
+_آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-21 16:16:01 (UTC)  
+  **مدت:** حدود 8.1 دقیقه  
+  **عنوان:** [SolidWorks Tutorial-Metal Bracelet Modeling](https://www.youtube.com/watch?v=l_1fXDc9PCk)  
+  ![](https://i.ytimg.com/vi/l_1fXDc9PCk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-20 14:53:21 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
   **مدت:** حدود 30.1 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Roller Bearing in Solidworks](https://www.youtube.com/watch?v=CQ2yB--3Auc)  
   ![](https://i.ytimg.com/vi/CQ2yB--3Auc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-03 09:50:13 (UTC)  
-  **مدت:** حدود 26.8 دقیقه  
-  **عنوان:** [Solidworks tutorial sketch Angry Bird in Solidworks](https://www.youtube.com/watch?v=MwiEXOuvF7o)  
-  ![](https://i.ytimg.com/vi/MwiEXOuvF7o/hqdefault.jpg)

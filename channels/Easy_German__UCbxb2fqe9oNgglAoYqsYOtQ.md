@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
+_آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-21 17:00:32 (UTC)  
+  **مدت:** حدود 33.1 دقیقه  
+  **عنوان:** [We Rank Beautiful German Words (and Terrible Ones!)](https://www.youtube.com/watch?v=omfb5tjFSIM)  
+  ![](https://i.ytimg.com/vi/omfb5tjFSIM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-20 11:16:01 (UTC)  
@@ -9506,7 +9512,7 @@ _آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
 
 - **تاریخ انتشار:** 2016-11-03 03:03:57 (UTC)  
   **مدت:** حدود 5.5 دقیقه  
-  **عنوان:** [Sports | Super Easy German (3)](https://www.youtube.com/watch?v=hxGSArgzNN8)  
+  **عنوان:** [Sports in Slow German](https://www.youtube.com/watch?v=hxGSArgzNN8)  
   ![](https://i.ytimg.com/vi/hxGSArgzNN8/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
   **مدت:** حدود 9.6 دقیقه  
   **عنوان:** [Cari Antwortet (32) - Geil | Ändern vs. Verändern | Deutsche niesen laut](https://www.youtube.com/watch?v=0ImZ5T5Ub4I)  
   ![](https://i.ytimg.com/vi/0ImZ5T5Ub4I/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-08-28 16:51:15 (UTC)  
-  **مدت:** حدود 10.0 دقیقه  
-  **عنوان:** [Family life in Germany | Easy German 158](https://www.youtube.com/watch?v=B3LagCVBKKc)  
-  ![](https://i.ytimg.com/vi/B3LagCVBKKc/hqdefault.jpg)

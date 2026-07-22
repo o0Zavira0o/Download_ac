@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
+_آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-07-21 17:42:21 (UTC)  
+  **مدت:** حدود 17.9 دقیقه  
+  **عنوان:** [Ep. 24 Control Cabinet Introduction & HMI Touchscreen Initial test](https://www.youtube.com/watch?v=11kLAu9n924)  
+  ![](https://i.ytimg.com/vi/11kLAu9n924/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-18 07:51:58 (UTC)  

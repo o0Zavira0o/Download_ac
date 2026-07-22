@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
+_آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-07-21 13:00:36 (UTC)  
+  **مدت:** حدود 3.0 دقیقه  
+  **عنوان:** [ASMR Unboxing Journal Supplies 다꾸템 하울 Sticker Tapes Stationery](https://www.youtube.com/watch?v=8STlvvdDIU8)  
+  ![](https://i.ytimg.com/vi/8STlvvdDIU8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-20 13:00:26 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-07-21T11:13:33Z_
   **مدت:** حدود 9.1 دقیقه  
   **عنوان:** [ASMR Decorating a journal with only one product🐦 challenge collage journaling](https://www.youtube.com/watch?v=q5cYc0SLJng)  
   ![](https://i.ytimg.com/vi/q5cYc0SLJng/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-07 12:45:01 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Wax Art 🩵 #waxart #waxbeads #waxmelts #craft #satisfying #asmr](https://www.youtube.com/watch?v=KEfEpbbdqFI)  
-  ![](https://i.ytimg.com/vi/KEfEpbbdqFI/hqdefault.jpg)
