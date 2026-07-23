@@ -1,4 +1,4 @@
-# Last Run: 2026-07-23 21:10 UTC
+# Last Run: 2026-07-23 23:02 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] China Is AI-Maxxing
@@ -136,8 +136,4 @@ Link: https://www.foreignaffairs.com/united-states/autocrats-worst-enemy
 [Foreign_Affairs] The Gulf’s China Problem
 Published: 2026-07-21T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/gulfs-china-problem
----
-[Foreign_Policy] State Department Frames Cuba as Major Threat via Left-Wing Groups
-Published: 2026-07-20T21:42:05+00:00
-Link: https://foreignpolicy.com/2026/07/20/state-department-cuba-report-left-wing-terrorism-rubio-trump/
 ---
