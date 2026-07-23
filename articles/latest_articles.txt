@@ -1,4 +1,4 @@
-# Last Run: 2026-07-23 17:28 UTC
+# Last Run: 2026-07-23 19:24 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] There’s Only One Way Out of Trump’s Reckless War
@@ -136,8 +136,4 @@ Link: https://foreignpolicy.com/2026/07/20/state-department-cuba-report-left-win
 [Foreign_Policy] Houthis Declare a Naval Blockade on Saudi Arabia
 Published: 2026-07-20T20:56:10+00:00
 Link: https://foreignpolicy.com/2026/07/20/houthi-blockade-saudi-iran-war-red-sea-gulf-aden-hormuz/
----
-[Foreign_Policy] The Slow Death of the Global Commons
-Published: 2026-07-20T17:51:53+00:00
-Link: https://foreignpolicy.com/2026/07/20/trump-hormuz-iran-global-commons-fonops/
 ---
