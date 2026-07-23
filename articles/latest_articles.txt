@@ -1,6 +1,14 @@
-# Last Run: 2026-07-23 19:24 UTC
+# Last Run: 2026-07-23 21:10 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] China Is AI-Maxxing
+Published: 2026-07-23T20:12:47+00:00
+Link: https://foreignpolicy.com/2026/07/23/china-ai-race-moonshot-kimi-k3-alibaba-qwen-deepseek-openai-anthropic/
+---
+[Foreign_Policy] Odysseus at the End of Civilization
+Published: 2026-07-23T20:05:45+00:00
+Link: https://foreignpolicy.com/2026/07/23/odyssey-civilization-collapse-history/
+---
 [Foreign_Policy] There’s Only One Way Out of Trump’s Reckless War
 Published: 2026-07-23T17:09:50+00:00
 Link: https://foreignpolicy.com/2026/07/23/iran-united-states-trump-hormuz-war-nuclear/
@@ -132,8 +140,4 @@ Link: https://www.foreignaffairs.com/china/gulfs-china-problem
 [Foreign_Policy] State Department Frames Cuba as Major Threat via Left-Wing Groups
 Published: 2026-07-20T21:42:05+00:00
 Link: https://foreignpolicy.com/2026/07/20/state-department-cuba-report-left-wing-terrorism-rubio-trump/
----
-[Foreign_Policy] Houthis Declare a Naval Blockade on Saudi Arabia
-Published: 2026-07-20T20:56:10+00:00
-Link: https://foreignpolicy.com/2026/07/20/houthi-blockade-saudi-iran-war-red-sea-gulf-aden-hormuz/
 ---
