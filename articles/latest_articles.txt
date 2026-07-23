@@ -1,6 +1,22 @@
-# Last Run: 2026-07-23 14:08 UTC
+# Last Run: 2026-07-23 17:28 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] There’s Only One Way Out of Trump’s Reckless War
+Published: 2026-07-23T17:09:50+00:00
+Link: https://foreignpolicy.com/2026/07/23/iran-united-states-trump-hormuz-war-nuclear/
+---
+[Foreign_Policy] Xi’s Demands for Loyalty Are Breeding Corruption
+Published: 2026-07-23T16:55:11+00:00
+Link: https://foreignpolicy.com/2026/07/23/china-corruption-ma-xingrui/
+---
+[Foreign_Policy] Trump Is Triggering a Middle East Nuclear Arms Race
+Published: 2026-07-23T16:17:45+00:00
+Link: https://foreignpolicy.com/2026/07/23/trump-us-saudi-nuclear-deal-weapons-iran-israel-arms-race/
+---
+[Foreign_Policy] Beijing Is Celebrating a Race It Never Ran
+Published: 2026-07-23T13:31:42+00:00
+Link: https://foreignpolicy.com/2026/07/23/beijing-china-united-states-pew-public-opinion-soft-power/
+---
 [Foreign_Policy] Britain Is Losing the Falklands
 Published: 2026-07-23T13:18:52+00:00
 Link: https://foreignpolicy.com/2026/07/23/falklands-britain-argentina-islands-world-cup-malvinas-territory-sovereignty-colonialism/
@@ -124,16 +140,4 @@ Link: https://foreignpolicy.com/2026/07/20/houthi-blockade-saudi-iran-war-red-se
 [Foreign_Policy] The Slow Death of the Global Commons
 Published: 2026-07-20T17:51:53+00:00
 Link: https://foreignpolicy.com/2026/07/20/trump-hormuz-iran-global-commons-fonops/
----
-[Foreign_Policy] Suwayda’s Struggle
-Published: 2026-07-20T16:51:41+00:00
-Link: https://foreignpolicy.com/2026/07/20/suwayda-druze-syria-israel-sharaa-damascus/
----
-[Foreign_Policy] Europe Is Back in 1952
-Published: 2026-07-20T15:01:11+00:00
-Link: https://foreignpolicy.com/2026/07/20/europe-germany-france-eu-1952/
----
-[Foreign_Policy] A New Great Game Is Underway in Central Asia
-Published: 2026-07-20T14:35:53+00:00
-Link: https://foreignpolicy.com/2026/07/20/great-game-central-asia-rare-earths/
 ---
