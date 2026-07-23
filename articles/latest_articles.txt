@@ -1,6 +1,14 @@
-# Last Run: 2026-07-23 02:55 UTC
+# Last Run: 2026-07-23 06:36 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The Small Suffer What They Must?
+Published: 2026-07-23T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/small-suffer-what-they-must
+---
+[Foreign_Affairs] China’s Moment of Weakness
+Published: 2026-07-23T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/chinas-moment-weakness
+---
 [Foreign_Policy] Trump Approves Nuclear Deal With Saudi Arabia
 Published: 2026-07-22T21:25:30+00:00
 Link: https://foreignpolicy.com/2026/07/22/trump-nuclear-deal-saudi-arabia-uranium-enrichment-gold-standard/
@@ -124,24 +132,4 @@ Link: https://foreignpolicy.com/2026/07/20/britain-new-prime-minister-andy-burnh
 [Foreign_Policy] Flamingos Against Autocrats
 Published: 2026-07-20T12:30:50+00:00
 Link: https://foreignpolicy.com/2026/07/20/albania-flamingo-revolution-jared-kushner-sazan-island-resort/
----
-[Foreign_Policy] Banning AI Models Doesn’t Add Up to a Policy
-Published: 2026-07-20T04:37:02+00:00
-Link: https://foreignpolicy.com/2026/07/20/anthropic-ban-ai-united-states/
----
-[Foreign_Policy] The Liberal Origins of the War Against the Deep State
-Published: 2026-07-20T04:01:07+00:00
-Link: https://foreignpolicy.com/2026/07/20/deep-state-liberal-origins-frank-church/
----
-[Foreign_Affairs] An Iranian Vision of the New Middle East
-Published: 2026-07-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/iranian-vision-new-middle-east-zarif
----
-[Foreign_Affairs] An Iranian Vision of the New Middle East
-Published: 2026-07-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/iranian-vision-new-middle-east
----
-[Foreign_Affairs] Pakistan Won the War in Iran
-Published: 2026-07-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/pakistan/pakistan-won-war-iran
 ---
