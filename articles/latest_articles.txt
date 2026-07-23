@@ -1,6 +1,10 @@
-# Last Run: 2026-07-23 10:31 UTC
+# Last Run: 2026-07-23 14:08 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Britain Is Losing the Falklands
+Published: 2026-07-23T13:18:52+00:00
+Link: https://foreignpolicy.com/2026/07/23/falklands-britain-argentina-islands-world-cup-malvinas-territory-sovereignty-colonialism/
+---
 [New_Yorker_Magazine] “The Frenchmen: Or, My Life in Theory,” Reviewed
 Published: 2026-07-23T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/08/03/the-frenchmen-emily-eakin-book-review
@@ -132,16 +136,4 @@ Link: https://foreignpolicy.com/2026/07/20/europe-germany-france-eu-1952/
 [Foreign_Policy] A New Great Game Is Underway in Central Asia
 Published: 2026-07-20T14:35:53+00:00
 Link: https://foreignpolicy.com/2026/07/20/great-game-central-asia-rare-earths/
----
-[Foreign_Policy] Fixing U.S. Security Assistance
-Published: 2026-07-20T13:00:48+00:00
-Link: https://foreignpolicy.com/2026/07/20/us-security-assistance-bill-jacobs-congress-legislation/
----
-[Foreign_Policy] Britain’s New Prime Minister Must Stand Up to Trump
-Published: 2026-07-20T12:35:34+00:00
-Link: https://foreignpolicy.com/2026/07/20/britain-new-prime-minister-andy-burnham-starmer-trump/
----
-[Foreign_Policy] Flamingos Against Autocrats
-Published: 2026-07-20T12:30:50+00:00
-Link: https://foreignpolicy.com/2026/07/20/albania-flamingo-revolution-jared-kushner-sazan-island-resort/
 ---
