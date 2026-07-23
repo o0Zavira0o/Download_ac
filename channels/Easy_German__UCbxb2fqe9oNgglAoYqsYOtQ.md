@@ -1,14 +1,20 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
+_آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
 
 
+- **تاریخ انتشار:** 2026-07-22 15:48:15 (UTC)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Georg Friedrich Händel #easygerman  #deutschlernen #halle #germancities](https://www.youtube.com/watch?v=-Q-OAMt9z7E)  
+  ![](https://i.ytimg.com/vi/-Q-OAMt9z7E/hqdefault.jpg)
+
+
 - **تاریخ انتشار:** 2026-07-21 17:00:32 (UTC)  
   **مدت:** حدود 33.1 دقیقه  
-  **عنوان:** [We Rank Beautiful German Words (and Terrible Ones!)](https://www.youtube.com/watch?v=omfb5tjFSIM)  
+  **عنوان:** [Ugly vs. Beautiful German Words (live from Köln)](https://www.youtube.com/watch?v=omfb5tjFSIM)  
   ![](https://i.ytimg.com/vi/omfb5tjFSIM/hqdefault.jpg)
 
 
@@ -8587,7 +8593,7 @@ _آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
 
 
 - **تاریخ انتشار:** 2018-04-15 17:00:01 (UTC)  
-  **مدت:** حدود 8.6 دقیقه  
+  **مدت:** حدود 7.9 دقیقه  
   **عنوان:** [Manuel in China | Easy German 240](https://www.youtube.com/watch?v=UNwkeeQauUI)  
   ![](https://i.ytimg.com/vi/UNwkeeQauUI/hqdefault.jpg)
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
   **مدت:** حدود 7.2 دقیقه  
   **عنوان:** [Dresden | Easy German 159](https://www.youtube.com/watch?v=cFUL3oPOHyk)  
   ![](https://i.ytimg.com/vi/cFUL3oPOHyk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-09-02 19:08:51 (UTC)  
-  **مدت:** حدود 9.6 دقیقه  
-  **عنوان:** [Cari Antwortet (32) - Geil | Ändern vs. Verändern | Deutsche niesen laut](https://www.youtube.com/watch?v=0ImZ5T5Ub4I)  
-  ![](https://i.ytimg.com/vi/0ImZ5T5Ub4I/hqdefault.jpg)

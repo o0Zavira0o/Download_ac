@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
+_آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-23 02:19:15 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Simple trick for chamfer on hexagon in solidworks 😀 #ytshorts #shorts #malviyacadsolution](https://www.youtube.com/watch?v=_RnpPCPSzDc)  
+  ![](https://i.ytimg.com/vi/_RnpPCPSzDc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-18 03:35:00 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
   **مدت:** حدود 2.4 دقیقه  
   **عنوان:** [Indent feature in solidworks #shorts #ytshorts #solidworks #malviyacadsolution #cad](https://www.youtube.com/watch?v=75rVXqAPJ18)  
   ![](https://i.ytimg.com/vi/75rVXqAPJ18/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-23 04:47:54 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Rope modelling in solidworks 😀 #ytshorts #shorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=NyambtDtE-Q)  
-  ![](https://i.ytimg.com/vi/NyambtDtE-Q/hqdefault.jpg)

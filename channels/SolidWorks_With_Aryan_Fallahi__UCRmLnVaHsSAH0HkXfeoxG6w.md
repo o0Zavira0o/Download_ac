@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال SolidWorks With Aryan Fallahi
 
-_آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
+_آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
 
 
 **لینک استاندارد کانال:** [SolidWorks With Aryan Fallahi](https://www.youtube.com/channel/UCRmLnVaHsSAH0HkXfeoxG6w)  
@@ -8,7 +8,7 @@ _آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
 
 - **تاریخ انتشار:** 2026-07-21 19:10:48 (UTC)  
   **مدت:** حدود 7.3 دقیقه  
-  **عنوان:** [The One Simulation You Didn't Know You Need](https://www.youtube.com/watch?v=YfALi1t6ACU)  
+  **عنوان:** [The One Simulation Every Engineer Must Learn](https://www.youtube.com/watch?v=YfALi1t6ACU)  
   ![](https://i.ytimg.com/vi/YfALi1t6ACU/hqdefault.jpg)
 
 

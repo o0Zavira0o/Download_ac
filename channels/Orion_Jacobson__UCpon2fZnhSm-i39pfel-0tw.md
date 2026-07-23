@@ -1,27 +1,9 @@
 # آرشیو ویدیوهای کانال Orion Jacobson 
 
-_آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
+_آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
 
 
 **لینک استاندارد کانال:** [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)  
-
-
-- **تاریخ انتشار:** 2026-06-29 17:58:11 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [obviously ice is even worse #broken #system](https://www.youtube.com/watch?v=9g_xCXiaZVo)  
-  ![](https://i.ytimg.com/vi/9g_xCXiaZVo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-06-26 11:52:22 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [ted talk #worldcup](https://www.youtube.com/watch?v=u-n0tuGLuSs)  
-  ![](https://i.ytimg.com/vi/u-n0tuGLuSs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-06-22 11:54:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [I'm 1000% serious](https://www.youtube.com/watch?v=G8dp7jwbXsY)  
-  ![](https://i.ytimg.com/vi/G8dp7jwbXsY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-22 11:53:00 (UTC)  
@@ -904,3 +886,21 @@ _آخرین به‌روزرسانی: 2026-07-22T11:14:02Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [what goes down must come back up #keef #geeb](https://www.youtube.com/watch?v=sh9HiGcuSmE)  
   ![](https://i.ytimg.com/vi/sh9HiGcuSmE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-04-01 02:17:47 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [immaculate vibes boys #geeb](https://www.youtube.com/watch?v=dqZ-nPUDzLs)  
+  ![](https://i.ytimg.com/vi/dqZ-nPUDzLs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-03-31 18:20:35 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [my bro tried biting my hand when I free him #helpmemakethismakesense](https://www.youtube.com/watch?v=b8vuk-ghuew)  
+  ![](https://i.ytimg.com/vi/b8vuk-ghuew/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-03-30 14:56:55 (UTC)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [cloudy day out today](https://www.youtube.com/watch?v=DFnlTNV9uNc)  
+  ![](https://i.ytimg.com/vi/DFnlTNV9uNc/hqdefault.jpg)
