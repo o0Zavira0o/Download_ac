@@ -1,6 +1,14 @@
-# Last Run: 2026-07-24 02:47 UTC
+# Last Run: 2026-07-24 06:31 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] Iran and the New Rules of Global Power
+Published: 2026-07-24T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/iran-and-new-rules-global-power
+---
+[Foreign_Affairs] America Still Has the Upper Hand Over China
+Published: 2026-07-24T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/america-still-has-upper-hand-over-china
+---
 [Foreign_Policy] Is Cuba Trump’s Next Target?
 Published: 2026-07-23T22:06:48+00:00
 Link: https://foreignpolicy.com/2026/07/23/cuba-trump-venezuela-iran-ukraine/
@@ -132,20 +140,4 @@ Link: https://foreignpolicy.com/2026/07/21/india-modi-bjp-decolonization-anglosp
 [Foreign_Policy] The Western Myth of Russian Greatness
 Published: 2026-07-21T09:33:02+00:00
 Link: https://foreignpolicy.com/2026/07/21/russia-myths-great-power-putin-war-ukraine/
----
-[Foreign_Policy] Trump Needs to Defy History to End the Iran War
-Published: 2026-07-21T04:19:29+00:00
-Link: https://foreignpolicy.com/2026/07/21/trump-end-iran-war-history/
----
-[Foreign_Policy] Armenian Democracy Faces a Threat From Within
-Published: 2026-07-21T04:01:17+00:00
-Link: https://foreignpolicy.com/2026/07/21/armenian-election-democracy-opposition/
----
-[Foreign_Affairs] The Autocrat’s Worst Enemy
-Published: 2026-07-21T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/autocrats-worst-enemy
----
-[Foreign_Affairs] The Gulf’s China Problem
-Published: 2026-07-21T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/gulfs-china-problem
 ---
