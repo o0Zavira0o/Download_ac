@@ -1,6 +1,30 @@
-# Last Run: 2026-07-24 19:33 UTC
+# Last Run: 2026-07-24 21:08 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Andy Burnham and the New Manchesterism
+Published: 2026-07-24T20:33:39+00:00
+Link: https://foreignpolicy.com/2026/07/24/andy-burnham-britain-manchester-economics/
+---
+[Foreign_Policy] Ukraine’s Cardboard Maidan Shows That the People Still Matter
+Published: 2026-07-24T19:41:55+00:00
+Link: https://foreignpolicy.com/2026/07/24/protest-fedorov-zelensky-firing-ukraine/
+---
+[Foreign_Policy] Riding the Greenland Ferry
+Published: 2026-07-24T19:00:43+00:00
+Link: https://foreignpolicy.com/2026/07/24/riding-the-greenland-ferry/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-07-24T18:56:03+00:00
+Link: https://foreignpolicy.com/2026/07/24/news-quiz-nicaragua-ortega-zelensky-ukraine-houthi-blockade/
+---
+[Foreign_Policy] The Jonestown Massacre in Black and White
+Published: 2026-07-24T18:30:11+00:00
+Link: https://foreignpolicy.com/2026/07/24/jonestown-massacre-guyana-naipaul-racism/
+---
+[Foreign_Policy] Nepal’s Queer Cinema Is Becoming a National Triumph
+Published: 2026-07-24T17:58:25+00:00
+Link: https://foreignpolicy.com/2026/07/24/nepal-kinnar-lgbtq-cinema/
+---
 [Foreign_Policy] Trump’s Destruction of Iranian Life Is Strengthening the Regime
 Published: 2026-07-24T17:29:59+00:00
 Link: https://foreignpolicy.com/2026/07/24/trump-iran-water-environment-civilians/
@@ -128,8 +152,4 @@ Link: https://foreignpolicy.com/2026/07/21/india-cockroach-protests-wangchuk-hun
 [Foreign_Policy] The Oil Market Is Much More Vulnerable Than Trump Believes
 Published: 2026-07-21T21:45:54+00:00
 Link: https://foreignpolicy.com/2026/07/21/iran-war-oil-markets-crude-prices-hormuz-strait-reserves-houthi-blockade-united-states-saudi-arabia/
----
-[Foreign_Policy] Who Is Trump’s Next Tariff Target?
-Published: 2026-07-21T21:04:41+00:00
-Link: https://foreignpolicy.com/2026/07/21/trump-tariffs-canada-section-338-mexico-brazil-trade-usmca/
 ---
