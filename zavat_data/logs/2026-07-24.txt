@@ -1,4 +1,76 @@
 ================================================================================
+2026-07-24 05:30:31 (Asia/Tehran) | IrGens
+Title  : Aggregate and Compare Data with Elasticsearch Queries
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 54m | 131 MB
+Link   : http://zavat.pw/ebooks/elasticsearch-aggregate-compare-data.html
+
+================================================================================
+2026-07-24 05:30:31 (Asia/Tehran) | IrGens
+Title  : Stream Processing Frameworks: Cloud-native Tools
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 57m | 179 MB
+Link   : http://zavat.pw/ebooks/stream-processing-frameworks-cloud-native-tools.html
+
+================================================================================
+2026-07-24 05:30:31 (Asia/Tehran) | IrGens
+Title  : Microsoft Project Foundations
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 22m | 784 MB
+Link   : http://zavat.pw/ebooks/microsoft-project-foundations.html
+
+================================================================================
+2026-07-24 05:30:31 (Asia/Tehran) | IrGens
+Title  : Docker for Local AI App Development: Build Lightweight, Containerized AI Applications
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 2h 11m | 287 MB
+Link   : http://zavat.pw/ebooks/docker-for-local-ai-app-development-build-lightweight-containerized-ai-applications.html
+
+================================================================================
+2026-07-24 05:30:31 (Asia/Tehran) | IrGens
+Title  : AI Risk and Regulation Essentials for GRC Engineers
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 38m | 63.3 MB
+Link   : http://zavat.pw/ebooks/ai-risk-and-regulation-essentials-for-grc-engineers.html
+
+================================================================================
+2026-07-24 05:30:31 (Asia/Tehran) | IrGens
+Title  : Deep Learning: Getting Started [Released: 7/23/2026]
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 1h 39m | 227 MB
+Link   : http://zavat.pw/ebooks/deep-learning-getting-started-42471011.html
+
+================================================================================
+2026-07-24 05:30:31 (Asia/Tehran) | IrGens
+Title  : Tableau for Data Visualization [Released: 7/23/2026]
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 9h 15m | 1.29 GB
+Link   : http://zavat.pw/ebooks/tableau-for-data-visualization.html
+
+================================================================================
+2026-07-24 05:30:31 (Asia/Tehran) | IrGens
+Title  : Hermes Agent: From Install to Advanced Automation
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 6h 41m | 4.32 GB
+Link   : http://zavat.pw/ebooks/hermes-agent-from-install-to-advanced-automation.html
+
+================================================================================
+2026-07-24 05:30:31 (Asia/Tehran) | AvaxGenius
+Title  : Synthesis of Digital Automata / Problemy Sinteza Tsifrovykh Avtomatov / Проƃлемы Синтеза Цифровых Автоматов
+Details: English | PDF | 1995 | 181 Pages | ISBN : 1468490354 | 20.3 MB
+Link   : http://zavat.pw/ebooks/1468490354.html
+
+================================================================================
+2026-07-24 05:30:31 (Asia/Tehran) | AvaxGenius
+Title  : Introduction to Optimization Methods
+Details: English | PDF | 1974 | 214 Pages | ISBN : 0412110407 | 16.5 MB
+Link   : http://zavat.pw/ebooks/04125110407.html
+
+================================================================================
+2026-07-24 05:30:31 (Asia/Tehran) | AvaxGenius
+Title  : Geometry of Quantum Theory: Volume 1
+Details: English | PDF | 1968 | 204 Pages | ISBN : 146157708X | 15.4 MB
+Link   : http://zavat.pw/ebooks/14615557708X.html
+
+================================================================================
+2026-07-24 05:30:31 (Asia/Tehran) | AvaxGenius
+Title  : Econometrics
+Details: English | PDF | 1990 | 296 Pages | ISBN : 0333495438 | 27.7 MB
+Link   : http://zavat.pw/ebooks/03335495438.html
+
+================================================================================
 2026-07-24 02:19:17 (Asia/Tehran) | hill0
 Title  : Mastering Tableau 2026 (5th Edition)
 Details: English | 2026 | ISBN: 9781806100712 | 738 Pages | PDF (True) | 91 MB
