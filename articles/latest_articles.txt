@@ -1,4 +1,4 @@
-# Last Run: 2026-07-24 17:47 UTC
+# Last Run: 2026-07-24 19:33 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s Destruction of Iranian Life Is Strengthening the Regime
@@ -132,12 +132,4 @@ Link: https://foreignpolicy.com/2026/07/21/iran-war-oil-markets-crude-prices-hor
 [Foreign_Policy] Who Is Trump’s Next Tariff Target?
 Published: 2026-07-21T21:04:41+00:00
 Link: https://foreignpolicy.com/2026/07/21/trump-tariffs-canada-section-338-mexico-brazil-trade-usmca/
----
-[Foreign_Policy] Israel’s Weapons Makers Have a Marketing Problem
-Published: 2026-07-21T19:10:22+00:00
-Link: https://foreignpolicy.com/2026/07/21/israel-weapons-defense-industry-drones-missiles-eurosatory-arms-show/
----
-[Foreign_Policy] The Iran Expert Trump Fired
-Published: 2026-07-21T18:04:12+00:00
-Link: https://foreignpolicy.com/2026/07/21/nate-swanson-iran-war-mou-memorandum-understanding/
 ---
