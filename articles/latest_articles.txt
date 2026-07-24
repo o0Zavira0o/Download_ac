@@ -1,6 +1,18 @@
-# Last Run: 2026-07-24 06:31 UTC
+# Last Run: 2026-07-24 15:31 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How a U.S. Ground Operation in Iran Could Unfold
+Published: 2026-07-24T15:07:42+00:00
+Link: https://foreignpolicy.com/2026/07/24/us-ground-operation-iran-invasion-kharg-war-trump/
+---
+[Foreign_Policy] Trump’s Men in the Middle East
+Published: 2026-07-24T14:14:12+00:00
+Link: https://foreignpolicy.com/2026/07/24/trump-iraq-syria-lebanon-iran-hezbollah-sharaa-aoun-zaidi/
+---
+[Foreign_Policy] The End of Elections in Nicaragua
+Published: 2026-07-24T12:00:02+00:00
+Link: https://foreignpolicy.com/2026/07/24/nicaragua-elections-democracy-ortega-us-response/
+---
 [Foreign_Affairs] Iran and the New Rules of Global Power
 Published: 2026-07-24T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/iran-and-new-rules-global-power
@@ -132,12 +144,4 @@ Link: https://foreignpolicy.com/2026/07/21/aspen-security-forum-geopolitics-fore
 [Foreign_Policy] There’s a Fix for Israel’s Image Crisis
 Published: 2026-07-21T16:12:24+00:00
 Link: https://foreignpolicy.com/2026/07/21/israel-gaza-palestine-democrats-polling/
----
-[Foreign_Policy] Modi’s Great Anglo Paradox
-Published: 2026-07-21T10:49:08+00:00
-Link: https://foreignpolicy.com/2026/07/21/india-modi-bjp-decolonization-anglosphere-britain-united-states-hindu-nationalism/
----
-[Foreign_Policy] The Western Myth of Russian Greatness
-Published: 2026-07-21T09:33:02+00:00
-Link: https://foreignpolicy.com/2026/07/21/russia-myths-great-power-putin-war-ukraine/
 ---
