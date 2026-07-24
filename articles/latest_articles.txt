@@ -1,6 +1,10 @@
-# Last Run: 2026-07-24 15:31 UTC
+# Last Run: 2026-07-24 17:47 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump’s Destruction of Iranian Life Is Strengthening the Regime
+Published: 2026-07-24T17:29:59+00:00
+Link: https://foreignpolicy.com/2026/07/24/trump-iran-water-environment-civilians/
+---
 [Foreign_Policy] How a U.S. Ground Operation in Iran Could Unfold
 Published: 2026-07-24T15:07:42+00:00
 Link: https://foreignpolicy.com/2026/07/24/us-ground-operation-iran-invasion-kharg-war-trump/
@@ -136,12 +140,4 @@ Link: https://foreignpolicy.com/2026/07/21/israel-weapons-defense-industry-drone
 [Foreign_Policy] The Iran Expert Trump Fired
 Published: 2026-07-21T18:04:12+00:00
 Link: https://foreignpolicy.com/2026/07/21/nate-swanson-iran-war-mou-memorandum-understanding/
----
-[Foreign_Policy] Dinosaurs Roam the Aspen Security Forum
-Published: 2026-07-21T17:10:47+00:00
-Link: https://foreignpolicy.com/2026/07/21/aspen-security-forum-geopolitics-foreign-policy-outdated-bubble-time-warp/
----
-[Foreign_Policy] There’s a Fix for Israel’s Image Crisis
-Published: 2026-07-21T16:12:24+00:00
-Link: https://foreignpolicy.com/2026/07/21/israel-gaza-palestine-democrats-polling/
 ---
