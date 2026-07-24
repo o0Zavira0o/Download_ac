@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
+_آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-24 03:30:24 (UTC)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [SolidWorks Tutorial-Hexagon Torus Ring Modeling](https://www.youtube.com/watch?v=ryQYVGffrd0)  
+  ![](https://i.ytimg.com/vi/ryQYVGffrd0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-21 16:16:01 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
   **مدت:** حدود 46.4 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Pulley expansion (Animation) in Solidworks](https://www.youtube.com/watch?v=1s-Zkqd9bec)  
   ![](https://i.ytimg.com/vi/1s-Zkqd9bec/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-04 22:51:51 (UTC)  
-  **مدت:** حدود 30.1 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Roller Bearing in Solidworks](https://www.youtube.com/watch?v=CQ2yB--3Auc)  
-  ![](https://i.ytimg.com/vi/CQ2yB--3Auc/hqdefault.jpg)

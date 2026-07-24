@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
+_آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-23 11:36:46 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [#shorts #easygerman #köln](https://www.youtube.com/watch?v=I1OTu6eCn4k)  
+  ![](https://i.ytimg.com/vi/I1OTu6eCn4k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-22 15:48:15 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
   **مدت:** حدود 10.2 دقیقه  
   **عنوان:** [What happens after death? | Easy German 160](https://www.youtube.com/watch?v=F53EAHgP1pA)  
   ![](https://i.ytimg.com/vi/F53EAHgP1pA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-09-04 16:59:00 (UTC)  
-  **مدت:** حدود 7.2 دقیقه  
-  **عنوان:** [Dresden | Easy German 159](https://www.youtube.com/watch?v=cFUL3oPOHyk)  
-  ![](https://i.ytimg.com/vi/cFUL3oPOHyk/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
+_آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-24 02:52:32 (UTC)  
+  **مدت:** حدود 57.1 دقیقه  
+  **عنوان:** [Solidworks Eccentric Sheave tutorial | Parts and Assembly Design](https://www.youtube.com/watch?v=MRjdRpbwzVE)  
+  ![](https://i.ytimg.com/vi/MRjdRpbwzVE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-23 02:19:15 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
   **مدت:** حدود 2.1 دقیقه  
   **عنوان:** [Offset surface in solidworks #shorts #ytshorts #cad #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=a6F5bstQWtQ)  
   ![](https://i.ytimg.com/vi/a6F5bstQWtQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-24 16:29:01 (UTC)  
-  **مدت:** حدود 2.4 دقیقه  
-  **عنوان:** [Indent feature in solidworks #shorts #ytshorts #solidworks #malviyacadsolution #cad](https://www.youtube.com/watch?v=75rVXqAPJ18)  
-  ![](https://i.ytimg.com/vi/75rVXqAPJ18/hqdefault.jpg)

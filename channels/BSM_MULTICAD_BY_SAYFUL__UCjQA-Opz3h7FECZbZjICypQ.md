@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
+_آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-23 16:34:27 (UTC)  
+  **مدت:** حدود 32.6 دقیقه  
+  **عنوان:** [SketchUp Exterior Rendering with V Ray Complete](https://www.youtube.com/watch?v=ft3I0MoEC1w)  
+  ![](https://i.ytimg.com/vi/ft3I0MoEC1w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-19 17:49:24 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [BSM CAD FULL PACKAGE COURSEAUTOCAD,ESTIMATE,SKETCHUP V RAY19C #autocad #autocadtutorial](https://www.youtube.com/watch?v=IQF59QWHYC0)  
   ![](https://i.ytimg.com/vi/IQF59QWHYC0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-09 14:54:09 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [BSM CAD FULL PACKAGE COURSEAUTOCAD,ESTIMATE,SKETCHUP V RAY19B #autocad #autocadtutorial](https://www.youtube.com/watch?v=ynkW_1lGr3E)  
-  ![](https://i.ytimg.com/vi/ynkW_1lGr3E/hqdefault.jpg)

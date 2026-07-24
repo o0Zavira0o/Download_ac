@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
+_آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-07-23 23:05:11 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Aços para eixos #strenx #hardox #engenhariamecanica #solidworks](https://www.youtube.com/watch?v=2XgC342vwYI)  
+  ![](https://i.ytimg.com/vi/2XgC342vwYI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-23 11:45:33 (UTC)  
+  **مدت:** حدود 178.9 دقیقه  
+  **عنوان:** [AULA 3 - DESCOMPLICA SOLIDWORKS SIMULATION](https://www.youtube.com/watch?v=HrhFJQwLQ_w)  
+  ![](https://i.ytimg.com/vi/HrhFJQwLQ_w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-22 11:45:38 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-23T11:16:19Z_
   **مدت:** حدود 30.1 دقیقه  
   **عنوان:** [AULA 24 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=qHsz8HNYUXc)  
   ![](https://i.ytimg.com/vi/qHsz8HNYUXc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-01-14 23:16:28 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=ypGa--OzIMY)  
-  ![](https://i.ytimg.com/vi/ypGa--OzIMY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-01-10 22:30:03 (UTC)  
-  **مدت:** حدود 32.4 دقیقه  
-  **عنوان:** [AULA 23 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=LZ3SqDb1FXw)  
-  ![](https://i.ytimg.com/vi/LZ3SqDb1FXw/hqdefault.jpg)
