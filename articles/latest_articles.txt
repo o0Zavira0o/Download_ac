@@ -1,6 +1,18 @@
-# Last Run: 2026-07-23 23:02 UTC
+# Last Run: 2026-07-24 02:47 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Is Cuba Trump’s Next Target?
+Published: 2026-07-23T22:06:48+00:00
+Link: https://foreignpolicy.com/2026/07/23/cuba-trump-venezuela-iran-ukraine/
+---
+[Foreign_Policy] How Iran Gained the Upper Hand
+Published: 2026-07-23T22:02:22+00:00
+Link: https://foreignpolicy.com/2026/07/23/iran-us-israel-war-hormuz-trump-options/
+---
+[Foreign_Policy] Is the Red Sea the New Hormuz Crisis?
+Published: 2026-07-23T21:30:04+00:00
+Link: https://foreignpolicy.com/2026/07/23/houthi-rebels-saudi-arabia-shipping-red-sea-iran-war/
+---
 [Foreign_Policy] China Is AI-Maxxing
 Published: 2026-07-23T20:12:47+00:00
 Link: https://foreignpolicy.com/2026/07/23/china-ai-race-moonshot-kimi-k3-alibaba-qwen-deepseek-openai-anthropic/
