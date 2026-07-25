@@ -1,4 +1,4 @@
-# Last Run: 2026-07-25 13:34 UTC
+# Last Run: 2026-07-25 15:07 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Swaps Out Tariffs for Even More Tariffs
@@ -124,8 +124,4 @@ Link: https://foreignpolicy.com/2026/07/22/india-cockroach-protest-movement-yout
 [Foreign_Policy] Trump’s Epic Fury Can’t Resolve His Iran Quagmire
 Published: 2026-07-22T17:25:55+00:00
 Link: https://foreignpolicy.com/2026/07/22/trump-epic-fury-iran-war-hormuz-oil-energy-price/
----
-[Foreign_Policy] Yemen’s Unsteady Stalemate
-Published: 2026-07-22T14:54:40+00:00
-Link: https://foreignpolicy.com/2026/07/22/yemen-houthis-sanaa-saudi-arabia-red-sea-hormuz-iran/
 ---
