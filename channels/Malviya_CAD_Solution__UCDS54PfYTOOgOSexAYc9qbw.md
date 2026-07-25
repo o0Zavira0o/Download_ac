@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
+_آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-24 17:25:06 (UTC)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [Solidworks Surface Modelling | Solidworks surface exercise tutorial](https://www.youtube.com/watch?v=-0h7_HhHIFs)  
+  ![](https://i.ytimg.com/vi/-0h7_HhHIFs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-24 02:52:32 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
   **مدت:** حدود 0.8 دقیقه  
   **عنوان:** [Solidworks assembly tutorial #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=dvLobeV4YnM)  
   ![](https://i.ytimg.com/vi/dvLobeV4YnM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-27 03:01:47 (UTC)  
-  **مدت:** حدود 2.1 دقیقه  
-  **عنوان:** [Offset surface in solidworks #shorts #ytshorts #cad #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=a6F5bstQWtQ)  
-  ![](https://i.ytimg.com/vi/a6F5bstQWtQ/hqdefault.jpg)

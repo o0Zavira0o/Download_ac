@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
+_آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-07-24 13:00:13 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [ASMR Stamp ART Journal 스탬프 도장다꾸 コラージュ #asmr #diy](https://www.youtube.com/watch?v=3mj1fCC-e30)  
+  ![](https://i.ytimg.com/vi/3mj1fCC-e30/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-23 14:20:06 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
   **مدت:** حدود 17.2 دقیقه  
   **عنوان:** [ASMR Aesthetic Journal Supplies Haul 💝LOPO💖 Variety Journaling Item 다꾸 デコ手帳](https://www.youtube.com/watch?v=5lSlUIxjCcM)  
   ![](https://i.ytimg.com/vi/5lSlUIxjCcM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-09 08:51:00 (UTC)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Scrapbooking 2/2🌌 #journal #aesthetic #scrapbooking #asmr #craft](https://www.youtube.com/watch?v=FpruT7VzgnM)  
-  ![](https://i.ytimg.com/vi/FpruT7VzgnM/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
+_آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-24 11:25:21 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Wecker und LED #shorts #notesofberlin #easygerman](https://www.youtube.com/watch?v=f_ggObaoQD8)  
+  ![](https://i.ytimg.com/vi/f_ggObaoQD8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-23 11:36:46 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
   **مدت:** حدود 11.3 دقیقه  
   **عنوان:** [Heidelberg | Easy German 161](https://www.youtube.com/watch?v=0Z_0Gof-_v0)  
   ![](https://i.ytimg.com/vi/0Z_0Gof-_v0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-09-11 17:09:51 (UTC)  
-  **مدت:** حدود 10.2 دقیقه  
-  **عنوان:** [What happens after death? | Easy German 160](https://www.youtube.com/watch?v=F53EAHgP1pA)  
-  ![](https://i.ytimg.com/vi/F53EAHgP1pA/hqdefault.jpg)

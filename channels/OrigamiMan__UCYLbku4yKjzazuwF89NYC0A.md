@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
+_آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-07-25 10:00:12 (UTC)  
+  **مدت:** حدود 30.6 دقیقه  
+  **عنوان:** [36,Origami Cerberus | Silent Paper Folding | 2 Sheets 折り紙でケルベロスを折る｜2枚の紙で作る三つ首の番犬【無言・ASMR】](https://www.youtube.com/watch?v=oJHTEAn6nJI)  
+  ![](https://i.ytimg.com/vi/oJHTEAn6nJI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-18 10:00:15 (UTC)  

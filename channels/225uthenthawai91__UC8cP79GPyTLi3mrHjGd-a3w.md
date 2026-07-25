@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-07-24T11:06:57Z_
+_آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-07-24 15:50:24 (UTC)  
+  **مدت:** حدود 17.3 دقیقه  
+  **عنوان:** [Ep.25 HMI Touchscreen Design](https://www.youtube.com/watch?v=jwHnrV0Mi7w)  
+  ![](https://i.ytimg.com/vi/jwHnrV0Mi7w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-21 17:42:21 (UTC)  
