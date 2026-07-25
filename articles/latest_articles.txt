@@ -1,4 +1,4 @@
-# Last Run: 2026-07-25 02:47 UTC
+# Last Run: 2026-07-25 06:23 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Swaps Out Tariffs for Even More Tariffs
@@ -132,16 +132,4 @@ Link: https://foreignpolicy.com/2026/07/22/yemen-houthis-sanaa-saudi-arabia-red-
 [New_Yorker_Magazine] Steve Lacy’s Modern Love Songs
 Published: 2026-07-22T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/08/03/oh-yeah-steve-lacy-music-review
----
-[Foreign_Policy] China Pitches Its AI Leadership to the World
-Published: 2026-07-22T05:00:59+00:00
-Link: https://foreignpolicy.com/2026/07/22/shanghai-ai-artificial-intelligence-conference-southeast-asia/
----
-[Foreign_Affairs] When China Gets Its Own Mythos
-Published: 2026-07-22T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/when-china-gets-its-own-mythos
----
-[Foreign_Affairs] The Iran Cease-Fire Was Doomed to Fail
-Published: 2026-07-22T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/iran-cease-fire-was-doomed-fail
 ---
