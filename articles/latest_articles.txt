@@ -1,4 +1,4 @@
-# Last Run: 2026-07-25 09:53 UTC
+# Last Run: 2026-07-25 11:18 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Swaps Out Tariffs for Even More Tariffs
@@ -128,8 +128,4 @@ Link: https://foreignpolicy.com/2026/07/22/trump-epic-fury-iran-war-hormuz-oil-e
 [Foreign_Policy] Yemen’s Unsteady Stalemate
 Published: 2026-07-22T14:54:40+00:00
 Link: https://foreignpolicy.com/2026/07/22/yemen-houthis-sanaa-saudi-arabia-red-sea-hormuz-iran/
----
-[New_Yorker_Magazine] Steve Lacy’s Modern Love Songs
-Published: 2026-07-22T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/03/oh-yeah-steve-lacy-music-review
 ---
