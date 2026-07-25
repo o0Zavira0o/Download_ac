@@ -1,4 +1,4 @@
-# Last Run: 2026-07-25 19:11 UTC
+# Last Run: 2026-07-25 20:59 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Swaps Out Tariffs for Even More Tariffs
@@ -112,12 +112,4 @@ Link: https://www.foreignaffairs.com/china/chinas-moment-weakness
 [Foreign_Policy] Trump Approves Nuclear Deal With Saudi Arabia
 Published: 2026-07-22T21:25:30+00:00
 Link: https://foreignpolicy.com/2026/07/22/trump-nuclear-deal-saudi-arabia-uranium-enrichment-gold-standard/
----
-[Foreign_Policy] The Race to Contain the Fastest-Ever Ebola Outbreak
-Published: 2026-07-22T19:51:13+00:00
-Link: https://foreignpolicy.com/2026/07/22/congo-ebola-outbreak-global-health-response-epidemic-who/
----
-[Foreign_Policy] India’s Cockroach Movement Delivers a Blow to the BJP
-Published: 2026-07-22T19:30:55+00:00
-Link: https://foreignpolicy.com/2026/07/22/india-cockroach-protest-movement-youth-modi-bjp-education/
 ---
