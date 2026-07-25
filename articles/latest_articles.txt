@@ -1,4 +1,4 @@
-# Last Run: 2026-07-25 17:05 UTC
+# Last Run: 2026-07-25 19:11 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Swaps Out Tariffs for Even More Tariffs
@@ -120,8 +120,4 @@ Link: https://foreignpolicy.com/2026/07/22/congo-ebola-outbreak-global-health-re
 [Foreign_Policy] India’s Cockroach Movement Delivers a Blow to the BJP
 Published: 2026-07-22T19:30:55+00:00
 Link: https://foreignpolicy.com/2026/07/22/india-cockroach-protest-movement-youth-modi-bjp-education/
----
-[Foreign_Policy] Trump’s Epic Fury Can’t Resolve His Iran Quagmire
-Published: 2026-07-22T17:25:55+00:00
-Link: https://foreignpolicy.com/2026/07/22/trump-epic-fury-iran-war-hormuz-oil-energy-price/
 ---
