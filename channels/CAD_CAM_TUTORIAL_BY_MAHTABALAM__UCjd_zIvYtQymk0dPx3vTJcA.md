@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
+_آخرین به‌روزرسانی: 2026-07-26T10:48:18Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-25 15:44:02 (UTC)  
+  **مدت:** حدود 14.7 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Exercise-Bracket](https://www.youtube.com/watch?v=pkWDaTmvIyk)  
+  ![](https://i.ytimg.com/vi/pkWDaTmvIyk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-24 03:30:24 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
   **مدت:** حدود 8.6 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch ice cube tray in Solidworks](https://www.youtube.com/watch?v=Tk1smhoZqBY)  
   ![](https://i.ytimg.com/vi/Tk1smhoZqBY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-06 07:56:29 (UTC)  
-  **مدت:** حدود 46.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Pulley expansion (Animation) in Solidworks](https://www.youtube.com/watch?v=1s-Zkqd9bec)  
-  ![](https://i.ytimg.com/vi/1s-Zkqd9bec/hqdefault.jpg)

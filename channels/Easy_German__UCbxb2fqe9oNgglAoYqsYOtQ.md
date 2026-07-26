@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
+_آخرین به‌روزرسانی: 2026-07-26T10:48:18Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-25 16:11:51 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [Selfies mit Janusz #selfie #easygerman #deutschonline](https://www.youtube.com/watch?v=zZqKmBnDn5s)  
+  ![](https://i.ytimg.com/vi/zZqKmBnDn5s/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-24 11:25:21 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
   **مدت:** حدود 7.9 دقیقه  
   **عنوان:** [If there was a war in your country (with Abdul and Allaa from German LifeStyle) | Easy German 162](https://www.youtube.com/watch?v=cc93hV2j7yY)  
   ![](https://i.ytimg.com/vi/cc93hV2j7yY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-09-18 17:59:36 (UTC)  
-  **مدت:** حدود 11.3 دقیقه  
-  **عنوان:** [Heidelberg | Easy German 161](https://www.youtube.com/watch?v=0Z_0Gof-_v0)  
-  ![](https://i.ytimg.com/vi/0Z_0Gof-_v0/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
+_آخرین به‌روزرسانی: 2026-07-26T10:48:18Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-26 05:50:05 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Solidworks explode animation 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=6-Vz-iethbQ)  
+  ![](https://i.ytimg.com/vi/6-Vz-iethbQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-24 17:25:06 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
   **مدت:** حدود 25.8 دقیقه  
   **عنوان:** [Design of Valve Plate in solidworks | Part of rock hammer drill | Solidworks Tutorial](https://www.youtube.com/watch?v=32XwzHwB7oQ)  
   ![](https://i.ytimg.com/vi/32XwzHwB7oQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-31 04:27:34 (UTC)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Solidworks assembly tutorial #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=dvLobeV4YnM)  
-  ![](https://i.ytimg.com/vi/dvLobeV4YnM/hqdefault.jpg)

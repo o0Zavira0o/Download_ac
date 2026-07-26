@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
+_آخرین به‌روزرسانی: 2026-07-26T10:48:18Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-07-25 23:09:42 (UTC)  
+  **مدت:** حدود 1.6 دقیقه  
+  **عنوان:** [DISPOSITIVO DE DOBRA PARA PRENSA HIDRÁULICA MANUAL #industria #usinagem #soldagem #mecanica](https://www.youtube.com/watch?v=BRjuKIVVmuU)  
+  ![](https://i.ytimg.com/vi/BRjuKIVVmuU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-24 11:45:15 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-25T10:39:29Z_
   **مدت:** حدود 28.2 دقیقه  
   **عنوان:** [AULA 26 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=F91aX8uwo04)  
   ![](https://i.ytimg.com/vi/F91aX8uwo04/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-01-27 22:30:00 (UTC)  
-  **مدت:** حدود 30.6 دقیقه  
-  **عنوان:** [AULA 25 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=2rPFo2nJnQI)  
-  ![](https://i.ytimg.com/vi/2rPFo2nJnQI/hqdefault.jpg)
