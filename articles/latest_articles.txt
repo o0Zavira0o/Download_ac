@@ -1,6 +1,14 @@
-# Last Run: 2026-07-26 10:08 UTC
+# Last Run: 2026-07-26 13:28 UTC
 # Articles published in last 72 hours
 
+[New_Yorker_Magazine] “Earthly Delights,” by Sheila Heti
+Published: 2026-07-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/earthly-delights-fiction-sheila-heti
+---
+[New_Yorker_Magazine] Which Way Should the Democratic Party Go Now?
+Published: 2026-07-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/which-way-should-the-democratic-party-go-now
+---
 [Foreign_Policy] Trump Swaps Out Tariffs for Even More Tariffs
 Published: 2026-07-24T21:32:19+00:00
 Link: https://foreignpolicy.com/2026/07/24/us-tariffs-forced-labor-trump-section-301-trade-protectionism/
@@ -45,6 +53,10 @@ Link: https://foreignpolicy.com/2026/07/24/trump-iraq-syria-lebanon-iran-hezboll
 Published: 2026-07-24T12:00:02+00:00
 Link: https://foreignpolicy.com/2026/07/24/nicaragua-elections-democracy-ortega-us-response/
 ---
+[New_Yorker_Magazine] The Kinky Comedy of “I Want Your Sex”
+Published: 2026-07-24T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/i-want-your-sex-movie-review
+---
 [Foreign_Affairs] Iran and the New Rules of Global Power
 Published: 2026-07-24T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/iran-and-new-rules-global-power
@@ -88,8 +100,4 @@ Link: https://foreignpolicy.com/2026/07/23/trump-us-saudi-nuclear-deal-weapons-i
 [Foreign_Policy] Beijing Is Celebrating a Race It Never Ran
 Published: 2026-07-23T13:31:42+00:00
 Link: https://foreignpolicy.com/2026/07/23/beijing-china-united-states-pew-public-opinion-soft-power/
----
-[Foreign_Policy] Britain Is Losing the Falklands
-Published: 2026-07-23T13:18:52+00:00
-Link: https://foreignpolicy.com/2026/07/23/falklands-britain-argentina-islands-world-cup-malvinas-territory-sovereignty-colonialism/
 ---
