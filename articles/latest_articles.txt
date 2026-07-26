@@ -1,4 +1,4 @@
-# Last Run: 2026-07-26 13:28 UTC
+# Last Run: 2026-07-26 15:11 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] “Earthly Delights,” by Sheila Heti
@@ -96,8 +96,4 @@ Link: https://foreignpolicy.com/2026/07/23/china-corruption-ma-xingrui/
 [Foreign_Policy] Trump Is Triggering a Middle East Nuclear Arms Race
 Published: 2026-07-23T16:17:45+00:00
 Link: https://foreignpolicy.com/2026/07/23/trump-us-saudi-nuclear-deal-weapons-iran-israel-arms-race/
----
-[Foreign_Policy] Beijing Is Celebrating a Race It Never Ran
-Published: 2026-07-23T13:31:42+00:00
-Link: https://foreignpolicy.com/2026/07/23/beijing-china-united-states-pew-public-opinion-soft-power/
 ---
