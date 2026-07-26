@@ -1,4 +1,4 @@
-# Last Run: 2026-07-26 02:55 UTC
+# Last Run: 2026-07-26 06:42 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Swaps Out Tariffs for Even More Tariffs
@@ -100,12 +100,4 @@ Link: https://www.newyorker.com/magazine/2026/08/03/the-frenchmen-emily-eakin-bo
 [New_Yorker_Magazine] Jane Wickline Is Down to Clown in “Dukes”
 Published: 2026-07-23T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/08/03/jane-wickline-theatre-review
----
-[Foreign_Affairs] The Small Suffer What They Must?
-Published: 2026-07-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/small-suffer-what-they-must
----
-[Foreign_Affairs] China’s Moment of Weakness
-Published: 2026-07-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/chinas-moment-weakness
 ---
