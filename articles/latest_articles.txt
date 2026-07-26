@@ -1,4 +1,4 @@
-# Last Run: 2026-07-26 21:03 UTC
+# Last Run: 2026-07-26 23:04 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] “Earthly Delights,” by Sheila Heti
@@ -64,16 +64,4 @@ Link: https://www.foreignaffairs.com/united-states/iran-and-new-rules-global-pow
 [Foreign_Affairs] America Still Has the Upper Hand Over China
 Published: 2026-07-24T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/america-still-has-upper-hand-over-china
----
-[Foreign_Policy] Is Cuba Trump’s Next Target?
-Published: 2026-07-23T22:06:48+00:00
-Link: https://foreignpolicy.com/2026/07/23/cuba-trump-venezuela-iran-ukraine/
----
-[Foreign_Policy] How Iran Gained the Upper Hand
-Published: 2026-07-23T22:02:22+00:00
-Link: https://foreignpolicy.com/2026/07/23/iran-us-israel-war-hormuz-trump-options/
----
-[Foreign_Policy] Is the Red Sea the New Hormuz Crisis?
-Published: 2026-07-23T21:30:04+00:00
-Link: https://foreignpolicy.com/2026/07/23/houthi-rebels-saudi-arabia-shipping-red-sea-iran-war/
 ---
