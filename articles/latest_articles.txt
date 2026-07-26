@@ -1,4 +1,4 @@
-# Last Run: 2026-07-26 17:08 UTC
+# Last Run: 2026-07-26 19:16 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] “Earthly Delights,” by Sheila Heti
@@ -84,8 +84,4 @@ Link: https://foreignpolicy.com/2026/07/23/china-ai-race-moonshot-kimi-k3-alibab
 [Foreign_Policy] Odysseus at the End of Civilization
 Published: 2026-07-23T20:05:45+00:00
 Link: https://foreignpolicy.com/2026/07/23/odyssey-civilization-collapse-history/
----
-[Foreign_Policy] There’s Only One Way Out of Trump’s Reckless War
-Published: 2026-07-23T17:09:50+00:00
-Link: https://foreignpolicy.com/2026/07/23/iran-united-states-trump-hormuz-war-nuclear/
 ---
