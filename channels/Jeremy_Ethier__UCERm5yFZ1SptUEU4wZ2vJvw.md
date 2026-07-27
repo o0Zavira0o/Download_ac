@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-07-26T10:48:18Z_
+_آخرین به‌روزرسانی: 2026-07-27T12:32:46Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/jeremyethier  
+
+
+- **تاریخ انتشار:** 2026-07-26 13:30:32 (UTC)  
+  **مدت:** حدود 13.2 دقیقه  
+  **عنوان:** [This Shouldn't Work, But It Blows Up Your Muscles (In 30 Days)](https://www.youtube.com/watch?v=4OP8FI1TXK8)  
+  ![](https://i.ytimg.com/vi/4OP8FI1TXK8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-12 13:30:35 (UTC)  
@@ -334,7 +340,7 @@ _آخرین به‌روزرسانی: 2026-07-26T10:48:18Z_
 
 - **تاریخ انتشار:** 2024-11-24 13:30:08 (UTC)  
   **مدت:** حدود 9.4 دقیقه  
-  **عنوان:** [Best vs Worst Workout Splits RANKED (Using Science)](https://www.youtube.com/watch?v=GRZhpHKZqOA)  
+  **عنوان:** [I Tested EVERY Workout Split (Using Science)](https://www.youtube.com/watch?v=GRZhpHKZqOA)  
   ![](https://i.ytimg.com/vi/GRZhpHKZqOA/hqdefault.jpg)
 
 

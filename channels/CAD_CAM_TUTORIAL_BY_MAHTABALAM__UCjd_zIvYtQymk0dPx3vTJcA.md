@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-26T10:48:18Z_
+_آخرین به‌روزرسانی: 2026-07-27T12:32:46Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-27 12:14:20 (UTC)  
+  **مدت:** حدود 9.6 دقیقه  
+  **عنوان:** [Infinity Cube Modeling in SolidWorks](https://www.youtube.com/watch?v=auX4QArvwSE)  
+  ![](https://i.ytimg.com/vi/auX4QArvwSE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-26 13:56:46 (UTC)  
+  **مدت:** حدود 5.1 دقیقه  
+  **عنوان:** [Table Driven Pattern in SolidWorks](https://www.youtube.com/watch?v=ARil4GSrdpQ)  
+  ![](https://i.ytimg.com/vi/ARil4GSrdpQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-25 15:44:02 (UTC)  
@@ -8992,15 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-26T10:48:18Z_
   **مدت:** حدود 6.8 دقیقه  
   **عنوان:** [How to make custom forming tool (Louvers) in Solidworks](https://www.youtube.com/watch?v=7iHHLyFAvKI)  
   ![](https://i.ytimg.com/vi/7iHHLyFAvKI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-08 00:00:03 (UTC)  
-  **مدت:** حدود 41.6 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch wash basin in Solidworks](https://www.youtube.com/watch?v=hA46j9HstUY)  
-  ![](https://i.ytimg.com/vi/hA46j9HstUY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-07 12:20:17 (UTC)  
-  **مدت:** حدود 8.6 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch ice cube tray in Solidworks](https://www.youtube.com/watch?v=Tk1smhoZqBY)  
-  ![](https://i.ytimg.com/vi/Tk1smhoZqBY/hqdefault.jpg)

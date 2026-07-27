@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-26T10:48:18Z_
+_آخرین به‌روزرسانی: 2026-07-27T12:32:46Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-26 17:00:13 (UTC)  
+  **مدت:** حدود 14.4 دقیقه  
+  **عنوان:** [Everyday German Conversations About Hobbies (B1 Level)](https://www.youtube.com/watch?v=EhOONXEZRTA)  
+  ![](https://i.ytimg.com/vi/EhOONXEZRTA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-25 16:11:51 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-26T10:48:18Z_
   **مدت:** حدود 9.1 دقیقه  
   **عنوان:** [True or False: Fun facts about Germany with Dana from Wanted Adventure | Easy German 163](https://www.youtube.com/watch?v=W033CQxL1Q0)  
   ![](https://i.ytimg.com/vi/W033CQxL1Q0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-09-25 17:05:59 (UTC)  
-  **مدت:** حدود 7.9 دقیقه  
-  **عنوان:** [If there was a war in your country (with Abdul and Allaa from German LifeStyle) | Easy German 162](https://www.youtube.com/watch?v=cc93hV2j7yY)  
-  ![](https://i.ytimg.com/vi/cc93hV2j7yY/hqdefault.jpg)
