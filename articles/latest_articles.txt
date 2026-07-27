@@ -1,4 +1,4 @@
-# Last Run: 2026-07-27 21:16 UTC
+# Last Run: 2026-07-27 23:06 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s Saudi Nuclear Deal Is Diplomatic Malpractice
@@ -44,8 +44,4 @@ Link: https://www.newyorker.com/magazine/2026/08/03/earthly-delights-fiction-she
 [New_Yorker_Magazine] Which Way Should the Democratic Party Go Now?
 Published: 2026-07-26T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/08/03/which-way-should-the-democratic-party-go-now
----
-[Foreign_Policy] Trump Swaps Out Tariffs for Even More Tariffs
-Published: 2026-07-24T21:32:19+00:00
-Link: https://foreignpolicy.com/2026/07/24/us-tariffs-forced-labor-trump-section-301-trade-protectionism/
 ---
