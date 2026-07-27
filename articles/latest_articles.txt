@@ -1,6 +1,14 @@
-# Last Run: 2026-07-27 14:41 UTC
+# Last Run: 2026-07-27 17:48 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Europe Must Learn From Ukraine’s Example, Top EU Defense Official Says
+Published: 2026-07-27T16:17:27+00:00
+Link: https://foreignpolicy.com/2026/07/27/europe-eu-ukraine-defense-kubilius-interview-nato/
+---
+[Foreign_Policy] The Fight for International Justice Continues
+Published: 2026-07-27T14:14:43+00:00
+Link: https://foreignpolicy.com/2026/07/27/icc-international-criminal-court-war-crimes-justice-duterte/
+---
 [Foreign_Policy] Iran’s Arsenal Starts With Its Islands
 Published: 2026-07-27T13:56:44+00:00
 Link: https://foreignpolicy.com/2026/07/27/iran-war-islands-qeshm-kharg-greater-tunb-strait-hormuz-irgc-oil-trump-us/
@@ -60,12 +68,4 @@ Link: https://foreignpolicy.com/2026/07/24/jonestown-massacre-guyana-naipaul-rac
 [Foreign_Policy] Nepal’s Queer Cinema Is Becoming a National Triumph
 Published: 2026-07-24T17:58:25+00:00
 Link: https://foreignpolicy.com/2026/07/24/nepal-kinnar-lgbtq-cinema/
----
-[Foreign_Policy] Trump’s Destruction of Iranian Life Is Strengthening the Regime
-Published: 2026-07-24T17:29:59+00:00
-Link: https://foreignpolicy.com/2026/07/24/trump-iran-water-environment-civilians/
----
-[Foreign_Policy] How a U.S. Ground Operation in Iran Could Unfold
-Published: 2026-07-24T15:07:42+00:00
-Link: https://foreignpolicy.com/2026/07/24/us-ground-operation-iran-invasion-kharg-war-trump/
 ---
