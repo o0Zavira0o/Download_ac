@@ -1,4 +1,4 @@
-# Last Run: 2026-07-27 07:38 UTC
+# Last Run: 2026-07-27 11:26 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Bill Clinton Ended Welfare and Paved the Way For MAGA
@@ -68,8 +68,4 @@ Link: https://foreignpolicy.com/2026/07/24/trump-iraq-syria-lebanon-iran-hezboll
 [Foreign_Policy] The End of Elections in Nicaragua
 Published: 2026-07-24T12:00:02+00:00
 Link: https://foreignpolicy.com/2026/07/24/nicaragua-elections-democracy-ortega-us-response/
----
-[New_Yorker_Magazine] The Kinky Comedy of “I Want Your Sex”
-Published: 2026-07-24T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/03/i-want-your-sex-movie-review
 ---
