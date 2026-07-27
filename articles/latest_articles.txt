@@ -1,4 +1,4 @@
-# Last Run: 2026-07-27 17:48 UTC
+# Last Run: 2026-07-27 19:32 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Europe Must Learn From Ukraine’s Example, Top EU Defense Official Says
@@ -52,20 +52,4 @@ Link: https://foreignpolicy.com/2026/07/24/andy-burnham-britain-manchester-econo
 [Foreign_Policy] Ukraine’s Cardboard Maidan Shows That the People Still Matter
 Published: 2026-07-24T19:41:55+00:00
 Link: https://foreignpolicy.com/2026/07/24/protest-fedorov-zelensky-firing-ukraine/
----
-[Foreign_Policy] Riding the Greenland Ferry
-Published: 2026-07-24T19:00:43+00:00
-Link: https://foreignpolicy.com/2026/07/24/riding-the-greenland-ferry/
----
-[Foreign_Policy] What in the World?
-Published: 2026-07-24T18:56:03+00:00
-Link: https://foreignpolicy.com/2026/07/24/news-quiz-nicaragua-ortega-zelensky-ukraine-houthi-blockade/
----
-[Foreign_Policy] The Jonestown Massacre in Black and White
-Published: 2026-07-24T18:30:11+00:00
-Link: https://foreignpolicy.com/2026/07/24/jonestown-massacre-guyana-naipaul-racism/
----
-[Foreign_Policy] Nepal’s Queer Cinema Is Becoming a National Triumph
-Published: 2026-07-24T17:58:25+00:00
-Link: https://foreignpolicy.com/2026/07/24/nepal-kinnar-lgbtq-cinema/
 ---
