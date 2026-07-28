@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-07-27T12:32:46Z_
+_آخرین به‌روزرسانی: 2026-07-28T11:24:09Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-07-27 21:00:08 (UTC)  
+  **مدت:** حدود 4.7 دقیقه  
+  **عنوان:** [Perfect Chimney Caps in Minutes! nanoCAD Roof Detailing Tutorial - nanoCAD 3D Modeling - Lesson 14](https://www.youtube.com/watch?v=wOci-NXT2OI)  
+  ![](https://i.ytimg.com/vi/wOci-NXT2OI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-21 15:27:52 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-27T12:32:46Z_
   **مدت:** حدود 4.7 دقیقه  
   **عنوان:** [Placing Hatch Patterns and Gradient Fills - Lesson 10](https://www.youtube.com/watch?v=LsSk1S6BLok)  
   ![](https://i.ytimg.com/vi/LsSk1S6BLok/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2019-12-20 12:34:10 (UTC)  
-  **مدت:** حدود 5.2 دقیقه  
-  **عنوان:** [Drawing Rectangles & Regular Polygons - Lesson 9](https://www.youtube.com/watch?v=SjsFKmMTRx0)  
-  ![](https://i.ytimg.com/vi/SjsFKmMTRx0/hqdefault.jpg)

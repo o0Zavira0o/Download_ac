@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-27T12:32:46Z_
+_آخرین به‌روزرسانی: 2026-07-28T11:24:09Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-27 13:24:46 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Geheimnis 16 Jahre Freundschaft #shorts](https://www.youtube.com/watch?v=gUfp0TQd8Ac)  
+  ![](https://i.ytimg.com/vi/gUfp0TQd8Ac/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-26 17:00:13 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-27T12:32:46Z_
   **مدت:** حدود 6.9 دقیقه  
   **عنوان:** [Asking for directions in German | Easy German 164](https://www.youtube.com/watch?v=QUV9a4KGaTQ)  
   ![](https://i.ytimg.com/vi/QUV9a4KGaTQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-02 18:13:17 (UTC)  
-  **مدت:** حدود 9.1 دقیقه  
-  **عنوان:** [True or False: Fun facts about Germany with Dana from Wanted Adventure | Easy German 163](https://www.youtube.com/watch?v=W033CQxL1Q0)  
-  ![](https://i.ytimg.com/vi/W033CQxL1Q0/hqdefault.jpg)

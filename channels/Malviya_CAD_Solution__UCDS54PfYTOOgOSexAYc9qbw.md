@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-27T12:32:46Z_
+_آخرین به‌روزرسانی: 2026-07-28T11:24:09Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-28 03:00:56 (UTC)  
+  **مدت:** حدود 3.0 دقیقه  
+  **عنوان:** [Apply multiple holes with two different types of methods in solidworks 😀 #shorts #ytshorts](https://www.youtube.com/watch?v=1GT6jOshhlw)  
+  ![](https://i.ytimg.com/vi/1GT6jOshhlw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-26 05:50:05 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-27T12:32:46Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [3d modelling in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=6_IpjoEgsJU)  
   ![](https://i.ytimg.com/vi/6_IpjoEgsJU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-03 02:26:47 (UTC)  
-  **مدت:** حدود 25.8 دقیقه  
-  **عنوان:** [Design of Valve Plate in solidworks | Part of rock hammer drill | Solidworks Tutorial](https://www.youtube.com/watch?v=32XwzHwB7oQ)  
-  ![](https://i.ytimg.com/vi/32XwzHwB7oQ/hqdefault.jpg)
