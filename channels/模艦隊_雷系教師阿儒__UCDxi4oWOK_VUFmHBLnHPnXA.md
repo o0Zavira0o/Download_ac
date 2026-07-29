@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-07-28T11:24:09Z_
+_آخرین به‌روزرسانی: 2026-07-29T11:30:28Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-07-29 11:00:34 (UTC)  
+  **مدت:** حدود 16.5 دقیقه  
+  **عنوان:** [【SolidWorks】基礎課程_草圖繪製、限制條件｜知令善用](https://www.youtube.com/watch?v=OGzh-k0F0Oc)  
+  ![](https://i.ytimg.com/vi/OGzh-k0F0Oc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-24 11:00:03 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-28T11:24:09Z_
   **مدت:** حدود 17.8 دقیقه  
   **عنوان:** [【onshape】產品練習：3D列印筆｜拔模+薄殼指令應用｜教你偷懶出新高度](https://www.youtube.com/watch?v=GfCujeoLK9A)  
   ![](https://i.ytimg.com/vi/GfCujeoLK9A/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-05-14 11:00:21 (UTC)  
-  **مدت:** حدود 9.2 دقیقه  
-  **عنوان:** [【solidworks】特殊特徵：包覆｜超級好用](https://www.youtube.com/watch?v=D_reyp_D0do)  
-  ![](https://i.ytimg.com/vi/D_reyp_D0do/hqdefault.jpg)

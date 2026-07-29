@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-07-28T11:24:09Z_
+_آخرین به‌روزرسانی: 2026-07-29T11:30:28Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-07-29 03:03:40 (UTC)  
+  **مدت:** حدود 7.2 دقیقه  
+  **عنوان:** [SOLIDWORKS Weldment Tutorial | 2D Drawing to 3D Model Step-by-Step (Beginner to Pro)](https://www.youtube.com/watch?v=dW5-mqU6Ya4)  
+  ![](https://i.ytimg.com/vi/dW5-mqU6Ya4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-17 02:44:58 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-28T11:24:09Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅Why Planetary Gear Systems Are So Complicated❓](https://www.youtube.com/watch?v=8eANBUqXyGQ)  
   ![](https://i.ytimg.com/vi/8eANBUqXyGQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-31 11:52:30 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅ Mechanical Mechanism 06](https://www.youtube.com/watch?v=gMh57VBfBHM)  
-  ![](https://i.ytimg.com/vi/gMh57VBfBHM/hqdefault.jpg)

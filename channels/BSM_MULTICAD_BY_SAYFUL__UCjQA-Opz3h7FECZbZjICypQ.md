@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-07-28T11:24:09Z_
+_آخرین به‌روزرسانی: 2026-07-29T11:30:28Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
+
+
+- **تاریخ انتشار:** 2026-07-28 17:33:26 (UTC)  
+  **مدت:** حدود 3.8 دقیقه  
+  **عنوان:** [AUTOCAD PENDING BATCH CLASS 01 BANGLA TUTORIALS](https://www.youtube.com/watch?v=432ra9u0nYg)  
+  ![](https://i.ytimg.com/vi/432ra9u0nYg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-24 16:45:00 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-28T11:24:09Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [BSM CAD FULL PACKAGE COURSEAUTOCAD,ESTIMATE,SKETCHUP V RAY19E #autocad #autocadcivil #excel](https://www.youtube.com/watch?v=aWc_mxQxvBU)  
   ![](https://i.ytimg.com/vi/aWc_mxQxvBU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-09 14:55:32 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [BSM CAD FULL PACKAGE COURSEAUTOCAD,ESTIMATE,SKETCHUP V RAY19D #autocad #autocadtutorial](https://www.youtube.com/watch?v=_9-Cl3sNkIk)  
-  ![](https://i.ytimg.com/vi/_9-Cl3sNkIk/hqdefault.jpg)

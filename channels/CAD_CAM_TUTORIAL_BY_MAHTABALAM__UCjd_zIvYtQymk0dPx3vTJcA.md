@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-28T11:24:09Z_
+_آخرین به‌روزرسانی: 2026-07-29T11:30:28Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-29 03:30:37 (UTC)  
+  **مدت:** حدود 30.9 دقیقه  
+  **عنوان:** [Crankshaft Modeling in SolidWorks](https://www.youtube.com/watch?v=pmEDCDRQHHE)  
+  ![](https://i.ytimg.com/vi/pmEDCDRQHHE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-27 12:14:20 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-28T11:24:09Z_
   **مدت:** حدود 56.4 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch mouse in Solidworks (Advanced Surfacing)](https://www.youtube.com/watch?v=lnJTfrqYfMU)  
   ![](https://i.ytimg.com/vi/lnJTfrqYfMU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-08 18:00:03 (UTC)  
-  **مدت:** حدود 6.8 دقیقه  
-  **عنوان:** [How to make custom forming tool (Louvers) in Solidworks](https://www.youtube.com/watch?v=7iHHLyFAvKI)  
-  ![](https://i.ytimg.com/vi/7iHHLyFAvKI/hqdefault.jpg)
