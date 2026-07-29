@@ -1,9 +1,25 @@
-# Last Run: 2026-07-29 10:45 UTC
+# Last Run: 2026-07-29 14:16 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Wildberries Theory of Russian Defeat
+Published: 2026-07-29T11:13:54+00:00
+Link: https://foreignpolicy.com/2026/07/29/wildberries-russia-ukraine-war-drone-attacks-putin-military-supplies-logistics/
+---
+[New_Yorker_Magazine] Fairfield Porter’s Lush, Lonely Vision of the World
+Published: 2026-07-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/10/fairfield-porters-lush-lonely-vision-of-the-world
+---
 [Foreign_Policy] An ASEAN Summit Consumed by Middle East Worries
 Published: 2026-07-29T05:00:06+00:00
 Link: https://foreignpolicy.com/2026/07/29/asean-foreign-ministers-summit-manila-middle-east-war/
+---
+[Foreign_Affairs] Beijing’s Next Play for the South China Sea
+Published: 2026-07-29T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/beijings-next-play-south-china-sea
+---
+[Foreign_Affairs] How to Reindustrialize America
+Published: 2026-07-29T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/how-reindustrialize-america-jake-sullivan
 ---
 [Foreign_Affairs] China’s Next Play for the South China Sea
 Published: 2026-07-29T04:00:00+00:00
@@ -40,6 +56,10 @@ Link: https://foreignpolicy.com/2026/07/28/el-nino-economy-agriculture-weather/
 [Foreign_Policy] Washington Can’t Keep Ignoring Minab
 Published: 2026-07-28T13:00:15+00:00
 Link: https://foreignpolicy.com/2026/07/28/united-states-iran-war-minab-accountabilitiy-war-crimes-foreign-policy-hegseth/
+---
+[Foreign_Policy] Why Putin Will Escalate
+Published: 2026-07-28T11:59:22+00:00
+Link: https://foreignpolicy.com/2026/07/28/putin-regime-russia-escalation-ukraine-war-nato/
 ---
 [Foreign_Policy] Why Putin Will Escalate
 Published: 2026-07-28T11:59:22+00:00
@@ -80,6 +100,58 @@ Link: https://foreignpolicy.com/2026/07/27/iran-war-islands-qeshm-kharg-greater-
 [Foreign_Policy] Economic Integration in the Middle East Is a False God
 Published: 2026-07-27T11:00:15+00:00
 Link: https://foreignpolicy.com/2026/07/27/middle-east-trump-saudi-arabia-economic-integration-israel-gulf/
+---
+[New_Yorker_Magazine] What Would It Mean to See a New Color?
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/what-would-it-mean-to-see-a-new-color
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/the-renoir-girls-little-blue-dot-air-i-want-you-to-be-happy
+---
+[New_Yorker_Magazine] How Netanyahu’s Top General Became His Strongest Challenger
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/how-netanyahus-top-general-became-his-strongest-challenger
+---
+[New_Yorker_Magazine] “Any Younger,” by Natalie Shapero
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/any-younger-natalie-shapero-poem
+---
+[New_Yorker_Magazine] John Leguizamo Is a Noble Fellow
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/john-leguizamo-is-a-noble-fellow
+---
+[New_Yorker_Magazine] Get Yer Statue of Liberty Here!
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/get-yer-statue-of-liberty-here
+---
+[New_Yorker_Magazine] Take Me Out to the Brainball Game
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/take-me-out-to-the-brainball-game
+---
+[New_Yorker_Magazine] Fab Morvan Takes Back His Voice
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/fab-morvan-takes-back-his-voice
+---
+[New_Yorker_Magazine] Johnny Knoxville, America’s God of Mischief
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/johnny-knoxville-profile
+---
+[New_Yorker_Magazine] “Tick Check,” by Michael Dickman
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/tick-check-michael-dickman-poem
+---
+[New_Yorker_Magazine] Exit Memo
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/exit-memo
+---
+[New_Yorker_Magazine] The Myth of the Food Desert
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/food-justice-undone-hanna-garth-book-review
+---
+[New_Yorker_Magazine] A Woman Lost Two Partners to Guns—Then the N.R.A. Came to Collect
+Published: 2026-07-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/03/a-woman-lost-two-partners-to-guns-then-the-nra-came-to-collect
 ---
 [Foreign_Policy] Bill Clinton Ended Welfare and Paved the Way For MAGA
 Published: 2026-07-27T05:00:18+00:00
