@@ -1,6 +1,10 @@
-# Last Run: 2026-07-30 10:34 UTC
+# Last Run: 2026-07-30 14:07 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump Has Weakened America’s Sanctions Weapon
+Published: 2026-07-30T13:10:52+00:00
+Link: https://foreignpolicy.com/2026/07/30/trump-sanctions-venezuela-iran-weakened/
+---
 [Foreign_Policy] The OpenAI Hack Shows the Genie Is Out of the Bottle
 Published: 2026-07-30T04:13:17+00:00
 Link: https://foreignpolicy.com/2026/07/30/openai-hack-genie-bottle-defense/
@@ -132,12 +136,4 @@ Link: https://foreignpolicy.com/2026/07/27/europe-eu-ukraine-defense-kubilius-in
 [Foreign_Policy] The Fight for International Justice Continues
 Published: 2026-07-27T14:14:43+00:00
 Link: https://foreignpolicy.com/2026/07/27/icc-international-criminal-court-war-crimes-justice-duterte/
----
-[Foreign_Policy] Iran’s Arsenal Starts With Its Islands
-Published: 2026-07-27T13:56:44+00:00
-Link: https://foreignpolicy.com/2026/07/27/iran-war-islands-qeshm-kharg-greater-tunb-strait-hormuz-irgc-oil-trump-us/
----
-[Foreign_Policy] Economic Integration in the Middle East Is a False God
-Published: 2026-07-27T11:00:15+00:00
-Link: https://foreignpolicy.com/2026/07/27/middle-east-trump-saudi-arabia-economic-integration-israel-gulf/
 ---
