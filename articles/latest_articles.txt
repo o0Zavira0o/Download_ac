@@ -1,4 +1,4 @@
-# Last Run: 2026-07-30 19:32 UTC
+# Last Run: 2026-07-30 21:15 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Lindsey Graham’s Parting Gift to Ukraine
@@ -136,12 +136,4 @@ Link: https://foreignpolicy.com/2026/07/28/iran-war-economy-oil-sanctions-recons
 [Foreign_Affairs] The Hidden Path to Regime Change in Iran
 Published: 2026-07-28T04:00:00+00:00
 Link: https://www.foreignaffairs.com/iran/hidden-path-regime-change-iran
----
-[Foreign_Policy] What to Expect at the Trump-Netanyahu Showdown
-Published: 2026-07-27T21:09:41+00:00
-Link: https://foreignpolicy.com/2026/07/27/netanyahu-trump-visit-israel-iran-war-elections-mamdani-united-nations/
----
-[Foreign_Policy] Trump’s Saudi Nuclear Deal Is Diplomatic Malpractice
-Published: 2026-07-27T20:33:20+00:00
-Link: https://foreignpolicy.com/2026/07/27/trump-nuclear-saudi-arabia-deal-iran-israel/
 ---
