@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-29T11:30:28Z_
+_آخرین به‌روزرسانی: 2026-07-30T11:15:36Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-30 09:19:27 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Kölsch trinken in Köln #shorts #Kölsch #Deutschlernen](https://www.youtube.com/watch?v=pqfC-3NL9dQ)  
+  ![](https://i.ytimg.com/vi/pqfC-3NL9dQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-29 16:54:41 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Warum gibt es Leid? #easygerman #deutschunterricht #philosophy](https://www.youtube.com/watch?v=rkgmZn4BjVo)  
+  ![](https://i.ytimg.com/vi/rkgmZn4BjVo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-27 13:24:46 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-29T11:30:28Z_
   **مدت:** حدود 16.1 دقیقه  
   **عنوان:** [Easy German 165 (Bonus) - Interview mit Petrina Engelke (without subtitles)](https://www.youtube.com/watch?v=k9-sKzAAaBM)  
   ![](https://i.ytimg.com/vi/k9-sKzAAaBM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-17 16:53:02 (UTC)  
-  **مدت:** حدود 11.2 دقیقه  
-  **عنوان:** [Talking to Germans in New York | Easy German 165](https://www.youtube.com/watch?v=YDwEHWaVaQI)  
-  ![](https://i.ytimg.com/vi/YDwEHWaVaQI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-09 17:27:46 (UTC)  
-  **مدت:** حدود 6.9 دقیقه  
-  **عنوان:** [Asking for directions in German | Easy German 164](https://www.youtube.com/watch?v=QUV9a4KGaTQ)  
-  ![](https://i.ytimg.com/vi/QUV9a4KGaTQ/hqdefault.jpg)

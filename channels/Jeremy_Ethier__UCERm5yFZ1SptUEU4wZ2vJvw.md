@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-07-29T11:30:28Z_
+_آخرین به‌روزرسانی: 2026-07-30T11:15:36Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,7 +10,7 @@ _آخرین به‌روزرسانی: 2026-07-29T11:30:28Z_
 
 - **تاریخ انتشار:** 2026-07-26 13:30:32 (UTC)  
   **مدت:** حدود 13.2 دقیقه  
-  **عنوان:** [This Shouldn't Work, But It Blows Up Your Muscles (In 30 Days)](https://www.youtube.com/watch?v=4OP8FI1TXK8)  
+  **عنوان:** [It’s Dumb, But It Builds Muscle Almost 4x Faster](https://www.youtube.com/watch?v=4OP8FI1TXK8)  
   ![](https://i.ytimg.com/vi/4OP8FI1TXK8/hqdefault.jpg)
 
 
