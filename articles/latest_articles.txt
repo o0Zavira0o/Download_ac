@@ -1,6 +1,22 @@
-# Last Run: 2026-07-30 02:33 UTC
+# Last Run: 2026-07-30 06:33 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The OpenAI Hack Shows the Genie Is Out of the Bottle
+Published: 2026-07-30T04:13:17+00:00
+Link: https://foreignpolicy.com/2026/07/30/openai-hack-genie-bottle-defense/
+---
+[Foreign_Policy] Yes, Europe Is a Middle Power, Too
+Published: 2026-07-30T04:01:49+00:00
+Link: https://foreignpolicy.com/2026/07/30/middle-powers-iran-war-europe/
+---
+[Foreign_Affairs] The Next Phase of China’s Minority Crackdown
+Published: 2026-07-30T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/next-phase-chinas-minority-crackdown
+---
+[Foreign_Affairs] The New Old Middle East
+Published: 2026-07-30T04:00:00+00:00
+Link: https://www.foreignaffairs.com/middle-east/new-old-middle-east
+---
 [Foreign_Policy] Anti-Government Protests Resurge in North Africa
 Published: 2026-07-29T21:15:16+00:00
 Link: https://foreignpolicy.com/2026/07/29/tunisia-libya-north-africa-protests-extreme-heat-power-cuts/
@@ -176,20 +192,4 @@ Link: https://www.newyorker.com/magazine/2026/08/03/food-justice-undone-hanna-ga
 [New_Yorker_Magazine] A Woman Lost Two Partners to Guns—Then the N.R.A. Came to Collect
 Published: 2026-07-27T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/08/03/a-woman-lost-two-partners-to-guns-then-the-nra-came-to-collect
----
-[Foreign_Policy] Bill Clinton Ended Welfare and Paved the Way For MAGA
-Published: 2026-07-27T05:00:18+00:00
-Link: https://foreignpolicy.com/2026/07/27/clinton-welfare-trump-big-beautiful-bill/
----
-[Foreign_Policy] The Kremlin’s Easy Money Is Gone
-Published: 2026-07-27T05:00:16+00:00
-Link: https://foreignpolicy.com/2026/07/27/russia-ukraine-war-money-spending-defense-budget-taxes-asset-confiscation-sanctions-finance/
----
-[Foreign_Affairs] How Asia Learned to Live With “America First”
-Published: 2026-07-27T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/how-asia-learned-live-america-first
----
-[Foreign_Affairs] Can Renewables Industrialize Africa?
-Published: 2026-07-27T04:00:00+00:00
-Link: https://www.foreignaffairs.com/africa/can-renewables-industrialize-africa
 ---
