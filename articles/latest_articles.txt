@@ -1,6 +1,10 @@
-# Last Run: 2026-07-30 14:07 UTC
+# Last Run: 2026-07-30 17:32 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Why Energy Prices Didn’t Soar Higher This Year
+Published: 2026-07-30T17:05:20+00:00
+Link: https://foreignpolicy.com/2026/07/30/daniel-yergin-iran-war-oil-market-prices-hormuz-united-states-china/
+---
 [Foreign_Policy] Trump Has Weakened America’s Sanctions Weapon
 Published: 2026-07-30T13:10:52+00:00
 Link: https://foreignpolicy.com/2026/07/30/trump-sanctions-venezuela-iran-weakened/
@@ -12,6 +16,10 @@ Link: https://foreignpolicy.com/2026/07/30/openai-hack-genie-bottle-defense/
 [Foreign_Policy] Yes, Europe Is a Middle Power, Too
 Published: 2026-07-30T04:01:49+00:00
 Link: https://foreignpolicy.com/2026/07/30/middle-powers-iran-war-europe/
+---
+[Foreign_Affairs] The New Old Middle East
+Published: 2026-07-30T04:00:00+00:00
+Link: https://www.foreignaffairs.com/middle-east/new-old-middle-east-gause
 ---
 [Foreign_Affairs] The Next Phase of China’s Minority Crackdown
 Published: 2026-07-30T04:00:00+00:00
@@ -128,12 +136,4 @@ Link: https://foreignpolicy.com/2026/07/27/netanyahu-trump-visit-israel-iran-war
 [Foreign_Policy] Trump’s Saudi Nuclear Deal Is Diplomatic Malpractice
 Published: 2026-07-27T20:33:20+00:00
 Link: https://foreignpolicy.com/2026/07/27/trump-nuclear-saudi-arabia-deal-iran-israel/
----
-[Foreign_Policy] Europe Must Learn From Ukraine’s Example, Top EU Defense Official Says
-Published: 2026-07-27T16:17:27+00:00
-Link: https://foreignpolicy.com/2026/07/27/europe-eu-ukraine-defense-kubilius-interview-nato/
----
-[Foreign_Policy] The Fight for International Justice Continues
-Published: 2026-07-27T14:14:43+00:00
-Link: https://foreignpolicy.com/2026/07/27/icc-international-criminal-court-war-crimes-justice-duterte/
 ---
