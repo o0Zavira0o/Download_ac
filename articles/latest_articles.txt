@@ -1,6 +1,38 @@
-# Last Run: 2026-07-31 19:30 UTC
+# Last Run: 2026-07-31 21:25 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Spain Records Unprecedented Migrant Crossing
+Published: 2026-07-31T20:35:45+00:00
+Link: https://foreignpolicy.com/2026/07/31/spain-morocco-ceuta-migrant-crisis-schengen-area/
+---
+[Foreign_Policy] Trump’s Biggest Challenge to American Democracy
+Published: 2026-07-31T19:47:02+00:00
+Link: https://foreignpolicy.com/2026/07/31/trump-us-democracy-politics-corruption/
+---
+[Foreign_Policy] What Homer’s ‘Odyssey’ Tells Us About the Economics of the Bronze Age
+Published: 2026-07-31T19:30:09+00:00
+Link: https://foreignpolicy.com/2026/07/31/christopher-nolan-homer-odyssey-economics-bronze-age-adam-tooze/
+---
+[Foreign_Policy] The Book That Predicted Pete Hegseth’s Failures
+Published: 2026-07-31T19:00:20+00:00
+Link: https://foreignpolicy.com/2026/07/31/hegseth-norman-dixon-iran-war/
+---
+[Foreign_Policy] The Dreams of ‘Star Trek’ Aren’t Dead
+Published: 2026-07-31T18:40:41+00:00
+Link: https://foreignpolicy.com/2026/07/31/starfleet-academy-artemis-ii-discovery-star-trek/
+---
+[Foreign_Policy] Resurrecting the Real Monroe Doctrine
+Published: 2026-07-31T18:20:15+00:00
+Link: https://foreignpolicy.com/2026/07/31/trump-monroe-doctrine-american-revolution-us-history/
+---
+[Foreign_Policy] The Myth of African Heterosexual Purity
+Published: 2026-07-31T18:00:07+00:00
+Link: https://foreignpolicy.com/2026/07/31/pure-men-senegal-mohamed-sarr-homophobia-queer-africa-islam-religion/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-07-31T17:42:27+00:00
+Link: https://foreignpolicy.com/2026/07/31/news-quiz-india-cockroach-movement-burnham-uk-keiko-fujimori-peru-president/
+---
 [Foreign_Policy] Africa’s Financial Third Way
 Published: 2026-07-31T15:11:50+00:00
 Link: https://foreignpolicy.com/2026/07/31/africa-development-finance-lending-aid-afdb-third-way/
@@ -128,16 +160,4 @@ Link: https://www.foreignaffairs.com/united-states/how-reindustrialize-america
 [Foreign_Affairs] America’s Surprising Energy Advantage
 Published: 2026-07-29T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/americas-surprising-energy-advantage
----
-[Foreign_Policy] Scandal Exposes Limits of China’s Scientific Rise
-Published: 2026-07-28T20:54:27+00:00
-Link: https://foreignpolicy.com/2026/07/28/china-gene-editing-trial-scandal-death-child-biotech-ethics/
----
-[Foreign_Policy] Washington’s Reset With Serbia Is a Mistake
-Published: 2026-07-28T20:00:32+00:00
-Link: https://foreignpolicy.com/2026/07/28/washingtons-reset-serbia-mistake-vucic-autocracy/
----
-[Foreign_Policy] Trump’s Diplomatic Doubleheader
-Published: 2026-07-28T19:49:40+00:00
-Link: https://foreignpolicy.com/2026/07/28/trump-zelensky-netanyahu-white-house-russia-ukraine-patriots-iran-war-nuclear/
 ---
