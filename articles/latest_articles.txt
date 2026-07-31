@@ -1,6 +1,14 @@
-# Last Run: 2026-07-31 14:12 UTC
+# Last Run: 2026-07-31 17:43 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Africa’s Financial Third Way
+Published: 2026-07-31T15:11:50+00:00
+Link: https://foreignpolicy.com/2026/07/31/africa-development-finance-lending-aid-afdb-third-way/
+---
+[Foreign_Policy] Trump’s Pacific Islands Blind Spot
+Published: 2026-07-31T14:20:25+00:00
+Link: https://foreignpolicy.com/2026/07/31/pacific-islands-trump-geopolitics-china-oceania/
+---
 [Foreign_Policy] U.S. Boat Strike Campaign Is Shrouded in Secrecy
 Published: 2026-07-31T12:00:11+00:00
 Link: https://foreignpolicy.com/2026/07/31/us-military-boat-strikes-latin-america-caribbean-deaths-cocaine-drug-trafficking/
@@ -132,12 +140,4 @@ Link: https://foreignpolicy.com/2026/07/28/washingtons-reset-serbia-mistake-vuci
 [Foreign_Policy] Trump’s Diplomatic Doubleheader
 Published: 2026-07-28T19:49:40+00:00
 Link: https://foreignpolicy.com/2026/07/28/trump-zelensky-netanyahu-white-house-russia-ukraine-patriots-iran-war-nuclear/
----
-[Foreign_Policy] Compromised Candidates
-Published: 2026-07-28T17:24:06+00:00
-Link: https://foreignpolicy.com/2026/07/28/united-nations-security-council-secretary-general-corruption-reform/
----
-[Foreign_Policy] What a Powerful El Niño Means for the World
-Published: 2026-07-28T15:16:54+00:00
-Link: https://foreignpolicy.com/2026/07/28/el-nino-economy-agriculture-weather/
 ---
