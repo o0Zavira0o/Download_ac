@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-07-30T11:15:36Z_
+_آخرین به‌روزرسانی: 2026-07-31T11:32:48Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-07-31 07:50:05 (UTC)  
+  **مدت:** حدود 2.3 دقیقه  
+  **عنوان:** [Pack & Go how to use this option in solidworks 😀 #shorts #ytshorts #malviyacadsolution #solidworks](https://www.youtube.com/watch?v=yVH4zFjFQTg)  
+  ![](https://i.ytimg.com/vi/yVH4zFjFQTg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-31 03:05:08 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [How to change the sketch plane in solidworks 3d file #shorts #ytshorts #malviyacadsolution](https://www.youtube.com/watch?v=1_xOK2luy-E)  
+  ![](https://i.ytimg.com/vi/1_xOK2luy-E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-28 03:00:56 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-30T11:15:36Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [How to apply perfect thread on Bolt 😃 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=LtkR14URC44)  
   ![](https://i.ytimg.com/vi/LtkR14URC44/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-06 03:12:40 (UTC)  
-  **مدت:** حدود 2.7 دقیقه  
-  **عنوان:** [Hole wizard in solidworks assembly 😃 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=Qu0NPw4jVJU)  
-  ![](https://i.ytimg.com/vi/Qu0NPw4jVJU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-04 05:26:08 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [3d modelling in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=6_IpjoEgsJU)  
-  ![](https://i.ytimg.com/vi/6_IpjoEgsJU/hqdefault.jpg)

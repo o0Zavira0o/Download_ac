@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-30T11:15:36Z_
+_آخرین به‌روزرسانی: 2026-07-31T11:32:48Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -1706,7 +1706,7 @@ _آخرین به‌روزرسانی: 2026-07-30T11:15:36Z_
 
 - **تاریخ انتشار:** 2025-10-01 17:00:36 (UTC)  
   **مدت:** حدود 12.5 دقیقه  
-  **عنوان:** [Berghain Queue vs. Opera: We Test General Knowledge in the Streets! | Easy German 627](https://www.youtube.com/watch?v=LpTbnQObM6I)  
+  **عنوان:** [Berghain Queue vs. Opera: We Test General Knowledge in the Streets!](https://www.youtube.com/watch?v=LpTbnQObM6I)  
   ![](https://i.ytimg.com/vi/LpTbnQObM6I/hqdefault.jpg)
 
 

@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-07-30T11:15:36Z_
+_آخرین به‌روزرسانی: 2026-07-31T11:32:48Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-07-31 04:00:30 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [ASMR 🌺🏺Stamp on it 스탬프다꾸 コラージュ #diy #stamp #asmr](https://www.youtube.com/watch?v=HxKgdksHD90)  
+  ![](https://i.ytimg.com/vi/HxKgdksHD90/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-07-30 13:00:00 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [다꾸 ASMR Art Journal | 아트 コラージュ](https://www.youtube.com/watch?v=4GpMiNy0yhU)  
+  ![](https://i.ytimg.com/vi/4GpMiNy0yhU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-29 13:00:26 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-07-30T11:15:36Z_
   **مدت:** حدود 6.7 دقیقه  
   **عنوان:** [ASMR Decorating Aesthetic Journal🥀 Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=UWWgIVYQ46E)  
   ![](https://i.ytimg.com/vi/UWWgIVYQ46E/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-17 11:28:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [DIY Calendar Ideas🌼🏵 #diy #craft #asmr #diycraft #creative](https://www.youtube.com/watch?v=ocDQ0j-OrhI)  
-  ![](https://i.ytimg.com/vi/ocDQ0j-OrhI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-16 14:50:01 (UTC)  
-  **مدت:** حدود 4.9 دقیقه  
-  **عنوان:** [ASMR Creative Art Journaling 🪴Secret Garden🪴 Variety of journal Theme Sounds](https://www.youtube.com/watch?v=TEdN-phPajU)  
-  ![](https://i.ytimg.com/vi/TEdN-phPajU/hqdefault.jpg)

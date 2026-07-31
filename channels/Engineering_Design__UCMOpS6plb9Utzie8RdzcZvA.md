@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-07-30T11:15:36Z_
+_آخرین به‌روزرسانی: 2026-07-31T11:32:48Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-07-30 13:17:53 (UTC)  
+  **مدت:** حدود 4.7 دقیقه  
+  **عنوان:** [SOLIDWORKS Tutorial: How to Model a Z-Bracket with Keyhole Slot (Beginner Exercise)](https://www.youtube.com/watch?v=rrEBIdlnA5s)  
+  ![](https://i.ytimg.com/vi/rrEBIdlnA5s/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-29 03:03:40 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-30T11:15:36Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅Mechanical Mechanism | High Torque Slider Double Crank Mechanism](https://www.youtube.com/watch?v=XMeM0p_AbjI)  
   ![](https://i.ytimg.com/vi/XMeM0p_AbjI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-02 02:32:07 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Why Planetary Gear Systems Are So Complicated❓](https://www.youtube.com/watch?v=8eANBUqXyGQ)  
-  ![](https://i.ytimg.com/vi/8eANBUqXyGQ/hqdefault.jpg)
