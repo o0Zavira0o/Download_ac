@@ -1,6 +1,10 @@
-# Last Run: 2026-07-31 10:44 UTC
+# Last Run: 2026-07-31 14:12 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] U.S. Boat Strike Campaign Is Shrouded in Secrecy
+Published: 2026-07-31T12:00:11+00:00
+Link: https://foreignpolicy.com/2026/07/31/us-military-boat-strikes-latin-america-caribbean-deaths-cocaine-drug-trafficking/
+---
 [Foreign_Policy] Germany Is Much More Socially Conservative Than You Think
 Published: 2026-07-31T09:50:24+00:00
 Link: https://foreignpolicy.com/2026/07/31/germany-merz-spahn-scandal-conservative/
@@ -136,20 +140,4 @@ Link: https://foreignpolicy.com/2026/07/28/united-nations-security-council-secre
 [Foreign_Policy] What a Powerful El Niño Means for the World
 Published: 2026-07-28T15:16:54+00:00
 Link: https://foreignpolicy.com/2026/07/28/el-nino-economy-agriculture-weather/
----
-[Foreign_Policy] Washington Can’t Keep Ignoring Minab
-Published: 2026-07-28T13:00:15+00:00
-Link: https://foreignpolicy.com/2026/07/28/united-states-iran-war-minab-accountabilitiy-war-crimes-foreign-policy-hegseth/
----
-[Foreign_Policy] Why Putin Will Escalate
-Published: 2026-07-28T11:59:22+00:00
-Link: https://foreignpolicy.com/2026/07/28/putin-regime-russia-escalation-ukraine-war-nato/
----
-[Foreign_Policy] Why Putin Will Escalate
-Published: 2026-07-28T11:59:22+00:00
-Link: https://foreignpolicy.com/2026/07/28/why-putin-will-escalate/
----
-[Foreign_Policy] Netanyahu’s Palestine Philosophy Is Finally Exposed
-Published: 2026-07-28T11:24:15+00:00
-Link: https://foreignpolicy.com/2026/07/28/netanyahu-israel-palestine-history-two-state-solution-gaza/
 ---
