@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-07-31T11:32:48Z_
+_آخرین به‌روزرسانی: 2026-08-01T10:44:47Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-07-31 11:37:16 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Was hast du heute vor? #shorts #easygerman #streetinterview](https://www.youtube.com/watch?v=9pfvRbT_sS8)  
+  ![](https://i.ytimg.com/vi/9pfvRbT_sS8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-30 09:19:27 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-07-31T11:32:48Z_
   **مدت:** حدود 2.9 دقیقه  
   **عنوان:** [Introduce yourself in Slow German | Super Easy German (1)](https://www.youtube.com/watch?v=r94aqLUO0wo)  
   ![](https://i.ytimg.com/vi/r94aqLUO0wo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-18 18:15:51 (UTC)  
-  **مدت:** حدود 16.1 دقیقه  
-  **عنوان:** [Easy German 165 (Bonus) - Interview mit Petrina Engelke (without subtitles)](https://www.youtube.com/watch?v=k9-sKzAAaBM)  
-  ![](https://i.ytimg.com/vi/k9-sKzAAaBM/hqdefault.jpg)

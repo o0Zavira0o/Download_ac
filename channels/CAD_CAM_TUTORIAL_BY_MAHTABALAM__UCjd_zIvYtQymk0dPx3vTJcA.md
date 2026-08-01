@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-07-31T11:32:48Z_
+_آخرین به‌روزرسانی: 2026-08-01T10:44:47Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-07-31 14:09:43 (UTC)  
+  **مدت:** حدود 9.5 دقیقه  
+  **عنوان:** [Flex (Twisting & Bending) Feature in SolidWorks](https://www.youtube.com/watch?v=ggOVKUg_o2A)  
+  ![](https://i.ytimg.com/vi/ggOVKUg_o2A/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-29 03:30:37 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-07-31T11:32:48Z_
   **مدت:** حدود 77.2 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Gear Speed Reducer in Solidworks](https://www.youtube.com/watch?v=Xook6U7amlM)  
   ![](https://i.ytimg.com/vi/Xook6U7amlM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-09 06:00:02 (UTC)  
-  **مدت:** حدود 56.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch mouse in Solidworks (Advanced Surfacing)](https://www.youtube.com/watch?v=lnJTfrqYfMU)  
-  ![](https://i.ytimg.com/vi/lnJTfrqYfMU/hqdefault.jpg)

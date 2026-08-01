@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-07-31T11:32:48Z_
+_آخرین به‌روزرسانی: 2026-08-01T10:44:47Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-07-31 13:20:50 (UTC)  
+  **مدت:** حدود 8.6 دقیقه  
+  **عنوان:** [How to Design a Steel Frame in SolidWorks in 10 Mins!](https://www.youtube.com/watch?v=-RUKw7LqMyM)  
+  ![](https://i.ytimg.com/vi/-RUKw7LqMyM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-30 13:17:53 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-07-31T11:32:48Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅How Dual Slider Crank Mechanisms Work❓](https://www.youtube.com/watch?v=ARri83QnEro)  
   ![](https://i.ytimg.com/vi/ARri83QnEro/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-03 07:42:00 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Mechanical Mechanism | High Torque Slider Double Crank Mechanism](https://www.youtube.com/watch?v=XMeM0p_AbjI)  
-  ![](https://i.ytimg.com/vi/XMeM0p_AbjI/hqdefault.jpg)

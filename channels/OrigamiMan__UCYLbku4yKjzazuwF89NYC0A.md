@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-07-31T11:32:48Z_
+_آخرین به‌روزرسانی: 2026-08-01T10:44:47Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-08-01 10:00:17 (UTC)  
+  **مدت:** حدود 37.5 دقیقه  
+  **عنوان:** [37,Origami Kitsune Mask | Silent Paper Folding | 折り紙で狐のお面を折る｜【無言・ASMR】](https://www.youtube.com/watch?v=0jiCxDvzG_M)  
+  ![](https://i.ytimg.com/vi/0jiCxDvzG_M/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-25 10:00:12 (UTC)  
