@@ -1,4 +1,4 @@
-# Last Run: 2026-08-01 19:13 UTC
+# Last Run: 2026-08-01 20:59 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] The Failures of the Fauci Hearing
@@ -124,12 +124,4 @@ Link: https://www.foreignaffairs.com/middle-east/new-old-middle-east
 [Foreign_Policy] Anti-Government Protests Resurge in North Africa
 Published: 2026-07-29T21:15:16+00:00
 Link: https://foreignpolicy.com/2026/07/29/tunisia-libya-north-africa-protests-extreme-heat-power-cuts/
----
-[Foreign_Policy] U.S.-Saudi Strikes Add a New Front to the Iran War
-Published: 2026-07-29T20:47:25+00:00
-Link: https://foreignpolicy.com/2026/07/29/us-saudi-arabia-strikes-iraq-militias-pmf-iran-war-houthis-yemen/
----
-[Foreign_Policy] How to End the Iran War
-Published: 2026-07-29T20:28:47+00:00
-Link: https://foreignpolicy.com/2026/07/29/trump-iran-hormuz-mou-cease-fire-energy-peace/
 ---
