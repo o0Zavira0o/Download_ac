@@ -1,6 +1,10 @@
-# Last Run: 2026-08-01 13:27 UTC
+# Last Run: 2026-08-01 15:06 UTC
 # Articles published in last 72 hours
 
+[New_Yorker_Magazine] The Failures of the Fauci Hearing
+Published: 2026-08-01T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/10/the-failures-of-the-fauci-hearing
+---
 [Foreign_Policy] France’s Wildfires Are Swallowing Its Politics
 Published: 2026-07-31T20:59:25+00:00
 Link: https://foreignpolicy.com/2026/07/31/france-wildfires-macron-politics-le-pen-melenchon/
@@ -49,6 +53,10 @@ Link: https://foreignpolicy.com/2026/07/31/pacific-islands-trump-geopolitics-chi
 Published: 2026-07-31T12:00:11+00:00
 Link: https://foreignpolicy.com/2026/07/31/us-military-boat-strikes-latin-america-caribbean-deaths-cocaine-drug-trafficking/
 ---
+[New_Yorker_Magazine] In “Teenage Sex and Death at Camp Miasma,” Desire and Terror Meet
+Published: 2026-07-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/10/teenage-sex-and-death-at-camp-miasma-movie-review
+---
 [Foreign_Policy] Germany Is Much More Socially Conservative Than You Think
 Published: 2026-07-31T09:50:24+00:00
 Link: https://foreignpolicy.com/2026/07/31/germany-merz-spahn-scandal-conservative/
@@ -89,6 +97,10 @@ Link: https://foreignpolicy.com/2026/07/30/daniel-yergin-iran-war-oil-market-pri
 Published: 2026-07-30T13:10:52+00:00
 Link: https://foreignpolicy.com/2026/07/30/trump-sanctions-venezuela-iran-weakened/
 ---
+[New_Yorker_Magazine] “Furious” Is a Crime Drama for a Post-Epstein World
+Published: 2026-07-30T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/10/furious-tv-review-hulu
+---
 [Foreign_Policy] The OpenAI Hack Shows the Genie Is Out of the Bottle
 Published: 2026-07-30T04:13:17+00:00
 Link: https://foreignpolicy.com/2026/07/30/openai-hack-genie-bottle-defense/
@@ -124,12 +136,4 @@ Link: https://foreignpolicy.com/2026/07/29/trump-iran-hormuz-mou-cease-fire-ener
 [Foreign_Policy] Does Modi Have a Cockroach Problem?
 Published: 2026-07-29T17:54:34+00:00
 Link: https://foreignpolicy.com/2026/07/29/india-modi-cockroach-janta-party-protests-demands/
----
-[Foreign_Policy] The Paradox of Self-Reliance
-Published: 2026-07-29T14:35:17+00:00
-Link: https://foreignpolicy.com/2026/07/29/us-alliance-military-defense-industry-self-reliance/
----
-[Foreign_Policy] Coming to Terms With Middle-Power Populism
-Published: 2026-07-29T13:53:53+00:00
-Link: https://foreignpolicy.com/2026/07/29/middle-powers-populism-trump-modi-carney-cooperation/
 ---
