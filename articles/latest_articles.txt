@@ -1,4 +1,4 @@
-# Last Run: 2026-08-01 20:59 UTC
+# Last Run: 2026-08-01 23:00 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] The Failures of the Fauci Hearing
@@ -120,8 +120,4 @@ Link: https://www.foreignaffairs.com/china/next-phase-chinas-minority-crackdown
 [Foreign_Affairs] The New Old Middle East
 Published: 2026-07-30T04:00:00+00:00
 Link: https://www.foreignaffairs.com/middle-east/new-old-middle-east
----
-[Foreign_Policy] Anti-Government Protests Resurge in North Africa
-Published: 2026-07-29T21:15:16+00:00
-Link: https://foreignpolicy.com/2026/07/29/tunisia-libya-north-africa-protests-extreme-heat-power-cuts/
 ---
