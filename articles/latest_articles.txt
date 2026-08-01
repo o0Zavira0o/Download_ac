@@ -1,4 +1,4 @@
-# Last Run: 2026-08-01 10:05 UTC
+# Last Run: 2026-08-01 11:30 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] France’s Wildfires Are Swallowing Its Politics
@@ -132,8 +132,4 @@ Link: https://foreignpolicy.com/2026/07/29/us-alliance-military-defense-industry
 [Foreign_Policy] Coming to Terms With Middle-Power Populism
 Published: 2026-07-29T13:53:53+00:00
 Link: https://foreignpolicy.com/2026/07/29/middle-powers-populism-trump-modi-carney-cooperation/
----
-[Foreign_Policy] The Wildberries Theory of Russian Defeat
-Published: 2026-07-29T11:13:54+00:00
-Link: https://foreignpolicy.com/2026/07/29/wildberries-russia-ukraine-war-drone-attacks-putin-military-supplies-logistics/
 ---
