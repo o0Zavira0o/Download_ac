@@ -1,4 +1,4 @@
-# Last Run: 2026-08-02 21:01 UTC
+# Last Run: 2026-08-02 23:02 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] The Failures of the Fauci Hearing
@@ -68,8 +68,4 @@ Link: https://www.foreignaffairs.com/ukraine/why-weaker-russia-keeps-fighting
 [Foreign_Affairs] The Ambiguity Spiral in Iran
 Published: 2026-07-31T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/ambiguity-spiral-iran
----
-[Foreign_Policy] Is the U.S.-Iran War Expanding?
-Published: 2026-07-30T22:07:49+00:00
-Link: https://foreignpolicy.com/2026/07/30/us-iran-war-iraq-strikes-saudi-houthis/
 ---
