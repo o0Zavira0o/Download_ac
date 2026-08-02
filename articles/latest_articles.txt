@@ -1,4 +1,4 @@
-# Last Run: 2026-08-02 11:25 UTC
+# Last Run: 2026-08-02 13:27 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] The Failures of the Fauci Hearing
@@ -92,8 +92,4 @@ Link: https://foreignpolicy.com/2026/07/30/iraq-iran-militias-zaidi-trump-isis-o
 [Foreign_Policy] Why Energy Prices Didn’t Soar Higher This Year
 Published: 2026-07-30T17:05:20+00:00
 Link: https://foreignpolicy.com/2026/07/30/daniel-yergin-iran-war-oil-market-prices-hormuz-united-states-china/
----
-[Foreign_Policy] Trump Has Weakened America’s Sanctions Weapon
-Published: 2026-07-30T13:10:52+00:00
-Link: https://foreignpolicy.com/2026/07/30/trump-sanctions-venezuela-iran-weakened/
 ---
