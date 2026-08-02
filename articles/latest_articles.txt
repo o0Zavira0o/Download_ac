@@ -1,4 +1,4 @@
-# Last Run: 2026-08-02 19:15 UTC
+# Last Run: 2026-08-02 21:01 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] The Failures of the Fauci Hearing
@@ -72,12 +72,4 @@ Link: https://www.foreignaffairs.com/united-states/ambiguity-spiral-iran
 [Foreign_Policy] Is the U.S.-Iran War Expanding?
 Published: 2026-07-30T22:07:49+00:00
 Link: https://foreignpolicy.com/2026/07/30/us-iran-war-iraq-strikes-saudi-houthis/
----
-[Foreign_Policy] NATO Says Russian Missile Violated Polish Airspace
-Published: 2026-07-30T20:49:36+00:00
-Link: https://foreignpolicy.com/2026/07/30/poland-russia-missile-incursion-nato-ukraine-war-strikes/
----
-[Foreign_Policy] How Gen Z ‘Cockroaches’ Beat Modi at His Own Game
-Published: 2026-07-30T20:01:44+00:00
-Link: https://foreignpolicy.com/2026/07/30/cockroach-janta-party-modi-social-media-gen-z-india-instagram/
 ---
