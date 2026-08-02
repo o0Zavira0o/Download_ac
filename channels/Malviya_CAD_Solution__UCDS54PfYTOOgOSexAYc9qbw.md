@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-08-01T10:44:47Z_
+_آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-08-02 09:24:37 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Solidworks advance trim surface 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=R92s8v7klF8)  
+  ![](https://i.ytimg.com/vi/R92s8v7klF8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-31 07:50:05 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-01T10:44:47Z_
   **مدت:** حدود 1.3 دقیقه  
   **عنوان:** [Shortcut tips for hide unhide parts in solidworks assembly 😃 #shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=78oIbhjPci8)  
   ![](https://i.ytimg.com/vi/78oIbhjPci8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-07 07:32:22 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [How to apply perfect thread on Bolt 😃 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=LtkR14URC44)  
-  ![](https://i.ytimg.com/vi/LtkR14URC44/hqdefault.jpg)

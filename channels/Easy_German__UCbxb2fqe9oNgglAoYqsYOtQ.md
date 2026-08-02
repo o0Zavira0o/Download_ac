@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-01T10:44:47Z_
+_آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-01 17:13:50 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Dreckshund 🐶 #hund #EasyGerman #deutschlernen](https://www.youtube.com/watch?v=s8w_lkzRwCQ)  
+  ![](https://i.ytimg.com/vi/s8w_lkzRwCQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-31 11:37:16 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-01T10:44:47Z_
   **مدت:** حدود 14.5 دقیقه  
   **عنوان:** [Cari antwortet (35) - Spaß haben vs Spaß machen | Germany vs. USA | Wählen in den USA](https://www.youtube.com/watch?v=wJ-mXxuG1Qw)  
   ![](https://i.ytimg.com/vi/wJ-mXxuG1Qw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-19 14:57:31 (UTC)  
-  **مدت:** حدود 2.9 دقیقه  
-  **عنوان:** [Introduce yourself in Slow German | Super Easy German (1)](https://www.youtube.com/watch?v=r94aqLUO0wo)  
-  ![](https://i.ytimg.com/vi/r94aqLUO0wo/hqdefault.jpg)
