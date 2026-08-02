@@ -1,4 +1,4 @@
-# Last Run: 2026-08-02 06:38 UTC
+# Last Run: 2026-08-02 10:02 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] The Failures of the Fauci Hearing
@@ -96,8 +96,4 @@ Link: https://foreignpolicy.com/2026/07/30/daniel-yergin-iran-war-oil-market-pri
 [Foreign_Policy] Trump Has Weakened America’s Sanctions Weapon
 Published: 2026-07-30T13:10:52+00:00
 Link: https://foreignpolicy.com/2026/07/30/trump-sanctions-venezuela-iran-weakened/
----
-[New_Yorker_Magazine] “Furious” Is a Crime Drama for a Post-Epstein World
-Published: 2026-07-30T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/furious-tv-review-hulu
 ---
