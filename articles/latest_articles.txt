@@ -1,4 +1,4 @@
-# Last Run: 2026-08-03 07:44 UTC
+# Last Run: 2026-08-03 11:27 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Special Treatment for Cuban Refugees Is No More
@@ -68,12 +68,4 @@ Link: https://foreignpolicy.com/2026/07/31/pacific-islands-trump-geopolitics-chi
 [Foreign_Policy] U.S. Boat Strike Campaign Is Shrouded in Secrecy
 Published: 2026-07-31T12:00:11+00:00
 Link: https://foreignpolicy.com/2026/07/31/us-military-boat-strikes-latin-america-caribbean-deaths-cocaine-drug-trafficking/
----
-[New_Yorker_Magazine] In “Teenage Sex and Death at Camp Miasma,” Desire and Terror Meet
-Published: 2026-07-31T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/teenage-sex-and-death-at-camp-miasma-movie-review
----
-[Foreign_Policy] Germany Is Much More Socially Conservative Than You Think
-Published: 2026-07-31T09:50:24+00:00
-Link: https://foreignpolicy.com/2026/07/31/germany-merz-spahn-scandal-conservative/
 ---
