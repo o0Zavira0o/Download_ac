@@ -1,4 +1,4 @@
-# Last Run: 2026-08-03 17:58 UTC
+# Last Run: 2026-08-03 19:43 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] A Saudi-Emirati Thaw Can Help Contain Iran
@@ -40,24 +40,4 @@ Link: https://foreignpolicy.com/2026/07/31/spain-morocco-ceuta-migrant-crisis-sc
 [Foreign_Policy] Trump’s Biggest Challenge to American Democracy
 Published: 2026-07-31T19:47:02+00:00
 Link: https://foreignpolicy.com/2026/07/31/trump-us-democracy-politics-corruption/
----
-[Foreign_Policy] What Homer’s ‘Odyssey’ Tells Us About the Economics of the Bronze Age
-Published: 2026-07-31T19:30:09+00:00
-Link: https://foreignpolicy.com/2026/07/31/christopher-nolan-homer-odyssey-economics-bronze-age-adam-tooze/
----
-[Foreign_Policy] The Book That Predicted Pete Hegseth’s Failures
-Published: 2026-07-31T19:00:20+00:00
-Link: https://foreignpolicy.com/2026/07/31/hegseth-norman-dixon-iran-war/
----
-[Foreign_Policy] The Dreams of ‘Star Trek’ Aren’t Dead
-Published: 2026-07-31T18:40:41+00:00
-Link: https://foreignpolicy.com/2026/07/31/starfleet-academy-artemis-ii-discovery-star-trek/
----
-[Foreign_Policy] Resurrecting the Real Monroe Doctrine
-Published: 2026-07-31T18:20:15+00:00
-Link: https://foreignpolicy.com/2026/07/31/trump-monroe-doctrine-american-revolution-us-history/
----
-[Foreign_Policy] The Myth of African Heterosexual Purity
-Published: 2026-07-31T18:00:07+00:00
-Link: https://foreignpolicy.com/2026/07/31/pure-men-senegal-mohamed-sarr-homophobia-queer-africa-islam-religion/
 ---
