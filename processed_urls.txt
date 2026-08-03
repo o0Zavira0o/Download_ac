@@ -601,6 +601,8 @@ https://foreignpolicy.com/2026/07/31/starfleet-academy-artemis-ii-discovery-star
 https://foreignpolicy.com/2026/07/31/trump-monroe-doctrine-american-revolution-us-history/
 https://foreignpolicy.com/2026/07/31/trump-us-democracy-politics-corruption/
 https://foreignpolicy.com/2026/07/31/us-military-boat-strikes-latin-america-caribbean-deaths-cocaine-drug-trafficking/
+https://foreignpolicy.com/2026/08/03/cuban-refugees-trump-administration-deportation/
+https://foreignpolicy.com/2026/08/03/russia-labor-shortage-cure-disease/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/africa/can-renewables-industrialize-africa
 https://www.foreignaffairs.com/americas/trump-remaking-latin-america
@@ -612,6 +614,7 @@ https://www.foreignaffairs.com/china/chinas-ai-heist
 https://www.foreignaffairs.com/china/chinas-edifice-complex
 https://www.foreignaffairs.com/china/chinas-moment-weakness
 https://www.foreignaffairs.com/china/chinas-next-play-south-china-sea
+https://www.foreignaffairs.com/china/chinas-quiet-quest-dominate-latin-america
 https://www.foreignaffairs.com/china/coming-clash-between-china-and-europe
 https://www.foreignaffairs.com/china/coming-contest-asias-waterways
 https://www.foreignaffairs.com/china/coming-quantum-national-security-crisis
@@ -681,6 +684,7 @@ https://www.foreignaffairs.com/russia/how-europe-can-get-putins-attention
 https://www.foreignaffairs.com/russia/inertia-russias-war
 https://www.foreignaffairs.com/russia/next-russia-threat-michael-kofman
 https://www.foreignaffairs.com/russia/putin-will-turn-cease-fire-weapon
+https://www.foreignaffairs.com/saudi-arabia/looming-nuclear-crisis-gulf
 https://www.foreignaffairs.com/senegal/senegal-brink
 https://www.foreignaffairs.com/somalia/who-winning-africas-drone-wars
 https://www.foreignaffairs.com/southeast-asia/can-private-sector-save-vietnam

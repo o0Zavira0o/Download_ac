@@ -1,6 +1,22 @@
-# Last Run: 2026-08-03 02:55 UTC
+# Last Run: 2026-08-03 07:44 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Special Treatment for Cuban Refugees Is No More
+Published: 2026-08-03T04:01:56+00:00
+Link: https://foreignpolicy.com/2026/08/03/cuban-refugees-trump-administration-deportation/
+---
+[Foreign_Policy] The Cure for Russia’s Labor Shortage Is Worse Than the Disease
+Published: 2026-08-03T04:01:36+00:00
+Link: https://foreignpolicy.com/2026/08/03/russia-labor-shortage-cure-disease/
+---
+[Foreign_Affairs] China’s Quiet Quest to Dominate Latin America
+Published: 2026-08-03T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/chinas-quiet-quest-dominate-latin-america
+---
+[Foreign_Affairs] The Looming Nuclear Crisis in the Gulf
+Published: 2026-08-03T04:00:00+00:00
+Link: https://www.foreignaffairs.com/saudi-arabia/looming-nuclear-crisis-gulf
+---
 [New_Yorker_Magazine] The Failures of the Fauci Hearing
 Published: 2026-08-01T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/08/10/the-failures-of-the-fauci-hearing
@@ -60,12 +76,4 @@ Link: https://www.newyorker.com/magazine/2026/08/10/teenage-sex-and-death-at-cam
 [Foreign_Policy] Germany Is Much More Socially Conservative Than You Think
 Published: 2026-07-31T09:50:24+00:00
 Link: https://foreignpolicy.com/2026/07/31/germany-merz-spahn-scandal-conservative/
----
-[Foreign_Affairs] Why a Weaker Russia Keeps Fighting
-Published: 2026-07-31T04:00:00+00:00
-Link: https://www.foreignaffairs.com/ukraine/why-weaker-russia-keeps-fighting
----
-[Foreign_Affairs] The Ambiguity Spiral in Iran
-Published: 2026-07-31T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/ambiguity-spiral-iran
 ---
