@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
+_آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-03 09:50:09 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Schreckliche Deutsche Wörter: Brustwarze #easygerman #easygermanpodcast #deutschlernenonline](https://www.youtube.com/watch?v=0p2Ow2O6CMQ)  
+  ![](https://i.ytimg.com/vi/0p2Ow2O6CMQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-02 17:00:35 (UTC)  
+  **مدت:** حدود 14.8 دقیقه  
+  **عنوان:** [Why Do People Love Living in Hamburg ?](https://www.youtube.com/watch?v=703B19Uz7Fk)  
+  ![](https://i.ytimg.com/vi/703B19Uz7Fk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-01 17:13:50 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
   **مدت:** حدود 3.2 دقیقه  
   **عنوان:** [In the streets of Berlin | Super Easy German 2](https://www.youtube.com/watch?v=FR5pAGqYSnY)  
   ![](https://i.ytimg.com/vi/FR5pAGqYSnY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-23 22:21:30 (UTC)  
-  **مدت:** حدود 11.5 دقیقه  
-  **عنوان:** [Talking to Germans in Washington D.C. | Easy German 166](https://www.youtube.com/watch?v=fBTz3j-4Mwg)  
-  ![](https://i.ytimg.com/vi/fBTz3j-4Mwg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-21 16:49:59 (UTC)  
-  **مدت:** حدود 14.5 دقیقه  
-  **عنوان:** [Cari antwortet (35) - Spaß haben vs Spaß machen | Germany vs. USA | Wählen in den USA](https://www.youtube.com/watch?v=wJ-mXxuG1Qw)  
-  ![](https://i.ytimg.com/vi/wJ-mXxuG1Qw/hqdefault.jpg)

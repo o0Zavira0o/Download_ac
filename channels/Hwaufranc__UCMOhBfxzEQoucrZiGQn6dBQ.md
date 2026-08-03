@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
+_آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-02 13:20:31 (UTC)  
+  **مدت:** حدود 6.5 دقیقه  
+  **عنوان:** [ASMR Stamp on it💌 コラージュ 스탬프 다꾸 diy crafts](https://www.youtube.com/watch?v=h3MHZ53rMqk)  
+  ![](https://i.ytimg.com/vi/h3MHZ53rMqk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-01 13:00:16 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
   **مدت:** حدود 1.5 دقیقه  
   **عنوان:** [Creative Treasure Craft Box ASMR 🔮Museums✨️ #CoraCreaCrafts](https://www.youtube.com/watch?v=PtCuGuAWY_0)  
   ![](https://i.ytimg.com/vi/PtCuGuAWY_0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-20 13:10:00 (UTC)  
-  **مدت:** حدود 4.6 دقیقه  
-  **عنوان:** [ASMR Decorating Aesthetic Journal 2🪷 Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=uCh5dypFCww)  
-  ![](https://i.ytimg.com/vi/uCh5dypFCww/hqdefault.jpg)

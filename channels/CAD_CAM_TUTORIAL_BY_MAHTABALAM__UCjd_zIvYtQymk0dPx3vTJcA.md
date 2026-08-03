@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
+_آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-02 16:11:54 (UTC)  
+  **مدت:** حدود 49.9 دقیقه  
+  **عنوان:** [Engine Cover Modeling in SolidWorks](https://www.youtube.com/watch?v=4XBD8jM-7So)  
+  ![](https://i.ytimg.com/vi/4XBD8jM-7So/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-31 14:09:43 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
   **مدت:** حدود 27.6 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Water tank in Solidworks (Advanced Surfacing)](https://www.youtube.com/watch?v=XFP65b4RGag)  
   ![](https://i.ytimg.com/vi/XFP65b4RGag/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-11 01:56:42 (UTC)  
-  **مدت:** حدود 77.2 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Gear Speed Reducer in Solidworks](https://www.youtube.com/watch?v=Xook6U7amlM)  
-  ![](https://i.ytimg.com/vi/Xook6U7amlM/hqdefault.jpg)

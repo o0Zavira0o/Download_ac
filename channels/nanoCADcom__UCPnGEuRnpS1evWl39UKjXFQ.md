@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
+_آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-08-02 21:00:04 (UTC)  
+  **مدت:** حدود 10.2 دقیقه  
+  **عنوان:** [nanoCAD Materials & Textures: Realistic Visual Style for Your Model - nanoCAD 3D Modeling- Lesson 15](https://www.youtube.com/watch?v=eAsP-iT9l5Y)  
+  ![](https://i.ytimg.com/vi/eAsP-iT9l5Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-27 21:00:08 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
   **مدت:** حدود 5.1 دقیقه  
   **عنوان:** [Drawing Splines - Lesson 11](https://www.youtube.com/watch?v=QgahiNebsk4)  
   ![](https://i.ytimg.com/vi/QgahiNebsk4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2019-12-24 11:38:11 (UTC)  
-  **مدت:** حدود 4.7 دقیقه  
-  **عنوان:** [Placing Hatch Patterns and Gradient Fills - Lesson 10](https://www.youtube.com/watch?v=LsSk1S6BLok)  
-  ![](https://i.ytimg.com/vi/LsSk1S6BLok/hqdefault.jpg)

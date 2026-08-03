@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
+_آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
@@ -26,7 +26,7 @@ _آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
 
 - **تاریخ انتشار:** 2026-07-17 02:44:58 (UTC)  
   **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Lofted Boss Base Vs Shell Command in Solidworks](https://www.youtube.com/watch?v=eahM8L7th_g)  
+  **عنوان:** [✅Lofted Boss Base Vs Shell Command in Solidworks](https://www.youtube.com/watch?v=eahM8L7th_g)  
   ![](https://i.ytimg.com/vi/eahM8L7th_g/hqdefault.jpg)
 
 

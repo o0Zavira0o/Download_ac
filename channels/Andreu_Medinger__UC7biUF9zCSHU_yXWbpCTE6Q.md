@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
+_آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-08-02 22:02:37 (UTC)  
+  **مدت:** حدود 1.6 دقیقه  
+  **عنوان:** [PENSE NO FUTURO DOS SEUS FILHOS #impressao3d #impressora3d #educacao #criatividade #tecnologia](https://www.youtube.com/watch?v=rdJO-dFx9-g)  
+  ![](https://i.ytimg.com/vi/rdJO-dFx9-g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-28 22:30:37 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-02T10:45:25Z_
   **مدت:** حدود 30.1 دقیقه  
   **عنوان:** [AULA 24 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=qHsz8HNYUXc)  
   ![](https://i.ytimg.com/vi/qHsz8HNYUXc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-01-14 23:16:28 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Se Inscreva para receber mais conteúdos sobre metalmecânica. #engenhariamecanica #solidworks #steel](https://www.youtube.com/watch?v=ypGa--OzIMY)  
-  ![](https://i.ytimg.com/vi/ypGa--OzIMY/hqdefault.jpg)
