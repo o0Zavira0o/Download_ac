@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
+_آخرین به‌روزرسانی: 2026-08-04T11:29:57Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-08-03 15:59:59 (UTC)  
+  **مدت:** حدود 11.3 دقیقه  
+  **عنوان:** [Ep.26 Feed Synchronization Test / Printing Optimization Trial Mix No.1](https://www.youtube.com/watch?v=i1aRBgGLfHM)  
+  ![](https://i.ytimg.com/vi/i1aRBgGLfHM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-24 15:50:24 (UTC)  

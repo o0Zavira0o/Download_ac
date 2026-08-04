@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
+_آخرین به‌روزرسانی: 2026-08-04T11:29:57Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-08-04 02:41:22 (UTC)  
+  **مدت:** حدود 21.5 دقیقه  
+  **عنوان:** [Design of Crane Hook in Solidworks | Light duty hook | Solidworks tutorial](https://www.youtube.com/watch?v=CidlwDgPT60)  
+  ![](https://i.ytimg.com/vi/CidlwDgPT60/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-02 09:24:37 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
   **مدت:** حدود 19.6 دقیقه  
   **عنوان:** [Design of Cultivator in Solidworks  Part1 | Solidworks tutorial](https://www.youtube.com/watch?v=N--Y_LpB5tg)  
   ![](https://i.ytimg.com/vi/N--Y_LpB5tg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-08 10:24:21 (UTC)  
-  **مدت:** حدود 1.3 دقیقه  
-  **عنوان:** [Shortcut tips for hide unhide parts in solidworks assembly 😃 #shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=78oIbhjPci8)  
-  ![](https://i.ytimg.com/vi/78oIbhjPci8/hqdefault.jpg)

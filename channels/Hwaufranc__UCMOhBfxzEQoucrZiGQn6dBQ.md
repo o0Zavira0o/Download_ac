@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
+_آخرین به‌روزرسانی: 2026-08-04T11:29:57Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-03 13:00:30 (UTC)  
+  **مدت:** حدود 10.1 دقیقه  
+  **عنوان:** [ASMR 인어공주 테마 다이어리 꾸미기🌊 다꾸 Art Journaling diy꾸미기 コラージュ](https://www.youtube.com/watch?v=Np81MVl_emI)  
+  ![](https://i.ytimg.com/vi/Np81MVl_emI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-02 13:20:31 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [How to Decorate Canva Bag 👜⚘️ #diy #craft #diycraft #shorts #asmr](https://www.youtube.com/watch?v=0uNQGwk3zBQ)  
   ![](https://i.ytimg.com/vi/0uNQGwk3zBQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-21 11:55:00 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Creative Treasure Craft Box ASMR 🔮Museums✨️ #CoraCreaCrafts](https://www.youtube.com/watch?v=PtCuGuAWY_0)  
-  ![](https://i.ytimg.com/vi/PtCuGuAWY_0/hqdefault.jpg)

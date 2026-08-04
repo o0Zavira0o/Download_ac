@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
+_آخرین به‌روزرسانی: 2026-08-04T11:29:57Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -1196,7 +1196,7 @@ _آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
 
 - **تاریخ انتشار:** 2026-01-07 18:00:43 (UTC)  
   **مدت:** حدود 15.6 دقیقه  
-  **عنوان:** [Speaking Slow German in the Supermarket](https://www.youtube.com/watch?v=W9coIzRQGh4)  
+  **عنوان:** [Learn German with Us at the Supermarket (for Advanced Beginners)](https://www.youtube.com/watch?v=W9coIzRQGh4)  
   ![](https://i.ytimg.com/vi/W9coIzRQGh4/hqdefault.jpg)
 
 
@@ -1814,7 +1814,7 @@ _آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
 
 - **تاریخ انتشار:** 2025-09-17 17:00:31 (UTC)  
   **مدت:** حدود 15.6 دقیقه  
-  **عنوان:** [Supermarket in Slow German | Super Easy German 288](https://www.youtube.com/watch?v=D91icSuPYQ4)  
+  **عنوان:** [Supermarket in Slow German (for Beginners)](https://www.youtube.com/watch?v=D91icSuPYQ4)  
   ![](https://i.ytimg.com/vi/D91icSuPYQ4/hqdefault.jpg)
 
 

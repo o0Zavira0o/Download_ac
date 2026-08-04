@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
+_آخرین به‌روزرسانی: 2026-08-04T11:29:57Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-04 03:30:06 (UTC)  
+  **مدت:** حدود 11.3 دقیقه  
+  **عنوان:** [earphone Modeling SolidWorks Surface Loft Feature](https://www.youtube.com/watch?v=yhqzPNp_-hw)  
+  ![](https://i.ytimg.com/vi/yhqzPNp_-hw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-02 16:11:54 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-03T12:32:29Z_
   **مدت:** حدود 33.8 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch jet Engine in Solidworks](https://www.youtube.com/watch?v=Y1XXcE7JjDY)  
   ![](https://i.ytimg.com/vi/Y1XXcE7JjDY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-12 22:05:03 (UTC)  
-  **مدت:** حدود 27.6 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Water tank in Solidworks (Advanced Surfacing)](https://www.youtube.com/watch?v=XFP65b4RGag)  
-  ![](https://i.ytimg.com/vi/XFP65b4RGag/hqdefault.jpg)
