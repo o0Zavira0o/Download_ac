@@ -1,6 +1,18 @@
-# Last Run: 2026-08-04 10:45 UTC
+# Last Run: 2026-08-04 14:17 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] America’s Cosmic Bet on AI
+Published: 2026-08-04T13:50:16+00:00
+Link: https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/
+---
+[Foreign_Policy] What Remains of Rojava
+Published: 2026-08-04T11:46:23+00:00
+Link: https://foreignpolicy.com/2026/08/04/rojava-syria-kurds-ypg-sdf-damascus-kobani-isis-integration/
+---
+[Foreign_Policy] The Architecture of Israel’s Genocide in Gaza
+Published: 2026-08-04T10:00:49+00:00
+Link: https://foreignpolicy.com/2026/08/04/gaza-palestinian-genocide-israel-book/
+---
 [Foreign_Affairs] The New Forever Wars
 Published: 2026-08-04T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/new-forever-wars
