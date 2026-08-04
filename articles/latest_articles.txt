@@ -1,6 +1,18 @@
-# Last Run: 2026-08-03 23:07 UTC
+# Last Run: 2026-08-04 02:39 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Iran Denies Peace Talks After the United States Cancels Military Strikes
+Published: 2026-08-03T21:22:00+00:00
+Link: https://foreignpolicy.com/2026/08/03/us-iran-war-peace-talks-trump-empty-threats-strikes-oman/
+---
+[Foreign_Policy] A Patchwork Approach to AI Regulation Is Best—for Now
+Published: 2026-08-03T21:10:46+00:00
+Link: https://foreignpolicy.com/2026/08/03/artificial-intelligence-ai-regulation-safety-california-new-york-pope-leo/
+---
+[Foreign_Policy] China’s Quiet Bet on Methanol Is Paying Off
+Published: 2026-08-03T20:59:14+00:00
+Link: https://foreignpolicy.com/2026/08/03/ford-china-methanol-energy-electric-vehicles/
+---
 [Foreign_Policy] A Saudi-Emirati Thaw Can Help Contain Iran
 Published: 2026-08-03T14:04:36+00:00
 Link: https://foreignpolicy.com/2026/08/03/saudi-arabia-emirates-iran-israel-uae-missile-defense-sanctions-hormuz/
