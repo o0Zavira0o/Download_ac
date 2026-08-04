@@ -1,6 +1,14 @@
-# Last Run: 2026-08-04 02:39 UTC
+# Last Run: 2026-08-04 06:32 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The New Forever Wars
+Published: 2026-08-04T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/new-forever-wars
+---
+[Foreign_Affairs] The War China Might Choose
+Published: 2026-08-04T04:00:00+00:00
+Link: https://www.foreignaffairs.com/taiwan/war-china-might-choose
+---
 [Foreign_Policy] Iran Denies Peace Talks After the United States Cancels Military Strikes
 Published: 2026-08-03T21:22:00+00:00
 Link: https://foreignpolicy.com/2026/08/03/us-iran-war-peace-talks-trump-empty-threats-strikes-oman/
