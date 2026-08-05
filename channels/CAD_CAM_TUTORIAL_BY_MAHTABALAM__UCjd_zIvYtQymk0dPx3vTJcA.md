@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-04T11:29:57Z_
+_آخرین به‌روزرسانی: 2026-08-05T11:25:33Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-05 06:30:23 (UTC)  
+  **مدت:** حدود 17.8 دقیقه  
+  **عنوان:** [Art vase Modeling with import Sketch Picture in SolidWorks](https://www.youtube.com/watch?v=Gpkvrg4BDlQ)  
+  ![](https://i.ytimg.com/vi/Gpkvrg4BDlQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-04 03:30:06 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-04T11:29:57Z_
   **مدت:** حدود 11.0 دقیقه  
   **عنوان:** [Solidworks tutorial | Pinion & Gear (Motion Study)](https://www.youtube.com/watch?v=gRvzGRos2UI)  
   ![](https://i.ytimg.com/vi/gRvzGRos2UI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-13 18:30:34 (UTC)  
-  **مدت:** حدود 33.8 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch jet Engine in Solidworks](https://www.youtube.com/watch?v=Y1XXcE7JjDY)  
-  ![](https://i.ytimg.com/vi/Y1XXcE7JjDY/hqdefault.jpg)

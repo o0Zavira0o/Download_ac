@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-04T11:29:57Z_
+_آخرین به‌روزرسانی: 2026-08-05T11:25:33Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-04 13:47:01 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Was ist Freundschaft? #easygerman #deutschlernen #friendship](https://www.youtube.com/watch?v=tKep9HGw6C4)  
+  ![](https://i.ytimg.com/vi/tKep9HGw6C4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-03 09:50:09 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-04T11:29:57Z_
   **مدت:** حدود 16.7 دقیقه  
   **عنوان:** [Cari antwortet (36) - Januszs Erfahrungen in Deutschland | Wir suchen Dates für Isi und Ben](https://www.youtube.com/watch?v=vZhiwBHVNPU)  
   ![](https://i.ytimg.com/vi/vZhiwBHVNPU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-26 22:37:37 (UTC)  
-  **مدت:** حدود 3.2 دقیقه  
-  **عنوان:** [In the streets of Berlin | Super Easy German 2](https://www.youtube.com/watch?v=FR5pAGqYSnY)  
-  ![](https://i.ytimg.com/vi/FR5pAGqYSnY/hqdefault.jpg)

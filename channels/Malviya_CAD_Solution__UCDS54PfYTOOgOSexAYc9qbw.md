@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-08-04T11:29:57Z_
+_آخرین به‌روزرسانی: 2026-08-05T11:25:33Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-08-04 17:01:10 (UTC)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Light duty Hook in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=eksR6VLcKZ4)  
+  ![](https://i.ytimg.com/vi/eksR6VLcKZ4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-04 02:41:22 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-04T11:29:57Z_
   **مدت:** حدود 7.4 دقیقه  
   **عنوان:** [Design of Cultivator in Solidworks  Part2 | Solidworks tutorial](https://www.youtube.com/watch?v=2jxWvLsF1ks)  
   ![](https://i.ytimg.com/vi/2jxWvLsF1ks/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-09 03:22:24 (UTC)  
-  **مدت:** حدود 19.6 دقیقه  
-  **عنوان:** [Design of Cultivator in Solidworks  Part1 | Solidworks tutorial](https://www.youtube.com/watch?v=N--Y_LpB5tg)  
-  ![](https://i.ytimg.com/vi/N--Y_LpB5tg/hqdefault.jpg)
