@@ -1,6 +1,22 @@
-# Last Run: 2026-08-04 23:09 UTC
+# Last Run: 2026-08-05 06:35 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] El Niño Bakes Southeast Asia
+Published: 2026-08-05T05:00:52+00:00
+Link: https://foreignpolicy.com/2026/08/05/el-nino-southeast-asia-rice-production/
+---
+[Foreign_Affairs] How the Axis of Resistance Recovered
+Published: 2026-08-05T04:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/how-axis-resistance-recovered
+---
+[Foreign_Affairs] The Right Way to Balance Trade
+Published: 2026-08-05T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/right-way-balance-trade
+---
+[Foreign_Affairs] America’s Superintelligence Dilemma
+Published: 2026-08-05T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/americas-superintelligence-dilemma
+---
 [Foreign_Policy] Ranking the World’s Top 5 Chokepoints
 Published: 2026-08-04T21:29:46+00:00
 Link: https://foreignpolicy.com/2026/08/04/edward-fishman-global-economic-chokepoints-united-states-china-iran-hormuz-tariffs/

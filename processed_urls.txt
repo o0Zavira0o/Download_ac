@@ -617,6 +617,7 @@ https://foreignpolicy.com/2026/08/04/iran-us-indirect-peace-talks-qatar-oman-str
 https://foreignpolicy.com/2026/08/04/rojava-syria-kurds-ypg-sdf-damascus-kobani-isis-integration/
 https://foreignpolicy.com/2026/08/04/trump-seabed-mining-critical-minerals/
 https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/
+https://foreignpolicy.com/2026/08/05/el-nino-southeast-asia-rice-production/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/africa/can-renewables-industrialize-africa
 https://www.foreignaffairs.com/americas/trump-remaking-latin-america
@@ -664,6 +665,7 @@ https://www.foreignaffairs.com/hungary/how-beat-autocrat
 https://www.foreignaffairs.com/hungary/orbans-fall-and-europes-rise
 https://www.foreignaffairs.com/india/why-next-india-pakistan-war-will-escalate
 https://www.foreignaffairs.com/iran/hidden-path-regime-change-iran
+https://www.foreignaffairs.com/iran/how-axis-resistance-recovered
 https://www.foreignaffairs.com/iran/how-war-saved-iranian-regime
 https://www.foreignaffairs.com/iran/iran-and-hidden-cost-wartime-access
 https://www.foreignaffairs.com/iran/iran-cease-fire-was-doomed-fail
@@ -718,6 +720,7 @@ https://www.foreignaffairs.com/united-states/ambiguity-spiral-iran
 https://www.foreignaffairs.com/united-states/america-and-irans-strange-moment-opportunity
 https://www.foreignaffairs.com/united-states/america-still-has-upper-hand-over-china
 https://www.foreignaffairs.com/united-states/american-militarys-coming-marathon
+https://www.foreignaffairs.com/united-states/americas-superintelligence-dilemma
 https://www.foreignaffairs.com/united-states/americas-surprising-energy-advantage
 https://www.foreignaffairs.com/united-states/americas-trillion-dollar-failure-ro-khanna
 https://www.foreignaffairs.com/united-states/autocrats-worst-enemy
@@ -752,6 +755,7 @@ https://www.foreignaffairs.com/united-states/new-resource-curse
 https://www.foreignaffairs.com/united-states/not-so-quiet-american-pope-leo
 https://www.foreignaffairs.com/united-states/not-world-russia-wants
 https://www.foreignaffairs.com/united-states/only-congress-can-fix-american-trade
+https://www.foreignaffairs.com/united-states/right-way-balance-trade
 https://www.foreignaffairs.com/united-states/right-way-europe-spend-more-defense
 https://www.foreignaffairs.com/united-states/small-suffer-what-they-must
 https://www.foreignaffairs.com/united-states/strong-do-what-they-can-and-suffer-what-they-must
