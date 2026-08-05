@@ -1,4 +1,4 @@
-# Last Run: 2026-08-05 06:35 UTC
+# Last Run: 2026-08-05 10:53 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] El Niño Bakes Southeast Asia
@@ -152,8 +152,4 @@ Link: https://www.foreignaffairs.com/china/chinas-quiet-quest-dominate-latin-ame
 [Foreign_Affairs] The Looming Nuclear Crisis in the Gulf
 Published: 2026-08-03T04:00:00+00:00
 Link: https://www.foreignaffairs.com/saudi-arabia/looming-nuclear-crisis-gulf
----
-[New_Yorker_Magazine] “The Promise,” by Rachel Yoder
-Published: 2026-08-02T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/the-promise-fiction-rachel-yoder
 ---
