@@ -1,6 +1,14 @@
-# Last Run: 2026-08-06 02:41 UTC
+# Last Run: 2026-08-06 06:38 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] Why We Should Fight
+Published: 2026-08-06T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/why-we-should-fight-kori-schake
+---
+[Foreign_Affairs] America Must Let Go of the Middle East
+Published: 2026-08-06T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/america-must-let-go-middle-east
+---
 [Foreign_Policy] Ukraine’s Deadly Missile Defense Shortage
 Published: 2026-08-05T20:30:32+00:00
 Link: https://foreignpolicy.com/2026/08/05/ukraine-patriot-missile-interceptor-shortage-russia-war-zelensky-us-trump-nato/
@@ -164,20 +172,4 @@ Link: https://www.newyorker.com/magazine/2026/08/10/robb-moss-is-still-going-wit
 [New_Yorker_Magazine] Extra! Extra! Read All About It . . . Again
 Published: 2026-08-03T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/08/10/extra-extra-read-all-about-it-again
----
-[Foreign_Policy] Special Treatment for Cuban Refugees Is No More
-Published: 2026-08-03T04:01:56+00:00
-Link: https://foreignpolicy.com/2026/08/03/cuban-refugees-trump-administration-deportation/
----
-[Foreign_Policy] The Cure for Russia’s Labor Shortage Is Worse Than the Disease
-Published: 2026-08-03T04:01:36+00:00
-Link: https://foreignpolicy.com/2026/08/03/russia-labor-shortage-cure-disease/
----
-[Foreign_Affairs] China’s Quiet Quest to Dominate Latin America
-Published: 2026-08-03T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/chinas-quiet-quest-dominate-latin-america
----
-[Foreign_Affairs] The Looming Nuclear Crisis in the Gulf
-Published: 2026-08-03T04:00:00+00:00
-Link: https://www.foreignaffairs.com/saudi-arabia/looming-nuclear-crisis-gulf
 ---
