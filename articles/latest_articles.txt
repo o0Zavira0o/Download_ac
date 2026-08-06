@@ -1,6 +1,10 @@
-# Last Run: 2026-08-06 06:38 UTC
+# Last Run: 2026-08-06 14:18 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Hamas Agreed to Disarm. Why Did Israel Reject the Deal?
+Published: 2026-08-06T12:58:02+00:00
+Link: https://foreignpolicy.com/2026/08/06/hamas-disarmament-deal-netanyahu-israel-gaza/
+---
 [Foreign_Affairs] Why We Should Fight
 Published: 2026-08-06T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/why-we-should-fight-kori-schake
@@ -108,68 +112,4 @@ Link: https://foreignpolicy.com/2026/08/03/artificial-intelligence-ai-regulation
 [Foreign_Policy] China’s Quiet Bet on Methanol Is Paying Off
 Published: 2026-08-03T20:59:14+00:00
 Link: https://foreignpolicy.com/2026/08/03/ford-china-methanol-energy-electric-vehicles/
----
-[Foreign_Policy] A Saudi-Emirati Thaw Can Help Contain Iran
-Published: 2026-08-03T14:04:36+00:00
-Link: https://foreignpolicy.com/2026/08/03/saudi-arabia-emirates-iran-israel-uae-missile-defense-sanctions-hormuz/
----
-[Foreign_Policy] Europe’s Dangerous Hesitation on Its Own Air Defense
-Published: 2026-08-03T11:31:04+00:00
-Link: https://foreignpolicy.com/2026/08/03/nato-europe-russia-missiles-air-defense-ukraine-patriots/
----
-[New_Yorker_Magazine] How Golden Is Silence, Actually?
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review
----
-[New_Yorker_Magazine] The Man Who Was Kidnapped Twice
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/the-man-who-was-kidnapped-twice
----
-[New_Yorker_Magazine] “wasps,” by Jan Wagner
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/wasps-jan-wagner-poem
----
-[New_Yorker_Magazine] The American Art of Blowing Stuff Up
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/the-american-art-of-blowing-stuff-up
----
-[New_Yorker_Magazine] Eric Wareheim, Plant Dad
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/eric-wareheim-plant-dad
----
-[New_Yorker_Magazine] Battle of the Dans
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/battle-of-the-dans
----
-[New_Yorker_Magazine] The Future, Made in China
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/the-future-made-in-china
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/daylight-come-scavenging-beauty-dooneen-queen-mab
----
-[New_Yorker_Magazine] Shouts & Murmurs by Larry Doyle: Freelance Headlines Stupid Onion Editor Rejected
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/freelance-headlines-stupid-onion-editor-rejected
----
-[New_Yorker_Magazine] “Enjambment,” by Megan Fernandes
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/enjambment-megan-fernandes-poem
----
-[New_Yorker_Magazine] How Roy Cohn Taught Donald Trump Everything
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/roy-cohn-profile
----
-[New_Yorker_Magazine] “I Who Have Never Known Men” and “We Were Forbidden,” Reviewed
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/i-who-have-never-known-men-katy-waldman-book-review-we-were-forbidden
----
-[New_Yorker_Magazine] Robb Moss Is Still Going with the Flow
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/robb-moss-is-still-going-with-the-flow
----
-[New_Yorker_Magazine] Extra! Extra! Read All About It . . . Again
-Published: 2026-08-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/10/extra-extra-read-all-about-it-again
 ---
