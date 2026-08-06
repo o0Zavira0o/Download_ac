@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-05T11:25:33Z_
+_آخرین به‌روزرسانی: 2026-08-06T11:28:59Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-05 14:15:07 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [ASMR 스탬프다꾸🍮Stamp on it  コラージュ #diy #stamp #asmr](https://www.youtube.com/watch?v=WNdQbLzYAQs)  
+  ![](https://i.ytimg.com/vi/WNdQbLzYAQs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-05 13:00:08 (UTC)  
+  **مدت:** حدود 16.6 دقیقه  
+  **عنوان:** [ASMR 즐거움가득 1분다꾸 몰아보기✨️ Scrapbook diy꾸미기](https://www.youtube.com/watch?v=fog4C_wtFdw)  
+  ![](https://i.ytimg.com/vi/fog4C_wtFdw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-04 13:00:18 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-05T11:25:33Z_
   **مدت:** حدود 8.3 دقیقه  
   **عنوان:** [ASMR Decorating Gothic Journal 💀 Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=GseW2kLz3PY)  
   ![](https://i.ytimg.com/vi/GseW2kLz3PY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-24 14:21:00 (UTC)  
-  **مدت:** حدود 10.3 دقیقه  
-  **عنوان:** [Vintage Gothic Journal Supplies Unboxing 🔮향몽점빵🔮 Journaling Scrapbooking Haul ASMR](https://www.youtube.com/watch?v=ArkCZhe9nz4)  
-  ![](https://i.ytimg.com/vi/ArkCZhe9nz4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-23 11:10:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Scrapbooking ASMR 🪷 #journal #aesthetic #scrapbooking #asmr #craft](https://www.youtube.com/watch?v=SaM96-5eD20)  
-  ![](https://i.ytimg.com/vi/SaM96-5eD20/hqdefault.jpg)

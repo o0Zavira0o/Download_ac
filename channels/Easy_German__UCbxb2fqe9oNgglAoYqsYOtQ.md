@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-05T11:25:33Z_
+_آخرین به‌روزرسانی: 2026-08-06T11:28:59Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-06 08:44:25 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Was machst du am Wochenende?#shorts #easygerman #wochenende](https://www.youtube.com/watch?v=PHb5-SYdQHk)  
+  ![](https://i.ytimg.com/vi/PHb5-SYdQHk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-05 17:00:36 (UTC)  
+  **مدت:** حدود 24.2 دقیقه  
+  **عنوان:** [What a German B1 (Telc) Exam Actually Looks Like](https://www.youtube.com/watch?v=QMCvJyOu2G8)  
+  ![](https://i.ytimg.com/vi/QMCvJyOu2G8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-04 13:47:01 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-05T11:25:33Z_
   **مدت:** حدود 5.5 دقیقه  
   **عنوان:** [Sports in Slow German](https://www.youtube.com/watch?v=hxGSArgzNN8)  
   ![](https://i.ytimg.com/vi/hxGSArgzNN8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-30 19:50:11 (UTC)  
-  **مدت:** حدود 13.8 دقیقه  
-  **عنوان:** [Differences between the USA and Germany (Road trip) | Easy German 167](https://www.youtube.com/watch?v=cOGeqe1lsV8)  
-  ![](https://i.ytimg.com/vi/cOGeqe1lsV8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-10-28 21:33:27 (UTC)  
-  **مدت:** حدود 16.7 دقیقه  
-  **عنوان:** [Cari antwortet (36) - Januszs Erfahrungen in Deutschland | Wir suchen Dates für Isi und Ben](https://www.youtube.com/watch?v=vZhiwBHVNPU)  
-  ![](https://i.ytimg.com/vi/vZhiwBHVNPU/hqdefault.jpg)

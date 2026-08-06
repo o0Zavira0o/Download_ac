@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-08-05T11:25:33Z_
+_آخرین به‌روزرسانی: 2026-08-06T11:28:59Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-08-06 03:11:16 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [How to extend face in solidworks sheetmetal #shorts #ytshorts #malviyacadsolution #solidworks](https://www.youtube.com/watch?v=J9olC0fnuL8)  
+  ![](https://i.ytimg.com/vi/J9olC0fnuL8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-04 17:01:10 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-05T11:25:33Z_
   **مدت:** حدود 8.8 دقیقه  
   **عنوان:** [Solidworks Cultivator tutorial | Cultivator Part3](https://www.youtube.com/watch?v=gFhQNtzywmI)  
   ![](https://i.ytimg.com/vi/gFhQNtzywmI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-09 15:19:39 (UTC)  
-  **مدت:** حدود 7.4 دقیقه  
-  **عنوان:** [Design of Cultivator in Solidworks  Part2 | Solidworks tutorial](https://www.youtube.com/watch?v=2jxWvLsF1ks)  
-  ![](https://i.ytimg.com/vi/2jxWvLsF1ks/hqdefault.jpg)
