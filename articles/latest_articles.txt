@@ -1,4 +1,4 @@
-# Last Run: 2026-08-07 09:07 UTC
+# Last Run: 2026-08-07 10:57 UTC
 # Articles published in last 72 hours
 
 [Foreign_Affairs] After Putin
@@ -124,8 +124,4 @@ Link: https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence
 [Foreign_Policy] What Remains of Rojava
 Published: 2026-08-04T11:46:23+00:00
 Link: https://foreignpolicy.com/2026/08/04/rojava-syria-kurds-ypg-sdf-damascus-kobani-isis-integration/
----
-[Foreign_Policy] The Architecture of Israel’s Genocide in Gaza
-Published: 2026-08-04T10:00:49+00:00
-Link: https://foreignpolicy.com/2026/08/04/gaza-palestinian-genocide-israel-book/
 ---
