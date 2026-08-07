@@ -1,4 +1,34 @@
 ================================================================================
+2026-08-07 19:17:56 (Asia/Tehran) | IrGens
+Title  : Azure Virtual Machine Operations and Lifecycle
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 51m | 419 MB
+Link   : http://zavat.pw/ebooks/azure-vm-operations-lifecycle.html
+
+================================================================================
+2026-08-07 19:17:56 (Asia/Tehran) | IrGens
+Title  : Creating Dynamic Data Stories
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h | 159 MB
+Link   : http://zavat.pw/ebooks/data-stories-creating-dynamic.html
+
+================================================================================
+2026-08-07 19:17:56 (Asia/Tehran) | IrGens
+Title  : Correlation and Relationships in Data
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 36m | 271 MB
+Link   : http://zavat.pw/ebooks/correlation-relationships-data.html
+
+================================================================================
+2026-08-07 19:17:56 (Asia/Tehran) | IrGens
+Title  : GH-300: GitHub Copilot: Applying Prompt Engineering and Context Crafting
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 9m | 255 MB
+Link   : http://zavat.pw/ebooks/gh-300-github-copilot-applying-prompt-engineering-context-crafting.html
+
+================================================================================
+2026-08-07 19:17:56 (Asia/Tehran) | IrGens
+Title  : Foundations of Small Language Model Engineering
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 1h 37m | 785 MB
+Link   : http://zavat.pw/ebooks/foundations-small-language-model-engineering.html
+
+================================================================================
 2026-08-07 18:17:19 (Asia/Tehran) | IrGens
 Title  : Scaling AI in Business Operations: Building the Strategy
 Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 35m | 338 MB
