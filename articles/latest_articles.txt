@@ -1,4 +1,4 @@
-# Last Run: 2026-08-07 19:12 UTC
+# Last Run: 2026-08-07 20:46 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Straits Are Not OK
@@ -120,12 +120,4 @@ Link: https://foreignpolicy.com/2026/08/04/edward-fishman-global-economic-chokep
 [Foreign_Policy] China Launches New Crackdown on Organized Crime
 Published: 2026-08-04T21:06:05+00:00
 Link: https://foreignpolicy.com/2026/08/04/china-crime-illegal-mining-sand-industry-crackdown/
----
-[Foreign_Policy] Iran’s ‘Last Chance’ for Peace Talks
-Published: 2026-08-04T20:39:48+00:00
-Link: https://foreignpolicy.com/2026/08/04/iran-us-indirect-peace-talks-qatar-oman-strait-hormuz-trump/
----
-[Foreign_Policy] Will Trump Destroy the Deep Oceans?
-Published: 2026-08-04T19:49:17+00:00
-Link: https://foreignpolicy.com/2026/08/04/trump-seabed-mining-critical-minerals/
 ---
