@@ -1,4 +1,4 @@
-# Last Run: 2026-08-07 15:01 UTC
+# Last Run: 2026-08-07 17:00 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Latin America’s Second Pink Tide Recedes
@@ -116,8 +116,4 @@ Link: https://foreignpolicy.com/2026/08/04/iran-us-indirect-peace-talks-qatar-om
 [Foreign_Policy] Will Trump Destroy the Deep Oceans?
 Published: 2026-08-04T19:49:17+00:00
 Link: https://foreignpolicy.com/2026/08/04/trump-seabed-mining-critical-minerals/
----
-[Foreign_Policy] India’s Political Atmosphere Has Changed
-Published: 2026-08-04T15:56:26+00:00
-Link: https://foreignpolicy.com/2026/08/04/india-cockroach-protests-modi-politics-change/
 ---
