@@ -1,6 +1,14 @@
-# Last Run: 2026-08-07 10:57 UTC
+# Last Run: 2026-08-07 13:12 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Latin America’s Second Pink Tide Recedes
+Published: 2026-08-07T12:00:51+00:00
+Link: https://foreignpolicy.com/2026/08/07/latin-america-second-pink-tide-legacy-left-wing-leaders/
+---
+[Foreign_Affairs] China's Legal Weapon
+Published: 2026-08-07T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/chinas-legal-weapon
+---
 [Foreign_Affairs] After Putin
 Published: 2026-08-07T04:00:00+00:00
 Link: https://www.foreignaffairs.com/russia/after-putin
@@ -120,8 +128,4 @@ Link: https://foreignpolicy.com/2026/08/04/indonesia-corruption-nadiem-makari-in
 [Foreign_Policy] America’s Cosmic Bet on AI
 Published: 2026-08-04T13:50:16+00:00
 Link: https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/
----
-[Foreign_Policy] What Remains of Rojava
-Published: 2026-08-04T11:46:23+00:00
-Link: https://foreignpolicy.com/2026/08/04/rojava-syria-kurds-ypg-sdf-damascus-kobani-isis-integration/
 ---
