@@ -1,9 +1,21 @@
-# Last Run: 2026-08-07 20:46 UTC
+# Last Run: 2026-08-07 22:41 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Middle East Tries Its Hand at a NATO-Style Pact
+Published: 2026-08-07T19:45:31+00:00
+Link: https://foreignpolicy.com/2026/08/07/pakistan-saudi-arabia-turkey-mutual-defense-pact-iran-israel-military/
+---
+[Foreign_Policy] Why China’s Elites Still Want to Leave
+Published: 2026-08-07T19:03:43+00:00
+Link: https://foreignpolicy.com/2026/08/07/china-callousness-society-culture-communist-party/
+---
 [Foreign_Policy] The Straits Are Not OK
 Published: 2026-08-07T18:40:25+00:00
 Link: https://foreignpolicy.com/2026/08/07/history-hormuz-straits-iran-war-trump/
+---
+[Foreign_Policy] There’s No Going Back
+Published: 2026-08-07T18:20:08+00:00
+Link: https://foreignpolicy.com/2026/08/07/thomas-wright-inflection-point-book-review-us-foreign-policy-trump-biden/
 ---
 [Foreign_Policy] There’s No Going Back
 Published: 2026-08-07T18:20:08+00:00
@@ -112,12 +124,4 @@ Link: https://www.foreignaffairs.com/united-states/right-way-balance-trade
 [Foreign_Affairs] America’s Superintelligence Dilemma
 Published: 2026-08-05T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/americas-superintelligence-dilemma
----
-[Foreign_Policy] Ranking the World’s Top 5 Chokepoints
-Published: 2026-08-04T21:29:46+00:00
-Link: https://foreignpolicy.com/2026/08/04/edward-fishman-global-economic-chokepoints-united-states-china-iran-hormuz-tariffs/
----
-[Foreign_Policy] China Launches New Crackdown on Organized Crime
-Published: 2026-08-04T21:06:05+00:00
-Link: https://foreignpolicy.com/2026/08/04/china-crime-illegal-mining-sand-industry-crackdown/
 ---
