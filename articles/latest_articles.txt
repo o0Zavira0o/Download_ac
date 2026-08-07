@@ -1,6 +1,14 @@
-# Last Run: 2026-08-07 00:06 UTC
+# Last Run: 2026-08-07 04:30 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] After Putin
+Published: 2026-08-07T04:00:00+00:00
+Link: https://www.foreignaffairs.com/russia/after-putin
+---
+[Foreign_Affairs] The Chinese Way of Lawfare
+Published: 2026-08-07T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/chinese-way-lawfare
+---
 [Foreign_Policy] Is Iran Winning the Battle Over the Strait of Hormuz?
 Published: 2026-08-06T21:22:55+00:00
 Link: https://foreignpolicy.com/2026/08/06/us-iran-reopen-strait-hormuz-deal-tolls-oman-trump-missiles/
@@ -120,12 +128,4 @@ Link: https://foreignpolicy.com/2026/08/04/rojava-syria-kurds-ypg-sdf-damascus-k
 [Foreign_Policy] The Architecture of Israel’s Genocide in Gaza
 Published: 2026-08-04T10:00:49+00:00
 Link: https://foreignpolicy.com/2026/08/04/gaza-palestinian-genocide-israel-book/
----
-[Foreign_Affairs] The New Forever Wars
-Published: 2026-08-04T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/new-forever-wars
----
-[Foreign_Affairs] The War China Might Choose
-Published: 2026-08-04T04:00:00+00:00
-Link: https://www.foreignaffairs.com/taiwan/war-china-might-choose
 ---
