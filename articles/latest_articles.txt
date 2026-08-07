@@ -1,6 +1,34 @@
-# Last Run: 2026-08-06 14:18 UTC
+# Last Run: 2026-08-07 00:06 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Is Iran Winning the Battle Over the Strait of Hormuz?
+Published: 2026-08-06T21:22:55+00:00
+Link: https://foreignpolicy.com/2026/08/06/us-iran-reopen-strait-hormuz-deal-tolls-oman-trump-missiles/
+---
+[Foreign_Policy] What Everyone Is Missing About Ceuta
+Published: 2026-08-06T21:19:07+00:00
+Link: https://foreignpolicy.com/2026/08/06/ceuta-spain-morocco-migrants-history-africa-europe/
+---
+[Foreign_Policy] China’s AI Acceleration
+Published: 2026-08-06T20:33:21+00:00
+Link: https://foreignpolicy.com/2026/08/06/trump-ai-china-kimi-anthropic-openai/
+---
+[Foreign_Policy] Why Israel’s Upcoming Election Might Be Its Most Pivotal
+Published: 2026-08-06T19:13:16+00:00
+Link: https://foreignpolicy.com/2026/08/06/israel-election-illiberal-gaza-west-bank-palestinians/
+---
+[Foreign_Policy] Selling Trust From Orbit
+Published: 2026-08-06T18:42:55+00:00
+Link: https://foreignpolicy.com/2026/08/06/satellite-imagery-iran-china-space-ai-fraud-disinformation/
+---
+[Foreign_Policy] Colombia’s Road to Peace Runs Through the Countryside
+Published: 2026-08-06T15:21:22+00:00
+Link: https://foreignpolicy.com/2026/08/06/colombia-de-la-espriella-cartels-prisons-security-rural/
+---
+[Foreign_Policy] Russia and Ukraine Are Mutually Shutting Down the Black Sea
+Published: 2026-08-06T14:05:14+00:00
+Link: https://foreignpolicy.com/2026/08/06/russia-ukraine-war-black-sea-shipping-ports-exports-grain-food-agriculture-drones-missiles/
+---
 [Foreign_Policy] Hamas Agreed to Disarm. Why Did Israel Reject the Deal?
 Published: 2026-08-06T12:58:02+00:00
 Link: https://foreignpolicy.com/2026/08/06/hamas-disarmament-deal-netanyahu-israel-gaza/
@@ -100,16 +128,4 @@ Link: https://www.foreignaffairs.com/united-states/new-forever-wars
 [Foreign_Affairs] The War China Might Choose
 Published: 2026-08-04T04:00:00+00:00
 Link: https://www.foreignaffairs.com/taiwan/war-china-might-choose
----
-[Foreign_Policy] Iran Denies Peace Talks After the United States Cancels Military Strikes
-Published: 2026-08-03T21:22:00+00:00
-Link: https://foreignpolicy.com/2026/08/03/us-iran-war-peace-talks-trump-empty-threats-strikes-oman/
----
-[Foreign_Policy] A Patchwork Approach to AI Regulation Is Best—for Now
-Published: 2026-08-03T21:10:46+00:00
-Link: https://foreignpolicy.com/2026/08/03/artificial-intelligence-ai-regulation-safety-california-new-york-pope-leo/
----
-[Foreign_Policy] China’s Quiet Bet on Methanol Is Paying Off
-Published: 2026-08-03T20:59:14+00:00
-Link: https://foreignpolicy.com/2026/08/03/ford-china-methanol-energy-electric-vehicles/
 ---
