@@ -1,4 +1,4 @@
-# Last Run: 2026-08-07 13:12 UTC
+# Last Run: 2026-08-07 15:01 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Latin America’s Second Pink Tide Recedes
@@ -120,12 +120,4 @@ Link: https://foreignpolicy.com/2026/08/04/trump-seabed-mining-critical-minerals
 [Foreign_Policy] India’s Political Atmosphere Has Changed
 Published: 2026-08-04T15:56:26+00:00
 Link: https://foreignpolicy.com/2026/08/04/india-cockroach-protests-modi-politics-change/
----
-[Foreign_Policy] What’s Behind Indonesia’s Anti-Corruption Crusade?
-Published: 2026-08-04T14:07:20+00:00
-Link: https://foreignpolicy.com/2026/08/04/indonesia-corruption-nadiem-makari-investigation-jokowi-prabowo/
----
-[Foreign_Policy] America’s Cosmic Bet on AI
-Published: 2026-08-04T13:50:16+00:00
-Link: https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/
 ---
