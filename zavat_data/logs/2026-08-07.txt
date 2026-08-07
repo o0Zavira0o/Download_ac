@@ -1,4 +1,10 @@
 ================================================================================
+2026-08-07 20:14:19 (Asia/Tehran) | hill0
+Title  : Optimization Techniques for Deep Learning
+Details: English | 2026 | ISBN: 3032207029 | 201 Pages | PDF EPUB (True) | 41 MB
+Link   : http://zavat.pw/ebooks/3032207029.html
+
+================================================================================
 2026-08-07 19:17:56 (Asia/Tehran) | IrGens
 Title  : Azure Virtual Machine Operations and Lifecycle
 Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 51m | 419 MB
