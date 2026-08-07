@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-06T11:28:59Z_
+_آخرین به‌روزرسانی: 2026-08-07T10:05:59Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-07 09:32:23 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Hobbies mit viel Geld und Zeit 💰🕖 #shorts #hobbies #learngerman](https://www.youtube.com/watch?v=3CvwTPm6Th8)  
+  ![](https://i.ytimg.com/vi/3CvwTPm6Th8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-06 08:44:25 (UTC)  
@@ -256,12 +262,6 @@ _آخرین به‌روزرسانی: 2026-08-06T11:28:59Z_
   **مدت:** حدود 1.1 دقیقه  
   **عنوان:** [Partygarnelen #shorts #easygerman #nachbarschaft](https://www.youtube.com/watch?v=xQlJLrJxGnA)  
   ![](https://i.ytimg.com/vi/xQlJLrJxGnA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-06-24 17:00:22 (UTC)  
-  **مدت:** حدود 2.6 دقیقه  
-  **عنوان:** [Join the Easy German Book Club!](https://www.youtube.com/watch?v=ttNP1AXhfEo)  
-  ![](https://i.ytimg.com/vi/ttNP1AXhfEo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-24 06:21:19 (UTC)  

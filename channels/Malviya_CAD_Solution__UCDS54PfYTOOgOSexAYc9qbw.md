@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-08-06T11:28:59Z_
+_آخرین به‌روزرسانی: 2026-08-07T10:05:59Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-08-07 02:43:04 (UTC)  
+  **مدت:** حدود 15.9 دقیقه  
+  **عنوان:** [Solidworks Duplex Chain Modelling | Solidworks assembly tutorial](https://www.youtube.com/watch?v=q_1DMutVOt0)  
+  ![](https://i.ytimg.com/vi/q_1DMutVOt0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-06 03:11:16 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-06T11:28:59Z_
   **مدت:** حدود 2.4 دقیقه  
   **عنوان:** [Strock mechanism in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=Zor-ckyZEsY)  
   ![](https://i.ytimg.com/vi/Zor-ckyZEsY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-10 16:29:24 (UTC)  
-  **مدت:** حدود 8.8 دقیقه  
-  **عنوان:** [Solidworks Cultivator tutorial | Cultivator Part3](https://www.youtube.com/watch?v=gFhQNtzywmI)  
-  ![](https://i.ytimg.com/vi/gFhQNtzywmI/hqdefault.jpg)

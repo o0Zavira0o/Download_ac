@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-06T11:28:59Z_
+_آخرین به‌روزرسانی: 2026-08-07T10:05:59Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-07 08:30:07 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [다꾸 ASMR Journaling🧜‍♀️コラージュ #shorts #다꾸 #journal](https://www.youtube.com/watch?v=13LxyAJqKBw)  
+  ![](https://i.ytimg.com/vi/13LxyAJqKBw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-06 13:00:30 (UTC)  
+  **مدت:** حدود 12.1 دقیقه  
+  **عنوان:** [다꾸 ASMR 시원한 블루테마 다이어리 꾸미기 | Journaling diy꾸미기 コラージュ](https://www.youtube.com/watch?v=ptV59VWAt-Y)  
+  ![](https://i.ytimg.com/vi/ptV59VWAt-Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-05 14:15:07 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-06T11:28:59Z_
   **مدت:** حدود 0.8 دقیقه  
   **عنوان:** [Scrapbooking asmr 🌺 #shorts #scrapbooking #satisfyingasmr](https://www.youtube.com/watch?v=2y7rc3BMXHo)  
   ![](https://i.ytimg.com/vi/2y7rc3BMXHo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-27 13:10:00 (UTC)  
-  **مدت:** حدود 1.3 دقیقه  
-  **عنوان:** [Creative ART Journaling ASMR🖼 Craft Museum Theme Journal Sounds](https://www.youtube.com/watch?v=-2QrZrfkWbc)  
-  ![](https://i.ytimg.com/vi/-2QrZrfkWbc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-26 13:20:00 (UTC)  
-  **مدت:** حدود 8.3 دقیقه  
-  **عنوان:** [ASMR Decorating Gothic Journal 💀 Variety of journaling sounds 다꾸 デコ手帳](https://www.youtube.com/watch?v=GseW2kLz3PY)  
-  ![](https://i.ytimg.com/vi/GseW2kLz3PY/hqdefault.jpg)

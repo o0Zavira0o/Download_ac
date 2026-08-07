@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-06T11:28:59Z_
+_آخرین به‌روزرسانی: 2026-08-07T10:05:59Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-06 11:30:06 (UTC)  
+  **مدت:** حدود 4.2 دقیقه  
+  **عنوان:** [Creating a 3D Nested Geometric Cube in SOLIDWORKS 📐](https://www.youtube.com/watch?v=IJjrfimNojQ)  
+  ![](https://i.ytimg.com/vi/IJjrfimNojQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-31 13:20:50 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-06T11:28:59Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅CAM Dual Slider Mechanism 📌#mechanicaldesign #mechanism](https://www.youtube.com/watch?v=6w8dqSrB_vQ)  
   ![](https://i.ytimg.com/vi/6w8dqSrB_vQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-04 12:30:12 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅How Dual Slider Crank Mechanisms Work❓](https://www.youtube.com/watch?v=ARri83QnEro)  
-  ![](https://i.ytimg.com/vi/ARri83QnEro/hqdefault.jpg)
