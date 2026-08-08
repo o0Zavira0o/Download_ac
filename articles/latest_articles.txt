@@ -1,4 +1,4 @@
-# Last Run: 2026-08-08 18:40 UTC
+# Last Run: 2026-08-08 20:34 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Middle East Tries Its Hand at a NATO-Style Pact
@@ -80,12 +80,4 @@ Link: https://www.foreignaffairs.com/united-states/why-we-should-fight-kori-scha
 [Foreign_Affairs] America Must Let Go of the Middle East
 Published: 2026-08-06T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/america-must-let-go-middle-east
----
-[Foreign_Policy] Ukraine’s Deadly Missile Defense Shortage
-Published: 2026-08-05T20:30:32+00:00
-Link: https://foreignpolicy.com/2026/08/05/ukraine-patriot-missile-interceptor-shortage-russia-war-zelensky-us-trump-nato/
----
-[Foreign_Policy] South Africa’s Global Image Loses Its Luster
-Published: 2026-08-05T19:50:11+00:00
-Link: https://foreignpolicy.com/2026/08/05/south-africa-xenophobia-migrant-attacks-global-reputation-boycotts/
 ---
