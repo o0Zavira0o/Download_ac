@@ -1,4 +1,4 @@
-# Last Run: 2026-08-08 12:54 UTC
+# Last Run: 2026-08-08 14:39 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Middle East Tries Its Hand at a NATO-Style Pact
@@ -100,12 +100,4 @@ Link: https://foreignpolicy.com/2026/08/05/saudi-arabia-iran-israel-united-state
 [Foreign_Policy] Why the United States Keeps Losing Wars
 Published: 2026-08-05T15:25:25+00:00
 Link: https://foreignpolicy.com/2026/08/05/iran-trump-lost-wars-us-military-history-strategy-geopolitics/
----
-[Foreign_Policy] Kevin Warsh Has a Problem
-Published: 2026-08-05T14:11:37+00:00
-Link: https://foreignpolicy.com/2026/08/05/kevin-warsh-federal-reserve-interest-rates-inflation-trump/
----
-[Foreign_Policy] The Ceuta Crisis Reveals the Limits of European Defense Cooperation
-Published: 2026-08-05T13:55:42+00:00
-Link: https://foreignpolicy.com/2026/08/05/ceuta-crisis-europe-migration-russia-nato-limits-defense-cooperation/
 ---
