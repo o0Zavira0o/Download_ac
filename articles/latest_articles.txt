@@ -1,4 +1,4 @@
-# Last Run: 2026-08-08 03:31 UTC
+# Last Run: 2026-08-08 05:02 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Middle East Tries Its Hand at a NATO-Style Pact
@@ -108,20 +108,4 @@ Link: https://foreignpolicy.com/2026/08/05/kevin-warsh-federal-reserve-interest-
 [Foreign_Policy] The Ceuta Crisis Reveals the Limits of European Defense Cooperation
 Published: 2026-08-05T13:55:42+00:00
 Link: https://foreignpolicy.com/2026/08/05/ceuta-crisis-europe-migration-russia-nato-limits-defense-cooperation/
----
-[Foreign_Policy] El Niño Bakes Southeast Asia
-Published: 2026-08-05T05:00:52+00:00
-Link: https://foreignpolicy.com/2026/08/05/el-nino-southeast-asia-rice-production/
----
-[Foreign_Affairs] How the Axis of Resistance Recovered
-Published: 2026-08-05T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/how-axis-resistance-recovered
----
-[Foreign_Affairs] The Right Way to Balance Trade
-Published: 2026-08-05T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/right-way-balance-trade
----
-[Foreign_Affairs] America’s Superintelligence Dilemma
-Published: 2026-08-05T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/americas-superintelligence-dilemma
 ---
