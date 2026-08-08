@@ -1,4 +1,4 @@
-# Last Run: 2026-08-08 14:39 UTC
+# Last Run: 2026-08-08 16:41 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Middle East Tries Its Hand at a NATO-Style Pact
@@ -96,8 +96,4 @@ Link: https://foreignpolicy.com/2026/08/05/kashmir-pakistan-violence-election-un
 [Foreign_Policy] The Saudis Are the Architects of Their Own Misfortune
 Published: 2026-08-05T17:29:51+00:00
 Link: https://foreignpolicy.com/2026/08/05/saudi-arabia-iran-israel-united-states-trump-uae-oil-houthis/
----
-[Foreign_Policy] Why the United States Keeps Losing Wars
-Published: 2026-08-05T15:25:25+00:00
-Link: https://foreignpolicy.com/2026/08/05/iran-trump-lost-wars-us-military-history-strategy-geopolitics/
 ---
