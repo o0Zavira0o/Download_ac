@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-07T10:05:59Z_
+_آخرین به‌روزرسانی: 2026-08-08T09:45:54Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-07 15:23:31 (UTC)  
+  **مدت:** حدود 73.6 دقیقه  
+  **عنوان:** [SolidWorks Assembly Top-Down Design-Pulleys and Supports](https://www.youtube.com/watch?v=NJnCCv0w82A)  
+  ![](https://i.ytimg.com/vi/NJnCCv0w82A/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-05 06:30:23 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-07T10:05:59Z_
   **مدت:** حدود 28.5 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Worm gear Animation in Solidworks](https://www.youtube.com/watch?v=zjSCypsKnTE)  
   ![](https://i.ytimg.com/vi/zjSCypsKnTE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-14 17:52:21 (UTC)  
-  **مدت:** حدود 11.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | Pinion & Gear (Motion Study)](https://www.youtube.com/watch?v=gRvzGRos2UI)  
-  ![](https://i.ytimg.com/vi/gRvzGRos2UI/hqdefault.jpg)

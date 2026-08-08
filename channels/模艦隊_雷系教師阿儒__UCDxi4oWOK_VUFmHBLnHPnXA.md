@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-08-07T10:05:59Z_
+_آخرین به‌روزرسانی: 2026-08-08T09:45:54Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-08-07 11:00:36 (UTC)  
+  **مدت:** حدود 23.4 دقیقه  
+  **عنوان:** [【onshape】基礎零件：0706 週一工程圖系列｜FB粉絲頁附圖](https://www.youtube.com/watch?v=l6Iv5E0UBhY)  
+  ![](https://i.ytimg.com/vi/l6Iv5E0UBhY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-05 11:00:32 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-07T10:05:59Z_
   **مدت:** حدود 23.0 دقیقه  
   **عنوان:** [【onshape】產品練習：藥瓶｜大量指令混合運用](https://www.youtube.com/watch?v=ZrhT1RoJre4)  
   ![](https://i.ytimg.com/vi/ZrhT1RoJre4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-05-21 11:00:46 (UTC)  
-  **مدت:** حدود 8.0 دقیقه  
-  **عنوان:** [【solidworks】產品練習：變速桿｜忘掉旋轉｜功力速成長](https://www.youtube.com/watch?v=Mr6Yo_Amk5U)  
-  ![](https://i.ytimg.com/vi/Mr6Yo_Amk5U/hqdefault.jpg)
