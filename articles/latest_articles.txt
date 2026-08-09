@@ -1,4 +1,4 @@
-# Last Run: 2026-08-09 14:39 UTC
+# Last Run: 2026-08-09 16:40 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Middle East Tries Its Hand at a NATO-Style Pact
@@ -60,8 +60,4 @@ Link: https://foreignpolicy.com/2026/08/06/israel-election-illiberal-gaza-west-b
 [Foreign_Policy] Selling Trust From Orbit
 Published: 2026-08-06T18:42:55+00:00
 Link: https://foreignpolicy.com/2026/08/06/satellite-imagery-iran-china-space-ai-fraud-disinformation/
----
-[Foreign_Policy] Colombia’s Road to Peace Runs Through the Countryside
-Published: 2026-08-06T15:21:22+00:00
-Link: https://foreignpolicy.com/2026/08/06/colombia-de-la-espriella-cartels-prisons-security-rural/
 ---
