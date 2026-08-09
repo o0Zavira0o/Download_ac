@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-08-08T09:45:54Z_
+_آخرین به‌روزرسانی: 2026-08-09T09:48:28Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-08-08 18:29:13 (UTC)  
+  **مدت:** حدود 18.1 دقیقه  
+  **عنوان:** [Ep.27 HMI–GRBL Integration & Dry Run Test / 3D Mortar Printer](https://www.youtube.com/watch?v=LTYrJykZpPg)  
+  ![](https://i.ytimg.com/vi/LTYrJykZpPg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-03 15:59:59 (UTC)  

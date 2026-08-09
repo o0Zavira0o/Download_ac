@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-08T09:45:54Z_
+_آخرین به‌روزرسانی: 2026-08-09T09:48:28Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-09 03:30:13 (UTC)  
+  **مدت:** حدود 17.2 دقیقه  
+  **عنوان:** [SolidWorks Basic Motion Tutorial-Wooden Blocks Falling Down a Ladder](https://www.youtube.com/watch?v=zFvfxtUJfto)  
+  ![](https://i.ytimg.com/vi/zFvfxtUJfto/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-07 15:23:31 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-08T09:45:54Z_
   **مدت:** حدود 31.3 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch motor in Solidworks](https://www.youtube.com/watch?v=Zd8EXeRUq7o)  
   ![](https://i.ytimg.com/vi/Zd8EXeRUq7o/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-15 22:13:57 (UTC)  
-  **مدت:** حدود 28.5 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Worm gear Animation in Solidworks](https://www.youtube.com/watch?v=zjSCypsKnTE)  
-  ![](https://i.ytimg.com/vi/zjSCypsKnTE/hqdefault.jpg)

@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-08-08T09:45:54Z_
+_آخرین به‌روزرسانی: 2026-08-09T09:48:28Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
@@ -176,7 +176,7 @@ _آخرین به‌روزرسانی: 2026-08-08T09:45:54Z_
 
 - **تاریخ انتشار:** 2026-05-01 11:00:55 (UTC)  
   **مدت:** حدود 13.4 دقیقه  
-  **عنوان:** [【onshape】基礎零件｜重溫2022初期](https://www.youtube.com/watch?v=YYyLYaJuF6Q)  
+  **عنوان:** [【onshape】基礎零件：擠出取代旋轉｜重溫2022初期](https://www.youtube.com/watch?v=YYyLYaJuF6Q)  
   ![](https://i.ytimg.com/vi/YYyLYaJuF6Q/hqdefault.jpg)
 
 
@@ -218,7 +218,7 @@ _آخرین به‌روزرسانی: 2026-08-08T09:45:54Z_
 
 - **تاریخ انتشار:** 2026-04-08 11:00:41 (UTC)  
   **مدت:** حدود 20.9 دقیقه  
-  **عنوان:** [【SolidWorks】噴嘴零件練習｜化繁為簡](https://www.youtube.com/watch?v=MARkRIEJzuE)  
+  **عنوان:** [【SolidWorks】零件練習：噴嘴｜化繁為簡](https://www.youtube.com/watch?v=MARkRIEJzuE)  
   ![](https://i.ytimg.com/vi/MARkRIEJzuE/hqdefault.jpg)
 
 
@@ -284,7 +284,7 @@ _آخرین به‌روزرسانی: 2026-08-08T09:45:54Z_
 
 - **تاریخ انتشار:** 2026-02-27 11:00:43 (UTC)  
   **مدت:** حدود 9.3 دقیقه  
-  **عنوان:** [【onshape】產品練習：簡單板手｜示範輕鬆設計變更](https://www.youtube.com/watch?v=LkjX1ZN83ZE)  
+  **عنوان:** [【onshape】產品練習：板手｜示範輕鬆設計變更](https://www.youtube.com/watch?v=LkjX1ZN83ZE)  
   ![](https://i.ytimg.com/vi/LkjX1ZN83ZE/hqdefault.jpg)
 
 

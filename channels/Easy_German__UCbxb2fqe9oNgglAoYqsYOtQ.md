@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-08T09:45:54Z_
+_آخرین به‌روزرسانی: 2026-08-09T09:48:28Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-08 12:28:02 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Kopfhörer 🎧 #kopfhörer #EasyGerman #studygerman](https://www.youtube.com/watch?v=rYlT5O1Wlz8)  
+  ![](https://i.ytimg.com/vi/rYlT5O1Wlz8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-07 09:32:23 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-08T09:45:54Z_
   **مدت:** حدود 17.0 دقیقه  
   **عنوان:** [Cari antwortet (37) - German right wing party | Integration | Traveling around the world](https://www.youtube.com/watch?v=6s2iGPGGO90)  
   ![](https://i.ytimg.com/vi/6s2iGPGGO90/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-03 03:03:57 (UTC)  
-  **مدت:** حدود 5.5 دقیقه  
-  **عنوان:** [Sports in Slow German](https://www.youtube.com/watch?v=hxGSArgzNN8)  
-  ![](https://i.ytimg.com/vi/hxGSArgzNN8/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-08-08T09:45:54Z_
+_آخرین به‌روزرسانی: 2026-08-09T09:48:28Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-08-08 10:00:27 (UTC)  
+  **مدت:** حدود 53.0 دقیقه  
+  **عنوان:** [38,GIANT Origami Tsuru Alien | Folded from 80cm Paper | Silent Origami 80cmの折り紙で巨大ツル星人を折る｜無言の折り紙](https://www.youtube.com/watch?v=ciE8u3DaTAE)  
+  ![](https://i.ytimg.com/vi/ciE8u3DaTAE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-01 10:00:17 (UTC)  
