@@ -1,4 +1,4 @@
-# Last Run: 2026-08-09 12:57 UTC
+# Last Run: 2026-08-09 14:39 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Middle East Tries Its Hand at a NATO-Style Pact
@@ -64,12 +64,4 @@ Link: https://foreignpolicy.com/2026/08/06/satellite-imagery-iran-china-space-ai
 [Foreign_Policy] Colombia’s Road to Peace Runs Through the Countryside
 Published: 2026-08-06T15:21:22+00:00
 Link: https://foreignpolicy.com/2026/08/06/colombia-de-la-espriella-cartels-prisons-security-rural/
----
-[Foreign_Policy] Russia and Ukraine Are Mutually Shutting Down the Black Sea
-Published: 2026-08-06T14:05:14+00:00
-Link: https://foreignpolicy.com/2026/08/06/russia-ukraine-war-black-sea-shipping-ports-exports-grain-food-agriculture-drones-missiles/
----
-[Foreign_Policy] Hamas Agreed to Disarm. Why Did Israel Reject the Deal?
-Published: 2026-08-06T12:58:02+00:00
-Link: https://foreignpolicy.com/2026/08/06/hamas-disarmament-deal-netanyahu-israel-gaza/
 ---
