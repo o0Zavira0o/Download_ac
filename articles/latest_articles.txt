@@ -1,4 +1,4 @@
-# Last Run: 2026-08-09 03:47 UTC
+# Last Run: 2026-08-09 05:09 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Middle East Tries Its Hand at a NATO-Style Pact
@@ -72,12 +72,4 @@ Link: https://foreignpolicy.com/2026/08/06/russia-ukraine-war-black-sea-shipping
 [Foreign_Policy] Hamas Agreed to Disarm. Why Did Israel Reject the Deal?
 Published: 2026-08-06T12:58:02+00:00
 Link: https://foreignpolicy.com/2026/08/06/hamas-disarmament-deal-netanyahu-israel-gaza/
----
-[Foreign_Affairs] Why We Should Fight
-Published: 2026-08-06T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/why-we-should-fight-kori-schake
----
-[Foreign_Affairs] America Must Let Go of the Middle East
-Published: 2026-08-06T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/america-must-let-go-middle-east
 ---
