@@ -1,6 +1,14 @@
-# Last Run: 2026-08-10 19:05 UTC
+# Last Run: 2026-08-10 20:47 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Netanyahu Nixes Trump’s Gaza Deal
+Published: 2026-08-10T19:14:40+00:00
+Link: https://foreignpolicy.com/2026/08/10/netanyahu-israel-hamas-disarmament-deal-colombia-earthquake-china-typhoon/
+---
+[Foreign_Policy] Ukrainians Are Trying to Help a Traumatized Generation
+Published: 2026-08-10T17:26:14+00:00
+Link: https://foreignpolicy.com/2026/08/10/russia-ukraine-youth-kidnap/
+---
 [Foreign_Policy] Europe’s Summer of Nightmares
 Published: 2026-08-10T10:00:39+00:00
 Link: https://foreignpolicy.com/2026/08/10/europe-heat-wildfires-climate-economy-energy/
@@ -8,6 +16,70 @@ Link: https://foreignpolicy.com/2026/08/10/europe-heat-wildfires-climate-economy
 [Foreign_Policy] Dismantling the ICC Doesn’t Serve U.S. Interests
 Published: 2026-08-10T10:00:19+00:00
 Link: https://foreignpolicy.com/2026/08/10/icc-trump-campaign-rubio-sanctions-international-justice/
+---
+[New_Yorker_Magazine] Letters from Our Readers
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/letters-from-the-august-17-2026-issue
+---
+[New_Yorker_Magazine] The Doulas Who Help Us Die
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/the-doulas-who-help-us-die
+---
+[New_Yorker_Magazine] Hannah Arendt’s American Education
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/hannah-arendt-life-of-the-mind-thomas-meyer-book-review-an-admirable-woman-arthur-cohen
+---
+[New_Yorker_Magazine] The U.S. Helped Make Europe. Can It Break It?
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/the-rise-and-fall-of-american-europe-glyn-morgan-book-review
+---
+[New_Yorker_Magazine] “Horses,” by Garous Abdolmalekian (translated, from the Persian, by Siavash Saadlou)
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/horses-garous-abdolmalekian-poem
+---
+[New_Yorker_Magazine] The Many Masks of Dan Hoyle
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/the-many-masks-of-dan-hoyle
+---
+[New_Yorker_Magazine] Hannah Einbinder’s Tricks and Treats
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/hannah-einbinders-tricks-and-treats
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/the-savage-landscape-presence-its-all-river-the-shampoo-effect
+---
+[New_Yorker_Magazine] The Delusions of John Roberts
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/john-roberts-profile
+---
+[New_Yorker_Magazine] Are You a Human?
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/are-you-a-human
+---
+[New_Yorker_Magazine] Inside Russia’s New Gulag
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/inside-russias-new-gulag
+---
+[New_Yorker_Magazine] Pope.L’s Pleasing Refusal to Be Interpreted
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/pope-ls-pleasing-refusal-to-be-interpreted
+---
+[New_Yorker_Magazine] The World’s Borough Gets a New Slogan
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/the-worlds-borough-gets-a-new-slogan
+---
+[New_Yorker_Magazine] I Spy with My Little Eye . . . a Spy
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/i-spy-with-my-little-eye-a-spy
+---
+[New_Yorker_Magazine] Eat the Lotus!
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/eat-the-lotus
+---
+[New_Yorker_Magazine] “Cereus,” by Henri Cole
+Published: 2026-08-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/cereus-henri-cole-poem
 ---
 [Foreign_Policy] Todd Blanche’s Confirmation Would Have Been A Scandal in 1973
 Published: 2026-08-10T04:01:30+00:00
@@ -17,7 +89,11 @@ Link: https://foreignpolicy.com/2026/08/10/todd-blanche-saturday-night-massacre-
 Published: 2026-08-10T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/why-china-worries-about-north-korea
 ---
-[Foreign_Policy] The Middle East Tries Its Hand at a NATO-Style Pact
-Published: 2026-08-07T19:45:31+00:00
-Link: https://foreignpolicy.com/2026/08/07/pakistan-saudi-arabia-turkey-mutual-defense-pact-iran-israel-military/
+[New_Yorker_Magazine] “The Blight,” by Emma Cline
+Published: 2026-08-09T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/the-blight-fiction-emma-cline
+---
+[New_Yorker_Magazine] A.I. Is Now a Major Election Issue
+Published: 2026-08-09T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/17/ai-is-now-a-major-election-issue
 ---
