@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-09T09:48:28Z_
+_آخرین به‌روزرسانی: 2026-08-10T10:24:12Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-09 14:20:13 (UTC)  
+  **مدت:** حدود 187.5 دقیقه  
+  **عنوان:** [ASMR Decorating a Collage Journal [3Hour] 다꾸 Tingle Journaling コラージュ | hwaufranc](https://www.youtube.com/watch?v=kLQTASUAlcU)  
+  ![](https://i.ytimg.com/vi/kLQTASUAlcU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-08 13:00:26 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-09T09:48:28Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [Scrapbooking 1/2🥀 #journal #aesthetic #scrapbooking #asmr](https://www.youtube.com/watch?v=wNzPDEJG82E)  
   ![](https://i.ytimg.com/vi/wNzPDEJG82E/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-29 13:13:00 (UTC)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Envelope punch board 6⚒️ #shorts #craft #diycrafts #asmr](https://www.youtube.com/watch?v=7MKioF6_Qxw)  
-  ![](https://i.ytimg.com/vi/7MKioF6_Qxw/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-09T09:48:28Z_
+_آخرین به‌روزرسانی: 2026-08-10T10:24:12Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-09 13:02:36 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Designing a Flawless Scotch Yoke Mechanism from Scratch](https://www.youtube.com/watch?v=CUgPqgJkiKU)  
+  ![](https://i.ytimg.com/vi/CUgPqgJkiKU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-06 11:30:06 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-09T09:48:28Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅ Mechanical Mechanism 11](https://www.youtube.com/watch?v=hld4OwAzPSA)  
   ![](https://i.ytimg.com/vi/hld4OwAzPSA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-05 12:44:07 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅CAM Dual Slider Mechanism 📌#mechanicaldesign #mechanism](https://www.youtube.com/watch?v=6w8dqSrB_vQ)  
-  ![](https://i.ytimg.com/vi/6w8dqSrB_vQ/hqdefault.jpg)

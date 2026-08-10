@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-09T09:48:28Z_
+_آخرین به‌روزرسانی: 2026-08-10T10:24:12Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-10 10:01:36 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Vorteile des Lebens in Hamburg #shorts #easygerman](https://www.youtube.com/watch?v=pSx6vjxOl-k)  
+  ![](https://i.ytimg.com/vi/pSx6vjxOl-k/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-09 17:00:38 (UTC)  
+  **مدت:** حدود 14.7 دقیقه  
+  **عنوان:** [St. Pölten, Austria: Hidden Gems, Dialect & Local Food](https://www.youtube.com/watch?v=npk_Q92bpqE)  
+  ![](https://i.ytimg.com/vi/npk_Q92bpqE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-08 12:28:02 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-09T09:48:28Z_
   **مدت:** حدود 14.4 دقیقه  
   **عنوان:** [Cari antwortet (38) - Finding work in Germany | Racism|  Youtubers begging for money](https://www.youtube.com/watch?v=_RINFYwdhms)  
   ![](https://i.ytimg.com/vi/_RINFYwdhms/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-06 23:18:47 (UTC)  
-  **مدت:** حدود 12.5 دقیقه  
-  **عنوان:** [Student life: Germany vs. USA | Easy German 168](https://www.youtube.com/watch?v=x-wMo1FxaNA)  
-  ![](https://i.ytimg.com/vi/x-wMo1FxaNA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-05 23:12:34 (UTC)  
-  **مدت:** حدود 17.0 دقیقه  
-  **عنوان:** [Cari antwortet (37) - German right wing party | Integration | Traveling around the world](https://www.youtube.com/watch?v=6s2iGPGGO90)  
-  ![](https://i.ytimg.com/vi/6s2iGPGGO90/hqdefault.jpg)
