@@ -1,4 +1,4 @@
-# Last Run: 2026-08-10 17:30 UTC
+# Last Run: 2026-08-10 19:05 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Europe’s Summer of Nightmares
@@ -20,24 +20,4 @@ Link: https://www.foreignaffairs.com/china/why-china-worries-about-north-korea
 [Foreign_Policy] The Middle East Tries Its Hand at a NATO-Style Pact
 Published: 2026-08-07T19:45:31+00:00
 Link: https://foreignpolicy.com/2026/08/07/pakistan-saudi-arabia-turkey-mutual-defense-pact-iran-israel-military/
----
-[Foreign_Policy] Why China’s Elites Still Want to Leave
-Published: 2026-08-07T19:03:43+00:00
-Link: https://foreignpolicy.com/2026/08/07/china-callousness-society-culture-communist-party/
----
-[Foreign_Policy] The Straits Are Not OK
-Published: 2026-08-07T18:40:25+00:00
-Link: https://foreignpolicy.com/2026/08/07/history-hormuz-straits-iran-war-trump/
----
-[Foreign_Policy] There’s No Going Back
-Published: 2026-08-07T18:20:08+00:00
-Link: https://foreignpolicy.com/2026/08/07/thomas-wright-inflection-point-book-review-us-foreign-policy-trump-biden/
----
-[Foreign_Policy] There’s No Going Back
-Published: 2026-08-07T18:20:08+00:00
-Link: https://foreignpolicy.com/2026/08/07/theres-no-going-back/
----
-[Foreign_Policy] An ‘Odyssey,’ From a Dog’s Perspective
-Published: 2026-08-07T18:00:10+00:00
-Link: https://foreignpolicy.com/2026/08/07/international-fiction-releases-etna-paul-yoon-whyteface-a-igoni-barrett/
 ---
