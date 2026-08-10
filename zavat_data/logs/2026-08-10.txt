@@ -1,4 +1,10 @@
 ================================================================================
+2026-08-10 21:14:34 (Asia/Tehran) | hill0
+Title  : Interpretability and Explainability in AI Using Python
+Details: English | 2025 | ASIN : B0F532KFY4 | 414 Pages | True EPUB | 78 MB
+Link   : http://zavat.pw/ebooks/B0F532KFY4t.html
+
+================================================================================
 2026-08-10 20:15:25 (Asia/Tehran) | hill0
 Title  : Advanced Deep Learning with Python
 Details: English | 2019 | ISBN: 9781789956177 | 456 Pages | EPUB (True) | 54 MB
