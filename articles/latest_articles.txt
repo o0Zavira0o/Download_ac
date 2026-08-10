@@ -1,6 +1,14 @@
-# Last Run: 2026-08-10 11:13 UTC
+# Last Run: 2026-08-10 13:13 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Europe’s Summer of Nightmares
+Published: 2026-08-10T10:00:39+00:00
+Link: https://foreignpolicy.com/2026/08/10/europe-heat-wildfires-climate-economy-energy/
+---
+[Foreign_Policy] Dismantling the ICC Doesn’t Serve U.S. Interests
+Published: 2026-08-10T10:00:19+00:00
+Link: https://foreignpolicy.com/2026/08/10/icc-trump-campaign-rubio-sanctions-international-justice/
+---
 [Foreign_Policy] Todd Blanche’s Confirmation Would Have Been A Scandal in 1973
 Published: 2026-08-10T04:01:30+00:00
 Link: https://foreignpolicy.com/2026/08/10/todd-blanche-saturday-night-massacre-justice-department/
@@ -32,8 +40,4 @@ Link: https://foreignpolicy.com/2026/08/07/theres-no-going-back/
 [Foreign_Policy] An ‘Odyssey,’ From a Dog’s Perspective
 Published: 2026-08-07T18:00:10+00:00
 Link: https://foreignpolicy.com/2026/08/07/international-fiction-releases-etna-paul-yoon-whyteface-a-igoni-barrett/
----
-[Foreign_Policy] Latin America’s Second Pink Tide Recedes
-Published: 2026-08-07T12:00:51+00:00
-Link: https://foreignpolicy.com/2026/08/07/latin-america-second-pink-tide-legacy-left-wing-leaders/
 ---
