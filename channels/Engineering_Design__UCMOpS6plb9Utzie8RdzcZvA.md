@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-10T10:24:12Z_
+_آخرین به‌روزرسانی: 2026-08-11T10:05:25Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-10 12:44:28 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [90% of people can't name this mechanism! 🤔👇](https://www.youtube.com/watch?v=6Cix8QIXLUI)  
+  ![](https://i.ytimg.com/vi/6Cix8QIXLUI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-09 13:02:36 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-10T10:24:12Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [Screw Conveyor Machine Animation #machine #design #engineering #conveyorsystems](https://www.youtube.com/watch?v=pSMKWx0ilsY)  
   ![](https://i.ytimg.com/vi/pSMKWx0ilsY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-06 11:50:57 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅ Mechanical Mechanism 11](https://www.youtube.com/watch?v=hld4OwAzPSA)  
-  ![](https://i.ytimg.com/vi/hld4OwAzPSA/hqdefault.jpg)

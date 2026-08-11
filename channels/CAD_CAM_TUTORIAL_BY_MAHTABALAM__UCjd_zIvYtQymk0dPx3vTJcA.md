@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-10T10:24:12Z_
+_آخرین به‌روزرسانی: 2026-08-11T10:05:25Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-11 03:30:05 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [SolidWorks Model Mania April 2026](https://www.youtube.com/watch?v=3iLjQHJVUMY)  
+  ![](https://i.ytimg.com/vi/3iLjQHJVUMY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-09 03:30:13 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-10T10:24:12Z_
   **مدت:** حدود 29.3 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Wheel Rim in Solidworks](https://www.youtube.com/watch?v=_C8gy-OI1GU)  
   ![](https://i.ytimg.com/vi/_C8gy-OI1GU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-16 23:17:15 (UTC)  
-  **مدت:** حدود 31.3 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch motor in Solidworks](https://www.youtube.com/watch?v=Zd8EXeRUq7o)  
-  ![](https://i.ytimg.com/vi/Zd8EXeRUq7o/hqdefault.jpg)

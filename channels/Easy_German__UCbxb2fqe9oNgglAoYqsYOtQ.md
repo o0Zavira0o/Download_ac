@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-10T10:24:12Z_
+_آخرین به‌روزرسانی: 2026-08-11T10:05:25Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -6487,7 +6487,7 @@ _آخرین به‌روزرسانی: 2026-08-10T10:24:12Z_
 
 
 - **تاریخ انتشار:** 2022-01-23 18:00:01 (UTC)  
-  **مدت:** حدود 11.4 دقیقه  
+  **مدت:** حدود 10.8 دقیقه  
   **عنوان:** [What Do You Regret? | Easy German 434](https://www.youtube.com/watch?v=54HEIn4WZo8)  
   ![](https://i.ytimg.com/vi/54HEIn4WZo8/hqdefault.jpg)
 

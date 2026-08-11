@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-10T10:24:12Z_
+_آخرین به‌روزرسانی: 2026-08-11T10:05:25Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-10 13:00:03 (UTC)  
+  **مدت:** حدود 182.8 دقیقه  
+  **عنوان:** [ASMR 10분안에 잠드는😴 꿀잠 수면 영상 빈티지 다꾸 | 다이어리 꾸미기 3hour Scrapbooking](https://www.youtube.com/watch?v=1qe05jetFOg)  
+  ![](https://i.ytimg.com/vi/1qe05jetFOg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-09 14:20:13 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-10T10:24:12Z_
   **مدت:** حدود 0.8 دقیقه  
   **عنوان:** [Scrapbooking 2/2🌹 #journal #aesthetic #scrapbooking #asmr](https://www.youtube.com/watch?v=_yWsIRk6M68)  
   ![](https://i.ytimg.com/vi/_yWsIRk6M68/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-05-30 12:15:04 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Scrapbooking 1/2🥀 #journal #aesthetic #scrapbooking #asmr](https://www.youtube.com/watch?v=wNzPDEJG82E)  
-  ![](https://i.ytimg.com/vi/wNzPDEJG82E/hqdefault.jpg)
