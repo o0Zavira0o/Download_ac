@@ -1,4 +1,4 @@
-# Last Run: 2026-08-12 09:16 UTC
+# Last Run: 2026-08-12 11:04 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Next Front in LNG Sanctions Runs Through China
@@ -156,12 +156,4 @@ Link: https://foreignpolicy.com/2026/08/10/todd-blanche-saturday-night-massacre-
 [Foreign_Affairs] Why China Worries About North Korea
 Published: 2026-08-10T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/why-china-worries-about-north-korea
----
-[New_Yorker_Magazine] “The Blight,” by Emma Cline
-Published: 2026-08-09T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/17/the-blight-fiction-emma-cline
----
-[New_Yorker_Magazine] A.I. Is Now a Major Election Issue
-Published: 2026-08-09T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/17/ai-is-now-a-major-election-issue
 ---
