@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-11T10:05:25Z_
+_آخرین به‌روزرسانی: 2026-08-12T10:14:26Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-11 12:30:25 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Spherical Coulisse Mechanism](https://www.youtube.com/watch?v=aUlnYlBLyTA)  
+  ![](https://i.ytimg.com/vi/aUlnYlBLyTA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-10 12:44:28 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-11T10:05:25Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅Slider Crank: The Mechanism Showdown](https://www.youtube.com/watch?v=wXWRW5y5gxc)  
   ![](https://i.ytimg.com/vi/wXWRW5y5gxc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-08 13:00:24 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Screw Conveyor Machine Animation #machine #design #engineering #conveyorsystems](https://www.youtube.com/watch?v=pSMKWx0ilsY)  
-  ![](https://i.ytimg.com/vi/pSMKWx0ilsY/hqdefault.jpg)

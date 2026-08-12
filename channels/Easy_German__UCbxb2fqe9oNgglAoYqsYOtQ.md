@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-11T10:05:25Z_
+_آخرین به‌روزرسانی: 2026-08-12T10:14:26Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-11 13:58:16 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Ist Gehalt ein Tabuthema? #easygerman #deutschlernen #gehalt](https://www.youtube.com/watch?v=jGsAWVC6WkU)  
+  ![](https://i.ytimg.com/vi/jGsAWVC6WkU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-10 10:01:36 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-11T10:05:25Z_
   **مدت:** حدود 9.9 دقیقه  
   **عنوان:** [How is your mood today? | Easy German 169](https://www.youtube.com/watch?v=gQac_2z7f44)  
   ![](https://i.ytimg.com/vi/gQac_2z7f44/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-11 22:10:06 (UTC)  
-  **مدت:** حدود 14.4 دقیقه  
-  **عنوان:** [Cari antwortet (38) - Finding work in Germany | Racism|  Youtubers begging for money](https://www.youtube.com/watch?v=_RINFYwdhms)  
-  ![](https://i.ytimg.com/vi/_RINFYwdhms/hqdefault.jpg)
