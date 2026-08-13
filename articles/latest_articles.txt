@@ -1,6 +1,14 @@
-# Last Run: 2026-08-13 02:05 UTC
+# Last Run: 2026-08-13 05:48 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] Hot to Broker Peace in Ukraine
+Published: 2026-08-13T04:00:00+00:00
+Link: https://www.foreignaffairs.com/ukraine/hot-broker-peace-ukraine
+---
+[Foreign_Affairs] The Next Global Economic Crisis Could Be Made in China
+Published: 2026-08-13T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/next-global-economic-crisis-made-china-michael-froman
+---
 [Foreign_Policy] What Does the Mecca Pact Deliver Pakistan?
 Published: 2026-08-12T21:20:25+00:00
 Link: https://foreignpolicy.com/2026/08/12/pakistan-mecca-pact-saudi-arabia-turkey-iran-mutual-defense/
@@ -164,12 +172,4 @@ Link: https://www.newyorker.com/magazine/2026/08/17/eat-the-lotus
 [New_Yorker_Magazine] “Cereus,” by Henri Cole
 Published: 2026-08-10T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/08/17/cereus-henri-cole-poem
----
-[Foreign_Policy] Todd Blanche’s Confirmation Would Have Been A Scandal in 1973
-Published: 2026-08-10T04:01:30+00:00
-Link: https://foreignpolicy.com/2026/08/10/todd-blanche-saturday-night-massacre-justice-department/
----
-[Foreign_Affairs] Why China Worries About North Korea
-Published: 2026-08-10T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/why-china-worries-about-north-korea
 ---
