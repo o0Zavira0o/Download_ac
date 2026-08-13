@@ -1,6 +1,14 @@
-# Last Run: 2026-08-13 11:05 UTC
+# Last Run: 2026-08-13 13:17 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Drone Warfare Comes to Latin America
+Published: 2026-08-13T11:00:26+00:00
+Link: https://foreignpolicy.com/2026/08/13/latin-america-armed-groups-drones-colombia-mexico-ukraine/
+---
+[Foreign_Affairs] How to Broker Peace in Ukraine
+Published: 2026-08-13T04:00:00+00:00
+Link: https://www.foreignaffairs.com/ukraine/how-broker-peace-ukraine
+---
 [Foreign_Affairs] Hot to Broker Peace in Ukraine
 Published: 2026-08-13T04:00:00+00:00
 Link: https://www.foreignaffairs.com/ukraine/hot-broker-peace-ukraine
