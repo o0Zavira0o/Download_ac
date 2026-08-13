@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-12T10:14:26Z_
+_آخرین به‌روزرسانی: 2026-08-13T10:15:59Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-12 12:30:22 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How a Cam and Sine Mechanism Works! ⚙️ #shorts](https://www.youtube.com/watch?v=4VggmvdQw8o)  
+  ![](https://i.ytimg.com/vi/4VggmvdQw8o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-11 12:30:25 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-12T10:14:26Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅Axial Piston Pump: A Masterclass in Engineering Elegance](https://www.youtube.com/watch?v=j01UYUDwT4Q)  
   ![](https://i.ytimg.com/vi/j01UYUDwT4Q/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-09 14:29:31 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Slider Crank: The Mechanism Showdown](https://www.youtube.com/watch?v=wXWRW5y5gxc)  
-  ![](https://i.ytimg.com/vi/wXWRW5y5gxc/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-12T10:14:26Z_
+_آخرین به‌روزرسانی: 2026-08-13T10:15:59Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-13 03:30:11 (UTC)  
+  **مدت:** حدود 35.4 دقیقه  
+  **عنوان:** [Control Lever Shaft Modeling in SolidWorks](https://www.youtube.com/watch?v=GuUx7qVoCZg)  
+  ![](https://i.ytimg.com/vi/GuUx7qVoCZg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-11 03:30:05 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-12T10:14:26Z_
   **مدت:** حدود 61.8 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Wind Turbine in Solidworks](https://www.youtube.com/watch?v=qrlC5EF2ab8)  
   ![](https://i.ytimg.com/vi/qrlC5EF2ab8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-19 23:27:46 (UTC)  
-  **مدت:** حدود 29.3 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Wheel Rim in Solidworks](https://www.youtube.com/watch?v=_C8gy-OI1GU)  
-  ![](https://i.ytimg.com/vi/_C8gy-OI1GU/hqdefault.jpg)

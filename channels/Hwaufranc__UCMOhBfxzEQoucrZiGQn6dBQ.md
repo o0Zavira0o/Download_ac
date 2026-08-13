@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-12T10:14:26Z_
+_آخرین به‌روزرسانی: 2026-08-13T10:15:59Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-12 13:20:34 (UTC)  
+  **مدت:** حدود 9.5 دقیقه  
+  **عنوان:** [다꾸 ASMR 판타지 정글 다이어리 꾸미기 | Journaling diy꾸미기 コラージュ](https://www.youtube.com/watch?v=6T7aCyTKcO0)  
+  ![](https://i.ytimg.com/vi/6T7aCyTKcO0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-11 13:00:03 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-12T10:14:26Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Aesthetic Journaling ASMR #shorts](https://www.youtube.com/watch?v=xXTJPaXMH0Q)  
   ![](https://i.ytimg.com/vi/xXTJPaXMH0Q/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-01 13:25:00 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Aesthetic Journaling ASMR | Washi Tape Journal ideas](https://www.youtube.com/watch?v=pDDqpsTviGM)  
-  ![](https://i.ytimg.com/vi/pDDqpsTviGM/hqdefault.jpg)

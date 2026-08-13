@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-08-12T10:14:26Z_
+_آخرین به‌روزرسانی: 2026-08-13T10:15:59Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-08-13 02:08:43 (UTC)  
+  **مدت:** حدود 22.3 دقیقه  
+  **عنوان:** [Design of bore pipe adapter for drifter machine in solidworks | Solidworks parts and assembly](https://www.youtube.com/watch?v=_pqnuT1-c1M)  
+  ![](https://i.ytimg.com/vi/_pqnuT1-c1M/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-11 08:36:17 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-12T10:14:26Z_
   **مدت:** حدود 4.0 دقیقه  
   **عنوان:** [Design of Cultivator in Solidworks  Part5 | Solidworks tutorial](https://www.youtube.com/watch?v=HNDV9bKA01A)  
   ![](https://i.ytimg.com/vi/HNDV9bKA01A/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-13 17:08:43 (UTC)  
-  **مدت:** حدود 5.7 دقیقه  
-  **عنوان:** [Design of cultivator in solidworks | Part4 | Solidworks tutorial](https://www.youtube.com/watch?v=1tr46MssmhE)  
-  ![](https://i.ytimg.com/vi/1tr46MssmhE/hqdefault.jpg)

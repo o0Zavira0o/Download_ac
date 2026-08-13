@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-12T10:14:26Z_
+_آخرین به‌روزرسانی: 2026-08-13T10:15:59Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-12 17:00:04 (UTC)  
+  **مدت:** حدود 17.9 دقیقه  
+  **عنوان:** [Our Favourite Store in Berlin (Slow German)](https://www.youtube.com/watch?v=92Mcmx5gVus)  
+  ![](https://i.ytimg.com/vi/92Mcmx5gVus/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-11 13:58:16 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-12T10:14:26Z_
   **مدت:** حدود 11.7 دقیقه  
   **عنوان:** [Studying in Germany | Easy German 170](https://www.youtube.com/watch?v=nCNEJoqm8Dk)  
   ![](https://i.ytimg.com/vi/nCNEJoqm8Dk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-13 21:56:41 (UTC)  
-  **مدت:** حدود 9.9 دقیقه  
-  **عنوان:** [How is your mood today? | Easy German 169](https://www.youtube.com/watch?v=gQac_2z7f44)  
-  ![](https://i.ytimg.com/vi/gQac_2z7f44/hqdefault.jpg)
