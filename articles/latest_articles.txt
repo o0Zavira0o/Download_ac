@@ -1,4 +1,4 @@
-# Last Run: 2026-08-14 13:11 UTC
+# Last Run: 2026-08-14 14:57 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Colombia’s Week of Rupture
@@ -112,8 +112,4 @@ Link: https://foreignpolicy.com/2026/08/11/debanking-dissidents-russia-trump-san
 [Foreign_Policy] Trump Has His Own Communist Manifesto
 Published: 2026-08-11T15:33:48+00:00
 Link: https://foreignpolicy.com/2026/08/11/trump-communism-state-capitalism-tariffs-semiconductor-chips/
----
-[Foreign_Policy] China Has Chosen to Disappoint Its Consumers
-Published: 2026-08-11T13:47:11+00:00
-Link: https://foreignpolicy.com/2026/08/11/china-politburo-xi-jinping-household-consumption-economy/
 ---
