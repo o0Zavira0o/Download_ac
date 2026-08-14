@@ -1,6 +1,18 @@
-# Last Run: 2026-08-14 20:36 UTC
+# Last Run: 2026-08-14 22:27 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump’s Flurry of National Security Policies
+Published: 2026-08-14T20:17:46+00:00
+Link: https://foreignpolicy.com/2026/08/14/trump-drone-tariffs-cyber-memo-zambia-election/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-08-14T19:08:03+00:00
+Link: https://foreignpolicy.com/2026/08/14/foreign-policy-news-quiz-colombia-earthquake-typhoon-russia-lebanon-eclipse/
+---
+[Foreign_Policy] Liberalism Is Worth Saving. Here’s How.
+Published: 2026-08-14T19:00:37+00:00
+Link: https://foreignpolicy.com/2026/08/14/liberalism-saving-antidemocratic-industry-economy-elite/
+---
 [Foreign_Policy] The End of American Innocence
 Published: 2026-08-14T18:45:09+00:00
 Link: https://foreignpolicy.com/2026/08/14/graham-greene-quiet-american-us-exceptionalism-war-vietnam-trump/
@@ -112,8 +124,4 @@ Link: https://www.foreignaffairs.com/united-states/americas-fatal-attraction-war
 [Foreign_Policy] A Middle Eastern NATO?
 Published: 2026-08-11T23:01:35+00:00
 Link: https://foreignpolicy.com/2026/08/11/turkey-pakistan-saudi-arabia-mecca-pact-fp-live/
----
-[Foreign_Policy] Why Is AI So Popular in China?
-Published: 2026-08-11T21:58:37+00:00
-Link: https://foreignpolicy.com/2026/08/11/ai-china-us-data-center-opposition-regulation-trump-xi-summit/
 ---
