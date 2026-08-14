@@ -1,4 +1,4 @@
-# Last Run: 2026-08-14 18:59 UTC
+# Last Run: 2026-08-14 20:36 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The End of American Innocence
@@ -116,8 +116,4 @@ Link: https://foreignpolicy.com/2026/08/11/turkey-pakistan-saudi-arabia-mecca-pa
 [Foreign_Policy] Why Is AI So Popular in China?
 Published: 2026-08-11T21:58:37+00:00
 Link: https://foreignpolicy.com/2026/08/11/ai-china-us-data-center-opposition-regulation-trump-xi-summit/
----
-[Foreign_Policy] Colombia’s New President Faces His First Major Test
-Published: 2026-08-11T19:52:24+00:00
-Link: https://foreignpolicy.com/2026/08/11/colombia-earthquakes-de-la-espriella-yemen-houthis-russia-yabloko-court-syria-assad/
 ---
