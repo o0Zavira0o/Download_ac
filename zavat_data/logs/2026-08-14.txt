@@ -1,4 +1,64 @@
 ================================================================================
+2026-08-14 07:05:00 (Asia/Tehran) | IrGens
+Title  : Operate and Manage Amazon S3
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 27m | 282 MB
+Link   : http://zavat.pw/ebooks/amazon-s3-operate-manage.html
+
+================================================================================
+2026-08-14 07:05:00 (Asia/Tehran) | IrGens
+Title  : Deploying and Managing Applications with Azure App Service
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 28m | 103 MB
+Link   : http://zavat.pw/ebooks/azure-app-service-deploying-managing.html
+
+================================================================================
+2026-08-14 07:05:00 (Asia/Tehran) | IrGens
+Title  : GitHub Copilot CLI: Working with External APIs and Data
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 34m | 252 MB
+Link   : http://zavat.pw/ebooks/github-copilot-cli-working-external-apis-data.html
+
+================================================================================
+2026-08-14 07:05:00 (Asia/Tehran) | IrGens
+Title  : The Wanted and the Unwanted
+Details: English | 11 August 2026 | ISBN: 0522882463, 9780522882476 | True EPUB | 256 pages | 1.2 MB
+Link   : http://zavat.pw/ebooks/0522882463.html
+
+================================================================================
+2026-08-14 07:05:00 (Asia/Tehran) | IrGens
+Title  : Imagine That: Transform How You Think, Feel, and Live with the Science of Imagination
+Details: English | August 11, 2026 | ISBN: 1668067390, 9781668067413 | True EPUB | 304 pages | 9.4 MB
+Link   : http://zavat.pw/ebooks/1668067390.html
+
+================================================================================
+2026-08-14 07:05:00 (Asia/Tehran) | IrGens
+Title  : Eat to Heal: A delicious guide with the latest breakthroughs in inflammation research
+Details: English | 13 Aug. 2026 | ISBN: 1922468142, 9781923748613 | True EPUB | 240 pages | 40.7 MB
+Link   : http://zavat.pw/ebooks/1922468142.html
+
+================================================================================
+2026-08-14 07:05:00 (Asia/Tehran) | IrGens
+Title  : How to Think Clearly: Cut through noise, see the big picture and make better decisions
+Details: English | 13 Aug. 2026 | ISBN: 180522350X, 9781805223511 | True EPUB | 240 pages | 0.4 MB
+Link   : http://zavat.pw/ebooks/180522350X.html
+
+================================================================================
+2026-08-14 07:05:00 (Asia/Tehran) | IrGens
+Title  : Tech Bros: The Extraordinary Story of Atlassian
+Details: English | 11 August 2026 | ISBN: 146076949X, 9781460719824 | True EPUB | 315 pages | 11.9 MB
+Link   : http://zavat.pw/ebooks/146076949X.html
+
+================================================================================
+2026-08-14 07:05:00 (Asia/Tehran) | IrGens
+Title  : OpenAI Codex: Create Reusable Engineering Skills
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 37m | 180 MB
+Link   : http://zavat.pw/ebooks/openai-codex-create-reusable-engineering-skills.html
+
+================================================================================
+2026-08-14 07:05:00 (Asia/Tehran) | IrGens
+Title  : Data Governance in the Age of AI
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 1h 5m | 189 MB
+Link   : http://zavat.pw/ebooks/data-governance-in-the-age-of-ai.html
+
+================================================================================
 2026-08-14 01:06:55 (Asia/Tehran) | hill0
 Title  : Engineering Mechanics: Statics, SI Units (15th Edition)
 Details: English | 2023 | ISBN: 1292444045 | 671 Pages | PDF (True) | 112 MB
