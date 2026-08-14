@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-13T10:15:59Z_
+_آخرین به‌روزرسانی: 2026-08-14T10:11:38Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-13 10:55:50 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Schöne vs. hässliche Wörter #shorts #schönewörter #doch](https://www.youtube.com/watch?v=-HiMAaH_0FQ)  
+  ![](https://i.ytimg.com/vi/-HiMAaH_0FQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-12 17:00:04 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-13T10:15:59Z_
   **مدت:** حدود 4.0 دقیقه  
   **عنوان:** [The Motorbike | Super Easy German (6)](https://www.youtube.com/watch?v=0hH-rgbc-Kg)  
   ![](https://i.ytimg.com/vi/0hH-rgbc-Kg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-20 19:46:56 (UTC)  
-  **مدت:** حدود 11.7 دقیقه  
-  **عنوان:** [Studying in Germany | Easy German 170](https://www.youtube.com/watch?v=nCNEJoqm8Dk)  
-  ![](https://i.ytimg.com/vi/nCNEJoqm8Dk/hqdefault.jpg)

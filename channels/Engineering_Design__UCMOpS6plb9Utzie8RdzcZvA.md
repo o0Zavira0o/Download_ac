@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-13T10:15:59Z_
+_آخرین به‌روزرسانی: 2026-08-14T10:11:38Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-13 12:57:47 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Slider-Connecting Rod Dwell Mechanism](https://www.youtube.com/watch?v=afLZp-eta4I)  
+  ![](https://i.ytimg.com/vi/afLZp-eta4I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-12 12:30:22 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-13T10:15:59Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅Mechanical Mechanism Animation | Understanding Engineering in Motion](https://www.youtube.com/watch?v=J0pBWnGE0_c)  
   ![](https://i.ytimg.com/vi/J0pBWnGE0_c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-11 11:43:50 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Axial Piston Pump: A Masterclass in Engineering Elegance](https://www.youtube.com/watch?v=j01UYUDwT4Q)  
-  ![](https://i.ytimg.com/vi/j01UYUDwT4Q/hqdefault.jpg)
