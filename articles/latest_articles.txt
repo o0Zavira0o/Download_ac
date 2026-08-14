@@ -1,6 +1,10 @@
-# Last Run: 2026-08-14 11:07 UTC
+# Last Run: 2026-08-14 13:11 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Colombia’s Week of Rupture
+Published: 2026-08-14T12:00:19+00:00
+Link: https://foreignpolicy.com/2026/08/14/colombia-earthquake-espriella-foreign-policy-trump-us-israel/
+---
 [Foreign_Affairs] The Long Shadow of the Iran Shock
 Published: 2026-08-14T04:00:00+00:00
 Link: https://www.foreignaffairs.com/iran/long-shadow-iran-shock
@@ -112,8 +116,4 @@ Link: https://foreignpolicy.com/2026/08/11/trump-communism-state-capitalism-tari
 [Foreign_Policy] China Has Chosen to Disappoint Its Consumers
 Published: 2026-08-11T13:47:11+00:00
 Link: https://foreignpolicy.com/2026/08/11/china-politburo-xi-jinping-household-consumption-economy/
----
-[Foreign_Policy] The West Bank, Not Gaza, Should Be Trump’s Priority
-Published: 2026-08-11T11:23:04+00:00
-Link: https://foreignpolicy.com/2026/08/11/trump-israel-west-bank-gaza-palestinians-settlers-hamas-netanyahu-election/
 ---
