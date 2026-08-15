@@ -1,4 +1,22 @@
 ================================================================================
+2026-08-15 14:15:28 (Asia/Tehran) | IrGens
+Title  : Build Streaming Pipelines with Apache Spark on Databricks
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h 6m | 380 MB
+Link   : http://zavat.pw/ebooks/apache-spark-databricks-build-streaming-pipelines.html
+
+================================================================================
+2026-08-15 14:15:28 (Asia/Tehran) | IrGens
+Title  : Wireless Security and Troubleshooting
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 29m | 268 MB
+Link   : http://zavat.pw/ebooks/wireless-security-troubleshooting.html
+
+================================================================================
+2026-08-15 14:15:28 (Asia/Tehran) | IrGens
+Title  : Advanced Model Architectures with Keras
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 3h 28m | 898 MB
+Link   : http://zavat.pw/ebooks/advanced-model-architecture-keras.html
+
+================================================================================
 2026-08-15 13:45:11 (Asia/Tehran) | IrGens
 Title  : Improving Data Quality with Generative AI
 Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 59m | 400 MB
