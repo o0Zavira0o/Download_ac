@@ -1,4 +1,4 @@
-# Last Run: 2026-08-14 22:27 UTC
+# Last Run: 2026-08-15 01:22 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s Flurry of National Security Policies
@@ -120,8 +120,4 @@ Link: https://www.foreignaffairs.com/united-states/ai-growth-paradox
 [Foreign_Affairs] America's Fatal Attraction to War
 Published: 2026-08-12T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/americas-fatal-attraction-war
----
-[Foreign_Policy] A Middle Eastern NATO?
-Published: 2026-08-11T23:01:35+00:00
-Link: https://foreignpolicy.com/2026/08/11/turkey-pakistan-saudi-arabia-mecca-pact-fp-live/
 ---
