@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-14T10:11:38Z_
+_آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-15 03:14:32 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [This 1884 invention is pure engineering magic! ⚙️✨ #Shorts](https://www.youtube.com/watch?v=-BxFlWBh9s0)  
+  ![](https://i.ytimg.com/vi/-BxFlWBh9s0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-14 12:30:27 (UTC)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [How to Model an Industrial Desk in SolidWorks](https://www.youtube.com/watch?v=wwugsuzGl6Q)  
+  ![](https://i.ytimg.com/vi/wwugsuzGl6Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-13 12:57:47 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-14T10:11:38Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [✅The Ultimate Mechanical Showdown: Mechanism 13](https://www.youtube.com/watch?v=VhH9PvkO-OA)  
   ![](https://i.ytimg.com/vi/VhH9PvkO-OA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-14 14:30:41 (UTC)  
-  **مدت:** حدود 5.8 دقیقه  
-  **عنوان:** [✅Understanding Engineering Mechanism Concept Through Animation](https://www.youtube.com/watch?v=cY9jB0MgoLo)  
-  ![](https://i.ytimg.com/vi/cY9jB0MgoLo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-13 12:12:08 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Mechanical Mechanism Animation | Understanding Engineering in Motion](https://www.youtube.com/watch?v=J0pBWnGE0_c)  
-  ![](https://i.ytimg.com/vi/J0pBWnGE0_c/hqdefault.jpg)

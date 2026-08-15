@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-14T10:11:38Z_
+_آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-14 11:36:07 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Tünnes und Schäl #shorts #easygerman](https://www.youtube.com/watch?v=7xW1_E1nr2k)  
+  ![](https://i.ytimg.com/vi/7xW1_E1nr2k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-13 10:55:50 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-14T10:11:38Z_
   **مدت:** حدود 13.7 دقیقه  
   **عنوان:** [Cari antwortet (39) - Falls vs. Wenn | Easy German Winter School & Christmas Party in Berlin](https://www.youtube.com/watch?v=ID0F7kBqEB8)  
   ![](https://i.ytimg.com/vi/ID0F7kBqEB8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-23 18:48:28 (UTC)  
-  **مدت:** حدود 4.0 دقیقه  
-  **عنوان:** [The Motorbike | Super Easy German (6)](https://www.youtube.com/watch?v=0hH-rgbc-Kg)  
-  ![](https://i.ytimg.com/vi/0hH-rgbc-Kg/hqdefault.jpg)

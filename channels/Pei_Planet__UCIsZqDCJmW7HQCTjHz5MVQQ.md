@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-08-14T10:11:38Z_
+_آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/watch?v=ATjofahxGQs  
+
+
+- **تاریخ انتشار:** 2026-08-14 18:00:09 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Build a tiny burger restaurant with me!#3dstickerscene #stickerbook #journalasmr #3dsticker #diyart](https://www.youtube.com/watch?v=klhwXBv8Z8g)  
+  ![](https://i.ytimg.com/vi/klhwXBv8Z8g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-26 16:08:08 (UTC)  
