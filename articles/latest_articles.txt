@@ -1,4 +1,4 @@
-# Last Run: 2026-08-15 18:33 UTC
+# Last Run: 2026-08-15 20:27 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s Flurry of National Security Policies
@@ -92,12 +92,4 @@ Link: https://foreignpolicy.com/2026/08/12/pakistan-mecca-pact-saudi-arabia-turk
 [Foreign_Policy] What to Watch in Zambia’s Elections
 Published: 2026-08-12T21:06:01+00:00
 Link: https://foreignpolicy.com/2026/08/12/zambia-elections-hichilema-economic-policy-us-china-copper-mines/
----
-[Foreign_Policy] Russia-Ukraine War Escalates With Black Sea Strikes, North Korean Missiles
-Published: 2026-08-12T19:26:39+00:00
-Link: https://foreignpolicy.com/2026/08/12/ukraine-russia-black-sea-strikes-north-korea-missiles-lebanon-death-penalty/
----
-[Foreign_Policy] China Is Finding New Ways to Coerce Uyghurs Abroad
-Published: 2026-08-12T19:17:47+00:00
-Link: https://foreignpolicy.com/2026/08/12/china-uyghurs-families-camps-human-rights/
 ---
