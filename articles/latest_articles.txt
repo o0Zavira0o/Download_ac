@@ -1,4 +1,4 @@
-# Last Run: 2026-08-16 10:26 UTC
+# Last Run: 2026-08-16 12:53 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s Flurry of National Security Policies
@@ -68,8 +68,4 @@ Link: https://foreignpolicy.com/2026/08/13/cyberattack-water-iran-united-states/
 [Foreign_Policy] Why Israel Won’t Make Qatar an Enemy
 Published: 2026-08-13T13:58:34+00:00
 Link: https://foreignpolicy.com/2026/08/13/israel-election-netanyahu-qatar-gaza/
----
-[Foreign_Policy] Drone Warfare Comes to Latin America
-Published: 2026-08-13T11:00:26+00:00
-Link: https://foreignpolicy.com/2026/08/13/latin-america-armed-groups-drones-colombia-mexico-ukraine/
 ---
