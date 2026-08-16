@@ -1,4 +1,4 @@
-# Last Run: 2026-08-16 16:31 UTC
+# Last Run: 2026-08-16 18:35 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s Flurry of National Security Policies
@@ -56,8 +56,4 @@ Link: https://foreignpolicy.com/2026/08/13/iran-war-us-stockpile-depleted-gulf/
 [Foreign_Policy] Israel Clashes With Settlers in the West Bank
 Published: 2026-08-13T20:00:05+00:00
 Link: https://foreignpolicy.com/2026/08/13/west-bank-israel-settlers-idf-mecca-pact-turkey-russia-japan-kuril-islands-congo-ebola/
----
-[Foreign_Policy] Mojtaba Khamenei Is Planning for a Long War
-Published: 2026-08-13T16:50:54+00:00
-Link: https://foreignpolicy.com/2026/08/13/iran-mojtaba-khamenei-rezaei-war/
 ---
