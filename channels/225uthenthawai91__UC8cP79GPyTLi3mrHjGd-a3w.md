@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
+_آخرین به‌روزرسانی: 2026-08-16T09:34:17Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  
+
+
+- **تاریخ انتشار:** 2026-08-16 07:38:02 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [CAPSTONE DESIGN PROJECT : 3D Mortar Printer Presentation](https://www.youtube.com/watch?v=ARE2wSdddaI)  
+  ![](https://i.ytimg.com/vi/ARE2wSdddaI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-08 18:29:13 (UTC)  

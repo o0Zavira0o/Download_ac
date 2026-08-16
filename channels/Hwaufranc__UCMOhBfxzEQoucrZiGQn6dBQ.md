@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
+_آخرین به‌روزرسانی: 2026-08-16T09:34:17Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-15 13:20:16 (UTC)  
+  **مدت:** حدود 9.4 دقیقه  
+  **عنوان:** [ASMR 스탬프 팡팡 다꾸 꾸미기 | 도장다꾸 미니 Journaling Stamp diy꾸미기](https://www.youtube.com/watch?v=yXyyLGGh1hE)  
+  ![](https://i.ytimg.com/vi/yXyyLGGh1hE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-13 13:00:29 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Journaling ASMR #shorts #boy #theme #journal](https://www.youtube.com/watch?v=piSyNruhg2g)  
   ![](https://i.ytimg.com/vi/piSyNruhg2g/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-02 13:25:00 (UTC)  
-  **مدت:** حدود 9.5 دقیقه  
-  **عنوان:** [Decorating Alice Themed Journal🐰🕰 2pages journaling asmr sounds](https://www.youtube.com/watch?v=TJN0-kwyuFI)  
-  ![](https://i.ytimg.com/vi/TJN0-kwyuFI/hqdefault.jpg)

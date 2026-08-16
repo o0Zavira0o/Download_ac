@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
+_آخرین به‌روزرسانی: 2026-08-16T09:34:17Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-15 10:51:28 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Merkwürdige Hobbys #hobby #merkwürdig #easygerman #streetinterview](https://www.youtube.com/watch?v=7TobckP1KKs)  
+  ![](https://i.ytimg.com/vi/7TobckP1KKs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-14 11:36:07 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
   **مدت:** حدود 10.4 دقیقه  
   **عنوان:** [Göttingen | Easy German 171](https://www.youtube.com/watch?v=xLm7eczTWpg)  
   ![](https://i.ytimg.com/vi/xLm7eczTWpg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-25 19:22:02 (UTC)  
-  **مدت:** حدود 13.7 دقیقه  
-  **عنوان:** [Cari antwortet (39) - Falls vs. Wenn | Easy German Winter School & Christmas Party in Berlin](https://www.youtube.com/watch?v=ID0F7kBqEB8)  
-  ![](https://i.ytimg.com/vi/ID0F7kBqEB8/hqdefault.jpg)

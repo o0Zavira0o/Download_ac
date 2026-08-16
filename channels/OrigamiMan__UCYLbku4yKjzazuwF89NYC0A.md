@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
+_آخرین به‌روزرسانی: 2026-08-16T09:34:17Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-08-15 10:00:03 (UTC)  
+  **مدت:** حدود 16.6 دقیقه  
+  **عنوان:** [39,Origami Akabeko | Japanese Lucky Cow | Silent Origami　折り紙で赤べこを折る｜日本の縁起物【無言の折り紙】](https://www.youtube.com/watch?v=sbZNJ4K3Cb0)  
+  ![](https://i.ytimg.com/vi/sbZNJ4K3Cb0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-08 10:00:27 (UTC)  

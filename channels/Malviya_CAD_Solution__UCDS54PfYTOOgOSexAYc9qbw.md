@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
+_آخرین به‌روزرسانی: 2026-08-16T09:34:17Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-08-16 04:31:42 (UTC)  
+  **مدت:** حدود 2.4 دقیقه  
+  **عنوان:** [How to make this in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=mSeFkRB7_UQ)  
+  ![](https://i.ytimg.com/vi/mSeFkRB7_UQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-13 02:08:43 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
   **مدت:** حدود 1.1 دقیقه  
   **عنوان:** [Solidworks full round fillet #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=QoLwnFcgYfQ)  
   ![](https://i.ytimg.com/vi/QoLwnFcgYfQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-15 14:47:25 (UTC)  
-  **مدت:** حدود 4.0 دقیقه  
-  **عنوان:** [Design of Cultivator in Solidworks  Part5 | Solidworks tutorial](https://www.youtube.com/watch?v=HNDV9bKA01A)  
-  ![](https://i.ytimg.com/vi/HNDV9bKA01A/hqdefault.jpg)

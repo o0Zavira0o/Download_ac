@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
+_آخرین به‌روزرسانی: 2026-08-16T09:34:17Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-15 16:00:21 (UTC)  
+  **مدت:** حدود 18.2 دقیقه  
+  **عنوان:** [Pillar Base modeling SolidWorks exercise](https://www.youtube.com/watch?v=mX_tFzLoIE4)  
+  ![](https://i.ytimg.com/vi/mX_tFzLoIE4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-13 03:30:11 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-15T09:32:31Z_
   **مدت:** حدود 111.4 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Jeep in Solidworks](https://www.youtube.com/watch?v=q5ulGB7UThs)  
   ![](https://i.ytimg.com/vi/q5ulGB7UThs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-21 04:01:00 (UTC)  
-  **مدت:** حدود 61.8 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Wind Turbine in Solidworks](https://www.youtube.com/watch?v=qrlC5EF2ab8)  
-  ![](https://i.ytimg.com/vi/qrlC5EF2ab8/hqdefault.jpg)
