@@ -1,6 +1,22 @@
-# Last Run: 2026-08-16 20:33 UTC
+# Last Run: 2026-08-16 22:26 UTC
 # Articles published in last 72 hours
 
+[New_Yorker_Magazine] “Hidden Life,” by Madhuri Vijay
+Published: 2026-08-16T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/hidden-life-fiction-madhuri-vijay
+---
+[New_Yorker_Magazine] “Life of M,” Reviewed
+Published: 2026-08-16T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/life-of-m-rachel-cusk-book-review
+---
+[New_Yorker_Magazine] Donald Trump Is Still Trying to Make It Harder to Vote
+Published: 2026-08-16T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/donald-trump-is-still-trying-to-make-it-harder-to-vote
+---
+[New_Yorker_Magazine] Move Over, Aaron Judge—the Real Yankees M.V.P. Is George Costanza
+Published: 2026-08-15T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/move-over-aaron-judge-the-real-yankees-mvp-is-george-costanza
+---
 [Foreign_Policy] Trump’s Flurry of National Security Policies
 Published: 2026-08-14T20:17:46+00:00
 Link: https://foreignpolicy.com/2026/08/14/trump-drone-tariffs-cyber-memo-zambia-election/
@@ -41,6 +57,10 @@ Link: https://foreignpolicy.com/2026/08/14/iran-war-vietnam-similarities-david-h
 Published: 2026-08-14T12:00:19+00:00
 Link: https://foreignpolicy.com/2026/08/14/colombia-earthquake-espriella-foreign-policy-trump-us-israel/
 ---
+[New_Yorker_Magazine] Toons Have Seldom Been Loonier Than in “Coyote vs. Acme”
+Published: 2026-08-14T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/coyote-vs-acme-movie-review
+---
 [Foreign_Affairs] The Long Shadow of the Iran Shock
 Published: 2026-08-14T04:00:00+00:00
 Link: https://www.foreignaffairs.com/iran/long-shadow-iran-shock
@@ -48,8 +68,4 @@ Link: https://www.foreignaffairs.com/iran/long-shadow-iran-shock
 [Foreign_Affairs] Standing With Afghan Women
 Published: 2026-08-14T04:00:00+00:00
 Link: https://www.foreignaffairs.com/afghanistan/standing-afghan-women
----
-[Foreign_Policy] The Iran War Has Left the U.S. Dangerously Exposed
-Published: 2026-08-13T20:45:17+00:00
-Link: https://foreignpolicy.com/2026/08/13/iran-war-us-stockpile-depleted-gulf/
 ---
