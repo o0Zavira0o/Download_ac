@@ -1,4 +1,4 @@
-# Last Run: 2026-08-17 18:44 UTC
+# Last Run: 2026-08-17 20:31 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Canada Is Exploiting Migrant Agricultural Workers
@@ -48,20 +48,4 @@ Link: https://www.newyorker.com/magazine/2026/08/24/donald-trump-is-still-trying
 [New_Yorker_Magazine] Move Over, Aaron Judge—the Real Yankees M.V.P. Is George Costanza
 Published: 2026-08-15T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/08/24/move-over-aaron-judge-the-real-yankees-mvp-is-george-costanza
----
-[Foreign_Policy] Trump’s Flurry of National Security Policies
-Published: 2026-08-14T20:17:46+00:00
-Link: https://foreignpolicy.com/2026/08/14/trump-drone-tariffs-cyber-memo-zambia-election/
----
-[Foreign_Policy] What in the World?
-Published: 2026-08-14T19:08:03+00:00
-Link: https://foreignpolicy.com/2026/08/14/foreign-policy-news-quiz-colombia-earthquake-typhoon-russia-lebanon-eclipse/
----
-[Foreign_Policy] Liberalism Is Worth Saving. Here’s How.
-Published: 2026-08-14T19:00:37+00:00
-Link: https://foreignpolicy.com/2026/08/14/liberalism-saving-antidemocratic-industry-economy-elite/
----
-[Foreign_Policy] The End of American Innocence
-Published: 2026-08-14T18:45:09+00:00
-Link: https://foreignpolicy.com/2026/08/14/graham-greene-quiet-american-us-exceptionalism-war-vietnam-trump/
 ---
