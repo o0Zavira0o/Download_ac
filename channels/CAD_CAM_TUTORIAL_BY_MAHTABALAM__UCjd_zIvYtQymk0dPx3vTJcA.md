@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-16T09:34:17Z_
+_آخرین به‌روزرسانی: 2026-08-17T09:50:53Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-16 14:08:34 (UTC)  
+  **مدت:** حدود 29.4 دقیقه  
+  **عنوان:** [Create SolidWorks drawing for Pillar Base](https://www.youtube.com/watch?v=6QWlTNYx7BA)  
+  ![](https://i.ytimg.com/vi/6QWlTNYx7BA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-15 16:00:21 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-16T09:34:17Z_
   **مدت:** حدود 15.3 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Step Drill bit in Solidworks](https://www.youtube.com/watch?v=iHwBNhPW8ic)  
   ![](https://i.ytimg.com/vi/iHwBNhPW8ic/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-22 08:23:21 (UTC)  
-  **مدت:** حدود 111.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Jeep in Solidworks](https://www.youtube.com/watch?v=q5ulGB7UThs)  
-  ![](https://i.ytimg.com/vi/q5ulGB7UThs/hqdefault.jpg)

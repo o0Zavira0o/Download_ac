@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-16T09:34:17Z_
+_آخرین به‌روزرسانی: 2026-08-17T09:50:53Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-16 17:00:33 (UTC)  
+  **مدت:** حدود 13.7 دقیقه  
+  **عنوان:** [Do Germans Believe in Aliens? (B2 German Listening Comprehension)](https://www.youtube.com/watch?v=loqocHC9aAU)  
+  ![](https://i.ytimg.com/vi/loqocHC9aAU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-15 10:51:28 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-16T09:34:17Z_
   **مدت:** حدود 2.8 دقیقه  
   **عنوان:** [Skateboarding | Super Easy German (7)](https://www.youtube.com/watch?v=YtXHYhMW77k)  
   ![](https://i.ytimg.com/vi/YtXHYhMW77k/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-27 17:02:28 (UTC)  
-  **مدت:** حدود 10.4 دقیقه  
-  **عنوان:** [Göttingen | Easy German 171](https://www.youtube.com/watch?v=xLm7eczTWpg)  
-  ![](https://i.ytimg.com/vi/xLm7eczTWpg/hqdefault.jpg)

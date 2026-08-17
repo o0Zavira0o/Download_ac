@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-16T09:34:17Z_
+_آخرین به‌روزرسانی: 2026-08-17T09:50:53Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-17 03:06:47 (UTC)  
+  **مدت:** حدود 4.7 دقیقه  
+  **عنوان:** [SolidWorks Weldments Tutorial: C-Shape Modern Coffee Table Design](https://www.youtube.com/watch?v=kIcMbtivbn0)  
+  ![](https://i.ytimg.com/vi/kIcMbtivbn0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-16 14:35:02 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Dual-Linkage Robotic End-Effector Design](https://www.youtube.com/watch?v=lvwKfRMQP4M)  
+  ![](https://i.ytimg.com/vi/lvwKfRMQP4M/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-15 03:14:32 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-16T09:34:17Z_
   **مدت:** حدود 2.2 دقیقه  
   **عنوان:** [I Tried Becoming a Professional CAD/CAM User](https://www.youtube.com/watch?v=1cE7cIwnEO4)  
   ![](https://i.ytimg.com/vi/1cE7cIwnEO4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-16 10:01:22 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Understanding Vertical Slider Mechanism in Engineering](https://www.youtube.com/watch?v=reCcHH65kLY)  
-  ![](https://i.ytimg.com/vi/reCcHH65kLY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-15 05:00:56 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [✅The Ultimate Mechanical Showdown: Mechanism 13](https://www.youtube.com/watch?v=VhH9PvkO-OA)  
-  ![](https://i.ytimg.com/vi/VhH9PvkO-OA/hqdefault.jpg)
