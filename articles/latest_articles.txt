@@ -1,4 +1,4 @@
-# Last Run: 2026-08-17 16:32 UTC
+# Last Run: 2026-08-17 18:44 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Canada Is Exploiting Migrant Agricultural Workers
@@ -64,20 +64,4 @@ Link: https://foreignpolicy.com/2026/08/14/liberalism-saving-antidemocratic-indu
 [Foreign_Policy] The End of American Innocence
 Published: 2026-08-14T18:45:09+00:00
 Link: https://foreignpolicy.com/2026/08/14/graham-greene-quiet-american-us-exceptionalism-war-vietnam-trump/
----
-[Foreign_Policy] AI Is Changing Military Morality
-Published: 2026-08-14T18:30:51+00:00
-Link: https://foreignpolicy.com/2026/08/14/ai-military-just-war/
----
-[Foreign_Policy] What the Cockroach Movement Says About the Indian Economy
-Published: 2026-08-14T18:10:19+00:00
-Link: https://foreignpolicy.com/2026/08/14/india-cockroach-jobs-economy-modi-janta-education/
----
-[Foreign_Policy] How Ronald Reagan Sold Calm to Americans
-Published: 2026-08-14T18:00:08+00:00
-Link: https://foreignpolicy.com/2026/08/14/how-ronald-reagan-sold-calm-to-americans/
----
-[Foreign_Policy] Zhu Rongji’s Death Is the Final Knell for China’s Breakneck Reform Era
-Published: 2026-08-14T16:56:53+00:00
-Link: https://foreignpolicy.com/2026/08/14/zhu-rongji-jiang-zemin-reform-china-xi/
 ---
