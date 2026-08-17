@@ -1,6 +1,18 @@
-# Last Run: 2026-08-17 12:48 UTC
+# Last Run: 2026-08-17 16:32 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Canada Is Exploiting Migrant Agricultural Workers
+Published: 2026-08-17T15:29:30+00:00
+Link: https://foreignpolicy.com/2026/08/17/canada-caribbean-agriculture-mexico-migrant-farm-worker/
+---
+[Foreign_Policy] Has Turkey Really Resolved Its Kurdish Question?
+Published: 2026-08-17T14:42:07+00:00
+Link: https://foreignpolicy.com/2026/08/17/turkey-kurds-ocalan-erdogan-bahceli-syria/
+---
+[Foreign_Policy] China’s New Laws Are Ensnaring Western Companies
+Published: 2026-08-17T12:39:45+00:00
+Link: https://foreignpolicy.com/2026/08/17/china-sanctions-laws-companies-legal-risk-extraterritorial-trade-embargo/
+---
 [Foreign_Policy] The Top 10 Ways Trump Has Made America Weaker
 Published: 2026-08-17T08:36:50+00:00
 Link: https://foreignpolicy.com/2026/08/17/top-10-trump-america-weaker/
@@ -68,8 +80,4 @@ Link: https://foreignpolicy.com/2026/08/14/how-ronald-reagan-sold-calm-to-americ
 [Foreign_Policy] Zhu Rongji’s Death Is the Final Knell for China’s Breakneck Reform Era
 Published: 2026-08-14T16:56:53+00:00
 Link: https://foreignpolicy.com/2026/08/14/zhu-rongji-jiang-zemin-reform-china-xi/
----
-[Foreign_Policy] Yes, the Iran War Really Is Similar to Vietnam
-Published: 2026-08-14T16:25:28+00:00
-Link: https://foreignpolicy.com/2026/08/14/iran-war-vietnam-similarities-david-halberstam-best-brightest/
 ---
