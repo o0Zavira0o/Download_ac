@@ -1,6 +1,10 @@
-# Last Run: 2026-08-17 08:57 UTC
+# Last Run: 2026-08-17 10:37 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Top 10 Ways Trump Has Made America Weaker
+Published: 2026-08-17T08:36:50+00:00
+Link: https://foreignpolicy.com/2026/08/17/top-10-trump-america-weaker/
+---
 [Foreign_Policy] How Ronald Reagan Used Diplomacy to End the Cold War
 Published: 2026-08-17T04:01:36+00:00
 Link: https://foreignpolicy.com/2026/08/17/ronald-reagan-diplomacy-soviet-union/
@@ -72,8 +76,4 @@ Link: https://foreignpolicy.com/2026/08/14/iran-war-vietnam-similarities-david-h
 [Foreign_Policy] Colombia’s Week of Rupture
 Published: 2026-08-14T12:00:19+00:00
 Link: https://foreignpolicy.com/2026/08/14/colombia-earthquake-espriella-foreign-policy-trump-us-israel/
----
-[New_Yorker_Magazine] Toons Have Seldom Been Loonier Than in “Coyote vs. Acme”
-Published: 2026-08-14T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/coyote-vs-acme-movie-review
 ---
