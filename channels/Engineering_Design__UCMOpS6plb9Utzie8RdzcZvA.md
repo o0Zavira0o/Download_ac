@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-17T09:50:53Z_
+_آخرین به‌روزرسانی: 2026-08-18T09:40:33Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-18 02:16:37 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Comparative Design Variations of Nutating and Swashplate Mechanical Drives](https://www.youtube.com/watch?v=J1QSugTXIyE)  
+  ![](https://i.ytimg.com/vi/J1QSugTXIyE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-17 03:06:47 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-17T09:50:53Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅Reciprocating Gear Mechanism #mechanicaldesign #mechanism](https://www.youtube.com/watch?v=GNCRIzfHDP8)  
   ![](https://i.ytimg.com/vi/GNCRIzfHDP8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-20 14:30:02 (UTC)  
-  **مدت:** حدود 2.2 دقیقه  
-  **عنوان:** [I Tried Becoming a Professional CAD/CAM User](https://www.youtube.com/watch?v=1cE7cIwnEO4)  
-  ![](https://i.ytimg.com/vi/1cE7cIwnEO4/hqdefault.jpg)

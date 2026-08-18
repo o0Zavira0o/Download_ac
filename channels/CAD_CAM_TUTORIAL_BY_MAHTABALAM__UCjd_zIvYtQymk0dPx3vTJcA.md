@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-17T09:50:53Z_
+_آخرین به‌روزرسانی: 2026-08-18T09:40:33Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-17 14:56:10 (UTC)  
+  **مدت:** حدود 11.6 دقیقه  
+  **عنوان:** [Create Mesh Pattern with SolidWorks Fill Pattern Feature](https://www.youtube.com/watch?v=Ot1wQS9B3x0)  
+  ![](https://i.ytimg.com/vi/Ot1wQS9B3x0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-16 14:08:34 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-17T09:50:53Z_
   **مدت:** حدود 7.4 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Drill Bit in Solidworks](https://www.youtube.com/watch?v=Xw82i93u0jE)  
   ![](https://i.ytimg.com/vi/Xw82i93u0jE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-23 23:33:27 (UTC)  
-  **مدت:** حدود 15.3 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Step Drill bit in Solidworks](https://www.youtube.com/watch?v=iHwBNhPW8ic)  
-  ![](https://i.ytimg.com/vi/iHwBNhPW8ic/hqdefault.jpg)

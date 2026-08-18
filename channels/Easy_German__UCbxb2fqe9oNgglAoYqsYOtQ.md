@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-17T09:50:53Z_
+_آخرین به‌روزرسانی: 2026-08-18T09:40:33Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-18 08:32:01 (UTC)  
+  **مدت:** حدود 1.7 دقیقه  
+  **عنوان:** [Sich auf Deutsch vorstellen #shorts #easygerman #deutschprüfung #deutschb1prüfung](https://www.youtube.com/watch?v=tQ2QyjeRJHE)  
+  ![](https://i.ytimg.com/vi/tQ2QyjeRJHE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-17 10:58:45 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Nachteile des Lebens in Hamburg #shorts #easygerman](https://www.youtube.com/watch?v=uBDIHuMJSe0)  
+  ![](https://i.ytimg.com/vi/uBDIHuMJSe0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-16 17:00:33 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-17T09:50:53Z_
   **مدت:** حدود 10.9 دقیقه  
   **عنوان:** [Baking German Christmas Biscuits | Easy German 172](https://www.youtube.com/watch?v=U3tYx80abvI)  
   ![](https://i.ytimg.com/vi/U3tYx80abvI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-03 22:18:47 (UTC)  
-  **مدت:** حدود 16.3 دقیقه  
-  **عنوان:** [Cari antwortet (40) - Hass gegen Muslime](https://www.youtube.com/watch?v=3TY-5FOr4Ug)  
-  ![](https://i.ytimg.com/vi/3TY-5FOr4Ug/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-11-30 17:11:55 (UTC)  
-  **مدت:** حدود 2.8 دقیقه  
-  **عنوان:** [Skateboarding | Super Easy German (7)](https://www.youtube.com/watch?v=YtXHYhMW77k)  
-  ![](https://i.ytimg.com/vi/YtXHYhMW77k/hqdefault.jpg)
