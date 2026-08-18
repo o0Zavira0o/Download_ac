@@ -1,6 +1,38 @@
-# Last Run: 2026-08-18 03:00 UTC
+# Last Run: 2026-08-18 04:40 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] How Alliances Survive
+Published: 2026-08-18T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/how-alliances-survive-campbell-doshi
+---
+[Foreign_Affairs] “The Strategy of Terrorism”
+Published: 2026-08-18T04:00:00+00:00
+Link: https://www.foreignaffairs.com/the-back-page/strategy-terrorism
+---
+[Foreign_Affairs] Democracies Need Creative Destruction
+Published: 2026-08-18T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/democracies-need-creative-destruction-pahlka-greenway
+---
+[Foreign_Affairs] AI and the New Age of Bioweapons
+Published: 2026-08-18T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/ai-and-new-age-bioweapons-sherwood-randall
+---
+[Foreign_Affairs] America’s Missing Military Revolution
+Published: 2026-08-18T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/americas-missing-military-revolution-doug-beck
+---
+[Foreign_Affairs] How China Found Its Most Potent Weapon
+Published: 2026-08-18T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/how-china-found-most-potent-weapon-xiong-weiss
+---
+[Foreign_Affairs] The Abandoned Order
+Published: 2026-08-18T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/abandoned-order-world-mark-leonard
+---
+[Foreign_Affairs] The End of the American Middle East
+Published: 2026-08-18T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch
+---
 [Foreign_Policy] Is Trump Choosing North Korea Over South Korea?
 Published: 2026-08-17T20:26:41+00:00
 Link: https://foreignpolicy.com/2026/08/17/trump-south-north-korea-military-drills-iran-israel-hamas-deals/
