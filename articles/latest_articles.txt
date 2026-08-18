@@ -1,4 +1,4 @@
-# Last Run: 2026-08-18 08:42 UTC
+# Last Run: 2026-08-18 10:32 UTC
 # Articles published in last 72 hours
 
 [Foreign_Affairs] How Alliances Survive
@@ -80,8 +80,4 @@ Link: https://www.newyorker.com/magazine/2026/08/24/life-of-m-rachel-cusk-book-r
 [New_Yorker_Magazine] Donald Trump Is Still Trying to Make It Harder to Vote
 Published: 2026-08-16T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/08/24/donald-trump-is-still-trying-to-make-it-harder-to-vote
----
-[New_Yorker_Magazine] Move Over, Aaron Judge—the Real Yankees M.V.P. Is George Costanza
-Published: 2026-08-15T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/move-over-aaron-judge-the-real-yankees-mvp-is-george-costanza
 ---
