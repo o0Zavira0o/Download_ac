@@ -1,4 +1,4 @@
-# Last Run: 2026-08-19 08:41 UTC
+# Last Run: 2026-08-19 10:34 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Colby’s Empty Charm Offensive
@@ -100,16 +100,4 @@ Link: https://www.foreignaffairs.com/united-states/cost-keeping-china-out
 [Foreign_Affairs] Africa Can’t Afford to Squander Its Demographic Opportunity
 Published: 2026-08-17T04:00:00+00:00
 Link: https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
----
-[New_Yorker_Magazine] “Hidden Life,” by Madhuri Vijay
-Published: 2026-08-16T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/hidden-life-fiction-madhuri-vijay
----
-[New_Yorker_Magazine] “Life of M,” Reviewed
-Published: 2026-08-16T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/life-of-m-rachel-cusk-book-review
----
-[New_Yorker_Magazine] Donald Trump Is Still Trying to Make It Harder to Vote
-Published: 2026-08-16T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/donald-trump-is-still-trying-to-make-it-harder-to-vote
 ---
