@@ -1,6 +1,22 @@
-# Last Run: 2026-08-19 14:41 UTC
+# Last Run: 2026-08-19 16:36 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Ukraine’s War Widows Are Fighting for Money
+Published: 2026-08-19T16:15:54+00:00
+Link: https://foreignpolicy.com/2026/08/19/ukraines-war-widows-are-fighting-for-money/
+---
+[Foreign_Policy] Can Venezuela’s Opposition Find A Path to Power?
+Published: 2026-08-19T16:04:47+00:00
+Link: https://foreignpolicy.com/2026/08/19/venezuela-opposition-rodriguez-trump/
+---
+[Foreign_Policy] U.S. Funding Cuts Fuel Child Recruitment Into Haitian Armed Groups
+Published: 2026-08-19T13:36:46+00:00
+Link: https://foreignpolicy.com/2026/08/19/usaid-trump-cuts-haiti-gang-violence-child-recruitment/
+---
+[Foreign_Policy] A Rare Window Has Opened for North Korean Diplomacy
+Published: 2026-08-19T13:15:03+00:00
+Link: https://foreignpolicy.com/2026/08/19/north-south-korea-nuclear-weapons-diplomacy-trump-security/
+---
 [Foreign_Policy] Colby’s Empty Charm Offensive
 Published: 2026-08-19T05:00:21+00:00
 Link: https://foreignpolicy.com/2026/08/19/colby-philippines-southeast-asia-tour/
@@ -32,6 +48,10 @@ Link: https://foreignpolicy.com/2026/08/18/uganda-succession-president-museveni-
 [Foreign_Policy] Colby’s ‘Flexible Realism’ Won’t Work in the Indo-Pacific
 Published: 2026-08-18T12:11:48+00:00
 Link: https://foreignpolicy.com/2026/08/18/elbridge-colby-trump-asia-indo-pacific-china-strategy-defense-geopolitics-alliances-flexible-realism/
+---
+[Foreign_Affairs] AI and the New Age of Bioweapons
+Published: 2026-08-18T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/ai-new-age-bioweapons-sherwood-randall
 ---
 [Foreign_Affairs] How Alliances Survive
 Published: 2026-08-18T04:00:00+00:00
