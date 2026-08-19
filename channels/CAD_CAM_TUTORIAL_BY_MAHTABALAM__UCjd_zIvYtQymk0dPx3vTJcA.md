@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-18T09:40:33Z_
+_آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-18 16:28:40 (UTC)  
+  **مدت:** حدود 14.3 دقیقه  
+  **عنوان:** [SolidWorks Simulation Static, Frequency and Fatigue (Strength Analysis)](https://www.youtube.com/watch?v=clLarhx2Mpk)  
+  ![](https://i.ytimg.com/vi/clLarhx2Mpk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-17 14:56:10 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-18T09:40:33Z_
   **مدت:** حدود 14.3 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Thumb Screw in SolidWorks](https://www.youtube.com/watch?v=q7JXhvzKBFM)  
   ![](https://i.ytimg.com/vi/q7JXhvzKBFM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-24 23:25:59 (UTC)  
-  **مدت:** حدود 7.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Drill Bit in Solidworks](https://www.youtube.com/watch?v=Xw82i93u0jE)  
-  ![](https://i.ytimg.com/vi/Xw82i93u0jE/hqdefault.jpg)

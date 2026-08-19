@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-08-18T09:40:33Z_
+_آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-08-18 21:00:06 (UTC)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Line vs Polyline: Why 90% of pros choose the 2nd! 🤯 #nanocad #Engineering #Drafting #Polyline](https://www.youtube.com/watch?v=_s9KRdQlx2c)  
+  ![](https://i.ytimg.com/vi/_s9KRdQlx2c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-18 13:17:46 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [The DIMS Secret: Dimension complex objects in ONE click! #nanocad #designer #dwg  #DesignTips #cad](https://www.youtube.com/watch?v=PEBT5mS0zIM)  
+  ![](https://i.ytimg.com/vi/PEBT5mS0zIM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-02 21:00:04 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-18T09:40:33Z_
   **مدت:** حدود 3.2 دقیقه  
   **عنوان:** [Deleting Entities - Lesson 13](https://www.youtube.com/watch?v=PhT3t2C1Xw4)  
   ![](https://i.ytimg.com/vi/PhT3t2C1Xw4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-01-16 10:20:06 (UTC)  
-  **مدت:** حدود 3.6 دقیقه  
-  **عنوان:** [Moving and Copying Objects - Lesson 12](https://www.youtube.com/watch?v=OeU7x7DCtrA)  
-  ![](https://i.ytimg.com/vi/OeU7x7DCtrA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-01-09 09:45:01 (UTC)  
-  **مدت:** حدود 5.1 دقیقه  
-  **عنوان:** [Drawing Splines - Lesson 11](https://www.youtube.com/watch?v=QgahiNebsk4)  
-  ![](https://i.ytimg.com/vi/QgahiNebsk4/hqdefault.jpg)

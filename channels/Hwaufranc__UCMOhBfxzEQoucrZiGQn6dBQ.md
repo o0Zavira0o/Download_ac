@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-18T09:40:33Z_
+_آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-18 13:00:24 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [aespa(에스파) 닝닝 포카 DIY 만들기 #aespa #diy #포카](https://www.youtube.com/watch?v=80rVUH_nNGg)  
+  ![](https://i.ytimg.com/vi/80rVUH_nNGg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-17 14:15:29 (UTC)  
@@ -1468,7 +1474,7 @@ _آخرین به‌روزرسانی: 2026-08-18T09:40:33Z_
 
 - **تاریخ انتشار:** 2026-01-04 12:20:00 (UTC)  
   **مدت:** حدود 16.8 دقیقه  
-  **عنوان:** [ASMR Immersive Cardmaking DIY [no music] 카드 메이킹 다꾸 | hwaufranc](https://www.youtube.com/watch?v=CrVyHhdj9-k)  
+  **عنوان:** [ASMR Cardmaking DIY (BTS,Blackpink,Stray kids,Kpop) 포카 다꾸 | hwaufranc](https://www.youtube.com/watch?v=CrVyHhdj9-k)  
   ![](https://i.ytimg.com/vi/CrVyHhdj9-k/hqdefault.jpg)
 
 
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-18T09:40:33Z_
   **مدت:** حدود 185.6 دقیقه  
   **عنوان:** [ASMR Decorating Art Journal🧆 [3H] Journaling relaxing paper sounds for sleep](https://www.youtube.com/watch?v=sbICreItwiA)  
   ![](https://i.ytimg.com/vi/sbICreItwiA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-05 14:16:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Creative Art Journaling ASMR 🏺 #journal #journalideas](https://www.youtube.com/watch?v=H22jhcVbOmY)  
-  ![](https://i.ytimg.com/vi/H22jhcVbOmY/hqdefault.jpg)

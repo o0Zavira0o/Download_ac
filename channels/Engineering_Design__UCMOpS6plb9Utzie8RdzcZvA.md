@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-18T09:40:33Z_
+_آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-19 03:06:14 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How a Mini Drafter Actually Works! 📏 #shorts](https://www.youtube.com/watch?v=vGuguYFA01c)  
+  ![](https://i.ytimg.com/vi/vGuguYFA01c/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-18 02:16:37 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-18T09:40:33Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅Gear-Based Hidden Clock Mechanism](https://www.youtube.com/watch?v=tpdqpMVj2fc)  
   ![](https://i.ytimg.com/vi/tpdqpMVj2fc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-23 11:43:35 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Reciprocating Gear Mechanism #mechanicaldesign #mechanism](https://www.youtube.com/watch?v=GNCRIzfHDP8)  
-  ![](https://i.ytimg.com/vi/GNCRIzfHDP8/hqdefault.jpg)
