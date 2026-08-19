@@ -1,4 +1,16 @@
 ================================================================================
+2026-08-19 15:18:04 (Asia/Tehran) | IrGens
+Title  : Git in the AI Agent Era
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 37m | 575 MB
+Link   : http://zavat.pw/ebooks/git-ai-agent-era.html
+
+================================================================================
+2026-08-19 15:18:04 (Asia/Tehran) | IrGens
+Title  : Filter and Sort Data with SQL in PostgreSQL
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 11m | 213 MB
+Link   : http://zavat.pw/ebooks/filter-sort-data-sql-postgresql.html
+
+================================================================================
 2026-08-19 14:48:22 (Asia/Tehran) | hill0
 Title  : Writing Multimedia Journalism
 Details: English | 2026 | ISBN: 3032197864 | 506 Pages | PDF EPUB (True) | 6 MB
