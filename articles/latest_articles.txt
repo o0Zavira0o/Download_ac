@@ -1,6 +1,26 @@
-# Last Run: 2026-08-19 20:32 UTC
+# Last Run: 2026-08-19 22:42 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] UAE Joins Global Efforts to Isolate Iran
+Published: 2026-08-19T21:16:53+00:00
+Link: https://foreignpolicy.com/2026/08/19/uae-iran-trade-financial-embargo-missile-strikes-war/
+---
+[Foreign_Policy] The Taliban’s Next Five Years
+Published: 2026-08-19T21:06:48+00:00
+Link: https://foreignpolicy.com/2026/08/19/taliban-afghanistan-fall-kabul-security-economy-pakistan-isk/
+---
+[Foreign_Policy] Gray-Zone Warfare Picks Easy Targets in Germany
+Published: 2026-08-19T21:03:50+00:00
+Link: https://foreignpolicy.com/2026/08/19/gray-zone-germany-russia-hybrid-warfare/
+---
+[Foreign_Policy] How Africa Is Battling Climate Extremes
+Published: 2026-08-19T20:01:47+00:00
+Link: https://foreignpolicy.com/2026/08/19/africa-climate-change-drought-wildfires-flooding-el-nino/
+---
+[Foreign_Policy] Realism Is Unrealistic
+Published: 2026-08-19T18:15:53+00:00
+Link: https://foreignpolicy.com/2026/08/19/realism-international-relations-power-america-cold-war-hegemony/
+---
 [Foreign_Policy] As the Israeli Election Nears, Trump Has Leverage Over Netanyahu
 Published: 2026-08-19T17:28:15+00:00
 Link: https://foreignpolicy.com/2026/08/19/trump-netanyahu-israel-election-endorsement-gaza-iran/
@@ -104,6 +124,62 @@ Link: https://foreignpolicy.com/2026/08/17/turkey-kurds-ocalan-erdogan-bahceli-s
 [Foreign_Policy] China’s New Laws Are Ensnaring Western Companies
 Published: 2026-08-17T12:39:45+00:00
 Link: https://foreignpolicy.com/2026/08/17/china-sanctions-laws-companies-legal-risk-extraterritorial-trade-embargo/
+---
+[New_Yorker_Magazine] “Saint Paul,” by Hieu Minh Nguyen
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/saint-paul-hieu-minh-nguyen-poem
+---
+[New_Yorker_Magazine] Your Friendly Neighborhood Hooters
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/your-friendly-neighborhood-hooters
+---
+[New_Yorker_Magazine] How Far Will the Trump Administration Go to Deport Mahmoud Khalil?
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/how-far-will-the-trump-administration-go-to-deport-mahmoud-khalil
+---
+[New_Yorker_Magazine] Rachel Bell, Curator of High Art
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/rachel-bell-curator-of-high-art
+---
+[New_Yorker_Magazine] Where There’s Smoke, There’s Fire Towers
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/where-theres-smoke-theres-fire-towers
+---
+[New_Yorker_Magazine] “Lament,” by Adrienne Su
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/lament-adrienne-su-poem
+---
+[New_Yorker_Magazine] Anatomy of a Sex Scandal
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/a-scandal-in-konigsberg-christopher-clark-book-review
+---
+[New_Yorker_Magazine] The Big, Dumb, Gluttonous Fun of America’s Semiquincentennial
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/the-big-dumb-gluttonous-fun-of-americas-semiquincentennial
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/the-yahoo-boys-unsayable-sunrise-skin-contact
+---
+[New_Yorker_Magazine] Admissions Tour: Being a Person
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/admissions-tour-being-a-person
+---
+[New_Yorker_Magazine] A Crossword Odyssey
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/a-crossword-odyssey
+---
+[New_Yorker_Magazine] New York’s Hottest Club Is . . . the Jacob Riis Bathhouse?
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/new-yorks-hottest-club-is-the-jacob-riis-bathhouse
+---
+[New_Yorker_Magazine] The End of the European Summer
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/the-end-of-the-european-summer
+---
+[New_Yorker_Magazine] The Children a Scientist Took Home
+Published: 2026-08-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/08/24/the-scientist-who-lived-with-dozens-of-children-from-the-south-pacific
 ---
 [Foreign_Policy] The Top 10 Ways Trump Has Made America Weaker
 Published: 2026-08-17T08:36:50+00:00
