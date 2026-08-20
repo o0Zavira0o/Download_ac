@@ -1,4 +1,16 @@
 ================================================================================
+2026-08-20 07:35:34 (Asia/Tehran) | IrGens
+Title  : Reinforcement Learning from Human Feedback, Video Edition
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 8h 47m | 2.19 GB
+Link   : http://zavat.pw/ebooks/9781633434301VE.html
+
+================================================================================
+2026-08-20 07:35:34 (Asia/Tehran) | IrGens
+Title  : AI Agents From Scratch: Tools, Memory, MCP and Multi-Agent
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 5h 50m | 2.9 GB
+Link   : http://zavat.pw/ebooks/ai-agents-from-scratch-tools-memory-mcp-and-multi-agent.html
+
+================================================================================
 2026-08-20 00:48:38 (Asia/Tehran) | hill0
 Title  : Intelligent Systems and Applications, Volume 2
 Details: English | 2026 | ISBN: 3032327253 | 865 Pages | PDF (True) | 99 MB
