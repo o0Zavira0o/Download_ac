@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
+_آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-20 05:00:22 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Piston Drive Mechanisms: Swashplate vs. Crankshaft](https://www.youtube.com/watch?v=Rkf5DAOQI-E)  
+  ![](https://i.ytimg.com/vi/Rkf5DAOQI-E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-19 03:06:14 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅Sarrus Linkage Mechanism ❓ | 3D Mechanical Design & Working Principle](https://www.youtube.com/watch?v=BJmvGzS_Qcc)  
   ![](https://i.ytimg.com/vi/BJmvGzS_Qcc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-28 11:48:22 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Gear-Based Hidden Clock Mechanism](https://www.youtube.com/watch?v=tpdqpMVj2fc)  
-  ![](https://i.ytimg.com/vi/tpdqpMVj2fc/hqdefault.jpg)

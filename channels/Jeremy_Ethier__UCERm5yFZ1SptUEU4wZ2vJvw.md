@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
+_آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,7 +10,7 @@ _آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
 
 - **تاریخ انتشار:** 2026-08-16 13:30:03 (UTC)  
   **مدت:** حدود 19.8 دقیقه  
-  **عنوان:** [If You Love Eating But Want Abs, Do This For 30 Days](https://www.youtube.com/watch?v=z9cd8jJqELw)  
+  **عنوان:** [It's Weird, But It Gets You Abs In 30 Days](https://www.youtube.com/watch?v=z9cd8jJqELw)  
   ![](https://i.ytimg.com/vi/z9cd8jJqELw/hqdefault.jpg)
 
 

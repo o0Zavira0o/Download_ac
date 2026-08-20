@@ -1,15 +1,27 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
+_آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
 
 
-- **تاریخ انتشار:** 2026-08-18 08:32:01 (UTC)  
+- **تاریخ انتشار:** 2026-08-20 09:04:08 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Wie schließt du Freundschaften? #shorts #freundschaft #alltagsdeutsch](https://www.youtube.com/watch?v=3OzStxyM1K0)  
+  ![](https://i.ytimg.com/vi/3OzStxyM1K0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-19 17:00:01 (UTC)  
+  **مدت:** حدود 16.1 دقیقه  
+  **عنوان:** [Why Germans Say “Damit” (Not “mit es”)](https://www.youtube.com/watch?v=n1RZa2y29Yg)  
+  ![](https://i.ytimg.com/vi/n1RZa2y29Yg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-19 12:40:41 (UTC)  
   **مدت:** حدود 1.7 دقیقه  
-  **عنوان:** [Sich auf Deutsch vorstellen #shorts #easygerman #deutschprüfung #deutschb1prüfung](https://www.youtube.com/watch?v=tQ2QyjeRJHE)  
-  ![](https://i.ytimg.com/vi/tQ2QyjeRJHE/hqdefault.jpg)
+  **عنوان:** [Sich auf Deutsch vorstellen #easygerman #deutschlernen #deutschprüfung](https://www.youtube.com/watch?v=BwOowuO0VFo)  
+  ![](https://i.ytimg.com/vi/BwOowuO0VFo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-17 10:58:45 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
   **مدت:** حدود 14.6 دقیقه  
   **عنوان:** [Cari antwortet (41) | At the Easy German Christmas Party](https://www.youtube.com/watch?v=dQezOMTypoA)  
   ![](https://i.ytimg.com/vi/dQezOMTypoA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-07 18:39:52 (UTC)  
-  **مدت:** حدود 2.8 دقیقه  
-  **عنوان:** [German Dating Vocabulary | Super Easy German (8)](https://www.youtube.com/watch?v=CvfTczNNp_Q)  
-  ![](https://i.ytimg.com/vi/CvfTczNNp_Q/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-04 17:00:45 (UTC)  
-  **مدت:** حدود 10.9 دقیقه  
-  **عنوان:** [Baking German Christmas Biscuits | Easy German 172](https://www.youtube.com/watch?v=U3tYx80abvI)  
-  ![](https://i.ytimg.com/vi/U3tYx80abvI/hqdefault.jpg)

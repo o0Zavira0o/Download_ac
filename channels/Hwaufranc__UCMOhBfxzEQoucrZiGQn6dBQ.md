@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
+_آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-19 13:00:37 (UTC)  
+  **مدت:** حدود 63.8 دقیقه  
+  **عنوان:** [ASMR 스르륵😴꿀잠용 다이어리 꾸미기 1시간 | 편안한 종이 소리 Journaling 다꾸 コラージュ](https://www.youtube.com/watch?v=hILbfw1hXI0)  
+  ![](https://i.ytimg.com/vi/hILbfw1hXI0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-18 13:00:24 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
   **مدت:** حدود 3.1 دقیقه  
   **عنوان:** [Amazing Art Journal Unboxing 🦣🦕🦖 CoraCreaCrafts Subscription Box Prehistory](https://www.youtube.com/watch?v=Wk5F7ivefuA)  
   ![](https://i.ytimg.com/vi/Wk5F7ivefuA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-06 14:25:00 (UTC)  
-  **مدت:** حدود 185.6 دقیقه  
-  **عنوان:** [ASMR Decorating Art Journal🧆 [3H] Journaling relaxing paper sounds for sleep](https://www.youtube.com/watch?v=sbICreItwiA)  
-  ![](https://i.ytimg.com/vi/sbICreItwiA/hqdefault.jpg)

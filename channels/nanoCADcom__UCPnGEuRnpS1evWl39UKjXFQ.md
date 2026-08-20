@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
+_آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-08-19 21:00:33 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [Move + Rotate + Scale in ONE command?! 🤯 (ALIGN) #nanocad #cadtutorials #AlignCommand #Drafting](https://www.youtube.com/watch?v=2hZlT-y4fwY)  
+  ![](https://i.ytimg.com/vi/2hZlT-y4fwY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-18 21:00:06 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-19T09:40:35Z_
   **مدت:** حدود 4.7 دقیقه  
   **عنوان:** [Making Mirrored Copies - Lesson 14](https://www.youtube.com/watch?v=z1gQwjkC9R8)  
   ![](https://i.ytimg.com/vi/z1gQwjkC9R8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-01-27 07:15:46 (UTC)  
-  **مدت:** حدود 3.2 دقیقه  
-  **عنوان:** [Deleting Entities - Lesson 13](https://www.youtube.com/watch?v=PhT3t2C1Xw4)  
-  ![](https://i.ytimg.com/vi/PhT3t2C1Xw4/hqdefault.jpg)
