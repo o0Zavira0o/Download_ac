@@ -1,4 +1,4 @@
-# Last Run: 2026-08-20 10:36 UTC
+# Last Run: 2026-08-20 12:55 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Israel and America Agree on Gaza’s New Leader
@@ -128,8 +128,4 @@ Link: https://foreignpolicy.com/2026/08/17/canada-caribbean-agriculture-mexico-m
 [Foreign_Policy] Has Turkey Really Resolved Its Kurdish Question?
 Published: 2026-08-17T14:42:07+00:00
 Link: https://foreignpolicy.com/2026/08/17/turkey-kurds-ocalan-erdogan-bahceli-syria/
----
-[Foreign_Policy] China’s New Laws Are Ensnaring Western Companies
-Published: 2026-08-17T12:39:45+00:00
-Link: https://foreignpolicy.com/2026/08/17/china-sanctions-laws-companies-legal-risk-extraterritorial-trade-embargo/
 ---
