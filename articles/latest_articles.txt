@@ -1,4 +1,4 @@
-# Last Run: 2026-08-20 06:49 UTC
+# Last Run: 2026-08-20 08:44 UTC
 # Articles published in last 72 hours
 
 [Foreign_Affairs] How AI Could Hollow Out the U.S. Military
@@ -184,8 +184,4 @@ Link: https://www.newyorker.com/magazine/2026/08/24/the-end-of-the-european-summ
 [New_Yorker_Magazine] The Children a Scientist Took Home
 Published: 2026-08-17T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/08/24/the-scientist-who-lived-with-dozens-of-children-from-the-south-pacific
----
-[Foreign_Policy] The Top 10 Ways Trump Has Made America Weaker
-Published: 2026-08-17T08:36:50+00:00
-Link: https://foreignpolicy.com/2026/08/17/top-10-trump-america-weaker/
 ---
