@@ -1,6 +1,10 @@
-# Last Run: 2026-08-20 04:40 UTC
+# Last Run: 2026-08-20 06:49 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] How AI Could Hollow Out the U.S. Military
+Published: 2026-08-20T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/how-ai-could-hollow-out-us-military
+---
 [Foreign_Policy] UAE Joins Global Efforts to Isolate Iran
 Published: 2026-08-19T21:16:53+00:00
 Link: https://foreignpolicy.com/2026/08/19/uae-iran-trade-financial-embargo-missile-strikes-war/
