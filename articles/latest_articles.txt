@@ -1,4 +1,4 @@
-# Last Run: 2026-08-20 14:40 UTC
+# Last Run: 2026-08-20 16:51 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Israel and America Agree on Gaza’s New Leader
@@ -52,6 +52,10 @@ Link: https://foreignpolicy.com/2026/08/19/north-south-korea-nuclear-weapons-dip
 [Foreign_Policy] Colby’s Empty Charm Offensive
 Published: 2026-08-19T05:00:21+00:00
 Link: https://foreignpolicy.com/2026/08/19/colby-philippines-southeast-asia-tour/
+---
+[Foreign_Affairs] A China Strategy That Lasts
+Published: 2026-08-19T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cassidy
 ---
 [Foreign_Affairs] A China Strategy That Lasts
 Published: 2026-08-19T04:00:00+00:00
@@ -120,12 +124,4 @@ Link: https://www.foreignaffairs.com/united-states/end-american-middle-east-iran
 [Foreign_Policy] Is Trump Choosing North Korea Over South Korea?
 Published: 2026-08-17T20:26:41+00:00
 Link: https://foreignpolicy.com/2026/08/17/trump-south-north-korea-military-drills-iran-israel-hamas-deals/
----
-[Foreign_Policy] Canada Is Exploiting Migrant Agricultural Workers
-Published: 2026-08-17T15:29:30+00:00
-Link: https://foreignpolicy.com/2026/08/17/canada-caribbean-agriculture-mexico-migrant-farm-worker/
----
-[Foreign_Policy] Has Turkey Really Resolved Its Kurdish Question?
-Published: 2026-08-17T14:42:07+00:00
-Link: https://foreignpolicy.com/2026/08/17/turkey-kurds-ocalan-erdogan-bahceli-syria/
 ---
