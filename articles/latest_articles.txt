@@ -1,6 +1,10 @@
-# Last Run: 2026-08-20 08:44 UTC
+# Last Run: 2026-08-20 10:36 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Israel and America Agree on Gaza’s New Leader
+Published: 2026-08-20T09:05:39+00:00
+Link: https://foreignpolicy.com/2026/08/20/shaath-gaza-israel-trump-leader/
+---
 [Foreign_Affairs] How AI Could Hollow Out the U.S. Military
 Published: 2026-08-20T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/how-ai-could-hollow-out-us-military
@@ -128,60 +132,4 @@ Link: https://foreignpolicy.com/2026/08/17/turkey-kurds-ocalan-erdogan-bahceli-s
 [Foreign_Policy] China’s New Laws Are Ensnaring Western Companies
 Published: 2026-08-17T12:39:45+00:00
 Link: https://foreignpolicy.com/2026/08/17/china-sanctions-laws-companies-legal-risk-extraterritorial-trade-embargo/
----
-[New_Yorker_Magazine] “Saint Paul,” by Hieu Minh Nguyen
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/saint-paul-hieu-minh-nguyen-poem
----
-[New_Yorker_Magazine] Your Friendly Neighborhood Hooters
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/your-friendly-neighborhood-hooters
----
-[New_Yorker_Magazine] How Far Will the Trump Administration Go to Deport Mahmoud Khalil?
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/how-far-will-the-trump-administration-go-to-deport-mahmoud-khalil
----
-[New_Yorker_Magazine] Rachel Bell, Curator of High Art
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/rachel-bell-curator-of-high-art
----
-[New_Yorker_Magazine] Where There’s Smoke, There’s Fire Towers
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/where-theres-smoke-theres-fire-towers
----
-[New_Yorker_Magazine] “Lament,” by Adrienne Su
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/lament-adrienne-su-poem
----
-[New_Yorker_Magazine] Anatomy of a Sex Scandal
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/a-scandal-in-konigsberg-christopher-clark-book-review
----
-[New_Yorker_Magazine] The Big, Dumb, Gluttonous Fun of America’s Semiquincentennial
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/the-big-dumb-gluttonous-fun-of-americas-semiquincentennial
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/the-yahoo-boys-unsayable-sunrise-skin-contact
----
-[New_Yorker_Magazine] Admissions Tour: Being a Person
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/admissions-tour-being-a-person
----
-[New_Yorker_Magazine] A Crossword Odyssey
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/a-crossword-odyssey
----
-[New_Yorker_Magazine] New York’s Hottest Club Is . . . the Jacob Riis Bathhouse?
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/new-yorks-hottest-club-is-the-jacob-riis-bathhouse
----
-[New_Yorker_Magazine] The End of the European Summer
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/the-end-of-the-european-summer
----
-[New_Yorker_Magazine] The Children a Scientist Took Home
-Published: 2026-08-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/08/24/the-scientist-who-lived-with-dozens-of-children-from-the-south-pacific
 ---
