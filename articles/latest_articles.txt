@@ -1,4 +1,4 @@
-# Last Run: 2026-08-20 03:01 UTC
+# Last Run: 2026-08-20 04:40 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] UAE Joins Global Efforts to Isolate Iran
@@ -184,20 +184,4 @@ Link: https://www.newyorker.com/magazine/2026/08/24/the-scientist-who-lived-with
 [Foreign_Policy] The Top 10 Ways Trump Has Made America Weaker
 Published: 2026-08-17T08:36:50+00:00
 Link: https://foreignpolicy.com/2026/08/17/top-10-trump-america-weaker/
----
-[Foreign_Policy] How Ronald Reagan Used Diplomacy to End the Cold War
-Published: 2026-08-17T04:01:36+00:00
-Link: https://foreignpolicy.com/2026/08/17/ronald-reagan-diplomacy-soviet-union/
----
-[Foreign_Policy] Why Australia’s Getting Tough on China Again
-Published: 2026-08-17T04:01:06+00:00
-Link: https://foreignpolicy.com/2026/08/17/australia-china-getting-tough-trump/
----
-[Foreign_Affairs] The Cost of Keeping China Out
-Published: 2026-08-17T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/cost-keeping-china-out
----
-[Foreign_Affairs] Africa Can’t Afford to Squander Its Demographic Opportunity
-Published: 2026-08-17T04:00:00+00:00
-Link: https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
 ---
