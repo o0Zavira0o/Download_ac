@@ -1,4 +1,4 @@
-# Last Run: 2026-08-21 12:52 UTC
+# Last Run: 2026-08-21 14:40 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] A Top Trump Ally Turns to China
@@ -108,8 +108,4 @@ Link: https://foreignpolicy.com/2026/08/18/afghanistan-taliban-trump-rubio-usaid
 [Foreign_Policy] Vance Pitches a New Objective for the Iran War
 Published: 2026-08-18T16:18:18+00:00
 Link: https://foreignpolicy.com/2026/08/18/vance-iran-war-objectives-gas-prices/
----
-[Foreign_Policy] Uganda’s Succession Plan Is Already Underway
-Published: 2026-08-18T13:18:53+00:00
-Link: https://foreignpolicy.com/2026/08/18/uganda-succession-president-museveni-muhoozi-kainerugaba-military-opposition/
 ---
