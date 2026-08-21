@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
+_آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-08-20 23:10:26 (UTC)  
+  **مدت:** حدود 2.3 دقیقه  
+  **عنوان:** [DILATAÇÃO TÉRMICA DOS AÇOS #industria #usinagem #engenharia #solidworks](https://www.youtube.com/watch?v=yvTo44sOSwU)  
+  ![](https://i.ytimg.com/vi/yvTo44sOSwU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-17 22:30:05 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
   **مدت:** حدود 32.1 دقیقه  
   **عنوان:** [AULA 29 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=HPsxg4YEQno)  
   ![](https://i.ytimg.com/vi/HPsxg4YEQno/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-02-07 22:30:08 (UTC)  
-  **مدت:** حدود 28.8 دقیقه  
-  **عنوان:** [AULA 28 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=pEBKoWgvdCY)  
-  ![](https://i.ytimg.com/vi/pEBKoWgvdCY/hqdefault.jpg)

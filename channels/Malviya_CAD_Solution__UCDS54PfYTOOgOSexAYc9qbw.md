@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
+_آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-08-20 17:23:26 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [Solidworks Exercise Tutorial | Exercise40 | Advance Rib Feature](https://www.youtube.com/watch?v=kEV2vhqsmpQ)  
+  ![](https://i.ytimg.com/vi/kEV2vhqsmpQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-16 04:31:42 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
   **مدت:** حدود 11.1 دقیقه  
   **عنوان:** [Design of Cultivator in Solidworks |  Part 6 & 7 | Solidworks tutorial](https://www.youtube.com/watch?v=unkMZG10NDQ)  
   ![](https://i.ytimg.com/vi/unkMZG10NDQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-16 06:37:15 (UTC)  
-  **مدت:** حدود 1.1 دقیقه  
-  **عنوان:** [Solidworks full round fillet #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=QoLwnFcgYfQ)  
-  ![](https://i.ytimg.com/vi/QoLwnFcgYfQ/hqdefault.jpg)

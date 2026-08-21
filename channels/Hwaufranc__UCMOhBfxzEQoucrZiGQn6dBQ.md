@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
+_آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-21 09:35:30 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [ASMR 실링왁스 다꾸 Journaling Sealing Wax #asmr #waxseal #다꾸](https://www.youtube.com/watch?v=QrYYKK4KvlY)  
+  ![](https://i.ytimg.com/vi/QrYYKK4KvlY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-20 13:00:07 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [ASMR 스탬프로 엽서만들기💌Stamping diy만들기 다꾸 コラージュ](https://www.youtube.com/watch?v=tUBZdCFppXY)  
+  ![](https://i.ytimg.com/vi/tUBZdCFppXY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-19 13:00:37 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [Journal Front Page Ideas l June #journal #journalideas](https://www.youtube.com/watch?v=-tFaSXS67JM)  
   ![](https://i.ytimg.com/vi/-tFaSXS67JM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-09 10:46:01 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Art Journal Box Unboxing 🦕 #shorts #journalsupplies #journal](https://www.youtube.com/watch?v=KIpzGnt7X60)  
-  ![](https://i.ytimg.com/vi/KIpzGnt7X60/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-08 14:30:12 (UTC)  
-  **مدت:** حدود 3.1 دقیقه  
-  **عنوان:** [Amazing Art Journal Unboxing 🦣🦕🦖 CoraCreaCrafts Subscription Box Prehistory](https://www.youtube.com/watch?v=Wk5F7ivefuA)  
-  ![](https://i.ytimg.com/vi/Wk5F7ivefuA/hqdefault.jpg)

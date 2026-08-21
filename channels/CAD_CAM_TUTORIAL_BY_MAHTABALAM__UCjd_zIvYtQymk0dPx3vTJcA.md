@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
+_آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-21 03:30:15 (UTC)  
+  **مدت:** حدود 18.9 دقیقه  
+  **عنوان:** [SolidWorks Exercise Unlock Lever Modeling](https://www.youtube.com/watch?v=ZG10yt4hdsg)  
+  ![](https://i.ytimg.com/vi/ZG10yt4hdsg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-18 16:28:40 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
   **مدت:** حدود 92.4 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Plier Wrench in Solidworks](https://www.youtube.com/watch?v=i3blq3ISbmY)  
   ![](https://i.ytimg.com/vi/i3blq3ISbmY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-27 00:55:43 (UTC)  
-  **مدت:** حدود 14.3 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Thumb Screw in SolidWorks](https://www.youtube.com/watch?v=q7JXhvzKBFM)  
-  ![](https://i.ytimg.com/vi/q7JXhvzKBFM/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
+_آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-21 06:45:48 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [St. Pöltens Sehenswürdigkeiten #shorts #easygerman](https://www.youtube.com/watch?v=_jbJRpVuOgg)  
+  ![](https://i.ytimg.com/vi/_jbJRpVuOgg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-20 09:04:08 (UTC)  
@@ -950,7 +956,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2026-03-04 18:00:41 (UTC)  
   **مدت:** حدود 16.0 دقیقه  
-  **عنوان:** [All German Cases Explained | Super Easy German 300](https://www.youtube.com/watch?v=_F_zkRPRX6A)  
+  **عنوان:** [All German Cases Explained](https://www.youtube.com/watch?v=_F_zkRPRX6A)  
   ![](https://i.ytimg.com/vi/_F_zkRPRX6A/hqdefault.jpg)
 
 
@@ -1994,7 +2000,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2025-09-03 17:00:24 (UTC)  
   **مدت:** حدود 11.8 دقیقه  
-  **عنوان:** [10 Min Conversation in Slow German | Super Easy German 287](https://www.youtube.com/watch?v=LwJfk1NUeg4)  
+  **عنوان:** [10 Min Conversation in Slow German](https://www.youtube.com/watch?v=LwJfk1NUeg4)  
   ![](https://i.ytimg.com/vi/LwJfk1NUeg4/hqdefault.jpg)
 
 
@@ -2630,7 +2636,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2025-05-07 17:00:37 (UTC)  
   **مدت:** حدود 15.8 دقیقه  
-  **عنوان:** [At The Train Station in Slow German | Super Easy German 279](https://www.youtube.com/watch?v=StmjIvwtKlg)  
+  **عنوان:** [At The Train Station in Slow German](https://www.youtube.com/watch?v=StmjIvwtKlg)  
   ![](https://i.ytimg.com/vi/StmjIvwtKlg/hqdefault.jpg)
 
 
@@ -2774,7 +2780,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2025-04-09 17:00:50 (UTC)  
   **مدت:** حدود 13.6 دقیقه  
-  **عنوان:** [At the Mall in Slow German | Super Easy German 276](https://www.youtube.com/watch?v=jN4Ike7iBVk)  
+  **عنوان:** [At the Mall in Slow German](https://www.youtube.com/watch?v=jN4Ike7iBVk)  
   ![](https://i.ytimg.com/vi/jN4Ike7iBVk/hqdefault.jpg)
 
 
@@ -2882,7 +2888,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2025-03-19 18:00:01 (UTC)  
   **مدت:** حدود 17.4 دقیقه  
-  **عنوان:** [Learn Basic German Greetings & Farewells in Slow German | Super Easy German 274](https://www.youtube.com/watch?v=aRlakaPVrEw)  
+  **عنوان:** [Learn Basic German Greetings & Farewells in Slow German](https://www.youtube.com/watch?v=aRlakaPVrEw)  
   ![](https://i.ytimg.com/vi/aRlakaPVrEw/hqdefault.jpg)
 
 
@@ -2954,7 +2960,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2025-02-26 18:00:30 (UTC)  
   **مدت:** حدود 13.2 دقیقه  
-  **عنوان:** [Winter in Berlin in Slow German | Super Easy German 273](https://www.youtube.com/watch?v=MqqHc6lRQG4)  
+  **عنوان:** [Winter in Berlin in Slow German](https://www.youtube.com/watch?v=MqqHc6lRQG4)  
   ![](https://i.ytimg.com/vi/MqqHc6lRQG4/hqdefault.jpg)
 
 
@@ -3062,7 +3068,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2025-01-26 18:00:03 (UTC)  
   **مدت:** حدود 11.9 دقیقه  
-  **عنوان:** [102 Everyday Sentences With the Verb “Sein” | Easy German 591](https://www.youtube.com/watch?v=an232kkTEMk)  
+  **عنوان:** [102 Everyday Sentences With the Verb “Sein”](https://www.youtube.com/watch?v=an232kkTEMk)  
   ![](https://i.ytimg.com/vi/an232kkTEMk/hqdefault.jpg)
 
 
@@ -3074,7 +3080,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2025-01-22 18:00:23 (UTC)  
   **مدت:** حدود 16.2 دقیقه  
-  **عنوان:** [Clothing Vocabulary in Slow German | Super Easy German 270](https://www.youtube.com/watch?v=XiBt9Nm0PHU)  
+  **عنوان:** [Clothing Vocabulary in Slow German](https://www.youtube.com/watch?v=XiBt9Nm0PHU)  
   ![](https://i.ytimg.com/vi/XiBt9Nm0PHU/hqdefault.jpg)
 
 
@@ -3110,7 +3116,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2025-01-12 18:00:31 (UTC)  
   **مدت:** حدود 13.1 دقیقه  
-  **عنوان:** [100 Everyday Sentences with the Verb “Haben” | Easy German 589](https://www.youtube.com/watch?v=VTN-Qys9fCA)  
+  **عنوان:** [100 Everyday Sentences with the Verb “Haben”](https://www.youtube.com/watch?v=VTN-Qys9fCA)  
   ![](https://i.ytimg.com/vi/VTN-Qys9fCA/hqdefault.jpg)
 
 
@@ -3200,7 +3206,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2024-12-18 18:00:21 (UTC)  
   **مدت:** حدود 16.4 دقیقه  
-  **عنوان:** [Berlin in December in Slow German | Super Easy German 268](https://www.youtube.com/watch?v=TDRNIkVE4bw)  
+  **عنوان:** [Berlin in December in Slow German](https://www.youtube.com/watch?v=TDRNIkVE4bw)  
   ![](https://i.ytimg.com/vi/TDRNIkVE4bw/hqdefault.jpg)
 
 
@@ -3290,7 +3296,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2024-11-20 18:00:38 (UTC)  
   **مدت:** حدود 14.9 دقیقه  
-  **عنوان:** [Our Lunch Break in Slow German | Super Easy German 265](https://www.youtube.com/watch?v=qYtsk5yH_nw)  
+  **عنوان:** [Our Lunch Break in Slow German](https://www.youtube.com/watch?v=qYtsk5yH_nw)  
   ![](https://i.ytimg.com/vi/qYtsk5yH_nw/hqdefault.jpg)
 
 
@@ -3392,7 +3398,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2024-10-30 18:00:43 (UTC)  
   **مدت:** حدود 17.0 دقیقه  
-  **عنوان:** [Emotions in Slow German | Super Easy German 263](https://www.youtube.com/watch?v=tNrwiUGHMiU)  
+  **عنوان:** [Emotions in Slow German](https://www.youtube.com/watch?v=tNrwiUGHMiU)  
   ![](https://i.ytimg.com/vi/tNrwiUGHMiU/hqdefault.jpg)
 
 
@@ -3596,7 +3602,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2024-08-28 17:00:03 (UTC)  
   **مدت:** حدود 9.8 دقیقه  
-  **عنوان:** [12 Verbs + Accusative Beginners Should Know | Super Easy German 259](https://www.youtube.com/watch?v=aZTUJm8O2Ds)  
+  **عنوان:** [12 Verbs + Accusative Beginners Should Know](https://www.youtube.com/watch?v=aZTUJm8O2Ds)  
   ![](https://i.ytimg.com/vi/aZTUJm8O2Ds/hqdefault.jpg)
 
 
@@ -3722,7 +3728,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2024-07-24 17:00:35 (UTC)  
   **مدت:** حدود 15.1 دقیقه  
-  **عنوان:** [Introduce Yourself in Slow German | Super Easy German 258](https://www.youtube.com/watch?v=huwi-cjPPXU)  
+  **عنوان:** [Introduce Yourself in Slow German (for Absolute Beginners)](https://www.youtube.com/watch?v=huwi-cjPPXU)  
   ![](https://i.ytimg.com/vi/huwi-cjPPXU/hqdefault.jpg)
 
 
@@ -4010,7 +4016,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2024-05-08 17:00:34 (UTC)  
   **مدت:** حدود 18.6 دقیقه  
-  **عنوان:** [Typical German Dinner in Slow German | Super Easy German 254](https://www.youtube.com/watch?v=kQPvtHeUUfU)  
+  **عنوان:** [Typical German Dinner in Slow German](https://www.youtube.com/watch?v=kQPvtHeUUfU)  
   ![](https://i.ytimg.com/vi/kQPvtHeUUfU/hqdefault.jpg)
 
 
@@ -4046,7 +4052,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2024-04-24 17:00:34 (UTC)  
   **مدت:** حدود 21.0 دقیقه  
-  **عنوان:** [German Alphabet & Pronunciation - Full Guide | Super Easy German 253](https://www.youtube.com/watch?v=hAkxKMlYUI4)  
+  **عنوان:** [German Alphabet & Pronunciation - Full Guide](https://www.youtube.com/watch?v=hAkxKMlYUI4)  
   ![](https://i.ytimg.com/vi/hAkxKMlYUI4/hqdefault.jpg)
 
 
@@ -4172,7 +4178,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2024-02-28 18:00:23 (UTC)  
   **مدت:** حدود 16.9 دقیقه  
-  **عنوان:** [Our Daily Chores in Slow German | Super Easy German 249](https://www.youtube.com/watch?v=kcixi0Vfg-I)  
+  **عنوان:** [Our Daily Chores in Slow German](https://www.youtube.com/watch?v=kcixi0Vfg-I)  
   ![](https://i.ytimg.com/vi/kcixi0Vfg-I/hqdefault.jpg)
 
 
@@ -4184,7 +4190,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2024-02-21 18:39:13 (UTC)  
   **مدت:** حدود 33.5 دقیقه  
-  **عنوان:** [Small Talk (in Slow German) | Easy German Live](https://www.youtube.com/watch?v=KoupCFKNXUo)  
+  **عنوان:** [Small Talk (in Slow German)](https://www.youtube.com/watch?v=KoupCFKNXUo)  
   ![](https://i.ytimg.com/vi/KoupCFKNXUo/hqdefault.jpg)
 
 
@@ -4322,7 +4328,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2024-01-03 18:00:26 (UTC)  
   **مدت:** حدود 16.6 دقیقه  
-  **عنوان:** [Top 50 Everyday Objects in Slow German | Super Easy German 244](https://www.youtube.com/watch?v=eKLtI48rvtw)  
+  **عنوان:** [Top 50 Everyday Objects in Slow German](https://www.youtube.com/watch?v=eKLtI48rvtw)  
   ![](https://i.ytimg.com/vi/eKLtI48rvtw/hqdefault.jpg)
 
 
@@ -4550,7 +4556,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2023-09-20 17:00:13 (UTC)  
   **مدت:** حدود 13.0 دقیقه  
-  **عنوان:** [Ordering in a Restaurant in Slow German | Super Easy German 236](https://www.youtube.com/watch?v=OFSHdj_2FQA)  
+  **عنوان:** [Ordering in a Restaurant in Slow German (for German Beginners)](https://www.youtube.com/watch?v=OFSHdj_2FQA)  
   ![](https://i.ytimg.com/vi/OFSHdj_2FQA/hqdefault.jpg)
 
 
@@ -4586,7 +4592,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2023-09-06 17:00:34 (UTC)  
   **مدت:** حدود 9.2 دقیقه  
-  **عنوان:** [A Day in our Office in slow German | Super Easy German 235](https://www.youtube.com/watch?v=kYEBu6dG2MM)  
+  **عنوان:** [A Day in our Office in Slow German](https://www.youtube.com/watch?v=kYEBu6dG2MM)  
   ![](https://i.ytimg.com/vi/kYEBu6dG2MM/hqdefault.jpg)
 
 
@@ -4622,7 +4628,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2023-08-23 17:00:19 (UTC)  
   **مدت:** حدود 13.3 دقیقه  
-  **عنوان:** [Our Vacation in Slow German | Super Easy German 234](https://www.youtube.com/watch?v=ZqCevnsyMAQ)  
+  **عنوان:** [Our Vacation in Slow German (Dialogues for Beginners)](https://www.youtube.com/watch?v=ZqCevnsyMAQ)  
   ![](https://i.ytimg.com/vi/ZqCevnsyMAQ/hqdefault.jpg)
 
 
@@ -4658,7 +4664,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2023-08-09 17:00:01 (UTC)  
   **مدت:** حدود 16.3 دقیقه  
-  **عنوان:** [Having Breakfast in Slow German | Super Easy German 233](https://www.youtube.com/watch?v=3a__H9ejF4s)  
+  **عنوان:** [Having Breakfast in Slow German](https://www.youtube.com/watch?v=3a__H9ejF4s)  
   ![](https://i.ytimg.com/vi/3a__H9ejF4s/hqdefault.jpg)
 
 
@@ -4700,7 +4706,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2023-07-26 17:00:14 (UTC)  
   **مدت:** حدود 8.2 دقیقه  
-  **عنوان:** [Our Morning Routine in Slow German | Super Easy German 232](https://www.youtube.com/watch?v=LQiHX6OY_BI)  
+  **عنوان:** [Our Morning Routine in Slow German](https://www.youtube.com/watch?v=LQiHX6OY_BI)  
   ![](https://i.ytimg.com/vi/LQiHX6OY_BI/hqdefault.jpg)
 
 
@@ -4796,7 +4802,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2023-06-21 17:00:18 (UTC)  
   **مدت:** حدود 15.8 دقیقه  
-  **عنوان:** [16 Verbs + Prepositions You Should Know (A1 Level) | Super Easy German 229](https://www.youtube.com/watch?v=dV54jc8K6MU)  
+  **عنوان:** [16 Verbs + Prepositions You Should Know (A1 Level)](https://www.youtube.com/watch?v=dV54jc8K6MU)  
   ![](https://i.ytimg.com/vi/dV54jc8K6MU/hqdefault.jpg)
 
 
@@ -4874,7 +4880,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2023-06-07 15:00:44 (UTC)  
   **مدت:** حدود 14.9 دقیقه  
-  **عنوان:** [Walk Through Our Neighborhood in Slow German | Super Easy German 228](https://www.youtube.com/watch?v=qSGUD9WYRwE)  
+  **عنوان:** [Walk Through Our Neighborhood in Slow German](https://www.youtube.com/watch?v=qSGUD9WYRwE)  
   ![](https://i.ytimg.com/vi/qSGUD9WYRwE/hqdefault.jpg)
 
 
@@ -5180,7 +5186,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2023-03-29 17:00:10 (UTC)  
   **مدت:** حدود 11.6 دقیقه  
-  **عنوان:** [How to Remember Possessive Article Endings | Super Easy German 225](https://www.youtube.com/watch?v=ITjyfCAspco)  
+  **عنوان:** [How to Remember Possessive Article Endings](https://www.youtube.com/watch?v=ITjyfCAspco)  
   ![](https://i.ytimg.com/vi/ITjyfCAspco/hqdefault.jpg)
 
 
@@ -5306,7 +5312,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2023-03-08 18:00:18 (UTC)  
   **مدت:** حدود 10.3 دقیقه  
-  **عنوان:** [Possessive Pronouns in German | Super Easy German 223](https://www.youtube.com/watch?v=o-Zu-bUlPb4)  
+  **عنوان:** [Possessive Pronouns in German](https://www.youtube.com/watch?v=o-Zu-bUlPb4)  
   ![](https://i.ytimg.com/vi/o-Zu-bUlPb4/hqdefault.jpg)
 
 
@@ -5456,7 +5462,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2023-02-08 18:00:02 (UTC)  
   **مدت:** حدود 8.5 دقیقه  
-  **عنوان:** [10 German Verbs that Change Vowels (Strong Verbs for Beginners) | Super Easy German 220](https://www.youtube.com/watch?v=4gl3-i0KXqY)  
+  **عنوان:** [10 German Verbs that Change Vowels (Irregular Verbs for Beginners)](https://www.youtube.com/watch?v=4gl3-i0KXqY)  
   ![](https://i.ytimg.com/vi/4gl3-i0KXqY/hqdefault.jpg)
 
 
@@ -5726,7 +5732,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2022-12-07 18:00:22 (UTC)  
   **مدت:** حدود 8.6 دقیقه  
-  **عنوان:** [German Dative Case: 15 Simple Verbs That Always Take the Dative | Super Easy German 215](https://www.youtube.com/watch?v=YWn2kAjbhrA)  
+  **عنوان:** [German Dative Case: 15 Simple Verbs That Always Take the Dative](https://www.youtube.com/watch?v=YWn2kAjbhrA)  
   ![](https://i.ytimg.com/vi/YWn2kAjbhrA/hqdefault.jpg)
 
 
@@ -6296,7 +6302,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2022-05-25 17:00:21 (UTC)  
   **مدت:** حدود 14.5 دقیقه  
-  **عنوان:** [100 Words You Should Know When Coming to Germany | Super Easy German 203](https://www.youtube.com/watch?v=r8HiWsBe5ko)  
+  **عنوان:** [100 Words You Should Know When Coming to Germany](https://www.youtube.com/watch?v=r8HiWsBe5ko)  
   ![](https://i.ytimg.com/vi/r8HiWsBe5ko/hqdefault.jpg)
 
 
@@ -6344,7 +6350,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2022-05-04 17:00:02 (UTC)  
   **مدت:** حدود 7.1 دقیقه  
-  **عنوان:** [MIT vs. OHNE | Super Easy German 201](https://www.youtube.com/watch?v=7GH7AFxA3gY)  
+  **عنوان:** [German Prepositions: MIT vs. OHNE](https://www.youtube.com/watch?v=7GH7AFxA3gY)  
   ![](https://i.ytimg.com/vi/7GH7AFxA3gY/hqdefault.jpg)
 
 
@@ -6530,7 +6536,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2022-02-02 18:00:21 (UTC)  
   **مدت:** حدود 8.5 دقیقه  
-  **عنوان:** ["Wollen" vs. "Mögen" vs. "Möchten" | Super Easy German 192](https://www.youtube.com/watch?v=OqvuldWHr_s)  
+  **عنوان:** ["Wollen" vs. "Mögen" vs. "Möchten" (Confusing German Verbs)](https://www.youtube.com/watch?v=OqvuldWHr_s)  
   ![](https://i.ytimg.com/vi/OqvuldWHr_s/hqdefault.jpg)
 
 
@@ -6722,7 +6728,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2021-09-29 17:00:13 (UTC)  
   **مدت:** حدود 9.9 دقیقه  
-  **عنوان:** [How to Tell the Time in German | Super Easy German 183](https://www.youtube.com/watch?v=NsqA8_SmdVI)  
+  **عنوان:** [How to Tell the Time in German](https://www.youtube.com/watch?v=NsqA8_SmdVI)  
   ![](https://i.ytimg.com/vi/NsqA8_SmdVI/hqdefault.jpg)
 
 
@@ -6776,7 +6782,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2021-08-25 17:00:18 (UTC)  
   **مدت:** حدود 10.2 دقیقه  
-  **عنوان:** [Imperatives: How to Phrase Orders and Requests in German | Super Easy German 180](https://www.youtube.com/watch?v=hunvSsyEeBU)  
+  **عنوان:** [Imperatives: How to Phrase Orders and Requests in German](https://www.youtube.com/watch?v=hunvSsyEeBU)  
   ![](https://i.ytimg.com/vi/hunvSsyEeBU/hqdefault.jpg)
 
 
@@ -6812,7 +6818,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2021-08-04 17:00:19 (UTC)  
   **مدت:** حدود 7.0 دقیقه  
-  **عنوان:** [Counting in German from 1 - 100 | Super Easy German 178](https://www.youtube.com/watch?v=QCGdeH4hYdo)  
+  **عنوان:** [Counting in German from 1 - 100 (German Numbers for Beginners)](https://www.youtube.com/watch?v=QCGdeH4hYdo)  
   ![](https://i.ytimg.com/vi/QCGdeH4hYdo/hqdefault.jpg)
 
 
@@ -6932,7 +6938,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2021-05-19 17:00:01 (UTC)  
   **مدت:** حدود 6.5 دقیقه  
-  **عنوان:** [German Clothing Vocabulary | Super Easy German 170](https://www.youtube.com/watch?v=5LsSHezUUKQ)  
+  **عنوان:** [German Clothing Vocabulary](https://www.youtube.com/watch?v=5LsSHezUUKQ)  
   ![](https://i.ytimg.com/vi/5LsSHezUUKQ/hqdefault.jpg)
 
 
@@ -7298,7 +7304,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2020-10-07 17:00:02 (UTC)  
   **مدت:** حدود 5.4 دقیقه  
-  **عنوان:** [German Verbs: Wissen | Super Easy German (153)](https://www.youtube.com/watch?v=AOQ5X-ayjWE)  
+  **عنوان:** [German Verbs: Wissen (Full Conjugation for Beginners)](https://www.youtube.com/watch?v=AOQ5X-ayjWE)  
   ![](https://i.ytimg.com/vi/AOQ5X-ayjWE/hqdefault.jpg)
 
 
@@ -7346,7 +7352,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2020-09-09 17:01:06 (UTC)  
   **مدت:** حدود 5.2 دقیقه  
-  **عنوان:** [German Verbs: Sein | Super Easy German (149)](https://www.youtube.com/watch?v=wqw336j-F3E)  
+  **عنوان:** [German Verbs: Sein (Full Conjugation for Beginners)](https://www.youtube.com/watch?v=wqw336j-F3E)  
   ![](https://i.ytimg.com/vi/wqw336j-F3E/hqdefault.jpg)
 
 
@@ -7376,7 +7382,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2020-08-16 17:00:21 (UTC)  
   **مدت:** حدود 9.8 دقیقه  
-  **عنوان:** [What Germans Buy at the Supermarket | Easy German 362](https://www.youtube.com/watch?v=bonBD3n2cy8)  
+  **عنوان:** [What Germans Buy at the Supermarket (Street Interviews)](https://www.youtube.com/watch?v=bonBD3n2cy8)  
   ![](https://i.ytimg.com/vi/bonBD3n2cy8/hqdefault.jpg)
 
 
@@ -7454,7 +7460,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2020-07-01 17:20:26 (UTC)  
   **مدت:** حدود 4.8 دقیقه  
-  **عنوان:** [German Verbs: Machen | Super Easy German (142)](https://www.youtube.com/watch?v=o7cMNtORT4I)  
+  **عنوان:** [German Verbs: Machen (Full Conjugation for Beginners)](https://www.youtube.com/watch?v=o7cMNtORT4I)  
   ![](https://i.ytimg.com/vi/o7cMNtORT4I/hqdefault.jpg)
 
 
@@ -7526,7 +7532,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2020-05-13 18:16:54 (UTC)  
   **مدت:** حدود 5.7 دقیقه  
-  **عنوان:** [German Verbs: Können | Super Easy German (138)](https://www.youtube.com/watch?v=6lTltCmgrCk)  
+  **عنوان:** [German Verbs: Können (Full Conjugation for Beginners)](https://www.youtube.com/watch?v=6lTltCmgrCk)  
   ![](https://i.ytimg.com/vi/6lTltCmgrCk/hqdefault.jpg)
 
 
@@ -7616,7 +7622,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2020-03-22 18:00:09 (UTC)  
   **مدت:** حدود 9.8 دقیقه  
-  **عنوان:** [Kein vs. Nicht | Easy German 341](https://www.youtube.com/watch?v=vC_7XBaqsc4)  
+  **عنوان:** [When to Use "Kein" vs. "Nicht" in German](https://www.youtube.com/watch?v=vC_7XBaqsc4)  
   ![](https://i.ytimg.com/vi/vC_7XBaqsc4/hqdefault.jpg)
 
 
@@ -7646,7 +7652,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2020-03-04 22:53:36 (UTC)  
   **مدت:** حدود 3.9 دقیقه  
-  **عنوان:** [German Verbs: Haben | Super Easy German (131)](https://www.youtube.com/watch?v=jWDuDRHZvk8)  
+  **عنوان:** [German Verbs: Haben (Full Conjugation for Beginners)](https://www.youtube.com/watch?v=jWDuDRHZvk8)  
   ![](https://i.ytimg.com/vi/jWDuDRHZvk8/hqdefault.jpg)
 
 
@@ -7760,7 +7766,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2019-12-18 18:28:44 (UTC)  
   **مدت:** حدود 8.8 دقیقه  
-  **عنوان:** [How to learn the German Plural endings | Super Easy German (127)](https://www.youtube.com/watch?v=Q3eCDhwMRv8)  
+  **عنوان:** [How to Learn the German Plural Endings](https://www.youtube.com/watch?v=Q3eCDhwMRv8)  
   ![](https://i.ytimg.com/vi/Q3eCDhwMRv8/hqdefault.jpg)
 
 
@@ -7826,7 +7832,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2019-11-06 18:00:06 (UTC)  
   **مدت:** حدود 6.9 دقیقه  
-  **عنوان:** [How to use Accusative and Dative in German | Super Easy German (122)](https://www.youtube.com/watch?v=Uab5EC28h1w)  
+  **عنوان:** [How to use Accusative and Dative in German](https://www.youtube.com/watch?v=Uab5EC28h1w)  
   ![](https://i.ytimg.com/vi/Uab5EC28h1w/hqdefault.jpg)
 
 
@@ -7838,7 +7844,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2019-10-30 18:00:03 (UTC)  
   **مدت:** حدود 6.4 دقیقه  
-  **عنوان:** [German Cases Drill (Nominative + Accusative) | Super Easy German (121)](https://www.youtube.com/watch?v=MppF9phHkzI)  
+  **عنوان:** [German Cases Drill (Nominative + Accusative)](https://www.youtube.com/watch?v=MppF9phHkzI)  
   ![](https://i.ytimg.com/vi/MppF9phHkzI/hqdefault.jpg)
 
 
@@ -7928,7 +7934,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2019-09-04 17:01:22 (UTC)  
   **مدت:** حدود 5.0 دقیقه  
-  **عنوان:** [How to describe your body in German | Super Easy German (117)](https://www.youtube.com/watch?v=qnLj-KV9WaQ)  
+  **عنوان:** [How to describe your body in German](https://www.youtube.com/watch?v=qnLj-KV9WaQ)  
   ![](https://i.ytimg.com/vi/qnLj-KV9WaQ/hqdefault.jpg)
 
 
@@ -8042,7 +8048,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2019-06-26 17:00:05 (UTC)  
   **مدت:** حدود 4.0 دقیقه  
-  **عنوان:** [How to order drinks in German | Super Easy German (109)](https://www.youtube.com/watch?v=h5085YiFRnI)  
+  **عنوان:** [How to order drinks in German](https://www.youtube.com/watch?v=h5085YiFRnI)  
   ![](https://i.ytimg.com/vi/h5085YiFRnI/hqdefault.jpg)
 
 
@@ -8138,7 +8144,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2019-05-01 17:00:07 (UTC)  
   **مدت:** حدود 4.5 دقیقه  
-  **عنوان:** [Irregular Verbs: Mögen | Super Easy German (103)](https://www.youtube.com/watch?v=lZXGpjKHHo8)  
+  **عنوان:** [Irregular Verbs: Mögen (Full Conjugation for Beginners)](https://www.youtube.com/watch?v=lZXGpjKHHo8)  
   ![](https://i.ytimg.com/vi/lZXGpjKHHo8/hqdefault.jpg)
 
 
@@ -8258,7 +8264,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2019-02-20 18:14:26 (UTC)  
   **مدت:** حدود 4.9 دقیقه  
-  **عنوان:** [How to order Coffee in Germany? | Super Easy German (99)](https://www.youtube.com/watch?v=jUOvnHOsvXM)  
+  **عنوان:** [How to order Coffee in Germany? (German Dialogues for Beginners)](https://www.youtube.com/watch?v=jUOvnHOsvXM)  
   ![](https://i.ytimg.com/vi/jUOvnHOsvXM/hqdefault.jpg)
 
 
@@ -8396,7 +8402,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2018-11-28 18:07:01 (UTC)  
   **مدت:** حدود 4.3 دقیقه  
-  **عنوان:** [Irregular Verbs: Haben, Sein, Gehen | Super Easy German (90)](https://www.youtube.com/watch?v=tj_YhY2RMxs)  
+  **عنوان:** [Irregular Verbs in German: Haben, Sein, Gehen](https://www.youtube.com/watch?v=tj_YhY2RMxs)  
   ![](https://i.ytimg.com/vi/tj_YhY2RMxs/hqdefault.jpg)
 
 
@@ -8438,7 +8444,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2018-10-31 18:11:59 (UTC)  
   **مدت:** حدود 6.2 دقیقه  
-  **عنوان:** [Wie vs. Als | Super Easy German (88)](https://www.youtube.com/watch?v=SzfIlzLFmn0)  
+  **عنوان:** [Wie vs. Als in German (Common Mistake)](https://www.youtube.com/watch?v=SzfIlzLFmn0)  
   ![](https://i.ytimg.com/vi/SzfIlzLFmn0/hqdefault.jpg)
 
 
@@ -8504,7 +8510,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2018-09-26 17:01:49 (UTC)  
   **مدت:** حدود 3.1 دقیقه  
-  **عنوان:** [Conjugation of regular verbs: Sagen, Machen, Hören | Super Easy German (83)](https://www.youtube.com/watch?v=9h8p08qziG0)  
+  **عنوان:** [Conjugation of regular verbs: Sagen, Machen, Hören](https://www.youtube.com/watch?v=9h8p08qziG0)  
   ![](https://i.ytimg.com/vi/9h8p08qziG0/hqdefault.jpg)
 
 
@@ -8636,7 +8642,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2018-07-04 18:26:57 (UTC)  
   **مدت:** حدود 4.2 دقیقه  
-  **عنوان:** [Introduce yourself in German (for absolute beginners) | Super Easy German (76)](https://www.youtube.com/watch?v=Yaelm87PTvg)  
+  **عنوان:** [Introduce yourself in German (for absolute beginners)](https://www.youtube.com/watch?v=Yaelm87PTvg)  
   ![](https://i.ytimg.com/vi/Yaelm87PTvg/hqdefault.jpg)
 
 
@@ -8702,7 +8708,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2018-05-16 17:00:04 (UTC)  
   **مدت:** حدود 5.5 دقیقه  
-  **عنوان:** [Mit + Dative | Super Easy German (72)](https://www.youtube.com/watch?v=GT6ZDpB_7rA)  
+  **عنوان:** [German Preposition Mit + Dative](https://www.youtube.com/watch?v=GT6ZDpB_7rA)  
   ![](https://i.ytimg.com/vi/GT6ZDpB_7rA/hqdefault.jpg)
 
 
@@ -8876,7 +8882,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2018-01-31 18:43:23 (UTC)  
   **مدت:** حدود 4.1 دقیقه  
-  **عنوان:** [Hoch, höher am höchsten! | Super Easy German (63)](https://www.youtube.com/watch?v=8QTb4is_fKw)  
+  **عنوان:** [Hoch, höher am höchsten! (German Comparative)](https://www.youtube.com/watch?v=8QTb4is_fKw)  
   ![](https://i.ytimg.com/vi/8QTb4is_fKw/hqdefault.jpg)
 
 
@@ -9170,7 +9176,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2017-07-19 18:38:12 (UTC)  
   **مدت:** حدود 4.5 دقیقه  
-  **عنوان:** [Präpositionen mit Dativ | Super Easy German (40)](https://www.youtube.com/watch?v=CDgG2K7Kbbs)  
+  **عنوان:** [German Prepositions With Dative](https://www.youtube.com/watch?v=CDgG2K7Kbbs)  
   ![](https://i.ytimg.com/vi/CDgG2K7Kbbs/hqdefault.jpg)
 
 
@@ -9182,7 +9188,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2017-07-05 16:11:56 (UTC)  
   **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [German Prepositions: BEI | Super Easy German (39)](https://www.youtube.com/watch?v=fa9K07uIrOo)  
+  **عنوان:** [German Prepositions: BEI](https://www.youtube.com/watch?v=fa9K07uIrOo)  
   ![](https://i.ytimg.com/vi/fa9K07uIrOo/hqdefault.jpg)
 
 
@@ -9362,7 +9368,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2017-04-05 19:44:03 (UTC)  
   **مدت:** حدود 4.2 دقیقه  
-  **عنوان:** [Perfect Tense in German | Super Easy German (26)](https://www.youtube.com/watch?v=0q8ceeaEI68)  
+  **عنوان:** [Perfect Tense in German](https://www.youtube.com/watch?v=0q8ceeaEI68)  
   ![](https://i.ytimg.com/vi/0q8ceeaEI68/hqdefault.jpg)
 
 
@@ -9488,7 +9494,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2017-02-01 19:15:14 (UTC)  
   **مدت:** حدود 4.5 دقیقه  
-  **عنوان:** [GERMAN ACCUSATIVE | Super Easy German (16)](https://www.youtube.com/watch?v=A3kDyxMO2xI)  
+  **عنوان:** [German Accusative for Beginners](https://www.youtube.com/watch?v=A3kDyxMO2xI)  
   ![](https://i.ytimg.com/vi/A3kDyxMO2xI/hqdefault.jpg)
 
 
@@ -9518,7 +9524,7 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
 
 - **تاریخ انتشار:** 2017-01-18 23:05:45 (UTC)  
   **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [The Weather | Super Easy German (14)](https://www.youtube.com/watch?v=RvcmpwHG1eQ)  
+  **عنوان:** [Talking About the Weather in German (For Beginners)](https://www.youtube.com/watch?v=RvcmpwHG1eQ)  
   ![](https://i.ytimg.com/vi/RvcmpwHG1eQ/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
   **مدت:** حدود 10.9 دقیقه  
   **عنوان:** [Are Germans direct? | Easy German 173](https://www.youtube.com/watch?v=WSM-fWh6F8k)  
   ![](https://i.ytimg.com/vi/WSM-fWh6F8k/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-09 23:48:03 (UTC)  
-  **مدت:** حدود 14.6 دقیقه  
-  **عنوان:** [Cari antwortet (41) | At the Easy German Christmas Party](https://www.youtube.com/watch?v=dQezOMTypoA)  
-  ![](https://i.ytimg.com/vi/dQezOMTypoA/hqdefault.jpg)

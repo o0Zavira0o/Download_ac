@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
+_آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-20 18:14:49 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Mechanical Animals: Kinematic Horse and Dachshund Linkage Models](https://www.youtube.com/watch?v=YrrA0ixHLKw)  
+  ![](https://i.ytimg.com/vi/YrrA0ixHLKw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-20 05:00:22 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-20T09:41:34Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅Air Compressor With Two Coaxial Piston Mechanism 📌 | Mechanical Design & Animation](https://www.youtube.com/watch?v=2_dmlcfMhFA)  
   ![](https://i.ytimg.com/vi/2_dmlcfMhFA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-30 11:43:40 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Sarrus Linkage Mechanism ❓ | 3D Mechanical Design & Working Principle](https://www.youtube.com/watch?v=BJmvGzS_Qcc)  
-  ![](https://i.ytimg.com/vi/BJmvGzS_Qcc/hqdefault.jpg)
