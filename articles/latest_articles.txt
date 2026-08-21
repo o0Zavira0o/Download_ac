@@ -1,6 +1,18 @@
-# Last Run: 2026-08-21 20:30 UTC
+# Last Run: 2026-08-21 22:28 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump Needs China’s Help to Effectively Sanction Iran
+Published: 2026-08-21T20:05:26+00:00
+Link: https://foreignpolicy.com/2026/08/21/us-sanctions-iran-war-trump-bessent-china/
+---
+[Foreign_Policy] Why We Are Living Through ‘Hyperpolitics’
+Published: 2026-08-21T18:44:48+00:00
+Link: https://foreignpolicy.com/2026/08/21/anton-jager-hyperpolitics-dsa-bjp-political-theory/
+---
+[Foreign_Policy] Who Reaps the Benefits of India’s Growth?
+Published: 2026-08-21T18:30:02+00:00
+Link: https://foreignpolicy.com/2026/08/21/sixth-humanity-review-kapur-subramanian-india-development-economy/
+---
 [Foreign_Policy] A Land Without the Troubles?
 Published: 2026-08-21T18:00:36+00:00
 Link: https://foreignpolicy.com/2026/08/21/few-and-far-between-review-northern-ireland-troubles-politics-accountability-justice-jan-carson/
@@ -120,8 +132,4 @@ Link: https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cas
 [Foreign_Affairs] A China Strategy That Lasts
 Published: 2026-08-19T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/china-strategy-lasts
----
-[Foreign_Policy] Russian Threats Won’t Stop the U.K.’s Drone Deliveries
-Published: 2026-08-18T21:29:27+00:00
-Link: https://foreignpolicy.com/2026/08/18/british-drones-ukraine-russia-war-burnham-missiles/
 ---
