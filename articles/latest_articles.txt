@@ -1,6 +1,10 @@
-# Last Run: 2026-08-21 03:06 UTC
+# Last Run: 2026-08-21 04:44 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] Why Criminals Love the Chinese Economy
+Published: 2026-08-21T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/why-criminals-love-chinese-economy
+---
 [Foreign_Policy] Trump’s Tech Tensions
 Published: 2026-08-20T21:43:52+00:00
 Link: https://foreignpolicy.com/2026/08/20/trump-us-national-security-technology-strategy-china/
@@ -108,40 +112,4 @@ Link: https://foreignpolicy.com/2026/08/18/uganda-succession-president-museveni-
 [Foreign_Policy] Colby’s ‘Flexible Realism’ Won’t Work in the Indo-Pacific
 Published: 2026-08-18T12:11:48+00:00
 Link: https://foreignpolicy.com/2026/08/18/elbridge-colby-trump-asia-indo-pacific-china-strategy-defense-geopolitics-alliances-flexible-realism/
----
-[Foreign_Affairs] AI and the New Age of Bioweapons
-Published: 2026-08-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/ai-new-age-bioweapons-sherwood-randall
----
-[Foreign_Affairs] How Alliances Survive
-Published: 2026-08-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/how-alliances-survive-campbell-doshi
----
-[Foreign_Affairs] “The Strategy of Terrorism”
-Published: 2026-08-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/the-back-page/strategy-terrorism
----
-[Foreign_Affairs] Democracies Need Creative Destruction
-Published: 2026-08-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/democracies-need-creative-destruction-pahlka-greenway
----
-[Foreign_Affairs] AI and the New Age of Bioweapons
-Published: 2026-08-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/ai-and-new-age-bioweapons-sherwood-randall
----
-[Foreign_Affairs] America’s Missing Military Revolution
-Published: 2026-08-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/americas-missing-military-revolution-doug-beck
----
-[Foreign_Affairs] How China Found Its Most Potent Weapon
-Published: 2026-08-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/how-china-found-most-potent-weapon-xiong-weiss
----
-[Foreign_Affairs] The Abandoned Order
-Published: 2026-08-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/abandoned-order-world-mark-leonard
----
-[Foreign_Affairs] The End of the American Middle East
-Published: 2026-08-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch
 ---
