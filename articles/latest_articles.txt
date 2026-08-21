@@ -1,6 +1,10 @@
-# Last Run: 2026-08-21 10:34 UTC
+# Last Run: 2026-08-21 12:52 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] A Top Trump Ally Turns to China
+Published: 2026-08-21T12:00:55+00:00
+Link: https://foreignpolicy.com/2026/08/21/a-top-trump-ally-turns-to-china/
+---
 [Foreign_Affairs] Why Criminals Love the Chinese Economy
 Published: 2026-08-21T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/why-criminals-love-chinese-economy
@@ -108,8 +112,4 @@ Link: https://foreignpolicy.com/2026/08/18/vance-iran-war-objectives-gas-prices/
 [Foreign_Policy] Uganda’s Succession Plan Is Already Underway
 Published: 2026-08-18T13:18:53+00:00
 Link: https://foreignpolicy.com/2026/08/18/uganda-succession-president-museveni-muhoozi-kainerugaba-military-opposition/
----
-[Foreign_Policy] Colby’s ‘Flexible Realism’ Won’t Work in the Indo-Pacific
-Published: 2026-08-18T12:11:48+00:00
-Link: https://foreignpolicy.com/2026/08/18/elbridge-colby-trump-asia-indo-pacific-china-strategy-defense-geopolitics-alliances-flexible-realism/
 ---
