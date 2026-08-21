@@ -1,6 +1,10 @@
-# Last Run: 2026-08-20 22:31 UTC
+# Last Run: 2026-08-21 01:22 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump’s Tech Tensions
+Published: 2026-08-20T21:43:52+00:00
+Link: https://foreignpolicy.com/2026/08/20/trump-us-national-security-technology-strategy-china/
+---
 [Foreign_Policy] The Clock Is Ticking Down on Another U.S.-Canada Trade War
 Published: 2026-08-20T20:15:50+00:00
 Link: https://foreignpolicy.com/2026/08/20/us-canada-trade-talks-tariffs-steel-aluminum-autos-lumber/
