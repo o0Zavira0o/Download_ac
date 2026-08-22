@@ -1,4 +1,4 @@
-# Last Run: 2026-08-22 14:25 UTC
+# Last Run: 2026-08-22 16:27 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Needs China’s Help to Effectively Sanction Iran
@@ -104,12 +104,4 @@ Link: https://foreignpolicy.com/2026/08/19/realism-international-relations-power
 [Foreign_Policy] As the Israeli Election Nears, Trump Has Leverage Over Netanyahu
 Published: 2026-08-19T17:28:15+00:00
 Link: https://foreignpolicy.com/2026/08/19/trump-netanyahu-israel-election-endorsement-gaza-iran/
----
-[Foreign_Policy] Ukraine’s War Widows Are Fighting for Money
-Published: 2026-08-19T16:15:54+00:00
-Link: https://foreignpolicy.com/2026/08/19/ukraines-war-widows-are-fighting-for-money/
----
-[Foreign_Policy] Can Venezuela’s Opposition Find A Path to Power?
-Published: 2026-08-19T16:04:47+00:00
-Link: https://foreignpolicy.com/2026/08/19/venezuela-opposition-rodriguez-trump/
 ---
