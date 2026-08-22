@@ -1,4 +1,4 @@
-# Last Run: 2026-08-22 16:27 UTC
+# Last Run: 2026-08-22 18:39 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Needs China’s Help to Effectively Sanction Iran
@@ -96,12 +96,4 @@ Link: https://foreignpolicy.com/2026/08/19/gray-zone-germany-russia-hybrid-warfa
 [Foreign_Policy] How Africa Is Battling Climate Extremes
 Published: 2026-08-19T20:01:47+00:00
 Link: https://foreignpolicy.com/2026/08/19/africa-climate-change-drought-wildfires-flooding-el-nino/
----
-[Foreign_Policy] Realism Is Unrealistic
-Published: 2026-08-19T18:15:53+00:00
-Link: https://foreignpolicy.com/2026/08/19/realism-international-relations-power-america-cold-war-hegemony/
----
-[Foreign_Policy] As the Israeli Election Nears, Trump Has Leverage Over Netanyahu
-Published: 2026-08-19T17:28:15+00:00
-Link: https://foreignpolicy.com/2026/08/19/trump-netanyahu-israel-election-endorsement-gaza-iran/
 ---
