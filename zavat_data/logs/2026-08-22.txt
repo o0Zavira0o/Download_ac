@@ -1,4 +1,22 @@
 ================================================================================
+2026-08-22 17:43:50 (Asia/Tehran) | IrGens
+Title  : Certified Kubernetes Administrator (CKA): Securing Access with RBAC and Admission Controls
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 21m | 198 MB
+Link   : http://zavat.pw/ebooks/cka-securing-access-with-rbac-and-admission-controls.html
+
+================================================================================
+2026-08-22 17:43:50 (Asia/Tehran) | IrGens
+Title  : Cloud Observability for Azure Operations
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 13m | 183 MB
+Link   : http://zavat.pw/ebooks/azure-operations-cloud-observability.html
+
+================================================================================
+2026-08-22 17:43:50 (Asia/Tehran) | IrGens
+Title  : Create and Share Looks in Google Looker
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 50m | 175 MB
+Link   : http://zavat.pw/ebooks/google-looker-create-share-looks.html
+
+================================================================================
 2026-08-22 17:20:12 (Asia/Tehran) | IrGens
 Title  : Developing Effective Agile Sprint Plans
 Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 59m | 117 MB
