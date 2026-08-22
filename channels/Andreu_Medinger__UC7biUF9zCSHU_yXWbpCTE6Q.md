@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
+_آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-08-21 22:30:27 (UTC)  
+  **مدت:** حدود 28.8 دقیقه  
+  **عنوان:** [AULA 28 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Linha de Produção #solidworks](https://www.youtube.com/watch?v=K6P_gTEmXcA)  
+  ![](https://i.ytimg.com/vi/K6P_gTEmXcA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-20 23:10:26 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
   **مدت:** حدود 2.4 دقیقه  
   **عنوان:** [CÁLCULO DE CARGA PARA EIXOS CILÍNDRICOS DE AÇO. #solidworks #engenhariamecanica](https://www.youtube.com/watch?v=g5voo9XtMZY)  
   ![](https://i.ytimg.com/vi/g5voo9XtMZY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-02-24 22:42:34 (UTC)  
-  **مدت:** حدود 32.1 دقیقه  
-  **عنوان:** [AULA 29 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=HPsxg4YEQno)  
-  ![](https://i.ytimg.com/vi/HPsxg4YEQno/hqdefault.jpg)

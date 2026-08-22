@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
+_آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -20,7 +20,7 @@ _آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
 
 - **تاریخ انتشار:** 2026-08-19 17:00:01 (UTC)  
   **مدت:** حدود 16.1 دقیقه  
-  **عنوان:** [Why Germans Say “Damit” (Not “mit es”)](https://www.youtube.com/watch?v=n1RZa2y29Yg)  
+  **عنوان:** [Learn German Grammar in Real Conversations](https://www.youtube.com/watch?v=n1RZa2y29Yg)  
   ![](https://i.ytimg.com/vi/n1RZa2y29Yg/hqdefault.jpg)
 
 

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
+_آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-21 11:00:19 (UTC)  
+  **مدت:** حدود 0.0 دقیقه  
+  **عنوان:** [✅Four-Bar Radial Cam and Follower Mechanism Assembly](https://www.youtube.com/watch?v=HeJJg9Gy-Lc)  
+  ![](https://i.ytimg.com/vi/HeJJg9Gy-Lc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-20 18:14:49 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [2021 Mech Mechanism 📌](https://www.youtube.com/watch?v=uJJrcCVB9Dw)  
   ![](https://i.ytimg.com/vi/uJJrcCVB9Dw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-01 11:45:12 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Air Compressor With Two Coaxial Piston Mechanism 📌 | Mechanical Design & Animation](https://www.youtube.com/watch?v=2_dmlcfMhFA)  
-  ![](https://i.ytimg.com/vi/2_dmlcfMhFA/hqdefault.jpg)

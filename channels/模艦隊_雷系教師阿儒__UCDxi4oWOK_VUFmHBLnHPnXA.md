@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
+_آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-08-21 11:00:09 (UTC)  
+  **مدت:** حدود 22.8 دقیقه  
+  **عنوان:** [【onshape】基礎零件： Model Mania｜分區處理&移動面｜選擇快? 還是穩?](https://www.youtube.com/watch?v=Vx4kCZ5vwL8)  
+  ![](https://i.ytimg.com/vi/Vx4kCZ5vwL8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-19 11:00:39 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-21T09:44:20Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [短片看建模：Onshape認證考題步驟拆解](https://www.youtube.com/watch?v=V2JY7EVFjJY)  
   ![](https://i.ytimg.com/vi/V2JY7EVFjJY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-05-30 11:01:33 (UTC)  
-  **مدت:** حدود 15.9 دقیقه  
-  **عنوان:** [【onshape】產品練習：齒輪｜分區處理｜指令組合拳](https://www.youtube.com/watch?v=liXd1QxJgmY)  
-  ![](https://i.ytimg.com/vi/liXd1QxJgmY/hqdefault.jpg)
