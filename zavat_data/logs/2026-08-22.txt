@@ -1,4 +1,16 @@
 ================================================================================
+2026-08-22 19:45:05 (Asia/Tehran) | hill0
+Title  : Advances in Next-Generation Networking for Cyber-Physical System
+Details: English | 2026 | ISBN: 3032222486 | 514 Pages | PDF (True) | 23 MB
+Link   : http://zavat.pw/ebooks/3032222486.html
+
+================================================================================
+2026-08-22 19:45:05 (Asia/Tehran) | hill0
+Title  : Water Remediation Techniques and Strategies
+Details: English | 2026 | ISBN: 303226118X | 435 Pages | PDF (True) | 19 MB
+Link   : http://zavat.pw/ebooks/303226118X.html
+
+================================================================================
 2026-08-22 17:43:50 (Asia/Tehran) | IrGens
 Title  : Certified Kubernetes Administrator (CKA): Securing Access with RBAC and Admission Controls
 Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 21m | 198 MB
