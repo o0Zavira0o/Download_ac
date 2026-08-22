@@ -1,4 +1,4 @@
-# Last Run: 2026-08-22 12:42 UTC
+# Last Run: 2026-08-22 14:25 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Needs China’s Help to Effectively Sanction Iran
@@ -112,12 +112,4 @@ Link: https://foreignpolicy.com/2026/08/19/ukraines-war-widows-are-fighting-for-
 [Foreign_Policy] Can Venezuela’s Opposition Find A Path to Power?
 Published: 2026-08-19T16:04:47+00:00
 Link: https://foreignpolicy.com/2026/08/19/venezuela-opposition-rodriguez-trump/
----
-[Foreign_Policy] U.S. Funding Cuts Fuel Child Recruitment Into Haitian Armed Groups
-Published: 2026-08-19T13:36:46+00:00
-Link: https://foreignpolicy.com/2026/08/19/usaid-trump-cuts-haiti-gang-violence-child-recruitment/
----
-[Foreign_Policy] A Rare Window Has Opened for North Korean Diplomacy
-Published: 2026-08-19T13:15:03+00:00
-Link: https://foreignpolicy.com/2026/08/19/north-south-korea-nuclear-weapons-diplomacy-trump-security/
 ---
