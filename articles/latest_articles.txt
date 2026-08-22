@@ -1,4 +1,4 @@
-# Last Run: 2026-08-22 04:36 UTC
+# Last Run: 2026-08-22 06:45 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Needs China’s Help to Effectively Sanction Iran
@@ -120,8 +120,4 @@ Link: https://foreignpolicy.com/2026/08/19/usaid-trump-cuts-haiti-gang-violence-
 [Foreign_Policy] A Rare Window Has Opened for North Korean Diplomacy
 Published: 2026-08-19T13:15:03+00:00
 Link: https://foreignpolicy.com/2026/08/19/north-south-korea-nuclear-weapons-diplomacy-trump-security/
----
-[Foreign_Policy] Colby’s Empty Charm Offensive
-Published: 2026-08-19T05:00:21+00:00
-Link: https://foreignpolicy.com/2026/08/19/colby-philippines-southeast-asia-tour/
 ---
