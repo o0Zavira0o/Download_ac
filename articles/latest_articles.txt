@@ -1,4 +1,4 @@
-# Last Run: 2026-08-23 08:34 UTC
+# Last Run: 2026-08-23 10:28 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Needs China’s Help to Effectively Sanction Iran
@@ -72,8 +72,4 @@ Link: https://foreignpolicy.com/2026/08/20/bolivia-paz-lithium-economy-crisis-mi
 [Foreign_Policy] State Department to Partner With Palantir, Anduril on Free Speech Initiative
 Published: 2026-08-20T18:29:19+00:00
 Link: https://foreignpolicy.com/2026/08/20/state-department-freedom-tech-excellence-program-ftep-anduril-palantir-speech/
----
-[Foreign_Policy] Israel and America Agree on Gaza’s New Leader
-Published: 2026-08-20T09:05:39+00:00
-Link: https://foreignpolicy.com/2026/08/20/shaath-gaza-israel-trump-leader/
 ---
