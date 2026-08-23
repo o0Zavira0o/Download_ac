@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
+_آخرین به‌روزرسانی: 2026-08-23T09:34:46Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-08-22 10:00:17 (UTC)  
+  **مدت:** حدود 47.2 دقیقه  
+  **عنوان:** [40,WINGED DRAGON | 60cm Origami Dragon from Craft Paper | Silent Origami 60cmのクラフト紙で折る臙脂色の折り紙ドラゴン](https://www.youtube.com/watch?v=qp6TiIo7ltY)  
+  ![](https://i.ytimg.com/vi/qp6TiIo7ltY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-15 10:00:03 (UTC)  

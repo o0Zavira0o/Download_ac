@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
+_آخرین به‌روزرسانی: 2026-08-23T09:34:46Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-23 03:30:15 (UTC)  
+  **مدت:** حدود 29.6 دقیقه  
+  **عنوان:** [Clevis Mount Assembly in SolidWorks](https://www.youtube.com/watch?v=wLvvJEWzWRk)  
+  ![](https://i.ytimg.com/vi/wLvvJEWzWRk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-21 03:30:15 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
   **مدت:** حدود 23.7 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Sheet Metal Screw in Solidworks](https://www.youtube.com/watch?v=CW1TN_eqV-w)  
   ![](https://i.ytimg.com/vi/CW1TN_eqV-w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-27 21:57:43 (UTC)  
-  **مدت:** حدود 92.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Plier Wrench in Solidworks](https://www.youtube.com/watch?v=i3blq3ISbmY)  
-  ![](https://i.ytimg.com/vi/i3blq3ISbmY/hqdefault.jpg)

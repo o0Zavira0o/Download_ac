@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
+_آخرین به‌روزرسانی: 2026-08-23T09:34:46Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-22 13:40:22 (UTC)  
+  **مدت:** حدود 10.5 دقیقه  
+  **عنوان:** [ASMR 무지개 방울🫧 다이어리 꾸미기(with 스탬프) | 스탬프다꾸 Journaling Stamp diy만들기](https://www.youtube.com/watch?v=1rHGb7ie28A)  
+  ![](https://i.ytimg.com/vi/1rHGb7ie28A/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-21 09:35:30 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Let's decorate a phone cover #handmade #satisfying #diy #journal](https://www.youtube.com/watch?v=PYd7ioNRglI)  
   ![](https://i.ytimg.com/vi/PYd7ioNRglI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-10 13:22:00 (UTC)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Journal Front Page Ideas l June #journal #journalideas](https://www.youtube.com/watch?v=-tFaSXS67JM)  
-  ![](https://i.ytimg.com/vi/-tFaSXS67JM/hqdefault.jpg)

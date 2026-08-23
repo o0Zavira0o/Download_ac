@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
+_آخرین به‌روزرسانی: 2026-08-23T09:34:46Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-22 10:22:01 (UTC)  
+  **مدت:** حدود 9.9 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Tutorial | 2D Engineering Drawing to 3D Model](https://www.youtube.com/watch?v=6jJE60uJsYc)  
+  ![](https://i.ytimg.com/vi/6jJE60uJsYc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-21 11:00:19 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅Double Roller Slider Mechanism 📌 | Mechanical Engineering](https://www.youtube.com/watch?v=2WsmKjzoNoY)  
   ![](https://i.ytimg.com/vi/2WsmKjzoNoY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-03 11:52:05 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [2021 Mech Mechanism 📌](https://www.youtube.com/watch?v=uJJrcCVB9Dw)  
-  ![](https://i.ytimg.com/vi/uJJrcCVB9Dw/hqdefault.jpg)

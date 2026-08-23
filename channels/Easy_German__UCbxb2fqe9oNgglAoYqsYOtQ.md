@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
+_آخرین به‌روزرسانی: 2026-08-23T09:34:46Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-22 16:36:33 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Gesellschaftsspiele auf langsamen Deutsch #easygerman #deutschlernen #slowgerman #germana1](https://www.youtube.com/watch?v=R18496VqC7o)  
+  ![](https://i.ytimg.com/vi/R18496VqC7o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-21 06:45:48 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-22T09:33:50Z_
   **مدت:** حدود 2.7 دقیقه  
   **عنوان:** [Dogs | Super Easy German (9)](https://www.youtube.com/watch?v=jcbnUVAqAz4)  
   ![](https://i.ytimg.com/vi/jcbnUVAqAz4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-11 20:49:04 (UTC)  
-  **مدت:** حدود 10.9 دقیقه  
-  **عنوان:** [Are Germans direct? | Easy German 173](https://www.youtube.com/watch?v=WSM-fWh6F8k)  
-  ![](https://i.ytimg.com/vi/WSM-fWh6F8k/hqdefault.jpg)
