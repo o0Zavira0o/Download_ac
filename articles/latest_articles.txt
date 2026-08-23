@@ -1,4 +1,4 @@
-# Last Run: 2026-08-23 03:12 UTC
+# Last Run: 2026-08-23 04:39 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Needs China’s Help to Effectively Sanction Iran
@@ -76,8 +76,4 @@ Link: https://foreignpolicy.com/2026/08/20/state-department-freedom-tech-excelle
 [Foreign_Policy] Israel and America Agree on Gaza’s New Leader
 Published: 2026-08-20T09:05:39+00:00
 Link: https://foreignpolicy.com/2026/08/20/shaath-gaza-israel-trump-leader/
----
-[Foreign_Affairs] How AI Could Hollow Out the U.S. Military
-Published: 2026-08-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/how-ai-could-hollow-out-us-military
 ---
