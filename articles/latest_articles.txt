@@ -1,4 +1,4 @@
-# Last Run: 2026-08-23 20:27 UTC
+# Last Run: 2026-08-23 22:25 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump Needs China’s Help to Effectively Sanction Iran
@@ -48,8 +48,4 @@ Link: https://foreignpolicy.com/2026/08/21/a-top-trump-ally-turns-to-china/
 [Foreign_Affairs] Why Criminals Love the Chinese Economy
 Published: 2026-08-21T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/why-criminals-love-chinese-economy
----
-[Foreign_Policy] Trump’s Tech Tensions
-Published: 2026-08-20T21:43:52+00:00
-Link: https://foreignpolicy.com/2026/08/20/trump-us-national-security-technology-strategy-china/
 ---
