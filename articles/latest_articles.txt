@@ -1,6 +1,14 @@
-# Last Run: 2026-08-24 14:48 UTC
+# Last Run: 2026-08-24 17:03 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Where Is King Abdullah?
+Published: 2026-08-24T13:38:08+00:00
+Link: https://foreignpolicy.com/2026/08/24/jordan-king-abdullah-trump-gaza-iran/
+---
+[Foreign_Policy] Germany’s Firewall Has Completely Failed
+Published: 2026-08-24T13:15:23+00:00
+Link: https://foreignpolicy.com/2026/08/24/germany-afd-far-right-elections-saxony-anhalt-firewall/
+---
 [Foreign_Policy] Washington Is Creating Forever Enemies
 Published: 2026-08-24T10:00:46+00:00
 Link: https://foreignpolicy.com/2026/08/24/iran-afghanistan-united-states-war-enemies/
@@ -40,16 +48,4 @@ Link: https://foreignpolicy.com/2026/08/21/brazil-presidential-election-flavio-j
 [Foreign_Policy] What in the World?
 Published: 2026-08-21T17:20:53+00:00
 Link: https://foreignpolicy.com/2026/08/21/news-quiz-trump-south-korea-kim-jong-un-iran-deadline-russia-ukraine/
----
-[Foreign_Policy] Why Do Young Africans Love Donald Trump?
-Published: 2026-08-21T17:00:12+00:00
-Link: https://foreignpolicy.com/2026/08/21/african-youth-survey-donald-trump-transactionalism-popularity/
----
-[Foreign_Policy] Trump’s Twin Blunders
-Published: 2026-08-21T15:15:38+00:00
-Link: https://foreignpolicy.com/2026/08/21/us-asia-pivot-trump-middle-east-indo-pacific/
----
-[Foreign_Policy] The U.S. Is Learning the Wrong Lessons in Iran
-Published: 2026-08-21T15:03:19+00:00
-Link: https://foreignpolicy.com/2026/08/21/iran-military-lessons-tactics-strategy-trump/
 ---
