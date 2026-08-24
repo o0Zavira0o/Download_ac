@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-23T09:34:46Z_
+_آخرین به‌روزرسانی: 2026-08-24T09:55:44Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-24 03:42:51 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Rotary ➡️ Linear Motion Made Simple! 🔄 #shorts](https://www.youtube.com/watch?v=mQnCBAJnjLY)  
+  ![](https://i.ytimg.com/vi/mQnCBAJnjLY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-22 10:22:01 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-23T09:34:46Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅Rotary to Oscillating Motion Mechanism ⚙️ | Engineering Design](https://www.youtube.com/watch?v=B96SshlxsPo)  
   ![](https://i.ytimg.com/vi/B96SshlxsPo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-05 11:51:44 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Double Roller Slider Mechanism 📌 | Mechanical Engineering](https://www.youtube.com/watch?v=2WsmKjzoNoY)  
-  ![](https://i.ytimg.com/vi/2WsmKjzoNoY/hqdefault.jpg)

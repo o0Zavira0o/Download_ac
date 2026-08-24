@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-23T09:34:46Z_
+_آخرین به‌روزرسانی: 2026-08-24T09:55:44Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-23 13:00:25 (UTC)  
+  **مدت:** حدود 1.7 دقیقه  
+  **عنوان:** [ASMR 다꾸 문구 언박싱✨️WT 협찬 | Stationery Unboxing Journal](https://www.youtube.com/watch?v=WbFjyh00aZQ)  
+  ![](https://i.ytimg.com/vi/WbFjyh00aZQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-22 13:40:22 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-23T09:34:46Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [Organize #organized #asmr #organize #afterjournal](https://www.youtube.com/watch?v=uCEyV5t-FsU)  
   ![](https://i.ytimg.com/vi/uCEyV5t-FsU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-11 12:20:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Let's decorate a phone cover #handmade #satisfying #diy #journal](https://www.youtube.com/watch?v=PYd7ioNRglI)  
-  ![](https://i.ytimg.com/vi/PYd7ioNRglI/hqdefault.jpg)

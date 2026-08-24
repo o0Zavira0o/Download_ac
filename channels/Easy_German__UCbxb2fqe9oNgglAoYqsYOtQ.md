@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-23T09:34:46Z_
+_آخرین به‌روزرسانی: 2026-08-24T09:55:44Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-23 17:00:20 (UTC)  
+  **مدت:** حدود 14.6 دقیقه  
+  **عنوان:** [Where do Berliners Go to Escape their City?](https://www.youtube.com/watch?v=o0xHyMTe9Bk)  
+  ![](https://i.ytimg.com/vi/o0xHyMTe9Bk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-22 16:36:33 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-23T09:34:46Z_
   **مدت:** حدود 5.8 دقیقه  
   **عنوان:** [Easy German Exercises - How to improve your learning experience with Easy German](https://www.youtube.com/watch?v=Uj3iNWEIiJA)  
   ![](https://i.ytimg.com/vi/Uj3iNWEIiJA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-14 18:37:46 (UTC)  
-  **مدت:** حدود 2.7 دقیقه  
-  **عنوان:** [Dogs | Super Easy German (9)](https://www.youtube.com/watch?v=jcbnUVAqAz4)  
-  ![](https://i.ytimg.com/vi/jcbnUVAqAz4/hqdefault.jpg)
