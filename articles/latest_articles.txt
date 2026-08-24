@@ -1,4 +1,4 @@
-# Last Run: 2026-08-24 19:14 UTC
+# Last Run: 2026-08-24 20:54 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Where Is King Abdullah?
@@ -24,8 +24,4 @@ Link: https://foreignpolicy.com/2026/08/24/trump-war-public-opinion-donald-duck/
 [Foreign_Affairs] The End of Thailand’s Long Stalemate?
 Published: 2026-08-24T04:00:00+00:00
 Link: https://www.foreignaffairs.com/thailand/end-thailands-long-stalemate
----
-[Foreign_Policy] Trump Needs China’s Help to Effectively Sanction Iran
-Published: 2026-08-21T20:05:26+00:00
-Link: https://foreignpolicy.com/2026/08/21/us-sanctions-iran-war-trump-bessent-china/
 ---
