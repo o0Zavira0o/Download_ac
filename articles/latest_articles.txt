@@ -1,6 +1,10 @@
-# Last Run: 2026-08-24 10:40 UTC
+# Last Run: 2026-08-24 12:54 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Washington Is Creating Forever Enemies
+Published: 2026-08-24T10:00:46+00:00
+Link: https://foreignpolicy.com/2026/08/24/iran-afghanistan-united-states-war-enemies/
+---
 [Foreign_Policy] Ditching Chinese Rare Earths Is Hard. Just Ask Japan.
 Published: 2026-08-24T09:30:20+00:00
 Link: https://foreignpolicy.com/2026/08/24/rare-earths-china-japan-trade-united-states-trump-supply-chain/
@@ -52,8 +56,4 @@ Link: https://foreignpolicy.com/2026/08/21/iran-military-lessons-tactics-strateg
 [Foreign_Policy] Southeast Asia Isn’t Buying Elbridge Colby’s Flexible Realism
 Published: 2026-08-21T14:08:52+00:00
 Link: https://foreignpolicy.com/2026/08/21/southeast-asia-allies-flexible-realism-colby-trump-china/
----
-[Foreign_Policy] A Top Trump Ally Turns to China
-Published: 2026-08-21T12:00:55+00:00
-Link: https://foreignpolicy.com/2026/08/21/a-top-trump-ally-turns-to-china/
 ---
