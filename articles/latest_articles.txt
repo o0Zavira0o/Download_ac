@@ -1,6 +1,10 @@
-# Last Run: 2026-08-24 03:07 UTC
+# Last Run: 2026-08-24 04:52 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The End of Thailand’s Long Stalemate?
+Published: 2026-08-24T04:00:00+00:00
+Link: https://www.foreignaffairs.com/thailand/end-thailands-long-stalemate
+---
 [Foreign_Policy] Trump Needs China’s Help to Effectively Sanction Iran
 Published: 2026-08-21T20:05:26+00:00
 Link: https://foreignpolicy.com/2026/08/21/us-sanctions-iran-war-trump-bessent-china/
@@ -44,8 +48,4 @@ Link: https://foreignpolicy.com/2026/08/21/southeast-asia-allies-flexible-realis
 [Foreign_Policy] A Top Trump Ally Turns to China
 Published: 2026-08-21T12:00:55+00:00
 Link: https://foreignpolicy.com/2026/08/21/a-top-trump-ally-turns-to-china/
----
-[Foreign_Affairs] Why Criminals Love the Chinese Economy
-Published: 2026-08-21T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/why-criminals-love-chinese-economy
 ---
