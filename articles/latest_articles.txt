@@ -1,4 +1,4 @@
-# Last Run: 2026-08-24 12:54 UTC
+# Last Run: 2026-08-24 14:48 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Washington Is Creating Forever Enemies
@@ -52,8 +52,4 @@ Link: https://foreignpolicy.com/2026/08/21/us-asia-pivot-trump-middle-east-indo-
 [Foreign_Policy] The U.S. Is Learning the Wrong Lessons in Iran
 Published: 2026-08-21T15:03:19+00:00
 Link: https://foreignpolicy.com/2026/08/21/iran-military-lessons-tactics-strategy-trump/
----
-[Foreign_Policy] Southeast Asia Isn’t Buying Elbridge Colby’s Flexible Realism
-Published: 2026-08-21T14:08:52+00:00
-Link: https://foreignpolicy.com/2026/08/21/southeast-asia-allies-flexible-realism-colby-trump-china/
 ---
