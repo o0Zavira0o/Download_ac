@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-24T09:55:44Z_
+_آخرین به‌روزرسانی: 2026-08-25T09:42:24Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-24 11:31:32 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Wie würdest du einen Außerirdischen begrüßen? #shorts #easygerman](https://www.youtube.com/watch?v=9y44_qPPqE0)  
+  ![](https://i.ytimg.com/vi/9y44_qPPqE0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-23 17:00:20 (UTC)  
@@ -3992,7 +3998,7 @@ _آخرین به‌روزرسانی: 2026-08-24T09:55:44Z_
 
 - **تاریخ انتشار:** 2024-05-22 17:00:32 (UTC)  
   **مدت:** حدود 12.3 دقیقه  
-  **عنوان:** [German vs. Dutch vs. English | How Similar Are They?](https://www.youtube.com/watch?v=f9cc3VnoRGY)  
+  **عنوان:** [German vs. Dutch vs. English (How Similar Are They?)](https://www.youtube.com/watch?v=f9cc3VnoRGY)  
   ![](https://i.ytimg.com/vi/f9cc3VnoRGY/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-24T09:55:44Z_
   **مدت:** حدود 10.1 دقیقه  
   **عنوان:** [How to pronounce "R" in German | Easy German 174](https://www.youtube.com/watch?v=3aJOsLVJp8U)  
   ![](https://i.ytimg.com/vi/3aJOsLVJp8U/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-16 20:05:00 (UTC)  
-  **مدت:** حدود 5.8 دقیقه  
-  **عنوان:** [Easy German Exercises - How to improve your learning experience with Easy German](https://www.youtube.com/watch?v=Uj3iNWEIiJA)  
-  ![](https://i.ytimg.com/vi/Uj3iNWEIiJA/hqdefault.jpg)

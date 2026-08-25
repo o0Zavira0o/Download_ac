@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-24T09:55:44Z_
+_آخرین به‌روزرسانی: 2026-08-25T09:42:24Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-24 12:20:02 (UTC)  
+  **مدت:** حدود 11.8 دقیقه  
+  **عنوان:** [Honeycomb vent Modeling SolidWorks Tutorial](https://www.youtube.com/watch?v=Ln678XJjEv8)  
+  ![](https://i.ytimg.com/vi/Ln678XJjEv8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-23 03:30:15 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-24T09:55:44Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [Single Cylinder Engine Design in Solidworks (upComing Tutorial)](https://www.youtube.com/watch?v=n6v4tCTNUTY)  
   ![](https://i.ytimg.com/vi/n6v4tCTNUTY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-28 11:00:00 (UTC)  
-  **مدت:** حدود 23.7 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Sheet Metal Screw in Solidworks](https://www.youtube.com/watch?v=CW1TN_eqV-w)  
-  ![](https://i.ytimg.com/vi/CW1TN_eqV-w/hqdefault.jpg)

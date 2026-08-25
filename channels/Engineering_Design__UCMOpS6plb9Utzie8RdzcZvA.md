@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-24T09:55:44Z_
+_آخرین به‌روزرسانی: 2026-08-25T09:42:24Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-24 13:04:15 (UTC)  
+  **مدت:** حدود 5.9 دقیقه  
+  **عنوان:** [CAD Modeling Basics: Designing an M12 Hex Bolt in SOLIDWORKS](https://www.youtube.com/watch?v=ba1nsaxKtyM)  
+  ![](https://i.ytimg.com/vi/ba1nsaxKtyM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-24 03:42:51 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-24T09:55:44Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅Mechanical Mechanism | Up and Down Mechanism Explain](https://www.youtube.com/watch?v=B3zRYI7geLs)  
   ![](https://i.ytimg.com/vi/B3zRYI7geLs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-06 12:22:18 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Rotary to Oscillating Motion Mechanism ⚙️ | Engineering Design](https://www.youtube.com/watch?v=B96SshlxsPo)  
-  ![](https://i.ytimg.com/vi/B96SshlxsPo/hqdefault.jpg)
