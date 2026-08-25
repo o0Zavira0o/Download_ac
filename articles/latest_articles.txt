@@ -1,6 +1,18 @@
-# Last Run: 2026-08-25 18:46 UTC
+# Last Run: 2026-08-25 22:31 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The U.S. Can’t Catch Up to China’s Robots by Banning Them
+Published: 2026-08-25T21:22:23+00:00
+Link: https://foreignpolicy.com/2026/08/25/china-robot-race-humanoids-drones-us-ban-restrictions/
+---
+[Foreign_Policy] The U.S.-Canada Trade War Is Full Steam Ahead
+Published: 2026-08-25T21:21:58+00:00
+Link: https://foreignpolicy.com/2026/08/25/us-canada-retaliatory-tariffs-trade-war-trump-ontario-ford/
+---
+[Foreign_Policy] Ukrainians Skeptical as Former Defense Minister Pushes for Elections
+Published: 2026-08-25T18:42:28+00:00
+Link: https://foreignpolicy.com/2026/08/25/fedorov-ukraine-zelensky-elections/
+---
 [Foreign_Policy] Iran’s Economy May Outlast Trump’s Presidency
 Published: 2026-08-25T16:44:40+00:00
 Link: https://foreignpolicy.com/2026/08/25/iran-war-trump-sanctions-economy-collapse/
@@ -20,6 +32,10 @@ Link: https://foreignpolicy.com/2026/08/25/peacemaking-power-politics-united-nat
 [Foreign_Policy] A Pact Without Impact
 Published: 2026-08-25T13:14:57+00:00
 Link: https://foreignpolicy.com/2026/08/25/mecca-pact-saud-arabia-turkey-pakistan-nato-israel-iran/
+---
+[Foreign_Policy] Everything You Always Wanted to Know About IR Grad School
+Published: 2026-08-25T09:33:54+00:00
+Link: https://foreignpolicy.com/2026/08/25/ir-graduate-school-apply-phd-ma/
 ---
 [Foreign_Policy] Everything You Always Wanted to Know About IR Grad School
 Published: 2026-08-25T09:33:54+00:00
