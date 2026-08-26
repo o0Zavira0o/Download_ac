@@ -1,4 +1,10 @@
 ================================================================================
+2026-08-26 23:55:56 (Asia/Tehran) | hill0
+Title  : AI for Business Leaders
+Details: English | 2026 | h264, yuv420p, 1280x720 | 48000 Hz, 2channels | Duration: 1h 2m | 336 MB
+Link   : http://zavat.pw/ebooks/9780135961865.html
+
+================================================================================
 2026-08-26 21:43:33 (Asia/Tehran) | hill0
 Title  : Red Hat Enterprise Linux 9 Administration: A comprehensive Linux system administration guide for RHCSA certification
 Details: English | 2022 | ISBN: 9781803248806 | 530 Pages | PDF EPUB (True) | 48 MB
