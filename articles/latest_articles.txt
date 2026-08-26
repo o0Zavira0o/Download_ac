@@ -1,6 +1,10 @@
-# Last Run: 2026-08-26 16:52 UTC
+# Last Run: 2026-08-26 19:50 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The U.K. Is Falling for Palantir’s Salesmanship
+Published: 2026-08-26T15:44:48+00:00
+Link: https://foreignpolicy.com/2026/08/26/palantir-operator-starmer-united-kingdom-nhs-software/
+---
 [Foreign_Policy] Why Iran Might Escalate
 Published: 2026-08-26T13:03:25+00:00
 Link: https://foreignpolicy.com/2026/08/26/iran-trump-hormuz-escalate-energy-embargo/
