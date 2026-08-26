@@ -1,14 +1,26 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-25T09:42:24Z_
+_آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
 
 
+- **تاریخ انتشار:** 2026-08-26 02:49:05 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How to Convert Rotation into 3D Motion (Spherical Crank)](https://www.youtube.com/watch?v=EjDx-1chG3Y)  
+  ![](https://i.ytimg.com/vi/EjDx-1chG3Y/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-25 12:40:19 (UTC)  
+  **مدت:** حدود 3.6 دقیقه  
+  **عنوان:** [Modeling a 3D Textured Ball in SolidWorks | Step-by-Step Tutorial](https://www.youtube.com/watch?v=D0T620Ua5gw)  
+  ![](https://i.ytimg.com/vi/D0T620Ua5gw/hqdefault.jpg)
+
+
 - **تاریخ انتشار:** 2026-08-24 13:04:15 (UTC)  
   **مدت:** حدود 5.9 دقیقه  
-  **عنوان:** [CAD Modeling Basics: Designing an M12 Hex Bolt in SOLIDWORKS](https://www.youtube.com/watch?v=ba1nsaxKtyM)  
+  **عنوان:** [Designing an M12 Hex Bolt in SOLIDWORKS](https://www.youtube.com/watch?v=ba1nsaxKtyM)  
   ![](https://i.ytimg.com/vi/ba1nsaxKtyM/hqdefault.jpg)
 
 
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-25T09:42:24Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅Mechanical Mechanism 21 #mechanism #solidworks #engineering](https://www.youtube.com/watch?v=n4WWHPbmFgs)  
   ![](https://i.ytimg.com/vi/n4WWHPbmFgs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-09 12:00:36 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Mechanical Dog Walking Mechanism | Engineering Design Animation](https://www.youtube.com/watch?v=ChaWgZ1C9sA)  
-  ![](https://i.ytimg.com/vi/ChaWgZ1C9sA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-08 12:15:26 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Mechanical Mechanism | Up and Down Mechanism Explain](https://www.youtube.com/watch?v=B3zRYI7geLs)  
-  ![](https://i.ytimg.com/vi/B3zRYI7geLs/hqdefault.jpg)

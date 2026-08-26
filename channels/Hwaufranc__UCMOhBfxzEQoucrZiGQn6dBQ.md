@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-25T09:42:24Z_
+_آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-25 13:00:13 (UTC)  
+  **مدت:** حدود 11.4 دقیقه  
+  **عنوان:** [ASMR Spooky 할로윈 다이어리 꾸미기 | Halloween Journal 다꾸 コラージュ](https://www.youtube.com/watch?v=nl45zsBfyX0)  
+  ![](https://i.ytimg.com/vi/nl45zsBfyX0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-24 13:00:20 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-25T09:42:24Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [Easy DIY cute halloween card ❤️🕸 #asmr #craft #cardmaking #asmrsounds](https://www.youtube.com/watch?v=nlhBY0_X1js)  
   ![](https://i.ytimg.com/vi/nlhBY0_X1js/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-12 03:59:00 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Journal with me #journaling #1d1p #md1d1p #keepajournal](https://www.youtube.com/watch?v=Tb2dOhLd2rc)  
-  ![](https://i.ytimg.com/vi/Tb2dOhLd2rc/hqdefault.jpg)

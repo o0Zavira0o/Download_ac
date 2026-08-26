@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-25T09:42:24Z_
+_آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-26 03:30:29 (UTC)  
+  **مدت:** حدود 22.4 دقیقه  
+  **عنوان:** [Vase Modeling in SolidWorks using Surface features](https://www.youtube.com/watch?v=k-PFIKzwHZQ)  
+  ![](https://i.ytimg.com/vi/k-PFIKzwHZQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-24 12:20:02 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-25T09:42:24Z_
   **مدت:** حدود 119.0 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Engine in Solidworks](https://www.youtube.com/watch?v=PiSMgTaHm9I)  
   ![](https://i.ytimg.com/vi/PiSMgTaHm9I/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-30 03:53:52 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Single Cylinder Engine Design in Solidworks (upComing Tutorial)](https://www.youtube.com/watch?v=n6v4tCTNUTY)  
-  ![](https://i.ytimg.com/vi/n6v4tCTNUTY/hqdefault.jpg)

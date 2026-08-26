@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-25T09:42:24Z_
+_آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-25 17:00:13 (UTC)  
+  **مدت:** حدود 30.9 دقیقه  
+  **عنوان:** [How I Became a German Citizen in 3 Years](https://www.youtube.com/watch?v=FKS9eGhFLG8)  
+  ![](https://i.ytimg.com/vi/FKS9eGhFLG8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-24 11:31:32 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-25T09:42:24Z_
   **مدت:** حدود 5.7 دقیقه  
   **عنوان:** [At the Christmas Market | Super Easy German (10)](https://www.youtube.com/watch?v=CBwKUJC2d9c)  
   ![](https://i.ytimg.com/vi/CBwKUJC2d9c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-18 18:38:40 (UTC)  
-  **مدت:** حدود 10.1 دقیقه  
-  **عنوان:** [How to pronounce "R" in German | Easy German 174](https://www.youtube.com/watch?v=3aJOsLVJp8U)  
-  ![](https://i.ytimg.com/vi/3aJOsLVJp8U/hqdefault.jpg)

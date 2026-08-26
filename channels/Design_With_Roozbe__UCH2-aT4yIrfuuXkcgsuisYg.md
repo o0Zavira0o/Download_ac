@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Design With Roozbe
 
-_آخرین به‌روزرسانی: 2026-08-25T09:42:24Z_
+_آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
 
 
 **لینک استاندارد کانال:** [Design With Roozbe](https://www.youtube.com/channel/UCH2-aT4yIrfuuXkcgsuisYg)  
+
+
+- **تاریخ انتشار:** 2026-08-25 14:00:21 (UTC)  
+  **مدت:** حدود 12.7 دقیقه  
+  **عنوان:** [CSWA Practice Problem 7.18 Solution | SolidWorks Exam Guide](https://www.youtube.com/watch?v=lW_cx4rHHpY)  
+  ![](https://i.ytimg.com/vi/lW_cx4rHHpY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-27 14:00:24 (UTC)  
