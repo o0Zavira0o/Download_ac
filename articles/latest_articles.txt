@@ -1,6 +1,14 @@
-# Last Run: 2026-08-26 03:08 UTC
+# Last Run: 2026-08-26 04:46 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] America Doesn’t Need More Nuclear Weapons
+Published: 2026-08-26T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/america-doesnt-need-more-nuclear-weapons
+---
+[Foreign_Affairs] The Future of Ukraine’s Drone Democracy
+Published: 2026-08-26T04:00:00+00:00
+Link: https://www.foreignaffairs.com/ukraine/future-ukraines-drone-democracy
+---
 [Foreign_Policy] The U.S. Can’t Catch Up to China’s Robots by Banning Them
 Published: 2026-08-25T21:22:23+00:00
 Link: https://foreignpolicy.com/2026/08/25/china-robot-race-humanoids-drones-us-ban-restrictions/
