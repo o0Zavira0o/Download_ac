@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
+_آخرین به‌روزرسانی: 2026-08-27T19:47:33Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-08-27 05:49:31 (UTC)  
+  **مدت:** حدود 1.7 دقیقه  
+  **عنوان:** [Multiple extrusion with single sketch in solidworks 😀 #shorts #ytshorts #solidworks #malviyacad](https://www.youtube.com/watch?v=gpMfmBPtQdE)  
+  ![](https://i.ytimg.com/vi/gpMfmBPtQdE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-20 17:23:26 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
   **مدت:** حدود 32.2 دقیقه  
   **عنوان:** [Cultivator assembly tutorial in solidworks | Solidworks assembly tutorial](https://www.youtube.com/watch?v=LoA6kjXYazI)  
   ![](https://i.ytimg.com/vi/LoA6kjXYazI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-18 05:19:07 (UTC)  
-  **مدت:** حدود 11.1 دقیقه  
-  **عنوان:** [Design of Cultivator in Solidworks |  Part 6 & 7 | Solidworks tutorial](https://www.youtube.com/watch?v=unkMZG10NDQ)  
-  ![](https://i.ytimg.com/vi/unkMZG10NDQ/hqdefault.jpg)

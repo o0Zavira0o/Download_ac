@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال SolidWorks With Aryan Fallahi
 
-_آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
+_آخرین به‌روزرسانی: 2026-08-27T19:47:33Z_
 
 
 **لینک استاندارد کانال:** [SolidWorks With Aryan Fallahi](https://www.youtube.com/channel/UCRmLnVaHsSAH0HkXfeoxG6w)  
+
+
+- **تاریخ انتشار:** 2026-08-26 17:59:57 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [The event is happening mid-September, and the exact dates are to be announced.  #mastermodeler](https://www.youtube.com/watch?v=uJy6RqaMWqU)  
+  ![](https://i.ytimg.com/vi/uJy6RqaMWqU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-21 19:10:48 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
   **مدت:** حدود 22.7 دقیقه  
   **عنوان:** [SOLIDWORKS Drawing Hacks - Part 1](https://www.youtube.com/watch?v=A2o1HghIV44)  
   ![](https://i.ytimg.com/vi/A2o1HghIV44/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2023-08-24 17:36:06 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [How much to charge for your SOLIDWORKS services #solidworks2023 #solidworks #3dentertainment](https://www.youtube.com/watch?v=EGMPDFhhPqs)  
-  ![](https://i.ytimg.com/vi/EGMPDFhhPqs/hqdefault.jpg)

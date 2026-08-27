@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
+_آخرین به‌روزرسانی: 2026-08-27T19:47:33Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-27 11:14:12 (UTC)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Erdäpfelstiftel #shorts #dialekt #österreich](https://www.youtube.com/watch?v=15keD-CmK0Y)  
+  ![](https://i.ytimg.com/vi/15keD-CmK0Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-25 17:00:13 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
   **مدت:** حدود 13.1 دقیقه  
   **عنوان:** [Nürnberg | Easy German 175](https://www.youtube.com/watch?v=0_D0DAYWpKk)  
   ![](https://i.ytimg.com/vi/0_D0DAYWpKk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-21 18:39:01 (UTC)  
-  **مدت:** حدود 5.7 دقیقه  
-  **عنوان:** [At the Christmas Market | Super Easy German (10)](https://www.youtube.com/watch?v=CBwKUJC2d9c)  
-  ![](https://i.ytimg.com/vi/CBwKUJC2d9c/hqdefault.jpg)

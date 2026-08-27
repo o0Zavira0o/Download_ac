@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
+_آخرین به‌روزرسانی: 2026-08-27T19:47:33Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-27 10:00:37 (UTC)  
+  **مدت:** حدود 13.1 دقیقه  
+  **عنوان:** [SOLIDWORKS Tutorial: Industrial Stair & Platform Design | Weldments](https://www.youtube.com/watch?v=_stuA--PGas)  
+  ![](https://i.ytimg.com/vi/_stuA--PGas/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-26 02:49:05 (UTC)  
@@ -44,7 +50,7 @@ _آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
 
 - **تاریخ انتشار:** 2026-08-20 18:14:49 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Mechanical Animals: Kinematic Horse and Dachshund Linkage Models](https://www.youtube.com/watch?v=YrrA0ixHLKw)  
+  **عنوان:** [Would You Build These Mechanical Pets? 🧐 #diy #engineering #robotics](https://www.youtube.com/watch?v=YrrA0ixHLKw)  
   ![](https://i.ytimg.com/vi/YrrA0ixHLKw/hqdefault.jpg)
 
 
@@ -790,12 +796,6 @@ _آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
   **مدت:** حدود 11.7 دقیقه  
   **عنوان:** [How to Design a Cam & Roller Follower Assembly in Solidworks](https://www.youtube.com/watch?v=mcjHAanYT60)  
   ![](https://i.ytimg.com/vi/mcjHAanYT60/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-19 12:44:17 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Robotic Pick and Place Mechanism Design 📌](https://www.youtube.com/watch?v=mH_QWtQQ_ZI)  
-  ![](https://i.ytimg.com/vi/mH_QWtQQ_ZI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-11-18 11:46:03 (UTC)  

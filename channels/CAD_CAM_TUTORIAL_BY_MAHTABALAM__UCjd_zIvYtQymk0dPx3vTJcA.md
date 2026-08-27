@@ -1,15 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
+_آخرین به‌روزرسانی: 2026-08-27T19:47:33Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
 
 
-- **تاریخ انتشار:** 2026-08-26 03:30:29 (UTC)  
-  **مدت:** حدود 22.4 دقیقه  
-  **عنوان:** [Vase Modeling in SolidWorks using Surface features](https://www.youtube.com/watch?v=k-PFIKzwHZQ)  
-  ![](https://i.ytimg.com/vi/k-PFIKzwHZQ/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-08-27 09:30:23 (UTC)  
+  **مدت:** حدود 15.1 دقیقه  
+  **عنوان:** [SolidWorks Model Mania 2018 Phase1 & 2](https://www.youtube.com/watch?v=mqMxzDrYOtM)  
+  ![](https://i.ytimg.com/vi/mqMxzDrYOtM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-24 12:20:02 (UTC)  

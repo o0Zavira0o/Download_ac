@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
+_آخرین به‌روزرسانی: 2026-08-27T19:47:33Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-27 13:00:05 (UTC)  
+  **مدت:** حدود 1.6 دقیقه  
+  **عنوان:** [할로윈 다꾸👻 Halloween Journaling DIYコラージュ](https://www.youtube.com/watch?v=AyeiqQT0cCA)  
+  ![](https://i.ytimg.com/vi/AyeiqQT0cCA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-26 13:00:29 (UTC)  
+  **مدت:** حدود 70.7 دقیقه  
+  **عنوان:** [ASMR 스탬프 팡팡 다이어리 꾸미기 1시간 컬렉션 | Stamp Journal 다꾸 コラージュ](https://www.youtube.com/watch?v=w3HVxoljdOQ)  
+  ![](https://i.ytimg.com/vi/w3HVxoljdOQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-25 13:00:13 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-26T09:50:34Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Label stickers unboxing #shorts #sticker #satisfying](https://www.youtube.com/watch?v=Jxv_kQSyE7c)  
   ![](https://i.ytimg.com/vi/Jxv_kQSyE7c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-14 12:55:00 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Journaling ASMR 🩷 #shorts #aesthetic](https://www.youtube.com/watch?v=iBsdgQYjCMo)  
-  ![](https://i.ytimg.com/vi/iBsdgQYjCMo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-13 00:59:00 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Easy DIY cute halloween card ❤️🕸 #asmr #craft #cardmaking #asmrsounds](https://www.youtube.com/watch?v=nlhBY0_X1js)  
-  ![](https://i.ytimg.com/vi/nlhBY0_X1js/hqdefault.jpg)
