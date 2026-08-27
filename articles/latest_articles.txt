@@ -1,6 +1,50 @@
-# Last Run: 2026-08-27 07:58 UTC
+# Last Run: 2026-08-27 19:03 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Myanmar Shows War Doesn’t Stop Mining
+Published: 2026-08-27T17:54:51+00:00
+Link: https://foreignpolicy.com/2026/08/27/myanmar-china-critical-minerals/
+---
+[Foreign_Policy] Why North Korea Doesn’t Want to Meet With Trump
+Published: 2026-08-27T17:34:53+00:00
+Link: https://foreignpolicy.com/2026/08/27/north-korea-kim-jong-un-trump-meeting-nuclear/
+---
+[Foreign_Policy] Germany’s Rhine River Is Drying Up
+Published: 2026-08-27T17:33:18+00:00
+Link: https://foreignpolicy.com/2026/08/27/germany-rhine-river-economy-war/
+---
+[Foreign_Policy] Don’t Freak Out Over the Pentagon’s Europe Plans
+Published: 2026-08-27T17:00:02+00:00
+Link: https://foreignpolicy.com/2026/08/27/us-europe-defense-posture-review-troops-elbridge-colby-hegseth-nato/
+---
+[Foreign_Policy] Trump Keeps Stabbing Japan in the Back
+Published: 2026-08-27T16:50:13+00:00
+Link: https://foreignpolicy.com/2026/08/27/trump-japan-takaichi-alliance/
+---
+[Foreign_Policy] A Cabinet Full of Roy Cohns
+Published: 2026-08-27T15:28:19+00:00
+Link: https://foreignpolicy.com/2026/08/27/roy-cohn-american-scoundrel-regime-change-book/
+---
+[Foreign_Policy] Trump’s Freewheeling India Envoy Muddles South Asia Policy
+Published: 2026-08-27T15:03:31+00:00
+Link: https://foreignpolicy.com/2026/08/27/sergio-gor-trump-modi-india-ambassador-south-asia-pakistan/
+---
+[Foreign_Policy] Trump’s Missile Math Problem
+Published: 2026-08-27T11:40:58+00:00
+Link: https://foreignpolicy.com/2026/08/27/tom-karako-united-states-munitions-missile-stockpiles-iran-war-military-defense-patriot-weapons/
+---
+[Foreign_Policy] Turkey’s Rise Is Israel’s New Problem
+Published: 2026-08-27T11:33:23+00:00
+Link: https://foreignpolicy.com/2026/08/27/turkeys-rise-is-israels-new-problem/
+---
+[Foreign_Policy] Americans Aren’t as Skeptical of Foreign Aid as Washington Thinks
+Published: 2026-08-27T10:00:34+00:00
+Link: https://foreignpolicy.com/2026/08/27/americans-opinion-foreign-aid/
+---
+[Foreign_Policy] The Geopolitics Behind Rising U.S. Bond Yields
+Published: 2026-08-27T10:00:31+00:00
+Link: https://foreignpolicy.com/2026/08/27/geopolitics-us-bond-yields/
+---
 [Foreign_Policy] The ‘Stability-Instability Paradox’ Comes for Markets
 Published: 2026-08-27T04:01:07+00:00
 Link: https://foreignpolicy.com/2026/08/27/stability-instability-paradox-markets/
@@ -96,20 +140,4 @@ Link: https://www.foreignaffairs.com/united-states/maximum-pressure-iran-will-fa
 [Foreign_Policy] U.S. Unveils ‘Economic D-Day’ Against Iran
 Published: 2026-08-24T21:21:15+00:00
 Link: https://foreignpolicy.com/2026/08/24/iran-war-us-sanctions-bessent-operation-economic-outcast/
----
-[Foreign_Policy] Where Is King Abdullah?
-Published: 2026-08-24T13:38:08+00:00
-Link: https://foreignpolicy.com/2026/08/24/jordan-king-abdullah-trump-gaza-iran/
----
-[Foreign_Policy] Germany’s Firewall Has Completely Failed
-Published: 2026-08-24T13:15:23+00:00
-Link: https://foreignpolicy.com/2026/08/24/germany-afd-far-right-elections-saxony-anhalt-firewall/
----
-[Foreign_Policy] Washington Is Creating Forever Enemies
-Published: 2026-08-24T10:00:46+00:00
-Link: https://foreignpolicy.com/2026/08/24/iran-afghanistan-united-states-war-enemies/
----
-[Foreign_Policy] Ditching Chinese Rare Earths Is Hard. Just Ask Japan.
-Published: 2026-08-24T09:30:20+00:00
-Link: https://foreignpolicy.com/2026/08/24/rare-earths-china-japan-trade-united-states-trump-supply-chain/
 ---
