@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-27T19:47:33Z_
+_آخرین به‌روزرسانی: 2026-08-28T20:48:21Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-28 12:30:25 (UTC)  
+  **مدت:** حدود 13.9 دقیقه  
+  **عنوان:** [Plastic Bottle Modeling in SolidWorks](https://www.youtube.com/watch?v=dypPocBn8C8)  
+  ![](https://i.ytimg.com/vi/dypPocBn8C8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-27 09:30:23 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-27T19:47:33Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [Study of Reciprocation Motion in Solidworks (upcoming tutorial)](https://www.youtube.com/watch?v=FCxD15jFYsc)  
   ![](https://i.ytimg.com/vi/FCxD15jFYsc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-30 08:27:33 (UTC)  
-  **مدت:** حدود 119.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Engine in Solidworks](https://www.youtube.com/watch?v=PiSMgTaHm9I)  
-  ![](https://i.ytimg.com/vi/PiSMgTaHm9I/hqdefault.jpg)

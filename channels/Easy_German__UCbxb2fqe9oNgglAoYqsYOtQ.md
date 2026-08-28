@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-27T19:47:33Z_
+_آخرین به‌روزرسانی: 2026-08-28T20:48:21Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-28 10:50:42 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Dinge zusammen erleben #shorts #easygerman](https://www.youtube.com/watch?v=ZZGPTCLeu_o)  
+  ![](https://i.ytimg.com/vi/ZZGPTCLeu_o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-27 11:14:12 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-27T19:47:33Z_
   **مدت:** حدود 8.6 دقیقه  
   **عنوان:** [German Kitchen Vocabulary | Super Easy German (11)](https://www.youtube.com/watch?v=fivibJ7IaMA)  
   ![](https://i.ytimg.com/vi/fivibJ7IaMA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-25 21:02:40 (UTC)  
-  **مدت:** حدود 13.1 دقیقه  
-  **عنوان:** [Nürnberg | Easy German 175](https://www.youtube.com/watch?v=0_D0DAYWpKk)  
-  ![](https://i.ytimg.com/vi/0_D0DAYWpKk/hqdefault.jpg)
