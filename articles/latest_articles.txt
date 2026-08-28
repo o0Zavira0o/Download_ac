@@ -1,6 +1,18 @@
-# Last Run: 2026-08-27 19:03 UTC
+# Last Run: 2026-08-28 04:08 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Settler Violence Is Consuming the West Bank
+Published: 2026-08-27T22:05:09+00:00
+Link: https://foreignpolicy.com/2026/08/27/settler-violence-west-bank-palestine-israel/
+---
+[Foreign_Policy] Death Toll Rises in Nepal-Tibet Flash Flood
+Published: 2026-08-27T20:19:42+00:00
+Link: https://foreignpolicy.com/2026/08/27/nepal-tibet-flash-floods-death-toll-missing-glacier-global-warming/
+---
+[Foreign_Policy] China’s Success Is Forcing a U.S. AI Rethink
+Published: 2026-08-27T18:35:13+00:00
+Link: https://foreignpolicy.com/2026/08/27/china-ai-technology-trump-silicon-valley-open-weights/
+---
 [Foreign_Policy] Myanmar Shows War Doesn’t Stop Mining
 Published: 2026-08-27T17:54:51+00:00
 Link: https://foreignpolicy.com/2026/08/27/myanmar-china-critical-minerals/
@@ -32,6 +44,10 @@ Link: https://foreignpolicy.com/2026/08/27/sergio-gor-trump-modi-india-ambassado
 [Foreign_Policy] Trump’s Missile Math Problem
 Published: 2026-08-27T11:40:58+00:00
 Link: https://foreignpolicy.com/2026/08/27/tom-karako-united-states-munitions-missile-stockpiles-iran-war-military-defense-patriot-weapons/
+---
+[Foreign_Policy] Turkey’s Rise Is Israel’s New Problem
+Published: 2026-08-27T11:33:23+00:00
+Link: https://foreignpolicy.com/2026/08/27/turkey-israel-syria-middle-east-us-allies/
 ---
 [Foreign_Policy] Turkey’s Rise Is Israel’s New Problem
 Published: 2026-08-27T11:33:23+00:00
@@ -128,16 +144,4 @@ Link: https://foreignpolicy.com/2026/08/25/ir-graduate-school-apply-phd-ma/
 [Foreign_Policy] Everything You Always Wanted to Know About IR Grad School
 Published: 2026-08-25T09:33:54+00:00
 Link: https://foreignpolicy.com/2026/08/25/ir-graduate-school-apply-pdf-ma/
----
-[Foreign_Affairs] The New Right's Grand Strategy After Trump
-Published: 2026-08-25T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/new-rights-grand-strategy-after-trump
----
-[Foreign_Affairs] Maximum Pressure on Iran Will Fail
-Published: 2026-08-25T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/maximum-pressure-iran-will-fail
----
-[Foreign_Policy] U.S. Unveils ‘Economic D-Day’ Against Iran
-Published: 2026-08-24T21:21:15+00:00
-Link: https://foreignpolicy.com/2026/08/24/iran-war-us-sanctions-bessent-operation-economic-outcast/
 ---
