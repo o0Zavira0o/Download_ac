@@ -1,4 +1,256 @@
 ================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | IrGens
+Title  : Automate Data Pipelines with Dagster
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 44m | 120 MB
+Link   : http://zavat.pw/ebooks/dagster-automate-data-pipelines.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | IrGens
+Title  : User Centered Design with GenAI
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 44m | 123 MB
+Link   : http://zavat.pw/ebooks/user-centered-design-genai.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | IrGens
+Title  : Scaling AI in Business Operations: Integrating AI into Workflows
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 40m | 104 MB
+Link   : http://zavat.pw/ebooks/scaling-ai-business-operations-integrating-ai-workflows.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | IrGens
+Title  : Building Distributed .NET Apps with Orleans
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 3h 58m | 792 MB
+Link   : http://zavat.pw/ebooks/building-distributed-dot-net-apps-orleans.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | IrGens
+Title  : Configuration Profiles and Settings Management in Microsoft Intune
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 20m | 292 MB
+Link   : http://zavat.pw/ebooks/microsoft-intune-configuration-profiles-settings-management.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | IrGens
+Title  : Rendering Modes and Interactivity in ASP.NET Core 10 Blazor
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h | 489 MB
+Link   : http://zavat.pw/ebooks/rendering-modes-interactivity-asp-dot-net-core-10-blazor.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | IrGens
+Title  : Technical Debt Explained
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 22m | 313 MB
+Link   : http://zavat.pw/ebooks/technical-debt-explained.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | IrGens
+Title  : Security and Compliance in SQL Server 2025
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 16m | 208 MB
+Link   : http://zavat.pw/ebooks/sql-server-25-security-compliance.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | IrGens
+Title  : Cloud Adoption Strategies in the Modern Enterprise
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 59m | 104 MB
+Link   : http://zavat.pw/ebooks/cloud-adoption-strategies-modern-enterprise.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | IrGens
+Title  : AWS Compute Fundamentals
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 2m | MB
+Link   : http://zavat.pw/ebooks/aws--compute-fundamentals.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | IrGens
+Title  : Building RAG Applications with LangChain
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h 25m | 522 MB
+Link   : http://zavat.pw/ebooks/building-rag-applications-langchain.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | IrGens
+Title  : Data Analysis with Generative AI - A Complete Bootcamp
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 9h 53m | 4.57 GB
+Link   : http://zavat.pw/ebooks/data-analysis-with-generative-ai.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : Süddeutsche Zeitung Magazin - 28 August 2026
+Details: Deutsch | 41 pages | True PDF | 8 MB
+Link   : http://zavat.pw/magazines/SZmagz-280826.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : Cognitive Semantic Communication for Future Wireless Communications
+Details: English | 2026 | ISBN: 9819209811 | 242 Pages | PDF EPUB (True) | 62 MB
+Link   : http://zavat.pw/ebooks/9819209811.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : The Intelligent Ledger
+Details: English | 2026 | ISBN: 3032328411 | 279 Pages | PDF EPUB (True) | 11 MB
+Link   : http://zavat.pw/ebooks/3032328411.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : Generative and Agentic AI Reliability
+Details: English | 2026 | ISBN: 303218584X | 361 Pages | PDF EPUB (True) | 27 MB
+Link   : http://zavat.pw/ebooks/303218584X.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : Health in the Era of Digitalization
+Details: English | 2026 | ISBN: 3032245362 | 159 Pages | PDF EPUB (True) | 27 MB
+Link   : http://zavat.pw/ebooks/3032245362.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : Architecture: The Definitive Visual History
+Details: English | 2023 | ISBN: 0744084989 | 442 Pages | PDF (True) | 243 MB
+Link   : http://zavat.pw/ebooks/0744084989.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : Model Based System Engineering
+Details: English | 2026 | ISBN: 1394345070 | 355 Pages | True PDF | 5 MB
+Link   : http://zavat.pw/ebooks/1394345070t.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : A Practical Guide to Time Series Analysis
+Details: English | 2026 | ISBN: 1108418538 | 552 Pages | True PDF | 3 MB
+Link   : http://zavat.pw/ebooks/1108418538t.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : Entire Functions
+Details: English | 2026 | ISBN: 3112249127 | 478 Pages | PDF (True) | 15 MB
+Link   : http://zavat.pw/ebooks/3112249127.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : Simply Emerging Technology: Facts Made Fast
+Details: English | 2024 | ISBN: 0744091985 | 162 Pages | PDF (True) | 60 MB
+Link   : http://zavat.pw/ebooks/0744091985.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : Super Simple Psychology
+Details: English | 2024 | ISBN: 0744069688 | 290 Pages | PDF (True) | 52 MB
+Link   : http://zavat.pw/ebooks/0744069688.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : Building AI Agents for Finance
+Details: English | 2026 | ISBN: 1837022291 | 806 Pages | EPUB | 67 MB
+Link   : http://zavat.pw/ebooks/1837022291.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : Simply Artificial Intelligence
+Details: English | 2023 | ISBN: 074407682X | 162 Pages | PDF (True) | 68 MB
+Link   : http://zavat.pw/ebooks/074407682Xp.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : The Cat Encyclopedia: The Definitive Visual Guide
+Details: English | 2024 | ISBN: 0744092000 | 322 Pages | PDF (True) | 137 MB
+Link   : http://zavat.pw/ebooks/0744092000.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | hill0
+Title  : The Dog Encyclopedia: The Definitive Visual Guide
+Details: English | 2023 | ISBN: 0241600898 | 362 Pages | PDF (True) | 137 MB
+Link   : http://zavat.pw/ebooks/0241600898.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : Techlife News - August 29, 2026
+Details: English | 230 pages | True PDF | 82.3 MB
+Link   : http://zavat.pw/magazines/TechlifeNewsAugust292026-58051.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : Coding User - Autumn 2026
+Details: English | 193 pages | PDF | 108.8 MB
+Link   : http://zavat.pw/magazines/CodingUserAutumn2026-07742.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : Time USA - September 7, 2026
+Details: English | 80 pages | True PDF | 17.5 MB
+Link   : http://zavat.pw/magazines/TimeUSASeptember72026-51027.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : ビーズfriend - Autumn 2026
+Details: 日本語 | 98 pages | True PDF | 121.0 MB
+Link   : http://zavat.pw/magazines/%E3%83%93%E3%83%BC%E3%82%BAfriendAutumn2026-01180.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : Military Trader - September 2026
+Details: English | 84 pages | True PDF | 46.7 MB
+Link   : http://zavat.pw/magazines/MilitaryTraderSeptember2026-89626.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : Woman's World USA - September 7, 2026
+Details: English | 72 pages | True PDF | 40.8 MB
+Link   : http://zavat.pw/magazines/WomansWorldUSASeptember72026-61306.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : Smithsonian Magazine - September-October 2026
+Details: English | 132 pages | True PDF | 57.4 MB
+Link   : http://zavat.pw/magazines/SmithsonianMagazineSeptemberOctober2026-45127.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : The Week USA - September 4, 2026
+Details: English | 40 pages | True PDF | 14.5 MB
+Link   : http://zavat.pw/magazines/TheWeekUSASeptember42026-96217.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : The Week UK - 29 August 2026
+Details: English | 44 pages | True PDF | 18.5 MB
+Link   : http://zavat.pw/magazines/TheWeekUK29August2026-77214.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : The Week Junior USA - 4 September 2026
+Details: English | 32 pages | True PDF | 15.3 MB
+Link   : http://zavat.pw/magazines/TheWeekJuniorUSA4September2026-11632.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : The Week Junior UK - 29 August 2026
+Details: English | 36 pages | True PDF | 23.7 MB
+Link   : http://zavat.pw/magazines/TheWeekJuniorUK29August2026-77617.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : People USA - August 24, 2026
+Details: English | 66 pages | True PDF | 121.1 MB
+Link   : http://zavat.pw/magazines/PeopleUSAAugust242026-05209.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : Star Magazine USA - September 7, 2026
+Details: English | 52 pages | True PDF | 28.7 MB
+Link   : http://zavat.pw/magazines/StarMagazineUSASeptember72026-64163.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : Newsweek USA - 4 September 2026
+Details: English | 60 pages | True PDF | 21.6 MB
+Link   : http://zavat.pw/magazines/NewsweekUSA4September2026-09936.html
+
+================================================================================
+2026-08-28 17:58:01 (Asia/Tehran) | crazy-slim
+Title  : National Examiner - September 7, 2026
+Details: English | 48 pages | True PDF | 29.7 MB
+Link   : http://zavat.pw/magazines/NationalExaminerSeptember72026-97591.html
+
+================================================================================
 2026-08-28 05:44:35 (Asia/Tehran) | IrGens
 Title  : Advanced Data Science and Analytics with Python, 2nd Edition
 Details: English | August 26, 2026 | ISBN: 1041103603, 1041102852, 9781040560105, 9781003654612 | True EPUB/PDF | 597 pages | 24.3/24.6 MB
