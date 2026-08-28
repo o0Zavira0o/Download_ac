@@ -1,6 +1,38 @@
-# Last Run: 2026-08-28 04:08 UTC
+# Last Run: 2026-08-28 18:20 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] What in the World?
+Published: 2026-08-28T17:23:47+00:00
+Link: https://foreignpolicy.com/2026/08/28/news-quiz-congo-bessent-iran-economic-pressure-putin-russia-ukraine-war/
+---
+[Foreign_Policy] Russia and North Korea Are Scrambling Trump’s Alliance Strategy
+Published: 2026-08-28T13:44:51+00:00
+Link: https://foreignpolicy.com/2026/08/28/north-korea-russia-united-states-south-korea-ukraine-national-defense-alliance-strategy/
+---
+[Foreign_Policy] Japan’s Narrowing Path to Permanent Residency
+Published: 2026-08-28T12:59:28+00:00
+Link: https://foreignpolicy.com/2026/08/28/sanae-takaichi-japan-permanent-residency-foreign-workers-ldp-immigration/
+---
+[Foreign_Policy] Western Hemisphere Progressives Plot a Comeback
+Published: 2026-08-28T12:00:19+00:00
+Link: https://foreignpolicy.com/2026/08/28/panamerican-congress-uruguay-progressive-lawmakers-cpac/
+---
+[Foreign_Policy] The SCO’s Diminishing Usefulness for India
+Published: 2026-08-28T09:11:50+00:00
+Link: https://foreignpolicy.com/2026/08/28/sco-shanghai-cooperation-organisation-summit-india-china-pakistan-russia-bishkek/
+---
+[Foreign_Policy] How Washington Can Credibly Counter China in the Pacific
+Published: 2026-08-28T04:07:54+00:00
+Link: https://foreignpolicy.com/2026/08/28/pacific-us-china-strategy/
+---
+[Foreign_Affairs] A Great Rebalancing Is Coming
+Published: 2026-08-28T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/great-rebalancing-coming
+---
+[Foreign_Affairs] Leave Europe to the Europeans
+Published: 2026-08-28T04:00:00+00:00
+Link: https://www.foreignaffairs.com/europe/leave-europe-europeans
+---
 [Foreign_Policy] Settler Violence Is Consuming the West Bank
 Published: 2026-08-27T22:05:09+00:00
 Link: https://foreignpolicy.com/2026/08/27/settler-violence-west-bank-palestine-israel/
@@ -116,32 +148,4 @@ Link: https://foreignpolicy.com/2026/08/25/us-canada-retaliatory-tariffs-trade-w
 [Foreign_Policy] Ukrainians Skeptical as Former Defense Minister Pushes for Elections
 Published: 2026-08-25T18:42:28+00:00
 Link: https://foreignpolicy.com/2026/08/25/fedorov-ukraine-zelensky-elections/
----
-[Foreign_Policy] Iran’s Economy May Outlast Trump’s Presidency
-Published: 2026-08-25T16:44:40+00:00
-Link: https://foreignpolicy.com/2026/08/25/iran-war-trump-sanctions-economy-collapse/
----
-[Foreign_Policy] Mike Huckabee Reckons With the Disturbing Reality of Settler Violence
-Published: 2026-08-25T14:54:10+00:00
-Link: https://foreignpolicy.com/2026/08/25/mike-huckabee-settler-violence-west-bank-palestine-israel-trump/
----
-[Foreign_Policy] Why Even a Cornered Putin Won’t Press the Red Button
-Published: 2026-08-25T14:41:37+00:00
-Link: https://foreignpolicy.com/2026/08/25/russia-ukraine-war-nuclear-weapons-escalation-putin-defeat/
----
-[Foreign_Policy] Peacemaking Is Power Politics Again
-Published: 2026-08-25T13:51:41+00:00
-Link: https://foreignpolicy.com/2026/08/25/peacemaking-power-politics-united-nations-trump/
----
-[Foreign_Policy] A Pact Without Impact
-Published: 2026-08-25T13:14:57+00:00
-Link: https://foreignpolicy.com/2026/08/25/mecca-pact-saud-arabia-turkey-pakistan-nato-israel-iran/
----
-[Foreign_Policy] Everything You Always Wanted to Know About IR Grad School
-Published: 2026-08-25T09:33:54+00:00
-Link: https://foreignpolicy.com/2026/08/25/ir-graduate-school-apply-phd-ma/
----
-[Foreign_Policy] Everything You Always Wanted to Know About IR Grad School
-Published: 2026-08-25T09:33:54+00:00
-Link: https://foreignpolicy.com/2026/08/25/ir-graduate-school-apply-pdf-ma/
 ---
