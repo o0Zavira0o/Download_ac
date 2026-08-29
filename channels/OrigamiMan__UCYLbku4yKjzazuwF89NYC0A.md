@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-08-28T20:48:21Z_
+_آخرین به‌روزرسانی: 2026-08-29T14:22:26Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-08-29 10:00:06 (UTC)  
+  **مدت:** حدود 15.9 دقیقه  
+  **عنوان:** [41,Origami Black Leopard | Folded from 2 Sheets of Paper | Silent Origami　黒ヒョウの折り紙｜2枚の折り紙で折る【無言の折り紙】](https://www.youtube.com/watch?v=pysXzJyjnUY)  
+  ![](https://i.ytimg.com/vi/pysXzJyjnUY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-22 10:00:17 (UTC)  

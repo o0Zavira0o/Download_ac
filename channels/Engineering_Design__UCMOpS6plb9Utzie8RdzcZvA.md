@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-28T20:48:21Z_
+_آخرین به‌روزرسانی: 2026-08-29T14:22:26Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-29 13:29:36 (UTC)  
+  **مدت:** حدود 4.1 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Enclosure Tutorial 🔥 | 3D Model to 2D Drawing Step-by-Step](https://www.youtube.com/watch?v=epzV-wUijOw)  
+  ![](https://i.ytimg.com/vi/epzV-wUijOw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-27 10:00:37 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-28T20:48:21Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [✅Inline Power Transmission Mechanism | Automobile Engineering Explained](https://www.youtube.com/watch?v=536TkBguW88)  
   ![](https://i.ytimg.com/vi/536TkBguW88/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-18 08:27:47 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Mechanical Mechanism 21 #mechanism #solidworks #engineering](https://www.youtube.com/watch?v=n4WWHPbmFgs)  
-  ![](https://i.ytimg.com/vi/n4WWHPbmFgs/hqdefault.jpg)

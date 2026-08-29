@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-28T20:48:21Z_
+_آخرین به‌روزرسانی: 2026-08-29T14:22:26Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-29 09:20:37 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [ASMR 다꾸 꾸미기 Journaling Collage](https://www.youtube.com/watch?v=etNf9GWOQ-g)  
+  ![](https://i.ytimg.com/vi/etNf9GWOQ-g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-29 03:00:03 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [할로윈🎃호박 다꾸 | Halloween Pumpkin Journal](https://www.youtube.com/watch?v=MTatUIKA9CA)  
+  ![](https://i.ytimg.com/vi/MTatUIKA9CA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-27 13:00:05 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-28T20:48:21Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [Journal with me✏️ #journal #journaling #1d1p #md1d1p #keepajournal](https://www.youtube.com/watch?v=Gduvd8s_eMY)  
   ![](https://i.ytimg.com/vi/Gduvd8s_eMY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-15 08:55:00 (UTC)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Harry Potter Eraser Toys #shorts #unboxing](https://www.youtube.com/watch?v=gaFlw1p5sqg)  
-  ![](https://i.ytimg.com/vi/gaFlw1p5sqg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-14 12:55:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Label stickers unboxing #shorts #sticker #satisfying](https://www.youtube.com/watch?v=Jxv_kQSyE7c)  
-  ![](https://i.ytimg.com/vi/Jxv_kQSyE7c/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-28T20:48:21Z_
+_آخرین به‌روزرسانی: 2026-08-29T14:22:26Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-29 13:45:25 (UTC)  
+  **مدت:** حدود 3.9 دقیقه  
+  **عنوان:** [Setback Parameters in Constant Type Fillet in SolidWorks](https://www.youtube.com/watch?v=3RA0giOisC0)  
+  ![](https://i.ytimg.com/vi/3RA0giOisC0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-28 12:30:25 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-28T20:48:21Z_
   **مدت:** حدود 35.6 دقیقه  
   **عنوان:** [Solidworks tutorial | study of Reciprocating motion (Animation) in Solidworks](https://www.youtube.com/watch?v=FS-CumByFqk)  
   ![](https://i.ytimg.com/vi/FS-CumByFqk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-02 06:34:40 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Study of Reciprocation Motion in Solidworks (upcoming tutorial)](https://www.youtube.com/watch?v=FCxD15jFYsc)  
-  ![](https://i.ytimg.com/vi/FCxD15jFYsc/hqdefault.jpg)
