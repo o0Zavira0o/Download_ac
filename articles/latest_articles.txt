@@ -1,4 +1,4 @@
-# Last Run: 2026-08-29 10:56 UTC
+# Last Run: 2026-08-29 16:22 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Iceland’s EU Ambitions
@@ -144,16 +144,4 @@ Link: https://foreignpolicy.com/2026/08/26/iran-oman-strait-hormuz-deal-us-trump
 [Foreign_Policy] What an Extradition Trial Reveals About Moscow’s Influence in Africa
 Published: 2026-08-26T19:50:18+00:00
 Link: https://foreignpolicy.com/2026/08/26/russia-influence-africa-extradition-trial-benin-coup/
----
-[Foreign_Policy] The U.K. Is Falling for Palantir’s Salesmanship
-Published: 2026-08-26T15:44:48+00:00
-Link: https://foreignpolicy.com/2026/08/26/palantir-operator-starmer-united-kingdom-nhs-software/
----
-[Foreign_Policy] Why Iran Might Escalate
-Published: 2026-08-26T13:03:25+00:00
-Link: https://foreignpolicy.com/2026/08/26/iran-trump-hormuz-escalate-energy-embargo/
----
-[Foreign_Policy] Why Iceland Might Finally Join the EU
-Published: 2026-08-26T12:45:09+00:00
-Link: https://foreignpolicy.com/2026/08/26/iceland-eu-accession-referendum-sovereignty-vote/
 ---
