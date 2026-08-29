@@ -1,4 +1,4 @@
-# Last Run: 2026-08-29 02:48 UTC
+# Last Run: 2026-08-29 10:56 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Iceland’s EU Ambitions
@@ -156,16 +156,4 @@ Link: https://foreignpolicy.com/2026/08/26/iran-trump-hormuz-escalate-energy-emb
 [Foreign_Policy] Why Iceland Might Finally Join the EU
 Published: 2026-08-26T12:45:09+00:00
 Link: https://foreignpolicy.com/2026/08/26/iceland-eu-accession-referendum-sovereignty-vote/
----
-[Foreign_Policy] Is Europe Ready for a New Era of Russian Dirty Tricks?
-Published: 2026-08-26T09:49:41+00:00
-Link: https://foreignpolicy.com/2026/08/26/russia-ukraine-war-putin-europe-attacks-drones-sabotage-nato-hybrid-gray-zone-warfare/
----
-[Foreign_Affairs] America Doesn’t Need More Nuclear Weapons
-Published: 2026-08-26T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/america-doesnt-need-more-nuclear-weapons
----
-[Foreign_Affairs] The Future of Ukraine’s Drone Democracy
-Published: 2026-08-26T04:00:00+00:00
-Link: https://www.foreignaffairs.com/ukraine/future-ukraines-drone-democracy
 ---
