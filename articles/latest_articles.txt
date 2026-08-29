@@ -1,4 +1,4 @@
-# Last Run: 2026-08-29 16:22 UTC
+# Last Run: 2026-08-29 20:34 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Iceland’s EU Ambitions
@@ -140,8 +140,4 @@ Link: https://www.foreignaffairs.com/middle-east/impossible-middle-east
 [Foreign_Policy] Iran, Oman Agree to Temporary Strait of Hormuz Deal
 Published: 2026-08-26T20:48:28+00:00
 Link: https://foreignpolicy.com/2026/08/26/iran-oman-strait-hormuz-deal-us-trump-oil-shipping/
----
-[Foreign_Policy] What an Extradition Trial Reveals About Moscow’s Influence in Africa
-Published: 2026-08-26T19:50:18+00:00
-Link: https://foreignpolicy.com/2026/08/26/russia-influence-africa-extradition-trial-benin-coup/
 ---
