@@ -1,4 +1,4 @@
-# Last Run: 2026-08-30 11:28 UTC
+# Last Run: 2026-08-30 16:15 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Iceland’s EU Ambitions
@@ -92,28 +92,4 @@ Link: https://foreignpolicy.com/2026/08/27/us-europe-defense-posture-review-troo
 [Foreign_Policy] Trump Keeps Stabbing Japan in the Back
 Published: 2026-08-27T16:50:13+00:00
 Link: https://foreignpolicy.com/2026/08/27/trump-japan-takaichi-alliance/
----
-[New_Yorker_Magazine] In “Adults,” Gen Z Gets the Hangout Sitcom It Deserves
-Published: 2026-08-27T16:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/07/adults-tv-review-fx
----
-[Foreign_Policy] A Cabinet Full of Roy Cohns
-Published: 2026-08-27T15:28:19+00:00
-Link: https://foreignpolicy.com/2026/08/27/roy-cohn-american-scoundrel-regime-change-book/
----
-[Foreign_Policy] Trump’s Freewheeling India Envoy Muddles South Asia Policy
-Published: 2026-08-27T15:03:31+00:00
-Link: https://foreignpolicy.com/2026/08/27/sergio-gor-trump-modi-india-ambassador-south-asia-pakistan/
----
-[Foreign_Policy] Trump’s Missile Math Problem
-Published: 2026-08-27T11:40:58+00:00
-Link: https://foreignpolicy.com/2026/08/27/tom-karako-united-states-munitions-missile-stockpiles-iran-war-military-defense-patriot-weapons/
----
-[Foreign_Policy] Turkey’s Rise Is Israel’s New Problem
-Published: 2026-08-27T11:33:23+00:00
-Link: https://foreignpolicy.com/2026/08/27/turkey-israel-syria-middle-east-us-allies/
----
-[Foreign_Policy] Turkey’s Rise Is Israel’s New Problem
-Published: 2026-08-27T11:33:23+00:00
-Link: https://foreignpolicy.com/2026/08/27/turkeys-rise-is-israels-new-problem/
 ---
