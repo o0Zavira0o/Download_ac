@@ -1,4 +1,4 @@
-# Last Run: 2026-08-30 04:08 UTC
+# Last Run: 2026-08-30 11:28 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Iceland’s EU Ambitions
@@ -116,12 +116,4 @@ Link: https://foreignpolicy.com/2026/08/27/turkey-israel-syria-middle-east-us-al
 [Foreign_Policy] Turkey’s Rise Is Israel’s New Problem
 Published: 2026-08-27T11:33:23+00:00
 Link: https://foreignpolicy.com/2026/08/27/turkeys-rise-is-israels-new-problem/
----
-[Foreign_Policy] Americans Aren’t as Skeptical of Foreign Aid as Washington Thinks
-Published: 2026-08-27T10:00:34+00:00
-Link: https://foreignpolicy.com/2026/08/27/americans-opinion-foreign-aid/
----
-[Foreign_Policy] The Geopolitics Behind Rising U.S. Bond Yields
-Published: 2026-08-27T10:00:31+00:00
-Link: https://foreignpolicy.com/2026/08/27/geopolitics-us-bond-yields/
 ---
