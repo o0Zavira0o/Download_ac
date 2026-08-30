@@ -1,4 +1,4 @@
-# Last Run: 2026-08-30 00:03 UTC
+# Last Run: 2026-08-30 04:08 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Iceland’s EU Ambitions
@@ -124,16 +124,4 @@ Link: https://foreignpolicy.com/2026/08/27/americans-opinion-foreign-aid/
 [Foreign_Policy] The Geopolitics Behind Rising U.S. Bond Yields
 Published: 2026-08-27T10:00:31+00:00
 Link: https://foreignpolicy.com/2026/08/27/geopolitics-us-bond-yields/
----
-[Foreign_Policy] The ‘Stability-Instability Paradox’ Comes for Markets
-Published: 2026-08-27T04:01:07+00:00
-Link: https://foreignpolicy.com/2026/08/27/stability-instability-paradox-markets/
----
-[Foreign_Affairs] India Is Sticking With America—For Now
-Published: 2026-08-27T04:00:00+00:00
-Link: https://www.foreignaffairs.com/india/india-sticking-america-now
----
-[Foreign_Affairs] The Impossible Middle East
-Published: 2026-08-27T04:00:00+00:00
-Link: https://www.foreignaffairs.com/middle-east/impossible-middle-east
 ---
