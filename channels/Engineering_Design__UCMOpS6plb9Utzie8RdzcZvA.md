@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-29T14:22:26Z_
+_آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
@@ -176,7 +176,7 @@ _آخرین به‌روزرسانی: 2026-08-29T14:22:26Z_
 
 - **تاریخ انتشار:** 2026-06-02 12:54:02 (UTC)  
   **مدت:** حدود 8.6 دقیقه  
-  **عنوان:** [Pulley Expansion Mechanism Design in Solidworks | Solidworks Assembly Tutorial](https://www.youtube.com/watch?v=tMlD0OW_t_U)  
+  **عنوان:** [Design and Assemble a Pulley Expansion Mechanism in Solidworks](https://www.youtube.com/watch?v=tMlD0OW_t_U)  
   ![](https://i.ytimg.com/vi/tMlD0OW_t_U/hqdefault.jpg)
 
 
@@ -206,7 +206,7 @@ _آخرین به‌روزرسانی: 2026-08-29T14:22:26Z_
 
 - **تاریخ انتشار:** 2026-05-20 10:41:03 (UTC)  
   **مدت:** حدود 17.5 دقیقه  
-  **عنوان:** [Solidworks Assembly Tutorial - Rotary to Linear Mechanism](https://www.youtube.com/watch?v=geilLg4_Y0o)  
+  **عنوان:** [The Secret to Rotary to Linear Motion in SolidWorks Assembly](https://www.youtube.com/watch?v=geilLg4_Y0o)  
   ![](https://i.ytimg.com/vi/geilLg4_Y0o/hqdefault.jpg)
 
 

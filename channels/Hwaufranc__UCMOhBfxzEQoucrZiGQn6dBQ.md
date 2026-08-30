@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-08-29T14:22:26Z_
+_آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-08-30 13:00:30 (UTC)  
+  **مدت:** حدود 13.6 دقیقه  
+  **عنوان:** [다꾸 ASMR 빈티지 다이어리 꾸미고 실링왁스 찍기 | Journaling Sealing Wax コラージュ](https://www.youtube.com/watch?v=Xqw1GjXKzZE)  
+  ![](https://i.ytimg.com/vi/Xqw1GjXKzZE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-29 09:20:37 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-08-29T14:22:26Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [ASMR Stationery Unboxing 💙](https://www.youtube.com/watch?v=zNIiuccRhmI)  
   ![](https://i.ytimg.com/vi/zNIiuccRhmI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-16 11:15:02 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Journal with me✏️ #journal #journaling #1d1p #md1d1p #keepajournal](https://www.youtube.com/watch?v=Gduvd8s_eMY)  
-  ![](https://i.ytimg.com/vi/Gduvd8s_eMY/hqdefault.jpg)

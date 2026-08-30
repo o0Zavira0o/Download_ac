@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-29T14:22:26Z_
+_آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-30 03:30:16 (UTC)  
+  **مدت:** حدود 3.5 دقیقه  
+  **عنوان:** [Fillet Options Keep edge, Keep Surface and Round Corners in SolidWorks (Constant Fillet)](https://www.youtube.com/watch?v=0Nb7BabdERc)  
+  ![](https://i.ytimg.com/vi/0Nb7BabdERc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-29 13:45:25 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-29T14:22:26Z_
   **مدت:** حدود 10.1 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Castle Crown Nut in Solidworks](https://www.youtube.com/watch?v=oM6_m7AJo7c)  
   ![](https://i.ytimg.com/vi/oM6_m7AJo7c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-02 08:20:43 (UTC)  
-  **مدت:** حدود 35.6 دقیقه  
-  **عنوان:** [Solidworks tutorial | study of Reciprocating motion (Animation) in Solidworks](https://www.youtube.com/watch?v=FS-CumByFqk)  
-  ![](https://i.ytimg.com/vi/FS-CumByFqk/hqdefault.jpg)
