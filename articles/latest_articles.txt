@@ -1,4 +1,4 @@
-# Last Run: 2026-08-30 16:15 UTC
+# Last Run: 2026-08-30 20:45 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Iceland’s EU Ambitions
@@ -64,32 +64,4 @@ Link: https://www.foreignaffairs.com/europe/leave-europe-europeans
 [Foreign_Policy] Settler Violence Is Consuming the West Bank
 Published: 2026-08-27T22:05:09+00:00
 Link: https://foreignpolicy.com/2026/08/27/settler-violence-west-bank-palestine-israel/
----
-[Foreign_Policy] Death Toll Rises in Nepal-Tibet Flash Flood
-Published: 2026-08-27T20:19:42+00:00
-Link: https://foreignpolicy.com/2026/08/27/nepal-tibet-flash-floods-death-toll-missing-glacier-global-warming/
----
-[Foreign_Policy] China’s Success Is Forcing a U.S. AI Rethink
-Published: 2026-08-27T18:35:13+00:00
-Link: https://foreignpolicy.com/2026/08/27/china-ai-technology-trump-silicon-valley-open-weights/
----
-[Foreign_Policy] Myanmar Shows War Doesn’t Stop Mining
-Published: 2026-08-27T17:54:51+00:00
-Link: https://foreignpolicy.com/2026/08/27/myanmar-china-critical-minerals/
----
-[Foreign_Policy] Why North Korea Doesn’t Want to Meet With Trump
-Published: 2026-08-27T17:34:53+00:00
-Link: https://foreignpolicy.com/2026/08/27/north-korea-kim-jong-un-trump-meeting-nuclear/
----
-[Foreign_Policy] Germany’s Rhine River Is Drying Up
-Published: 2026-08-27T17:33:18+00:00
-Link: https://foreignpolicy.com/2026/08/27/germany-rhine-river-economy-war/
----
-[Foreign_Policy] Don’t Freak Out Over the Pentagon’s Europe Plans
-Published: 2026-08-27T17:00:02+00:00
-Link: https://foreignpolicy.com/2026/08/27/us-europe-defense-posture-review-troops-elbridge-colby-hegseth-nato/
----
-[Foreign_Policy] Trump Keeps Stabbing Japan in the Back
-Published: 2026-08-27T16:50:13+00:00
-Link: https://foreignpolicy.com/2026/08/27/trump-japan-takaichi-alliance/
 ---
