@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
+_آخرین به‌روزرسانی: 2026-08-31T16:59:54Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-08-31 10:26:12 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Wie würden die Außerirdischen uns begegnen? #shorts #easygerman](https://www.youtube.com/watch?v=fVxAsPK8Aco)  
+  ![](https://i.ytimg.com/vi/fVxAsPK8Aco/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-30 17:00:18 (UTC)  
+  **مدت:** حدود 13.2 دقیقه  
+  **عنوان:** [How to Talk to Strangers in Germany](https://www.youtube.com/watch?v=yv5ZHXAeN00)  
+  ![](https://i.ytimg.com/vi/yv5ZHXAeN00/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-28 10:50:42 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
   **مدت:** حدود 10.3 دقیقه  
   **عنوان:** [2016 vs. 2017 | Easy German 176](https://www.youtube.com/watch?v=Yo8JdzNXj0A)  
   ![](https://i.ytimg.com/vi/Yo8JdzNXj0A/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-30 22:10:17 (UTC)  
-  **مدت:** حدود 21.0 دقیقه  
-  **عنوان:** [Cari Antwortet (42) - DANKE AN EUCH | Sind Deutsche Stubenhocker? | Deutsche und Polen](https://www.youtube.com/watch?v=8Iu2bqLICRU)  
-  ![](https://i.ytimg.com/vi/8Iu2bqLICRU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2016-12-28 19:54:54 (UTC)  
-  **مدت:** حدود 8.6 دقیقه  
-  **عنوان:** [German Kitchen Vocabulary | Super Easy German (11)](https://www.youtube.com/watch?v=fivibJ7IaMA)  
-  ![](https://i.ytimg.com/vi/fivibJ7IaMA/hqdefault.jpg)

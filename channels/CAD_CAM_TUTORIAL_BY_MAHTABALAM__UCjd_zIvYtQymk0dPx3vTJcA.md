@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
+_آخرین به‌روزرسانی: 2026-08-31T16:59:54Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-08-31 11:30:31 (UTC)  
+  **مدت:** حدود 11.1 دقیقه  
+  **عنوان:** [Gradient Hole Cover -Linear Pattern Instances to Vary in SolidWorks](https://www.youtube.com/watch?v=2dPPlavmN5E)  
+  ![](https://i.ytimg.com/vi/2dPPlavmN5E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-31 03:30:11 (UTC)  
+  **مدت:** حدود 3.0 دقیقه  
+  **عنوان:** [Face Fillet (Chord Width) in SolidWorks](https://www.youtube.com/watch?v=naZviiNViKk)  
+  ![](https://i.ytimg.com/vi/naZviiNViKk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-30 14:51:17 (UTC)  
+  **مدت:** حدود 4.3 دقیقه  
+  **عنوان:** [Variable Size fillets, Smooth Transition, Straight Transition in SolidWorks](https://www.youtube.com/watch?v=pbw496Wf7vo)  
+  ![](https://i.ytimg.com/vi/pbw496Wf7vo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-30 03:30:16 (UTC)  
@@ -8986,21 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
   **مدت:** حدود 31.0 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Spherical Geneva Mechanism in Solidworks](https://www.youtube.com/watch?v=mAV30VyrSJg)  
   ![](https://i.ytimg.com/vi/mAV30VyrSJg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-06 07:00:52 (UTC)  
-  **مدت:** حدود 20.2 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch intermittent motion mechanism in Solidworks](https://www.youtube.com/watch?v=47d_y57pOUw)  
-  ![](https://i.ytimg.com/vi/47d_y57pOUw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-05 06:20:05 (UTC)  
-  **مدت:** حدود 42.2 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch whitworth quick return mechanism in Solidworks](https://www.youtube.com/watch?v=ByfRwsJ-ekA)  
-  ![](https://i.ytimg.com/vi/ByfRwsJ-ekA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-03 15:59:01 (UTC)  
-  **مدت:** حدود 10.1 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Castle Crown Nut in Solidworks](https://www.youtube.com/watch?v=oM6_m7AJo7c)  
-  ![](https://i.ytimg.com/vi/oM6_m7AJo7c/hqdefault.jpg)

@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
+_آخرین به‌روزرسانی: 2026-08-31T16:59:54Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-08-31 10:00:38 (UTC)  
+  **مدت:** حدود 4.4 دقیقه  
+  **عنوان:** [SOLIDWORKS Weldments Tutorial | Complete Cut List & Detailed 2D Drawing](https://www.youtube.com/watch?v=n2DGk0ZgcFI)  
+  ![](https://i.ytimg.com/vi/n2DGk0ZgcFI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-08-31 03:11:53 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Archimedes Spiral Wind Turbine 3D Model](https://www.youtube.com/watch?v=EbQvu3H7HD8)  
+  ![](https://i.ytimg.com/vi/EbQvu3H7HD8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-29 13:29:36 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅Slider Crank Mechanism 📌 | Working Principle & 3D Design Explained](https://www.youtube.com/watch?v=6J72uHDJDy0)  
   ![](https://i.ytimg.com/vi/6J72uHDJDy0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-24 11:42:48 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Scotch Yoke Mechanism | Working Principle & Animation Explained](https://www.youtube.com/watch?v=aAcTY3OnUns)  
-  ![](https://i.ytimg.com/vi/aAcTY3OnUns/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-21 05:38:52 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [✅Inline Power Transmission Mechanism | Automobile Engineering Explained](https://www.youtube.com/watch?v=536TkBguW88)  
-  ![](https://i.ytimg.com/vi/536TkBguW88/hqdefault.jpg)

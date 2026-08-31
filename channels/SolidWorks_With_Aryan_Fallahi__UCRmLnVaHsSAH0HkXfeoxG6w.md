@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال SolidWorks With Aryan Fallahi
 
-_آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
+_آخرین به‌روزرسانی: 2026-08-31T16:59:54Z_
 
 
 **لینک استاندارد کانال:** [SolidWorks With Aryan Fallahi](https://www.youtube.com/channel/UCRmLnVaHsSAH0HkXfeoxG6w)  
+
+
+- **تاریخ انتشار:** 2026-08-31 13:39:04 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [master modeler- audition annoucemen and the exact dates  TBD #mastermodeler #solidworks](https://www.youtube.com/watch?v=lfl41wrAc24)  
+  ![](https://i.ytimg.com/vi/lfl41wrAc24/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-26 17:59:57 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
   **مدت:** حدود 14.3 دقیقه  
   **عنوان:** [A Powerful Duo for Mechanical Engineers](https://www.youtube.com/watch?v=I8L25WVYWhQ)  
   ![](https://i.ytimg.com/vi/I8L25WVYWhQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2023-09-12 20:25:01 (UTC)  
-  **مدت:** حدود 22.7 دقیقه  
-  **عنوان:** [SOLIDWORKS Drawing Hacks - Part 1](https://www.youtube.com/watch?v=A2o1HghIV44)  
-  ![](https://i.ytimg.com/vi/A2o1HghIV44/hqdefault.jpg)

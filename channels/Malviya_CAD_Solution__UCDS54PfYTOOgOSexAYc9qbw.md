@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
+_آخرین به‌روزرسانی: 2026-08-31T16:59:54Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-08-31 03:00:12 (UTC)  
+  **مدت:** حدود 38.2 دقیقه  
+  **عنوان:** [Design of CNC Grooving tool in Solidworks | Grooving tool holder & Insert](https://www.youtube.com/watch?v=UskWSvdPXjU)  
+  ![](https://i.ytimg.com/vi/UskWSvdPXjU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-27 05:49:31 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-08-30T14:22:37Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [Solidworks linear component pattern #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=QBs5-Q8Stss)  
   ![](https://i.ytimg.com/vi/QBs5-Q8Stss/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-19 02:47:10 (UTC)  
-  **مدت:** حدود 32.2 دقیقه  
-  **عنوان:** [Cultivator assembly tutorial in solidworks | Solidworks assembly tutorial](https://www.youtube.com/watch?v=LoA6kjXYazI)  
-  ![](https://i.ytimg.com/vi/LoA6kjXYazI/hqdefault.jpg)
