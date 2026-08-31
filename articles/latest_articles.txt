@@ -1,4 +1,4 @@
-# Last Run: 2026-08-30 20:45 UTC
+# Last Run: 2026-08-31 00:18 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Iceland’s EU Ambitions
@@ -60,8 +60,4 @@ Link: https://www.foreignaffairs.com/united-states/great-rebalancing-coming
 [Foreign_Affairs] Leave Europe to the Europeans
 Published: 2026-08-28T04:00:00+00:00
 Link: https://www.foreignaffairs.com/europe/leave-europe-europeans
----
-[Foreign_Policy] Settler Violence Is Consuming the West Bank
-Published: 2026-08-27T22:05:09+00:00
-Link: https://foreignpolicy.com/2026/08/27/settler-violence-west-bank-palestine-israel/
 ---
