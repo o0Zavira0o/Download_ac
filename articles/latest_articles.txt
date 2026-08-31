@@ -1,6 +1,22 @@
-# Last Run: 2026-08-31 08:17 UTC
+# Last Run: 2026-08-31 17:34 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Jordan Sees Bigger Threat From Israel Than Iran
+Published: 2026-08-31T13:48:41+00:00
+Link: https://foreignpolicy.com/2026/08/31/jordan-israel-iran-west-bank-annexation-refugees-gaza/
+---
+[Foreign_Policy] It’s Time to Rein in Trump’s ‘Wars on Terror’
+Published: 2026-08-31T13:25:41+00:00
+Link: https://foreignpolicy.com/2026/08/31/trump-terror-congress-drone-strikes-drugs-international-law/
+---
+[Foreign_Policy] China Is Trying to Make AI Work for Health Care
+Published: 2026-08-31T13:00:48+00:00
+Link: https://foreignpolicy.com/2026/08/31/china-ai-healthcare/
+---
+[Foreign_Policy] Trump Has Peaked
+Published: 2026-08-31T10:00:20+00:00
+Link: https://foreignpolicy.com/2026/08/31/trump-peak-iran-war-foreign-policy/
+---
 [Foreign_Policy] Can Scandals Influence Midterm Elections?
 Published: 2026-08-31T06:02:33+00:00
 Link: https://foreignpolicy.com/2026/08/31/scandals-midterm-elections-2006/
@@ -40,24 +56,4 @@ Link: https://foreignpolicy.com/2026/08/28/american-oligarchy-geopolitics-dictat
 [Foreign_Policy] Getting Confucius Wrong
 Published: 2026-08-28T18:00:42+00:00
 Link: https://foreignpolicy.com/2026/08/28/china-confucius-analects-cline/
----
-[Foreign_Policy] What in the World?
-Published: 2026-08-28T17:23:47+00:00
-Link: https://foreignpolicy.com/2026/08/28/news-quiz-congo-bessent-iran-economic-pressure-putin-russia-ukraine-war/
----
-[Foreign_Policy] Russia and North Korea Are Scrambling Trump’s Alliance Strategy
-Published: 2026-08-28T13:44:51+00:00
-Link: https://foreignpolicy.com/2026/08/28/north-korea-russia-united-states-south-korea-ukraine-national-defense-alliance-strategy/
----
-[Foreign_Policy] Japan’s Narrowing Path to Permanent Residency
-Published: 2026-08-28T12:59:28+00:00
-Link: https://foreignpolicy.com/2026/08/28/sanae-takaichi-japan-permanent-residency-foreign-workers-ldp-immigration/
----
-[Foreign_Policy] Western Hemisphere Progressives Plot a Comeback
-Published: 2026-08-28T12:00:19+00:00
-Link: https://foreignpolicy.com/2026/08/28/panamerican-congress-uruguay-progressive-lawmakers-cpac/
----
-[Foreign_Policy] The SCO’s Diminishing Usefulness for India
-Published: 2026-08-28T09:11:50+00:00
-Link: https://foreignpolicy.com/2026/08/28/sco-shanghai-cooperation-organisation-summit-india-china-pakistan-russia-bishkek/
 ---
