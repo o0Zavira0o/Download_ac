@@ -1,6 +1,10 @@
-# Last Run: 2026-09-01 03:59 UTC
+# Last Run: 2026-09-01 09:22 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The Powder Keg in Outer Space
+Published: 2026-09-01T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/powder-keg-outer-space
+---
 [Foreign_Policy] Beijing and Washington Can Build AI Safety Despite Mutual Distrust
 Published: 2026-08-31T20:06:17+00:00
 Link: https://foreignpolicy.com/2026/08/31/china-us-safety-ai-artificial-intelligence-summit-regulation/
