@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-08-31T16:59:54Z_
+_آخرین به‌روزرسانی: 2026-09-01T14:05:17Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-01 03:30:17 (UTC)  
+  **مدت:** حدود 24.1 دقیقه  
+  **عنوان:** [Sheet Metal Chassis Modeling with SolidWorks Stamp Feature](https://www.youtube.com/watch?v=L9UHum8cvco)  
+  ![](https://i.ytimg.com/vi/L9UHum8cvco/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-31 11:30:31 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-08-31T16:59:54Z_
   **مدت:** حدود 19.3 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch USB Head in Solidworks](https://www.youtube.com/watch?v=OQBiJLZG5FM)  
   ![](https://i.ytimg.com/vi/OQBiJLZG5FM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-07 11:30:27 (UTC)  
-  **مدت:** حدود 31.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Spherical Geneva Mechanism in Solidworks](https://www.youtube.com/watch?v=mAV30VyrSJg)  
-  ![](https://i.ytimg.com/vi/mAV30VyrSJg/hqdefault.jpg)
