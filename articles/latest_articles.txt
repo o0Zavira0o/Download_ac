@@ -1,4 +1,4 @@
-# Last Run: 2026-08-31 22:38 UTC
+# Last Run: 2026-09-01 03:59 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Beijing and Washington Can Build AI Safety Despite Mutual Distrust
@@ -25,6 +25,46 @@ Link: https://foreignpolicy.com/2026/08/31/china-ai-healthcare/
 Published: 2026-08-31T10:00:20+00:00
 Link: https://foreignpolicy.com/2026/08/31/trump-peak-iran-war-foreign-policy/
 ---
+[New_Yorker_Magazine] The MAHA Custody Battle
+Published: 2026-08-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/the-maha-custody-battle
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-08-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/the-black-shield-endless-endings-solstice-i-was-bonnie-and-clyde
+---
+[New_Yorker_Magazine] “Matisse’s Femme au Chapeau: A Modern Scandal,” Reviewed
+Published: 2026-08-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/matisses-ugliest-painting
+---
+[New_Yorker_Magazine] Who’s Afraid of A.I. Music?
+Published: 2026-08-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/whos-afraid-of-ai-music
+---
+[New_Yorker_Magazine] Smokejumpers Leap Out of Planes to Fight Wildfires
+Published: 2026-08-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/the-art-of-leaping-out-of-planes-to-fight-wildfires
+---
+[New_Yorker_Magazine] All Rise! Coyote Court Is Now in Session
+Published: 2026-08-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/all-rise-coyote-court-is-now-in-session
+---
+[New_Yorker_Magazine] “The Disappearers,” Reviewed
+Published: 2026-08-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/the-disappearers-marlon-james-book-review
+---
+[New_Yorker_Magazine] What Happened in Minneapolis
+Published: 2026-08-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/what-happened-in-minneapolis
+---
+[New_Yorker_Magazine] Jim Nollman’s Orca-stra
+Published: 2026-08-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/jim-nollmans-orca-stra
+---
+[New_Yorker_Magazine] Has the Supreme Court Sandbagged Democracy?
+Published: 2026-08-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/supremacy-nikolas-bowie-daphna-renan-book-review
+---
 [Foreign_Policy] Can Scandals Influence Midterm Elections?
 Published: 2026-08-31T06:02:33+00:00
 Link: https://foreignpolicy.com/2026/08/31/scandals-midterm-elections-2006/
@@ -36,4 +76,28 @@ Link: https://www.foreignaffairs.com/russia/price-russian-paranoia
 [Foreign_Affairs] The Road Through Damascus
 Published: 2026-08-31T04:00:00+00:00
 Link: https://www.foreignaffairs.com/syria/road-through-damascus
+---
+[New_Yorker_Magazine] Susan Te Kahurangi King’s Way of Seeing
+Published: 2026-08-30T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/susan-te-kahurangi-kings-way-of-seeing
+---
+[New_Yorker_Magazine] “Just Kidding,” by Rita Dove
+Published: 2026-08-30T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/just-kidding-rita-dove-poem
+---
+[New_Yorker_Magazine] “Horse Song of a Nightmare,” by Joy Harjo
+Published: 2026-08-30T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/horse-song-of-a-nightmare-joy-harjo-poem
+---
+[New_Yorker_Magazine] Mark Zuckerberg’s Social Reckoning
+Published: 2026-08-30T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/mark-zuckerbergs-social-reckoning
+---
+[New_Yorker_Magazine] “Lub Dub Lub Dub Lub Dub,” by Helen Simpson
+Published: 2026-08-30T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/lub-dub-lub-dub-lub-dub-fiction-helen-simpson
+---
+[New_Yorker_Magazine] Where to Get Fire Outfits for Burning Man
+Published: 2026-08-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/07/where-to-get-fire-outfits-for-burning-man
 ---
