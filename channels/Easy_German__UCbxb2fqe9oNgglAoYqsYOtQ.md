@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-01T14:05:17Z_
+_آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-01 17:31:31 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Wohin, wenn Berlin mal zu viel wird? #easygerman #deutschlernen #erholung](https://www.youtube.com/watch?v=avSIvkWIu3o)  
+  ![](https://i.ytimg.com/vi/avSIvkWIu3o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-31 10:26:12 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-01T14:05:17Z_
   **مدت:** حدود 3.7 دقیقه  
   **عنوان:** [Lunch break | Super Easy German (12)](https://www.youtube.com/watch?v=p5ItbBy6NiU)  
   ![](https://i.ytimg.com/vi/p5ItbBy6NiU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-02 19:12:47 (UTC)  
-  **مدت:** حدود 10.3 دقیقه  
-  **عنوان:** [2016 vs. 2017 | Easy German 176](https://www.youtube.com/watch?v=Yo8JdzNXj0A)  
-  ![](https://i.ytimg.com/vi/Yo8JdzNXj0A/hqdefault.jpg)

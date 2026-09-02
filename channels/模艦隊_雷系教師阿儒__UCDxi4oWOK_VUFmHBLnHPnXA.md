@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-09-01T14:05:17Z_
+_آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-09-02 11:00:10 (UTC)  
+  **مدت:** حدود 9.9 دقیقه  
+  **عنوان:** [【SolidWorks】掃出練習：基準面簡化草圖與尺寸標註｜簡單才好解決問題](https://www.youtube.com/watch?v=R9h3XX7C-bQ)  
+  ![](https://i.ytimg.com/vi/R9h3XX7C-bQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-28 11:00:10 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-01T14:05:17Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [短片看建模：Onshape認證考題步驟拆解](https://www.youtube.com/watch?v=GlJfyd7OqCk)  
   ![](https://i.ytimg.com/vi/GlJfyd7OqCk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-06-06 11:00:07 (UTC)  
-  **مدت:** حدود 15.3 دقیقه  
-  **عنوان:** [【onshape】產品練習：蓋子｜練習分區處理｜肋材應用](https://www.youtube.com/watch?v=3mTMidmpH4Q)  
-  ![](https://i.ytimg.com/vi/3mTMidmpH4Q/hqdefault.jpg)

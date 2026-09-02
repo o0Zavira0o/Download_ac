@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-01T14:05:17Z_
+_آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-02 03:30:22 (UTC)  
+  **مدت:** حدود 17.9 دقیقه  
+  **عنوان:** [tri dagger knives Modeling in SolidWorks](https://www.youtube.com/watch?v=YPZMTBx1frk)  
+  ![](https://i.ytimg.com/vi/YPZMTBx1frk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-01 03:30:17 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-01T14:05:17Z_
   **مدت:** حدود 7.0 دقیقه  
   **عنوان:** [Solidworks Simulation | Setup and Study of load in Solidworks Simulation](https://www.youtube.com/watch?v=WgEEDmNR_7s)  
   ![](https://i.ytimg.com/vi/WgEEDmNR_7s/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-08 00:00:00 (UTC)  
-  **مدت:** حدود 19.3 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch USB Head in Solidworks](https://www.youtube.com/watch?v=OQBiJLZG5FM)  
-  ![](https://i.ytimg.com/vi/OQBiJLZG5FM/hqdefault.jpg)

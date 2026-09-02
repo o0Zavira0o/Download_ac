@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-09-01T14:05:17Z_
+_آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-09-02 03:30:01 (UTC)  
+  **مدت:** حدود 10.3 دقیقه  
+  **عنوان:** [How to create floor plan in less time with EdrawMax | Introducing EDRAWMAX by Wondershare](https://www.youtube.com/watch?v=4wyWaMXIHIo)  
+  ![](https://i.ytimg.com/vi/4wyWaMXIHIo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-31 03:00:12 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-01T14:05:17Z_
   **مدت:** حدود 19.8 دقیقه  
   **عنوان:** [Solidworks advanced screw driver | Solidworks advance surface tutorial](https://www.youtube.com/watch?v=6cRwzdlUkAM)  
   ![](https://i.ytimg.com/vi/6cRwzdlUkAM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-20 14:47:11 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [Solidworks linear component pattern #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=QBs5-Q8Stss)  
-  ![](https://i.ytimg.com/vi/QBs5-Q8Stss/hqdefault.jpg)
