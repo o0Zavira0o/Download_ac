@@ -1,4 +1,4 @@
-# Last Run: 2026-09-02 08:32 UTC
+# Last Run: 2026-09-02 14:11 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Rivals Circle an Out-of-Touch Prabowo
@@ -136,24 +136,4 @@ Link: https://www.foreignaffairs.com/russia/price-russian-paranoia
 [Foreign_Affairs] The Road Through Damascus
 Published: 2026-08-31T04:00:00+00:00
 Link: https://www.foreignaffairs.com/syria/road-through-damascus
----
-[New_Yorker_Magazine] Susan Te Kahurangi King’s Way of Seeing
-Published: 2026-08-30T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/07/susan-te-kahurangi-kings-way-of-seeing
----
-[New_Yorker_Magazine] “Just Kidding,” by Rita Dove
-Published: 2026-08-30T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/07/just-kidding-rita-dove-poem
----
-[New_Yorker_Magazine] “Horse Song of a Nightmare,” by Joy Harjo
-Published: 2026-08-30T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/07/horse-song-of-a-nightmare-joy-harjo-poem
----
-[New_Yorker_Magazine] Mark Zuckerberg’s Social Reckoning
-Published: 2026-08-30T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/07/mark-zuckerbergs-social-reckoning
----
-[New_Yorker_Magazine] “Lub Dub Lub Dub Lub Dub,” by Helen Simpson
-Published: 2026-08-30T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/07/lub-dub-lub-dub-lub-dub-fiction-helen-simpson
 ---
