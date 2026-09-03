@@ -1,6 +1,14 @@
-# Last Run: 2026-09-03 03:22 UTC
+# Last Run: 2026-09-03 08:40 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The Case for a Stalemate With Iran
+Published: 2026-09-03T04:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/case-stalemate-iran
+---
+[Foreign_Affairs] The End of American Sanctuary
+Published: 2026-09-03T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/end-american-sanctuary
+---
 [Foreign_Policy] Iran Accuses U.S. Military of a War Crime
 Published: 2026-09-02T21:43:18+00:00
 Link: https://foreignpolicy.com/2026/09/02/iran-war-crime-us-strike-wedding-renewed-fighting/
@@ -136,16 +144,4 @@ Link: https://www.newyorker.com/magazine/2026/09/07/jim-nollmans-orca-stra
 [New_Yorker_Magazine] Has the Supreme Court Sandbagged Democracy?
 Published: 2026-08-31T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/09/07/supremacy-nikolas-bowie-daphna-renan-book-review
----
-[Foreign_Policy] Can Scandals Influence Midterm Elections?
-Published: 2026-08-31T06:02:33+00:00
-Link: https://foreignpolicy.com/2026/08/31/scandals-midterm-elections-2006/
----
-[Foreign_Affairs] The Price of Russian Paranoia
-Published: 2026-08-31T04:00:00+00:00
-Link: https://www.foreignaffairs.com/russia/price-russian-paranoia
----
-[Foreign_Affairs] The Road Through Damascus
-Published: 2026-08-31T04:00:00+00:00
-Link: https://www.foreignaffairs.com/syria/road-through-damascus
 ---
