@@ -1,6 +1,14 @@
-# Last Run: 2026-09-03 19:13 UTC
+# Last Run: 2026-09-03 22:25 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] A Gold Rush in Venezuela?
+Published: 2026-09-03T20:56:35+00:00
+Link: https://foreignpolicy.com/2026/09/03/ucc-gold-mining-venezuela/
+---
+[Foreign_Policy] The Fallout of Russia’s Failed Drone Attack on Germany
+Published: 2026-09-03T20:01:07+00:00
+Link: https://foreignpolicy.com/2026/09/03/russia-failed-drone-attack-germany-leipzig-airport-eu-nato/
+---
 [Foreign_Policy] China Isn’t Scared of Trump’s Squeeze on Iran
 Published: 2026-09-03T14:58:17+00:00
 Link: https://foreignpolicy.com/2026/09/03/china-iran-economy-sanctions-trade-trump-bessent/
@@ -96,12 +104,4 @@ Link: https://foreignpolicy.com/2026/09/01/sarah-rogers-trump-administration-sta
 [Foreign_Affairs] The Powder Keg in Outer Space
 Published: 2026-09-01T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/powder-keg-outer-space
----
-[Foreign_Policy] Beijing and Washington Can Build AI Safety Despite Mutual Distrust
-Published: 2026-08-31T20:06:17+00:00
-Link: https://foreignpolicy.com/2026/08/31/china-us-safety-ai-artificial-intelligence-summit-regulation/
----
-[Foreign_Policy] U.S.-Iran Fighting Reignites
-Published: 2026-08-31T20:01:18+00:00
-Link: https://foreignpolicy.com/2026/08/31/us-iran-strikes-fighting-resumes-larak-island-jordan-uae-kharg/
 ---
