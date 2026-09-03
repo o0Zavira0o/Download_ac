@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
+_آخرین به‌روزرسانی: 2026-09-03T13:29:40Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-03 03:30:01 (UTC)  
+  **مدت:** حدود 18.9 دقیقه  
+  **عنوان:** [Convert Solid Part to Sheet Metal Part in SolidWorks](https://www.youtube.com/watch?v=1wFDJ76cfmk)  
+  ![](https://i.ytimg.com/vi/1wFDJ76cfmk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-02 03:30:22 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
   **مدت:** حدود 13.4 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch lag bolt in Solidworks](https://www.youtube.com/watch?v=sAmn-r0fEhs)  
   ![](https://i.ytimg.com/vi/sAmn-r0fEhs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-09 14:28:15 (UTC)  
-  **مدت:** حدود 7.0 دقیقه  
-  **عنوان:** [Solidworks Simulation | Setup and Study of load in Solidworks Simulation](https://www.youtube.com/watch?v=WgEEDmNR_7s)  
-  ![](https://i.ytimg.com/vi/WgEEDmNR_7s/hqdefault.jpg)

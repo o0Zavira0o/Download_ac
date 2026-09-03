@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
+_آخرین به‌روزرسانی: 2026-09-03T13:29:40Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-03 11:44:53 (UTC)  
+  **مدت:** حدود 1.6 دقیقه  
+  **عنوان:** [Manuels Lieblingsabteilung #shorts #kaufhaus #langsamesdeutsch](https://www.youtube.com/watch?v=NUwPgFjm2ro)  
+  ![](https://i.ytimg.com/vi/NUwPgFjm2ro/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-02 17:00:10 (UTC)  
+  **مدت:** حدود 21.5 دقیقه  
+  **عنوان:** [50 German Verbs Every Beginner Must Know](https://www.youtube.com/watch?v=9xujQRaGN1Q)  
+  ![](https://i.ytimg.com/vi/9xujQRaGN1Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-01 17:31:31 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
   **مدت:** حدود 6.8 دقیقه  
   **عنوان:** [Clothing | Super Easy German (13)](https://www.youtube.com/watch?v=HXbYSKRNjqE)  
   ![](https://i.ytimg.com/vi/HXbYSKRNjqE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-08 18:01:07 (UTC)  
-  **مدت:** حدود 8.2 دقیقه  
-  **عنوان:** [The Weather in Germany | Easy German 177](https://www.youtube.com/watch?v=K09knvYldj4)  
-  ![](https://i.ytimg.com/vi/K09knvYldj4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-04 19:07:57 (UTC)  
-  **مدت:** حدود 3.7 دقیقه  
-  **عنوان:** [Lunch break | Super Easy German (12)](https://www.youtube.com/watch?v=p5ItbBy6NiU)  
-  ![](https://i.ytimg.com/vi/p5ItbBy6NiU/hqdefault.jpg)

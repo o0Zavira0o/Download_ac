@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
+_آخرین به‌روزرسانی: 2026-09-03T13:29:40Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-03 13:29:26 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [SOLIDWORKS Motion Analysis Made Easy! ⏳](https://www.youtube.com/watch?v=7IYIUufxJn8)  
+  ![](https://i.ytimg.com/vi/7IYIUufxJn8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-02 15:09:48 (UTC)  
+  **مدت:** حدود 5.2 دقیقه  
+  **عنوان:** [✅SOLIDWORKS Motion Simulation with Gravity | Beginner Tutorial Step-by-Step](https://www.youtube.com/watch?v=EtY658SbsXE)  
+  ![](https://i.ytimg.com/vi/EtY658SbsXE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-31 10:00:38 (UTC)  
@@ -20,7 +32,7 @@ _آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
 
 - **تاریخ انتشار:** 2026-08-29 13:29:36 (UTC)  
   **مدت:** حدود 4.1 دقیقه  
-  **عنوان:** [SolidWorks Sheet Metal Enclosure Tutorial 🔥 | 3D Model to 2D Drawing Step-by-Step](https://www.youtube.com/watch?v=epzV-wUijOw)  
+  **عنوان:** [Why Your Sheet Metal Drawings Fail (And How to Fix Them in SolidWorks)](https://www.youtube.com/watch?v=epzV-wUijOw)  
   ![](https://i.ytimg.com/vi/epzV-wUijOw/hqdefault.jpg)
 
 
@@ -62,7 +74,7 @@ _آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
 
 - **تاریخ انتشار:** 2026-08-21 11:00:19 (UTC)  
   **مدت:** حدود 0.0 دقیقه  
-  **عنوان:** [✅Four-Bar Radial Cam and Follower Mechanism Assembly](https://www.youtube.com/watch?v=HeJJg9Gy-Lc)  
+  **عنوان:** [Why This Radial Cam Mechanism is So Satisfying ⚙️ #shorts #cad #engineering](https://www.youtube.com/watch?v=HeJJg9Gy-Lc)  
   ![](https://i.ytimg.com/vi/HeJJg9Gy-Lc/hqdefault.jpg)
 
 
@@ -236,7 +248,7 @@ _آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
 
 - **تاریخ انتشار:** 2026-05-08 14:50:46 (UTC)  
   **مدت:** حدود 13.6 دقیقه  
-  **عنوان:** [Solidworks Assembly Tutorial - Rotary to Slider Mechanism](https://www.youtube.com/watch?v=QH5lZbjdKR4)  
+  **عنوان:** [How to Create a Rotary to Slider Mechanism in SolidWorks](https://www.youtube.com/watch?v=QH5lZbjdKR4)  
   ![](https://i.ytimg.com/vi/QH5lZbjdKR4/hqdefault.jpg)
 
 
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅Schmidt Coupling Mechanism](https://www.youtube.com/watch?v=6aZLm45epGs)  
   ![](https://i.ytimg.com/vi/6aZLm45epGs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-29 11:53:44 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Manual Press Machine | Working Mechanism & Applications](https://www.youtube.com/watch?v=k9wW7KRU-H4)  
-  ![](https://i.ytimg.com/vi/k9wW7KRU-H4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-09-27 11:38:04 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Slider Crank Mechanism 📌 | Working Principle & 3D Design Explained](https://www.youtube.com/watch?v=6J72uHDJDy0)  
-  ![](https://i.ytimg.com/vi/6J72uHDJDy0/hqdefault.jpg)

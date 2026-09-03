@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
+_آخرین به‌روزرسانی: 2026-09-03T13:29:40Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-03 13:00:23 (UTC)  
+  **مدت:** حدود 8.4 دقیقه  
+  **عنوان:** [다꾸 ASMR 우드 스탬프로 콜라주 다이어리 꾸미기 | Journaling Stamping コラージュ](https://www.youtube.com/watch?v=kVL4JX-_RHs)  
+  ![](https://i.ytimg.com/vi/kVL4JX-_RHs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-02 13:00:07 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-02T13:31:07Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Journal Art #journal #journaling #asmrsounds](https://www.youtube.com/watch?v=nZIz1ldnS8c)  
   ![](https://i.ytimg.com/vi/nZIz1ldnS8c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-19 10:15:06 (UTC)  
-  **مدت:** حدود 1.3 دقیقه  
-  **عنوان:** [Satisfying Stationery Unboxing | Journal Stamps](https://www.youtube.com/watch?v=uov6__c8F3U)  
-  ![](https://i.ytimg.com/vi/uov6__c8F3U/hqdefault.jpg)
