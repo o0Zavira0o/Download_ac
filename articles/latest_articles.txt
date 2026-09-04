@@ -1,6 +1,10 @@
-# Last Run: 2026-09-04 03:19 UTC
+# Last Run: 2026-09-04 08:35 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] How Taiwan Can Win the Strait
+Published: 2026-09-04T04:00:00+00:00
+Link: https://www.foreignaffairs.com/taiwan/how-taiwan-can-win-strait
+---
 [Foreign_Policy] Peace in Sudan Can Only Flower After a Weapons Embargo
 Published: 2026-09-03T23:15:44+00:00
 Link: https://foreignpolicy.com/2026/09/03/sudan-war-united-nations-security-council-arms-weapons-embargo-trump-administration-united-states-foreign-policy/
@@ -32,6 +36,10 @@ Link: https://foreignpolicy.com/2026/09/03/israel-war-netanyahu-turkey-gaza-west
 [Foreign_Policy] Ukraine’s Mood Swing
 Published: 2026-09-03T10:00:08+00:00
 Link: https://foreignpolicy.com/2026/09/03/ukraine-war-zelensky-corrupton-scandal-cabinet-election/
+---
+[New_Yorker_Magazine] Seeing It All Hang Out at the Fringe
+Published: 2026-09-03T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/14/edinburghs-fringe-festival-theatre-review
 ---
 [Foreign_Affairs] The Case for a Stalemate With Iran
 Published: 2026-09-03T04:00:00+00:00
@@ -108,8 +116,4 @@ Link: https://www.foreignaffairs.com/united-states/real-risk-trade-war-canada
 [Foreign_Policy] The Free Speech Ideologue Taking on Europe
 Published: 2026-09-01T09:00:18+00:00
 Link: https://foreignpolicy.com/2026/09/01/sarah-rogers-trump-administration-state-department-europe-free-speech/
----
-[Foreign_Affairs] The Powder Keg in Outer Space
-Published: 2026-09-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/powder-keg-outer-space
 ---
