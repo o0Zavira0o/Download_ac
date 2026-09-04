@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-03T13:29:40Z_
+_آخرین به‌روزرسانی: 2026-09-04T13:24:01Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-04 09:06:35 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [In der Bar #shorts #smalltalk #easygerman](https://www.youtube.com/watch?v=9KfTNTaV98k)  
+  ![](https://i.ytimg.com/vi/9KfTNTaV98k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-03 11:44:53 (UTC)  
@@ -32,7 +38,7 @@ _آخرین به‌روزرسانی: 2026-09-03T13:29:40Z_
 
 - **تاریخ انتشار:** 2026-08-30 17:00:18 (UTC)  
   **مدت:** حدود 13.2 دقیقه  
-  **عنوان:** [How to Talk to Strangers in Germany](https://www.youtube.com/watch?v=yv5ZHXAeN00)  
+  **عنوان:** [How to Start a Conversation in German](https://www.youtube.com/watch?v=yv5ZHXAeN00)  
   ![](https://i.ytimg.com/vi/yv5ZHXAeN00/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-03T13:29:40Z_
   **مدت:** حدود 9.4 دقیقه  
   **عنوان:** [Sick at home | Easy German 178](https://www.youtube.com/watch?v=Z9jgqeii-ak)  
   ![](https://i.ytimg.com/vi/Z9jgqeii-ak/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-11 19:31:58 (UTC)  
-  **مدت:** حدود 6.8 دقیقه  
-  **عنوان:** [Clothing | Super Easy German (13)](https://www.youtube.com/watch?v=HXbYSKRNjqE)  
-  ![](https://i.ytimg.com/vi/HXbYSKRNjqE/hqdefault.jpg)

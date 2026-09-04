@@ -1,15 +1,27 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-03T13:29:40Z_
+_آخرین به‌روزرسانی: 2026-09-04T13:24:01Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-04 06:40:37 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [The Ultimate Engineering Connection 🔩 #shorts #jlcmc](https://www.youtube.com/watch?v=MH03mVXVc3w)  
+  ![](https://i.ytimg.com/vi/MH03mVXVc3w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-03 13:29:26 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [SOLIDWORKS Motion Analysis Made Easy! ⏳](https://www.youtube.com/watch?v=7IYIUufxJn8)  
   ![](https://i.ytimg.com/vi/7IYIUufxJn8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-03 04:37:38 (UTC)  
+  **مدت:** حدود 2.7 دقیقه  
+  **عنوان:** [Design, Assembly, and Motion Simulation of a Hex Bolt and Nut in SolidWorks #jlcmc](https://www.youtube.com/watch?v=3qE1UyM76L8)  
+  ![](https://i.ytimg.com/vi/3qE1UyM76L8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-02 15:09:48 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-03T13:29:40Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅The Art of Power Transmission Mechanisms❓](https://www.youtube.com/watch?v=7-cf3Loxjmw)  
   ![](https://i.ytimg.com/vi/7-cf3Loxjmw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-03 03:30:15 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Gear and Gear Transmission System | Working Mechanism](https://www.youtube.com/watch?v=JWWLVQuJfXY)  
-  ![](https://i.ytimg.com/vi/JWWLVQuJfXY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-01 12:05:34 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Schmidt Coupling Mechanism](https://www.youtube.com/watch?v=6aZLm45epGs)  
-  ![](https://i.ytimg.com/vi/6aZLm45epGs/hqdefault.jpg)

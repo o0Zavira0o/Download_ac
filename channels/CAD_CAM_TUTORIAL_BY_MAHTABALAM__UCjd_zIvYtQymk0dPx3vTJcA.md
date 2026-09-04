@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-03T13:29:40Z_
+_آخرین به‌روزرسانی: 2026-09-04T13:24:01Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-04 03:30:02 (UTC)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [Half Moon Wire Mesh Modeling in SolidWorks](https://www.youtube.com/watch?v=5mj5JbC-hek)  
+  ![](https://i.ytimg.com/vi/5mj5JbC-hek/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-03 03:30:01 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-03T13:29:40Z_
   **مدت:** حدود 20.9 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch toy animation in Solidworks](https://www.youtube.com/watch?v=8f7uMAILkH0)  
   ![](https://i.ytimg.com/vi/8f7uMAILkH0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-10 18:58:32 (UTC)  
-  **مدت:** حدود 13.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch lag bolt in Solidworks](https://www.youtube.com/watch?v=sAmn-r0fEhs)  
-  ![](https://i.ytimg.com/vi/sAmn-r0fEhs/hqdefault.jpg)
