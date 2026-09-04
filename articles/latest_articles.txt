@@ -1,9 +1,25 @@
-# Last Run: 2026-09-04 14:05 UTC
+# Last Run: 2026-09-04 18:54 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] What in the World?
+Published: 2026-09-04T16:57:13+00:00
+Link: https://foreignpolicy.com/2026/09/04/news-quiz-iceland-vote-china-pacific-islands-trump-ai-video/
+---
+[Foreign_Policy] Why the United States Should Recognize Somaliland
+Published: 2026-09-04T15:44:28+00:00
+Link: https://foreignpolicy.com/2026/09/04/somaliland-somalia-iran-houthis-united-states-israel/
+---
+[Foreign_Policy] Soccer’s Favorite Strongman
+Published: 2026-09-04T15:39:27+00:00
+Link: https://foreignpolicy.com/2026/09/04/mourinho-netflix-documentary-soccer-football-authoritarian/
+---
 [Foreign_Policy] Venezuelans Aren’t Happy With the U.S. Oil Deal
 Published: 2026-09-04T12:00:12+00:00
 Link: https://foreignpolicy.com/2026/09/04/us-venezuela-oil-trump-rodriguez-oligarchs-colonialism-democracy/
+---
+[Foreign_Affairs] Avoiding the Next Famine
+Published: 2026-09-04T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/avoiding-next-famine
 ---
 [Foreign_Affairs] How to Avoid the Next Famine
 Published: 2026-09-04T04:00:00+00:00
@@ -100,16 +116,4 @@ Link: https://foreignpolicy.com/2026/09/01/trump-venezuela-united-states-oil-dea
 [Foreign_Policy] Nepal Pays the Price for Climate Change
 Published: 2026-09-01T20:33:11+00:00
 Link: https://foreignpolicy.com/2026/09/01/climate-nepal-floods-china-india/
----
-[Foreign_Policy] Cognitive Dissonance Dominates Hormuz
-Published: 2026-09-01T15:56:38+00:00
-Link: https://foreignpolicy.com/2026/09/01/hormuz-trump-iran-oil-greenland-reality/
----
-[Foreign_Policy] Welcome to the New Defense-Dominant World
-Published: 2026-09-01T14:18:54+00:00
-Link: https://foreignpolicy.com/2026/09/01/defense-dominant-theory-international-relations-military-power-ukraine-iran-war/
----
-[Foreign_Policy] Welcome to the New Defense-Dominant World
-Published: 2026-09-01T14:18:54+00:00
-Link: https://foreignpolicy.com/2026/09/01/welcome-to-the-new-defense-dominant-world/
 ---
