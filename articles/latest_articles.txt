@@ -1,6 +1,26 @@
-# Last Run: 2026-09-04 18:54 UTC
+# Last Run: 2026-09-04 22:13 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Milei Renews Argentina’s Falklands Push
+Published: 2026-09-04T20:53:25+00:00
+Link: https://foreignpolicy.com/2026/09/04/argentina-falkland-islands-milei-malvinas-oil-drilling-britain-trump/
+---
+[Foreign_Policy] What Was the War on Terror?
+Published: 2026-09-04T19:00:06+00:00
+Link: https://foreignpolicy.com/2026/09/04/war-on-terror-bush-obama-iraq-afghanistan-al-qaeda-history/
+---
+[Foreign_Policy] The Conservative Case for International Law
+Published: 2026-09-04T18:40:12+00:00
+Link: https://foreignpolicy.com/2026/09/04/conservative-case-for-international-law/
+---
+[Foreign_Policy] The Novel Imagining Life After a Second Civil War
+Published: 2026-09-04T18:30:39+00:00
+Link: https://foreignpolicy.com/2026/09/04/international-fiction-releases-emily-st-john-mandel-exit-party-ben-eastham-floating-world/
+---
+[Foreign_Policy] What 6 Different Versions of This Sex Comedy Say About the Countries That Made Them
+Published: 2026-09-04T18:00:06+00:00
+Link: https://foreignpolicy.com/2026/09/04/review-the-invite-film-international-versions/
+---
 [Foreign_Policy] What in the World?
 Published: 2026-09-04T16:57:13+00:00
 Link: https://foreignpolicy.com/2026/09/04/news-quiz-iceland-vote-china-pacific-islands-trump-ai-video/
@@ -104,16 +124,4 @@ Link: https://www.foreignaffairs.com/israel/can-israel-end-its-forever-wars
 [Foreign_Policy] Nepal’s Deadly Floods Put China and India on Edge
 Published: 2026-09-01T22:17:34+00:00
 Link: https://foreignpolicy.com/2026/09/01/nepal-tibet-floods-china-india-disaster-response-border-dispute/
----
-[Foreign_Policy] Moscow’s Moment of Global Summitry
-Published: 2026-09-01T21:44:09+00:00
-Link: https://foreignpolicy.com/2026/09/01/russia-g20-finance-putin-sco-summit-iran-bishkek-declaration-eef/
----
-[Foreign_Policy] Trump’s Venezuela Oil Deal Is a Farce
-Published: 2026-09-01T21:29:57+00:00
-Link: https://foreignpolicy.com/2026/09/01/trump-venezuela-united-states-oil-deal-gas-prices/
----
-[Foreign_Policy] Nepal Pays the Price for Climate Change
-Published: 2026-09-01T20:33:11+00:00
-Link: https://foreignpolicy.com/2026/09/01/climate-nepal-floods-china-india/
 ---
