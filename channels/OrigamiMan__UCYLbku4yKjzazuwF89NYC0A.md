@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-09-04T13:24:01Z_
+_آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-09-05 10:00:38 (UTC)  
+  **مدت:** حدود 51.2 دقیقه  
+  **عنوان:** [42,TRIHORN DRAGON | 60cm Blue Washi Origami | Silent Origamiトライホーン・ドラゴン｜60cmの青い和紙で折る【無言の折り紙】](https://www.youtube.com/watch?v=p_p8sm32hPA)  
+  ![](https://i.ytimg.com/vi/p_p8sm32hPA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-29 10:00:06 (UTC)  

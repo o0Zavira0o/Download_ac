@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-04T13:24:01Z_
+_آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-05 09:28:53 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Die Einbürgerungszeremonie #easygermanpodcast #einbürgerung #deutschland #deutschlernen](https://www.youtube.com/watch?v=D8RNkVTNTD0)  
+  ![](https://i.ytimg.com/vi/D8RNkVTNTD0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-04 09:06:35 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-04T13:24:01Z_
   **مدت:** حدود 3.0 دقیقه  
   **عنوان:** [Talking About the Weather in German (For Beginners)](https://www.youtube.com/watch?v=RvcmpwHG1eQ)  
   ![](https://i.ytimg.com/vi/RvcmpwHG1eQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-15 18:16:46 (UTC)  
-  **مدت:** حدود 9.4 دقیقه  
-  **عنوان:** [Sick at home | Easy German 178](https://www.youtube.com/watch?v=Z9jgqeii-ak)  
-  ![](https://i.ytimg.com/vi/Z9jgqeii-ak/hqdefault.jpg)

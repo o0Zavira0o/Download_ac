@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-04T13:24:01Z_
+_آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-04 14:00:05 (UTC)  
+  **مدت:** حدود 11.5 دقیقه  
+  **عنوان:** [다꾸 ASMR 아트 미니🎀 다이어리 꾸미기 | 스탬프 꾸미기 Journaling Stamping コラージュ](https://www.youtube.com/watch?v=6HhywievzPk)  
+  ![](https://i.ytimg.com/vi/6HhywievzPk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-03 13:00:23 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-04T13:24:01Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [Cake paper unboxing🎂 #journal #journaling #keepajournal](https://www.youtube.com/watch?v=nZlApa51BoQ)  
   ![](https://i.ytimg.com/vi/nZlApa51BoQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-20 11:05:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Journal Art #journal #journaling #asmrsounds](https://www.youtube.com/watch?v=nZIz1ldnS8c)  
-  ![](https://i.ytimg.com/vi/nZIz1ldnS8c/hqdefault.jpg)

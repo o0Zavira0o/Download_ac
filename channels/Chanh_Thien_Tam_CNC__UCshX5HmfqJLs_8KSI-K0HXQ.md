@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Chanh Thien Tam CNC
 
-_آخرین به‌روزرسانی: 2026-09-04T13:24:01Z_
+_آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
 
 
 **لینک استاندارد کانال:** [Chanh Thien Tam CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
@@ -391,7 +391,7 @@ _آخرین به‌روزرسانی: 2026-09-04T13:24:01Z_
 
 
 - **تاریخ انتشار:** 2026-05-22 01:04:11 (UTC)  
-  **مدت:** حدود 5.2 دقیقه  
+  **مدت:** حدود 5.3 دقیقه  
   **عنوان:** [Phay 4 trục mastercam pro](https://www.youtube.com/watch?v=nJxuXM28gbA)  
   ![](https://i.ytimg.com/vi/nJxuXM28gbA/hqdefault.jpg)
 

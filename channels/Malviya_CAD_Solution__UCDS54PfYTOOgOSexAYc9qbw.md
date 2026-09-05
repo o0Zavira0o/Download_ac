@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-09-04T13:24:01Z_
+_آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-09-04 17:22:13 (UTC)  
+  **مدت:** حدود 15.7 دقیقه  
+  **عنوان:** [Design of Ring Spanner in Solidworks | Spanner size 55mm](https://www.youtube.com/watch?v=0XbCGocJ5nI)  
+  ![](https://i.ytimg.com/vi/0XbCGocJ5nI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-02 03:30:01 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-04T13:24:01Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Advanced surface modelling in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=q0yNR47hTv4)  
   ![](https://i.ytimg.com/vi/q0yNR47hTv4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-22 03:04:00 (UTC)  
-  **مدت:** حدود 19.8 دقیقه  
-  **عنوان:** [Solidworks advanced screw driver | Solidworks advance surface tutorial](https://www.youtube.com/watch?v=6cRwzdlUkAM)  
-  ![](https://i.ytimg.com/vi/6cRwzdlUkAM/hqdefault.jpg)
