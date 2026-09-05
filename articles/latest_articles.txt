@@ -1,4 +1,4 @@
-# Last Run: 2026-09-05 20:04 UTC
+# Last Run: 2026-09-05 23:39 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Milei Renews Argentina’s Falklands Push
@@ -92,12 +92,4 @@ Link: https://www.foreignaffairs.com/iran/case-stalemate-iran
 [Foreign_Affairs] The End of American Sanctuary
 Published: 2026-09-03T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/end-american-sanctuary
----
-[Foreign_Policy] Iran Accuses U.S. Military of a War Crime
-Published: 2026-09-02T21:43:18+00:00
-Link: https://foreignpolicy.com/2026/09/02/iran-war-crime-us-strike-wedding-renewed-fighting/
----
-[Foreign_Policy] Nepal’s Disaster Demands a Regional Response
-Published: 2026-09-02T21:39:59+00:00
-Link: https://foreignpolicy.com/2026/09/02/nepal-floods-disaster-regional-cooperation-climate/
 ---
