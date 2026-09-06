@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
+_آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,7 +10,7 @@ _آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
 
 - **تاریخ انتشار:** 2026-08-30 13:30:36 (UTC)  
   **مدت:** حدود 13.3 دقیقه  
-  **عنوان:** [Why You Store Fat Here, And How To Get Rid Of It](https://www.youtube.com/watch?v=rbfRHab777Q)  
+  **عنوان:** [How To Burn Off Every Type Of Fat (Using Science)](https://www.youtube.com/watch?v=rbfRHab777Q)  
   ![](https://i.ytimg.com/vi/rbfRHab777Q/hqdefault.jpg)
 
 

@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
+_آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-06 12:20:07 (UTC)  
+  **مدت:** حدود 9.3 دقیقه  
+  **عنوان:** [다꾸 ASMR 빈티지 3공 다이어리 꾸미기 | Vintage Journaling Paper Therapy](https://www.youtube.com/watch?v=6ufeQvvvQ18)  
+  ![](https://i.ytimg.com/vi/6ufeQvvvQ18/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-04 14:00:05 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
   **مدت:** حدود 0.4 دقیقه  
   **عنوان:** [schedule decoration #journal #journaling #1d1p #md1d1p #keepajournal](https://www.youtube.com/watch?v=hlEh-ouAP5s)  
   ![](https://i.ytimg.com/vi/hlEh-ouAP5s/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-21 11:56:00 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Cake paper unboxing🎂 #journal #journaling #keepajournal](https://www.youtube.com/watch?v=nZlApa51BoQ)  
-  ![](https://i.ytimg.com/vi/nZlApa51BoQ/hqdefault.jpg)

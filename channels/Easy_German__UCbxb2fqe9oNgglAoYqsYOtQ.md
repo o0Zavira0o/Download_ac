@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
+_آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -266,7 +266,7 @@ _آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
 
 - **تاریخ انتشار:** 2026-07-21 17:00:32 (UTC)  
   **مدت:** حدود 33.1 دقیقه  
-  **عنوان:** [Ugly vs. Beautiful German Words (live from Köln)](https://www.youtube.com/watch?v=omfb5tjFSIM)  
+  **عنوان:** [Ugly vs. Beautiful German Words (Easy German Podcast from Köln)](https://www.youtube.com/watch?v=omfb5tjFSIM)  
   ![](https://i.ytimg.com/vi/omfb5tjFSIM/hqdefault.jpg)
 
 

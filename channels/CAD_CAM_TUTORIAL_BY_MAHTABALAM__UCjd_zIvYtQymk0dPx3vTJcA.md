@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
+_آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-06 03:30:32 (UTC)  
+  **مدت:** حدود 24.6 دقیقه  
+  **عنوان:** [Fastening Feature Mounting Boss and Lip-Groove in SolidWorks](https://www.youtube.com/watch?v=-TnB2L0bwFQ)  
+  ![](https://i.ytimg.com/vi/-TnB2L0bwFQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-04 03:30:02 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-05T12:33:57Z_
   **مدت:** حدود 21.3 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Crown wheel and Pinion mechanism in Solidworks](https://www.youtube.com/watch?v=cPQ24zED4NY)  
   ![](https://i.ytimg.com/vi/cPQ24zED4NY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-12 13:40:17 (UTC)  
-  **مدت:** حدود 20.9 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch toy animation in Solidworks](https://www.youtube.com/watch?v=8f7uMAILkH0)  
-  ![](https://i.ytimg.com/vi/8f7uMAILkH0/hqdefault.jpg)
