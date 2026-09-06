@@ -1,4 +1,4 @@
-# Last Run: 2026-09-06 03:23 UTC
+# Last Run: 2026-09-06 08:35 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Milei Renews Argentina’s Falklands Push
@@ -84,12 +84,4 @@ Link: https://foreignpolicy.com/2026/09/03/ukraine-war-zelensky-corrupton-scanda
 [New_Yorker_Magazine] Seeing It All Hang Out at the Fringe
 Published: 2026-09-03T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/09/14/edinburghs-fringe-festival-theatre-review
----
-[Foreign_Affairs] The Case for a Stalemate With Iran
-Published: 2026-09-03T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/case-stalemate-iran
----
-[Foreign_Affairs] The End of American Sanctuary
-Published: 2026-09-03T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/end-american-sanctuary
 ---
