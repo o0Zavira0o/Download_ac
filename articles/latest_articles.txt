@@ -1,4 +1,4 @@
-# Last Run: 2026-09-06 08:35 UTC
+# Last Run: 2026-09-06 13:31 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Milei Renews Argentina’s Falklands Push
@@ -72,16 +72,4 @@ Link: https://foreignpolicy.com/2026/09/03/china-iran-economy-sanctions-trade-tr
 [Foreign_Policy] Turkey’s Kurdish Peace Process Is Not About Erdogan
 Published: 2026-09-03T14:53:40+00:00
 Link: https://foreignpolicy.com/2026/09/03/turkey-erdogan-israel-ocalan-kurds-peace-israel-iran-syria/
----
-[Foreign_Policy] Would Another War Help Netanyahu Win Reelection?
-Published: 2026-09-03T11:24:51+00:00
-Link: https://foreignpolicy.com/2026/09/03/israel-war-netanyahu-turkey-gaza-west-bank-election/
----
-[Foreign_Policy] Ukraine’s Mood Swing
-Published: 2026-09-03T10:00:08+00:00
-Link: https://foreignpolicy.com/2026/09/03/ukraine-war-zelensky-corrupton-scandal-cabinet-election/
----
-[New_Yorker_Magazine] Seeing It All Hang Out at the Fringe
-Published: 2026-09-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/14/edinburghs-fringe-festival-theatre-review
 ---
