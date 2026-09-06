@@ -1,4 +1,4 @@
-# Last Run: 2026-09-06 13:31 UTC
+# Last Run: 2026-09-06 16:47 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Milei Renews Argentina’s Falklands Push
@@ -64,12 +64,4 @@ Link: https://foreignpolicy.com/2026/09/03/ucc-gold-mining-venezuela/
 [Foreign_Policy] The Fallout of Russia’s Failed Drone Attack on Germany
 Published: 2026-09-03T20:01:07+00:00
 Link: https://foreignpolicy.com/2026/09/03/russia-failed-drone-attack-germany-leipzig-airport-eu-nato/
----
-[Foreign_Policy] China Isn’t Scared of Trump’s Squeeze on Iran
-Published: 2026-09-03T14:58:17+00:00
-Link: https://foreignpolicy.com/2026/09/03/china-iran-economy-sanctions-trade-trump-bessent/
----
-[Foreign_Policy] Turkey’s Kurdish Peace Process Is Not About Erdogan
-Published: 2026-09-03T14:53:40+00:00
-Link: https://foreignpolicy.com/2026/09/03/turkey-erdogan-israel-ocalan-kurds-peace-israel-iran-syria/
 ---
