@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
+_آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-09-07 12:41:36 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Master 3D Piping in seconds!  #nanocad #drafting #3dmodeling #3Dpipe #PipeDesign](https://www.youtube.com/watch?v=M56d_rySbGw)  
+  ![](https://i.ytimg.com/vi/M56d_rySbGw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-19 21:00:33 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
   **مدت:** حدود 5.1 دقیقه  
   **عنوان:** [Trimming and Breaking Objects - Lesson 15](https://www.youtube.com/watch?v=wG3IJ5XyjEU)  
   ![](https://i.ytimg.com/vi/wG3IJ5XyjEU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-02-04 12:24:29 (UTC)  
-  **مدت:** حدود 4.7 دقیقه  
-  **عنوان:** [Making Mirrored Copies - Lesson 14](https://www.youtube.com/watch?v=z1gQwjkC9R8)  
-  ![](https://i.ytimg.com/vi/z1gQwjkC9R8/hqdefault.jpg)

@@ -1,15 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
+_آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
 
 
-- **تاریخ انتشار:** 2026-09-04 06:40:37 (UTC)  
+- **تاریخ انتشار:** 2026-09-07 02:30:19 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [The Ultimate Engineering Connection 🔩 #shorts #jlcmc](https://www.youtube.com/watch?v=MH03mVXVc3w)  
-  ![](https://i.ytimg.com/vi/MH03mVXVc3w/hqdefault.jpg)
+  **عنوان:** [The Ultimate Engineering Connection 🔩 #jlcmc](https://www.youtube.com/watch?v=ZlLgYzOPIvs)  
+  ![](https://i.ytimg.com/vi/ZlLgYzOPIvs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-03 13:29:26 (UTC)  

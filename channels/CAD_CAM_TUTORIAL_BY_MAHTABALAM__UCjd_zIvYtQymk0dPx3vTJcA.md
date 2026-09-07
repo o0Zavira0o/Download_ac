@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
+_آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-07 03:30:04 (UTC)  
+  **مدت:** حدود 60.8 دقیقه  
+  **عنوان:** [Mechanical Gripper Parts and Assembly in SolidWorks](https://www.youtube.com/watch?v=iRUFgEmNPKw)  
+  ![](https://i.ytimg.com/vi/iRUFgEmNPKw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-06 03:30:32 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
   **مدت:** حدود 271.5 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Tractor in Solidworks | Solidworks](https://www.youtube.com/watch?v=ynomyl-N6bc)  
   ![](https://i.ytimg.com/vi/ynomyl-N6bc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-14 22:31:17 (UTC)  
-  **مدت:** حدود 21.3 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Crown wheel and Pinion mechanism in Solidworks](https://www.youtube.com/watch?v=cPQ24zED4NY)  
-  ![](https://i.ytimg.com/vi/cPQ24zED4NY/hqdefault.jpg)

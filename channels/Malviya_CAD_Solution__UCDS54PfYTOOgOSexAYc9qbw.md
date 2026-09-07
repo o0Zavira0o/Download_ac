@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
+_آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-09-07 06:03:10 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [Amazing 3 solidworks tips #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=hVNDkeMTL6c)  
+  ![](https://i.ytimg.com/vi/hVNDkeMTL6c/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-04 17:22:13 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
   **مدت:** حدود 2.9 دقیقه  
   **عنوان:** [Wooden Screw design in solidworks #ytshorts #shorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=mTKQUh5F6r4)  
   ![](https://i.ytimg.com/vi/mTKQUh5F6r4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-23 16:36:57 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Advanced surface modelling in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=q0yNR47hTv4)  
-  ![](https://i.ytimg.com/vi/q0yNR47hTv4/hqdefault.jpg)

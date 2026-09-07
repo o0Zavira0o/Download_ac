@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
+_آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-07 10:33:08 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Schöne Erlebnisse bei Ausflügen](https://www.youtube.com/watch?v=l6byBZIVJlc)  
+  ![](https://i.ytimg.com/vi/l6byBZIVJlc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-06 17:00:04 (UTC)  
+  **مدت:** حدود 14.2 دقیقه  
+  **عنوان:** [Germans Describe Their Best Friend (B1 Listening Comprehension)](https://www.youtube.com/watch?v=zI8IEutHHD4)  
+  ![](https://i.ytimg.com/vi/zI8IEutHHD4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-05 09:28:53 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-06T12:48:29Z_
   **مدت:** حدود 2.6 دقیقه  
   **عنوان:** [NOMINATIVE WITH ADJECTIVES | Super Easy German (15)](https://www.youtube.com/watch?v=m03Q69mUth4)  
   ![](https://i.ytimg.com/vi/m03Q69mUth4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-22 18:21:19 (UTC)  
-  **مدت:** حدود 9.9 دقیقه  
-  **عنوان:** [Favourite Food | Easy German 179](https://www.youtube.com/watch?v=02dMPaakue8)  
-  ![](https://i.ytimg.com/vi/02dMPaakue8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-18 23:05:45 (UTC)  
-  **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [Talking About the Weather in German (For Beginners)](https://www.youtube.com/watch?v=RvcmpwHG1eQ)  
-  ![](https://i.ytimg.com/vi/RvcmpwHG1eQ/hqdefault.jpg)
