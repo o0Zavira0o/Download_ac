@@ -1,6 +1,34 @@
-# Last Run: 2026-09-07 03:22 UTC
+# Last Run: 2026-09-07 09:07 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] 25 Years After 9/11, What Are We Failing to Imagine Now?
+Published: 2026-09-07T04:28:40+00:00
+Link: https://foreignpolicy.com/2026/09/07/9-11-failure-of-imagination-new-terrorist-technologies/
+---
+[Foreign_Affairs] The Emerging U.S.-China Détente
+Published: 2026-09-07T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/emerging-us-china-detente
+---
+[New_Yorker_Magazine] “New Shoes,” by Hisham Matar
+Published: 2026-09-06T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/14/new-shoes-fiction-hisham-matar
+---
+[New_Yorker_Magazine] “Worst,” by Dorothea Lasky
+Published: 2026-09-06T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/14/worst-dorothea-lasky-poem
+---
+[New_Yorker_Magazine] “Ode to Being Born with Teeth and Sharpening Them Every Day,” by Barbara Hamby
+Published: 2026-09-06T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/14/ode-to-being-born-with-teeth-and-sharpening-them-every-day-barbara-hamby-poem
+---
+[New_Yorker_Magazine] 9/11 at Twenty-Five
+Published: 2026-09-06T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/14/the-america-that-9-11-made
+---
+[New_Yorker_Magazine] The Anti-A.I.-Ad Ad Campaign
+Published: 2026-09-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/14/the-anti-ai-ad-ad-campaign
+---
 [Foreign_Policy] Milei Renews Argentina’s Falklands Push
 Published: 2026-09-04T20:53:25+00:00
 Link: https://foreignpolicy.com/2026/09/04/argentina-falkland-islands-milei-malvinas-oil-drilling-britain-trump/
@@ -37,15 +65,11 @@ Link: https://foreignpolicy.com/2026/09/04/mourinho-netflix-documentary-soccer-f
 Published: 2026-09-04T12:00:12+00:00
 Link: https://foreignpolicy.com/2026/09/04/us-venezuela-oil-trump-rodriguez-oligarchs-colonialism-democracy/
 ---
-[Foreign_Affairs] Avoiding the Next Famine
-Published: 2026-09-04T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/avoiding-next-famine
+[New_Yorker_Magazine] Donald Trump’s Capital Makeover
+Published: 2026-09-04T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/14/donald-trumps-capital-makeover
 ---
-[Foreign_Affairs] How to Avoid the Next Famine
-Published: 2026-09-04T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/how-avoid-next-famine
----
-[Foreign_Affairs] How Taiwan Can Win the Strait
-Published: 2026-09-04T04:00:00+00:00
-Link: https://www.foreignaffairs.com/taiwan/how-taiwan-can-win-strait
+[New_Yorker_Magazine] The Blockbuster Audacity of “Hope”
+Published: 2026-09-04T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/14/hope-movie-review
 ---
