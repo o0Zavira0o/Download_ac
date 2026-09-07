@@ -1,4 +1,4 @@
-# Last Run: 2026-09-07 19:41 UTC
+# Last Run: 2026-09-07 22:37 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] 25 Years After 9/11, What Are We Failing to Imagine Now?
@@ -28,8 +28,4 @@ Link: https://www.newyorker.com/magazine/2026/09/14/the-america-that-9-11-made
 [New_Yorker_Magazine] The Anti-A.I.-Ad Ad Campaign
 Published: 2026-09-05T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/09/14/the-anti-ai-ad-ad-campaign
----
-[Foreign_Policy] Milei Renews Argentina’s Falklands Push
-Published: 2026-09-04T20:53:25+00:00
-Link: https://foreignpolicy.com/2026/09/04/argentina-falkland-islands-milei-malvinas-oil-drilling-britain-trump/
 ---
