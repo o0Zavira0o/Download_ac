@@ -1,4 +1,4 @@
-# Last Run: 2026-09-07 15:35 UTC
+# Last Run: 2026-09-07 19:41 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] 25 Years After 9/11, What Are We Failing to Imagine Now?
@@ -32,32 +32,4 @@ Link: https://www.newyorker.com/magazine/2026/09/14/the-anti-ai-ad-ad-campaign
 [Foreign_Policy] Milei Renews Argentina’s Falklands Push
 Published: 2026-09-04T20:53:25+00:00
 Link: https://foreignpolicy.com/2026/09/04/argentina-falkland-islands-milei-malvinas-oil-drilling-britain-trump/
----
-[Foreign_Policy] What Was the War on Terror?
-Published: 2026-09-04T19:00:06+00:00
-Link: https://foreignpolicy.com/2026/09/04/war-on-terror-bush-obama-iraq-afghanistan-al-qaeda-history/
----
-[Foreign_Policy] The Conservative Case for International Law
-Published: 2026-09-04T18:40:12+00:00
-Link: https://foreignpolicy.com/2026/09/04/conservative-case-for-international-law/
----
-[Foreign_Policy] The Novel Imagining Life After a Second Civil War
-Published: 2026-09-04T18:30:39+00:00
-Link: https://foreignpolicy.com/2026/09/04/international-fiction-releases-emily-st-john-mandel-exit-party-ben-eastham-floating-world/
----
-[Foreign_Policy] What 6 Different Versions of This Sex Comedy Say About the Countries That Made Them
-Published: 2026-09-04T18:00:06+00:00
-Link: https://foreignpolicy.com/2026/09/04/review-the-invite-film-international-versions/
----
-[Foreign_Policy] What in the World?
-Published: 2026-09-04T16:57:13+00:00
-Link: https://foreignpolicy.com/2026/09/04/news-quiz-iceland-vote-china-pacific-islands-trump-ai-video/
----
-[Foreign_Policy] Why the United States Should Recognize Somaliland
-Published: 2026-09-04T15:44:28+00:00
-Link: https://foreignpolicy.com/2026/09/04/somaliland-somalia-iran-houthis-united-states-israel/
----
-[Foreign_Policy] Soccer’s Favorite Strongman
-Published: 2026-09-04T15:39:27+00:00
-Link: https://foreignpolicy.com/2026/09/04/mourinho-netflix-documentary-soccer-football-authoritarian/
 ---
