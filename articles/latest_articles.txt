@@ -1,4 +1,4 @@
-# Last Run: 2026-09-07 09:07 UTC
+# Last Run: 2026-09-07 15:35 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] 25 Years After 9/11, What Are We Failing to Imagine Now?
@@ -60,16 +60,4 @@ Link: https://foreignpolicy.com/2026/09/04/somaliland-somalia-iran-houthis-unite
 [Foreign_Policy] Soccer’s Favorite Strongman
 Published: 2026-09-04T15:39:27+00:00
 Link: https://foreignpolicy.com/2026/09/04/mourinho-netflix-documentary-soccer-football-authoritarian/
----
-[Foreign_Policy] Venezuelans Aren’t Happy With the U.S. Oil Deal
-Published: 2026-09-04T12:00:12+00:00
-Link: https://foreignpolicy.com/2026/09/04/us-venezuela-oil-trump-rodriguez-oligarchs-colonialism-democracy/
----
-[New_Yorker_Magazine] Donald Trump’s Capital Makeover
-Published: 2026-09-04T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/14/donald-trumps-capital-makeover
----
-[New_Yorker_Magazine] The Blockbuster Audacity of “Hope”
-Published: 2026-09-04T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/14/hope-movie-review
 ---
