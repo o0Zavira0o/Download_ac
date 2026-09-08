@@ -1,6 +1,22 @@
-# Last Run: 2026-09-08 08:53 UTC
+# Last Run: 2026-09-08 14:15 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] South Korea Should Help Defend Ukraine’s Skies
+Published: 2026-09-08T13:15:03+00:00
+Link: https://foreignpolicy.com/2026/09/08/russia-ukraine-war-south-korea-air-defense-interceptors/
+---
+[Foreign_Policy] The U.S. and China Don’t Need an AI Grand Bargain
+Published: 2026-09-08T13:01:11+00:00
+Link: https://foreignpolicy.com/2026/09/08/us-china-ai-negotiations-safety-governance-trump-xi-summit/
+---
+[Foreign_Policy] The World’s Only Real Hope of Maintaining Order
+Published: 2026-09-08T10:00:10+00:00
+Link: https://foreignpolicy.com/2026/09/08/charles-kupchan-global-order-international-organizations-concert-system/
+---
+[Foreign_Policy] Iran’s Proxy Strategy Is Never Coming Back
+Published: 2026-09-08T08:53:09+00:00
+Link: https://foreignpolicy.com/2026/09/08/irans-proxy-strategy-hezbollah-lebanon-iraq/
+---
 [Foreign_Policy] The Republican Origins of Medicare for All
 Published: 2026-09-08T04:01:45+00:00
 Link: https://foreignpolicy.com/2026/09/08/republican-origins-medicare-for-all/
@@ -36,8 +52,4 @@ Link: https://www.newyorker.com/magazine/2026/09/14/ode-to-being-born-with-teeth
 [New_Yorker_Magazine] 9/11 at Twenty-Five
 Published: 2026-09-06T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/09/14/the-america-that-9-11-made
----
-[New_Yorker_Magazine] The Anti-A.I.-Ad Ad Campaign
-Published: 2026-09-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/14/the-anti-ai-ad-ad-campaign
 ---
