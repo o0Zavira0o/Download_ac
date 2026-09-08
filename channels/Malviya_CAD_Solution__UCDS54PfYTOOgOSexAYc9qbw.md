@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
+_آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-09-07 16:38:16 (UTC)  
+  **مدت:** حدود 4.8 دقیقه  
+  **عنوان:** [Introducing EDRAW MAX by Wondershare | Floor plan in EDRAWMAX](https://www.youtube.com/watch?v=AAOCRv8ykcc)  
+  ![](https://i.ytimg.com/vi/AAOCRv8ykcc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-07 06:03:10 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
   **مدت:** حدود 2.9 دقیقه  
   **عنوان:** [Solidworks chain modelling #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=Ef3mIeWcQxI)  
   ![](https://i.ytimg.com/vi/Ef3mIeWcQxI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-24 02:59:14 (UTC)  
-  **مدت:** حدود 2.9 دقیقه  
-  **عنوان:** [Wooden Screw design in solidworks #ytshorts #shorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=mTKQUh5F6r4)  
-  ![](https://i.ytimg.com/vi/mTKQUh5F6r4/hqdefault.jpg)

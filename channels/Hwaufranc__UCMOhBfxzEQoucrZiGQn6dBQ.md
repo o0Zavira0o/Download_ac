@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
+_آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-08 13:20:00 (UTC)  
+  **مدت:** حدود 8.6 دقیقه  
+  **عنوان:** [ASMR 다이어리 꾸미기 아이템 언박싱🛍하고 정리하기 | 다꾸 하울 Journal Stationery Organize Unboxing](https://www.youtube.com/watch?v=-K4PRBSNZFo)  
+  ![](https://i.ytimg.com/vi/-K4PRBSNZFo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-07 12:00:14 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [Immersive Journaling #asmrsounds #shorts](https://www.youtube.com/watch?v=ZRgyMeBRXHU)  
   ![](https://i.ytimg.com/vi/ZRgyMeBRXHU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-22 11:35:01 (UTC)  
-  **مدت:** حدود 309.7 دقیقه  
-  **عنوان:** [World's Longest Journal Video | Journaling 5 Hours](https://www.youtube.com/watch?v=xERPdwFLJcM)  
-  ![](https://i.ytimg.com/vi/xERPdwFLJcM/hqdefault.jpg)

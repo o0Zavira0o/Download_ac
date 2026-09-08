@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
+_آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -112,7 +112,7 @@ _آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
 
 - **تاریخ انتشار:** 2026-01-03 15:00:51 (UTC)  
   **مدت:** حدود 20.7 دقیقه  
-  **عنوان:** [If I Wanted to Lose Belly Fat By Summer, I'd Do This](https://www.youtube.com/watch?v=QyCFeB8mBz8)  
+  **عنوان:** [If I Wanted to Get Shredded By Christmas, I'd Do This](https://www.youtube.com/watch?v=QyCFeB8mBz8)  
   ![](https://i.ytimg.com/vi/QyCFeB8mBz8/hqdefault.jpg)
 
 

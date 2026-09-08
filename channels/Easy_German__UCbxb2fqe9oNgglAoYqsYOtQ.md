@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
+_آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-08 09:37:50 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Wie hast du jemanden im echten Leben kennengelernt? #easygerman #deutschlernen #deutschesprache](https://www.youtube.com/watch?v=rZDHRk7T8a8)  
+  ![](https://i.ytimg.com/vi/rZDHRk7T8a8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-07 10:33:08 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
   **مدت:** حدود 15.6 دقیقه  
   **عنوان:** [Cari antwortet (43) - Easy German Tour in Polen | Verben mit Präfixen | Easy German bei Memrise](https://www.youtube.com/watch?v=4Uv57iyQo_0)  
   ![](https://i.ytimg.com/vi/4Uv57iyQo_0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-25 17:34:21 (UTC)  
-  **مدت:** حدود 2.6 دقیقه  
-  **عنوان:** [NOMINATIVE WITH ADJECTIVES | Super Easy German (15)](https://www.youtube.com/watch?v=m03Q69mUth4)  
-  ![](https://i.ytimg.com/vi/m03Q69mUth4/hqdefault.jpg)

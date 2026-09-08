@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
+_آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-08 12:06:00 (UTC)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [SOLIDWORKS Sheet Metal Tutorial | Design This Amazing Mechanical Elephant Step-by-Step](https://www.youtube.com/watch?v=3Ou1BS3yMvE)  
+  ![](https://i.ytimg.com/vi/3Ou1BS3yMvE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-07 02:30:19 (UTC)  
@@ -122,7 +128,7 @@ _آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
 
 - **تاریخ انتشار:** 2026-08-16 14:35:02 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Dual-Linkage Robotic End-Effector Design](https://www.youtube.com/watch?v=lvwKfRMQP4M)  
+  **عنوان:** [Perfectly Balanced Mechanical Claw Mechanism #mechanism #engineering #robotics](https://www.youtube.com/watch?v=lvwKfRMQP4M)  
   ![](https://i.ytimg.com/vi/lvwKfRMQP4M/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [4-Cylinder Engine Working Animation](https://www.youtube.com/watch?v=1boNwvn7CoM)  
   ![](https://i.ytimg.com/vi/1boNwvn7CoM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-05 12:15:49 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅The Art of Power Transmission Mechanisms❓](https://www.youtube.com/watch?v=7-cf3Loxjmw)  
-  ![](https://i.ytimg.com/vi/7-cf3Loxjmw/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
+_آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-09-08 12:45:08 (UTC)  
+  **مدت:** حدود 12.2 دقیقه  
+  **عنوان:** [From 3D Model to Full Drawing Set | CAD Documentation Workflow - nanoCAD 3D Modeling -  Lesson 16](https://www.youtube.com/watch?v=QXLPQwz3ghk)  
+  ![](https://i.ytimg.com/vi/QXLPQwz3ghk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-07 12:41:36 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-07T14:58:58Z_
   **مدت:** حدود 4.5 دقیقه  
   **عنوان:** [Filleting and Chamfering Objects - Lesson 16](https://www.youtube.com/watch?v=HETjrvBloGw)  
   ![](https://i.ytimg.com/vi/HETjrvBloGw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-02-14 06:43:45 (UTC)  
-  **مدت:** حدود 5.1 دقیقه  
-  **عنوان:** [Trimming and Breaking Objects - Lesson 15](https://www.youtube.com/watch?v=wG3IJ5XyjEU)  
-  ![](https://i.ytimg.com/vi/wG3IJ5XyjEU/hqdefault.jpg)
