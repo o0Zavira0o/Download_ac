@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
+_آخرین به‌روزرسانی: 2026-09-09T13:38:40Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-08 15:42:50 (UTC)  
+  **مدت:** حدود 11.8 دقیقه  
+  **عنوان:** [Linear Pattern Vary Sketch feature in SolidWorks](https://www.youtube.com/watch?v=4ByR4QGE1jA)  
+  ![](https://i.ytimg.com/vi/4ByR4QGE1jA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-07 03:30:04 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
   **مدت:** حدود 11.8 دقیقه  
   **عنوان:** [Graphics Card for SolidWorks (for Realview)](https://www.youtube.com/watch?v=L8jalVh23do)  
   ![](https://i.ytimg.com/vi/L8jalVh23do/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-23 08:39:13 (UTC)  
-  **مدت:** حدود 271.5 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Tractor in Solidworks | Solidworks](https://www.youtube.com/watch?v=ynomyl-N6bc)  
-  ![](https://i.ytimg.com/vi/ynomyl-N6bc/hqdefault.jpg)

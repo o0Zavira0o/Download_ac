@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
+_آخرین به‌روزرسانی: 2026-09-09T13:38:40Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-09 12:30:07 (UTC)  
+  **مدت:** حدود 5.4 دقیقه  
+  **عنوان:** [다꾸 ASMR 스탬프로 콜라주아트 다이어리 꾸미기 | Art Journaling Stamping コラージュ](https://www.youtube.com/watch?v=KEAE8y86MAE)  
+  ![](https://i.ytimg.com/vi/KEAE8y86MAE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-08 13:20:00 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
   **مدت:** حدود 9.8 دقیقه  
   **عنوان:** [Journal ASMR | Harry Potter theme 해리포터 다꾸 Scrapbook](https://www.youtube.com/watch?v=gy9QUFyD0-c)  
   ![](https://i.ytimg.com/vi/gy9QUFyD0-c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-22 14:58:00 (UTC)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Immersive Journaling #asmrsounds #shorts](https://www.youtube.com/watch?v=ZRgyMeBRXHU)  
-  ![](https://i.ytimg.com/vi/ZRgyMeBRXHU/hqdefault.jpg)

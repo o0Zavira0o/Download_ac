@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
+_آخرین به‌روزرسانی: 2026-09-09T13:38:40Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-09-09 11:00:33 (UTC)  
+  **مدت:** حدود 18.5 دقیقه  
+  **عنوان:** [【SolidWorks】產品練習：瓶子｜無工程圖｜零件畫組合件](https://www.youtube.com/watch?v=8CqqcwRkLC4)  
+  ![](https://i.ytimg.com/vi/8CqqcwRkLC4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-09 07:00:03 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [短片看建模：0909週三團練預告](https://www.youtube.com/watch?v=GqN7SkRnJBw)  
+  ![](https://i.ytimg.com/vi/GqN7SkRnJBw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-04 11:00:34 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
   **مدت:** حدود 0.4 دقیقه  
   **عنوان:** [短片看建模：Onshape管件步驟拆解](https://www.youtube.com/watch?v=ml5RdhUl7NM)  
   ![](https://i.ytimg.com/vi/ml5RdhUl7NM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-06-13 11:01:28 (UTC)  
-  **مدت:** حدود 16.6 دقیقه  
-  **عنوان:** [【onshape】產品練習：杯子｜用零件畫組合件｜不一樣的解決方案](https://www.youtube.com/watch?v=t0SlpTZsG5g)  
-  ![](https://i.ytimg.com/vi/t0SlpTZsG5g/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-06-11 11:01:07 (UTC)  
-  **مدت:** حدود 9.1 دقیقه  
-  **عنوان:** [【SolidWorks】移動複製練習｜一樣的東西｜畫一次就好](https://www.youtube.com/watch?v=dOPZqXM3Alc)  
-  ![](https://i.ytimg.com/vi/dOPZqXM3Alc/hqdefault.jpg)

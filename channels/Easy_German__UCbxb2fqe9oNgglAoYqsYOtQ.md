@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
+_آخرین به‌روزرسانی: 2026-09-09T13:38:40Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-09 10:15:53 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [Repräsentant der Menschheit #easygerman #deutschlernen #aliens](https://www.youtube.com/watch?v=jdYKRwhPH9M)  
+  ![](https://i.ytimg.com/vi/jdYKRwhPH9M/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-08 09:37:50 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-08T13:28:13Z_
   **مدت:** حدود 8.7 دقیقه  
   **عنوان:** [What kind of Europe do you want to live in? | Easy German 180](https://www.youtube.com/watch?v=tHDTHAZrOqE)  
   ![](https://i.ytimg.com/vi/tHDTHAZrOqE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-27 19:23:28 (UTC)  
-  **مدت:** حدود 15.6 دقیقه  
-  **عنوان:** [Cari antwortet (43) - Easy German Tour in Polen | Verben mit Präfixen | Easy German bei Memrise](https://www.youtube.com/watch?v=4Uv57iyQo_0)  
-  ![](https://i.ytimg.com/vi/4Uv57iyQo_0/hqdefault.jpg)
