@@ -1,6 +1,10 @@
-# Last Run: 2026-09-09 08:47 UTC
+# Last Run: 2026-09-09 14:19 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] German Democracy, as We Knew It, Is Over
+Published: 2026-09-09T08:37:47+00:00
+Link: https://foreignpolicy.com/2026/09/09/germany-afd-democracy-election-merz-cdu/
+---
 [Foreign_Policy] Southeast Asia’s Subtle Shift on Taiwan
 Published: 2026-09-09T05:00:26+00:00
 Link: https://foreignpolicy.com/2026/09/09/southeast-asia-brief-taiwan-china-stance/
@@ -20,6 +24,10 @@ Link: https://foreignpolicy.com/2026/09/09/global-economy-common-good-world-bank
 [Foreign_Policy] A New Engine of Development
 Published: 2026-09-09T04:01:35+00:00
 Link: https://foreignpolicy.com/2026/09/09/economic-development-global-south-over-growth-globalization-jobs-population-demographics-labor-force/
+---
+[Foreign_Affairs] How al-Qaeda Ended
+Published: 2026-09-09T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/sept-11-how-al-qaeda-ended
 ---
 [Foreign_Affairs] The Right Way to Sanction Russia
 Published: 2026-09-09T04:00:00+00:00
@@ -84,20 +92,4 @@ Link: https://foreignpolicy.com/2026/09/07/9-11-failure-of-imagination-new-terro
 [Foreign_Affairs] The Emerging U.S.-China Détente
 Published: 2026-09-07T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/emerging-us-china-detente
----
-[New_Yorker_Magazine] “New Shoes,” by Hisham Matar
-Published: 2026-09-06T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/14/new-shoes-fiction-hisham-matar
----
-[New_Yorker_Magazine] “Worst,” by Dorothea Lasky
-Published: 2026-09-06T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/14/worst-dorothea-lasky-poem
----
-[New_Yorker_Magazine] “Ode to Being Born with Teeth and Sharpening Them Every Day,” by Barbara Hamby
-Published: 2026-09-06T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/14/ode-to-being-born-with-teeth-and-sharpening-them-every-day-barbara-hamby-poem
----
-[New_Yorker_Magazine] 9/11 at Twenty-Five
-Published: 2026-09-06T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/14/the-america-that-9-11-made
 ---
