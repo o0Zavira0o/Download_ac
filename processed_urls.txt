@@ -820,6 +820,11 @@ https://foreignpolicy.com/2026/09/08/republican-origins-medicare-for-all/
 https://foreignpolicy.com/2026/09/08/russia-ukraine-war-south-korea-air-defense-interceptors/
 https://foreignpolicy.com/2026/09/08/us-china-ai-negotiations-safety-governance-trump-xi-summit/
 https://foreignpolicy.com/2026/09/08/yemen-houthi-strikes-saudi-arabia-oil-iran-bab-el-mandeb/
+https://foreignpolicy.com/2026/09/09/economic-development-global-south-over-growth-globalization-jobs-population-demographics-labor-force/
+https://foreignpolicy.com/2026/09/09/foreign-policy-fall-print-issue-2026-survival-guide-world-without-rules-liberal-international-order/
+https://foreignpolicy.com/2026/09/09/global-economy-common-good-world-bank-international-monetary-fund-rules-wealth-policy/
+https://foreignpolicy.com/2026/09/09/hal-brands-rules-based-order-great-power-politics-geopolitics/
+https://foreignpolicy.com/2026/09/09/southeast-asia-brief-taiwan-china-stance/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -872,6 +877,7 @@ https://www.foreignaffairs.com/europe/europe-goes-its-own-way
 https://www.foreignaffairs.com/europe/how-migration-helps-authoritarians
 https://www.foreignaffairs.com/europe/leave-europe-europeans
 https://www.foreignaffairs.com/europe/only-way-save-europe
+https://www.foreignaffairs.com/europe/right-way-sanction-russia
 https://www.foreignaffairs.com/europe/transatlantic-maga-fantasy
 https://www.foreignaffairs.com/france/how-france-falls-far-right
 https://www.foreignaffairs.com/hungary/how-beat-autocrat
@@ -982,6 +988,7 @@ https://www.foreignaffairs.com/united-states/g-2-reality
 https://www.foreignaffairs.com/united-states/great-rebalancing-coming
 https://www.foreignaffairs.com/united-states/greeted-liberators
 https://www.foreignaffairs.com/united-states/how-ai-could-hollow-out-us-military
+https://www.foreignaffairs.com/united-states/how-al-qaeda-ended
 https://www.foreignaffairs.com/united-states/how-alliances-survive-campbell-doshi
 https://www.foreignaffairs.com/united-states/how-america-lost-command-commons
 https://www.foreignaffairs.com/united-states/how-asia-learned-live-america-first
