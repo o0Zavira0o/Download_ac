@@ -1,6 +1,18 @@
-# Last Run: 2026-09-10 03:30 UTC
+# Last Run: 2026-09-10 08:46 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Top Signs You’re Heading for a Quagmire
+Published: 2026-09-10T06:57:24+00:00
+Link: https://foreignpolicy.com/2026/09/10/top-signs-youre-heading-for-a-quagmire/
+---
+[Foreign_Affairs] The Coming Risks to Russian Power
+Published: 2026-09-10T04:00:00+00:00
+Link: https://www.foreignaffairs.com/russia/coming-risks-russian-power
+---
+[Foreign_Affairs] The Case for Letting China In
+Published: 2026-09-10T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/case-letting-china
+---
 [Foreign_Policy] Iran Launches Massive Attack on Global Shipping
 Published: 2026-09-09T21:19:26+00:00
 Link: https://foreignpolicy.com/2026/09/09/iran-strikes-shipping-strait-hormuz-jordan-us-oil-prices/
@@ -100,12 +112,4 @@ Link: https://www.foreignaffairs.com/united-states/rise-and-fall-global-jihadism
 [Foreign_Affairs] Why America Can’t Strangle Iran
 Published: 2026-09-08T04:00:00+00:00
 Link: https://www.foreignaffairs.com/iran/why-america-cant-strangle-iran
----
-[Foreign_Policy] 25 Years After 9/11, What Are We Failing to Imagine Now?
-Published: 2026-09-07T04:28:40+00:00
-Link: https://foreignpolicy.com/2026/09/07/9-11-failure-of-imagination-new-terrorist-technologies/
----
-[Foreign_Affairs] The Emerging U.S.-China Détente
-Published: 2026-09-07T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/emerging-us-china-detente
 ---
