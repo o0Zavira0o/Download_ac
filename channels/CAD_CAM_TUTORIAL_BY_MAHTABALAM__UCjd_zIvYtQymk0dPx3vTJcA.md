@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-09T13:38:40Z_
+_آخرین به‌روزرسانی: 2026-09-10T13:29:42Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-10 03:30:12 (UTC)  
+  **مدت:** حدود 52.1 دقیقه  
+  **عنوان:** [Enclosure (Housing) Modeling in SolidWorks](https://www.youtube.com/watch?v=GI3k6TnVYFI)  
+  ![](https://i.ytimg.com/vi/GI3k6TnVYFI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-08 15:42:50 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-09T13:38:40Z_
   **مدت:** حدود 23.1 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Cycloidal Speed reducer mechanism in Solidworks](https://www.youtube.com/watch?v=5lY7vPy1Kj0)  
   ![](https://i.ytimg.com/vi/5lY7vPy1Kj0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-25 11:56:00 (UTC)  
-  **مدت:** حدود 11.8 دقیقه  
-  **عنوان:** [Graphics Card for SolidWorks (for Realview)](https://www.youtube.com/watch?v=L8jalVh23do)  
-  ![](https://i.ytimg.com/vi/L8jalVh23do/hqdefault.jpg)

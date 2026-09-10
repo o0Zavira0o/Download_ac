@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-09T13:38:40Z_
+_آخرین به‌روزرسانی: 2026-09-10T13:29:42Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-10 13:20:23 (UTC)  
+  **مدت:** حدود 13.1 دقیقه  
+  **عنوان:** [다꾸 ASMR 빈티지 다이어리 꾸미고 일기쓰기 | 빈티지 다꾸 Vintage Journal コラージュ](https://www.youtube.com/watch?v=szKT8qTOAPk)  
+  ![](https://i.ytimg.com/vi/szKT8qTOAPk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-09 12:30:07 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-09T13:38:40Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [Satisfying Scrapbook Supplies Unboxing #lblyxir](https://www.youtube.com/watch?v=Ds5mZHU5Xug)  
   ![](https://i.ytimg.com/vi/Ds5mZHU5Xug/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-23 13:20:00 (UTC)  
-  **مدت:** حدود 9.8 دقیقه  
-  **عنوان:** [Journal ASMR | Harry Potter theme 해리포터 다꾸 Scrapbook](https://www.youtube.com/watch?v=gy9QUFyD0-c)  
-  ![](https://i.ytimg.com/vi/gy9QUFyD0-c/hqdefault.jpg)

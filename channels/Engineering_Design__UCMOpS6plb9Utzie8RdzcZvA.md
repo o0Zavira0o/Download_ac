@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-09T13:38:40Z_
+_آخرین به‌روزرسانی: 2026-09-10T13:29:42Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-10 06:35:03 (UTC)  
+  **مدت:** حدود 7.0 دقیقه  
+  **عنوان:** [SOLIDWORKS Jewelry Design Tutorial: Interlocking Chain Ring](https://www.youtube.com/watch?v=7UTqAiJmFKk)  
+  ![](https://i.ytimg.com/vi/7UTqAiJmFKk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-08 12:06:00 (UTC)  
@@ -146,7 +152,7 @@ _آخرین به‌روزرسانی: 2026-09-09T13:38:40Z_
 
 - **تاریخ انتشار:** 2026-08-13 12:57:47 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Slider-Connecting Rod Dwell Mechanism](https://www.youtube.com/watch?v=afLZp-eta4I)  
+  **عنوان:** [Why This Mechanism Doesn't Stop Moving ⚙️ #cad #engineering #design](https://www.youtube.com/watch?v=afLZp-eta4I)  
   ![](https://i.ytimg.com/vi/afLZp-eta4I/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-09T13:38:40Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅Lever Mechanisms: The Secret to Efficient Gear Trains](https://www.youtube.com/watch?v=uNnM-Yaac-I)  
   ![](https://i.ytimg.com/vi/uNnM-Yaac-I/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-07 11:53:33 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [4-Cylinder Engine Working Animation](https://www.youtube.com/watch?v=1boNwvn7CoM)  
-  ![](https://i.ytimg.com/vi/1boNwvn7CoM/hqdefault.jpg)
