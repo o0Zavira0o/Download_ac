@@ -1,6 +1,14 @@
-# Last Run: 2026-09-10 14:12 UTC
+# Last Run: 2026-09-10 19:03 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The ‘Super-Terrorist’ We Still Can’t Escape
+Published: 2026-09-10T18:18:51+00:00
+Link: https://foreignpolicy.com/2026/09/10/carlos-jackal-terrorism-palestine-opec-bombing-book-review/
+---
+[Foreign_Policy] The Paradox of Prabowonomics
+Published: 2026-09-10T13:49:49+00:00
+Link: https://foreignpolicy.com/2026/09/10/prabowo-subianto-indonesia-economy-politics-middle-income/
+---
 [Foreign_Policy] The Political Cost of Sending Korean Forces to Hormuz
 Published: 2026-09-10T13:15:29+00:00
 Link: https://foreignpolicy.com/2026/09/10/south-korea-trump-iran-hormuz-alliance/
@@ -12,6 +20,10 @@ Link: https://foreignpolicy.com/2026/09/10/artificial-intelligence-biotechnology
 [Foreign_Policy] Top Signs You’re Heading for a Quagmire
 Published: 2026-09-10T06:57:24+00:00
 Link: https://foreignpolicy.com/2026/09/10/top-signs-youre-heading-for-a-quagmire/
+---
+[Foreign_Affairs] The Case for Letting China In
+Published: 2026-09-10T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/case-letting-china-american-businesses-brian-deese
 ---
 [Foreign_Affairs] The Coming Risks to Russian Power
 Published: 2026-09-10T04:00:00+00:00
