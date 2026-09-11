@@ -1,6 +1,14 @@
-# Last Run: 2026-09-11 08:43 UTC
+# Last Run: 2026-09-11 14:10 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Israel’s Soft Power Is Its Hard Power
+Published: 2026-09-11T12:54:04+00:00
+Link: https://foreignpolicy.com/2026/09/11/israels-soft-power-is-its-hard-power/
+---
+[Foreign_Policy] Jamaica’s Reparations Push
+Published: 2026-09-11T12:00:57+00:00
+Link: https://foreignpolicy.com/2026/09/11/jamaica-uk-slavery-reparations-history-colonialism-caribbean/
+---
 [Foreign_Affairs] The Other War on Terror
 Published: 2026-09-11T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/other-war-terror
@@ -116,20 +124,4 @@ Link: https://foreignpolicy.com/2026/09/08/critical-minerals-mining-workforce-sc
 [Foreign_Policy] Europe Needs a Real Policy on Israel-Palestine
 Published: 2026-09-08T14:13:59+00:00
 Link: https://foreignpolicy.com/2026/09/08/europe-israel-palestine-washington-gaza/
----
-[Foreign_Policy] South Korea Should Help Defend Ukraine’s Skies
-Published: 2026-09-08T13:15:03+00:00
-Link: https://foreignpolicy.com/2026/09/08/russia-ukraine-war-south-korea-air-defense-interceptors/
----
-[Foreign_Policy] The U.S. and China Don’t Need an AI Grand Bargain
-Published: 2026-09-08T13:01:11+00:00
-Link: https://foreignpolicy.com/2026/09/08/us-china-ai-negotiations-safety-governance-trump-xi-summit/
----
-[Foreign_Policy] The World’s Only Real Hope of Maintaining Order
-Published: 2026-09-08T10:00:10+00:00
-Link: https://foreignpolicy.com/2026/09/08/charles-kupchan-global-order-international-organizations-concert-system/
----
-[Foreign_Policy] Iran’s Proxy Strategy Is Never Coming Back
-Published: 2026-09-08T08:53:09+00:00
-Link: https://foreignpolicy.com/2026/09/08/irans-proxy-strategy-hezbollah-lebanon-iraq/
 ---
