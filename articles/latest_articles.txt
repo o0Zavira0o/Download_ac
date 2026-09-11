@@ -1,6 +1,22 @@
-# Last Run: 2026-09-11 19:04 UTC
+# Last Run: 2026-09-11 22:22 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Why AfD Appeals to So Many Germans
+Published: 2026-09-11T20:30:05+00:00
+Link: https://foreignpolicy.com/2026/09/11/afd-germany-saxony-anhalt-election-far-right/
+---
+[Foreign_Policy] Who Wears the BRICS Crown?
+Published: 2026-09-11T20:06:20+00:00
+Link: https://foreignpolicy.com/2026/09/11/brics-summit-india-modi-china-xi-iran-us-trade/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-09-11T19:56:50+00:00
+Link: https://foreignpolicy.com/2026/09/11/news-quiz-germany-state-election-afd-philippines-arrest-canada-tariffs-united-states/
+---
+[Foreign_Policy] The United States of Propaganda
+Published: 2026-09-11T18:40:21+00:00
+Link: https://foreignpolicy.com/2026/09/11/trump-evil-us-propaganda-red-scare-democratic-socialism-mamdani/
+---
 [Foreign_Policy] Discarding an Old Map and Seeing Africa With Fresh Eyes
 Published: 2026-09-11T18:05:22+00:00
 Link: https://foreignpolicy.com/2026/09/11/africa-map-united-states-trump-fertility-decline-west/
@@ -124,16 +140,4 @@ Link: https://www.foreignaffairs.com/europe/right-way-sanction-russia
 [Foreign_Affairs] How al-Qaeda Ended
 Published: 2026-09-09T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/how-al-qaeda-ended
----
-[Foreign_Policy] Why Is China’s Officer Corps So Sprawling?
-Published: 2026-09-08T21:50:07+00:00
-Link: https://foreignpolicy.com/2026/09/08/china-pla-officer-corps-military-ccp/
----
-[Foreign_Policy] Berlin Is Shedding Light on the Gray Zone
-Published: 2026-09-08T20:42:52+00:00
-Link: https://foreignpolicy.com/2026/09/08/germany-russia-drones-gray-zone-hybrid-warfare-putin/
----
-[Foreign_Policy] Are Yemen and Saudi Arabia Returning to All-Out War?
-Published: 2026-09-08T20:18:37+00:00
-Link: https://foreignpolicy.com/2026/09/08/yemen-houthi-strikes-saudi-arabia-oil-iran-bab-el-mandeb/
 ---
