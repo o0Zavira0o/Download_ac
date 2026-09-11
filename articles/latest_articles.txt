@@ -1,6 +1,26 @@
-# Last Run: 2026-09-11 14:10 UTC
+# Last Run: 2026-09-11 19:04 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Discarding an Old Map and Seeing Africa With Fresh Eyes
+Published: 2026-09-11T18:05:22+00:00
+Link: https://foreignpolicy.com/2026/09/11/africa-map-united-states-trump-fertility-decline-west/
+---
+[Foreign_Policy] A War Reporter’s Antidote to Nihilism
+Published: 2026-09-11T18:00:49+00:00
+Link: https://foreignpolicy.com/2026/09/11/sally-hayden-this-is-also-love-story-review-global-war-reporting/
+---
+[Foreign_Policy] Don’t Blame Ukraine for High Gas Prices
+Published: 2026-09-11T16:24:29+00:00
+Link: https://foreignpolicy.com/2026/09/11/gas-prices-trump-iran-war-wright-ukraine-russia/
+---
+[Foreign_Policy] Why 9/11 Baffles Us 25 Years Later
+Published: 2026-09-11T14:30:46+00:00
+Link: https://foreignpolicy.com/2026/09/11/911-attacks-war-on-terror-bergen-review/
+---
+[Foreign_Affairs] Iran’s Second Front
+Published: 2026-09-11T13:57:00+00:00
+Link: https://www.foreignaffairs.com/yemen/irans-second-front
+---
 [Foreign_Policy] Israel’s Soft Power Is Its Hard Power
 Published: 2026-09-11T12:54:04+00:00
 Link: https://foreignpolicy.com/2026/09/11/israels-soft-power-is-its-hard-power/
@@ -116,12 +136,4 @@ Link: https://foreignpolicy.com/2026/09/08/germany-russia-drones-gray-zone-hybri
 [Foreign_Policy] Are Yemen and Saudi Arabia Returning to All-Out War?
 Published: 2026-09-08T20:18:37+00:00
 Link: https://foreignpolicy.com/2026/09/08/yemen-houthi-strikes-saudi-arabia-oil-iran-bab-el-mandeb/
----
-[Foreign_Policy] Can Trump Make Americans Mine Again?
-Published: 2026-09-08T16:06:24+00:00
-Link: https://foreignpolicy.com/2026/09/08/critical-minerals-mining-workforce-schools-education/
----
-[Foreign_Policy] Europe Needs a Real Policy on Israel-Palestine
-Published: 2026-09-08T14:13:59+00:00
-Link: https://foreignpolicy.com/2026/09/08/europe-israel-palestine-washington-gaza/
 ---
