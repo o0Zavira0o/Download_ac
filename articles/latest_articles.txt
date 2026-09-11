@@ -1,6 +1,10 @@
-# Last Run: 2026-09-11 03:27 UTC
+# Last Run: 2026-09-11 08:43 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The Other War on Terror
+Published: 2026-09-11T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/other-war-terror
+---
 [Foreign_Policy] What Makes a Good Counterterrorism Strategy?
 Published: 2026-09-10T21:53:49+00:00
 Link: https://foreignpolicy.com/2026/09/10/us-terrorism-9-11-anniversary-jihadism-al-qaeda/
@@ -128,16 +132,4 @@ Link: https://foreignpolicy.com/2026/09/08/charles-kupchan-global-order-internat
 [Foreign_Policy] Iran’s Proxy Strategy Is Never Coming Back
 Published: 2026-09-08T08:53:09+00:00
 Link: https://foreignpolicy.com/2026/09/08/irans-proxy-strategy-hezbollah-lebanon-iraq/
----
-[Foreign_Policy] The Republican Origins of Medicare for All
-Published: 2026-09-08T04:01:45+00:00
-Link: https://foreignpolicy.com/2026/09/08/republican-origins-medicare-for-all/
----
-[Foreign_Affairs] The Rise and Fall of Global Jihadism
-Published: 2026-09-08T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/rise-and-fall-global-jihadism
----
-[Foreign_Affairs] Why America Can’t Strangle Iran
-Published: 2026-09-08T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/why-america-cant-strangle-iran
 ---
