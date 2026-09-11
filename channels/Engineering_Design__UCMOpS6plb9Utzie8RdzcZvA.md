@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-10T13:29:42Z_
+_آخرین به‌روزرسانی: 2026-09-11T13:27:49Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-11 11:40:28 (UTC)  
+  **مدت:** حدود 8.7 دقیقه  
+  **عنوان:** [SolidWorks Weldment Tutorial | How to Model a Welded Frame Structure (Step-by-Step)](https://www.youtube.com/watch?v=jMv2TytcabU)  
+  ![](https://i.ytimg.com/vi/jMv2TytcabU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-10 06:35:03 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-10T13:29:42Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅Cam & Crank Slider Mechanism: A Solution to Engine Problems](https://www.youtube.com/watch?v=Fjy5LVtuYQI)  
   ![](https://i.ytimg.com/vi/Fjy5LVtuYQI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-08 12:42:22 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Lever Mechanisms: The Secret to Efficient Gear Trains](https://www.youtube.com/watch?v=uNnM-Yaac-I)  
-  ![](https://i.ytimg.com/vi/uNnM-Yaac-I/hqdefault.jpg)

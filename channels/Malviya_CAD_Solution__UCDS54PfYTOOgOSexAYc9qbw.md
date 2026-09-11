@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-09-10T13:29:42Z_
+_آخرین به‌روزرسانی: 2026-09-11T13:27:49Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-09-11 09:08:48 (UTC)  
+  **مدت:** حدود 12.6 دقیقه  
+  **عنوان:** [Solidworks Exercise Tutorial | Besic exercise for beginners | Exercise41](https://www.youtube.com/watch?v=z5M43PNOgS8)  
+  ![](https://i.ytimg.com/vi/z5M43PNOgS8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-11 05:54:26 (UTC)  
+  **مدت:** حدود 2.1 دقیقه  
+  **عنوان:** [Solidworks sheetmetal sketch bend #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=S8mflOXeB3g)  
+  ![](https://i.ytimg.com/vi/S8mflOXeB3g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-07 16:38:16 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-10T13:29:42Z_
   **مدت:** حدود 2.1 دقیقه  
   **عنوان:** [Hole thread on circular face in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=1mIwoL2A0jA)  
   ![](https://i.ytimg.com/vi/1mIwoL2A0jA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-26 04:14:30 (UTC)  
-  **مدت:** حدود 1.6 دقیقه  
-  **عنوان:** [Tapper helix in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=XgdHTkbTVgw)  
-  ![](https://i.ytimg.com/vi/XgdHTkbTVgw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-25 04:42:10 (UTC)  
-  **مدت:** حدود 2.9 دقیقه  
-  **عنوان:** [Solidworks chain modelling #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=Ef3mIeWcQxI)  
-  ![](https://i.ytimg.com/vi/Ef3mIeWcQxI/hqdefault.jpg)

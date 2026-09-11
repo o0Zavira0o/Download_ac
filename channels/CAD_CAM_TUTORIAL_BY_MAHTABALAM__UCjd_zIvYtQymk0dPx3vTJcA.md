@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-10T13:29:42Z_
+_آخرین به‌روزرسانی: 2026-09-11T13:27:49Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
@@ -8977,7 +8977,7 @@ _آخرین به‌روزرسانی: 2026-09-10T13:29:42Z_
 
 
 - **تاریخ انتشار:** 2017-02-10 04:00:00 (UTC)  
-  **مدت:** حدود 3.1 دقیقه  
+  **مدت:** حدود 3.2 دقیقه  
   **عنوان:** [Dell workstation Laptops for CAD softwares](https://www.youtube.com/watch?v=FHNoi1yF9W8)  
   ![](https://i.ytimg.com/vi/FHNoi1yF9W8/hqdefault.jpg)
 

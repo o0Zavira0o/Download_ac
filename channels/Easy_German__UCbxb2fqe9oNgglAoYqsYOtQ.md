@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-10T13:29:42Z_
+_آخرین به‌روزرسانی: 2026-09-11T13:27:49Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-11 05:01:28 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Freunde finden #shorts #easygerman](https://www.youtube.com/watch?v=YzLu889OfP4)  
+  ![](https://i.ytimg.com/vi/YzLu889OfP4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-10 14:54:39 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Musikabteilung #shorts #deutschüben #kaufhaus](https://www.youtube.com/watch?v=Au2PKnOjCOg)  
+  ![](https://i.ytimg.com/vi/Au2PKnOjCOg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-09 10:15:53 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-10T13:29:42Z_
   **مدت:** حدود 12.9 دقیقه  
   **عنوان:** [Travelling through Poland | Easy German 181](https://www.youtube.com/watch?v=n0PGIlD58U4)  
   ![](https://i.ytimg.com/vi/n0PGIlD58U4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-01 19:15:14 (UTC)  
-  **مدت:** حدود 4.5 دقیقه  
-  **عنوان:** [German Accusative for Beginners](https://www.youtube.com/watch?v=A3kDyxMO2xI)  
-  ![](https://i.ytimg.com/vi/A3kDyxMO2xI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-29 19:03:54 (UTC)  
-  **مدت:** حدود 8.7 دقیقه  
-  **عنوان:** [What kind of Europe do you want to live in? | Easy German 180](https://www.youtube.com/watch?v=tHDTHAZrOqE)  
-  ![](https://i.ytimg.com/vi/tHDTHAZrOqE/hqdefault.jpg)
