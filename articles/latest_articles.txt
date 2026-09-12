@@ -1,4 +1,4 @@
-# Last Run: 2026-09-12 16:51 UTC
+# Last Run: 2026-09-12 20:21 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Why AfD Appeals to So Many Germans
@@ -96,8 +96,4 @@ Link: https://foreignpolicy.com/2026/09/09/iran-strikes-shipping-strait-hormuz-j
 [Foreign_Policy] What India Gets Out of BRICS
 Published: 2026-09-09T21:01:50+00:00
 Link: https://foreignpolicy.com/2026/09/09/india-brics-summit-new-delhi-global-south/
----
-[Foreign_Policy] Why Germany Isn’t Punishing Russia Harder
-Published: 2026-09-09T18:02:11+00:00
-Link: https://foreignpolicy.com/2026/09/09/germany-russia-leipzig-drone-attack-response-hybrid-warfare-eu/
 ---
