@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-11T13:27:49Z_
+_آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-11 14:01:57 (UTC)  
+  **مدت:** حدود 28.2 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Exercise-Tab and Slot](https://www.youtube.com/watch?v=jsZpq1drr5g)  
+  ![](https://i.ytimg.com/vi/jsZpq1drr5g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-10 03:30:12 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-11T13:27:49Z_
   **مدت:** حدود 88.5 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch football Helmet in Solidworks (Advanced Surfacing)](https://www.youtube.com/watch?v=6XYVwAwXCqs)  
   ![](https://i.ytimg.com/vi/6XYVwAwXCqs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-26 14:15:23 (UTC)  
-  **مدت:** حدود 23.1 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Cycloidal Speed reducer mechanism in Solidworks](https://www.youtube.com/watch?v=5lY7vPy1Kj0)  
-  ![](https://i.ytimg.com/vi/5lY7vPy1Kj0/hqdefault.jpg)

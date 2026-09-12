@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-11T13:27:49Z_
+_آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-12 12:14:37 (UTC)  
+  **مدت:** حدود 8.7 دقیقه  
+  **عنوان:** [How to Model This Flange Housing in SolidWorks | Full Tutorial](https://www.youtube.com/watch?v=Hv2PZcRMuZ0)  
+  ![](https://i.ytimg.com/vi/Hv2PZcRMuZ0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-11 11:40:28 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-11T13:27:49Z_
   **مدت:** حدود 28.1 دقیقه  
   **عنوان:** [How Hoppers REALLY Work (and why you need one)](https://www.youtube.com/watch?v=TqWjLfmEwlQ)  
   ![](https://i.ytimg.com/vi/TqWjLfmEwlQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-13 11:56:52 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Cam & Crank Slider Mechanism: A Solution to Engine Problems](https://www.youtube.com/watch?v=Fjy5LVtuYQI)  
-  ![](https://i.ytimg.com/vi/Fjy5LVtuYQI/hqdefault.jpg)

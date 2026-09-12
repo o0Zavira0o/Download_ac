@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-09-11T13:27:49Z_
+_آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-09-12 10:00:26 (UTC)  
+  **مدت:** حدود 21.6 دقیقه  
+  **عنوان:** [43,GOLDEN GRIFFIN | 2-Sheet Matte Gold Origami | Silent Origami　黄金のグリフォン｜マットゴールドの紙2枚で折る【無言の折り紙】](https://www.youtube.com/watch?v=4nzr53cDezQ)  
+  ![](https://i.ytimg.com/vi/4nzr53cDezQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-05 10:00:38 (UTC)  

@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-09-11T13:27:49Z_
+_آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-09-12 00:17:18 (UTC)  
+  **مدت:** حدود 1.6 دقیقه  
+  **عنوان:** [O uso de IA #solidworks #engenharia #chatgpt #industria](https://www.youtube.com/watch?v=2XrQVsCXb0M)  
+  ![](https://i.ytimg.com/vi/2XrQVsCXb0M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-11 22:30:38 (UTC)  
+  **مدت:** حدود 29.0 دقیقه  
+  **عنوان:** [AULA 30 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Linha de Produção #solidworks](https://www.youtube.com/watch?v=D0BRaSIDWRg)  
+  ![](https://i.ytimg.com/vi/D0BRaSIDWRg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-09 00:15:26 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-11T13:27:49Z_
   **مدت:** حدود 29.2 دقیقه  
   **عنوان:** [AULA 33 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=TrswuAMwPZw)  
   ![](https://i.ytimg.com/vi/TrswuAMwPZw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-03-07 22:30:09 (UTC)  
-  **مدت:** حدود 25.1 دقیقه  
-  **عنوان:** [AULA 32 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=v_rbelNY9WY)  
-  ![](https://i.ytimg.com/vi/v_rbelNY9WY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-03-03 22:30:20 (UTC)  
-  **مدت:** حدود 28.8 دقیقه  
-  **عنوان:** [AULA 31 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=wAOP8qqrVNA)  
-  ![](https://i.ytimg.com/vi/wAOP8qqrVNA/hqdefault.jpg)
