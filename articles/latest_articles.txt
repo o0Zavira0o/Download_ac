@@ -1,4 +1,4 @@
-# Last Run: 2026-09-12 08:29 UTC
+# Last Run: 2026-09-12 13:26 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Why AfD Appeals to So Many Germans
@@ -104,8 +104,4 @@ Link: https://foreignpolicy.com/2026/09/09/germany-russia-leipzig-drone-attack-r
 [Foreign_Policy] How Could Iran Happen? An Autopsy.
 Published: 2026-09-09T14:19:47+00:00
 Link: https://foreignpolicy.com/2026/09/09/trump-iran-deep-state-purges-intelligence-bureaucracy/
----
-[Foreign_Policy] German Democracy, as We Knew It, Is Over
-Published: 2026-09-09T08:37:47+00:00
-Link: https://foreignpolicy.com/2026/09/09/germany-afd-democracy-election-merz-cdu/
 ---
