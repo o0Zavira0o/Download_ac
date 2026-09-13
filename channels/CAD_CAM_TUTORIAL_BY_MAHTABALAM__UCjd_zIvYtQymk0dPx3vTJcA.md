@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
+_آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-12 16:01:27 (UTC)  
+  **مدت:** حدود 9.7 دقیقه  
+  **عنوان:** [3D Sketch-Intersection Curve, Heart Shape Wire Mesh Modeling in SolidWorks](https://www.youtube.com/watch?v=QRCL6nJEsUs)  
+  ![](https://i.ytimg.com/vi/QRCL6nJEsUs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-11 14:01:57 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
   **مدت:** حدود 21.6 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch controlled output Escapement mechanism in Solidworks](https://www.youtube.com/watch?v=4NgbqR7AJYM)  
   ![](https://i.ytimg.com/vi/4NgbqR7AJYM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-01-30 12:06:33 (UTC)  
-  **مدت:** حدود 88.5 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch football Helmet in Solidworks (Advanced Surfacing)](https://www.youtube.com/watch?v=6XYVwAwXCqs)  
-  ![](https://i.ytimg.com/vi/6XYVwAwXCqs/hqdefault.jpg)

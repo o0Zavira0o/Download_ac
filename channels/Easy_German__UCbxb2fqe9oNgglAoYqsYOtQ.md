@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
+_آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-12 13:26:53 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Nach dem Weg fragen](https://www.youtube.com/watch?v=LQxTlnoNQUI)  
+  ![](https://i.ytimg.com/vi/LQxTlnoNQUI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-11 05:01:28 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
   **مدت:** حدود 3.9 دقیقه  
   **عنوان:** [At School | Super Easy German (17)](https://www.youtube.com/watch?v=5m01TOh0waE)  
   ![](https://i.ytimg.com/vi/5m01TOh0waE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-05 18:00:29 (UTC)  
-  **مدت:** حدود 12.9 دقیقه  
-  **عنوان:** [Travelling through Poland | Easy German 181](https://www.youtube.com/watch?v=n0PGIlD58U4)  
-  ![](https://i.ytimg.com/vi/n0PGIlD58U4/hqdefault.jpg)

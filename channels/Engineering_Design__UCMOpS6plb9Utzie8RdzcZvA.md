@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
+_آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
@@ -38,7 +38,7 @@ _آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
 
 - **تاریخ انتشار:** 2026-09-03 13:29:26 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [SOLIDWORKS Motion Analysis Made Easy! ⏳](https://www.youtube.com/watch?v=7IYIUufxJn8)  
+  **عنوان:** [✅SOLIDWORKS Motion Analysis Made Easy! ⏳](https://www.youtube.com/watch?v=7IYIUufxJn8)  
   ![](https://i.ytimg.com/vi/7IYIUufxJn8/hqdefault.jpg)
 
 
@@ -62,7 +62,7 @@ _آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
 
 - **تاریخ انتشار:** 2026-08-31 03:11:53 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Archimedes Spiral Wind Turbine 3D Model](https://www.youtube.com/watch?v=EbQvu3H7HD8)  
+  **عنوان:** [✅Archimedes Spiral Wind Turbine 3D Model](https://www.youtube.com/watch?v=EbQvu3H7HD8)  
   ![](https://i.ytimg.com/vi/EbQvu3H7HD8/hqdefault.jpg)
 
 
@@ -80,7 +80,7 @@ _آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
 
 - **تاریخ انتشار:** 2026-08-26 02:49:05 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How to Convert Rotation into 3D Motion (Spherical Crank)](https://www.youtube.com/watch?v=EjDx-1chG3Y)  
+  **عنوان:** [✅How to Convert Rotation into 3D Motion (Spherical Crank)](https://www.youtube.com/watch?v=EjDx-1chG3Y)  
   ![](https://i.ytimg.com/vi/EjDx-1chG3Y/hqdefault.jpg)
 
 
@@ -98,7 +98,7 @@ _آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
 
 - **تاریخ انتشار:** 2026-08-24 03:42:51 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Rotary ➡️ Linear Motion Made Simple! 🔄 #shorts](https://www.youtube.com/watch?v=mQnCBAJnjLY)  
+  **عنوان:** [✅Rotary ➡️ Linear Motion Made Simple! 🔄 #shorts](https://www.youtube.com/watch?v=mQnCBAJnjLY)  
   ![](https://i.ytimg.com/vi/mQnCBAJnjLY/hqdefault.jpg)
 
 
@@ -110,25 +110,25 @@ _آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
 
 - **تاریخ انتشار:** 2026-08-21 11:00:19 (UTC)  
   **مدت:** حدود 0.0 دقیقه  
-  **عنوان:** [Why This Radial Cam Mechanism is So Satisfying ⚙️ #shorts #cad #engineering](https://www.youtube.com/watch?v=HeJJg9Gy-Lc)  
+  **عنوان:** [✅Why This Radial Cam Mechanism is So Satisfying ⚙️ #shorts #cad #engineering](https://www.youtube.com/watch?v=HeJJg9Gy-Lc)  
   ![](https://i.ytimg.com/vi/HeJJg9Gy-Lc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-20 18:14:49 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Would You Build These Mechanical Pets? 🧐 #diy #engineering #robotics](https://www.youtube.com/watch?v=YrrA0ixHLKw)  
+  **عنوان:** [✅Would You Build These Mechanical Pets? 🧐 #diy #engineering #robotics](https://www.youtube.com/watch?v=YrrA0ixHLKw)  
   ![](https://i.ytimg.com/vi/YrrA0ixHLKw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-20 05:00:22 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Piston Drive Mechanisms: Swashplate vs. Crankshaft](https://www.youtube.com/watch?v=Rkf5DAOQI-E)  
+  **عنوان:** [✅Piston Drive Mechanisms: Swashplate vs. Crankshaft](https://www.youtube.com/watch?v=Rkf5DAOQI-E)  
   ![](https://i.ytimg.com/vi/Rkf5DAOQI-E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-19 03:06:14 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How a Mini Drafter Actually Works! 📏 #shorts](https://www.youtube.com/watch?v=vGuguYFA01c)  
+  **عنوان:** [✅How a Mini Drafter Actually Works! 📏 #shorts](https://www.youtube.com/watch?v=vGuguYFA01c)  
   ![](https://i.ytimg.com/vi/vGuguYFA01c/hqdefault.jpg)
 
 

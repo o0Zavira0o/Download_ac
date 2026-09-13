@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
+_آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-13 12:00:15 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [다꾸 ASMR 스탬프로 꾸미기 diy Stamp Journal](https://www.youtube.com/watch?v=nBwP_7G8_ko)  
+  ![](https://i.ytimg.com/vi/nBwP_7G8_ko/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-12 12:00:31 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-12T12:47:35Z_
   **مدت:** حدود 12.7 دقیقه  
   **عنوان:** [Scrapbook ASMR Compilation : Scrapbooking](https://www.youtube.com/watch?v=SftcOlUo3uE)  
   ![](https://i.ytimg.com/vi/SftcOlUo3uE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-27 10:35:00 (UTC)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [scrapbook asmr #journal #asmr #scrapbooking](https://www.youtube.com/watch?v=R1XMlOhVXzI)  
-  ![](https://i.ytimg.com/vi/R1XMlOhVXzI/hqdefault.jpg)
