@@ -1,4 +1,4 @@
-# Last Run: 2026-09-13 03:40 UTC
+# Last Run: 2026-09-13 09:11 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Why AfD Appeals to So Many Germans
@@ -72,20 +72,4 @@ Link: https://foreignpolicy.com/2026/09/10/south-korea-trump-iran-hormuz-allianc
 [Foreign_Policy] Scientists Saved Us From Catastrophic Risk Before
 Published: 2026-09-10T12:00:38+00:00
 Link: https://foreignpolicy.com/2026/09/10/artificial-intelligence-biotechnology-science-diplomacy-united-states-china-geopolitical-rivalry/
----
-[Foreign_Policy] Top Signs You’re Heading for a Quagmire
-Published: 2026-09-10T06:57:24+00:00
-Link: https://foreignpolicy.com/2026/09/10/top-signs-youre-heading-for-a-quagmire/
----
-[Foreign_Affairs] The Case for Letting China In
-Published: 2026-09-10T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/case-letting-china-american-businesses-brian-deese
----
-[Foreign_Affairs] The Coming Risks to Russian Power
-Published: 2026-09-10T04:00:00+00:00
-Link: https://www.foreignaffairs.com/russia/coming-risks-russian-power
----
-[Foreign_Affairs] The Case for Letting China In
-Published: 2026-09-10T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/case-letting-china
 ---
