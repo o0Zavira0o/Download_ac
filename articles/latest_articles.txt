@@ -1,4 +1,4 @@
-# Last Run: 2026-09-13 14:17 UTC
+# Last Run: 2026-09-13 18:40 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] “Driveway,” by Stephanie Horvath
@@ -80,8 +80,4 @@ Link: https://foreignpolicy.com/2026/09/10/us-terrorism-9-11-anniversary-jihadis
 [Foreign_Policy] The Bab el-Mandeb Problem
 Published: 2026-09-10T20:04:01+00:00
 Link: https://foreignpolicy.com/2026/09/10/houthis-yemen-mokha-port-red-sea-bab-el-mandeb-iran-saudi-arabia-strait-hormuz/
----
-[Foreign_Policy] The ‘Super-Terrorist’ We Still Can’t Escape
-Published: 2026-09-10T18:18:51+00:00
-Link: https://foreignpolicy.com/2026/09/10/carlos-jackal-terrorism-palestine-opec-bombing-book-review/
 ---
