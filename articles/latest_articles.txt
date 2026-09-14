@@ -1,6 +1,14 @@
-# Last Run: 2026-09-14 09:41 UTC
+# Last Run: 2026-09-14 16:15 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump Has Killed ‘Strategic Ambiguity’ Over Taiwan
+Published: 2026-09-14T14:53:52+00:00
+Link: https://foreignpolicy.com/2026/09/14/trump-xi-summit-deal-taiwan-strategic-ambiguity-defense-alliance-geopolitics/
+---
+[Foreign_Affairs] Putin Will Not Yield
+Published: 2026-09-14T12:40:00+00:00
+Link: https://www.foreignaffairs.com/united-states/putin-will-not-yield
+---
 [Foreign_Policy] How Congress Empowered Presidential War-Making After 9/11
 Published: 2026-09-14T05:58:45+00:00
 Link: https://foreignpolicy.com/2026/09/14/aumf-presidential-war-powers-bush-9-11/
@@ -60,20 +68,4 @@ Link: https://foreignpolicy.com/2026/09/11/sally-hayden-this-is-also-love-story-
 [Foreign_Policy] Don’t Blame Ukraine for High Gas Prices
 Published: 2026-09-11T16:24:29+00:00
 Link: https://foreignpolicy.com/2026/09/11/gas-prices-trump-iran-war-wright-ukraine-russia/
----
-[Foreign_Policy] Why 9/11 Baffles Us 25 Years Later
-Published: 2026-09-11T14:30:46+00:00
-Link: https://foreignpolicy.com/2026/09/11/911-attacks-war-on-terror-bergen-review/
----
-[Foreign_Affairs] Iran’s Second Front
-Published: 2026-09-11T13:57:00+00:00
-Link: https://www.foreignaffairs.com/yemen/irans-second-front
----
-[Foreign_Policy] Israel’s Soft Power Is Its Hard Power
-Published: 2026-09-11T12:54:04+00:00
-Link: https://foreignpolicy.com/2026/09/11/israels-soft-power-is-its-hard-power/
----
-[Foreign_Policy] Jamaica’s Reparations Push
-Published: 2026-09-11T12:00:57+00:00
-Link: https://foreignpolicy.com/2026/09/11/jamaica-uk-slavery-reparations-history-colonialism-caribbean/
 ---
