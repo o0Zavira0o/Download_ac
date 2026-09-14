@@ -1,6 +1,14 @@
-# Last Run: 2026-09-14 03:49 UTC
+# Last Run: 2026-09-14 09:41 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How Congress Empowered Presidential War-Making After 9/11
+Published: 2026-09-14T05:58:45+00:00
+Link: https://foreignpolicy.com/2026/09/14/aumf-presidential-war-powers-bush-9-11/
+---
+[Foreign_Affairs] Europe’s Hidden Trade Advantage
+Published: 2026-09-14T04:00:00+00:00
+Link: https://www.foreignaffairs.com/europe/europes-hidden-trade-advantage
+---
 [New_Yorker_Magazine] “Driveway,” by Stephanie Horvath
 Published: 2026-09-13T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/09/21/driveway-stephanie-horvath-poem
@@ -68,8 +76,4 @@ Link: https://foreignpolicy.com/2026/09/11/israels-soft-power-is-its-hard-power/
 [Foreign_Policy] Jamaica’s Reparations Push
 Published: 2026-09-11T12:00:57+00:00
 Link: https://foreignpolicy.com/2026/09/11/jamaica-uk-slavery-reparations-history-colonialism-caribbean/
----
-[Foreign_Affairs] The Other War on Terror
-Published: 2026-09-11T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/other-war-terror
 ---
