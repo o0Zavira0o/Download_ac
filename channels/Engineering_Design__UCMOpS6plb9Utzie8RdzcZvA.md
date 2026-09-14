@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
+_آخرین به‌روزرسانی: 2026-09-14T15:50:53Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-14 11:30:32 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [SOLIDWORKS 2027](https://www.youtube.com/watch?v=lNt5n4IYgYk)  
+  ![](https://i.ytimg.com/vi/lNt5n4IYgYk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-14 03:28:53 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [I Built a Retro Grain Mill in CAD... and it actually works! 🤯](https://www.youtube.com/watch?v=VNKuFGckA6E)  
+  ![](https://i.ytimg.com/vi/VNKuFGckA6E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-12 12:14:37 (UTC)  
@@ -20,7 +32,7 @@ _آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
 
 - **تاریخ انتشار:** 2026-09-10 06:35:03 (UTC)  
   **مدت:** حدود 7.0 دقیقه  
-  **عنوان:** [SOLIDWORKS Jewelry Design Tutorial: Interlocking Chain Ring](https://www.youtube.com/watch?v=7UTqAiJmFKk)  
+  **عنوان:** [Finally! An Easy Way to Design Interlocking Chains in SOLIDWORKS](https://www.youtube.com/watch?v=7UTqAiJmFKk)  
   ![](https://i.ytimg.com/vi/7UTqAiJmFKk/hqdefault.jpg)
 
 
@@ -92,7 +104,7 @@ _آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
 
 - **تاریخ انتشار:** 2026-08-24 13:04:15 (UTC)  
   **مدت:** حدود 5.9 دقیقه  
-  **عنوان:** [Designing an M12 Hex Bolt in SOLIDWORKS](https://www.youtube.com/watch?v=ba1nsaxKtyM)  
+  **عنوان:** [The Beginner's Guide to Modeling an M12 Hex Bolt in SOLIDWORKS](https://www.youtube.com/watch?v=ba1nsaxKtyM)  
   ![](https://i.ytimg.com/vi/ba1nsaxKtyM/hqdefault.jpg)
 
 
@@ -188,7 +200,7 @@ _آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
 
 - **تاریخ انتشار:** 2026-08-09 13:02:36 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Designing a Flawless Scotch Yoke Mechanism from Scratch](https://www.youtube.com/watch?v=CUgPqgJkiKU)  
+  **عنوان:** [The Beauty of Simple Mechanical Linkages #shorts #satisfying #engineering](https://www.youtube.com/watch?v=CUgPqgJkiKU)  
   ![](https://i.ytimg.com/vi/CUgPqgJkiKU/hqdefault.jpg)
 
 
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [Worm Gearbox Mechanism 📌](https://www.youtube.com/watch?v=575Wq1iAZI0)  
   ![](https://i.ytimg.com/vi/575Wq1iAZI0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-20 11:28:31 (UTC)  
-  **مدت:** حدود 15.5 دقیقه  
-  **عنوان:** [Design and Assembly of Worm Gearbox in Solidworks | Solidworks Tutorial](https://www.youtube.com/watch?v=Tfuu9OhF-4s)  
-  ![](https://i.ytimg.com/vi/Tfuu9OhF-4s/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-17 07:46:49 (UTC)  
-  **مدت:** حدود 28.1 دقیقه  
-  **عنوان:** [How Hoppers REALLY Work (and why you need one)](https://www.youtube.com/watch?v=TqWjLfmEwlQ)  
-  ![](https://i.ytimg.com/vi/TqWjLfmEwlQ/hqdefault.jpg)

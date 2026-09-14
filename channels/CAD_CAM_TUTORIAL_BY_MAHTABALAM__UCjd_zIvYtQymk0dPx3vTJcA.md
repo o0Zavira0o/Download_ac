@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
+_آخرین به‌روزرسانی: 2026-09-14T15:50:53Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-14 03:30:08 (UTC)  
+  **مدت:** حدود 18.2 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Exercise Duct Cover-Miter Flange](https://www.youtube.com/watch?v=_N8i7bmXFiU)  
+  ![](https://i.ytimg.com/vi/_N8i7bmXFiU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-12 16:01:27 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
   **مدت:** حدود 2.5 دقیقه  
   **عنوان:** [How to activate Realview in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=HzqbUBVd-qk)  
   ![](https://i.ytimg.com/vi/HzqbUBVd-qk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-05 09:59:31 (UTC)  
-  **مدت:** حدود 21.6 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch controlled output Escapement mechanism in Solidworks](https://www.youtube.com/watch?v=4NgbqR7AJYM)  
-  ![](https://i.ytimg.com/vi/4NgbqR7AJYM/hqdefault.jpg)

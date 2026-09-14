@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
+_آخرین به‌روزرسانی: 2026-09-14T15:50:53Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-14 07:43:08 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Empfehlungen für neue Leute in Berlin #Berlin #easygerman](https://www.youtube.com/watch?v=YSGFjeelx3c)  
+  ![](https://i.ytimg.com/vi/YSGFjeelx3c/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-13 17:00:04 (UTC)  
+  **مدت:** حدود 14.9 دقیقه  
+  **عنوان:** [How to Actually Remember German Vocabulary](https://www.youtube.com/watch?v=QSl-n50nrKM)  
+  ![](https://i.ytimg.com/vi/QSl-n50nrKM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-12 13:26:53 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-13T13:45:27Z_
   **مدت:** حدود 4.0 دقیقه  
   **عنوان:** [Typical classroom scenes in German | Super Easy German (19)](https://www.youtube.com/watch?v=Pu5j2sSS8sc)  
   ![](https://i.ytimg.com/vi/Pu5j2sSS8sc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-13 07:33:11 (UTC)  
-  **مدت:** حدود 9.8 دقیقه  
-  **عنوان:** [What Austrians think about Austrian Politics | Easy German 182](https://www.youtube.com/watch?v=z4p7mYD6dL8)  
-  ![](https://i.ytimg.com/vi/z4p7mYD6dL8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-08 22:20:58 (UTC)  
-  **مدت:** حدود 3.9 دقیقه  
-  **عنوان:** [At School | Super Easy German (17)](https://www.youtube.com/watch?v=5m01TOh0waE)  
-  ![](https://i.ytimg.com/vi/5m01TOh0waE/hqdefault.jpg)
