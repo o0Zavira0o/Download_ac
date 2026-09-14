@@ -1,6 +1,18 @@
-# Last Run: 2026-09-14 16:15 UTC
+# Last Run: 2026-09-14 21:48 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Fresh Houthi Strikes Inject New Uncertainty Into Iran War
+Published: 2026-09-14T21:11:14+00:00
+Link: https://foreignpolicy.com/2026/09/14/houthi-strikes-yemen-red-sea-saudi-arabia-iran-east-west-oil-pipeline/
+---
+[Foreign_Policy] Why My Kyiv Visit Worried Me So Much
+Published: 2026-09-14T19:11:03+00:00
+Link: https://foreignpolicy.com/2026/09/14/russia-ukraine-drone-attack-train-boris-johnson-war-putin-strategy/
+---
+[Foreign_Policy] The Laws of War Must Change for the Drone Age
+Published: 2026-09-14T18:28:46+00:00
+Link: https://foreignpolicy.com/2026/09/14/drones-civilians-law-geneva-conventions/
+---
 [Foreign_Policy] Trump Has Killed ‘Strategic Ambiguity’ Over Taiwan
 Published: 2026-09-14T14:53:52+00:00
 Link: https://foreignpolicy.com/2026/09/14/trump-xi-summit-deal-taiwan-strategic-ambiguity-defense-alliance-geopolitics/
@@ -40,32 +52,4 @@ Link: https://www.newyorker.com/magazine/2026/09/21/anti-zionism-benjamin-moser-
 [New_Yorker_Magazine] Ric Burns, N.Y.C. Optimist
 Published: 2026-09-12T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/09/21/ric-burns-nyc-optimist
----
-[Foreign_Policy] Why AfD Appeals to So Many Germans
-Published: 2026-09-11T20:30:05+00:00
-Link: https://foreignpolicy.com/2026/09/11/afd-germany-saxony-anhalt-election-far-right/
----
-[Foreign_Policy] Who Wears the BRICS Crown?
-Published: 2026-09-11T20:06:20+00:00
-Link: https://foreignpolicy.com/2026/09/11/brics-summit-india-modi-china-xi-iran-us-trade/
----
-[Foreign_Policy] What in the World?
-Published: 2026-09-11T19:56:50+00:00
-Link: https://foreignpolicy.com/2026/09/11/news-quiz-germany-state-election-afd-philippines-arrest-canada-tariffs-united-states/
----
-[Foreign_Policy] The United States of Propaganda
-Published: 2026-09-11T18:40:21+00:00
-Link: https://foreignpolicy.com/2026/09/11/trump-evil-us-propaganda-red-scare-democratic-socialism-mamdani/
----
-[Foreign_Policy] Discarding an Old Map and Seeing Africa With Fresh Eyes
-Published: 2026-09-11T18:05:22+00:00
-Link: https://foreignpolicy.com/2026/09/11/africa-map-united-states-trump-fertility-decline-west/
----
-[Foreign_Policy] A War Reporter’s Antidote to Nihilism
-Published: 2026-09-11T18:00:49+00:00
-Link: https://foreignpolicy.com/2026/09/11/sally-hayden-this-is-also-love-story-review-global-war-reporting/
----
-[Foreign_Policy] Don’t Blame Ukraine for High Gas Prices
-Published: 2026-09-11T16:24:29+00:00
-Link: https://foreignpolicy.com/2026/09/11/gas-prices-trump-iran-war-wright-ukraine-russia/
 ---
