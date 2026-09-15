@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-09-14T15:50:53Z_
+_آخرین به‌روزرسانی: 2026-09-15T14:17:05Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-09-15 13:00:06 (UTC)  
+  **مدت:** حدود 8.0 دقیقه  
+  **عنوان:** [Master Tables in nanoCAD: from Set of Drawings to auto List of Rooms -nanoCAD 3D Modeling- Lesson 17](https://www.youtube.com/watch?v=tCtU9DsUQ7o)  
+  ![](https://i.ytimg.com/vi/tCtU9DsUQ7o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-08 12:45:08 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-14T15:50:53Z_
   **مدت:** حدود 4.3 دقیقه  
   **عنوان:** [Extending, Joining, and Stretching Objects - Lesson 17](https://www.youtube.com/watch?v=D-cJUuHKDrA)  
   ![](https://i.ytimg.com/vi/D-cJUuHKDrA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-02-19 21:00:04 (UTC)  
-  **مدت:** حدود 4.5 دقیقه  
-  **عنوان:** [Filleting and Chamfering Objects - Lesson 16](https://www.youtube.com/watch?v=HETjrvBloGw)  
-  ![](https://i.ytimg.com/vi/HETjrvBloGw/hqdefault.jpg)

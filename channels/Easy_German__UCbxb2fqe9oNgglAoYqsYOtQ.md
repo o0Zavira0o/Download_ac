@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-14T15:50:53Z_
+_آخرین به‌روزرسانی: 2026-09-15T14:17:05Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-15 10:03:45 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Wer ist dein bester Freund? #easygerman #deutschlernen #learngerman](https://www.youtube.com/watch?v=i8_oiNDE-hA)  
+  ![](https://i.ytimg.com/vi/i8_oiNDE-hA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-14 07:43:08 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-14T15:50:53Z_
   **مدت:** حدود 10.7 دقیقه  
   **عنوان:** [Train rides in Germany and Austria | Easy German 183](https://www.youtube.com/watch?v=82ZVFxRl5nE)  
   ![](https://i.ytimg.com/vi/82ZVFxRl5nE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-15 19:09:36 (UTC)  
-  **مدت:** حدود 4.0 دقیقه  
-  **عنوان:** [Typical classroom scenes in German | Super Easy German (19)](https://www.youtube.com/watch?v=Pu5j2sSS8sc)  
-  ![](https://i.ytimg.com/vi/Pu5j2sSS8sc/hqdefault.jpg)

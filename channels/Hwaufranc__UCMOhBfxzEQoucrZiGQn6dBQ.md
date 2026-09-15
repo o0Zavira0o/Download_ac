@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-14T15:50:53Z_
+_آخرین به‌روزرسانی: 2026-09-15T14:17:05Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-15 13:00:12 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [다꾸 ASMR🐟❤️‍🔥 붕어빵 컬렉션 Art Journaling](https://www.youtube.com/watch?v=3yKTkK_M_CY)  
+  ![](https://i.ytimg.com/vi/3yKTkK_M_CY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-14 13:00:03 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-14T15:50:53Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [Ice Restock 1/2 #asmr #restock #iceasmr #satisfying](https://www.youtube.com/watch?v=CLOHUZUn43o)  
   ![](https://i.ytimg.com/vi/CLOHUZUn43o/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-06-29 11:52:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Scrapbooking Harry Potter #scrapbook #scrapbooking #asmr](https://www.youtube.com/watch?v=uYW2dGBvwJM)  
-  ![](https://i.ytimg.com/vi/uYW2dGBvwJM/hqdefault.jpg)

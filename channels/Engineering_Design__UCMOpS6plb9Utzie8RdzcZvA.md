@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-14T15:50:53Z_
+_آخرین به‌روزرسانی: 2026-09-15T14:17:05Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-15 05:28:47 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [CAD vs LEGO: Which design wins? 🤔#shorts #3dmodeling #lego](https://www.youtube.com/watch?v=SfB0Ub99aLI)  
+  ![](https://i.ytimg.com/vi/SfB0Ub99aLI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-14 11:30:32 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-14T15:50:53Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅Mechanical Mechanism | Gearless Power Transmission System](https://www.youtube.com/watch?v=CQN0GJmx4Zk)  
   ![](https://i.ytimg.com/vi/CQN0GJmx4Zk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-10-24 04:19:39 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Worm Gearbox Mechanism 📌](https://www.youtube.com/watch?v=575Wq1iAZI0)  
-  ![](https://i.ytimg.com/vi/575Wq1iAZI0/hqdefault.jpg)
