@@ -1,6 +1,14 @@
-# Last Run: 2026-09-15 13:15 UTC
+# Last Run: 2026-09-15 18:03 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Are Chinese Firms Handing the United States Data?
+Published: 2026-09-15T17:46:29+00:00
+Link: https://foreignpolicy.com/2026/09/15/china-us-ai-artificial-intelligence-data-summit-anthropic/
+---
+[Foreign_Policy] Brazil’s Election Won’t Fix Its Biggest Problems
+Published: 2026-09-15T14:43:42+00:00
+Link: https://foreignpolicy.com/2026/09/15/brazil-election-lula-flavio-bolsonaro-corruption-economy-debt/
+---
 [Foreign_Policy] How Al-Shabab Beat the Peacekeepers
 Published: 2026-09-15T10:00:30+00:00
 Link: https://foreignpolicy.com/2026/09/15/al-shabab-african-union-peacekeeping-mission/
@@ -12,6 +20,10 @@ Link: https://foreignpolicy.com/2026/09/15/only-china-india-and-russia-can-end-t
 [Foreign_Policy] The United States Must Prepare for More Than One Russian Future
 Published: 2026-09-15T04:01:52+00:00
 Link: https://foreignpolicy.com/2026/09/15/us-russia-diplomacy-negotiations/
+---
+[Foreign_Affairs] The New Chinese Way of Cyberwar
+Published: 2026-09-15T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/new-chinese-way-cyberwar-ai
 ---
 [Foreign_Affairs] The Crumbling Defense of Europe
 Published: 2026-09-15T04:00:00+00:00
