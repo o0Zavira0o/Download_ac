@@ -1,6 +1,10 @@
-# Last Run: 2026-09-15 18:03 UTC
+# Last Run: 2026-09-15 21:15 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump Picks the Wrong Beef Before Midterms
+Published: 2026-09-15T18:49:56+00:00
+Link: https://foreignpolicy.com/2026/09/15/trump-beef-prices-imports-ranchers-agriculture-midterm-elections/
+---
 [Foreign_Policy] Are Chinese Firms Handing the United States Data?
 Published: 2026-09-15T17:46:29+00:00
 Link: https://foreignpolicy.com/2026/09/15/china-us-ai-artificial-intelligence-data-summit-anthropic/
