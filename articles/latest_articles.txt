@@ -1,6 +1,10 @@
-# Last Run: 2026-09-16 04:43 UTC
+# Last Run: 2026-09-16 11:01 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] A Bumpy Peace Election in the Philippines
+Published: 2026-09-16T05:00:43+00:00
+Link: https://foreignpolicy.com/2026/09/16/bangsamoro-autonomous-region-election-philippines/
+---
 [Foreign_Affairs] Trump and Xi Can’t Stop the U.S.-China Spiral
 Published: 2026-09-16T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/trump-and-xi-cant-stop-us-china-spiral-orville-schell
@@ -76,24 +80,4 @@ Link: https://foreignpolicy.com/2026/09/14/aumf-presidential-war-powers-bush-9-1
 [Foreign_Affairs] Europe’s Hidden Trade Advantage
 Published: 2026-09-14T04:00:00+00:00
 Link: https://www.foreignaffairs.com/europe/europes-hidden-trade-advantage
----
-[New_Yorker_Magazine] “Driveway,” by Stephanie Horvath
-Published: 2026-09-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/21/driveway-stephanie-horvath-poem
----
-[New_Yorker_Magazine] How to Protect Democracy
-Published: 2026-09-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/21/how-to-protect-democracy
----
-[New_Yorker_Magazine] “Lost Child,” by Joyce Carol Oates
-Published: 2026-09-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/21/lost-child-fiction-joyce-carol-oates
----
-[New_Yorker_Magazine] “Late September,” by Jodie Hollander
-Published: 2026-09-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/21/late-september-jodie-hollander-poem
----
-[New_Yorker_Magazine] Is Zionism’s Moral Crisis About Roads Not Taken—or Original Sin?
-Published: 2026-09-13T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/21/anti-zionism-benjamin-moser-book-review
 ---
