@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-15T14:17:05Z_
+_آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-16 06:35:25 (UTC)  
+  **مدت:** حدود 10.9 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Tutorial: Learn the Basics in 10 Minutes!](https://www.youtube.com/watch?v=2lZJy5g_Znw)  
+  ![](https://i.ytimg.com/vi/2lZJy5g_Znw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-15 05:28:47 (UTC)  
@@ -140,7 +146,7 @@ _آخرین به‌روزرسانی: 2026-09-15T14:17:05Z_
 
 - **تاریخ انتشار:** 2026-08-20 05:00:22 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Piston Drive Mechanisms: Swashplate vs. Crankshaft](https://www.youtube.com/watch?v=Rkf5DAOQI-E)  
+  **عنوان:** [The Secret Behind Swashplate Motion ⚙️ #mechanical #engineering #physics](https://www.youtube.com/watch?v=Rkf5DAOQI-E)  
   ![](https://i.ytimg.com/vi/Rkf5DAOQI-E/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-15T14:17:05Z_
   **مدت:** حدود 34.0 دقیقه  
   **عنوان:** [How To Make A Stirling Engine - The Ultimate Guide](https://www.youtube.com/watch?v=HF2vT6aioLw)  
   ![](https://i.ytimg.com/vi/HF2vT6aioLw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-07 11:39:18 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Mechanical Mechanism | Gearless Power Transmission System](https://www.youtube.com/watch?v=CQN0GJmx4Zk)  
-  ![](https://i.ytimg.com/vi/CQN0GJmx4Zk/hqdefault.jpg)

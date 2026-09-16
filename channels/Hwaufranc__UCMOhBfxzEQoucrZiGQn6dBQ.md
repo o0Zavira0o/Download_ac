@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-15T14:17:05Z_
+_آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-16 12:30:12 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [다꾸 ASMR 3공 저널 꾸미기 Journaling Mini](https://www.youtube.com/watch?v=oPRAYd0yEWQ)  
+  ![](https://i.ytimg.com/vi/oPRAYd0yEWQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-16 10:00:01 (UTC)  
+  **مدت:** حدود 185.8 دقیقه  
+  **عنوان:** [ASMR 몸의 긴장을 풀어주는 힐링타임즈🌠 스트레스 해소 다꾸 영상 | 다이어리 꾸미기 3hour Journaling コラージュ](https://www.youtube.com/watch?v=Z67YZ68x6Y0)  
+  ![](https://i.ytimg.com/vi/Z67YZ68x6Y0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-15 13:00:12 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-15T14:17:05Z_
   **مدت:** حدود 5.7 دقیقه  
   **عنوان:** [How to decorate the July calendar 7월 달꾸 | DIY Calendar Ideas](https://www.youtube.com/watch?v=zGeRoFIZuz0)  
   ![](https://i.ytimg.com/vi/zGeRoFIZuz0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-01 09:06:00 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Ice Restock 2/2 🧊 #restock #organization #icerestock #asmr #ice](https://www.youtube.com/watch?v=it5cnDAwjl8)  
-  ![](https://i.ytimg.com/vi/it5cnDAwjl8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-01 09:05:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Ice Restock 1/2 #asmr #restock #iceasmr #satisfying](https://www.youtube.com/watch?v=CLOHUZUn43o)  
-  ![](https://i.ytimg.com/vi/CLOHUZUn43o/hqdefault.jpg)

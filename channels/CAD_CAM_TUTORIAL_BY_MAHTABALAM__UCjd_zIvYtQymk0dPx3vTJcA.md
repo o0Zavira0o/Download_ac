@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-15T14:17:05Z_
+_آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-15 15:51:56 (UTC)  
+  **مدت:** حدود 51.3 دقیقه  
+  **عنوان:** [SolidWorks Exercise-Cabinet Modeling](https://www.youtube.com/watch?v=5g38QDOvyQo)  
+  ![](https://i.ytimg.com/vi/5g38QDOvyQo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-14 03:30:08 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-15T14:17:05Z_
   **مدت:** حدود 3.2 دقیقه  
   **عنوان:** [Dell workstation Laptops for CAD softwares](https://www.youtube.com/watch?v=FHNoi1yF9W8)  
   ![](https://i.ytimg.com/vi/FHNoi1yF9W8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-09 10:48:05 (UTC)  
-  **مدت:** حدود 2.5 دقیقه  
-  **عنوان:** [How to activate Realview in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=HzqbUBVd-qk)  
-  ![](https://i.ytimg.com/vi/HzqbUBVd-qk/hqdefault.jpg)
