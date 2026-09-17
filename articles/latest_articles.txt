@@ -1,6 +1,18 @@
-# Last Run: 2026-09-17 18:02 UTC
+# Last Run: 2026-09-17 21:18 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] By Nearly Every Metric, the U.S. Is Losing the Iran War
+Published: 2026-09-17T20:27:11+00:00
+Link: https://foreignpolicy.com/2026/09/17/trump-united-states-losing-iran-war/
+---
+[Foreign_Policy] Sweden’s Right-Wing Reckoning
+Published: 2026-09-17T19:51:11+00:00
+Link: https://foreignpolicy.com/2026/09/17/sweden-election-kristersson-resigns-social-democrats-andersson/
+---
+[Foreign_Policy] The Lives Built on Colombia’s Peace Deal Are at Risk
+Published: 2026-09-17T19:06:44+00:00
+Link: https://foreignpolicy.com/2026/09/17/colombia-farc-peace-agreement-espriella-armed-groups-transitional-justice/
+---
 [Foreign_Policy] How Do You Dismantle a Propaganda Machine?
 Published: 2026-09-17T16:00:21+00:00
 Link: https://foreignpolicy.com/2026/09/17/hungary-orban-magyar-media-propaganda-public-faith/
@@ -112,16 +124,4 @@ Link: https://www.foreignaffairs.com/united-states/crumbling-defense-europe
 [Foreign_Affairs] The New Chinese Way of Cyberwar
 Published: 2026-09-15T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/new-chinese-way-cyberwar
----
-[Foreign_Policy] Fresh Houthi Strikes Inject New Uncertainty Into Iran War
-Published: 2026-09-14T21:11:14+00:00
-Link: https://foreignpolicy.com/2026/09/14/houthi-strikes-yemen-red-sea-saudi-arabia-iran-east-west-oil-pipeline/
----
-[Foreign_Policy] Why My Kyiv Visit Worried Me So Much
-Published: 2026-09-14T19:11:03+00:00
-Link: https://foreignpolicy.com/2026/09/14/russia-ukraine-drone-attack-train-boris-johnson-war-putin-strategy/
----
-[Foreign_Policy] The Laws of War Must Change for the Drone Age
-Published: 2026-09-14T18:28:46+00:00
-Link: https://foreignpolicy.com/2026/09/14/drones-civilians-law-geneva-conventions/
 ---
