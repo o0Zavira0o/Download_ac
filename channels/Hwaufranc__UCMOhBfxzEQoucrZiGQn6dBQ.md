@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
+_آخرین به‌روزرسانی: 2026-09-17T14:14:21Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-17 13:03:07 (UTC)  
+  **مدت:** حدود 19.2 دقیقه  
+  **عنوان:** [ASMR F/W 스크랩& 동양 시리즈 다꾸 팩 언박싱 jane&jace🤎 다꾸템 하울 문구 협찬 Journal Haul](https://www.youtube.com/watch?v=SQ_RyBrtLKA)  
+  ![](https://i.ytimg.com/vi/SQ_RyBrtLKA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-16 12:30:12 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Satisfying Calendar DIY #diy #calendar #july #asmr](https://www.youtube.com/watch?v=vWESuQGX3no)  
   ![](https://i.ytimg.com/vi/vWESuQGX3no/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-02 09:20:00 (UTC)  
-  **مدت:** حدود 5.7 دقیقه  
-  **عنوان:** [How to decorate the July calendar 7월 달꾸 | DIY Calendar Ideas](https://www.youtube.com/watch?v=zGeRoFIZuz0)  
-  ![](https://i.ytimg.com/vi/zGeRoFIZuz0/hqdefault.jpg)

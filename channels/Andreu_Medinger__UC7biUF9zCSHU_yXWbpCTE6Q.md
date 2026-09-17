@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
+_آخرین به‌روزرسانی: 2026-09-17T14:14:21Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-09-16 23:40:30 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [MATRIZ DE DOBRA MULTI-V FEITA DE HARDOX #hardox #engenharia #usinagem #industria #mecanica](https://www.youtube.com/watch?v=VAWVAzi0T2k)  
+  ![](https://i.ytimg.com/vi/VAWVAzi0T2k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-14 22:30:02 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
   **مدت:** حدود 3.0 دقیقه  
   **عنوان:** [APLICATIVO PARA CÁLCULO DO HARDOX. #solidworks #solidworksbrasil #engenhariamecanica #engenharia](https://www.youtube.com/watch?v=wVHd0tFIoI4)  
   ![](https://i.ytimg.com/vi/wVHd0tFIoI4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-03-14 22:30:01 (UTC)  
-  **مدت:** حدود 29.3 دقیقه  
-  **عنوان:** [AULA 34 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=AwlVprDxFww)  
-  ![](https://i.ytimg.com/vi/AwlVprDxFww/hqdefault.jpg)

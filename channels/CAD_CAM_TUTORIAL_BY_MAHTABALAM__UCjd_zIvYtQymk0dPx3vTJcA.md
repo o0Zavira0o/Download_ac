@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
+_آخرین به‌روزرسانی: 2026-09-17T14:14:21Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-17 03:30:24 (UTC)  
+  **مدت:** حدود 18.1 دقیقه  
+  **عنوان:** [How to Model Threads on a Bottle Neck in SolidWorks](https://www.youtube.com/watch?v=BTyZjmlt1So)  
+  ![](https://i.ytimg.com/vi/BTyZjmlt1So/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-15 15:51:56 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
   **مدت:** حدود 13.5 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Screw in Solidworks](https://www.youtube.com/watch?v=xkvumU8hjro)  
   ![](https://i.ytimg.com/vi/xkvumU8hjro/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-10 04:00:00 (UTC)  
-  **مدت:** حدود 3.2 دقیقه  
-  **عنوان:** [Dell workstation Laptops for CAD softwares](https://www.youtube.com/watch?v=FHNoi1yF9W8)  
-  ![](https://i.ytimg.com/vi/FHNoi1yF9W8/hqdefault.jpg)

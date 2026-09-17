@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
+_آخرین به‌روزرسانی: 2026-09-17T14:14:21Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-16 17:00:29 (UTC)  
+  **مدت:** حدود 14.2 دقیقه  
+  **عنوان:** [Learn German Over Coffee and Cake](https://www.youtube.com/watch?v=ScseAJrBnH4)  
+  ![](https://i.ytimg.com/vi/ScseAJrBnH4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-15 10:03:45 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
   **مدت:** حدود 5.6 دقیقه  
   **عنوان:** [At the warehouse | Super Easy German (20)](https://www.youtube.com/watch?v=USTRSV4fHNQ)  
   ![](https://i.ytimg.com/vi/USTRSV4fHNQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-19 18:41:24 (UTC)  
-  **مدت:** حدود 10.7 دقیقه  
-  **عنوان:** [Train rides in Germany and Austria | Easy German 183](https://www.youtube.com/watch?v=82ZVFxRl5nE)  
-  ![](https://i.ytimg.com/vi/82ZVFxRl5nE/hqdefault.jpg)

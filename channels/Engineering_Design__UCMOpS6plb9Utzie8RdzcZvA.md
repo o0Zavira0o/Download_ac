@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
+_آخرین به‌روزرسانی: 2026-09-17T14:14:21Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-17 03:10:09 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Self-centering vice or clamping mechanism](https://www.youtube.com/watch?v=k_83T8GavB0)  
+  ![](https://i.ytimg.com/vi/k_83T8GavB0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-16 06:35:25 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-16T14:09:06Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [Elliptical Trammel Mechanism](https://www.youtube.com/watch?v=YEspbfTNLs8)  
   ![](https://i.ytimg.com/vi/YEspbfTNLs8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-09 05:43:46 (UTC)  
-  **مدت:** حدود 34.0 دقیقه  
-  **عنوان:** [How To Make A Stirling Engine - The Ultimate Guide](https://www.youtube.com/watch?v=HF2vT6aioLw)  
-  ![](https://i.ytimg.com/vi/HF2vT6aioLw/hqdefault.jpg)
