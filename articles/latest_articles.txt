@@ -1,6 +1,14 @@
-# Last Run: 2026-09-17 13:09 UTC
+# Last Run: 2026-09-17 18:02 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How Do You Dismantle a Propaganda Machine?
+Published: 2026-09-17T16:00:21+00:00
+Link: https://foreignpolicy.com/2026/09/17/hungary-orban-magyar-media-propaganda-public-faith/
+---
+[Foreign_Policy] China, Not Iran, Is Trump’s Real Foreign-Policy Debacle
+Published: 2026-09-17T15:50:31+00:00
+Link: https://foreignpolicy.com/2026/09/17/china-iran-trump-debacle-foreign-policy-war-trade-sanctions/
+---
 [Foreign_Policy] What’s the Matter With Eastern Germany?
 Published: 2026-09-17T11:57:24+00:00
 Link: https://foreignpolicy.com/2026/09/17/afd-germany-east-germany-reunification-history/
@@ -116,8 +124,4 @@ Link: https://foreignpolicy.com/2026/09/14/russia-ukraine-drone-attack-train-bor
 [Foreign_Policy] The Laws of War Must Change for the Drone Age
 Published: 2026-09-14T18:28:46+00:00
 Link: https://foreignpolicy.com/2026/09/14/drones-civilians-law-geneva-conventions/
----
-[Foreign_Policy] Trump Has Killed ‘Strategic Ambiguity’ Over Taiwan
-Published: 2026-09-14T14:53:52+00:00
-Link: https://foreignpolicy.com/2026/09/14/trump-xi-summit-deal-taiwan-strategic-ambiguity-defense-alliance-geopolitics/
 ---
