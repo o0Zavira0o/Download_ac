@@ -1,4 +1,4 @@
-# Last Run: 2026-09-18 00:00 UTC
+# Last Run: 2026-09-18 04:00 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Trump’s Risky Hack-Back Plan
@@ -116,16 +116,4 @@ Link: https://foreignpolicy.com/2026/09/15/only-china-india-and-russia-can-end-t
 [Foreign_Policy] The United States Must Prepare for More Than One Russian Future
 Published: 2026-09-15T04:01:52+00:00
 Link: https://foreignpolicy.com/2026/09/15/us-russia-diplomacy-negotiations/
----
-[Foreign_Affairs] The New Chinese Way of Cyberwar
-Published: 2026-09-15T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/new-chinese-way-cyberwar-ai
----
-[Foreign_Affairs] The Crumbling Defense of Europe
-Published: 2026-09-15T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/crumbling-defense-europe
----
-[Foreign_Affairs] The New Chinese Way of Cyberwar
-Published: 2026-09-15T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/new-chinese-way-cyberwar
 ---
