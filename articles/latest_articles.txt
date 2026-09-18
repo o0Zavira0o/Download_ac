@@ -1,6 +1,26 @@
-# Last Run: 2026-09-18 08:57 UTC
+# Last Run: 2026-09-18 19:00 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Chinese Literature Is Undergoing a Vibe Shift
+Published: 2026-09-18T18:20:18+00:00
+Link: https://foreignpolicy.com/2026/09/18/china-workers-literature-ccp-censorship-xi-wang-jibing/
+---
+[Foreign_Policy] Emily Wilson Chooses Her Words Carefully
+Published: 2026-09-18T18:00:31+00:00
+Link: https://foreignpolicy.com/2026/09/18/odyssey-emily-wilson-translation-nolan/
+---
+[Foreign_Policy] How Americanness Overcomes Islamophobia
+Published: 2026-09-18T16:18:52+00:00
+Link: https://foreignpolicy.com/2026/09/18/rozina-ali-seasons-fury-review-islamophobia-911-attacks-america/
+---
+[Foreign_Policy] The Houthi Advance Is About More Than Just Iran
+Published: 2026-09-18T14:36:21+00:00
+Link: https://foreignpolicy.com/2026/09/18/houthi-yemen-saudi-arabia-uae-iran-oil-israel-united-states/
+---
+[Foreign_Policy] What the BRICS Summit Meant for Brazil
+Published: 2026-09-18T12:00:12+00:00
+Link: https://foreignpolicy.com/2026/09/18/brazil-brics-summit-new-delhi-diplomacy-climate/
+---
 [Foreign_Affairs] Ebola Is Only the Beginning
 Published: 2026-09-18T04:00:00+00:00
 Link: https://www.foreignaffairs.com/democratic-republic-congo/ebola-only-beginning
@@ -100,20 +120,4 @@ Link: https://foreignpolicy.com/2026/09/15/china-us-ai-safety-trump-xi-summit-di
 [Foreign_Policy] Are Drone Incursions Europe’s New Normal?
 Published: 2026-09-15T20:52:12+00:00
 Link: https://foreignpolicy.com/2026/09/15/nato-russia-drone-lithuania-incursion-ukraine-denmark-oil/
----
-[Foreign_Policy] Trump Picks the Wrong Beef Before Midterms
-Published: 2026-09-15T18:49:56+00:00
-Link: https://foreignpolicy.com/2026/09/15/trump-beef-prices-imports-ranchers-agriculture-midterm-elections/
----
-[Foreign_Policy] Are Chinese Firms Handing the United States Data?
-Published: 2026-09-15T17:46:29+00:00
-Link: https://foreignpolicy.com/2026/09/15/china-us-ai-artificial-intelligence-data-summit-anthropic/
----
-[Foreign_Policy] Brazil’s Election Won’t Fix Its Biggest Problems
-Published: 2026-09-15T14:43:42+00:00
-Link: https://foreignpolicy.com/2026/09/15/brazil-election-lula-flavio-bolsonaro-corruption-economy-debt/
----
-[Foreign_Policy] How Al-Shabab Beat the Peacekeepers
-Published: 2026-09-15T10:00:30+00:00
-Link: https://foreignpolicy.com/2026/09/15/al-shabab-african-union-peacekeeping-mission/
 ---
