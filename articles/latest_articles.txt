@@ -1,6 +1,22 @@
-# Last Run: 2026-09-18 19:00 UTC
+# Last Run: 2026-09-18 22:24 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Russia’s Parliamentary Elections Offer Rituals, Not Results
+Published: 2026-09-18T20:36:44+00:00
+Link: https://foreignpolicy.com/2026/09/18/russia-elections-state-duma-results-putin-democracy-ukraine/
+---
+[Foreign_Policy] Will Russia Ever Be ‘Normal’?
+Published: 2026-09-18T19:00:16+00:00
+Link: https://foreignpolicy.com/2026/09/18/russia-war-putin-empire-imperialism-history-ukraine-neighbors-soviet/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-09-18T18:54:46+00:00
+Link: https://foreignpolicy.com/2026/09/18/news-quiz-houthi-strikes-saudi-arabia-eu-finland-xi-modi-brics-summit/
+---
+[Foreign_Policy] In War, Trump and Putin Are Much Alike
+Published: 2026-09-18T18:40:12+00:00
+Link: https://foreignpolicy.com/2026/09/18/keir-giles-american-overthrow-book-trump-putin-war-iran-ukraine-russia/
+---
 [Foreign_Policy] Chinese Literature Is Undergoing a Vibe Shift
 Published: 2026-09-18T18:20:18+00:00
 Link: https://foreignpolicy.com/2026/09/18/china-workers-literature-ccp-censorship-xi-wang-jibing/
@@ -112,12 +128,4 @@ Link: https://foreignpolicy.com/2026/09/16/bangsamoro-autonomous-region-election
 [Foreign_Affairs] Trump and Xi Can’t Stop the U.S.-China Spiral
 Published: 2026-09-16T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/trump-and-xi-cant-stop-us-china-spiral-orville-schell
----
-[Foreign_Policy] Trump and Xi Won’t Find Common Ground on AI Safety
-Published: 2026-09-15T21:35:37+00:00
-Link: https://foreignpolicy.com/2026/09/15/china-us-ai-safety-trump-xi-summit-diplomacy/
----
-[Foreign_Policy] Are Drone Incursions Europe’s New Normal?
-Published: 2026-09-15T20:52:12+00:00
-Link: https://foreignpolicy.com/2026/09/15/nato-russia-drone-lithuania-incursion-ukraine-denmark-oil/
 ---
