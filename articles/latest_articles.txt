@@ -1,6 +1,10 @@
-# Last Run: 2026-09-17 21:18 UTC
+# Last Run: 2026-09-18 00:00 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump’s Risky Hack-Back Plan
+Published: 2026-09-17T21:39:41+00:00
+Link: https://foreignpolicy.com/2026/09/17/trump-cybersecurity-hack-back-private-companies-ai/
+---
 [Foreign_Policy] By Nearly Every Metric, the U.S. Is Losing the Iran War
 Published: 2026-09-17T20:27:11+00:00
 Link: https://foreignpolicy.com/2026/09/17/trump-united-states-losing-iran-war/
