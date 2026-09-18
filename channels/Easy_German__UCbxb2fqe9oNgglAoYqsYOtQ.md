@@ -1,14 +1,26 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-17T14:14:21Z_
+_آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
 
 
+- **تاریخ انتشار:** 2026-09-18 08:26:59 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Im Gym #shorts #SmallTalk #EasyGerman](https://www.youtube.com/watch?v=tUAuMoV3B4I)  
+  ![](https://i.ytimg.com/vi/tUAuMoV3B4I/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-17 15:30:58 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Warum Deutschland? #shorts #deutschlernen #neueszuhause](https://www.youtube.com/watch?v=4B-j8CTIMJY)  
+  ![](https://i.ytimg.com/vi/4B-j8CTIMJY/hqdefault.jpg)
+
+
 - **تاریخ انتشار:** 2026-09-16 17:00:29 (UTC)  
   **مدت:** حدود 14.2 دقیقه  
-  **عنوان:** [Learn German Over Coffee and Cake](https://www.youtube.com/watch?v=ScseAJrBnH4)  
+  **عنوان:** [Why Germans Love Coffee and Cake (Slow German Conversation)](https://www.youtube.com/watch?v=ScseAJrBnH4)  
   ![](https://i.ytimg.com/vi/ScseAJrBnH4/hqdefault.jpg)
 
 
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-17T14:14:21Z_
   **مدت:** حدود 3.2 دقیقه  
   **عنوان:** [Hobbies | Super Easy German (21)](https://www.youtube.com/watch?v=luM9zypWm9Y)  
   ![](https://i.ytimg.com/vi/luM9zypWm9Y/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-26 18:00:16 (UTC)  
-  **مدت:** حدود 10.5 دقیقه  
-  **عنوان:** [What is German Humor? | Easy German 184](https://www.youtube.com/watch?v=Fi-8k-3NBfs)  
-  ![](https://i.ytimg.com/vi/Fi-8k-3NBfs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-22 19:01:43 (UTC)  
-  **مدت:** حدود 5.6 دقیقه  
-  **عنوان:** [At the warehouse | Super Easy German (20)](https://www.youtube.com/watch?v=USTRSV4fHNQ)  
-  ![](https://i.ytimg.com/vi/USTRSV4fHNQ/hqdefault.jpg)

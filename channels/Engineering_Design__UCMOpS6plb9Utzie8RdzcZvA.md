@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-17T14:14:21Z_
+_آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-18 12:30:01 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How Hand-Cranked Grinders Actually Work Inside! 🤯](https://www.youtube.com/watch?v=6l24n-jXm0I)  
+  ![](https://i.ytimg.com/vi/6l24n-jXm0I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-17 03:10:09 (UTC)  
@@ -134,7 +140,7 @@ _آخرین به‌روزرسانی: 2026-09-17T14:14:21Z_
 
 - **تاریخ انتشار:** 2026-08-22 10:22:01 (UTC)  
   **مدت:** حدود 9.9 دقیقه  
-  **عنوان:** [SolidWorks Sheet Metal Tutorial | 2D Engineering Drawing to 3D Model](https://www.youtube.com/watch?v=6jJE60uJsYc)  
+  **عنوان:** [SolidWorks Sheet Metal Basics: Everything You Need to Know](https://www.youtube.com/watch?v=6jJE60uJsYc)  
   ![](https://i.ytimg.com/vi/6jJE60uJsYc/hqdefault.jpg)
 
 
@@ -242,7 +248,7 @@ _آخرین به‌روزرسانی: 2026-09-17T14:14:21Z_
 
 - **تاریخ انتشار:** 2026-07-29 03:03:40 (UTC)  
   **مدت:** حدود 7.2 دقیقه  
-  **عنوان:** [SOLIDWORKS Weldment Tutorial | 2D Drawing to 3D Model Step-by-Step (Beginner to Pro)](https://www.youtube.com/watch?v=dW5-mqU6Ya4)  
+  **عنوان:** [Model This Mechanical Part: SOLIDWORKS Weldment Project](https://www.youtube.com/watch?v=dW5-mqU6Ya4)  
   ![](https://i.ytimg.com/vi/dW5-mqU6Ya4/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-17T14:14:21Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅CAM and Roller Follower | Mechanism Animation](https://www.youtube.com/watch?v=3oCHBroZ9bk)  
   ![](https://i.ytimg.com/vi/3oCHBroZ9bk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-15 10:03:59 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Elliptical Trammel Mechanism](https://www.youtube.com/watch?v=YEspbfTNLs8)  
-  ![](https://i.ytimg.com/vi/YEspbfTNLs8/hqdefault.jpg)
