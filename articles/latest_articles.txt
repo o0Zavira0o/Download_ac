@@ -1,4 +1,4 @@
-# Last Run: 2026-09-19 03:35 UTC
+# Last Run: 2026-09-19 08:40 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Russia’s Parliamentary Elections Offer Rituals, Not Results
@@ -120,12 +120,4 @@ Link: https://foreignpolicy.com/2026/09/16/north-korea-united-states-trump-kim-m
 [Foreign_Policy] Lebanon’s New Amnesty Law Shows Sunnis’ Growing Power
 Published: 2026-09-16T13:21:03+00:00
 Link: https://foreignpolicy.com/2026/09/16/lebanon-beirut-islamist-sunni-hezbollah-syria-amnesty/
----
-[Foreign_Policy] A Bumpy Peace Election in the Philippines
-Published: 2026-09-16T05:00:43+00:00
-Link: https://foreignpolicy.com/2026/09/16/bangsamoro-autonomous-region-election-philippines/
----
-[Foreign_Affairs] Trump and Xi Can’t Stop the U.S.-China Spiral
-Published: 2026-09-16T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/trump-and-xi-cant-stop-us-china-spiral-orville-schell
 ---
