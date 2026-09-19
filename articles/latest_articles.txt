@@ -1,4 +1,4 @@
-# Last Run: 2026-09-19 20:12 UTC
+# Last Run: 2026-09-19 23:59 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Israel’s Qatargate Scandal
@@ -96,16 +96,4 @@ Link: https://www.foreignaffairs.com/cuba/cubas-point-no-return
 [Foreign_Policy] Modi and Xi’s Meeting Caps a Detente
 Published: 2026-09-17T00:21:25+00:00
 Link: https://foreignpolicy.com/2026/09/16/modi-xi-brics-meeting-india-china-detente/
----
-[Foreign_Policy] The EU’s 28th State?
-Published: 2026-09-16T21:36:35+00:00
-Link: https://foreignpolicy.com/2026/09/16/eu-canada-associate-member-von-der-leyen-carney-trade-trump/
----
-[Foreign_Policy] The Fed Bucks Trump and Raises Interest Rates
-Published: 2026-09-16T20:41:40+00:00
-Link: https://foreignpolicy.com/2026/09/16/fed-interest-rate-hike-increase-trump-inflation/
----
-[Foreign_Policy] What’s Behind Nigeria’s Military Spending Spree
-Published: 2026-09-16T20:33:22+00:00
-Link: https://foreignpolicy.com/2026/09/16/nigeria-military-reforms-spending-insurgency-violence-tinubu-election/
 ---
