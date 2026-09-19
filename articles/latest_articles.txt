@@ -1,6 +1,18 @@
-# Last Run: 2026-09-19 13:46 UTC
+# Last Run: 2026-09-19 17:05 UTC
 # Articles published in last 72 hours
 
+[New_Yorker_Magazine] Israel’s Qatargate Scandal
+Published: 2026-09-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/israels-qatargate-scandal
+---
+[New_Yorker_Magazine] Who’s on Susanna Hoffs’s List?
+Published: 2026-09-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/whos-on-susanna-hoffs-list
+---
+[New_Yorker_Magazine] The Unknowable Miley Cyrus
+Published: 2026-09-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/bass-persuades-miley-music-review
+---
 [Foreign_Policy] Russia’s Parliamentary Elections Offer Rituals, Not Results
 Published: 2026-09-18T20:36:44+00:00
 Link: https://foreignpolicy.com/2026/09/18/russia-elections-state-duma-results-putin-democracy-ukraine/
@@ -104,16 +116,4 @@ Link: https://foreignpolicy.com/2026/09/16/russia-state-duma-elections-anti-war-
 [Foreign_Policy] Trump, God, and the Struggle for the Chin State
 Published: 2026-09-16T17:25:22+00:00
 Link: https://foreignpolicy.com/2026/09/16/trump-god-and-the-struggle-for-the-chin-state/
----
-[Foreign_Policy] Georgia’s Government Is Using Civility as an Excuse to Crush Critics
-Published: 2026-09-16T16:06:48+00:00
-Link: https://foreignpolicy.com/2026/09/16/georgia-vulgarity-social-media-government/
----
-[Foreign_Policy] Why Existential AI Fears Have Hit a Crescendo
-Published: 2026-09-16T14:49:19+00:00
-Link: https://foreignpolicy.com/2026/09/16/ai-risk-jacob-coxon-openai-anthropic-dario-amodei-sam-altman-trump-doomsday/
----
-[Foreign_Policy] The Next Trump-Kim Summit Could Be About North Korea’s Future Ruler
-Published: 2026-09-16T13:50:23+00:00
-Link: https://foreignpolicy.com/2026/09/16/north-korea-united-states-trump-kim-meeting-heir-succession/
 ---
