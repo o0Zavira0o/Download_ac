@@ -1,4 +1,4 @@
-# Last Run: 2026-09-19 17:05 UTC
+# Last Run: 2026-09-19 20:12 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Israel’s Qatargate Scandal
@@ -108,12 +108,4 @@ Link: https://foreignpolicy.com/2026/09/16/fed-interest-rate-hike-increase-trump
 [Foreign_Policy] What’s Behind Nigeria’s Military Spending Spree
 Published: 2026-09-16T20:33:22+00:00
 Link: https://foreignpolicy.com/2026/09/16/nigeria-military-reforms-spending-insurgency-violence-tinubu-election/
----
-[Foreign_Policy] Russia Purges Its Last Anti-War Politicians
-Published: 2026-09-16T18:59:52+00:00
-Link: https://foreignpolicy.com/2026/09/16/russia-state-duma-elections-anti-war-candidate-purge/
----
-[Foreign_Policy] Trump, God, and the Struggle for the Chin State
-Published: 2026-09-16T17:25:22+00:00
-Link: https://foreignpolicy.com/2026/09/16/trump-god-and-the-struggle-for-the-chin-state/
 ---
