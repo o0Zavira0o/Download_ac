@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
+_آخرین به‌روزرسانی: 2026-09-19T13:01:57Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-18 13:45:33 (UTC)  
+  **مدت:** حدود 10.8 دقیقه  
+  **عنوان:** [다꾸 ASMR 스크랩 블랙🖤 다이어리 꾸미기 | 다꾸템 Scrapbook Journal コラージュ diy](https://www.youtube.com/watch?v=MPUavFwWPKc)  
+  ![](https://i.ytimg.com/vi/MPUavFwWPKc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-17 13:03:07 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [Aesthetic Sticker ASMR Sounds](https://www.youtube.com/watch?v=r3Y6TQj6JfM)  
   ![](https://i.ytimg.com/vi/r3Y6TQj6JfM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-03 10:40:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Satisfying Calendar DIY #diy #calendar #july #asmr](https://www.youtube.com/watch?v=vWESuQGX3no)  
-  ![](https://i.ytimg.com/vi/vWESuQGX3no/hqdefault.jpg)

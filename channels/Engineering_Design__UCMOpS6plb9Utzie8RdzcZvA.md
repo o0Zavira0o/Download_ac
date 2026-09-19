@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
+_آخرین به‌روزرسانی: 2026-09-19T13:01:57Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-19 05:30:28 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Automated vs. Manual Rowing Mechanisms](https://www.youtube.com/watch?v=F5-H6mBLvZM)  
+  ![](https://i.ytimg.com/vi/F5-H6mBLvZM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-18 12:30:01 (UTC)  
@@ -62,7 +68,7 @@ _آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
 
 - **تاریخ انتشار:** 2026-09-08 12:06:00 (UTC)  
   **مدت:** حدود 15.8 دقیقه  
-  **عنوان:** [SOLIDWORKS Sheet Metal Tutorial | Design This Amazing Mechanical Elephant Step-by-Step](https://www.youtube.com/watch?v=3Ou1BS3yMvE)  
+  **عنوان:** [✅SOLIDWORKS Sheet Metal Tutorial | Design This Amazing Mechanical Elephant Step-by-Step](https://www.youtube.com/watch?v=3Ou1BS3yMvE)  
   ![](https://i.ytimg.com/vi/3Ou1BS3yMvE/hqdefault.jpg)
 
 
@@ -92,7 +98,7 @@ _آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
 
 - **تاریخ انتشار:** 2026-08-31 10:00:38 (UTC)  
   **مدت:** حدود 4.4 دقیقه  
-  **عنوان:** [SOLIDWORKS Weldments Tutorial | Complete Cut List & Detailed 2D Drawing](https://www.youtube.com/watch?v=n2DGk0ZgcFI)  
+  **عنوان:** [✅SOLIDWORKS Weldments Tutorial | Complete Cut List & Detailed 2D Drawing](https://www.youtube.com/watch?v=n2DGk0ZgcFI)  
   ![](https://i.ytimg.com/vi/n2DGk0ZgcFI/hqdefault.jpg)
 
 
@@ -110,7 +116,7 @@ _آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
 
 - **تاریخ انتشار:** 2026-08-27 10:00:37 (UTC)  
   **مدت:** حدود 13.1 دقیقه  
-  **عنوان:** [SOLIDWORKS Tutorial: Industrial Stair & Platform Design | Weldments](https://www.youtube.com/watch?v=_stuA--PGas)  
+  **عنوان:** [✅SOLIDWORKS Tutorial: Industrial Stair & Platform Design | Weldments](https://www.youtube.com/watch?v=_stuA--PGas)  
   ![](https://i.ytimg.com/vi/_stuA--PGas/hqdefault.jpg)
 
 
@@ -122,7 +128,7 @@ _آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
 
 - **تاریخ انتشار:** 2026-08-25 12:40:19 (UTC)  
   **مدت:** حدود 3.6 دقیقه  
-  **عنوان:** [Modeling a 3D Textured Ball in SolidWorks | Step-by-Step Tutorial](https://www.youtube.com/watch?v=D0T620Ua5gw)  
+  **عنوان:** [✅Modeling a 3D Textured Ball in SolidWorks | Step-by-Step Tutorial](https://www.youtube.com/watch?v=D0T620Ua5gw)  
   ![](https://i.ytimg.com/vi/D0T620Ua5gw/hqdefault.jpg)
 
 
@@ -236,7 +242,7 @@ _آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
 
 - **تاریخ انتشار:** 2026-07-31 13:20:50 (UTC)  
   **مدت:** حدود 8.6 دقیقه  
-  **عنوان:** [How to Design a Steel Frame in SolidWorks in 10 Mins!](https://www.youtube.com/watch?v=-RUKw7LqMyM)  
+  **عنوان:** [✅How to Design a Steel Frame in SolidWorks in 10 Mins!](https://www.youtube.com/watch?v=-RUKw7LqMyM)  
   ![](https://i.ytimg.com/vi/-RUKw7LqMyM/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
   **مدت:** حدود 11.7 دقیقه  
   **عنوان:** [How to Design a Cam & Roller Follower Assembly in Solidworks](https://www.youtube.com/watch?v=mcjHAanYT60)  
   ![](https://i.ytimg.com/vi/mcjHAanYT60/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-18 11:46:03 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅CAM and Roller Follower | Mechanism Animation](https://www.youtube.com/watch?v=3oCHBroZ9bk)  
-  ![](https://i.ytimg.com/vi/3oCHBroZ9bk/hqdefault.jpg)

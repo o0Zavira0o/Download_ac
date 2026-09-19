@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
+_آخرین به‌روزرسانی: 2026-09-19T13:01:57Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-09-19 08:00:53 (UTC)  
+  **مدت:** حدود 3.0 دقیقه  
+  **عنوان:** [How to make a forming tool in solidworks sheetmetal #shorts #ytshorts #solidworks #malviyacad](https://www.youtube.com/watch?v=kLS209g25Ws)  
+  ![](https://i.ytimg.com/vi/kLS209g25Ws/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-11 09:08:48 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
   **مدت:** حدود 8.9 دقیقه  
   **عنوان:** [Design of Wooden Screw in Solidworks | Solidworks Tutorial](https://www.youtube.com/watch?v=t0sjMvovGI4)  
   ![](https://i.ytimg.com/vi/t0sjMvovGI4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-28 04:39:28 (UTC)  
-  **مدت:** حدود 2.1 دقیقه  
-  **عنوان:** [Hole thread on circular face in solidworks #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=1mIwoL2A0jA)  
-  ![](https://i.ytimg.com/vi/1mIwoL2A0jA/hqdefault.jpg)

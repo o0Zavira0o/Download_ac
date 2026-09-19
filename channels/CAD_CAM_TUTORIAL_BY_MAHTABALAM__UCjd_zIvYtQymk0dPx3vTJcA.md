@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
+_آخرین به‌روزرسانی: 2026-09-19T13:01:57Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-18 15:10:05 (UTC)  
+  **مدت:** حدود 12.4 دقیقه  
+  **عنوان:** [Curved Plastic Box Modeling in SolidWorks (Lofted Surface, Split and Lip-Groove Feature)](https://www.youtube.com/watch?v=-nYo2ufxkaw)  
+  ![](https://i.ytimg.com/vi/-nYo2ufxkaw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-17 03:30:24 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
   **مدت:** حدود 18.2 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch drill chuck key in Solidworks](https://www.youtube.com/watch?v=w9ZlR035Iz8)  
   ![](https://i.ytimg.com/vi/w9ZlR035Iz8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-11 12:42:35 (UTC)  
-  **مدت:** حدود 13.5 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Screw in Solidworks](https://www.youtube.com/watch?v=xkvumU8hjro)  
-  ![](https://i.ytimg.com/vi/xkvumU8hjro/hqdefault.jpg)

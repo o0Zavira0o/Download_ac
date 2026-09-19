@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-09-18T13:32:43Z_
+_آخرین به‌روزرسانی: 2026-09-19T13:01:57Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-09-19 10:00:03 (UTC)  
+  **مدت:** حدود 18.1 دقیقه  
+  **عنوان:** [44,CUTE PANDA | 2-Sheet Origami Giant Panda | Silent Origami かわいいパンダ｜2枚の折り紙で作るジャイアントパンダ【無言の折り紙】](https://www.youtube.com/watch?v=qHTvW3BHh5w)  
+  ![](https://i.ytimg.com/vi/qHTvW3BHh5w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-12 10:00:26 (UTC)  
