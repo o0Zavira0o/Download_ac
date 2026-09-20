@@ -1,4 +1,106 @@
 ================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | IrGens
+Title  : Code Quality and Refactoring in Visual Studio 2026
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h 9m | 490 MB
+Link   : http://zavat.pw/ebooks/code-quality-refactoring-visual-studio-2026.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | IrGens
+Title  : Critical Thinking Foundations
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 8m | 860 MB
+Link   : http://zavat.pw/ebooks/critical-thinking-foundations.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | IrGens
+Title  : AI-Native Backend Engineering with JavaScript
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h 52m | 550 MB
+Link   : http://zavat.pw/ebooks/ai-native-backend-engineering-javascript.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | IrGens
+Title  : Fine-Tuning and Optimizing Small Language Models
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 3h 28m | 1.28 GB
+Link   : http://zavat.pw/ebooks/fine-tuning-optimizing-small-language-models.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | IrGens
+Title  : Co-engineering Scalable FastAPI Backends: The AI-driven Workflow
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 40m | 380 MB
+Link   : http://zavat.pw/ebooks/co-engineering-scalable-fastapi-backends-ai-driven-workflow.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | IrGens
+Title  : Knowledge Graphs for Generative AI
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 59m | 329 MB
+Link   : http://zavat.pw/ebooks/knowledge-graphs-generative-ai.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | IrGens
+Title  : Claude Code at Scale
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 44m | 245 MB
+Link   : http://zavat.pw/ebooks/claude-code-scale.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | IrGens
+Title  : Google Cloud Serverless Compute Operations
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 15m | 280 MB
+Link   : http://zavat.pw/ebooks/google-cloud-serverless-compute-operations.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | hill0
+Title  : Project Management for Banks
+Details: English | 2022 | ISBN: 1637421117 | 134 Pages | PDF | 3 MB
+Link   : http://zavat.pw/ebooks/1637421117P.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | hill0
+Title  : Accountable Design
+Details: English | 2026 | ISBN: 1108833616 | 279 Pages | PDF | 5 MB
+Link   : http://zavat.pw/ebooks/1108833616.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | hill0
+Title  : Timelines of Science
+Details: English | 2022 | ISBN: 0744060176 | 322 Pages | EPUB (True) | 134 MB
+Link   : http://zavat.pw/ebooks/0744060176E.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | hill0
+Title  : The New Food Fight
+Details: English | 2025 | ISBN: 0197752535 | 250 Pages | EPUB (True) | 5 MB
+Link   : http://zavat.pw/ebooks/0197752535.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | hill0
+Title  : Banking the Missing Middle
+Details: English | 2026 | ISBN: 3032345812 | 164 Pages | PDF EPUB (True) | 5 MB
+Link   : http://zavat.pw/ebooks/3032345812.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | hill0
+Title  : Internal Medicine Basics for Anesthesiology
+Details: English | 2026 | ISBN: 3032293960 | 1461 Pages | PDF (True) | 411 MB
+Link   : http://zavat.pw/ebooks/3032293960.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | hill0
+Title  : Contemporary Business, 5th Edition
+Details: English | 2026 | ISBN: 1394328494 | 658 Pages | PDF (True) | 22 MB
+Link   : http://zavat.pw/ebooks/1394328494.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | hill0
+Title  : Manage the Machine
+Details: English | 2025 | ISBN: 1541608208 | 238 Pages | EPUB (True) | 2 MB
+Link   : http://zavat.pw/ebooks/1541608208.html
+
+================================================================================
+2026-09-20 20:24:55 (Asia/Tehran) | hill0
+Title  : The Hitler Years: Holocaust 1933-1945
+Details: English | 2025 | ISBN: 1035912481 | 371 Pages | EPUB (True) | 81 MB
+Link   : http://zavat.pw/ebooks/1035912481.html
+
+================================================================================
 2026-09-20 16:38:18 (Asia/Tehran) | IrGens
 Title  : The Story of America: Essays on Origins
 Details: English | September 15, 2026 | ISBN: 0691293716, 9780691297620 | True EPUB | 427 pages | 1.5 MB
