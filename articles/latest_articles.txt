@@ -1,4 +1,4 @@
-# Last Run: 2026-09-20 14:02 UTC
+# Last Run: 2026-09-20 17:27 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Israel’s Qatargate Scandal
@@ -72,12 +72,4 @@ Link: https://foreignpolicy.com/2026/09/17/sweden-election-kristersson-resigns-s
 [Foreign_Policy] The Lives Built on Colombia’s Peace Deal Are at Risk
 Published: 2026-09-17T19:06:44+00:00
 Link: https://foreignpolicy.com/2026/09/17/colombia-farc-peace-agreement-espriella-armed-groups-transitional-justice/
----
-[Foreign_Policy] How Do You Dismantle a Propaganda Machine?
-Published: 2026-09-17T16:00:21+00:00
-Link: https://foreignpolicy.com/2026/09/17/hungary-orban-magyar-media-propaganda-public-faith/
----
-[Foreign_Policy] China, Not Iran, Is Trump’s Real Foreign-Policy Debacle
-Published: 2026-09-17T15:50:31+00:00
-Link: https://foreignpolicy.com/2026/09/17/china-iran-trump-debacle-foreign-policy-war-trade-sanctions/
 ---
