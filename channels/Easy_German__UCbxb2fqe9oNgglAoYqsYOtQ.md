@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-19T13:01:57Z_
+_آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-19 17:39:23 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Manuels Gedächtnismethode  #easygerman #gedächtnis #studygerman](https://www.youtube.com/watch?v=-Kp9-GWwYmw)  
+  ![](https://i.ytimg.com/vi/-Kp9-GWwYmw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-18 08:26:59 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-19T13:01:57Z_
   **مدت:** حدود 10.9 دقیقه  
   **عنوان:** [Lawyers in Germany | Easy German 185](https://www.youtube.com/watch?v=u5GZIEGS71c)  
   ![](https://i.ytimg.com/vi/u5GZIEGS71c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-01 18:21:59 (UTC)  
-  **مدت:** حدود 3.2 دقیقه  
-  **عنوان:** [Hobbies | Super Easy German (21)](https://www.youtube.com/watch?v=luM9zypWm9Y)  
-  ![](https://i.ytimg.com/vi/luM9zypWm9Y/hqdefault.jpg)

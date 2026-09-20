@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-19T13:01:57Z_
+_آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-20 04:54:47 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Push-Pull Toggle Clamp Mechanism 💡](https://www.youtube.com/watch?v=YBP97BRDCBk)  
+  ![](https://i.ytimg.com/vi/YBP97BRDCBk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-19 05:30:28 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-19T13:01:57Z_
   **مدت:** حدود 12.2 دقیقه  
   **عنوان:** [✅How to Design a Utility Trailer Structure in Solidworks | Solidworks Weldments Tutorial](https://www.youtube.com/watch?v=8pkkKkHr8QA)  
   ![](https://i.ytimg.com/vi/8pkkKkHr8QA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-21 11:48:52 (UTC)  
-  **مدت:** حدود 11.7 دقیقه  
-  **عنوان:** [How to Design a Cam & Roller Follower Assembly in Solidworks](https://www.youtube.com/watch?v=mcjHAanYT60)  
-  ![](https://i.ytimg.com/vi/mcjHAanYT60/hqdefault.jpg)

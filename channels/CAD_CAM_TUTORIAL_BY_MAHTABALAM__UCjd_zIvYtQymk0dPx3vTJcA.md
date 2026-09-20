@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-19T13:01:57Z_
+_آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-20 03:30:28 (UTC)  
+  **مدت:** حدود 24.5 دقیقه  
+  **عنوان:** [SolidWorks Exercise for beginners-Cylinder Block](https://www.youtube.com/watch?v=1bKPh87Qj-I)  
+  ![](https://i.ytimg.com/vi/1bKPh87Qj-I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-18 15:10:05 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-19T13:01:57Z_
   **مدت:** حدود 66.9 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Trumpet in SolidWorks](https://www.youtube.com/watch?v=59HOvhVb9xc)  
   ![](https://i.ytimg.com/vi/59HOvhVb9xc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-12 12:18:47 (UTC)  
-  **مدت:** حدود 18.2 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch drill chuck key in Solidworks](https://www.youtube.com/watch?v=w9ZlR035Iz8)  
-  ![](https://i.ytimg.com/vi/w9ZlR035Iz8/hqdefault.jpg)
