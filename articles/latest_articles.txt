@@ -1,4 +1,4 @@
-# Last Run: 2026-09-19 23:59 UTC
+# Last Run: 2026-09-20 03:58 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Israel’s Qatargate Scandal
@@ -92,8 +92,4 @@ Link: https://www.foreignaffairs.com/china/chinas-purges-are-working-designed
 [Foreign_Affairs] Cuba’s Point of No Return
 Published: 2026-09-17T04:00:00+00:00
 Link: https://www.foreignaffairs.com/cuba/cubas-point-no-return
----
-[Foreign_Policy] Modi and Xi’s Meeting Caps a Detente
-Published: 2026-09-17T00:21:25+00:00
-Link: https://foreignpolicy.com/2026/09/16/modi-xi-brics-meeting-india-china-detente/
 ---
