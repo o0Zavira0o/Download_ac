@@ -1,4 +1,4 @@
-# Last Run: 2026-09-20 09:12 UTC
+# Last Run: 2026-09-20 14:02 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Israel’s Qatargate Scandal
@@ -80,8 +80,4 @@ Link: https://foreignpolicy.com/2026/09/17/hungary-orban-magyar-media-propaganda
 [Foreign_Policy] China, Not Iran, Is Trump’s Real Foreign-Policy Debacle
 Published: 2026-09-17T15:50:31+00:00
 Link: https://foreignpolicy.com/2026/09/17/china-iran-trump-debacle-foreign-policy-war-trade-sanctions/
----
-[Foreign_Policy] What’s the Matter With Eastern Germany?
-Published: 2026-09-17T11:57:24+00:00
-Link: https://foreignpolicy.com/2026/09/17/afd-germany-east-germany-reunification-history/
 ---
