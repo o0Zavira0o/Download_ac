@@ -1,4 +1,4 @@
-# Last Run: 2026-09-20 03:58 UTC
+# Last Run: 2026-09-20 09:12 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Israel’s Qatargate Scandal
@@ -84,12 +84,4 @@ Link: https://foreignpolicy.com/2026/09/17/china-iran-trump-debacle-foreign-poli
 [Foreign_Policy] What’s the Matter With Eastern Germany?
 Published: 2026-09-17T11:57:24+00:00
 Link: https://foreignpolicy.com/2026/09/17/afd-germany-east-germany-reunification-history/
----
-[Foreign_Affairs] China’s Purges Are Working as Designed
-Published: 2026-09-17T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/chinas-purges-are-working-designed
----
-[Foreign_Affairs] Cuba’s Point of No Return
-Published: 2026-09-17T04:00:00+00:00
-Link: https://www.foreignaffairs.com/cuba/cubas-point-no-return
 ---
