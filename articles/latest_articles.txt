@@ -1,4 +1,4 @@
-# Last Run: 2026-09-20 17:27 UTC
+# Last Run: 2026-09-20 20:42 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Israel’s Qatargate Scandal
@@ -60,16 +60,4 @@ Link: https://www.foreignaffairs.com/united-states/americas-attrition-trap
 [Foreign_Policy] Trump’s Risky Hack-Back Plan
 Published: 2026-09-17T21:39:41+00:00
 Link: https://foreignpolicy.com/2026/09/17/trump-cybersecurity-hack-back-private-companies-ai/
----
-[Foreign_Policy] By Nearly Every Metric, the U.S. Is Losing the Iran War
-Published: 2026-09-17T20:27:11+00:00
-Link: https://foreignpolicy.com/2026/09/17/trump-united-states-losing-iran-war/
----
-[Foreign_Policy] Sweden’s Right-Wing Reckoning
-Published: 2026-09-17T19:51:11+00:00
-Link: https://foreignpolicy.com/2026/09/17/sweden-election-kristersson-resigns-social-democrats-andersson/
----
-[Foreign_Policy] The Lives Built on Colombia’s Peace Deal Are at Risk
-Published: 2026-09-17T19:06:44+00:00
-Link: https://foreignpolicy.com/2026/09/17/colombia-farc-peace-agreement-espriella-armed-groups-transitional-justice/
 ---
