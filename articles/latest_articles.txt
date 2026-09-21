@@ -1,6 +1,18 @@
-# Last Run: 2026-09-21 16:20 UTC
+# Last Run: 2026-09-21 21:50 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] It’s Time to Update the U.N. Sustainable Development Goals
+Published: 2026-09-21T19:44:50+00:00
+Link: https://foreignpolicy.com/2026/09/21/united-nations-sustainable-development-goals-sdgs-conflict-aid/
+---
+[Foreign_Policy] Trump’s Greenland Deal Is a Pyrrhic Victory at Best
+Published: 2026-09-21T19:40:59+00:00
+Link: https://foreignpolicy.com/2026/09/21/greenland-trump-united-states-deal-nato-security/
+---
+[Foreign_Policy] The Real Reason Chinese AI Is Winning the Global South
+Published: 2026-09-21T19:25:03+00:00
+Link: https://foreignpolicy.com/2026/09/21/the-real-reason-chinese-ai-is-winning-the-global-south/
+---
 [Foreign_Policy] Nuclear Energy Is the Kremlin’s Latest Leverage Over Washington
 Published: 2026-09-21T15:22:39+00:00
 Link: https://foreignpolicy.com/2026/09/21/uranium-russia-us-nuclear-energy-enrichment-sanctions-putin-trump/
@@ -29,6 +41,14 @@ Link: https://foreignpolicy.com/2026/09/21/iran-lego-videos-propaganda-rubio/
 Published: 2026-09-21T04:01:02+00:00
 Link: https://foreignpolicy.com/2026/09/21/barack-obama-most-electable-myth/
 ---
+[Foreign_Affairs] Shrink the UN
+Published: 2026-09-21T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/united-nations-general-assembly-secretary-general
+---
+[Foreign_Affairs] China Still Has What America Needs
+Published: 2026-09-21T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/china-still-has-what-america-needs-adam-posen
+---
 [Foreign_Affairs] China Still Has What America Needs
 Published: 2026-09-21T04:00:00+00:00
 Link: https://www.foreignaffairs.com/china/china-still-has-what-america-needs
@@ -48,28 +68,4 @@ Link: https://www.newyorker.com/magazine/2026/09/28/whos-on-susanna-hoffs-list
 [New_Yorker_Magazine] The Unknowable Miley Cyrus
 Published: 2026-09-19T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/05/bass-persuades-miley-music-review
----
-[Foreign_Policy] Russia’s Parliamentary Elections Offer Rituals, Not Results
-Published: 2026-09-18T20:36:44+00:00
-Link: https://foreignpolicy.com/2026/09/18/russia-elections-state-duma-results-putin-democracy-ukraine/
----
-[Foreign_Policy] Will Russia Ever Be ‘Normal’?
-Published: 2026-09-18T19:00:16+00:00
-Link: https://foreignpolicy.com/2026/09/18/russia-war-putin-empire-imperialism-history-ukraine-neighbors-soviet/
----
-[Foreign_Policy] What in the World?
-Published: 2026-09-18T18:54:46+00:00
-Link: https://foreignpolicy.com/2026/09/18/news-quiz-houthi-strikes-saudi-arabia-eu-finland-xi-modi-brics-summit/
----
-[Foreign_Policy] In War, Trump and Putin Are Much Alike
-Published: 2026-09-18T18:40:12+00:00
-Link: https://foreignpolicy.com/2026/09/18/keir-giles-american-overthrow-book-trump-putin-war-iran-ukraine-russia/
----
-[Foreign_Policy] Chinese Literature Is Undergoing a Vibe Shift
-Published: 2026-09-18T18:20:18+00:00
-Link: https://foreignpolicy.com/2026/09/18/china-workers-literature-ccp-censorship-xi-wang-jibing/
----
-[Foreign_Policy] Emily Wilson Chooses Her Words Carefully
-Published: 2026-09-18T18:00:31+00:00
-Link: https://foreignpolicy.com/2026/09/18/odyssey-emily-wilson-translation-nolan/
 ---
