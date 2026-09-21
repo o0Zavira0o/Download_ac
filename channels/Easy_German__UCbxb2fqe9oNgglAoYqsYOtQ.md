@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
+_آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-21 10:12:51 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [10 Day Vocab Challenge #shorts #wortschatz #essygerman](https://www.youtube.com/watch?v=qzfKDdX3YH0)  
+  ![](https://i.ytimg.com/vi/qzfKDdX3YH0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-20 17:00:10 (UTC)  
+  **مدت:** حدود 15.8 دقیقه  
+  **عنوان:** [How Much Do People Pay for Rent in Munich?](https://www.youtube.com/watch?v=F2pU-1poAzE)  
+  ![](https://i.ytimg.com/vi/F2pU-1poAzE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-19 17:39:23 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
   **مدت:** حدود 3.7 دقیقه  
   **عنوان:** [At the music school | Super Easy German (22)](https://www.youtube.com/watch?v=7KPrMsFQTYs)  
   ![](https://i.ytimg.com/vi/7KPrMsFQTYs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-07 22:04:50 (UTC)  
-  **مدت:** حدود 8.0 دقیقه  
-  **عنوان:** [Cari Antwortet (44) - Besuch aus Japan | Deutscher Humor | Warum ist Cari langweilig?](https://www.youtube.com/watch?v=lYCi1lWAlA0)  
-  ![](https://i.ytimg.com/vi/lYCi1lWAlA0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-05 17:12:19 (UTC)  
-  **مدت:** حدود 10.9 دقیقه  
-  **عنوان:** [Lawyers in Germany | Easy German 185](https://www.youtube.com/watch?v=u5GZIEGS71c)  
-  ![](https://i.ytimg.com/vi/u5GZIEGS71c/hqdefault.jpg)

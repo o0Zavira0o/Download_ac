@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
+_آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-21 12:20:33 (UTC)  
+  **مدت:** حدود 62.8 دقیقه  
+  **عنوان:** [ASMR 다이어리 꾸미기 일주일치📚 몰아보기 | 아트 다꾸 Art Journal Binge Watch コラージュ diy 만들기](https://www.youtube.com/watch?v=bYLzgVzJRxQ)  
+  ![](https://i.ytimg.com/vi/bYLzgVzJRxQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-20 14:00:15 (UTC)  
+  **مدت:** حدود 16.0 دقیقه  
+  **عنوان:** [다꾸 ASMR 동양의 마법사🎭 다이어리 꾸미기 | 아트 다꾸 Art Journal コラージュ diy 만들기](https://www.youtube.com/watch?v=DdJ9eDQ1-Yk)  
+  ![](https://i.ytimg.com/vi/DdJ9eDQ1-Yk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-18 13:45:33 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
   **مدت:** حدود 0.4 دقیقه  
   **عنوان:** [Tree Ideas #bulletjournal #journalideas #asmrsounds #decopop](https://www.youtube.com/watch?v=dU41ZQoEYCE)  
   ![](https://i.ytimg.com/vi/dU41ZQoEYCE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-05 00:20:00 (UTC)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Satisfying Unboxing #asmr #asmrsounds](https://www.youtube.com/watch?v=NmA0Q_H0tnc)  
-  ![](https://i.ytimg.com/vi/NmA0Q_H0tnc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-04 14:47:00 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Aesthetic Sticker ASMR Sounds](https://www.youtube.com/watch?v=r3Y6TQj6JfM)  
-  ![](https://i.ytimg.com/vi/r3Y6TQj6JfM/hqdefault.jpg)

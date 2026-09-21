@@ -1,14 +1,26 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
+_آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
 
 
+- **تاریخ انتشار:** 2026-09-21 11:59:46 (UTC)  
+  **مدت:** حدود 4.6 دقیقه  
+  **عنوان:** [SolidWorks Bevel Gear Design Tutorial | Step-by-Step 3D Modeling + JLCMC Sponsored](https://www.youtube.com/watch?v=64dhPWXw7vk)  
+  ![](https://i.ytimg.com/vi/64dhPWXw7vk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-21 05:30:20 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [✅Mechanical Movement 01 #3ddesign #mechanical #shorts](https://www.youtube.com/watch?v=I67LPBkirho)  
+  ![](https://i.ytimg.com/vi/I67LPBkirho/hqdefault.jpg)
+
+
 - **تاریخ انتشار:** 2026-09-20 04:54:47 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Push-Pull Toggle Clamp Mechanism 💡](https://www.youtube.com/watch?v=YBP97BRDCBk)  
+  **عنوان:** [✅Push-Pull Toggle Clamp Mechanism 💡](https://www.youtube.com/watch?v=YBP97BRDCBk)  
   ![](https://i.ytimg.com/vi/YBP97BRDCBk/hqdefault.jpg)
 
 
@@ -20,7 +32,7 @@ _آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
 
 - **تاریخ انتشار:** 2026-09-18 12:30:01 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How Hand-Cranked Grinders Actually Work Inside! 🤯](https://www.youtube.com/watch?v=6l24n-jXm0I)  
+  **عنوان:** [✅How Hand-Cranked Grinders Actually Work Inside! 🤯](https://www.youtube.com/watch?v=6l24n-jXm0I)  
   ![](https://i.ytimg.com/vi/6l24n-jXm0I/hqdefault.jpg)
 
 
@@ -62,7 +74,7 @@ _آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
 
 - **تاریخ انتشار:** 2026-09-11 11:40:28 (UTC)  
   **مدت:** حدود 8.7 دقیقه  
-  **عنوان:** [SolidWorks Weldment Tutorial | How to Model a Welded Frame Structure (Step-by-Step)](https://www.youtube.com/watch?v=jMv2TytcabU)  
+  **عنوان:** [✅SolidWorks Weldment Tutorial | How to Model a Welded Frame Structure (Step-by-Step)](https://www.youtube.com/watch?v=jMv2TytcabU)  
   ![](https://i.ytimg.com/vi/jMv2TytcabU/hqdefault.jpg)
 
 
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
   **مدت:** حدود 4.4 دقیقه  
   **عنوان:** [SolidWorks 3D Practice Model | Mechanical CAD Learning](https://www.youtube.com/watch?v=TCJa2Hlmjf0)  
   ![](https://i.ytimg.com/vi/TCJa2Hlmjf0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-27 04:50:44 (UTC)  
-  **مدت:** حدود 7.7 دقیقه  
-  **عنوان:** [I Tried the New SolidWorks 2025, and This Happened.](https://www.youtube.com/watch?v=OjpWkPPgnT4)  
-  ![](https://i.ytimg.com/vi/OjpWkPPgnT4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-24 11:44:32 (UTC)  
-  **مدت:** حدود 12.2 دقیقه  
-  **عنوان:** [✅How to Design a Utility Trailer Structure in Solidworks | Solidworks Weldments Tutorial](https://www.youtube.com/watch?v=8pkkKkHr8QA)  
-  ![](https://i.ytimg.com/vi/8pkkKkHr8QA/hqdefault.jpg)

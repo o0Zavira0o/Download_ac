@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
+_آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-21 11:43:48 (UTC)  
+  **مدت:** حدود 8.0 دقیقه  
+  **عنوان:** [Tai Chi Yin-Yang symbol Modeling in SolidWorks Surface](https://www.youtube.com/watch?v=7ANbAzezWRQ)  
+  ![](https://i.ytimg.com/vi/7ANbAzezWRQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-20 03:30:28 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-20T13:32:43Z_
   **مدت:** حدود 60.9 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Z type chair in Solidworks | Solidworks](https://www.youtube.com/watch?v=kI1QgHu8VPA)  
   ![](https://i.ytimg.com/vi/kI1QgHu8VPA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-15 13:45:04 (UTC)  
-  **مدت:** حدود 66.9 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Trumpet in SolidWorks](https://www.youtube.com/watch?v=59HOvhVb9xc)  
-  ![](https://i.ytimg.com/vi/59HOvhVb9xc/hqdefault.jpg)
