@@ -1,6 +1,26 @@
-# Last Run: 2026-09-21 09:44 UTC
+# Last Run: 2026-09-21 16:20 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Nuclear Energy Is the Kremlin’s Latest Leverage Over Washington
+Published: 2026-09-21T15:22:39+00:00
+Link: https://foreignpolicy.com/2026/09/21/uranium-russia-us-nuclear-energy-enrichment-sanctions-putin-trump/
+---
+[Foreign_Policy] What Comes After the 1.5 Degree Era
+Published: 2026-09-21T12:55:27+00:00
+Link: https://foreignpolicy.com/2026/09/21/climate-week-change-after-paris/
+---
+[Foreign_Policy] Taiwan’s Status Is Ambiguous. U.S. Policy Shouldn’t Be.
+Published: 2026-09-21T11:51:31+00:00
+Link: https://foreignpolicy.com/2026/09/21/taiwan-ambiguity-china/
+---
+[Foreign_Policy] How Flávio Bolsonaro Sees the World
+Published: 2026-09-21T11:00:52+00:00
+Link: https://foreignpolicy.com/2026/09/21/brazil-presidential-election-lula-bolsonaro-china-us-trump/
+---
+[Foreign_Policy] To Win the Peace, Ukraine Must Cope With Vast Numbers of Veterans
+Published: 2026-09-21T10:00:53+00:00
+Link: https://foreignpolicy.com/2026/09/21/ukraine-veterans-affairs-minister-vitalii-kim-war-russia/
+---
 [Foreign_Policy] Why Iran’s Lego Clips Are Anything but ‘Stupid’
 Published: 2026-09-21T05:25:55+00:00
 Link: https://foreignpolicy.com/2026/09/21/iran-lego-videos-propaganda-rubio/
@@ -52,16 +72,4 @@ Link: https://foreignpolicy.com/2026/09/18/china-workers-literature-ccp-censorsh
 [Foreign_Policy] Emily Wilson Chooses Her Words Carefully
 Published: 2026-09-18T18:00:31+00:00
 Link: https://foreignpolicy.com/2026/09/18/odyssey-emily-wilson-translation-nolan/
----
-[Foreign_Policy] How Americanness Overcomes Islamophobia
-Published: 2026-09-18T16:18:52+00:00
-Link: https://foreignpolicy.com/2026/09/18/rozina-ali-seasons-fury-review-islamophobia-911-attacks-america/
----
-[Foreign_Policy] The Houthi Advance Is About More Than Just Iran
-Published: 2026-09-18T14:36:21+00:00
-Link: https://foreignpolicy.com/2026/09/18/houthi-yemen-saudi-arabia-uae-iran-oil-israel-united-states/
----
-[Foreign_Policy] What the BRICS Summit Meant for Brazil
-Published: 2026-09-18T12:00:12+00:00
-Link: https://foreignpolicy.com/2026/09/18/brazil-brics-summit-new-delhi-diplomacy-climate/
 ---
