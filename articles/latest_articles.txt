@@ -1,6 +1,22 @@
-# Last Run: 2026-09-21 03:59 UTC
+# Last Run: 2026-09-21 09:44 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Why Iran’s Lego Clips Are Anything but ‘Stupid’
+Published: 2026-09-21T05:25:55+00:00
+Link: https://foreignpolicy.com/2026/09/21/iran-lego-videos-propaganda-rubio/
+---
+[Foreign_Policy] Barack Obama and the ‘Most Electable’ Myth
+Published: 2026-09-21T04:01:02+00:00
+Link: https://foreignpolicy.com/2026/09/21/barack-obama-most-electable-myth/
+---
+[Foreign_Affairs] China Still Has What America Needs
+Published: 2026-09-21T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/china-still-has-what-america-needs
+---
+[Foreign_Affairs] Shrink the UN
+Published: 2026-09-21T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-nations/shrink
+---
 [New_Yorker_Magazine] Israel’s Qatargate Scandal
 Published: 2026-09-19T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/09/28/israels-qatargate-scandal
@@ -48,12 +64,4 @@ Link: https://foreignpolicy.com/2026/09/18/houthi-yemen-saudi-arabia-uae-iran-oi
 [Foreign_Policy] What the BRICS Summit Meant for Brazil
 Published: 2026-09-18T12:00:12+00:00
 Link: https://foreignpolicy.com/2026/09/18/brazil-brics-summit-new-delhi-diplomacy-climate/
----
-[Foreign_Affairs] Ebola Is Only the Beginning
-Published: 2026-09-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/democratic-republic-congo/ebola-only-beginning
----
-[Foreign_Affairs] America's Attrition Trap
-Published: 2026-09-18T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/americas-attrition-trap
 ---
