@@ -1,6 +1,14 @@
-# Last Run: 2026-09-22 07:29 UTC
+# Last Run: 2026-09-22 13:13 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Will Inuit in Canada Turn to China?
+Published: 2026-09-22T11:00:53+00:00
+Link: https://foreignpolicy.com/2026/09/22/canada-far-north-inuit-foreign-influence-carney-china-us/
+---
+[Foreign_Policy] Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China
+Published: 2026-09-22T10:00:15+00:00
+Link: https://foreignpolicy.com/2026/09/22/operation-economic-outcast-trump-united-states-iran-china-sanctions-oil-markets-bessent/
+---
 [Foreign_Affairs] Syria’s Imperiled Transition
 Published: 2026-09-22T04:00:00+00:00
 Link: https://www.foreignaffairs.com/syria/syrias-imperiled-transition
@@ -80,16 +88,4 @@ Link: https://www.foreignaffairs.com/china/china-still-has-what-america-needs
 [Foreign_Affairs] Shrink the UN
 Published: 2026-09-21T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-nations/shrink
----
-[New_Yorker_Magazine] Israel’s Qatargate Scandal
-Published: 2026-09-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/israels-qatargate-scandal
----
-[New_Yorker_Magazine] Who’s on Susanna Hoffs’s List?
-Published: 2026-09-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/whos-on-susanna-hoffs-list
----
-[New_Yorker_Magazine] The Unknowable Miley Cyrus
-Published: 2026-09-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/bass-persuades-miley-music-review
 ---
