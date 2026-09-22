@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
+_آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chanh Thien Tam CNC
 
-_آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
+_آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
 
 
 **لینک استاندارد کانال:** [Chanh Thien Tam CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-09-22 04:08:41 (UTC)  
+  **مدت:** حدود 11.6 دقیقه  
+  **عنوان:** [Vẽ 3d Mastercam](https://www.youtube.com/watch?v=VzAmrzsGrrI)  
+  ![](https://i.ytimg.com/vi/VzAmrzsGrrI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-19 04:52:36 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
   **مدت:** حدود 25.9 دقیقه  
   **عنوان:** [Phay khuôn mastercam](https://www.youtube.com/watch?v=BxhGx6S1W_s)  
   ![](https://i.ytimg.com/vi/BxhGx6S1W_s/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-08 01:38:26 (UTC)  
-  **مدت:** حدود 10.4 دقیقه  
-  **عنوان:** [Mô phỏng chuyển động xích Solidworks](https://www.youtube.com/watch?v=EfCiaDjP5Ds)  
-  ![](https://i.ytimg.com/vi/EfCiaDjP5Ds/hqdefault.jpg)

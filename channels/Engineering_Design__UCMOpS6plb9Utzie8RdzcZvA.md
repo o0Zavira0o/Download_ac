@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
+_آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-22 12:14:41 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [The Rare 4-Gear Planetary System Explained 🛠️](https://www.youtube.com/watch?v=JhknCbaiP0E)  
+  ![](https://i.ytimg.com/vi/JhknCbaiP0E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-21 19:30:02 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [How to Design a Bewel Gear | Sponsorship: JLCMC #jlcmc #gear #design](https://www.youtube.com/watch?v=g8XP1fhD0Xo)  
+  ![](https://i.ytimg.com/vi/g8XP1fhD0Xo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-21 11:59:46 (UTC)  
@@ -26,7 +38,7 @@ _آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
 
 - **تاریخ انتشار:** 2026-09-19 05:30:28 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Automated vs. Manual Rowing Mechanisms](https://www.youtube.com/watch?v=F5-H6mBLvZM)  
+  **عنوان:** [✅Automated vs. Manual Rowing Mechanisms](https://www.youtube.com/watch?v=F5-H6mBLvZM)  
   ![](https://i.ytimg.com/vi/F5-H6mBLvZM/hqdefault.jpg)
 
 
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [Solidworks 2025 New Version #solidworks #2025 #newversion](https://www.youtube.com/watch?v=3hm5Z-hs12M)  
   ![](https://i.ytimg.com/vi/3hm5Z-hs12M/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-29 02:23:41 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [✅Solidworks Exercise | CAD Tutorial for Beginners](https://www.youtube.com/watch?v=gRfanmMgiAo)  
-  ![](https://i.ytimg.com/vi/gRfanmMgiAo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-28 11:41:57 (UTC)  
-  **مدت:** حدود 4.4 دقیقه  
-  **عنوان:** [SolidWorks 3D Practice Model | Mechanical CAD Learning](https://www.youtube.com/watch?v=TCJa2Hlmjf0)  
-  ![](https://i.ytimg.com/vi/TCJa2Hlmjf0/hqdefault.jpg)

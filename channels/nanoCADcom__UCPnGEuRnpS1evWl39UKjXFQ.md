@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
+_آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-09-22 13:00:13 (UTC)  
+  **مدت:** حدود 4.8 دقیقه  
+  **عنوان:** [From DWG to PDF & 3D Print in Minutes! Final Export nanoCAD Guide - nanoCAD 3D Modeling - Lesson 18](https://www.youtube.com/watch?v=jo9g4HLqffg)  
+  ![](https://i.ytimg.com/vi/jo9g4HLqffg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-15 13:00:06 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
   **مدت:** حدود 6.0 دقیقه  
   **عنوان:** [Rotating and Scaling Objects - Lesson 18](https://www.youtube.com/watch?v=QpQqa_IpDzU)  
   ![](https://i.ytimg.com/vi/QpQqa_IpDzU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-03-05 20:01:56 (UTC)  
-  **مدت:** حدود 4.3 دقیقه  
-  **عنوان:** [Extending, Joining, and Stretching Objects - Lesson 17](https://www.youtube.com/watch?v=D-cJUuHKDrA)  
-  ![](https://i.ytimg.com/vi/D-cJUuHKDrA/hqdefault.jpg)

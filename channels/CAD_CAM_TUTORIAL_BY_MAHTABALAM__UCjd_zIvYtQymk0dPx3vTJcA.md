@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
+_آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-22 13:57:38 (UTC)  
+  **مدت:** حدود 88.0 دقیقه  
+  **عنوان:** [Bench Vise Part Modeling and Assembly in SolidWorks](https://www.youtube.com/watch?v=YkbBiMuWf04)  
+  ![](https://i.ytimg.com/vi/YkbBiMuWf04/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-21 11:43:48 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
   **مدت:** حدود 8.9 دقیقه  
   **عنوان:** [MSI workstation Laptops for CAD softwares | Solidworks](https://www.youtube.com/watch?v=ZH3fIHLG6qE)  
   ![](https://i.ytimg.com/vi/ZH3fIHLG6qE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-17 02:39:38 (UTC)  
-  **مدت:** حدود 60.9 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Z type chair in Solidworks | Solidworks](https://www.youtube.com/watch?v=kI1QgHu8VPA)  
-  ![](https://i.ytimg.com/vi/kI1QgHu8VPA/hqdefault.jpg)

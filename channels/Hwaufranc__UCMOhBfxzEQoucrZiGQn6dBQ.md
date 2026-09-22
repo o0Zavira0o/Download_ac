@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
+_آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-22 13:05:37 (UTC)  
+  **مدت:** حدود 17.4 دقیقه  
+  **عنوان:** [ASMR 가을 무드& 컬러 고딕 패키지 함께 열어봐요 💚디어데이즈 다꾸 문구 협찬 하울 Journal Unboxing](https://www.youtube.com/watch?v=0JJyZJ7i0Ak)  
+  ![](https://i.ytimg.com/vi/0JJyZJ7i0Ak/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-21 12:20:33 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-21T15:50:32Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [Unboxing #shorts #unboxing #asmr #asmrsounds](https://www.youtube.com/watch?v=mf91XQv31P8)  
   ![](https://i.ytimg.com/vi/mf91XQv31P8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-06 06:15:02 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Tree Ideas #bulletjournal #journalideas #asmrsounds #decopop](https://www.youtube.com/watch?v=dU41ZQoEYCE)  
-  ![](https://i.ytimg.com/vi/dU41ZQoEYCE/hqdefault.jpg)
