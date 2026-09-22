@@ -1,6 +1,22 @@
-# Last Run: 2026-09-22 13:13 UTC
+# Last Run: 2026-09-22 18:02 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How Canada Is Navigating Trump’s Threats
+Published: 2026-09-22T16:08:53+00:00
+Link: https://foreignpolicy.com/2026/09/22/canada-united-states-trade-economics-trump-threats-anita-anand/
+---
+[Foreign_Policy] ‘Scorpions in a Bottle’: What the U.N. Can Do About AI Safety
+Published: 2026-09-22T16:02:43+00:00
+Link: https://foreignpolicy.com/2026/09/22/ai-safety-risk-united-nations-un-amandeep-singh-gill-interview/
+---
+[Foreign_Policy] Washington Should Embrace Space Warfare
+Published: 2026-09-22T15:12:13+00:00
+Link: https://foreignpolicy.com/2026/09/22/space-force-washington-nuclear-china-russia-satellite/
+---
+[Foreign_Policy] Japan’s New CIA Could Be Takaichi’s Trump Card
+Published: 2026-09-22T13:21:51+00:00
+Link: https://foreignpolicy.com/2026/09/22/japan-intelligence-agency-secret-service-takaichi-trump-security-military-alliance/
+---
 [Foreign_Policy] Will Inuit in Canada Turn to China?
 Published: 2026-09-22T11:00:53+00:00
 Link: https://foreignpolicy.com/2026/09/22/canada-far-north-inuit-foreign-influence-carney-china-us/
@@ -65,6 +81,58 @@ Link: https://foreignpolicy.com/2026/09/21/brazil-presidential-election-lula-bol
 Published: 2026-09-21T10:00:53+00:00
 Link: https://foreignpolicy.com/2026/09/21/ukraine-veterans-affairs-minister-vitalii-kim-war-russia/
 ---
+[New_Yorker_Magazine] Why I Free-Solo El Capitan
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/why-i-free-solo-el-capitan
+---
+[New_Yorker_Magazine] Tom Brady’s Endgame
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/brady-an-american-story-and-the-price-of-greatness-lars-anderson-review
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/the-maltese-version-that-summers-end-berlin-before-and-after-jean-toomer
+---
+[New_Yorker_Magazine] The Return of “Salt”
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/the-return-of-salt
+---
+[New_Yorker_Magazine] Learning to Yearn with Georgia Oakley
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/learning-to-yearn-with-georgia-oakley
+---
+[New_Yorker_Magazine] Inside Shaq’s League of Dunkers
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/inside-shaqs-league-of-dunkers
+---
+[New_Yorker_Magazine] Is A.I. Above the Law?
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/is-ai-above-the-law
+---
+[New_Yorker_Magazine] What’s Really Behind the Baby Bust?
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/inconceivable-the-impossibility-of-family-in-an-age-of-uncertainty-anna-louise-sussman-book-review
+---
+[New_Yorker_Magazine] The Curious Power of Punctuation
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review
+---
+[New_Yorker_Magazine] Hernan Diaz’s Grand Experiment
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/ply-hernan-diaz-book-review
+---
+[New_Yorker_Magazine] What Barbara Kingsolver Believes the Novel Can Do
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/barbara-kingsolver-profile
+---
+[New_Yorker_Magazine] Waiting for Jay-Z
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/waiting-for-jay-z
+---
+[New_Yorker_Magazine] The Fallout of a Charlie Kirk Campus Scandal
+Published: 2026-09-21T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/the-fallout-of-a-charlie-kirk-campus-scandal
+---
 [Foreign_Policy] Why Iran’s Lego Clips Are Anything but ‘Stupid’
 Published: 2026-09-21T05:25:55+00:00
 Link: https://foreignpolicy.com/2026/09/21/iran-lego-videos-propaganda-rubio/
@@ -88,4 +156,20 @@ Link: https://www.foreignaffairs.com/china/china-still-has-what-america-needs
 [Foreign_Affairs] Shrink the UN
 Published: 2026-09-21T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-nations/shrink
+---
+[New_Yorker_Magazine] “Garden,” by Melissa Broder
+Published: 2026-09-20T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/garden-melissa-broder-poem
+---
+[New_Yorker_Magazine] Our A.I. Problem
+Published: 2026-09-20T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/our-ai-problem
+---
+[New_Yorker_Magazine] “Dark Horse,” by Sarah Anderson
+Published: 2026-09-20T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/dark-horse-fiction-sarah-anderson
+---
+[New_Yorker_Magazine] “Debt,” by Daniel Poppick
+Published: 2026-09-20T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/09/28/debt-daniel-poppick-poem
 ---
