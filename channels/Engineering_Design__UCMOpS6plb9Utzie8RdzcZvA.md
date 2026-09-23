@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
+_آخرین به‌روزرسانی: 2026-09-23T14:11:17Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-23 03:22:23 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Mechanical Movement 02 #mechanical #3ddesign #mechanism](https://www.youtube.com/watch?v=7rl8NLvW53E)  
+  ![](https://i.ytimg.com/vi/7rl8NLvW53E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-22 12:14:41 (UTC)  
@@ -50,7 +56,7 @@ _آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
 
 - **تاریخ انتشار:** 2026-09-17 03:10:09 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Self-centering vice or clamping mechanism](https://www.youtube.com/watch?v=k_83T8GavB0)  
+  **عنوان:** [✅Self-centering vice or clamping mechanism](https://www.youtube.com/watch?v=k_83T8GavB0)  
   ![](https://i.ytimg.com/vi/k_83T8GavB0/hqdefault.jpg)
 
 
@@ -68,7 +74,7 @@ _آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
 
 - **تاریخ انتشار:** 2026-09-14 11:30:32 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [SOLIDWORKS 2027](https://www.youtube.com/watch?v=lNt5n4IYgYk)  
+  **عنوان:** [SOLIDWORKS EXERCISE 2027](https://www.youtube.com/watch?v=lNt5n4IYgYk)  
   ![](https://i.ytimg.com/vi/lNt5n4IYgYk/hqdefault.jpg)
 
 
@@ -158,7 +164,7 @@ _آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
 
 - **تاریخ انتشار:** 2026-08-25 12:40:19 (UTC)  
   **مدت:** حدود 3.6 دقیقه  
-  **عنوان:** [✅Modeling a 3D Textured Ball in SolidWorks | Step-by-Step Tutorial](https://www.youtube.com/watch?v=D0T620Ua5gw)  
+  **عنوان:** [Can You Model This? SolidWorks S-Groove Sphere Tutorial](https://www.youtube.com/watch?v=D0T620Ua5gw)  
   ![](https://i.ytimg.com/vi/D0T620Ua5gw/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
   **مدت:** حدود 5.4 دقیقه  
   **عنوان:** [I Learned SolidWorks in 24 Hours (and You Can Too!)](https://www.youtube.com/watch?v=GLy2M6TnQzI)  
   ![](https://i.ytimg.com/vi/GLy2M6TnQzI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-29 13:12:22 (UTC)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Solidworks 2025 New Version #solidworks #2025 #newversion](https://www.youtube.com/watch?v=3hm5Z-hs12M)  
-  ![](https://i.ytimg.com/vi/3hm5Z-hs12M/hqdefault.jpg)

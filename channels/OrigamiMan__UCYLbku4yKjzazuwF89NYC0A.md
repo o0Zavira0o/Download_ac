@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
+_آخرین به‌روزرسانی: 2026-09-23T14:11:17Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-09-23 10:20:12 (UTC)  
+  **مدت:** حدود 32.0 دقیقه  
+  **عنوان:** [Origami☆Man がライブ配信中！](https://www.youtube.com/watch?v=t1YLmh1B-bA)  
+  ![](https://i.ytimg.com/vi/t1YLmh1B-bA/hqdefault_live.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-19 10:00:03 (UTC)  

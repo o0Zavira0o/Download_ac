@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
+_آخرین به‌روزرسانی: 2026-09-23T14:11:17Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-23 14:07:48 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Janusz macht Kaffee ☕️ #kaffee #easygerman #slowgerman](https://www.youtube.com/watch?v=nxVC03b17zI)  
+  ![](https://i.ytimg.com/vi/nxVC03b17zI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-22 17:00:04 (UTC)  
+  **مدت:** حدود 31.7 دقیقه  
+  **عنوان:** [She Learned Accent Free German On Her Own](https://www.youtube.com/watch?v=c4nE091F970)  
+  ![](https://i.ytimg.com/vi/c4nE091F970/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-21 10:12:51 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-22T13:59:34Z_
   **مدت:** حدود 4.5 دقیقه  
   **عنوان:** [Classroom vocabulary | Super Easy German (23)](https://www.youtube.com/watch?v=v3RBnjJVE6w)  
   ![](https://i.ytimg.com/vi/v3RBnjJVE6w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-12 19:38:00 (UTC)  
-  **مدت:** حدود 11.2 دقیقه  
-  **عنوان:** [6 weird Things Germans do on Holiday | Easy German 186](https://www.youtube.com/watch?v=6KByLyHg1ec)  
-  ![](https://i.ytimg.com/vi/6KByLyHg1ec/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-08 19:25:28 (UTC)  
-  **مدت:** حدود 3.7 دقیقه  
-  **عنوان:** [At the music school | Super Easy German (22)](https://www.youtube.com/watch?v=7KPrMsFQTYs)  
-  ![](https://i.ytimg.com/vi/7KPrMsFQTYs/hqdefault.jpg)
