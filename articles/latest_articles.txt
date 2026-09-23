@@ -1,6 +1,10 @@
-# Last Run: 2026-09-23 07:29 UTC
+# Last Run: 2026-09-23 13:28 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] What Machiavelli Would Say About Trump
+Published: 2026-09-23T08:49:40+00:00
+Link: https://foreignpolicy.com/2026/09/23/what-machiavelli-would-say-about-trump/
+---
 [Foreign_Policy] Malaysia’s Top Crook Gets Leniency
 Published: 2026-09-23T05:00:41+00:00
 Link: https://foreignpolicy.com/2026/09/23/malaysia-najib-razak-clemency-anwar-king/
@@ -192,20 +196,4 @@ Link: https://www.foreignaffairs.com/china/china-still-has-what-america-needs
 [Foreign_Affairs] Shrink the UN
 Published: 2026-09-21T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-nations/shrink
----
-[New_Yorker_Magazine] “Garden,” by Melissa Broder
-Published: 2026-09-20T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/garden-melissa-broder-poem
----
-[New_Yorker_Magazine] Our A.I. Problem
-Published: 2026-09-20T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/our-ai-problem
----
-[New_Yorker_Magazine] “Dark Horse,” by Sarah Anderson
-Published: 2026-09-20T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/dark-horse-fiction-sarah-anderson
----
-[New_Yorker_Magazine] “Debt,” by Daniel Poppick
-Published: 2026-09-20T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/debt-daniel-poppick-poem
 ---
