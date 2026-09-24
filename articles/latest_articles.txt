@@ -1,6 +1,22 @@
-# Last Run: 2026-09-24 14:48 UTC
+# Last Run: 2026-09-24 19:53 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Saudi Arabia Bribed the Wrong People
+Published: 2026-09-24T17:36:41+00:00
+Link: https://foreignpolicy.com/2026/09/24/iran-trump-saudi-war-mbs-bad-bet/
+---
+[Foreign_Policy] China’s Human Rights Crisis Hasn’t Disappeared
+Published: 2026-09-24T16:41:38+00:00
+Link: https://foreignpolicy.com/2026/09/24/trump-xi-dissidents-uyghurs-christians/
+---
+[Foreign_Policy] Can AI Be Regulated?
+Published: 2026-09-24T16:14:30+00:00
+Link: https://foreignpolicy.com/2026/09/24/ai-regulation-technology-pace-frontier-stock-market/
+---
+[Foreign_Policy] The Law of the Sea Is in Trouble
+Published: 2026-09-24T14:38:51+00:00
+Link: https://foreignpolicy.com/2026/09/24/migrants-britain-royal-national-lifeboat-institution-united-states-trump/
+---
 [Foreign_Policy] Thank Goodness Europe Doesn’t Have a Phone Number
 Published: 2026-09-24T13:57:16+00:00
 Link: https://foreignpolicy.com/2026/09/24/europe-phone-number-eu/
@@ -11,7 +27,15 @@ Link: https://foreignpolicy.com/2026/09/24/germany-merz-authority-lost-elections
 ---
 [Foreign_Affairs] The Price of Arctic Ambition
 Published: 2026-09-24T04:00:01+00:00
+Link: https://www.foreignaffairs.com/arctic-antarctic/price-arctic-ambition-greenland-iris-ferguson
+---
+[Foreign_Affairs] The Price of Arctic Ambition
+Published: 2026-09-24T04:00:01+00:00
 Link: https://www.foreignaffairs.com/united-states/price-arctic-ambition
+---
+[Foreign_Affairs] How Putin Escalates
+Published: 2026-09-24T04:00:00+00:00
+Link: https://www.foreignaffairs.com/russia/how-putin-escalates-ukraine-war-andrei-kolesnikov
 ---
 [Foreign_Affairs] How Putin Escalates
 Published: 2026-09-24T04:00:00+00:00
@@ -144,24 +168,4 @@ Link: https://foreignpolicy.com/2026/09/21/unga-trump-iran-xi-china-ai-secretary
 [Foreign_Policy] How to Bring Peace to Sudan
 Published: 2026-09-21T21:03:03+00:00
 Link: https://foreignpolicy.com/2026/09/21/sudan-war-humanitarian-crisis-abdalfatah-alburhan-rapid-support-forces-peace-settlement/
----
-[Foreign_Policy] It’s Time to Update the U.N. Sustainable Development Goals
-Published: 2026-09-21T19:44:50+00:00
-Link: https://foreignpolicy.com/2026/09/21/united-nations-sustainable-development-goals-sdgs-conflict-aid/
----
-[Foreign_Policy] Trump’s Greenland Deal Is a Pyrrhic Victory at Best
-Published: 2026-09-21T19:40:59+00:00
-Link: https://foreignpolicy.com/2026/09/21/greenland-trump-united-states-deal-nato-security/
----
-[Foreign_Policy] The Real Reason Chinese AI Is Winning the Global South
-Published: 2026-09-21T19:25:03+00:00
-Link: https://foreignpolicy.com/2026/09/21/china-ai-winning-global-south-qwen-open-weight-models/
----
-[Foreign_Policy] The Real Reason Chinese AI Is Winning the Global South
-Published: 2026-09-21T19:25:03+00:00
-Link: https://foreignpolicy.com/2026/09/21/the-real-reason-chinese-ai-is-winning-the-global-south/
----
-[Foreign_Policy] Nuclear Energy Is the Kremlin’s Latest Leverage Over Washington
-Published: 2026-09-21T15:22:39+00:00
-Link: https://foreignpolicy.com/2026/09/21/uranium-russia-us-nuclear-energy-enrichment-sanctions-putin-trump/
 ---
