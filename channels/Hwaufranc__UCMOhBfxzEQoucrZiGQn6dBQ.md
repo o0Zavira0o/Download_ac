@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-23T14:11:17Z_
+_آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-24 12:00:23 (UTC)  
+  **مدت:** حدود 128.9 دقیقه  
+  **عنوان:** [다꾸 ASMR 추석특집🌕 올해 가장 인기있는 다이어리 꾸미기 2Hour Art Journal Compilation](https://www.youtube.com/watch?v=curv25izCA4)  
+  ![](https://i.ytimg.com/vi/curv25izCA4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-23 14:30:14 (UTC)  
+  **مدت:** حدود 12.9 دقیقه  
+  **عنوان:** [다꾸 ASMR 컬러 스크랩🌈 다이어리 꾸미기 | Color Art Scrapbooking コラージュ diy 만들기](https://www.youtube.com/watch?v=nLN2MmoZubo)  
+  ![](https://i.ytimg.com/vi/nLN2MmoZubo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-22 13:05:37 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-23T14:11:17Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [Unboxing ASMR 🌈 #shorts #inkpad](https://www.youtube.com/watch?v=wqZ4ZpoRm5M)  
   ![](https://i.ytimg.com/vi/wqZ4ZpoRm5M/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-07 11:20:00 (UTC)  
-  **مدت:** حدود 63.5 دقیقه  
-  **عنوان:** [Journal ASMR | 1hour Various Journaling Sounds](https://www.youtube.com/watch?v=UDQev32E8fE)  
-  ![](https://i.ytimg.com/vi/UDQev32E8fE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-06 06:15:03 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Unboxing #shorts #unboxing #asmr #asmrsounds](https://www.youtube.com/watch?v=mf91XQv31P8)  
-  ![](https://i.ytimg.com/vi/mf91XQv31P8/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-23T14:11:17Z_
+_آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-24 06:39:33 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Wer ist dein bester Freund? #shorts #easygerman](https://www.youtube.com/watch?v=eljcqKCr3aI)  
+  ![](https://i.ytimg.com/vi/eljcqKCr3aI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-23 14:07:48 (UTC)  
@@ -266,7 +272,7 @@ _آخرین به‌روزرسانی: 2026-09-23T14:11:17Z_
 
 - **تاریخ انتشار:** 2026-08-09 17:00:38 (UTC)  
   **مدت:** حدود 14.7 دقیقه  
-  **عنوان:** [St. Pölten, Austria: Hidden Gems, Dialect & Local Food](https://www.youtube.com/watch?v=npk_Q92bpqE)  
+  **عنوان:** [Learn German in Austria: Dialect, Food & Sights in St. Pölten](https://www.youtube.com/watch?v=npk_Q92bpqE)  
   ![](https://i.ytimg.com/vi/npk_Q92bpqE/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-23T14:11:17Z_
   **مدت:** حدود 9.0 دقیقه  
   **عنوان:** [Taboos in Germany | Easy German 187](https://www.youtube.com/watch?v=OM5WiuSCxwk)  
   ![](https://i.ytimg.com/vi/OM5WiuSCxwk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-15 18:33:10 (UTC)  
-  **مدت:** حدود 4.5 دقیقه  
-  **عنوان:** [Classroom vocabulary | Super Easy German (23)](https://www.youtube.com/watch?v=v3RBnjJVE6w)  
-  ![](https://i.ytimg.com/vi/v3RBnjJVE6w/hqdefault.jpg)

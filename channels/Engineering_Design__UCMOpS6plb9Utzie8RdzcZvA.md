@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-23T14:11:17Z_
+_آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-24 07:41:52 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How This Genius Victorian Invention Multiplies Your Hand Power by 5x! 🥚⚙️](https://www.youtube.com/watch?v=y4hZ8obpnq0)  
+  ![](https://i.ytimg.com/vi/y4hZ8obpnq0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-23 03:22:23 (UTC)  
@@ -266,7 +272,7 @@ _آخرین به‌روزرسانی: 2026-09-23T14:11:17Z_
 
 - **تاریخ انتشار:** 2026-08-09 13:02:36 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [The Beauty of Simple Mechanical Linkages #shorts #satisfying #engineering](https://www.youtube.com/watch?v=CUgPqgJkiKU)  
+  **عنوان:** [Scotch Yoke | Simple Mechanical Linkages](https://www.youtube.com/watch?v=CUgPqgJkiKU)  
   ![](https://i.ytimg.com/vi/CUgPqgJkiKU/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-23T14:11:17Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [Solidworks Exercise for Beginners 📌](https://www.youtube.com/watch?v=jCU2pG8lNpM)  
   ![](https://i.ytimg.com/vi/jCU2pG8lNpM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-30 10:52:33 (UTC)  
-  **مدت:** حدود 5.4 دقیقه  
-  **عنوان:** [I Learned SolidWorks in 24 Hours (and You Can Too!)](https://www.youtube.com/watch?v=GLy2M6TnQzI)  
-  ![](https://i.ytimg.com/vi/GLy2M6TnQzI/hqdefault.jpg)
