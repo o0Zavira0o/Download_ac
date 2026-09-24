@@ -1,9 +1,17 @@
-# Last Run: 2026-09-24 09:26 UTC
+# Last Run: 2026-09-24 14:48 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Thank Goodness Europe Doesn’t Have a Phone Number
+Published: 2026-09-24T13:57:16+00:00
+Link: https://foreignpolicy.com/2026/09/24/europe-phone-number-eu/
+---
 [Foreign_Policy] Germany Is Officially Adrift
 Published: 2026-09-24T06:54:45+00:00
 Link: https://foreignpolicy.com/2026/09/24/germany-merz-authority-lost-elections-afd/
+---
+[Foreign_Affairs] The Price of Arctic Ambition
+Published: 2026-09-24T04:00:01+00:00
+Link: https://www.foreignaffairs.com/united-states/price-arctic-ambition
 ---
 [Foreign_Affairs] How Putin Escalates
 Published: 2026-09-24T04:00:00+00:00
@@ -156,72 +164,4 @@ Link: https://foreignpolicy.com/2026/09/21/the-real-reason-chinese-ai-is-winning
 [Foreign_Policy] Nuclear Energy Is the Kremlin’s Latest Leverage Over Washington
 Published: 2026-09-21T15:22:39+00:00
 Link: https://foreignpolicy.com/2026/09/21/uranium-russia-us-nuclear-energy-enrichment-sanctions-putin-trump/
----
-[Foreign_Policy] What Comes After the 1.5 Degree Era
-Published: 2026-09-21T12:55:27+00:00
-Link: https://foreignpolicy.com/2026/09/21/climate-week-change-after-paris/
----
-[Foreign_Policy] Taiwan’s Status Is Ambiguous. U.S. Policy Shouldn’t Be.
-Published: 2026-09-21T11:51:31+00:00
-Link: https://foreignpolicy.com/2026/09/21/taiwan-ambiguity-china/
----
-[Foreign_Policy] How Flávio Bolsonaro Sees the World
-Published: 2026-09-21T11:00:52+00:00
-Link: https://foreignpolicy.com/2026/09/21/brazil-presidential-election-lula-bolsonaro-china-us-trump/
----
-[Foreign_Policy] To Win the Peace, Ukraine Must Cope With Vast Numbers of Veterans
-Published: 2026-09-21T10:00:53+00:00
-Link: https://foreignpolicy.com/2026/09/21/ukraine-veterans-affairs-minister-vitalii-kim-war-russia/
----
-[New_Yorker_Magazine] Why I Free-Solo El Capitan
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/why-i-free-solo-el-capitan
----
-[New_Yorker_Magazine] Tom Brady’s Endgame
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/brady-an-american-story-and-the-price-of-greatness-lars-anderson-review
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/the-maltese-version-that-summers-end-berlin-before-and-after-jean-toomer
----
-[New_Yorker_Magazine] The Return of “Salt”
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/the-return-of-salt
----
-[New_Yorker_Magazine] Learning to Yearn with Georgia Oakley
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/learning-to-yearn-with-georgia-oakley
----
-[New_Yorker_Magazine] Inside Shaq’s League of Dunkers
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/inside-shaqs-league-of-dunkers
----
-[New_Yorker_Magazine] Is A.I. Above the Law?
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/is-ai-above-the-law
----
-[New_Yorker_Magazine] What’s Really Behind the Baby Bust?
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/inconceivable-the-impossibility-of-family-in-an-age-of-uncertainty-anna-louise-sussman-book-review
----
-[New_Yorker_Magazine] The Curious Power of Punctuation
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review
----
-[New_Yorker_Magazine] Hernan Diaz’s Grand Experiment
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/ply-hernan-diaz-book-review
----
-[New_Yorker_Magazine] What Barbara Kingsolver Believes the Novel Can Do
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/barbara-kingsolver-profile
----
-[New_Yorker_Magazine] Waiting for Jay-Z
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/waiting-for-jay-z
----
-[New_Yorker_Magazine] The Fallout of a Charlie Kirk Campus Scandal
-Published: 2026-09-21T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/09/28/the-fallout-of-a-charlie-kirk-campus-scandal
 ---
