@@ -1,6 +1,26 @@
-# Last Run: 2026-09-25 15:06 UTC
+# Last Run: 2026-09-25 19:56 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Six Russian Words for a Country Sliding Into Authoritarianism
+Published: 2026-09-25T19:05:40+00:00
+Link: https://foreignpolicy.com/2026/09/25/russia-putin-authoritarianism-language-vocabulary/
+---
+[Foreign_Policy] ‘Furious’ Is an Angry Show for the World of Epstein and Trump
+Published: 2026-09-25T18:30:21+00:00
+Link: https://foreignpolicy.com/2026/09/25/furious-thriller-revenge-epstein/
+---
+[Foreign_Policy] The Twilight of the Francis Fukuyama Era
+Published: 2026-09-25T18:00:55+00:00
+Link: https://foreignpolicy.com/2026/09/25/the-twilight-of-the-francis-fukuyama-era/
+---
+[Foreign_Policy] Big Tech Is Destroying Democracy. Here’s How to Fight Back.
+Published: 2026-09-25T16:43:45+00:00
+Link: https://foreignpolicy.com/2026/09/25/maria-ressa-big-tech-democracy-ai-autocracy/
+---
+[Foreign_Policy] Gulf States Are Hedging and Suffering
+Published: 2026-09-25T15:18:51+00:00
+Link: https://foreignpolicy.com/2026/09/25/gulf-states-iran-trump-oil-energy-hormuz/
+---
 [Foreign_Policy] The U.S.-Saudi Nuclear Agreement Carries Dangerous Proliferation Risks
 Published: 2026-09-25T14:03:14+00:00
 Link: https://foreignpolicy.com/2026/09/25/saudi-nuclear-agreement-dangerous-proliferation-risks-trump-riyadh-mbs/
@@ -16,6 +36,10 @@ Link: https://foreignpolicy.com/2026/09/25/venezuela-unga-delcy-rodriguez-maduro
 [Foreign_Policy] The Woman Remaking Brazil’s Far Right
 Published: 2026-09-25T10:00:09+00:00
 Link: https://foreignpolicy.com/2026/09/25/brazil-election-michelle-bolsonaro-flavio-lula-feminism-far-right/
+---
+[New_Yorker_Magazine] The Predator Catcher Turns Predatory in “Primetime”
+Published: 2026-09-25T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/primetime-movie-review
 ---
 [Foreign_Affairs] How Iran Changed War
 Published: 2026-09-25T04:00:00+00:00
@@ -52,6 +76,10 @@ Link: https://foreignpolicy.com/2026/09/24/trump-xi-dissidents-uyghurs-christian
 [Foreign_Policy] Can AI Be Regulated?
 Published: 2026-09-24T16:14:30+00:00
 Link: https://foreignpolicy.com/2026/09/24/ai-regulation-technology-pace-frontier-stock-market/
+---
+[New_Yorker_Magazine] Gut Renos of Ionesco and Chekhov
+Published: 2026-09-24T14:50:47+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/gut-renos-of-ionesco-and-chekhov
 ---
 [Foreign_Policy] The Law of the Sea Is in Trouble
 Published: 2026-09-24T14:38:51+00:00
@@ -156,20 +184,4 @@ Link: https://foreignpolicy.com/2026/09/22/ukraine-putin-russia-signaling-trump-
 [Foreign_Policy] Don’t Expect Fireworks From the Trump-Xi Summit
 Published: 2026-09-22T20:20:30+00:00
 Link: https://foreignpolicy.com/2026/09/22/trump-xi-summit-china-us-ai-trade-critical-minerals-iran-taiwan/
----
-[Foreign_Policy] How AI Fits Into Humanity’s Troubling History
-Published: 2026-09-22T18:46:54+00:00
-Link: https://foreignpolicy.com/2026/09/22/artificial-intelligence-human-history-technological-development-risks/
----
-[Foreign_Policy] How Canada Is Navigating Trump’s Threats
-Published: 2026-09-22T16:08:53+00:00
-Link: https://foreignpolicy.com/2026/09/22/canada-united-states-trade-economics-trump-threats-anita-anand/
----
-[Foreign_Policy] ‘Scorpions in a Bottle’: What the U.N. Can Do About AI Safety
-Published: 2026-09-22T16:02:43+00:00
-Link: https://foreignpolicy.com/2026/09/22/ai-safety-risk-united-nations-un-amandeep-singh-gill-interview/
----
-[Foreign_Policy] Washington Should Embrace Space Warfare
-Published: 2026-09-22T15:12:13+00:00
-Link: https://foreignpolicy.com/2026/09/22/space-force-washington-nuclear-china-russia-satellite/
 ---
