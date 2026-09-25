@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
+_آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-09-25 11:45:03 (UTC)  
+  **مدت:** حدود 101.3 دقیقه  
+  **عنوان:** [AULA 4 - DESCOMPLICA SOLIDWORKS SIMULATION](https://www.youtube.com/watch?v=yJr5kr9wj3U)  
+  ![](https://i.ytimg.com/vi/yJr5kr9wj3U/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-24 11:45:12 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
   **مدت:** حدود 28.6 دقیقه  
   **عنوان:** [AULA 41 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=WXxR-NpsLMA)  
   ![](https://i.ytimg.com/vi/WXxR-NpsLMA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-04-14 23:15:10 (UTC)  
-  **مدت:** حدود 30.7 دقیقه  
-  **عنوان:** [AULA 40 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=v5S_NCJyXzw)  
-  ![](https://i.ytimg.com/vi/v5S_NCJyXzw/hqdefault.jpg)

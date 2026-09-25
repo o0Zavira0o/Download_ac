@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
+_آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-24 14:48:01 (UTC)  
+  **مدت:** حدود 41.9 دقیقه  
+  **عنوان:** [Beverage Bottle Modeling in SolidWorks](https://www.youtube.com/watch?v=vTgUIi_WPZ0)  
+  ![](https://i.ytimg.com/vi/vTgUIi_WPZ0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-22 13:57:38 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
   **مدت:** حدود 14.5 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Basketball in Solidworks | Solidworks](https://www.youtube.com/watch?v=UzSHs5ZRRwM)  
   ![](https://i.ytimg.com/vi/UzSHs5ZRRwM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-23 12:27:52 (UTC)  
-  **مدت:** حدود 8.9 دقیقه  
-  **عنوان:** [MSI workstation Laptops for CAD softwares | Solidworks](https://www.youtube.com/watch?v=ZH3fIHLG6qE)  
-  ![](https://i.ytimg.com/vi/ZH3fIHLG6qE/hqdefault.jpg)

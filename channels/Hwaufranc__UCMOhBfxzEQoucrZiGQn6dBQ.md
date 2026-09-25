@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
+_آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-25 12:00:31 (UTC)  
+  **مدت:** حدود 123.7 دقیقه  
+  **عنوان:** [다꾸 ASMR 추석특집2🎆 처음부터 끝까지 빈티지하게 다이어리 꾸미기 2Hour Art Journaling](https://www.youtube.com/watch?v=Pty19ZPYsaI)  
+  ![](https://i.ytimg.com/vi/Pty19ZPYsaI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-24 12:00:23 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [Oddly ASMR Sounds #shorts](https://www.youtube.com/watch?v=WsjhfPzDaz8)  
   ![](https://i.ytimg.com/vi/WsjhfPzDaz8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-08 10:05:00 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Unboxing ASMR 🌈 #shorts #inkpad](https://www.youtube.com/watch?v=wqZ4ZpoRm5M)  
-  ![](https://i.ytimg.com/vi/wqZ4ZpoRm5M/hqdefault.jpg)

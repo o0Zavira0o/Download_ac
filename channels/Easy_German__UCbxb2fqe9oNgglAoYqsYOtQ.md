@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
+_آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-25 09:01:18 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Wie merkst du dir neue Dinge am besten? #shorts #easygerman](https://www.youtube.com/watch?v=UubjBR08Ty4)  
+  ![](https://i.ytimg.com/vi/UubjBR08Ty4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-24 06:39:33 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
   **مدت:** حدود 1.9 دقیقه  
   **عنوان:** [At the Library | Super Easy German (24)](https://www.youtube.com/watch?v=fxvo4HHXXOc)  
   ![](https://i.ytimg.com/vi/fxvo4HHXXOc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-19 18:06:33 (UTC)  
-  **مدت:** حدود 9.0 دقیقه  
-  **عنوان:** [Taboos in Germany | Easy German 187](https://www.youtube.com/watch?v=OM5WiuSCxwk)  
-  ![](https://i.ytimg.com/vi/OM5WiuSCxwk/hqdefault.jpg)

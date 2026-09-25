@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
+_آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-25 03:09:04 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [The Most Satisfying Clamping Mechanism Ever Made](https://www.youtube.com/watch?v=zYhtmBWZqAs)  
+  ![](https://i.ytimg.com/vi/zYhtmBWZqAs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-24 07:41:52 (UTC)  
@@ -62,7 +68,7 @@ _آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
 
 - **تاریخ انتشار:** 2026-09-17 03:10:09 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Self-centering vice or clamping mechanism](https://www.youtube.com/watch?v=k_83T8GavB0)  
+  **عنوان:** [The most satisfying clamping mechanism ever ⚙️ #engineering #satisfying #shorts](https://www.youtube.com/watch?v=k_83T8GavB0)  
   ![](https://i.ytimg.com/vi/k_83T8GavB0/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
   **مدت:** حدود 2.3 دقیقه  
   **عنوان:** [SolidWorks vs AutoCAD: The Ultimate Showdown](https://www.youtube.com/watch?v=VvWMMAQUjAc)  
   ![](https://i.ytimg.com/vi/VvWMMAQUjAc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-01 09:59:36 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Solidworks Exercise for Beginners 📌](https://www.youtube.com/watch?v=jCU2pG8lNpM)  
-  ![](https://i.ytimg.com/vi/jCU2pG8lNpM/hqdefault.jpg)

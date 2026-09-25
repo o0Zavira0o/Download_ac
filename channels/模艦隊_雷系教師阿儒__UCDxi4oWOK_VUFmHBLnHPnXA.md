@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
+_آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-09-25 11:00:07 (UTC)  
+  **مدت:** حدود 19.7 دقیقه  
+  **عنوان:** [【onshape】建模練功：造型球拆件法｜掃出+投影曲線](https://www.youtube.com/watch?v=HCIA2JT0Xfg)  
+  ![](https://i.ytimg.com/vi/HCIA2JT0Xfg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-23 11:00:24 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
   **مدت:** حدود 27.5 دقیقه  
   **عنوان:** [【onshape】產品練習：椅子｜複合曲線+掃出｜鏡射](https://www.youtube.com/watch?v=7PUTNotzM7w)  
   ![](https://i.ytimg.com/vi/7PUTNotzM7w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-06-25 11:01:11 (UTC)  
-  **مدت:** حدود 13.6 دقیقه  
-  **عنوان:** [【SolidWorks】指令介紹：移動面｜不畫草圖｜取代伸長除料的好方案](https://www.youtube.com/watch?v=flx_Zgw5_Q4)  
-  ![](https://i.ytimg.com/vi/flx_Zgw5_Q4/hqdefault.jpg)

@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
+_آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -9,7 +9,7 @@ _آخرین به‌روزرسانی: 2026-09-24T14:09:14Z_
 
 
 - **تاریخ انتشار:** 2026-09-13 13:30:34 (UTC)  
-  **مدت:** حدود 28.4 دقیقه  
+  **مدت:** حدود 28.0 دقیقه  
   **عنوان:** [I Gave Him Fake Steroids For 100 Days](https://www.youtube.com/watch?v=L3pDtUk7ZmY)  
   ![](https://i.ytimg.com/vi/L3pDtUk7ZmY/hqdefault.jpg)
 
