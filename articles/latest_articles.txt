@@ -1,6 +1,10 @@
-# Last Run: 2026-09-25 19:56 UTC
+# Last Run: 2026-09-25 23:11 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Ethiopia Returns to Civil War
+Published: 2026-09-25T20:33:44+00:00
+Link: https://foreignpolicy.com/2026/09/25/ethiopia-tigray-tplf-civil-war-abiy-amhara-afar-eritrea/
+---
 [Foreign_Policy] Six Russian Words for a Country Sliding Into Authoritarianism
 Published: 2026-09-25T19:05:40+00:00
 Link: https://foreignpolicy.com/2026/09/25/russia-putin-authoritarianism-language-vocabulary/
@@ -164,24 +168,4 @@ Link: https://www.foreignaffairs.com/iran/stalemate-iran-not-sustainable
 [Foreign_Affairs] Europe Can’t Get Out of Its Own Way
 Published: 2026-09-23T04:00:00+00:00
 Link: https://www.foreignaffairs.com/europe/europe-cant-get-out-its-own-way
----
-[Foreign_Policy] A Tale of Two UNGA Speeches
-Published: 2026-09-22T21:53:23+00:00
-Link: https://foreignpolicy.com/2026/09/22/unga-speech-guterres-trump-united-nations-zelensky/
----
-[Foreign_Policy] Trump Threatens to ‘Annihilate’ Iran in U.N. Speech
-Published: 2026-09-22T21:20:26+00:00
-Link: https://foreignpolicy.com/2026/09/22/trump-unga-speech-annihilate-iran-icc-rogue-war-crimes/
----
-[Foreign_Policy] Xi Comes to Washington Armed With a Rare-Earth Card
-Published: 2026-09-22T20:53:02+00:00
-Link: https://foreignpolicy.com/2026/09/22/china-rare-earth-xi-trump-meeting-summit/
----
-[Foreign_Policy] The West Is Sending Russia the Wrong Signals
-Published: 2026-09-22T20:46:15+00:00
-Link: https://foreignpolicy.com/2026/09/22/ukraine-putin-russia-signaling-trump-germany/
----
-[Foreign_Policy] Don’t Expect Fireworks From the Trump-Xi Summit
-Published: 2026-09-22T20:20:30+00:00
-Link: https://foreignpolicy.com/2026/09/22/trump-xi-summit-china-us-ai-trade-critical-minerals-iran-taiwan/
 ---
