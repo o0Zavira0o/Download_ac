@@ -1,6 +1,30 @@
-# Last Run: 2026-09-25 09:30 UTC
+# Last Run: 2026-09-25 15:06 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The U.S.-Saudi Nuclear Agreement Carries Dangerous Proliferation Risks
+Published: 2026-09-25T14:03:14+00:00
+Link: https://foreignpolicy.com/2026/09/25/saudi-nuclear-agreement-dangerous-proliferation-risks-trump-riyadh-mbs/
+---
+[Foreign_Policy] What Arab Israelis Really Think About Israel’s Election
+Published: 2026-09-25T12:19:43+00:00
+Link: https://foreignpolicy.com/2026/09/25/arab-israelis-election-palestine-netanyahu-abbas-jewish-state/
+---
+[Foreign_Policy] Venezuela’s Acting Leader Makes Her U.N. Debut
+Published: 2026-09-25T12:00:01+00:00
+Link: https://foreignpolicy.com/2026/09/25/venezuela-unga-delcy-rodriguez-maduro-trump-elections/
+---
+[Foreign_Policy] The Woman Remaking Brazil’s Far Right
+Published: 2026-09-25T10:00:09+00:00
+Link: https://foreignpolicy.com/2026/09/25/brazil-election-michelle-bolsonaro-flavio-lula-feminism-far-right/
+---
+[Foreign_Affairs] How Iran Changed War
+Published: 2026-09-25T04:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/how-iran-changed-war-united-states-michael-horowitz
+---
+[Foreign_Affairs] The Coming Taiwan Crisis
+Published: 2026-09-25T04:00:00+00:00
+Link: https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin
+---
 [Foreign_Affairs] How Iran Changed War
 Published: 2026-09-25T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/how-iran-changed-war
@@ -148,16 +172,4 @@ Link: https://foreignpolicy.com/2026/09/22/ai-safety-risk-united-nations-un-aman
 [Foreign_Policy] Washington Should Embrace Space Warfare
 Published: 2026-09-22T15:12:13+00:00
 Link: https://foreignpolicy.com/2026/09/22/space-force-washington-nuclear-china-russia-satellite/
----
-[Foreign_Policy] Japan’s New CIA Could Be Takaichi’s Trump Card
-Published: 2026-09-22T13:21:51+00:00
-Link: https://foreignpolicy.com/2026/09/22/japan-intelligence-agency-secret-service-takaichi-trump-security-military-alliance/
----
-[Foreign_Policy] Will Inuit in Canada Turn to China?
-Published: 2026-09-22T11:00:53+00:00
-Link: https://foreignpolicy.com/2026/09/22/canada-far-north-inuit-foreign-influence-carney-china-us/
----
-[Foreign_Policy] Trump’s ‘Economic D-Day’ Against Iran Risks U.S. Ties With China
-Published: 2026-09-22T10:00:15+00:00
-Link: https://foreignpolicy.com/2026/09/22/operation-economic-outcast-trump-united-states-iran-china-sanctions-oil-markets-bessent/
 ---
