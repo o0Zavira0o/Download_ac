@@ -1,4 +1,4 @@
-# Last Run: 2026-09-24 23:07 UTC
+# Last Run: 2026-09-25 03:54 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu Faces an UNGA Walkout (Again)
@@ -160,8 +160,4 @@ Link: https://www.foreignaffairs.com/syria/syrias-imperiled-transition
 [Foreign_Affairs] The Trouble With the Nuclear-AI Analogy
 Published: 2026-09-22T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/trouble-nuclear-ai-analogy
----
-[Foreign_Policy] UNGA Convenes With Uncertainty on the Horizon
-Published: 2026-09-21T23:38:27+00:00
-Link: https://foreignpolicy.com/2026/09/21/unga-conflict-trump-guterres-secretary-general-uncertainty/
 ---
