@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
+_آخرین به‌روزرسانی: 2026-09-26T13:42:52Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
@@ -8,7 +8,7 @@ _آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
 
 - **تاریخ انتشار:** 2026-09-24 14:48:01 (UTC)  
   **مدت:** حدود 41.9 دقیقه  
-  **عنوان:** [Beverage Bottle Modeling in SolidWorks](https://www.youtube.com/watch?v=vTgUIi_WPZ0)  
+  **عنوان:** [Beverage Bottle Modeling in SolidWorks (Boundary Cut)](https://www.youtube.com/watch?v=vTgUIi_WPZ0)  
   ![](https://i.ytimg.com/vi/vTgUIi_WPZ0/hqdefault.jpg)
 
 

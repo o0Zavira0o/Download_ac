@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
+_آخرین به‌روزرسانی: 2026-09-26T13:42:52Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-09-26 04:36:02 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Internal Geneva Mechanism📌 #3danimation #mechanism #mechanical](https://www.youtube.com/watch?v=jgFRi9i7eVM)  
+  ![](https://i.ytimg.com/vi/jgFRi9i7eVM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-25 03:09:04 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [Solidworks Isometric Drawing Exercise 📌](https://www.youtube.com/watch?v=c9IONJLdeCY)  
   ![](https://i.ytimg.com/vi/c9IONJLdeCY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-02 02:38:15 (UTC)  
-  **مدت:** حدود 2.3 دقیقه  
-  **عنوان:** [SolidWorks vs AutoCAD: The Ultimate Showdown](https://www.youtube.com/watch?v=VvWMMAQUjAc)  
-  ![](https://i.ytimg.com/vi/VvWMMAQUjAc/hqdefault.jpg)

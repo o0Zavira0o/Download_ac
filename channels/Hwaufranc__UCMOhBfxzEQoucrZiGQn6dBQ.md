@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
+_آخرین به‌روزرسانی: 2026-09-26T13:42:52Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-26 12:00:16 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [다꾸 ASMR Journaling | 1분 다꾸](https://www.youtube.com/watch?v=xoRe4FXcyJY)  
+  ![](https://i.ytimg.com/vi/xoRe4FXcyJY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-25 12:00:31 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [Journal ASMR #asmr #journaling #journal #flowers](https://www.youtube.com/watch?v=Tjv9Sbj1NnM)  
   ![](https://i.ytimg.com/vi/Tjv9Sbj1NnM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-08 10:05:01 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Oddly ASMR Sounds #shorts](https://www.youtube.com/watch?v=WsjhfPzDaz8)  
-  ![](https://i.ytimg.com/vi/WsjhfPzDaz8/hqdefault.jpg)

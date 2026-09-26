@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-09-25T14:33:02Z_
+_آخرین به‌روزرسانی: 2026-09-26T13:42:52Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-09-26 10:00:15 (UTC)  
+  **مدت:** حدود 20.9 دقیقه  
+  **عنوان:** [45,STAG BEETLE | 2-Sheet Black Origami Beetle | Silent Origami🇯🇵 クワガタ｜黒い折り紙2枚で折る【無言の折り紙】](https://www.youtube.com/watch?v=arNG_jpuNNk)  
+  ![](https://i.ytimg.com/vi/arNG_jpuNNk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-23 22:25:40 (UTC)  
