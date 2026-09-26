@@ -1,4 +1,4 @@
-# Last Run: 2026-09-26 14:25 UTC
+# Last Run: 2026-09-26 19:08 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Ethiopia Returns to Civil War
@@ -128,20 +128,4 @@ Link: https://foreignpolicy.com/2026/09/23/board-of-peace-gaza-reconstruction-pl
 [Foreign_Policy] What to Know About Djibouti’s Refugee Crisis
 Published: 2026-09-23T21:01:41+00:00
 Link: https://foreignpolicy.com/2026/09/23/what-to-know-about-djiboutis-refugee-crisis/
----
-[Foreign_Policy] How to Create a Billion Jobs
-Published: 2026-09-23T18:21:09+00:00
-Link: https://foreignpolicy.com/2026/09/23/ajay-banga-world-bank-private-sector-global-job-growth-plan/
----
-[Foreign_Policy] The World Needs to Know When AI Goes Wrong
-Published: 2026-09-23T18:04:18+00:00
-Link: https://foreignpolicy.com/2026/09/23/ai-rogue-hugging-face-chernobyl/
----
-[Foreign_Policy] The Iran War Might Be Somaliland’s Chance for Recognition
-Published: 2026-09-23T17:06:48+00:00
-Link: https://foreignpolicy.com/2026/09/23/somaliland-israel-state-recognition-somalia-iran-war-irro-united-states-trump/
----
-[Foreign_Policy] Trump Wants to Ban Diesel Exports. It Won’t Help.
-Published: 2026-09-23T15:49:25+00:00
-Link: https://foreignpolicy.com/2026/09/23/trump-diesel-export-ban-fuel-prices-energy-crisis/
 ---
