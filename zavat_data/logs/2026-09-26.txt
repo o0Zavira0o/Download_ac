@@ -1,4 +1,184 @@
 ================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : Scaling AI-Assisted Development Across Teams
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 48m | 433 MB
+Link   : http://zavat.pw/ebooks/scaling-ai-assisted-development-across-teams.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : First Look: Cursor Projects
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 17m | 98.3 MB
+Link   : http://zavat.pw/ebooks/cursor-projects-first-look.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : Schedule and Trigger Pipelines with Apache Airflow 3
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 4m | 225 MB
+Link   : http://zavat.pw/ebooks/apache-airflow-3-schedule-trigger-pipelines.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : Spring Framework 7 Fundamentals
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 29m | 361 MB
+Link   : http://zavat.pw/ebooks/spring-framework-7-fundamentals.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : AWS Storage Fundamentals
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h | 420 MB
+Link   : http://zavat.pw/ebooks/aws--storage-fundamentals.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : C# 14 Generics, Iteration, and State Management
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 59m | 335 MB
+Link   : http://zavat.pw/ebooks/c-sharp-14-generics-iteration-state-management.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : Dynamic Dashboards and Proactive Alerts
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 57m | 350 MB
+Link   : http://zavat.pw/ebooks/dynamic-dashboards-proactive-alerts.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : Implement AI Solutions by Using Microsoft Foundry (AI-901)
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 58m | 404 MB
+Link   : http://zavat.pw/ebooks/implement-ai-solutions-by-using-microsoft-foundry--ai-901.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : Logistic Regression for Classification
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 24m | 281 MB
+Link   : http://zavat.pw/ebooks/logistic-regression-for-classification.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : Android Networking and APIs with Kotlin
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h 43m | 565 MB
+Link   : http://zavat.pw/ebooks/android-networking-apis-kotlin.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : Enterprise AI Cost Management
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 33m | 169 MB
+Link   : http://zavat.pw/ebooks/enterprise-ai-cost-management.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : Creation, Configuration, and Management of Virtual Machines
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 44m | 235 MB
+Link   : http://zavat.pw/ebooks/virtualization-creation-configuration-management-virtual-machines.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : AI in SQL Server 2025
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 34m | 250 MB
+Link   : http://zavat.pw/ebooks/sql-server-25-ai.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : Clustering in Practice
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 2h 11m | 472 MB
+Link   : http://zavat.pw/ebooks/clustering-practice.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | IrGens
+Title  : LLMs for Data Documentation
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 47m | 170 MB
+Link   : http://zavat.pw/ebooks/llms-data-documentation.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : Il Giornale - 26 Settembre 2026
+Details: Italiano | 40 pages | PDF | 77.4 MB
+Link   : http://zavat.pw/newspapers/IlGiornale26Settembre2026-34840.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : La Verita - 26 Settembre 2026
+Details: Italiano | 24 pages | True PDF | 37.1 MB
+Link   : http://zavat.pw/newspapers/LaVerita26Settembre2026-70963.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : Libero - 26 Settembre 2026
+Details: Italiano | 40 pages | PDF | 84.6 MB
+Link   : http://zavat.pw/newspapers/Libero26Settembre2026-42815.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : TuttoSport - 26 Settembre 2026
+Details: Italiano | 64 pages | True PDF | 31.4 MB
+Link   : http://zavat.pw/newspapers/TuttoSport26Settembre2026-31010.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : Milano Finanza - 26 Settembre 2026
+Details: Italiano | 83 pages | True PDF | 15.7 MB
+Link   : http://zavat.pw/newspapers/MilanoFinanza26Settembre2026-31768.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : Il Tempo - 26 Settembre 2026
+Details: Italiano | 32 pages | PDF | 76.2 MB
+Link   : http://zavat.pw/newspapers/IlTempo26Settembre2026-90030.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : la Repubblica - 26 Settembre 2026
+Details: Italiano | 56 pages | True PDF | 52.8 MB
+Link   : http://zavat.pw/newspapers/laRepubblica26Settembre2026-07862.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : Il Messaggero - 26 Settembre 2026
+Details: Italiano | 56 pages | True PDF | 28.1 MB
+Link   : http://zavat.pw/newspapers/IlMessaggero26Settembre2026-07569.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : La Stampa - 26 Settembre 2026
+Details: Italiano | 72 pages | True PDF | 36.6 MB
+Link   : http://zavat.pw/newspapers/LaStampa26Settembre2026-93124.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : ItaliaOggi - 26 Settembre 2026
+Details: Italiano | 31 pages | True PDF | 5.8 MB
+Link   : http://zavat.pw/newspapers/ItaliaOggi26Settembre2026-48159.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : La Gazzetta dello Sport - 26 Settembre 2026
+Details: Italiano | 48 pages | True PDF | 10.8 MB
+Link   : http://zavat.pw/newspapers/LaGazzettadelloSport26Settembre2026-44348.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : Il Sole 24 Ore Plus - 26 Settembre 2026
+Details: Italiano | 20 pages | True PDF | 16.4 MB
+Link   : http://zavat.pw/newspapers/IlSole24OrePlus26Settembre2026-70985.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : Il Sole 24 Ore - 26 Settembre 2026
+Details: Italiano | 34 pages | True PDF | 33.8 MB
+Link   : http://zavat.pw/newspapers/IlSole24Ore26Settembre2026-72407.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : Corriere dello Sport - 26 Settembre 2026
+Details: Italiano | 64 pages | True PDF | 40.8 MB
+Link   : http://zavat.pw/newspapers/CorrieredelloSport26Settembre2026-97214.html
+
+================================================================================
+2026-09-26 08:45:17 (Asia/Tehran) | crazy-slim
+Title  : Il Foglio - 26 Settembre 2026
+Details: Italiano | 24 pages | PDF | 79.5 MB
+Link   : http://zavat.pw/newspapers/IlFoglio26Settembre2026-63723.html
+
+================================================================================
 2026-09-26 03:48:08 (Asia/Tehran) | hill0
 Title  : Financial Modelling for Project Finance
 Details: English | 2026 | ISBN: 1615470867 | 367 Pages | EPUB (True) | 47 MB
