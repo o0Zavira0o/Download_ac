@@ -1,4 +1,28 @@
 ================================================================================
+2026-09-27 03:13:01 (Asia/Tehran) | IrGens
+Title  : Critical Thinking: Evaluating Information and Risk
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 50m | 1017 MB
+Link   : http://zavat.pw/ebooks/critical-thinking-evaluating-information-risk.html
+
+================================================================================
+2026-09-27 03:13:01 (Asia/Tehran) | IrGens
+Title  : Demo: Build with Self-Hosted Agents and Publish Packages in Azure Pipelines
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 40m | 113 MB
+Link   : http://zavat.pw/ebooks/azure-pipelines-build-self-hosted-agents-publish-packages.html
+
+================================================================================
+2026-09-27 03:13:01 (Asia/Tehran) | IrGens
+Title  : Notifications and Background Updates in iOS
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 43m | 298 MB
+Link   : http://zavat.pw/ebooks/notifications-background-updates-ios.html
+
+================================================================================
+2026-09-27 03:13:01 (Asia/Tehran) | IrGens
+Title  : Integrate Apache Airflow 3 with External Systems
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 4m | 198 MB
+Link   : http://zavat.pw/ebooks/apache-airflow-3-integrate-external-systems.html
+
+================================================================================
 2026-09-27 00:50:53 (Asia/Tehran) | IrGens
 Title  : Data Privacy Explained
 Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 29m | 450 MB
