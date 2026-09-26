@@ -1,4 +1,4 @@
-# Last Run: 2026-09-26 03:58 UTC
+# Last Run: 2026-09-26 09:18 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Ethiopia Returns to Civil War
@@ -144,28 +144,4 @@ Link: https://foreignpolicy.com/2026/09/23/somaliland-israel-state-recognition-s
 [Foreign_Policy] Trump Wants to Ban Diesel Exports. It Won’t Help.
 Published: 2026-09-23T15:49:25+00:00
 Link: https://foreignpolicy.com/2026/09/23/trump-diesel-export-ban-fuel-prices-energy-crisis/
----
-[Foreign_Policy] What Machiavelli Would Say About Trump
-Published: 2026-09-23T08:49:40+00:00
-Link: https://foreignpolicy.com/2026/09/23/trump-machiavelli-leadership-military-iran-war-power-principles/
----
-[Foreign_Policy] What Machiavelli Would Say About Trump
-Published: 2026-09-23T08:49:40+00:00
-Link: https://foreignpolicy.com/2026/09/23/what-machiavelli-would-say-about-trump/
----
-[Foreign_Policy] Malaysia’s Top Crook Gets Leniency
-Published: 2026-09-23T05:00:41+00:00
-Link: https://foreignpolicy.com/2026/09/23/malaysia-najib-razak-clemency-anwar-king/
----
-[Foreign_Affairs] Europe Can’t Get Out of Its Own Way
-Published: 2026-09-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/europe/europe-cant-get-out-its-own-way-andrew-mcAfee
----
-[Foreign_Affairs] The Stalemate With Iran Is Not Sustainable
-Published: 2026-09-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/stalemate-iran-not-sustainable
----
-[Foreign_Affairs] Europe Can’t Get Out of Its Own Way
-Published: 2026-09-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/europe/europe-cant-get-out-its-own-way
 ---
