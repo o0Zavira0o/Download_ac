@@ -1,4 +1,4 @@
-# Last Run: 2026-09-27 04:08 UTC
+# Last Run: 2026-09-27 11:36 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Ethiopia Returns to Civil War
@@ -92,8 +92,4 @@ Link: https://foreignpolicy.com/2026/09/24/migrants-britain-royal-national-lifeb
 [Foreign_Policy] Thank Goodness Europe Doesn’t Have a Phone Number
 Published: 2026-09-24T13:57:16+00:00
 Link: https://foreignpolicy.com/2026/09/24/europe-phone-number-eu/
----
-[Foreign_Policy] Germany Is Officially Adrift
-Published: 2026-09-24T06:54:45+00:00
-Link: https://foreignpolicy.com/2026/09/24/germany-merz-authority-lost-elections-afd/
 ---
