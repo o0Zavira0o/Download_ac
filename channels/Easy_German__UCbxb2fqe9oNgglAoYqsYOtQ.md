@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-26T13:42:52Z_
+_آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-26 17:11:33 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Pipi-Kacka-Humor #easygermanpodcast #humor #learngerman](https://www.youtube.com/watch?v=wGWwCsZehSM)  
+  ![](https://i.ytimg.com/vi/wGWwCsZehSM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-25 09:01:18 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-26T13:42:52Z_
   **مدت:** حدود 2.1 دقیقه  
   **عنوان:** [Easy German Summerschool open for registrations | 12 - 19 August 2017 in Berlin](https://www.youtube.com/watch?v=mJHCgjahH4U)  
   ![](https://i.ytimg.com/vi/mJHCgjahH4U/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-22 23:31:18 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [At the Library | Super Easy German (24)](https://www.youtube.com/watch?v=fxvo4HHXXOc)  
-  ![](https://i.ytimg.com/vi/fxvo4HHXXOc/hqdefault.jpg)

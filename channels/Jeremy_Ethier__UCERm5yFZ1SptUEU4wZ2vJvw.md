@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-09-26T13:42:52Z_
+_آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/jeremyethier  
+
+
+- **تاریخ انتشار:** 2026-09-27 13:30:37 (UTC)  
+  **مدت:** حدود 22.4 دقیقه  
+  **عنوان:** [I Tested 30 Ab Exercises - You Only Need These 2](https://www.youtube.com/watch?v=0ShG8aVIvms)  
+  ![](https://i.ytimg.com/vi/0ShG8aVIvms/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-13 13:30:34 (UTC)  

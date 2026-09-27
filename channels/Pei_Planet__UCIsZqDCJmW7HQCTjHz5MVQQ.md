@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-09-26T13:42:52Z_
+_آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-26T13:42:52Z_
+_آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-27 03:30:06 (UTC)  
+  **مدت:** حدود 24.3 دقیقه  
+  **عنوان:** [Valve Body Modeling in SolidWorks-Thread Feature](https://www.youtube.com/watch?v=S4hUmnkh8g0)  
+  ![](https://i.ytimg.com/vi/S4hUmnkh8g0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-24 14:48:01 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-26T13:42:52Z_
   **مدت:** حدود 21.6 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Tap Bit in Solidworks | Solidworks](https://www.youtube.com/watch?v=nK4BuDWvW3A)  
   ![](https://i.ytimg.com/vi/nK4BuDWvW3A/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-23 15:38:26 (UTC)  
-  **مدت:** حدود 14.5 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Basketball in Solidworks | Solidworks](https://www.youtube.com/watch?v=UzSHs5ZRRwM)  
-  ![](https://i.ytimg.com/vi/UzSHs5ZRRwM/hqdefault.jpg)

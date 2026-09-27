@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-26T13:42:52Z_
+_آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-27 13:30:01 (UTC)  
+  **مدت:** حدود 7.7 دقیقه  
+  **عنوان:** [ASMR 다꾸 하울 : 으스스 고딕 뱀파이어 할로윈 Lblyxir🧛‍♂️ Journal Unboxing Halloween](https://www.youtube.com/watch?v=UStnjOjpHjw)  
+  ![](https://i.ytimg.com/vi/UStnjOjpHjw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-26 12:00:16 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-26T13:42:52Z_
   **مدت:** حدود 0.4 دقیقه  
   **عنوان:** [Unboxing ASMR 1/2 #shorts #messagecard](https://www.youtube.com/watch?v=qoNXGYDXNnw)  
   ![](https://i.ytimg.com/vi/qoNXGYDXNnw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-10 11:57:00 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Journal ASMR #asmr #journaling #journal #flowers](https://www.youtube.com/watch?v=Tjv9Sbj1NnM)  
-  ![](https://i.ytimg.com/vi/Tjv9Sbj1NnM/hqdefault.jpg)
