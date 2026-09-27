@@ -1,4 +1,4 @@
-# Last Run: 2026-09-26 22:28 UTC
+# Last Run: 2026-09-27 04:08 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Ethiopia Returns to Civil War
@@ -96,20 +96,4 @@ Link: https://foreignpolicy.com/2026/09/24/europe-phone-number-eu/
 [Foreign_Policy] Germany Is Officially Adrift
 Published: 2026-09-24T06:54:45+00:00
 Link: https://foreignpolicy.com/2026/09/24/germany-merz-authority-lost-elections-afd/
----
-[Foreign_Affairs] The Price of Arctic Ambition
-Published: 2026-09-24T04:00:01+00:00
-Link: https://www.foreignaffairs.com/arctic-antarctic/price-arctic-ambition-greenland-iris-ferguson
----
-[Foreign_Affairs] The Price of Arctic Ambition
-Published: 2026-09-24T04:00:01+00:00
-Link: https://www.foreignaffairs.com/united-states/price-arctic-ambition
----
-[Foreign_Affairs] How Putin Escalates
-Published: 2026-09-24T04:00:00+00:00
-Link: https://www.foreignaffairs.com/russia/how-putin-escalates-ukraine-war-andrei-kolesnikov
----
-[Foreign_Affairs] How Putin Escalates
-Published: 2026-09-24T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/how-putin-escalates
 ---
