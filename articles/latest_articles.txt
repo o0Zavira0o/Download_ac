@@ -1,4 +1,4 @@
-# Last Run: 2026-09-27 16:35 UTC
+# Last Run: 2026-09-27 21:07 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Ethiopia Returns to Civil War
@@ -68,12 +68,4 @@ Link: https://foreignpolicy.com/2026/09/24/netanyahu-speech-unga-israel-walkout-
 [Foreign_Policy] Trump and Xi Talked a Lot but Accomplished Little
 Published: 2026-09-24T21:39:17+00:00
 Link: https://foreignpolicy.com/2026/09/24/trump-xi-white-house-ai-trade-tariffs-taiwan-critical-minerals/
----
-[Foreign_Policy] Saudi Arabia Bribed the Wrong People
-Published: 2026-09-24T17:36:41+00:00
-Link: https://foreignpolicy.com/2026/09/24/iran-trump-saudi-war-mbs-bad-bet/
----
-[Foreign_Policy] China’s Human Rights Crisis Hasn’t Disappeared
-Published: 2026-09-24T16:41:38+00:00
-Link: https://foreignpolicy.com/2026/09/24/trump-xi-dissidents-uyghurs-christians/
 ---
