@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chanh Thien Tam CNC
 
-_آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
+_آخرین به‌روزرسانی: 2026-09-28T17:34:54Z_
 
 
 **لینک استاندارد کانال:** [Chanh Thien Tam CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-09-28 11:48:24 (UTC)  
+  **مدت:** حدود 12.7 دقیقه  
+  **عنوان:** [Vẽ Chai Tide Trong Solidworks](https://www.youtube.com/watch?v=W5vTEQniXHs)  
+  ![](https://i.ytimg.com/vi/W5vTEQniXHs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-27 11:35:05 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
   **مدت:** حدود 26.3 دقیقه  
   **عنوان:** [Lập trình gia công 3d mastercam](https://www.youtube.com/watch?v=H7n5Vl4NxIk)  
   ![](https://i.ytimg.com/vi/H7n5Vl4NxIk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-09 11:58:51 (UTC)  
-  **مدت:** حدود 2.9 دقیقه  
-  **عنوان:** [Lập trình tiện chi tiết mastercam](https://www.youtube.com/watch?v=arhk-mMFRCg)  
-  ![](https://i.ytimg.com/vi/arhk-mMFRCg/hqdefault.jpg)

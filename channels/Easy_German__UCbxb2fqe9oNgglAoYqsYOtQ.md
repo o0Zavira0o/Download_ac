@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
+_آخرین به‌روزرسانی: 2026-09-28T17:34:54Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-28 16:54:53 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Tipp zur Integration #easygerman #deutschlernen #sprachenlernen](https://www.youtube.com/watch?v=uDtL5ymkkHM)  
+  ![](https://i.ytimg.com/vi/uDtL5ymkkHM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-27 17:00:20 (UTC)  
+  **مدت:** حدود 16.5 دقیقه  
+  **عنوان:** [Learn German in Linz: Austrian Dialect & Local Life](https://www.youtube.com/watch?v=X2NPTSVuGiM)  
+  ![](https://i.ytimg.com/vi/X2NPTSVuGiM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-26 17:11:33 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [Do you know any Jokes about Germans? - We want to hear them 😃](https://www.youtube.com/watch?v=kCAowUUrqqY)  
   ![](https://i.ytimg.com/vi/kCAowUUrqqY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-26 18:21:21 (UTC)  
-  **مدت:** حدود 11.6 دقیقه  
-  **عنوان:** [6 common Mistakes Americans make in German | Easy German 188 (with Dana from Wanted Adventure)](https://www.youtube.com/watch?v=sOcCVL04ATY)  
-  ![](https://i.ytimg.com/vi/sOcCVL04ATY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-23 21:52:22 (UTC)  
-  **مدت:** حدود 2.1 دقیقه  
-  **عنوان:** [Easy German Summerschool open for registrations | 12 - 19 August 2017 in Berlin](https://www.youtube.com/watch?v=mJHCgjahH4U)  
-  ![](https://i.ytimg.com/vi/mJHCgjahH4U/hqdefault.jpg)

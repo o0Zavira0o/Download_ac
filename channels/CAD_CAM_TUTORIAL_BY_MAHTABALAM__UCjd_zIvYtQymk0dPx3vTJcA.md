@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
+_آخرین به‌روزرسانی: 2026-09-28T17:34:54Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-28 03:30:02 (UTC)  
+  **مدت:** حدود 14.5 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal exercise for beginners-(Vent, Fill Pattern)](https://www.youtube.com/watch?v=-7FGhp_GhM4)  
+  ![](https://i.ytimg.com/vi/-7FGhp_GhM4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-27 03:30:06 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
   **مدت:** حدود 16.1 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Tap Bit M14 in Solidworks](https://www.youtube.com/watch?v=K_NxJPFwz7c)  
   ![](https://i.ytimg.com/vi/K_NxJPFwz7c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-26 14:35:31 (UTC)  
-  **مدت:** حدود 21.6 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Tap Bit in Solidworks | Solidworks](https://www.youtube.com/watch?v=nK4BuDWvW3A)  
-  ![](https://i.ytimg.com/vi/nK4BuDWvW3A/hqdefault.jpg)

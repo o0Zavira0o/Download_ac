@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
+_آخرین به‌روزرسانی: 2026-09-28T17:34:54Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-09-28 11:22:24 (UTC)  
+  **مدت:** حدود 4.0 دقیقه  
+  **عنوان:** [nanoCAD 3DScan 26 Release: Key Updates](https://www.youtube.com/watch?v=P8W0yNhWHmA)  
+  ![](https://i.ytimg.com/vi/P8W0yNhWHmA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-22 13:00:13 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
   **مدت:** حدود 3.6 دقیقه  
   **عنوان:** [Making Parallel Copies (Offset) - Lesson 19](https://www.youtube.com/watch?v=tUiInoE5Vcc)  
   ![](https://i.ytimg.com/vi/tUiInoE5Vcc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-03-17 20:12:32 (UTC)  
-  **مدت:** حدود 6.0 دقیقه  
-  **عنوان:** [Rotating and Scaling Objects - Lesson 18](https://www.youtube.com/watch?v=QpQqa_IpDzU)  
-  ![](https://i.ytimg.com/vi/QpQqa_IpDzU/hqdefault.jpg)

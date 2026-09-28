@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
+_آخرین به‌روزرسانی: 2026-09-28T17:34:54Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
@@ -554,7 +554,7 @@ _آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
 
 - **تاریخ انتشار:** 2026-03-15 13:38:32 (UTC)  
   **مدت:** حدود 18.8 دقیقه  
-  **عنوان:** [Pipe Vice Assembly and Animation in Solidworks | Solidworks Assembly Tutorial](https://www.youtube.com/watch?v=WBsutftA1io)  
+  **عنوان:** [SolidWorks Project: Complete Pipe Vice Assembly & Animation](https://www.youtube.com/watch?v=WBsutftA1io)  
   ![](https://i.ytimg.com/vi/WBsutftA1io/hqdefault.jpg)
 
 
@@ -566,7 +566,7 @@ _آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
 
 - **تاریخ انتشار:** 2026-03-11 12:03:44 (UTC)  
   **مدت:** حدود 6.3 دقیقه  
-  **عنوان:** [Solidworks Assembly Tutorial - Toggle Clamp Mechanism](https://www.youtube.com/watch?v=663ZtEKEyrE)  
+  **عنوان:** [Learn to Assemble a Toggle Clamp in SolidWorks](https://www.youtube.com/watch?v=663ZtEKEyrE)  
   ![](https://i.ytimg.com/vi/663ZtEKEyrE/hqdefault.jpg)
 
 

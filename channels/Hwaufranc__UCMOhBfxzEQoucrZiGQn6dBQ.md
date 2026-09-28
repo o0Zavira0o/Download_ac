@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
+_آخرین به‌روزرسانی: 2026-09-28T17:34:54Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-28 14:40:23 (UTC)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [다꾸 ASMR 펌킨 하우스🎃 다이어리 꾸미기 | 할로윈 다꾸 Art Journal コラージュ diy 만들기](https://www.youtube.com/watch?v=4_uPdvHWDGY)  
+  ![](https://i.ytimg.com/vi/4_uPdvHWDGY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-27 13:30:01 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-27T14:39:15Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [Unboxing ASMR 2/2 #shorts #envelope](https://www.youtube.com/watch?v=UEoITNjgEPI)  
   ![](https://i.ytimg.com/vi/UEoITNjgEPI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-12 08:37:00 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Unboxing ASMR 1/2 #shorts #messagecard](https://www.youtube.com/watch?v=qoNXGYDXNnw)  
-  ![](https://i.ytimg.com/vi/qoNXGYDXNnw/hqdefault.jpg)
