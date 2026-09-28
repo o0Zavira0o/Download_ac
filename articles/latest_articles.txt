@@ -1,6 +1,18 @@
-# Last Run: 2026-09-28 18:03 UTC
+# Last Run: 2026-09-28 23:14 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] What Xi Actually Thinks of Trump
+Published: 2026-09-28T20:40:22+00:00
+Link: https://foreignpolicy.com/2026/09/28/xi-trump-summit-washington-us-china/
+---
+[Foreign_Policy] The U.S. and China Agree to Slash Tariffs
+Published: 2026-09-28T20:07:18+00:00
+Link: https://foreignpolicy.com/2026/09/28/us-china-tariffs-soybeans-trade-war-truce-taiwan-selling-weapons/
+---
+[Foreign_Policy] How Trump Is Sparking a Slovenian Website Boom
+Published: 2026-09-28T19:41:11+00:00
+Link: https://foreignpolicy.com/2026/09/28/trump-super-intelligence-unga-slovenia-web-domain-demand/
+---
 [Foreign_Policy] Brazil Has No Answers for Its China Problem
 Published: 2026-09-28T14:25:17+00:00
 Link: https://foreignpolicy.com/2026/09/28/brazil-election-president-lula-bolsonaro-china-america/
@@ -8,6 +20,58 @@ Link: https://foreignpolicy.com/2026/09/28/brazil-election-president-lula-bolson
 [Foreign_Policy] Trump’s ‘Greater North America’ Is Fascist Geopolitics
 Published: 2026-09-28T13:23:11+00:00
 Link: https://foreignpolicy.com/2026/09/28/trump-rubio-hegseth-greenland-cuba-north-america-fascism/
+---
+[New_Yorker_Magazine] Cookie Monster Tries to Meet His A.I. Mandate
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/cookie-monster-tries-to-meet-his-ai-mandate
+---
+[New_Yorker_Magazine] Letters from Our Readers
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/letters-from-the-october-5-2026-issue
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/the-radiance-cloudthief-dear-dealer-citizen-beast
+---
+[New_Yorker_Magazine] How Paweł Pawlikowski Learned to Film Europe’s Fractures
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/pawel-pawlikowski-profile
+---
+[New_Yorker_Magazine] At the Department of Justice, Many Lawyers Are Wondering If It’s Time to Quit
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/should-i-stay-or-should-i-go
+---
+[New_Yorker_Magazine] Detecting Notes of . . . Citi Field?
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/detecting-notes-of-citi-field
+---
+[New_Yorker_Magazine] How America Became Antifascist
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/a-shadow-over-the-world-william-i-hitchcock-book-review
+---
+[New_Yorker_Magazine] Why Doesn’t Anyone Want to Fix One of America’s Scariest Roads?
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads
+---
+[New_Yorker_Magazine] More Sunshine with Joey Arias and Basil Twist
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/more-sunshine-with-joey-arias-and-basil-twist
+---
+[New_Yorker_Magazine] Your Guide to Navigating the Parent Group Chat
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/your-guide-to-navigating-the-parent-group-chat
+---
+[New_Yorker_Magazine] Hockey Dads and Hockey Sons
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/hockey-dads-and-hockey-sons
+---
+[New_Yorker_Magazine] Cartoon Recession Indicators
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/cartoon-recession-indicators
+---
+[New_Yorker_Magazine] Why America Looks the Way It Does
+Published: 2026-09-28T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/property-values-joshua-specht-book-review
 ---
 [Foreign_Policy] John D. Rockefeller Is a Cautionary Tale for Today’s Business Titans
 Published: 2026-09-28T04:01:04+00:00
@@ -25,15 +89,23 @@ Link: https://www.foreignaffairs.com/united-states/rewiring-arsenal-democracy
 Published: 2026-09-28T04:00:00+00:00
 Link: https://www.foreignaffairs.com/japan/japan-giving-united-states-chance-asia
 ---
-[Foreign_Policy] Ethiopia Returns to Civil War
-Published: 2026-09-25T20:33:44+00:00
-Link: https://foreignpolicy.com/2026/09/25/ethiopia-tigray-tplf-civil-war-abiy-amhara-afar-eritrea/
+[New_Yorker_Magazine] “D’Angelo in Starlight,” by Ishion Hutchinson
+Published: 2026-09-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/dangelo-in-starlight-ishion-hutchinson-poem
 ---
-[Foreign_Policy] Six Russian Words for a Country Sliding Into Authoritarianism
-Published: 2026-09-25T19:05:40+00:00
-Link: https://foreignpolicy.com/2026/09/25/russia-putin-authoritarianism-language-vocabulary/
+[New_Yorker_Magazine] “Weeping Willow, Nantucket,” by Stephanie Burt
+Published: 2026-09-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/weeping-willow-nantucket-stephanie-burt-poem
 ---
-[Foreign_Policy] ‘Furious’ Is an Angry Show for the World of Epstein and Trump
-Published: 2026-09-25T18:30:21+00:00
-Link: https://foreignpolicy.com/2026/09/25/furious-thriller-revenge-epstein/
+[New_Yorker_Magazine] The President vs. the Press
+Published: 2026-09-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/the-president-vs-the-press
+---
+[New_Yorker_Magazine] “Narrow Escape,” by Aleksandr Solzhenitsyn
+Published: 2026-09-27T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/narrow-escape-fiction-aleksandr-solzhenitsyn
+---
+[New_Yorker_Magazine] Are Public Spaces Really for the Public?
+Published: 2026-09-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/05/are-public-spaces-really-for-the-public
 ---
