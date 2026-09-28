@@ -1,9 +1,21 @@
-# Last Run: 2026-09-28 08:34 UTC
+# Last Run: 2026-09-28 18:03 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Brazil Has No Answers for Its China Problem
+Published: 2026-09-28T14:25:17+00:00
+Link: https://foreignpolicy.com/2026/09/28/brazil-election-president-lula-bolsonaro-china-america/
+---
+[Foreign_Policy] Trump’s ‘Greater North America’ Is Fascist Geopolitics
+Published: 2026-09-28T13:23:11+00:00
+Link: https://foreignpolicy.com/2026/09/28/trump-rubio-hegseth-greenland-cuba-north-america-fascism/
+---
 [Foreign_Policy] John D. Rockefeller Is a Cautionary Tale for Today’s Business Titans
 Published: 2026-09-28T04:01:04+00:00
 Link: https://foreignpolicy.com/2026/09/28/john-rockefeller-business-titans/
+---
+[Foreign_Affairs] Rewiring the Arsenal of Democracy
+Published: 2026-09-28T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/rewiring-arsenal-democracy-war-dan-driscoll
 ---
 [Foreign_Affairs] Rewiring the Arsenal of Democracy
 Published: 2026-09-28T04:00:00+00:00
@@ -24,36 +36,4 @@ Link: https://foreignpolicy.com/2026/09/25/russia-putin-authoritarianism-languag
 [Foreign_Policy] ‘Furious’ Is an Angry Show for the World of Epstein and Trump
 Published: 2026-09-25T18:30:21+00:00
 Link: https://foreignpolicy.com/2026/09/25/furious-thriller-revenge-epstein/
----
-[Foreign_Policy] The Twilight of the Francis Fukuyama Era
-Published: 2026-09-25T18:00:55+00:00
-Link: https://foreignpolicy.com/2026/09/25/the-twilight-of-the-francis-fukuyama-era/
----
-[Foreign_Policy] Big Tech Is Destroying Democracy. Here’s How to Fight Back.
-Published: 2026-09-25T16:43:45+00:00
-Link: https://foreignpolicy.com/2026/09/25/maria-ressa-big-tech-democracy-ai-autocracy/
----
-[Foreign_Policy] Gulf States Are Hedging and Suffering
-Published: 2026-09-25T15:18:51+00:00
-Link: https://foreignpolicy.com/2026/09/25/gulf-states-iran-trump-oil-energy-hormuz/
----
-[Foreign_Policy] The U.S.-Saudi Nuclear Agreement Carries Dangerous Proliferation Risks
-Published: 2026-09-25T14:03:14+00:00
-Link: https://foreignpolicy.com/2026/09/25/saudi-nuclear-agreement-dangerous-proliferation-risks-trump-riyadh-mbs/
----
-[Foreign_Policy] What Arab Israelis Really Think About Israel’s Election
-Published: 2026-09-25T12:19:43+00:00
-Link: https://foreignpolicy.com/2026/09/25/arab-israelis-election-palestine-netanyahu-abbas-jewish-state/
----
-[Foreign_Policy] Venezuela’s Acting Leader Makes Her U.N. Debut
-Published: 2026-09-25T12:00:01+00:00
-Link: https://foreignpolicy.com/2026/09/25/venezuela-unga-delcy-rodriguez-maduro-trump-elections/
----
-[Foreign_Policy] The Woman Remaking Brazil’s Far Right
-Published: 2026-09-25T10:00:09+00:00
-Link: https://foreignpolicy.com/2026/09/25/brazil-election-michelle-bolsonaro-flavio-lula-feminism-far-right/
----
-[New_Yorker_Magazine] The Predator Catcher Turns Predatory in “Primetime”
-Published: 2026-09-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/primetime-movie-review
 ---
