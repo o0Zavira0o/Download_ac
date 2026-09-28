@@ -1,6 +1,18 @@
-# Last Run: 2026-09-28 00:23 UTC
+# Last Run: 2026-09-28 08:34 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] John D. Rockefeller Is a Cautionary Tale for Today’s Business Titans
+Published: 2026-09-28T04:01:04+00:00
+Link: https://foreignpolicy.com/2026/09/28/john-rockefeller-business-titans/
+---
+[Foreign_Affairs] Rewiring the Arsenal of Democracy
+Published: 2026-09-28T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/rewiring-arsenal-democracy
+---
+[Foreign_Affairs] Japan Is Giving the United States a Chance in Asia
+Published: 2026-09-28T04:00:00+00:00
+Link: https://www.foreignaffairs.com/japan/japan-giving-united-states-chance-asia
+---
 [Foreign_Policy] Ethiopia Returns to Civil War
 Published: 2026-09-25T20:33:44+00:00
 Link: https://foreignpolicy.com/2026/09/25/ethiopia-tigray-tplf-civil-war-abiy-amhara-afar-eritrea/
@@ -44,20 +56,4 @@ Link: https://foreignpolicy.com/2026/09/25/brazil-election-michelle-bolsonaro-fl
 [New_Yorker_Magazine] The Predator Catcher Turns Predatory in “Primetime”
 Published: 2026-09-25T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/05/primetime-movie-review
----
-[Foreign_Affairs] How Iran Changed War
-Published: 2026-09-25T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/how-iran-changed-war-united-states-michael-horowitz
----
-[Foreign_Affairs] The Coming Taiwan Crisis
-Published: 2026-09-25T04:00:00+00:00
-Link: https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin
----
-[Foreign_Affairs] How Iran Changed War
-Published: 2026-09-25T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/how-iran-changed-war
----
-[Foreign_Affairs] The Coming Taiwan Crisis
-Published: 2026-09-25T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/coming-taiwan-crisis
 ---
