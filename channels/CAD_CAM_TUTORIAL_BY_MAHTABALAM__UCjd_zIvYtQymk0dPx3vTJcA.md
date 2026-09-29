@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-28T17:34:54Z_
+_آخرین به‌روزرسانی: 2026-09-29T15:38:08Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-29 03:30:02 (UTC)  
+  **مدت:** حدود 14.0 دقیقه  
+  **عنوان:** [Handwheel Modeling in SolidWorks (Swept Cut Feature)](https://www.youtube.com/watch?v=2m4RiqUqidI)  
+  ![](https://i.ytimg.com/vi/2m4RiqUqidI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-28 03:30:02 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-28T17:34:54Z_
   **مدت:** حدود 25.1 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Anvil in Solidworks](https://www.youtube.com/watch?v=2591UP68WJU)  
   ![](https://i.ytimg.com/vi/2591UP68WJU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-02-27 11:00:01 (UTC)  
-  **مدت:** حدود 16.1 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Tap Bit M14 in Solidworks](https://www.youtube.com/watch?v=K_NxJPFwz7c)  
-  ![](https://i.ytimg.com/vi/K_NxJPFwz7c/hqdefault.jpg)

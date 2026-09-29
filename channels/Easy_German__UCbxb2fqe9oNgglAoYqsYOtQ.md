@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-28T17:34:54Z_
+_آخرین به‌روزرسانی: 2026-09-29T15:38:08Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-09-29 08:49:09 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Vocab Challenge #easygerman #vocabchallenge #deutschlernen](https://www.youtube.com/watch?v=d28I26KXgJo)  
+  ![](https://i.ytimg.com/vi/d28I26KXgJo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-28 16:54:53 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-28T17:34:54Z_
   **مدت:** حدود 4.0 دقیقه  
   **عنوان:** [German swimming vocabulary | Super Easy German (25)](https://www.youtube.com/watch?v=9UAxWbqsqLc)  
   ![](https://i.ytimg.com/vi/9UAxWbqsqLc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-28 16:41:26 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Do you know any Jokes about Germans? - We want to hear them 😃](https://www.youtube.com/watch?v=kCAowUUrqqY)  
-  ![](https://i.ytimg.com/vi/kCAowUUrqqY/hqdefault.jpg)

@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-09-28T17:34:54Z_
+_آخرین به‌روزرسانی: 2026-09-29T15:38:08Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-09-29 12:20:24 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [알록달록 콜라주🌈다이어리 꾸미기 | 다꾸](https://www.youtube.com/watch?v=yH1bkTLkKh0)  
+  ![](https://i.ytimg.com/vi/yH1bkTLkKh0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-28 14:40:23 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-09-28T17:34:54Z_
   **مدت:** حدود 12.8 دقیقه  
   **عنوان:** [ASMR Aesthetic Journal Unboxing 🦋DDuiStore🦋 Variety Journaling Item 다꾸 デコ手帳](https://www.youtube.com/watch?v=9hVQf9dbYcM)  
   ![](https://i.ytimg.com/vi/9hVQf9dbYcM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-12 08:37:00 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Unboxing ASMR 2/2 #shorts #envelope](https://www.youtube.com/watch?v=UEoITNjgEPI)  
-  ![](https://i.ytimg.com/vi/UEoITNjgEPI/hqdefault.jpg)
