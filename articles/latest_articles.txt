@@ -1,6 +1,18 @@
-# Last Run: 2026-09-29 19:12 UTC
+# Last Run: 2026-09-29 23:44 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Spain’s Housing Reform
+Published: 2026-09-29T21:36:59+00:00
+Link: https://foreignpolicy.com/2026/09/29/spain-housing-reform-sanchez-rent-increases-abascal-eviction-protests/
+---
+[Foreign_Policy] Was Xi’s U.S. Visit a Bust?
+Published: 2026-09-29T21:35:09+00:00
+Link: https://foreignpolicy.com/2026/09/29/china-us-xi-trump-summit-ai-trade/
+---
+[Foreign_Policy] Is Egypt’s Diplomacy Clever or Clumsy?
+Published: 2026-09-29T20:52:09+00:00
+Link: https://foreignpolicy.com/2026/09/29/egypt-iran-diplomacy-uae-gaza-israel-united-states-houthis/
+---
 [Foreign_Policy] Trump’s Global Tariffs Are Likely to Fail in Court (Again)
 Published: 2026-09-29T17:15:19+00:00
 Link: https://foreignpolicy.com/2026/09/29/trump-tariffs-section-301-forced-labor-court-case-trade/
