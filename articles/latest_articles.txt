@@ -1,6 +1,14 @@
-# Last Run: 2026-09-29 12:21 UTC
+# Last Run: 2026-09-29 19:12 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump’s Global Tariffs Are Likely to Fail in Court (Again)
+Published: 2026-09-29T17:15:19+00:00
+Link: https://foreignpolicy.com/2026/09/29/trump-tariffs-section-301-forced-labor-court-case-trade/
+---
+[Foreign_Policy] Don’t Ban Diesel Exports
+Published: 2026-09-29T13:28:28+00:00
+Link: https://foreignpolicy.com/2026/09/29/trump-iran-hormuz-energy-diesel-exports-ban/
+---
 [Foreign_Policy] Russia’s Sahel Intervention Is Riskier Than It Looks
 Published: 2026-09-29T11:00:41+00:00
 Link: https://foreignpolicy.com/2026/09/29/niger-coup-russia-africa-corps-sahel-counterterrorism-junta-security-model-united-states/
@@ -15,7 +23,15 @@ Link: https://foreignpolicy.com/2026/09/29/turkey-war-iran-ukraine-oil-export-tr
 ---
 [Foreign_Policy] Why Nobody Can End the War in Ukraine
 Published: 2026-09-29T07:35:26+00:00
+Link: https://foreignpolicy.com/2026/09/29/ukraine-war-russia-putin-trump-zelensky-stalemate-united-states-negotiations/
+---
+[Foreign_Policy] Why Nobody Can End the War in Ukraine
+Published: 2026-09-29T07:35:26+00:00
 Link: https://foreignpolicy.com/2026/09/29/why-nobody-can-end-the-war-in-ukraine/
+---
+[Foreign_Affairs] The New Forever War
+Published: 2026-09-29T04:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/new-forever-war-america-ali-vaez
 ---
 [Foreign_Affairs] The New Forever War
 Published: 2026-09-29T04:00:00+00:00
