@@ -1,6 +1,22 @@
-# Last Run: 2026-09-30 12:06 UTC
+# Last Run: 2026-09-30 18:54 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Case for Trump’s Global Strategy
+Published: 2026-09-30T18:47:10+00:00
+Link: https://foreignpolicy.com/2026/09/30/mike-waltz-trump-global-strategy-iran-sudan-venezuela-china-policy-international-law-united-nations/
+---
+[Foreign_Policy] Lula Bets Big on Defense Ahead of Election
+Published: 2026-09-30T15:34:09+00:00
+Link: https://foreignpolicy.com/2026/09/30/brazil-election-lula-defense-industrial-policy-economy-trump/
+---
+[Foreign_Policy] Populism’s New Rallying Cry Is ‘Expropriation’
+Published: 2026-09-30T13:54:47+00:00
+Link: https://foreignpolicy.com/2026/09/30/berlin-left-linke-expropriation-confiscation-housing-mayor/
+---
+[Foreign_Policy] How Far Will the Canada-EU Lovefest Go?
+Published: 2026-09-30T11:53:49+00:00
+Link: https://foreignpolicy.com/2026/09/30/canada-european-union-membership-trump-ottowa-brussels/
+---
 [Foreign_Policy] Everyone Got Pete Hegseth Wrong
 Published: 2026-09-30T11:09:01+00:00
 Link: https://foreignpolicy.com/2026/09/30/pete-hegseth-trump-influential-official/
@@ -12,6 +28,10 @@ Link: https://foreignpolicy.com/2026/09/30/thailand-demographic-crisis-birth-rat
 [Foreign_Policy] Why Have Indonesia’s Fires Gotten So Bad?
 Published: 2026-09-30T05:00:07+00:00
 Link: https://foreignpolicy.com/2026/09/30/indonesia-forest-fires-worst-ever-plantations-el-nino/
+---
+[Foreign_Affairs] Russia’s Plan to Break Ukraine
+Published: 2026-09-30T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/russias-plan-break-ukraine-dmytro-kuleba
 ---
 [Foreign_Affairs] Russia’s Plan to Break Ukraine
 Published: 2026-09-30T04:00:00+00:00
