@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-09-29T15:38:08Z_
+_آخرین به‌روزرسانی: 2026-09-30T15:49:14Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-09-30 13:38:23 (UTC)  
+  **مدت:** حدود 34.2 دقیقه  
+  **عنوان:** [Cylinder Housing Modeling in SolidWorks (Hole Wizard-Counterbore Hole)](https://www.youtube.com/watch?v=hJlNL7cPYoU)  
+  ![](https://i.ytimg.com/vi/hJlNL7cPYoU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-29 03:30:02 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-09-29T15:38:08Z_
   **مدت:** حدود 18.0 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Volleyball in Solidworks (Surfacing) | Solidworks](https://www.youtube.com/watch?v=Usp72G0y2lk)  
   ![](https://i.ytimg.com/vi/Usp72G0y2lk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-01 14:04:30 (UTC)  
-  **مدت:** حدود 25.1 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Anvil in Solidworks](https://www.youtube.com/watch?v=2591UP68WJU)  
-  ![](https://i.ytimg.com/vi/2591UP68WJU/hqdefault.jpg)

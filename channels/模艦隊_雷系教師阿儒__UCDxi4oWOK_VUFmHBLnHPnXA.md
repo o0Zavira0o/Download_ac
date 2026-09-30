@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-09-29T15:38:08Z_
+_آخرین به‌روزرسانی: 2026-09-30T15:49:14Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-09-30 11:00:14 (UTC)  
+  **مدت:** حدود 14.8 دقیقه  
+  **عنوان:** [【SolidWorks】基礎零件：如何讓建模實力上升｜給自己上難度](https://www.youtube.com/watch?v=R3VOSQCRun4)  
+  ![](https://i.ytimg.com/vi/R3VOSQCRun4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-25 11:00:07 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-29T15:38:08Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [短片看建模：Onshape日常練習](https://www.youtube.com/watch?v=S1BztfAOD-A)  
   ![](https://i.ytimg.com/vi/S1BztfAOD-A/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-06-27 11:00:11 (UTC)  
-  **مدت:** حدود 27.5 دقیقه  
-  **عنوان:** [【onshape】產品練習：椅子｜複合曲線+掃出｜鏡射](https://www.youtube.com/watch?v=7PUTNotzM7w)  
-  ![](https://i.ytimg.com/vi/7PUTNotzM7w/hqdefault.jpg)
