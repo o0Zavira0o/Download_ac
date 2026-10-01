@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-09-30T15:49:14Z_
+_آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-01 04:57:34 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Four-bar Radial CAM and Follower Mechanism](https://www.youtube.com/watch?v=lWGUGE8ZKFA)  
+  ![](https://i.ytimg.com/vi/lWGUGE8ZKFA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-26 04:36:02 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-30T15:49:14Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [Four Wheel Steering Mechanism 📌](https://www.youtube.com/watch?v=ZweNRAu1SU4)  
   ![](https://i.ytimg.com/vi/ZweNRAu1SU4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-03 08:00:08 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Solidworks Isometric Drawing Exercise 📌](https://www.youtube.com/watch?v=c9IONJLdeCY)  
-  ![](https://i.ytimg.com/vi/c9IONJLdeCY/hqdefault.jpg)

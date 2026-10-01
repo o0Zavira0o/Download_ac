@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-09-30T15:49:14Z_
+_آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,7 +10,7 @@ _آخرین به‌روزرسانی: 2026-09-30T15:49:14Z_
 
 - **تاریخ انتشار:** 2026-09-27 13:30:37 (UTC)  
   **مدت:** حدود 22.4 دقیقه  
-  **عنوان:** [They're Weird, But The ONLY 2 Ab Exercises You Need](https://www.youtube.com/watch?v=0ShG8aVIvms)  
+  **عنوان:** [This Gets You Abs Faster Than 1,000 Sit-Ups/Day](https://www.youtube.com/watch?v=0ShG8aVIvms)  
   ![](https://i.ytimg.com/vi/0ShG8aVIvms/hqdefault.jpg)
 
 

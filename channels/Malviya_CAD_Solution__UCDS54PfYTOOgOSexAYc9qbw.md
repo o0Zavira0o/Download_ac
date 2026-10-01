@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-09-30T15:49:14Z_
+_آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-10-01 04:33:18 (UTC)  
+  **مدت:** حدود 2.1 دقیقه  
+  **عنوان:** [Swept feature with Guide curve in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=oLbtk2c0qf8)  
+  ![](https://i.ytimg.com/vi/oLbtk2c0qf8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-19 08:00:53 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-09-30T15:49:14Z_
   **مدت:** حدود 1.5 دقیقه  
   **عنوان:** [Boundary Cut feature in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=xturczdgnes)  
   ![](https://i.ytimg.com/vi/xturczdgnes/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-30 03:10:42 (UTC)  
-  **مدت:** حدود 8.9 دقیقه  
-  **عنوان:** [Design of Wooden Screw in Solidworks | Solidworks Tutorial](https://www.youtube.com/watch?v=t0sjMvovGI4)  
-  ![](https://i.ytimg.com/vi/t0sjMvovGI4/hqdefault.jpg)

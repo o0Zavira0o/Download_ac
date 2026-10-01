@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-09-30T15:49:14Z_
+_آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-01 15:03:23 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Was hast du zuletzt gelernt? #easygerman #deutschlernen #sprachenlernen](https://www.youtube.com/watch?v=f_Yfyoy0qb0)  
+  ![](https://i.ytimg.com/vi/f_Yfyoy0qb0/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-09-30 17:00:26 (UTC)  
+  **مدت:** حدود 13.9 دقیقه  
+  **عنوان:** [Easy German Vlog - Comprehensible Input for Beginners & Intermediates](https://www.youtube.com/watch?v=Tu3IHEb3bko)  
+  ![](https://i.ytimg.com/vi/Tu3IHEb3bko/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-29 08:49:09 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-09-30T15:49:14Z_
   **مدت:** حدود 4.2 دقیقه  
   **عنوان:** [Perfect Tense in German](https://www.youtube.com/watch?v=0q8ceeaEI68)  
   ![](https://i.ytimg.com/vi/0q8ceeaEI68/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-02 16:56:02 (UTC)  
-  **مدت:** حدود 10.2 دقیقه  
-  **عنوان:** [German Traditions: Boßeln | Easy German 189](https://www.youtube.com/watch?v=vz6kp2ehPGg)  
-  ![](https://i.ytimg.com/vi/vz6kp2ehPGg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-29 17:08:50 (UTC)  
-  **مدت:** حدود 4.0 دقیقه  
-  **عنوان:** [German swimming vocabulary | Super Easy German (25)](https://www.youtube.com/watch?v=9UAxWbqsqLc)  
-  ![](https://i.ytimg.com/vi/9UAxWbqsqLc/hqdefault.jpg)
