@@ -1,6 +1,14 @@
-# Last Run: 2026-09-30 23:35 UTC
+# Last Run: 2026-10-01 04:37 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] Why Iran Escalates
+Published: 2026-10-01T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/why-iran-escalates
+---
+[Foreign_Affairs] The AI Autocrat
+Published: 2026-10-01T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/ai-autocrat
+---
 [Foreign_Policy] Would Better U.S.-China Ties Harm India?
 Published: 2026-09-30T20:56:17+00:00
 Link: https://foreignpolicy.com/2026/09/30/india-us-china-ties-trump-xi-summit-tariffs/
@@ -184,20 +192,4 @@ Link: https://www.newyorker.com/magazine/2026/10/05/cartoon-recession-indicators
 [New_Yorker_Magazine] Why America Looks the Way It Does
 Published: 2026-09-28T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/05/property-values-joshua-specht-book-review
----
-[Foreign_Policy] John D. Rockefeller Is a Cautionary Tale for Today’s Business Titans
-Published: 2026-09-28T04:01:04+00:00
-Link: https://foreignpolicy.com/2026/09/28/john-rockefeller-business-titans/
----
-[Foreign_Affairs] Rewiring the Arsenal of Democracy
-Published: 2026-09-28T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/rewiring-arsenal-democracy-war-dan-driscoll
----
-[Foreign_Affairs] Rewiring the Arsenal of Democracy
-Published: 2026-09-28T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/rewiring-arsenal-democracy
----
-[Foreign_Affairs] Japan Is Giving the United States a Chance in Asia
-Published: 2026-09-28T04:00:00+00:00
-Link: https://www.foreignaffairs.com/japan/japan-giving-united-states-chance-asia
 ---
