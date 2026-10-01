@@ -971,6 +971,10 @@ https://foreignpolicy.com/2026/09/30/pete-hegseth-trump-influential-official/
 https://foreignpolicy.com/2026/09/30/russia-nato-latvia-drones-baltics-article-five/
 https://foreignpolicy.com/2026/09/30/thailand-demographic-crisis-birth-rate-declining-economy/
 https://foreignpolicy.com/2026/09/30/us-military-withdraws-troops-iraq-power-vacuum-iran-islamic-state-hegseth/
+https://foreignpolicy.com/2026/10/01/artificial-intelligence-existential-anxiety-extremism-violence-united-states-china-policy/
+https://foreignpolicy.com/2026/10/01/oil-strait-hormuz-iran-trump-war-gulf-gas-diesel-prices/
+https://foreignpolicy.com/2026/10/01/space-rockets-falcon-9-spacex-commercial-launch/
+https://foreignpolicy.com/2026/10/01/yemen-houthis-saudi-arabia-war-humanitarian-crisis-aid/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -1139,6 +1143,7 @@ https://www.foreignaffairs.com/united-states/americas-missing-military-revolutio
 https://www.foreignaffairs.com/united-states/americas-superintelligence-dilemma
 https://www.foreignaffairs.com/united-states/americas-surprising-energy-advantage
 https://www.foreignaffairs.com/united-states/americas-trillion-dollar-failure-ro-khanna
+https://www.foreignaffairs.com/united-states/artificial-intelligence-autocrat-technology-empowers-dictators
 https://www.foreignaffairs.com/united-states/autocrats-worst-enemy
 https://www.foreignaffairs.com/united-states/avoiding-next-famine
 https://www.foreignaffairs.com/united-states/better-way-build-ai
