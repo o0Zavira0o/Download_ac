@@ -1,4 +1,4 @@
-# Last Run: 2026-10-01 04:37 UTC
+# Last Run: 2026-10-01 13:03 UTC
 # Articles published in last 72 hours
 
 [Foreign_Affairs] Why Iran Escalates
@@ -140,56 +140,4 @@ Link: https://foreignpolicy.com/2026/09/28/brazil-election-president-lula-bolson
 [Foreign_Policy] Trump’s ‘Greater North America’ Is Fascist Geopolitics
 Published: 2026-09-28T13:23:11+00:00
 Link: https://foreignpolicy.com/2026/09/28/trump-rubio-hegseth-greenland-cuba-north-america-fascism/
----
-[New_Yorker_Magazine] Cookie Monster Tries to Meet His A.I. Mandate
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/cookie-monster-tries-to-meet-his-ai-mandate
----
-[New_Yorker_Magazine] Letters from Our Readers
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/letters-from-the-october-5-2026-issue
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/the-radiance-cloudthief-dear-dealer-citizen-beast
----
-[New_Yorker_Magazine] How Paweł Pawlikowski Learned to Film Europe’s Fractures
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/pawel-pawlikowski-profile
----
-[New_Yorker_Magazine] At the Department of Justice, Many Lawyers Are Wondering If It’s Time to Quit
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/should-i-stay-or-should-i-go
----
-[New_Yorker_Magazine] Detecting Notes of . . . Citi Field?
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/detecting-notes-of-citi-field
----
-[New_Yorker_Magazine] How America Became Antifascist
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/a-shadow-over-the-world-william-i-hitchcock-book-review
----
-[New_Yorker_Magazine] Why Doesn’t Anyone Want to Fix One of America’s Scariest Roads?
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads
----
-[New_Yorker_Magazine] More Sunshine with Joey Arias and Basil Twist
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/more-sunshine-with-joey-arias-and-basil-twist
----
-[New_Yorker_Magazine] Your Guide to Navigating the Parent Group Chat
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/your-guide-to-navigating-the-parent-group-chat
----
-[New_Yorker_Magazine] Hockey Dads and Hockey Sons
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/hockey-dads-and-hockey-sons
----
-[New_Yorker_Magazine] Cartoon Recession Indicators
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/cartoon-recession-indicators
----
-[New_Yorker_Magazine] Why America Looks the Way It Does
-Published: 2026-09-28T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/05/property-values-joshua-specht-book-review
 ---
