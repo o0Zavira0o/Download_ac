@@ -1,6 +1,14 @@
-# Last Run: 2026-10-02 04:29 UTC
+# Last Run: 2026-10-02 12:07 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] Brazil’s Election Won’t Fix What’s Broken
+Published: 2026-10-02T04:00:00+00:00
+Link: https://www.foreignaffairs.com/brazil/brazils-election-wont-fix-whats-broken
+---
+[Foreign_Affairs] Palestinians Want a Two-State Solution
+Published: 2026-10-02T04:00:00+00:00
+Link: https://www.foreignaffairs.com/palestinian-territories/palestinians-want-two-state-solution-gaza-israel-amaney-jamal
+---
 [Foreign_Policy] Hegseth Wants More
 Published: 2026-10-01T21:28:10+00:00
 Link: https://foreignpolicy.com/2026/10/01/hegseth-speech-state-force-autonomous-musk-luckey-gingrich/
@@ -132,24 +140,4 @@ Link: https://foreignpolicy.com/2026/09/29/trump-tariffs-section-301-forced-labo
 [Foreign_Policy] Don’t Ban Diesel Exports
 Published: 2026-09-29T13:28:28+00:00
 Link: https://foreignpolicy.com/2026/09/29/trump-iran-hormuz-energy-diesel-exports-ban/
----
-[Foreign_Policy] Russia’s Sahel Intervention Is Riskier Than It Looks
-Published: 2026-09-29T11:00:41+00:00
-Link: https://foreignpolicy.com/2026/09/29/niger-coup-russia-africa-corps-sahel-counterterrorism-junta-security-model-united-states/
----
-[Foreign_Policy] The True Meaning of Russia’s Sham Election
-Published: 2026-09-29T09:56:56+00:00
-Link: https://foreignpolicy.com/2026/09/29/russia-putin-elections-war-authoritarianism-rigged-sham-parliament/
----
-[Foreign_Policy] Turkey Is Turning Its Breadbasket Into an Oil Hub
-Published: 2026-09-29T09:00:26+00:00
-Link: https://foreignpolicy.com/2026/09/29/turkey-war-iran-ukraine-oil-export-trade-agriculture-farmland-fertile-crescent/
----
-[Foreign_Policy] Why Nobody Can End the War in Ukraine
-Published: 2026-09-29T07:35:26+00:00
-Link: https://foreignpolicy.com/2026/09/29/ukraine-war-russia-putin-trump-zelensky-stalemate-united-states-negotiations/
----
-[Foreign_Policy] Why Nobody Can End the War in Ukraine
-Published: 2026-09-29T07:35:26+00:00
-Link: https://foreignpolicy.com/2026/09/29/why-nobody-can-end-the-war-in-ukraine/
 ---
