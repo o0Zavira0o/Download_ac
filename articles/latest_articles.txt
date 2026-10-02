@@ -1,4 +1,4 @@
-# Last Run: 2026-10-02 00:10 UTC
+# Last Run: 2026-10-02 04:29 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Hegseth Wants More
@@ -152,12 +152,4 @@ Link: https://foreignpolicy.com/2026/09/29/ukraine-war-russia-putin-trump-zelens
 [Foreign_Policy] Why Nobody Can End the War in Ukraine
 Published: 2026-09-29T07:35:26+00:00
 Link: https://foreignpolicy.com/2026/09/29/why-nobody-can-end-the-war-in-ukraine/
----
-[Foreign_Affairs] The New Forever War
-Published: 2026-09-29T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/new-forever-war-america-ali-vaez
----
-[Foreign_Affairs] The New Forever War
-Published: 2026-09-29T04:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/new-forever-war
 ---
