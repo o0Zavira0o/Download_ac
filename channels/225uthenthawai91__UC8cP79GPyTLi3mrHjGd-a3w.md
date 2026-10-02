@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال 225uthenthawai.91
 
-_آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
+_آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
 
 
 **لینک استاندارد کانال:** [225uthenthawai.91](https://www.youtube.com/channel/UC8cP79GPyTLi3mrHjGd-a3w)  

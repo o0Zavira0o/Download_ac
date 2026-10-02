@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
+_آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-02 12:09:26 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How to Work Universal Joint (or Hooke's joint)📌](https://www.youtube.com/watch?v=gxYE9BAG_9Y)  
+  ![](https://i.ytimg.com/vi/gxYE9BAG_9Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-01 04:57:34 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
   **مدت:** حدود 6.3 دقیقه  
   **عنوان:** [Isometric Drawing in Solidworks - Step by Step Guide](https://www.youtube.com/watch?v=BI4eX1rdHnE)  
   ![](https://i.ytimg.com/vi/BI4eX1rdHnE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-03 17:30:14 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Four Wheel Steering Mechanism 📌](https://www.youtube.com/watch?v=ZweNRAu1SU4)  
-  ![](https://i.ytimg.com/vi/ZweNRAu1SU4/hqdefault.jpg)

@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
+_آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-02 09:00:14 (UTC)  
+  **مدت:** حدود 61.4 دقیقه  
+  **عنوان:** [ASMR 투명한 PVC 템으로 아트 카드 꾸미기 1hour 🪞 카드 다꾸 Art Journal コラージュ diy](https://www.youtube.com/watch?v=W9wBP6AurOY)  
+  ![](https://i.ytimg.com/vi/W9wBP6AurOY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-01 14:25:14 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [#asmr#delicious #yummy #shorts](https://www.youtube.com/watch?v=dBwT2EO2diw)  
   ![](https://i.ytimg.com/vi/dBwT2EO2diw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-15 10:01:00 (UTC)  
-  **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [Aesthetic Craft Box Unboxing | CoraCreaCrafts Journal Item](https://www.youtube.com/watch?v=wnbBlxNJ3zM)  
-  ![](https://i.ytimg.com/vi/wnbBlxNJ3zM/hqdefault.jpg)

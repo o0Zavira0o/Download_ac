@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
+_آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-02 12:35:05 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Rosinenschnecke 🐌  #easygerman #kaffee #slowgerman](https://www.youtube.com/watch?v=WjxTOIaJEtw)  
+  ![](https://i.ytimg.com/vi/WjxTOIaJEtw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-01 15:03:23 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
   **مدت:** حدود 14.9 دقیقه  
   **عنوان:** [Taboos in Germany |  German tips for Americans | Life back Home project   Cari antwortet (45)](https://www.youtube.com/watch?v=2u2crmRZVwo)  
   ![](https://i.ytimg.com/vi/2u2crmRZVwo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-05 19:44:03 (UTC)  
-  **مدت:** حدود 4.2 دقیقه  
-  **عنوان:** [Perfect Tense in German](https://www.youtube.com/watch?v=0q8ceeaEI68)  
-  ![](https://i.ytimg.com/vi/0q8ceeaEI68/hqdefault.jpg)

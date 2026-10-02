@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
+_آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-10-02 06:27:59 (UTC)  
+  **مدت:** حدود 2.1 دقیقه  
+  **عنوان:** [Solidworks sheetmetal normal cut feature #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=-0BIU243rFg)  
+  ![](https://i.ytimg.com/vi/-0BIU243rFg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-01 04:33:18 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
   **مدت:** حدود 1.3 دقیقه  
   **عنوان:** [Solidworks sheetmetal insert Bend #shorts #ytshorts #solidworkssheetmetal #malviyacadsolution](https://www.youtube.com/watch?v=BStw879ZGEI)  
   ![](https://i.ytimg.com/vi/BStw879ZGEI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-11-30 04:49:09 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Boundary Cut feature in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=xturczdgnes)  
-  ![](https://i.ytimg.com/vi/xturczdgnes/hqdefault.jpg)

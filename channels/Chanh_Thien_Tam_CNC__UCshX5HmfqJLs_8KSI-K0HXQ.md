@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chanh Thien Tam CNC
 
-_آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
+_آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
 
 
 **لینک استاندارد کانال:** [Chanh Thien Tam CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-10-02 09:06:39 (UTC)  
+  **مدت:** حدود 6.3 دقیقه  
+  **عنوان:** [Vẽ Mastercam 3d](https://www.youtube.com/watch?v=w70xXEIlyWs)  
+  ![](https://i.ytimg.com/vi/w70xXEIlyWs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-28 11:48:24 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-01T16:15:56Z_
   **مدت:** حدود 2.7 دقیقه  
   **عنوان:** [Tính khối lượng Góc nghiêng Cung R Mastercam](https://www.youtube.com/watch?v=mfAUDzN0Rv0)  
   ![](https://i.ytimg.com/vi/mfAUDzN0Rv0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-09 23:51:32 (UTC)  
-  **مدت:** حدود 26.3 دقیقه  
-  **عنوان:** [Lập trình gia công 3d mastercam](https://www.youtube.com/watch?v=H7n5Vl4NxIk)  
-  ![](https://i.ytimg.com/vi/H7n5Vl4NxIk/hqdefault.jpg)
