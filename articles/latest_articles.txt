@@ -1,6 +1,30 @@
-# Last Run: 2026-10-02 12:07 UTC
+# Last Run: 2026-10-02 17:52 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] What’s at Stake in Brazil’s Election
+Published: 2026-10-02T17:09:19+00:00
+Link: https://foreignpolicy.com/2026/10/02/brazil-lula-bolsonaro-election-trump-china-united-states-cuba/
+---
+[Foreign_Policy] ‘What Is Happening Today Is Development in Reverse’
+Published: 2026-10-02T16:32:07+00:00
+Link: https://foreignpolicy.com/2026/10/02/undp-alexander-de-croo-ukraine-war-reconstruction-gaza-reconstruction-afghanistan/
+---
+[Foreign_Policy] Pashinyan Confronts the Karabakh Cause
+Published: 2026-10-02T15:47:14+00:00
+Link: https://foreignpolicy.com/2026/10/02/pashinyan-karabakh-armenia-democracy-azerbaijan-refugees/
+---
+[Foreign_Policy] How China Managed the Oil Shock
+Published: 2026-10-02T14:04:59+00:00
+Link: https://foreignpolicy.com/2026/10/02/china-oil-reserves-refiners-energy-crisis-coal-petrochemicals/
+---
+[Foreign_Policy] The Forces Shaping Brazil’s Election
+Published: 2026-10-02T12:00:38+00:00
+Link: https://foreignpolicy.com/2026/10/02/brazil-election-president-lula-bolsonaro-military-women-economy/
+---
+[Foreign_Affairs] Brazil’s Election Won’t Fix What’s Broken
+Published: 2026-10-02T04:00:00+00:00
+Link: https://www.foreignaffairs.com/brazil/brazils-election-wont-fix-whats-broken-matias-spektor
+---
 [Foreign_Affairs] Brazil’s Election Won’t Fix What’s Broken
 Published: 2026-10-02T04:00:00+00:00
 Link: https://www.foreignaffairs.com/brazil/brazils-election-wont-fix-whats-broken
@@ -132,12 +156,4 @@ Link: https://foreignpolicy.com/2026/09/29/china-us-xi-trump-summit-ai-trade/
 [Foreign_Policy] Is Egypt’s Diplomacy Clever or Clumsy?
 Published: 2026-09-29T20:52:09+00:00
 Link: https://foreignpolicy.com/2026/09/29/egypt-iran-diplomacy-uae-gaza-israel-united-states-houthis/
----
-[Foreign_Policy] Trump’s Global Tariffs Are Likely to Fail in Court (Again)
-Published: 2026-09-29T17:15:19+00:00
-Link: https://foreignpolicy.com/2026/09/29/trump-tariffs-section-301-forced-labor-court-case-trade/
----
-[Foreign_Policy] Don’t Ban Diesel Exports
-Published: 2026-09-29T13:28:28+00:00
-Link: https://foreignpolicy.com/2026/09/29/trump-iran-hormuz-energy-diesel-exports-ban/
 ---
