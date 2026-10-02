@@ -1,6 +1,26 @@
-# Last Run: 2026-10-02 17:52 UTC
+# Last Run: 2026-10-02 21:57 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
+Published: 2026-10-02T21:01:12+00:00
+Link: https://foreignpolicy.com/2026/10/02/g7-release-emergency-diesel-crude-stockpiles-fuel-prices-trump/
+---
+[Foreign_Policy] Where Does Russia’s Violent Imperialism Come From?
+Published: 2026-10-02T19:00:54+00:00
+Link: https://foreignpolicy.com/2026/10/02/russia-new-imperialism-book-review-budraitskis-matveev-putin-war-ukraine-authoritarianism-violence/
+---
+[Foreign_Policy] The Illicit World of Sea Cucumbers
+Published: 2026-10-02T18:30:24+00:00
+Link: https://foreignpolicy.com/2026/10/02/sea-cucumbers-illicit-trade-crime-china-mexico-japan/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-10-02T18:24:13+00:00
+Link: https://foreignpolicy.com/2026/10/02/news-quiz-trump-zelensky-ukraine-venezuela-protest-morocco-prime-minister/
+---
+[Foreign_Policy] The Trauma Plot to Destroy America
+Published: 2026-10-02T18:00:31+00:00
+Link: https://foreignpolicy.com/2026/10/02/traumatized-catherine-liu-united-states-capitalism-exploitation-class-inequality/
+---
 [Foreign_Policy] What’s at Stake in Brazil’s Election
 Published: 2026-10-02T17:09:19+00:00
 Link: https://foreignpolicy.com/2026/10/02/brazil-lula-bolsonaro-election-trump-china-united-states-cuba/
@@ -144,16 +164,4 @@ Link: https://www.foreignaffairs.com/latin-america/two-shocks-upending-latin-ame
 [Foreign_Affairs] The Scramble for the Open Seas
 Published: 2026-09-30T04:00:00+00:00
 Link: https://www.foreignaffairs.com/oceans-seas/scramble-open-seas
----
-[Foreign_Policy] Spain’s Housing Reform
-Published: 2026-09-29T21:36:59+00:00
-Link: https://foreignpolicy.com/2026/09/29/spain-housing-reform-sanchez-rent-increases-abascal-eviction-protests/
----
-[Foreign_Policy] Was Xi’s U.S. Visit a Bust?
-Published: 2026-09-29T21:35:09+00:00
-Link: https://foreignpolicy.com/2026/09/29/china-us-xi-trump-summit-ai-trade/
----
-[Foreign_Policy] Is Egypt’s Diplomacy Clever or Clumsy?
-Published: 2026-09-29T20:52:09+00:00
-Link: https://foreignpolicy.com/2026/09/29/egypt-iran-diplomacy-uae-gaza-israel-united-states-houthis/
 ---
