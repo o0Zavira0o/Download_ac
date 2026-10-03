@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
+_آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,13 +10,13 @@ _آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
 
 - **تاریخ انتشار:** 2026-09-27 13:30:37 (UTC)  
   **مدت:** حدود 22.4 دقیقه  
-  **عنوان:** [This Gets You Abs Faster Than 1,000 Sit-Ups/Day](https://www.youtube.com/watch?v=0ShG8aVIvms)  
+  **عنوان:** [It's Weird, But Destroyed Every Ab Exercise I Tested](https://www.youtube.com/watch?v=0ShG8aVIvms)  
   ![](https://i.ytimg.com/vi/0ShG8aVIvms/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-13 13:30:34 (UTC)  
   **مدت:** حدود 28.0 دقیقه  
-  **عنوان:** [I Gave Him Fake Steroids For 100 Days](https://www.youtube.com/watch?v=L3pDtUk7ZmY)  
+  **عنوان:** [Giving A Stranger Fake Steroids For 100 Days](https://www.youtube.com/watch?v=L3pDtUk7ZmY)  
   ![](https://i.ytimg.com/vi/L3pDtUk7ZmY/hqdefault.jpg)
 
 

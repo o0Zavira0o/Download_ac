@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
+_آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-10-03 10:00:06 (UTC)  
+  **مدت:** حدود 22.8 دقیقه  
+  **عنوان:** [46,JAPANESE RHINOCEROS BEETLE | 2-Sheet Brown Origami Beetle | Silent Origamiカブトムシ｜折り紙2枚で折る【無言の折り紙】](https://www.youtube.com/watch?v=4qO1x7qfuqU)  
+  ![](https://i.ytimg.com/vi/4qO1x7qfuqU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-26 10:00:15 (UTC)  

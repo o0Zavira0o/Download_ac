@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
+_آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-10-03 08:03:09 (UTC)  
+  **مدت:** حدود 2.2 دقیقه  
+  **عنوان:** [Vent feature in solidworks sheetmetal 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=CmOg2M_wO1Q)  
+  ![](https://i.ytimg.com/vi/CmOg2M_wO1Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-02 06:27:59 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
   **مدت:** حدود 10.2 دقیقه  
   **عنوان:** [Advanced Surface Modelling in Solidworks | Solidworks Surface tutorial](https://www.youtube.com/watch?v=opFOprC1QBU)  
   ![](https://i.ytimg.com/vi/opFOprC1QBU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-02 02:34:29 (UTC)  
-  **مدت:** حدود 1.3 دقیقه  
-  **عنوان:** [Solidworks sheetmetal insert Bend #shorts #ytshorts #solidworkssheetmetal #malviyacadsolution](https://www.youtube.com/watch?v=BStw879ZGEI)  
-  ![](https://i.ytimg.com/vi/BStw879ZGEI/hqdefault.jpg)

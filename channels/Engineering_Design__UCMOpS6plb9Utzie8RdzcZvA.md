@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
+_آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-03 11:30:30 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How an Archimedes Wind Turbine works📌](https://www.youtube.com/watch?v=cY06k7Ow2yM)  
+  ![](https://i.ytimg.com/vi/cY06k7Ow2yM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-03 09:48:12 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How to Work Worm Gear📌](https://www.youtube.com/watch?v=3-EUGYLrCLM)  
+  ![](https://i.ytimg.com/vi/3-EUGYLrCLM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-02 12:09:26 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
   **مدت:** حدود 6.1 دقیقه  
   **عنوان:** [How to Convert 3D Models into 2D Drawings (CAD)](https://www.youtube.com/watch?v=rAHsgPFcR_4)  
   ![](https://i.ytimg.com/vi/rAHsgPFcR_4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-08 02:32:18 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Why Your SolidWorks Dimensions Look Wrong on Isometric Drawings](https://www.youtube.com/watch?v=jpzI_Pu4nrk)  
-  ![](https://i.ytimg.com/vi/jpzI_Pu4nrk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-05 12:50:55 (UTC)  
-  **مدت:** حدود 6.3 دقیقه  
-  **عنوان:** [Isometric Drawing in Solidworks - Step by Step Guide](https://www.youtube.com/watch?v=BI4eX1rdHnE)  
-  ![](https://i.ytimg.com/vi/BI4eX1rdHnE/hqdefault.jpg)

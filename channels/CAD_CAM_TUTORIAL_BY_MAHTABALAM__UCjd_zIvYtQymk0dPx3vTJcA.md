@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
+_آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-03 03:30:06 (UTC)  
+  **مدت:** حدود 33.7 دقیقه  
+  **عنوان:** [Pump Body Modeling in SolidWorks-(Hole Wizard Tapped Hole and Rib)](https://www.youtube.com/watch?v=P60mJDoTJXI)  
+  ![](https://i.ytimg.com/vi/P60mJDoTJXI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-30 13:38:23 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-02T15:40:01Z_
   **مدت:** حدود 10.2 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch infinity Symbol in Solidworks](https://www.youtube.com/watch?v=MzNJI3CY47s)  
   ![](https://i.ytimg.com/vi/MzNJI3CY47s/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-02 15:07:28 (UTC)  
-  **مدت:** حدود 18.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Volleyball in Solidworks (Surfacing) | Solidworks](https://www.youtube.com/watch?v=Usp72G0y2lk)  
-  ![](https://i.ytimg.com/vi/Usp72G0y2lk/hqdefault.jpg)
