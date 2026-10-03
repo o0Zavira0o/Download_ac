@@ -1,4 +1,4 @@
-# Last Run: 2026-10-03 07:46 UTC
+# Last Run: 2026-10-03 13:10 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
@@ -128,20 +128,4 @@ Link: https://foreignpolicy.com/2026/09/30/brazil-election-lula-defense-industri
 [Foreign_Policy] Populism’s New Rallying Cry Is ‘Expropriation’
 Published: 2026-09-30T13:54:47+00:00
 Link: https://foreignpolicy.com/2026/09/30/berlin-left-linke-expropriation-confiscation-housing-mayor/
----
-[Foreign_Policy] How Far Will the Canada-EU Lovefest Go?
-Published: 2026-09-30T11:53:49+00:00
-Link: https://foreignpolicy.com/2026/09/30/canada-european-union-membership-trump-ottowa-brussels/
----
-[Foreign_Policy] Everyone Got Pete Hegseth Wrong
-Published: 2026-09-30T11:09:01+00:00
-Link: https://foreignpolicy.com/2026/09/30/pete-hegseth-trump-influential-official/
----
-[Foreign_Policy] Thailand’s Demographic Crisis Arrives Early
-Published: 2026-09-30T10:00:10+00:00
-Link: https://foreignpolicy.com/2026/09/30/thailand-demographic-crisis-birth-rate-declining-economy/
----
-[New_Yorker_Magazine] Tom Cruise Is a Scream—and a Gas—in “Digger”
-Published: 2026-09-30T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/digger-movie-review
 ---
