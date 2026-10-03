@@ -1,4 +1,4 @@
-# Last Run: 2026-10-03 01:02 UTC
+# Last Run: 2026-10-03 07:46 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
@@ -144,24 +144,4 @@ Link: https://foreignpolicy.com/2026/09/30/thailand-demographic-crisis-birth-rat
 [New_Yorker_Magazine] Tom Cruise Is a Scream—and a Gas—in “Digger”
 Published: 2026-09-30T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/12/digger-movie-review
----
-[Foreign_Policy] Why Have Indonesia’s Fires Gotten So Bad?
-Published: 2026-09-30T05:00:07+00:00
-Link: https://foreignpolicy.com/2026/09/30/indonesia-forest-fires-worst-ever-plantations-el-nino/
----
-[Foreign_Affairs] Russia’s Plan to Break Ukraine
-Published: 2026-09-30T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/russias-plan-break-ukraine-dmytro-kuleba
----
-[Foreign_Affairs] Russia’s Plan to Break Ukraine
-Published: 2026-09-30T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/russias-plan-break-ukraine
----
-[Foreign_Affairs] The Two Shocks Upending Latin America
-Published: 2026-09-30T04:00:00+00:00
-Link: https://www.foreignaffairs.com/latin-america/two-shocks-upending-latin-america
----
-[Foreign_Affairs] The Scramble for the Open Seas
-Published: 2026-09-30T04:00:00+00:00
-Link: https://www.foreignaffairs.com/oceans-seas/scramble-open-seas
 ---
