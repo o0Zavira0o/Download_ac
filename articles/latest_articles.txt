@@ -1,4 +1,4 @@
-# Last Run: 2026-10-03 17:53 UTC
+# Last Run: 2026-10-03 20:44 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
@@ -100,24 +100,4 @@ Link: https://www.foreignaffairs.com/united-states/ai-autocrat
 [Foreign_Policy] Would Better U.S.-China Ties Harm India?
 Published: 2026-09-30T20:56:17+00:00
 Link: https://foreignpolicy.com/2026/09/30/india-us-china-ties-trump-xi-summit-tariffs/
----
-[Foreign_Policy] U.S. Forces Leave Behind a Power Vacuum in Iraq
-Published: 2026-09-30T20:31:31+00:00
-Link: https://foreignpolicy.com/2026/09/30/us-military-withdraws-troops-iraq-power-vacuum-iran-islamic-state-hegseth/
----
-[Foreign_Policy] How Far Can Russia Probe NATO’s Collective Defense?
-Published: 2026-09-30T20:22:44+00:00
-Link: https://foreignpolicy.com/2026/09/30/russia-nato-latvia-drones-baltics-article-five/
----
-[Foreign_Policy] Ethiopia’s Return to War Threatens to Engulf the Horn of Africa
-Published: 2026-09-30T20:05:04+00:00
-Link: https://foreignpolicy.com/2026/09/30/ethiopia-return-civil-war-tigray-regional-impact-eritrea-horn-africa/
----
-[Foreign_Policy] Trump Unleashed
-Published: 2026-09-30T19:18:33+00:00
-Link: https://foreignpolicy.com/2026/09/30/iran-trump-hormuz-energy-escalation-war-midterms/
----
-[Foreign_Policy] The Case for Trump’s Global Strategy
-Published: 2026-09-30T18:47:10+00:00
-Link: https://foreignpolicy.com/2026/09/30/mike-waltz-trump-global-strategy-iran-sudan-venezuela-china-policy-international-law-united-nations/
 ---
