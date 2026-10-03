@@ -1,4 +1,4 @@
-# Last Run: 2026-10-03 13:10 UTC
+# Last Run: 2026-10-03 17:53 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
@@ -120,12 +120,4 @@ Link: https://foreignpolicy.com/2026/09/30/iran-trump-hormuz-energy-escalation-w
 [Foreign_Policy] The Case for Trump’s Global Strategy
 Published: 2026-09-30T18:47:10+00:00
 Link: https://foreignpolicy.com/2026/09/30/mike-waltz-trump-global-strategy-iran-sudan-venezuela-china-policy-international-law-united-nations/
----
-[Foreign_Policy] Lula Bets Big on Defense Ahead of Election
-Published: 2026-09-30T15:34:09+00:00
-Link: https://foreignpolicy.com/2026/09/30/brazil-election-lula-defense-industrial-policy-economy-trump/
----
-[Foreign_Policy] Populism’s New Rallying Cry Is ‘Expropriation’
-Published: 2026-09-30T13:54:47+00:00
-Link: https://foreignpolicy.com/2026/09/30/berlin-left-linke-expropriation-confiscation-housing-mayor/
 ---
