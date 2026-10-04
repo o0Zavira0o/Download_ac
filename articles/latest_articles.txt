@@ -1,6 +1,10 @@
-# Last Run: 2026-10-04 00:26 UTC
+# Last Run: 2026-10-04 07:56 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Year Hollywood Changed the National Security Debate
+Published: 2026-10-04T04:01:41+00:00
+Link: https://foreignpolicy.com/2026/10/04/wargames-hollywood-movies-national-security/
+---
 [Foreign_Policy] G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
 Published: 2026-10-02T21:01:12+00:00
 Link: https://foreignpolicy.com/2026/10/02/g7-release-emergency-diesel-crude-stockpiles-fuel-prices-trump/
@@ -84,16 +88,4 @@ Link: https://foreignpolicy.com/2026/10/01/artificial-intelligence-existential-a
 [New_Yorker_Magazine] Zoe Kazan’s Heady and Bighearted “East of Eden”
 Published: 2026-10-01T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/12/east-of-eden-tv-review-netflix
----
-[Foreign_Affairs] The AI Autocrat
-Published: 2026-10-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/artificial-intelligence-autocrat-technology-empowers-dictators
----
-[Foreign_Affairs] Why Iran Escalates
-Published: 2026-10-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/why-iran-escalates
----
-[Foreign_Affairs] The AI Autocrat
-Published: 2026-10-01T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/ai-autocrat
 ---
