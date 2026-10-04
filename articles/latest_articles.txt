@@ -1,4 +1,4 @@
-# Last Run: 2026-10-04 13:49 UTC
+# Last Run: 2026-10-04 18:03 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Year Hollywood Changed the National Security Debate
@@ -68,20 +68,4 @@ Link: https://foreignpolicy.com/2026/10/01/france-budget-proposal-2027-violent-s
 [Foreign_Policy] Modi Faces Protest Threat Over Election Commission Scandal
 Published: 2026-10-01T20:53:46+00:00
 Link: https://foreignpolicy.com/2026/10/01/india-modi-protest-election-commission-cockroach-movement/
----
-[Foreign_Policy] Oil Is Again Flowing Out of Hormuz
-Published: 2026-10-01T17:48:13+00:00
-Link: https://foreignpolicy.com/2026/10/01/oil-strait-hormuz-iran-trump-war-gulf-gas-diesel-prices/
----
-[Foreign_Policy] A Space-Launch Crash Is Coming
-Published: 2026-10-01T15:32:07+00:00
-Link: https://foreignpolicy.com/2026/10/01/space-rockets-falcon-9-spacex-commercial-launch/
----
-[Foreign_Policy] ‘Everyone Is Depleted’
-Published: 2026-10-01T14:47:39+00:00
-Link: https://foreignpolicy.com/2026/10/01/yemen-houthis-saudi-arabia-war-humanitarian-crisis-aid/
----
-[Foreign_Policy] How AI Anxiety Turns Into Extremism
-Published: 2026-10-01T14:15:20+00:00
-Link: https://foreignpolicy.com/2026/10/01/artificial-intelligence-existential-anxiety-extremism-violence-united-states-china-policy/
 ---
