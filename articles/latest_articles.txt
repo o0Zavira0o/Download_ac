@@ -1,4 +1,4 @@
-# Last Run: 2026-10-03 20:44 UTC
+# Last Run: 2026-10-04 00:26 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
@@ -96,8 +96,4 @@ Link: https://www.foreignaffairs.com/united-states/why-iran-escalates
 [Foreign_Affairs] The AI Autocrat
 Published: 2026-10-01T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/ai-autocrat
----
-[Foreign_Policy] Would Better U.S.-China Ties Harm India?
-Published: 2026-09-30T20:56:17+00:00
-Link: https://foreignpolicy.com/2026/09/30/india-us-china-ties-trump-xi-summit-tariffs/
 ---
