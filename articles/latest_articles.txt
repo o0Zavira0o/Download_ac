@@ -1,4 +1,4 @@
-# Last Run: 2026-10-04 18:03 UTC
+# Last Run: 2026-10-04 21:19 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Year Hollywood Changed the National Security Debate
@@ -64,8 +64,4 @@ Link: https://foreignpolicy.com/2026/10/01/hegseth-speech-state-force-autonomous
 [Foreign_Policy] Violent Student Protests Loom Over France’s Budget Proposal
 Published: 2026-10-01T21:26:25+00:00
 Link: https://foreignpolicy.com/2026/10/01/france-budget-proposal-2027-violent-student-protests-lecornu-macron/
----
-[Foreign_Policy] Modi Faces Protest Threat Over Election Commission Scandal
-Published: 2026-10-01T20:53:46+00:00
-Link: https://foreignpolicy.com/2026/10/01/india-modi-protest-election-commission-cockroach-movement/
 ---
