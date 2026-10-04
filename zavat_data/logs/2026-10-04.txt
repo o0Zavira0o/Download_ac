@@ -1,4 +1,118 @@
 ================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | IrGens
+Title  : Operating AWS Infrastructure as Code
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 1m | 334 MB
+Link   : http://zavat.pw/ebooks/aws-iac-operating.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | IrGens
+Title  : Steering Technical Delivery
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 48m | 154 MB
+Link   : http://zavat.pw/ebooks/steering-technical-delivery.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | IrGens
+Title  : The Hybrid Bridge: GPO to Intune Migration
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 49m | 191 MB
+Link   : http://zavat.pw/ebooks/gpo-intune-hybrid-bridge-migration.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | IrGens
+Title  : Usability Testing and Evaluation (UX): Testing
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 17m | 270 MB
+Link   : http://zavat.pw/ebooks/usability-testing-evaluation-ux-testing.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : EAA Sport Aviation - September 2019
+Details: English | 132 pages | True PDF | 45.7 MB
+Link   : http://zavat.pw/magazines/EAASportAviationSeptember2019-61876.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - The 2017 Resource Guide
+Details: English | 44 pages | True PDF | 6.7 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsThe2017ResourceGuide-72846.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - November 2017
+Details: English | 68 pages | True PDF | 19.2 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsNovember2017-73438.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - March 2017
+Details: English | 68 pages | True PDF | 21.6 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsMarch2017-47929.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - May 2017
+Details: English | 68 pages | True PDF | 19.8 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsMay2017-96039.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - June 2017
+Details: English | 60 pages | True PDF | 19.9 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsJune2017-11903.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - January 2017
+Details: English | 60 pages | True PDF | 20.1 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsJanuary2017-60685.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - February 2017
+Details: English | 68 pages | True PDF | 23.7 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsFebruary2017-51281.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - July 2017
+Details: English | 68 pages | True PDF | 18.8 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsJuly2017-19592.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - CNC for 2017
+Details: English | 44 pages | True PDF | 10.5 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsCNCfor2017-66915.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - December 2017
+Details: English | 60 pages | True PDF | 15.3 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsDecember2017-40471.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - Black Book 2017
+Details: English | 44 pages | True PDF | 7.1 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsBlackBook2017-37217.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - AWFS 2017 Black Book
+Details: English | 60 pages | True PDF | 13.9 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsAWFS2017BlackBook-74295.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : EAA Sport Aviation - May 2019
+Details: English | 132 pages | True PDF | 40.7 MB
+Link   : http://zavat.pw/magazines/EAASportAviationMay2019-46284.html
+
+================================================================================
+2026-10-04 20:43:18 (Asia/Tehran) | crazy-slim
+Title  : Woodshop News - April 2017
+Details: English | 68 pages | True PDF | 20.9 MB
+Link   : http://zavat.pw/magazines/WoodshopNewsApril2017-52165.html
+
+================================================================================
 2026-10-04 16:10:24 (Asia/Tehran) | yoyoloit
 Title  : The Guided Imagery Cure: The Best Proven Methods for Quickly Resolving and Healing Trauma
 Details: English | 2026 | ISBN: 1684817501 | 284 pages | True EPUB | 1.1 MB
