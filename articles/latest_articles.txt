@@ -1,4 +1,4 @@
-# Last Run: 2026-10-04 07:56 UTC
+# Last Run: 2026-10-04 13:49 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The Year Hollywood Changed the National Security Debate
@@ -84,8 +84,4 @@ Link: https://foreignpolicy.com/2026/10/01/yemen-houthis-saudi-arabia-war-humani
 [Foreign_Policy] How AI Anxiety Turns Into Extremism
 Published: 2026-10-01T14:15:20+00:00
 Link: https://foreignpolicy.com/2026/10/01/artificial-intelligence-existential-anxiety-extremism-violence-united-states-china-policy/
----
-[New_Yorker_Magazine] Zoe Kazan’s Heady and Bighearted “East of Eden”
-Published: 2026-10-01T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/east-of-eden-tv-review-netflix
 ---
