@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
+_آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-04 03:30:38 (UTC)  
+  **مدت:** حدود 15.5 دقیقه  
+  **عنوان:** [Electrical Box Modeling in SolidWorks Sheet Metal (Miter Flange,Vent and Forming Tool)](https://www.youtube.com/watch?v=Y3gVwf2n0bI)  
+  ![](https://i.ytimg.com/vi/Y3gVwf2n0bI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-03 03:30:06 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
   **مدت:** حدود 155.5 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Gate Valve in Solidworks | Solidworks](https://www.youtube.com/watch?v=xUIMWklvQLE)  
   ![](https://i.ytimg.com/vi/xUIMWklvQLE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-04 16:12:38 (UTC)  
-  **مدت:** حدود 10.2 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch infinity Symbol in Solidworks](https://www.youtube.com/watch?v=MzNJI3CY47s)  
-  ![](https://i.ytimg.com/vi/MzNJI3CY47s/hqdefault.jpg)

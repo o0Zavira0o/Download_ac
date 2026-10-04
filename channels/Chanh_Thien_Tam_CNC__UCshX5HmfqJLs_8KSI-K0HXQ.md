@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chanh Thien Tam CNC
 
-_آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
+_آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
 
 
 **لینک استاندارد کانال:** [Chanh Thien Tam CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-10-04 11:47:34 (UTC)  
+  **مدت:** حدود 8.1 دقیقه  
+  **عنوان:** [Tạo Solid từ STL Scan 3d Solidworks](https://www.youtube.com/watch?v=_fMXclg0Z3w)  
+  ![](https://i.ytimg.com/vi/_fMXclg0Z3w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-02 09:06:39 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
   **مدت:** حدود 8.8 دقیقه  
   **عنوان:** [Tách khuôn vỏ xe dream Solidworks](https://www.youtube.com/watch?v=ZDhnzf9JU2U)  
   ![](https://i.ytimg.com/vi/ZDhnzf9JU2U/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-10 13:45:21 (UTC)  
-  **مدت:** حدود 2.7 دقیقه  
-  **عنوان:** [Tính khối lượng Góc nghiêng Cung R Mastercam](https://www.youtube.com/watch?v=mfAUDzN0Rv0)  
-  ![](https://i.ytimg.com/vi/mfAUDzN0Rv0/hqdefault.jpg)

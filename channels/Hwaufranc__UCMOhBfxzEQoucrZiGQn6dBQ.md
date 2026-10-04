@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
+_آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-04 13:00:07 (UTC)  
+  **مدت:** حدود 8.5 دقیقه  
+  **عنوان:** [ASMR 다꾸 하울 : 파스텔 감성 & 마법사 팩 수지니아 비밀서랍🔮 Journal Unboxing Pastel Wizard](https://www.youtube.com/watch?v=5L4kFjGPKEY)  
+  ![](https://i.ytimg.com/vi/5L4kFjGPKEY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-02 09:00:14 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [Aesthetic Sticker Scrapbook Sounds #shorts](https://www.youtube.com/watch?v=bFTIrXGzN2w)  
   ![](https://i.ytimg.com/vi/bFTIrXGzN2w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-16 03:33:00 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [#asmr#delicious #yummy #shorts](https://www.youtube.com/watch?v=dBwT2EO2diw)  
-  ![](https://i.ytimg.com/vi/dBwT2EO2diw/hqdefault.jpg)

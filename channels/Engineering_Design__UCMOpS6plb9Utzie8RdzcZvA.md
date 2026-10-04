@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
+_آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-04 12:23:47 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Variable Shape Star Mechanism📌](https://www.youtube.com/watch?v=Wf7QIWzcuNI)  
+  ![](https://i.ytimg.com/vi/Wf7QIWzcuNI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-03 11:30:30 (UTC)  
@@ -26,7 +32,7 @@ _آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
 
 - **تاریخ انتشار:** 2026-10-01 04:57:34 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Four-bar Radial CAM and Follower Mechanism](https://www.youtube.com/watch?v=lWGUGE8ZKFA)  
+  **عنوان:** [Genius Radial Cam Follower Design #shorts #mechanical](https://www.youtube.com/watch?v=lWGUGE8ZKFA)  
   ![](https://i.ytimg.com/vi/lWGUGE8ZKFA/hqdefault.jpg)
 
 
@@ -176,7 +182,7 @@ _آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
 
 - **تاریخ انتشار:** 2026-08-31 10:00:38 (UTC)  
   **مدت:** حدود 4.4 دقیقه  
-  **عنوان:** [✅SOLIDWORKS Weldments Tutorial | Complete Cut List & Detailed 2D Drawing](https://www.youtube.com/watch?v=n2DGk0ZgcFI)  
+  **عنوان:** [How to Create a Perfect Weldment Cut List & BOM in SOLIDWORKS](https://www.youtube.com/watch?v=n2DGk0ZgcFI)  
   ![](https://i.ytimg.com/vi/n2DGk0ZgcFI/hqdefault.jpg)
 
 
@@ -470,7 +476,7 @@ _آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
 
 - **تاریخ انتشار:** 2026-04-16 12:16:59 (UTC)  
   **مدت:** حدود 39.0 دقیقه  
-  **عنوان:** [Weightlifting Mechanism Assembly & Animation in Solidworks](https://www.youtube.com/watch?v=mSufENzuqDk)  
+  **عنوان:** [How to Create a Weightlifting Mechanism in SolidWorks](https://www.youtube.com/watch?v=mSufENzuqDk)  
   ![](https://i.ytimg.com/vi/mSufENzuqDk/hqdefault.jpg)
 
 
@@ -584,7 +590,7 @@ _آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
 
 - **تاریخ انتشار:** 2026-03-13 11:50:06 (UTC)  
   **مدت:** حدود 12.9 دقیقه  
-  **عنوان:** [Gear Pump Assembly & Animation in Solidworks | Solidworks Tutorial](https://www.youtube.com/watch?v=Si77Po5_C8U)  
+  **عنوان:** [SolidWorks Mechanical Design: Gear Pump Assembly & Animation](https://www.youtube.com/watch?v=Si77Po5_C8U)  
   ![](https://i.ytimg.com/vi/Si77Po5_C8U/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-03T14:15:27Z_
   **مدت:** حدود 3.4 دقیقه  
   **عنوان:** [The Ultimate Beginner's Guide to SolidWorks](https://www.youtube.com/watch?v=hCrUP-ohsok)  
   ![](https://i.ytimg.com/vi/hCrUP-ohsok/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-09 12:03:51 (UTC)  
-  **مدت:** حدود 6.1 دقیقه  
-  **عنوان:** [How to Convert 3D Models into 2D Drawings (CAD)](https://www.youtube.com/watch?v=rAHsgPFcR_4)  
-  ![](https://i.ytimg.com/vi/rAHsgPFcR_4/hqdefault.jpg)
