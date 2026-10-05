@@ -1,6 +1,10 @@
-# Last Run: 2026-10-05 00:32 UTC
+# Last Run: 2026-10-05 08:34 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How to Fix Our Global Malaise
+Published: 2026-10-05T08:00:16+00:00
+Link: https://foreignpolicy.com/2026/10/05/global-malaise-international-order-economics-civic-life-hope-citizenship-community/
+---
 [New_Yorker_Magazine] “A Very Safe Place,” by Rachel Heng
 Published: 2026-10-04T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/12/a-very-safe-place-fiction-rachel-heng
@@ -68,16 +72,4 @@ Link: https://foreignpolicy.com/2026/10/02/china-oil-reserves-refiners-energy-cr
 [Foreign_Policy] The Forces Shaping Brazil’s Election
 Published: 2026-10-02T12:00:38+00:00
 Link: https://foreignpolicy.com/2026/10/02/brazil-election-president-lula-bolsonaro-military-women-economy/
----
-[Foreign_Affairs] Brazil’s Election Won’t Fix What’s Broken
-Published: 2026-10-02T04:00:00+00:00
-Link: https://www.foreignaffairs.com/brazil/brazils-election-wont-fix-whats-broken-matias-spektor
----
-[Foreign_Affairs] Brazil’s Election Won’t Fix What’s Broken
-Published: 2026-10-02T04:00:00+00:00
-Link: https://www.foreignaffairs.com/brazil/brazils-election-wont-fix-whats-broken
----
-[Foreign_Affairs] Palestinians Want a Two-State Solution
-Published: 2026-10-02T04:00:00+00:00
-Link: https://www.foreignaffairs.com/palestinian-territories/palestinians-want-two-state-solution-gaza-israel-amaney-jamal
 ---
