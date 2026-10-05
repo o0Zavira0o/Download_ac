@@ -989,7 +989,12 @@ https://foreignpolicy.com/2026/10/02/sea-cucumbers-illicit-trade-crime-china-mex
 https://foreignpolicy.com/2026/10/02/traumatized-catherine-liu-united-states-capitalism-exploitation-class-inequality/
 https://foreignpolicy.com/2026/10/02/undp-alexander-de-croo-ukraine-war-reconstruction-gaza-reconstruction-afghanistan/
 https://foreignpolicy.com/2026/10/04/wargames-hollywood-movies-national-security/
+https://foreignpolicy.com/2026/10/05/france-catholic-pope-le-pen-far-right/
 https://foreignpolicy.com/2026/10/05/global-malaise-international-order-economics-civic-life-hope-citizenship-community/
+https://foreignpolicy.com/2026/10/05/israel-security-concept-conceptzia-netanyahu-october-7-hamas/
+https://foreignpolicy.com/2026/10/05/israel-us-europe-sanctions-gaza-settlements-trump-netanyahu-elections/
+https://foreignpolicy.com/2026/10/05/russia-ukraine-air-war-missiles-drones-putin-strategy-victory/
+https://foreignpolicy.com/2026/10/05/us-human-rights-agenda-post-trump-civic-pluralism/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -1010,6 +1015,7 @@ https://www.foreignaffairs.com/china/chinas-ai-heist
 https://www.foreignaffairs.com/china/chinas-edifice-complex
 https://www.foreignaffairs.com/china/chinas-hunger-games
 https://www.foreignaffairs.com/china/chinas-legal-weapon
+https://www.foreignaffairs.com/china/chinas-long-twilight-carl-minzner
 https://www.foreignaffairs.com/china/chinas-moment-weakness
 https://www.foreignaffairs.com/china/chinas-next-play-south-china-sea
 https://www.foreignaffairs.com/china/chinas-purges-are-working-designed
@@ -1232,6 +1238,7 @@ https://www.foreignaffairs.com/united-states/survive-artificial-intelligence-sho
 https://www.foreignaffairs.com/united-states/transatlantic-alliance-cant-survive-without-trust
 https://www.foreignaffairs.com/united-states/transatlantic-crucible
 https://www.foreignaffairs.com/united-states/transatlantic-crucible-europe-nato
+https://www.foreignaffairs.com/united-states/triumph-tech-fueled-propaganda
 https://www.foreignaffairs.com/united-states/trouble-nuclear-ai-analogy
 https://www.foreignaffairs.com/united-states/trump-and-xi-cant-stop-us-china-spiral-orville-schell
 https://www.foreignaffairs.com/united-states/trumps-china-trap
