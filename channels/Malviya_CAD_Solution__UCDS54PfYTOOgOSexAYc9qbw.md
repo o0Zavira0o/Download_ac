@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
+_آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-10-05 02:18:35 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [Solidworks Sheetmetal exercise tutorial | Alluminium Bracket](https://www.youtube.com/watch?v=GysbhusbCZ4)  
+  ![](https://i.ytimg.com/vi/GysbhusbCZ4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-03 08:03:09 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
   **مدت:** حدود 1.5 دقیقه  
   **عنوان:** [Solidworks dimensions tips 😃 #shorts #ytshorts #solidworkstips #malviyacadsolution](https://www.youtube.com/watch?v=eGoVm4EEkbU)  
   ![](https://i.ytimg.com/vi/eGoVm4EEkbU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-02 14:41:53 (UTC)  
-  **مدت:** حدود 10.2 دقیقه  
-  **عنوان:** [Advanced Surface Modelling in Solidworks | Solidworks Surface tutorial](https://www.youtube.com/watch?v=opFOprC1QBU)  
-  ![](https://i.ytimg.com/vi/opFOprC1QBU/hqdefault.jpg)

@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
+_آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-05 08:46:26 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Deutsch lernen ohne Grammatik? #shorts #easygerman #deutschegrammatik #deutschlernen](https://www.youtube.com/watch?v=67zodjIq_OQ)  
+  ![](https://i.ytimg.com/vi/67zodjIq_OQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-04 17:00:18 (UTC)  
+  **مدت:** حدود 15.9 دقیقه  
+  **عنوان:** [Germany's Biggest City that Doesn't Exist](https://www.youtube.com/watch?v=OEKrKnt-dak)  
+  ![](https://i.ytimg.com/vi/OEKrKnt-dak/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-02 12:35:05 (UTC)  
@@ -20,7 +32,7 @@ _آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
 
 - **تاریخ انتشار:** 2026-09-30 17:00:26 (UTC)  
   **مدت:** حدود 13.9 دقیقه  
-  **عنوان:** [Easy German Vlog - Comprehensible Input for Beginners & Intermediates](https://www.youtube.com/watch?v=Tu3IHEb3bko)  
+  **عنوان:** [A Day in Paris in Slow German](https://www.youtube.com/watch?v=Tu3IHEb3bko)  
   ![](https://i.ytimg.com/vi/Tu3IHEb3bko/hqdefault.jpg)
 
 
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
   **مدت:** حدود 3.3 دقیقه  
   **عنوان:** [German Two Way Prepositions (Prepositions with Accusative and Dative) | Super Easy German (27)](https://www.youtube.com/watch?v=cPJ1Es1rF1g)  
   ![](https://i.ytimg.com/vi/cPJ1Es1rF1g/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-09 18:18:20 (UTC)  
-  **مدت:** حدود 9.2 دقیقه  
-  **عنوان:** [Differences between Germany and Denmark | Easy German 190](https://www.youtube.com/watch?v=JlxVAKP2cgw)  
-  ![](https://i.ytimg.com/vi/JlxVAKP2cgw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-08 18:57:53 (UTC)  
-  **مدت:** حدود 14.9 دقیقه  
-  **عنوان:** [Taboos in Germany |  German tips for Americans | Life back Home project   Cari antwortet (45)](https://www.youtube.com/watch?v=2u2crmRZVwo)  
-  ![](https://i.ytimg.com/vi/2u2crmRZVwo/hqdefault.jpg)

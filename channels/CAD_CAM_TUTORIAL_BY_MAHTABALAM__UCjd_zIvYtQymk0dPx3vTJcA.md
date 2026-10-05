@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
+_آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-05 03:30:11 (UTC)  
+  **مدت:** حدود 31.5 دقیقه  
+  **عنوان:** [CATICS 3D14-M06 Exercise in SolidWorks, Find Area, Volume and Distance?](https://www.youtube.com/watch?v=2HsVt86xQdo)  
+  ![](https://i.ytimg.com/vi/2HsVt86xQdo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-04 03:30:38 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
   **مدت:** حدود 16.2 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Grease Nipple in Solidworks](https://www.youtube.com/watch?v=o8xTPxk8_-c)  
   ![](https://i.ytimg.com/vi/o8xTPxk8_-c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-08 10:17:00 (UTC)  
-  **مدت:** حدود 155.5 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Gate Valve in Solidworks | Solidworks](https://www.youtube.com/watch?v=xUIMWklvQLE)  
-  ![](https://i.ytimg.com/vi/xUIMWklvQLE/hqdefault.jpg)

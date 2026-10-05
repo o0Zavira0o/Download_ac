@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
+_آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-10-05 13:27:53 (UTC)  
+  **مدت:** حدود 6.6 دقیقه  
+  **عنوان:** [5 nanoCAD Hacks That Save You Hours!](https://www.youtube.com/watch?v=5nYE18S3Qgc)  
+  ![](https://i.ytimg.com/vi/5nYE18S3Qgc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-28 11:22:24 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
   **مدت:** حدود 5.8 دقیقه  
   **عنوان:** [Arrays of Objects - Lesson 20](https://www.youtube.com/watch?v=4LD7rhgv6pM)  
   ![](https://i.ytimg.com/vi/4LD7rhgv6pM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-03-26 12:45:41 (UTC)  
-  **مدت:** حدود 3.6 دقیقه  
-  **عنوان:** [Making Parallel Copies (Offset) - Lesson 19](https://www.youtube.com/watch?v=tUiInoE5Vcc)  
-  ![](https://i.ytimg.com/vi/tUiInoE5Vcc/hqdefault.jpg)

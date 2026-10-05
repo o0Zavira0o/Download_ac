@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
+_آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-05 11:58:54 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [The Smartest Gear System Ever? 💡 Planetary Gear Explained #shorts](https://www.youtube.com/watch?v=HTRSLh_bkA4)  
+  ![](https://i.ytimg.com/vi/HTRSLh_bkA4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-04 12:23:47 (UTC)  
@@ -464,7 +470,7 @@ _آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
 
 - **تاریخ انتشار:** 2026-04-20 02:56:20 (UTC)  
   **مدت:** حدود 1.2 دقیقه  
-  **عنوان:** [Spiral Curve design by using sweep command in solidWorks #cad #solidworks #learncad](https://www.youtube.com/watch?v=YS3JKCZjEMI)  
+  **عنوان:** [How to create a complex spiral instantly #solidworks #cad #mechanical](https://www.youtube.com/watch?v=YS3JKCZjEMI)  
   ![](https://i.ytimg.com/vi/YS3JKCZjEMI/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-04T14:44:27Z_
   **مدت:** حدود 1.4 دقیقه  
   **عنوان:** [✅Sheet Metal Lofted Bend in SolidWorks | Easy Method](https://www.youtube.com/watch?v=nV_p474OP-M)  
   ![](https://i.ytimg.com/vi/nV_p474OP-M/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-12 09:06:05 (UTC)  
-  **مدت:** حدود 3.4 دقیقه  
-  **عنوان:** [The Ultimate Beginner's Guide to SolidWorks](https://www.youtube.com/watch?v=hCrUP-ohsok)  
-  ![](https://i.ytimg.com/vi/hCrUP-ohsok/hqdefault.jpg)
