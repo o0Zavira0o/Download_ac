@@ -1,9 +1,33 @@
-# Last Run: 2026-10-04 21:19 UTC
+# Last Run: 2026-10-05 00:32 UTC
 # Articles published in last 72 hours
 
+[New_Yorker_Magazine] “A Very Safe Place,” by Rachel Heng
+Published: 2026-10-04T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/a-very-safe-place-fiction-rachel-heng
+---
+[New_Yorker_Magazine] “Old Story: October,” by Cynthia Zarin
+Published: 2026-10-04T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/old-story-october-cynthia-zarin-poem
+---
+[New_Yorker_Magazine] ICE Is Everywhere and Acting with Impunity
+Published: 2026-10-04T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/ice-is-everywhere-and-acting-with-impunity
+---
+[New_Yorker_Magazine] The Battle to Pass a Billionaire Tax
+Published: 2026-10-04T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/the-battle-to-pass-a-billionaire-tax
+---
+[New_Yorker_Magazine] “Democracy,” by Sophie Cabot Black
+Published: 2026-10-04T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/democracy-sophie-cabot-black-poem
+---
 [Foreign_Policy] The Year Hollywood Changed the National Security Debate
 Published: 2026-10-04T04:01:41+00:00
 Link: https://foreignpolicy.com/2026/10/04/wargames-hollywood-movies-national-security/
+---
+[New_Yorker_Magazine] Olive Garden Is the Real True North
+Published: 2026-10-03T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/olive-garden-is-the-real-true-north
 ---
 [Foreign_Policy] G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
 Published: 2026-10-02T21:01:12+00:00
@@ -56,12 +80,4 @@ Link: https://www.foreignaffairs.com/brazil/brazils-election-wont-fix-whats-brok
 [Foreign_Affairs] Palestinians Want a Two-State Solution
 Published: 2026-10-02T04:00:00+00:00
 Link: https://www.foreignaffairs.com/palestinian-territories/palestinians-want-two-state-solution-gaza-israel-amaney-jamal
----
-[Foreign_Policy] Hegseth Wants More
-Published: 2026-10-01T21:28:10+00:00
-Link: https://foreignpolicy.com/2026/10/01/hegseth-speech-state-force-autonomous-musk-luckey-gingrich/
----
-[Foreign_Policy] Violent Student Protests Loom Over France’s Budget Proposal
-Published: 2026-10-01T21:26:25+00:00
-Link: https://foreignpolicy.com/2026/10/01/france-budget-proposal-2027-violent-student-protests-lecornu-macron/
 ---
