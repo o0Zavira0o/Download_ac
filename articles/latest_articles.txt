@@ -1,6 +1,14 @@
-# Last Run: 2026-10-05 19:10 UTC
+# Last Run: 2026-10-06 01:13 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] AI Made the List—but Humans Still Did the Killing
+Published: 2026-10-05T21:08:51+00:00
+Link: https://foreignpolicy.com/2026/10/05/israel-gaza-palestine-ai-war-naza-civilians/
+---
+[Foreign_Policy] Sánchez Calls Snap Elections Over Spain’s Housing Crisis
+Published: 2026-10-05T20:22:34+00:00
+Link: https://foreignpolicy.com/2026/10/05/spain-snap-elections-housing-crisis-sanchez-far-right/
+---
 [Foreign_Policy] France’s Catholic Revival Is Fueling Its Far Right
 Published: 2026-10-05T15:12:53+00:00
 Link: https://foreignpolicy.com/2026/10/05/france-catholic-pope-le-pen-far-right/
@@ -60,8 +68,4 @@ Link: https://foreignpolicy.com/2026/10/04/wargames-hollywood-movies-national-se
 [New_Yorker_Magazine] Olive Garden Is the Real True North
 Published: 2026-10-03T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/12/olive-garden-is-the-real-true-north
----
-[Foreign_Policy] G-7 Agrees to Release 100 Million Barrels of Reserve Diesel
-Published: 2026-10-02T21:01:12+00:00
-Link: https://foreignpolicy.com/2026/10/02/g7-release-emergency-diesel-crude-stockpiles-fuel-prices-trump/
 ---
