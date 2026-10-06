@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
+_آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-06 12:30:40 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Power Transmission Mechanism📌#shorts #3ddesign #engineering](https://www.youtube.com/watch?v=Kj4DRpC23p0)  
+  ![](https://i.ytimg.com/vi/Kj4DRpC23p0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-05 11:58:54 (UTC)  
@@ -572,7 +578,7 @@ _آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
 
 - **تاریخ انتشار:** 2026-03-23 12:01:15 (UTC)  
   **مدت:** حدود 11.3 دقیقه  
-  **عنوان:** [Solidworks Mold Tutorial | How to Design Basket Mold in Solidworks](https://www.youtube.com/watch?v=50LVntqBdV8)  
+  **عنوان:** [Don't Build Molds Until You Watch This SolidWorks Tutorial](https://www.youtube.com/watch?v=50LVntqBdV8)  
   ![](https://i.ytimg.com/vi/50LVntqBdV8/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
   **مدت:** حدود 1.2 دقیقه  
   **عنوان:** [How to Create Lofted Shapes in SolidWorks | Complete Guide](https://www.youtube.com/watch?v=Qd2ca1DBxro)  
   ![](https://i.ytimg.com/vi/Qd2ca1DBxro/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-14 02:44:27 (UTC)  
-  **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [✅Sheet Metal Lofted Bend in SolidWorks | Easy Method](https://www.youtube.com/watch?v=nV_p474OP-M)  
-  ![](https://i.ytimg.com/vi/nV_p474OP-M/hqdefault.jpg)

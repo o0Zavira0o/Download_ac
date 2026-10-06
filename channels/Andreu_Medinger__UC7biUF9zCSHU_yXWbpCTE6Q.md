@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
+_آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-10-05 22:30:16 (UTC)  
+  **مدت:** حدود 29.5 دقیقه  
+  **عنوان:** [AULA 35 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Linha de Produção #solidworks](https://www.youtube.com/watch?v=1JYmMZInLRw)  
+  ![](https://i.ytimg.com/vi/1JYmMZInLRw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-02 22:30:27 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
   **مدت:** حدود 30.7 دقیقه  
   **عنوان:** [AULA 40 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=v5S_NCJyXzw)  
   ![](https://i.ytimg.com/vi/v5S_NCJyXzw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-04-11 22:30:04 (UTC)  
-  **مدت:** حدود 29.1 دقیقه  
-  **عنوان:** [AULA 39 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=OR2tpdz122s)  
-  ![](https://i.ytimg.com/vi/OR2tpdz122s/hqdefault.jpg)

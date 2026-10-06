@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
+_آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-06 03:30:15 (UTC)  
+  **مدت:** حدود 8.1 دقیقه  
+  **عنوان:** [Golden Headband Modeling in SolidWorks (Lofted Boss/Base, 3D Sketch, Project Curve)](https://www.youtube.com/watch?v=l9T15w1UZAM)  
+  ![](https://i.ytimg.com/vi/l9T15w1UZAM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-05 03:30:11 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
   **مدت:** حدود 18.2 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Grease nipple M8 45 degree in solidworks](https://www.youtube.com/watch?v=0TaMXPAKRow)  
   ![](https://i.ytimg.com/vi/0TaMXPAKRow/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-11 10:29:25 (UTC)  
-  **مدت:** حدود 16.2 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Grease Nipple in Solidworks](https://www.youtube.com/watch?v=o8xTPxk8_-c)  
-  ![](https://i.ytimg.com/vi/o8xTPxk8_-c/hqdefault.jpg)

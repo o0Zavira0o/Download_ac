@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
+_آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-06 12:00:07 (UTC)  
+  **مدت:** حدود 33.3 دقیقه  
+  **عنوان:** [ASMR 스크랩 다꾸 스티커의 모든 것🤲🍀 다꾸 꾸미기 카꾸 Cardmaking Scrapbooking](https://www.youtube.com/watch?v=ihIIcoc9PbI)  
+  ![](https://i.ytimg.com/vi/ihIIcoc9PbI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-05 13:20:34 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Scrapbook ASMR #artjournal #satisfying #scrapbooker #shorts](https://www.youtube.com/watch?v=_B0Mso7kjS4)  
   ![](https://i.ytimg.com/vi/_B0Mso7kjS4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-16 03:33:00 (UTC)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [ASMR Top Loader with stickers #shorts](https://www.youtube.com/watch?v=1Z-BTUdGzfg)  
-  ![](https://i.ytimg.com/vi/1Z-BTUdGzfg/hqdefault.jpg)

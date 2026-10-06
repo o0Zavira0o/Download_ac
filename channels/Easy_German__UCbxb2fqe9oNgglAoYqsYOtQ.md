@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
+_آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -14,7 +14,7 @@ _آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
 
 - **تاریخ انتشار:** 2026-10-04 17:00:18 (UTC)  
   **مدت:** حدود 15.9 دقیقه  
-  **عنوان:** [Germany's Biggest City that Doesn't Exist](https://www.youtube.com/watch?v=OEKrKnt-dak)  
+  **عنوان:** [A Trip to Germany’s Secret Mega City](https://www.youtube.com/watch?v=OEKrKnt-dak)  
   ![](https://i.ytimg.com/vi/OEKrKnt-dak/hqdefault.jpg)
 
 
@@ -1550,7 +1550,7 @@ _آخرین به‌روزرسانی: 2026-10-05T18:16:49Z_
 
 - **تاریخ انتشار:** 2026-01-07 18:00:43 (UTC)  
   **مدت:** حدود 15.6 دقیقه  
-  **عنوان:** [Learn German with Us at the Supermarket (for Advanced Beginners)](https://www.youtube.com/watch?v=W9coIzRQGh4)  
+  **عنوان:** [Learn German at the Supermarket (Advanced Beginners)](https://www.youtube.com/watch?v=W9coIzRQGh4)  
   ![](https://i.ytimg.com/vi/W9coIzRQGh4/hqdefault.jpg)
 
 
