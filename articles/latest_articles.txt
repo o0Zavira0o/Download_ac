@@ -1,6 +1,22 @@
-# Last Run: 2026-10-06 08:46 UTC
+# Last Run: 2026-10-06 16:36 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump’s Red-Dye Diesel Plan Has a Major Flaw
+Published: 2026-10-06T16:11:52+00:00
+Link: https://foreignpolicy.com/2026/10/06/red-dye-diesel-trump-hormuz-prices-iran-war/
+---
+[Foreign_Policy] How Much More Trump Trouble Can Indonesia’s Prabowo Take?
+Published: 2026-10-06T10:08:23+00:00
+Link: https://foreignpolicy.com/2026/10/06/indonesia-prabowo-trump-tariffs-trade-gaza-board-of-peace-controversy/
+---
+[Foreign_Affairs] The New Red Sea Wars
+Published: 2026-10-06T08:00:00+00:00
+Link: https://www.foreignaffairs.com/middle-east/new-red-sea-wars
+---
+[Foreign_Affairs] The Myth of Military Victory
+Published: 2026-10-06T08:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/myth-military-victory
+---
 [Foreign_Policy] AI Made the List—but Humans Still Did the Killing
 Published: 2026-10-05T21:08:51+00:00
 Link: https://foreignpolicy.com/2026/10/05/israel-gaza-palestine-ai-war-naza-civilians/
@@ -64,8 +80,4 @@ Link: https://www.newyorker.com/magazine/2026/10/12/democracy-sophie-cabot-black
 [Foreign_Policy] The Year Hollywood Changed the National Security Debate
 Published: 2026-10-04T04:01:41+00:00
 Link: https://foreignpolicy.com/2026/10/04/wargames-hollywood-movies-national-security/
----
-[New_Yorker_Magazine] Olive Garden Is the Real True North
-Published: 2026-10-03T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/olive-garden-is-the-real-true-north
 ---
