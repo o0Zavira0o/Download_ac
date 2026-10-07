@@ -1,6 +1,26 @@
-# Last Run: 2026-10-07 04:46 UTC
+# Last Run: 2026-10-07 12:51 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Here’s What to Do About Trump’s War Crimes
+Published: 2026-10-07T12:32:05+00:00
+Link: https://foreignpolicy.com/2026/10/07/trump-united-nations-war-crimes-democrats-accountability/
+---
+[Foreign_Policy] China’s AI Rollout Has No Off Switch
+Published: 2026-10-07T11:20:15+00:00
+Link: https://foreignpolicy.com/2026/10/07/china-ai-race-artificial-intelligence-safety-models-kill-switch/
+---
+[Foreign_Affairs] Russia’s Hybrid War Has Entered a Dangerous New Phase
+Published: 2026-10-07T08:00:00+00:00
+Link: https://www.foreignaffairs.com/russia/russias-hybrid-war-has-entered-dangerous-new-phase
+---
+[Foreign_Affairs] The Two Africas
+Published: 2026-10-07T08:00:00+00:00
+Link: https://www.foreignaffairs.com/africa/two-africas
+---
+[Foreign_Policy] What Does China’s New Military Base in Laos Mean?
+Published: 2026-10-07T05:00:17+00:00
+Link: https://foreignpolicy.com/2026/10/07/china-military-base-laos-vientiane/
+---
 [Foreign_Policy] How to Avoid Disaster in the Next Iran War
 Published: 2026-10-06T20:27:22+00:00
 Link: https://foreignpolicy.com/2026/10/06/iran-war-hormuz-oil-missile-defense-drones-gulf/
@@ -76,24 +96,4 @@ Link: https://www.foreignaffairs.com/china/chinas-long-twilight-carl-minzner
 [Foreign_Affairs] The Triumph of Tech-Fueled Propaganda
 Published: 2026-10-05T08:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/triumph-tech-fueled-propaganda
----
-[New_Yorker_Magazine] “A Very Safe Place,” by Rachel Heng
-Published: 2026-10-04T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/a-very-safe-place-fiction-rachel-heng
----
-[New_Yorker_Magazine] “Old Story: October,” by Cynthia Zarin
-Published: 2026-10-04T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/old-story-october-cynthia-zarin-poem
----
-[New_Yorker_Magazine] ICE Is Everywhere and Acting with Impunity
-Published: 2026-10-04T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/ice-is-everywhere-and-acting-with-impunity
----
-[New_Yorker_Magazine] The Battle to Pass a Billionaire Tax
-Published: 2026-10-04T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/the-battle-to-pass-a-billionaire-tax
----
-[New_Yorker_Magazine] “Democracy,” by Sophie Cabot Black
-Published: 2026-10-04T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/democracy-sophie-cabot-black-poem
 ---

@@ -1004,10 +1004,14 @@ https://foreignpolicy.com/2026/10/06/iran-war-hormuz-oil-missile-defense-drones-
 https://foreignpolicy.com/2026/10/06/red-dye-diesel-trump-hormuz-prices-iran-war/
 https://foreignpolicy.com/2026/10/06/saudi-arabia-turkey-pakistan-mutual-defense-pact-houthi-yemen-attacks/
 https://foreignpolicy.com/2026/10/06/us-housing-market-frozen-ai-interest-rates-economics/
+https://foreignpolicy.com/2026/10/07/china-ai-race-artificial-intelligence-safety-models-kill-switch/
+https://foreignpolicy.com/2026/10/07/china-military-base-laos-vientiane/
+https://foreignpolicy.com/2026/10/07/trump-united-nations-war-crimes-democrats-accountability/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
 https://www.foreignaffairs.com/africa/can-renewables-industrialize-africa
+https://www.foreignaffairs.com/africa/two-africas
 https://www.foreignaffairs.com/americas/trump-remaking-latin-america
 https://www.foreignaffairs.com/arctic-antarctic/dangerous-game-arctic
 https://www.foreignaffairs.com/arctic-antarctic/price-arctic-ambition-greenland-iris-ferguson
@@ -1134,6 +1138,7 @@ https://www.foreignaffairs.com/russia/inertia-russias-war
 https://www.foreignaffairs.com/russia/next-russia-threat-michael-kofman
 https://www.foreignaffairs.com/russia/price-russian-paranoia
 https://www.foreignaffairs.com/russia/putin-will-turn-cease-fire-weapon
+https://www.foreignaffairs.com/russia/russias-hybrid-war-has-entered-dangerous-new-phase
 https://www.foreignaffairs.com/saudi-arabia/looming-nuclear-crisis-gulf
 https://www.foreignaffairs.com/senegal/senegal-brink
 https://www.foreignaffairs.com/somalia/who-winning-africas-drone-wars
