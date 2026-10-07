@@ -1,4 +1,4 @@
-# Last Run: 2026-10-06 22:28 UTC
+# Last Run: 2026-10-07 04:46 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] How to Avoid Disaster in the Next Iran War
@@ -96,8 +96,4 @@ Link: https://www.newyorker.com/magazine/2026/10/12/the-battle-to-pass-a-billion
 [New_Yorker_Magazine] “Democracy,” by Sophie Cabot Black
 Published: 2026-10-04T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/12/democracy-sophie-cabot-black-poem
----
-[Foreign_Policy] The Year Hollywood Changed the National Security Debate
-Published: 2026-10-04T04:01:41+00:00
-Link: https://foreignpolicy.com/2026/10/04/wargames-hollywood-movies-national-security/
 ---
