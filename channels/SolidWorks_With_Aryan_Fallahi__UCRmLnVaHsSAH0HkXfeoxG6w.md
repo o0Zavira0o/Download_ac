@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال SolidWorks With Aryan Fallahi
 
-_آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
+_آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
 
 
 **لینک استاندارد کانال:** [SolidWorks With Aryan Fallahi](https://www.youtube.com/channel/UCRmLnVaHsSAH0HkXfeoxG6w)  
+
+
+- **تاریخ انتشار:** 2026-10-07 14:12:01 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [How to fully define a sketch](https://www.youtube.com/watch?v=q4kjxKE2xuU)  
+  ![](https://i.ytimg.com/vi/q4kjxKE2xuU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-31 13:39:04 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
   **مدت:** حدود 17.4 دقیقه  
   **عنوان:** [SOLIDWORKS Drawing | Make your sheet template](https://www.youtube.com/watch?v=9VX4jbs5lIY)  
   ![](https://i.ytimg.com/vi/9VX4jbs5lIY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2023-09-18 19:00:11 (UTC)  
-  **مدت:** حدود 14.3 دقیقه  
-  **عنوان:** [A Powerful Duo for Mechanical Engineers](https://www.youtube.com/watch?v=I8L25WVYWhQ)  
-  ![](https://i.ytimg.com/vi/I8L25WVYWhQ/hqdefault.jpg)

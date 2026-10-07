@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
+_آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-10-07 02:40:43 (UTC)  
+  **مدت:** حدود 17.7 دقیقه  
+  **عنوان:** [Solidworks Sheetmetal exercise tutorial with surface features | Advance sheetmetal exercise](https://www.youtube.com/watch?v=Ni0FjVRZdto)  
+  ![](https://i.ytimg.com/vi/Ni0FjVRZdto/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-05 02:18:35 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
   **مدت:** حدود 1.5 دقیقه  
   **عنوان:** [Learn solidworks basic to advance absolutely FREE 😃 #shorts #ytshorts #solidworks #cad](https://www.youtube.com/watch?v=y9ryNmDguzY)  
   ![](https://i.ytimg.com/vi/y9ryNmDguzY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-03 03:53:56 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Solidworks dimensions tips 😃 #shorts #ytshorts #solidworkstips #malviyacadsolution](https://www.youtube.com/watch?v=eGoVm4EEkbU)  
-  ![](https://i.ytimg.com/vi/eGoVm4EEkbU/hqdefault.jpg)

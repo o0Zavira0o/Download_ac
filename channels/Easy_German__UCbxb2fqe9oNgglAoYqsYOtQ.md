@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
+_آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-06 16:11:58 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Wie viel Prozent deines Einkommens zahlst du für die Miete? #shorts #easygerman #deutschlernen](https://www.youtube.com/watch?v=vI6u8YKq8Rk)  
+  ![](https://i.ytimg.com/vi/vI6u8YKq8Rk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-05 08:46:26 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
   **مدت:** حدود 10.7 دقیقه  
   **عنوان:** [Jena | Easy German 191](https://www.youtube.com/watch?v=ojlGCUHKHXE)  
   ![](https://i.ytimg.com/vi/ojlGCUHKHXE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-12 21:34:59 (UTC)  
-  **مدت:** حدود 3.3 دقیقه  
-  **عنوان:** [German Two Way Prepositions (Prepositions with Accusative and Dative) | Super Easy German (27)](https://www.youtube.com/watch?v=cPJ1Es1rF1g)  
-  ![](https://i.ytimg.com/vi/cPJ1Es1rF1g/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
+_آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-07 03:02:08 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Gear Crank Mechanism (or Hypocycloidal Straight-Line Mechanism)](https://www.youtube.com/watch?v=3sju_L5jqZ8)  
+  ![](https://i.ytimg.com/vi/3sju_L5jqZ8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-06 12:30:40 (UTC)  
@@ -86,7 +92,7 @@ _آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
 
 - **تاریخ انتشار:** 2026-09-21 11:59:46 (UTC)  
   **مدت:** حدود 4.6 دقیقه  
-  **عنوان:** [SolidWorks Bevel Gear Design Tutorial | Step-by-Step 3D Modeling + JLCMC Sponsored](https://www.youtube.com/watch?v=64dhPWXw7vk)  
+  **عنوان:** [Why Your Bevel Gear Design Fails | SolidWorks Guide](https://www.youtube.com/watch?v=64dhPWXw7vk)  
   ![](https://i.ytimg.com/vi/64dhPWXw7vk/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [CAM & Roller Follower Mechanism](https://www.youtube.com/watch?v=sZZQsPT8o40)  
   ![](https://i.ytimg.com/vi/sZZQsPT8o40/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-15 02:45:18 (UTC)  
-  **مدت:** حدود 1.2 دقیقه  
-  **عنوان:** [How to Create Lofted Shapes in SolidWorks | Complete Guide](https://www.youtube.com/watch?v=Qd2ca1DBxro)  
-  ![](https://i.ytimg.com/vi/Qd2ca1DBxro/hqdefault.jpg)

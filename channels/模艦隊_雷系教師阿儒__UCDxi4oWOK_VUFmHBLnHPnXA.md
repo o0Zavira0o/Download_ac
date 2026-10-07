@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
+_آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-10-07 11:00:02 (UTC)  
+  **مدت:** حدود 23.7 دقیقه  
+  **عنوان:** [【SolidWorks】基礎課程：擠出(伸長填料)代替旋轉｜A、B方案切換](https://www.youtube.com/watch?v=RoSNbT5tx1k)  
+  ![](https://i.ytimg.com/vi/RoSNbT5tx1k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-02 11:00:26 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
   **مدت:** حدود 27.8 دقیقه  
   **عنوان:** [【onshape】產品練習：吹風機｜如何插入圖片｜零件畫組合件](https://www.youtube.com/watch?v=9Q6Qe_ypt0w)  
   ![](https://i.ytimg.com/vi/9Q6Qe_ypt0w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-02 11:00:31 (UTC)  
-  **مدت:** حدود 26.1 دقیقه  
-  **عنوان:** [【SolidWorks】管件：分區處理｜用薄殼取代除料](https://www.youtube.com/watch?v=Awxhgh7XKb8)  
-  ![](https://i.ytimg.com/vi/Awxhgh7XKb8/hqdefault.jpg)

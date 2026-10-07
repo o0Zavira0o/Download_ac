@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
+_آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-07 13:40:27 (UTC)  
+  **مدت:** حدود 3.8 دقیقه  
+  **عنوان:** [ASMR 다꾸 스티커 스탬프 언박싱 | 저널세이 다꾸템 협찬 Unboxing Journal Stationery コラージュ](https://www.youtube.com/watch?v=0YWY7hFbOr4)  
+  ![](https://i.ytimg.com/vi/0YWY7hFbOr4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-06 12:00:07 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-06T15:49:30Z_
   **مدت:** حدود 6.3 دقیقه  
   **عنوان:** [Decorating a Passport Diary | Journal ASMR](https://www.youtube.com/watch?v=BL4J9osHVeY)  
   ![](https://i.ytimg.com/vi/BL4J9osHVeY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-17 13:35:02 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Scrapbook ASMR #artjournal #satisfying #scrapbooker #shorts](https://www.youtube.com/watch?v=_B0Mso7kjS4)  
-  ![](https://i.ytimg.com/vi/_B0Mso7kjS4/hqdefault.jpg)
