@@ -1,6 +1,18 @@
-# Last Run: 2026-10-08 00:07 UTC
+# Last Run: 2026-10-08 08:47 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The End of Gaza
+Published: 2026-10-08T08:00:00+00:00
+Link: https://www.foreignaffairs.com/palestinian-territories/end-gaza
+---
+[Foreign_Affairs] The Case for Economic Espionage
+Published: 2026-10-08T08:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/case-economic-espionage-david-cohen
+---
+[Foreign_Policy] The Leverage Middle Powers Have in the AI Race
+Published: 2026-10-08T04:01:13+00:00
+Link: https://foreignpolicy.com/2026/10/08/leverage-middle-powers-ai-race/
+---
 [Foreign_Policy] Pakistan’s Opposition on the March
 Published: 2026-10-07T21:36:17+00:00
 Link: https://foreignpolicy.com/2026/10/07/pakistan-imran-khan-opposition-long-march-islamabad/
@@ -101,15 +113,51 @@ Link: https://foreignpolicy.com/2026/10/05/israel-us-europe-sanctions-gaza-settl
 Published: 2026-10-05T11:00:05+00:00
 Link: https://foreignpolicy.com/2026/10/05/israel-security-concept-conceptzia-netanyahu-october-7-hamas/
 ---
-[Foreign_Policy] How to Fix Our Global Malaise
-Published: 2026-10-05T08:00:16+00:00
-Link: https://foreignpolicy.com/2026/10/05/global-malaise-international-order-economics-civic-life-hope-citizenship-community/
+[New_Yorker_Magazine] Maternal Intelligence: An Open Letter
+Published: 2026-10-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/maternal-intelligence-an-open-letter
 ---
-[Foreign_Affairs] China’s Long Twilight
-Published: 2026-10-05T08:00:00+00:00
-Link: https://www.foreignaffairs.com/china/chinas-long-twilight-carl-minzner
+[New_Yorker_Magazine] Arthur Jafa’s “I Am Tony,” Reviewed
+Published: 2026-10-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/arthur-jafas-odyssey-of-appropriation
 ---
-[Foreign_Affairs] The Triumph of Tech-Fueled Propaganda
-Published: 2026-10-05T08:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/triumph-tech-fueled-propaganda
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-10-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/the-vanishing-family-the-jews-of-italy-i-made-you-up-inside-my-head-days-and-chances
+---
+[New_Yorker_Magazine] Ellen Allien’s Hill of Sound
+Published: 2026-10-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/ellen-alliens-hill-of-sound
+---
+[New_Yorker_Magazine] Ernie Bushmiller’s Sunday Morning, Live
+Published: 2026-10-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/ernie-bushmillers-sunday-morning-live
+---
+[New_Yorker_Magazine] How Test Engineers Decide What Counts as Good Enough
+Published: 2026-10-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/kobuk-the-destroyer-alex-davies-book-review
+---
+[New_Yorker_Magazine] A Woman with a Past
+Published: 2026-10-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/a-self-made-woman
+---
+[New_Yorker_Magazine] The Battle for the Post-Trump Right
+Published: 2026-10-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/the-battle-for-the-post-trump-right
+---
+[New_Yorker_Magazine] Boo! You’ve Been Buried Alive
+Published: 2026-10-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/boo-youve-been-buried-alive
+---
+[New_Yorker_Magazine] How to Fight Your Landlord, the Heel
+Published: 2026-10-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/how-to-fight-your-landlord-the-heel
+---
+[New_Yorker_Magazine] Why Is Illness So Hard to Write About?
+Published: 2026-10-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/why-is-illness-so-hard-to-write-about
+---
+[New_Yorker_Magazine] Year of the Horse
+Published: 2026-10-05T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/12/year-of-the-horse
 ---
