@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
+_آخرین به‌روزرسانی: 2026-10-08T16:20:27Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
+
+
+- **تاریخ انتشار:** 2026-10-07 18:42:37 (UTC)  
+  **مدت:** حدود 18.7 دقیقه  
+  **عنوان:** [F26 MENG4137 Using PowerPoint to Create Drawings](https://www.youtube.com/watch?v=tOTnQEhCLic)  
+  ![](https://i.ytimg.com/vi/tOTnQEhCLic/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-07-12 20:29:27 (UTC)  

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
+_آخرین به‌روزرسانی: 2026-10-08T16:20:27Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-08 03:30:15 (UTC)  
+  **مدت:** حدود 46.0 دقیقه  
+  **عنوان:** [Housing Modeling in SolidWorks (Tapped Hole, Combine Features)](https://www.youtube.com/watch?v=D942hpZGmWw)  
+  ![](https://i.ytimg.com/vi/D942hpZGmWw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-06 03:30:15 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
   **مدت:** حدود 57.7 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch exhaust fan in Solidworks](https://www.youtube.com/watch?v=k5b5Cp2ywp0)  
   ![](https://i.ytimg.com/vi/k5b5Cp2ywp0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-12 11:35:43 (UTC)  
-  **مدت:** حدود 18.2 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Grease nipple M8 45 degree in solidworks](https://www.youtube.com/watch?v=0TaMXPAKRow)  
-  ![](https://i.ytimg.com/vi/0TaMXPAKRow/hqdefault.jpg)

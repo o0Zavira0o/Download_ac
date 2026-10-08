@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
+_آخرین به‌روزرسانی: 2026-10-08T16:20:27Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-08 02:33:56 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [This 140-Year-Old Mechanical Secret Will Blow Your Mind! 🤯](https://www.youtube.com/watch?v=aKch7yK1jGg)  
+  ![](https://i.ytimg.com/vi/aKch7yK1jGg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-07 03:02:08 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [How to Make a Wheel in SolidWorks 🛞 | Easy CAD Tutorial #Shorts](https://www.youtube.com/watch?v=81jzmw7-tsQ)  
   ![](https://i.ytimg.com/vi/81jzmw7-tsQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-17 11:59:28 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [CAM & Roller Follower Mechanism](https://www.youtube.com/watch?v=sZZQsPT8o40)  
-  ![](https://i.ytimg.com/vi/sZZQsPT8o40/hqdefault.jpg)

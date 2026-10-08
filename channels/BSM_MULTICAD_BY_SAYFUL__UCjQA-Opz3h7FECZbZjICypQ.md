@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
+_آخرین به‌روزرسانی: 2026-10-08T16:20:27Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  

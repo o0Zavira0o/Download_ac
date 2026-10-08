@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
+_آخرین به‌روزرسانی: 2026-10-08T16:20:27Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-08 12:46:13 (UTC)  
+  **مدت:** حدود 1.7 دقیقه  
+  **عنوان:** [Wie man fremde Menschen anspricht](https://www.youtube.com/watch?v=C05Hm_3nvmE)  
+  ![](https://i.ytimg.com/vi/C05Hm_3nvmE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-07 17:00:27 (UTC)  
+  **مدت:** حدود 12.7 دقیقه  
+  **عنوان:** [Learn to Talk About Food in German (for absolute beginners)](https://www.youtube.com/watch?v=dIw__YleGcQ)  
+  ![](https://i.ytimg.com/vi/dIw__YleGcQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-06 16:11:58 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-07T16:18:06Z_
   **مدت:** حدود 14.7 دقیقه  
   **عنوان:** [What's typical German? | Easy German 192](https://www.youtube.com/watch?v=0w67eHrJMEc)  
   ![](https://i.ytimg.com/vi/0w67eHrJMEc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-19 18:40:43 (UTC)  
-  **مدت:** حدود 3.8 دقیقه  
-  **عنوان:** [Genitive Case in German | Super Easy German (28)](https://www.youtube.com/watch?v=tdIarhdlFsU)  
-  ![](https://i.ytimg.com/vi/tdIarhdlFsU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-16 16:51:48 (UTC)  
-  **مدت:** حدود 10.7 دقیقه  
-  **عنوان:** [Jena | Easy German 191](https://www.youtube.com/watch?v=ojlGCUHKHXE)  
-  ![](https://i.ytimg.com/vi/ojlGCUHKHXE/hqdefault.jpg)
