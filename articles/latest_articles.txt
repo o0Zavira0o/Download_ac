@@ -1,6 +1,42 @@
-# Last Run: 2026-10-08 17:18 UTC
+# Last Run: 2026-10-08 23:04 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Mecca Pact, Activated
+Published: 2026-10-08T21:49:14+00:00
+Link: https://foreignpolicy.com/2026/10/08/mecca-pact-pakistan-turkey-saudi-houthi-yemen/
+---
+[Foreign_Policy] How America and China Compare on AI
+Published: 2026-10-08T21:00:00+00:00
+Link: https://foreignpolicy.com/2026/10/08/united-states-china-ai-artificial-intelligence-race-winning-matt-sheehan/
+---
+[Foreign_Policy] Trump Is Reopening the Middle East’s Deadliest Sectarian Fault Lines
+Published: 2026-10-08T20:34:49+00:00
+Link: https://foreignpolicy.com/2026/10/08/iraq-trump-sectarian-war/
+---
+[Foreign_Policy] The Next Iran War Is This Iran War
+Published: 2026-10-08T19:57:39+00:00
+Link: https://foreignpolicy.com/2026/10/08/next-iran-war-regime-change/
+---
+[Foreign_Policy] To Understand France’s Unrest, Look Back to 1982
+Published: 2026-10-08T19:44:15+00:00
+Link: https://foreignpolicy.com/2026/10/08/france-protests-macron-europe-history-mitterrand-economy/
+---
+[Foreign_Policy] Where the Saudi-Houthi War Stands Now
+Published: 2026-10-08T19:28:55+00:00
+Link: https://foreignpolicy.com/2026/10/08/houthis-yemen-war-saudi-arabia-airport-oil-strikes-pakistan-turkey-syria/
+---
+[Foreign_Policy] Can a New Credit Rating Agency Help Africans Borrow at Better Rates?
+Published: 2026-10-08T19:19:50+00:00
+Link: https://foreignpolicy.com/2026/10/08/africa-credit-rating-agency-borrowing-debt/
+---
+[Foreign_Policy] The Real Danger May Be AI as Dumb as Us
+Published: 2026-10-08T18:36:37+00:00
+Link: https://foreignpolicy.com/2026/10/08/ai-jagged-super-intelligence-mistakes/
+---
+[Foreign_Policy] America’s Best Answer to the China-Russia Alliance
+Published: 2026-10-08T17:13:51+00:00
+Link: https://foreignpolicy.com/2026/10/08/russia-china-alliance-united-states-xi-putin/
+---
 [Foreign_Affairs] The End of Gaza
 Published: 2026-10-08T08:00:00+00:00
 Link: https://www.foreignaffairs.com/palestinian-territories/end-gaza
@@ -84,12 +120,4 @@ Link: https://www.foreignaffairs.com/middle-east/new-red-sea-wars
 [Foreign_Affairs] The Myth of Military Victory
 Published: 2026-10-06T08:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/myth-military-victory
----
-[Foreign_Policy] AI Made the List—but Humans Still Did the Killing
-Published: 2026-10-05T21:08:51+00:00
-Link: https://foreignpolicy.com/2026/10/05/israel-gaza-palestine-ai-war-naza-civilians/
----
-[Foreign_Policy] Sánchez Calls Snap Elections Over Spain’s Housing Crisis
-Published: 2026-10-05T20:22:34+00:00
-Link: https://foreignpolicy.com/2026/10/05/spain-snap-elections-housing-crisis-sanchez-far-right/
 ---
