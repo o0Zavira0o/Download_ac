@@ -1,4 +1,4 @@
-# Last Run: 2026-10-08 08:47 UTC
+# Last Run: 2026-10-08 17:18 UTC
 # Articles published in last 72 hours
 
 [Foreign_Affairs] The End of Gaza
@@ -92,72 +92,4 @@ Link: https://foreignpolicy.com/2026/10/05/israel-gaza-palestine-ai-war-naza-civ
 [Foreign_Policy] Sánchez Calls Snap Elections Over Spain’s Housing Crisis
 Published: 2026-10-05T20:22:34+00:00
 Link: https://foreignpolicy.com/2026/10/05/spain-snap-elections-housing-crisis-sanchez-far-right/
----
-[Foreign_Policy] France’s Catholic Revival Is Fueling Its Far Right
-Published: 2026-10-05T15:12:53+00:00
-Link: https://foreignpolicy.com/2026/10/05/france-catholic-pope-le-pen-far-right/
----
-[Foreign_Policy] Russia’s Air War Aims to Bleed Ukraine Dry
-Published: 2026-10-05T14:51:48+00:00
-Link: https://foreignpolicy.com/2026/10/05/russia-ukraine-air-war-missiles-drones-putin-strategy-victory/
----
-[Foreign_Policy] How the U.S. Can Once Again Lead on Human Rights
-Published: 2026-10-05T13:20:56+00:00
-Link: https://foreignpolicy.com/2026/10/05/us-human-rights-agenda-post-trump-civic-pluralism/
----
-[Foreign_Policy] Europe’s Chance to Revive Middle East Peace
-Published: 2026-10-05T13:17:20+00:00
-Link: https://foreignpolicy.com/2026/10/05/israel-us-europe-sanctions-gaza-settlements-trump-netanyahu-elections/
----
-[Foreign_Policy] Israel’s Government Is in Thrall to ‘the Concept’
-Published: 2026-10-05T11:00:05+00:00
-Link: https://foreignpolicy.com/2026/10/05/israel-security-concept-conceptzia-netanyahu-october-7-hamas/
----
-[New_Yorker_Magazine] Maternal Intelligence: An Open Letter
-Published: 2026-10-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/maternal-intelligence-an-open-letter
----
-[New_Yorker_Magazine] Arthur Jafa’s “I Am Tony,” Reviewed
-Published: 2026-10-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/arthur-jafas-odyssey-of-appropriation
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-10-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/the-vanishing-family-the-jews-of-italy-i-made-you-up-inside-my-head-days-and-chances
----
-[New_Yorker_Magazine] Ellen Allien’s Hill of Sound
-Published: 2026-10-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/ellen-alliens-hill-of-sound
----
-[New_Yorker_Magazine] Ernie Bushmiller’s Sunday Morning, Live
-Published: 2026-10-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/ernie-bushmillers-sunday-morning-live
----
-[New_Yorker_Magazine] How Test Engineers Decide What Counts as Good Enough
-Published: 2026-10-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/kobuk-the-destroyer-alex-davies-book-review
----
-[New_Yorker_Magazine] A Woman with a Past
-Published: 2026-10-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/a-self-made-woman
----
-[New_Yorker_Magazine] The Battle for the Post-Trump Right
-Published: 2026-10-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/the-battle-for-the-post-trump-right
----
-[New_Yorker_Magazine] Boo! You’ve Been Buried Alive
-Published: 2026-10-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/boo-youve-been-buried-alive
----
-[New_Yorker_Magazine] How to Fight Your Landlord, the Heel
-Published: 2026-10-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/how-to-fight-your-landlord-the-heel
----
-[New_Yorker_Magazine] Why Is Illness So Hard to Write About?
-Published: 2026-10-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/why-is-illness-so-hard-to-write-about
----
-[New_Yorker_Magazine] Year of the Horse
-Published: 2026-10-05T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/12/year-of-the-horse
 ---
