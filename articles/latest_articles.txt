@@ -1,6 +1,18 @@
-# Last Run: 2026-10-09 05:00 UTC
+# Last Run: 2026-10-09 12:46 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Brazil’s Far-Right Resurgence
+Published: 2026-10-09T12:00:24+00:00
+Link: https://foreignpolicy.com/2026/10/09/brazil-election-far-right-bolsonaro-lula-crime-economy/
+---
+[Foreign_Affairs] Iran’s Theory of Victory
+Published: 2026-10-09T08:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/irans-theory-victory
+---
+[Foreign_Affairs] Trump Is Gutting America’s Core Geopolitical Advantage
+Published: 2026-10-09T08:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/trump-gutting-americas-core-geopolitical-advantage
+---
 [Foreign_Policy] Mecca Pact, Activated
 Published: 2026-10-08T21:49:14+00:00
 Link: https://foreignpolicy.com/2026/10/08/mecca-pact-pakistan-turkey-saudi-houthi-yemen/
@@ -108,16 +120,4 @@ Link: https://foreignpolicy.com/2026/10/06/china-taiwan-political-peaceful-reuni
 [Foreign_Policy] Trump’s Red-Dye Diesel Plan Has a Major Flaw
 Published: 2026-10-06T16:11:52+00:00
 Link: https://foreignpolicy.com/2026/10/06/red-dye-diesel-trump-hormuz-prices-iran-war/
----
-[Foreign_Policy] How Much More Trump Trouble Can Indonesia’s Prabowo Take?
-Published: 2026-10-06T10:08:23+00:00
-Link: https://foreignpolicy.com/2026/10/06/indonesia-prabowo-trump-tariffs-trade-gaza-board-of-peace-controversy/
----
-[Foreign_Affairs] The New Red Sea Wars
-Published: 2026-10-06T08:00:00+00:00
-Link: https://www.foreignaffairs.com/middle-east/new-red-sea-wars
----
-[Foreign_Affairs] The Myth of Military Victory
-Published: 2026-10-06T08:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/myth-military-victory
 ---
