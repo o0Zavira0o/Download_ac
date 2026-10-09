@@ -1,6 +1,14 @@
-# Last Run: 2026-10-09 19:22 UTC
+# Last Run: 2026-10-09 23:54 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Nobel Peace Prize Goes to Former ICC Judge
+Published: 2026-10-09T20:51:18+00:00
+Link: https://foreignpolicy.com/2026/10/09/nobel-peace-prize-navi-pillay-icc-israel-genocide-gaza-us-trump-sanctions/
+---
+[Foreign_Policy] The Global Diesel Crisis, Explained
+Published: 2026-10-09T19:21:33+00:00
+Link: https://foreignpolicy.com/2026/10/09/diesel-crisis-oil-fuel-refineries-iran-ukraine-war/
+---
 [Foreign_Policy] Arnold Toynbee’s Chinese Century
 Published: 2026-10-09T19:00:50+00:00
 Link: https://foreignpolicy.com/2026/10/09/china-history-decline-toynbee-spengler/
@@ -8,6 +16,10 @@ Link: https://foreignpolicy.com/2026/10/09/china-history-decline-toynbee-spengle
 [Foreign_Policy] Russian Sabotage in Europe Is No Longer ‘Symbolic’
 Published: 2026-10-09T18:51:28+00:00
 Link: https://foreignpolicy.com/2026/10/09/russia-sabotage-europe-attacks-hybrid-warfare-estonia/
+---
+[Foreign_Policy] The United States Is Not Ready for the Arctic Age
+Published: 2026-10-09T18:40:37+00:00
+Link: https://foreignpolicy.com/2026/10/09/arctic-russia-china-canada-energy-icebreakers/
 ---
 [Foreign_Policy] How Italy Spawned the Western Far Right
 Published: 2026-10-09T18:20:38+00:00
@@ -116,20 +128,4 @@ Link: https://www.foreignaffairs.com/africa/two-africas
 [Foreign_Policy] What Does China’s New Military Base in Laos Mean?
 Published: 2026-10-07T05:00:17+00:00
 Link: https://foreignpolicy.com/2026/10/07/china-military-base-laos-vientiane/
----
-[Foreign_Policy] How to Avoid Disaster in the Next Iran War
-Published: 2026-10-06T20:27:22+00:00
-Link: https://foreignpolicy.com/2026/10/06/iran-war-hormuz-oil-missile-defense-drones-gulf/
----
-[Foreign_Policy] Pakistan, Saudi Arabia, Turkey Trigger Mutual Defense Pact
-Published: 2026-10-06T20:18:47+00:00
-Link: https://foreignpolicy.com/2026/10/06/saudi-arabia-turkey-pakistan-mutual-defense-pact-houthi-yemen-attacks/
----
-[Foreign_Policy] Why Chinese Parents Don’t Want Two Kids
-Published: 2026-10-06T20:05:15+00:00
-Link: https://foreignpolicy.com/2026/10/06/china-birth-rate-pregnancy-fertility-children-parenting-costs/
----
-[Foreign_Policy] What’s Freezing the U.S. Housing Market?
-Published: 2026-10-06T19:28:43+00:00
-Link: https://foreignpolicy.com/2026/10/06/us-housing-market-frozen-ai-interest-rates-economics/
 ---
