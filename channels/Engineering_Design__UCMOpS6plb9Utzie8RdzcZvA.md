@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-08T16:20:27Z_
+_آخرین به‌روزرسانی: 2026-10-09T16:04:06Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-09 02:54:08 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [The Wobbling Disc Mechanism is pure hypnosis! 😵⚙️](https://www.youtube.com/watch?v=CrBj4RAQot8)  
+  ![](https://i.ytimg.com/vi/CrBj4RAQot8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-08 02:33:56 (UTC)  
@@ -20,7 +26,7 @@ _آخرین به‌روزرسانی: 2026-10-08T16:20:27Z_
 
 - **تاریخ انتشار:** 2026-10-06 12:30:40 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Power Transmission Mechanism📌#shorts #3ddesign #engineering](https://www.youtube.com/watch?v=Kj4DRpC23p0)  
+  **عنوان:** [🤯 This 90° Drive Uses ZERO Gears! (Almond Coupling)](https://www.youtube.com/watch?v=Kj4DRpC23p0)  
   ![](https://i.ytimg.com/vi/Kj4DRpC23p0/hqdefault.jpg)
 
 
@@ -740,7 +746,7 @@ _آخرین به‌روزرسانی: 2026-10-08T16:20:27Z_
 
 - **تاریخ انتشار:** 2026-02-02 12:09:32 (UTC)  
   **مدت:** حدود 16.4 دقیقه  
-  **عنوان:** [Gear Fidget Spinner Assembly and Animation in Solidworks | Solidworks Tutorial](https://www.youtube.com/watch?v=rx-J1DLJLQw)  
+  **عنوان:** [Build a Gear Fidget Spinner: SolidWorks Assembly Guide](https://www.youtube.com/watch?v=rx-J1DLJLQw)  
   ![](https://i.ytimg.com/vi/rx-J1DLJLQw/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-08T16:20:27Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [✅How to Use Trim Body in Weldments❓| SolidWorks Structural Member](https://www.youtube.com/watch?v=04om884VUGY)  
   ![](https://i.ytimg.com/vi/04om884VUGY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-18 05:55:33 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [How to Make a Wheel in SolidWorks 🛞 | Easy CAD Tutorial #Shorts](https://www.youtube.com/watch?v=81jzmw7-tsQ)  
-  ![](https://i.ytimg.com/vi/81jzmw7-tsQ/hqdefault.jpg)

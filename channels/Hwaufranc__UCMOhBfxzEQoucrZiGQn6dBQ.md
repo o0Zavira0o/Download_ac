@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-08T16:20:27Z_
+_آخرین به‌روزرسانی: 2026-10-09T16:04:06Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
@@ -106,7 +106,7 @@ _آخرین به‌روزرسانی: 2026-10-08T16:20:27Z_
 
 - **تاریخ انتشار:** 2026-09-21 12:20:33 (UTC)  
   **مدت:** حدود 62.8 دقیقه  
-  **عنوان:** [ASMR 다이어리 꾸미기 일주일치📚 몰아보기 | 아트 다꾸 Art Journal Binge Watch コラージュ diy 만들기](https://www.youtube.com/watch?v=bYLzgVzJRxQ)  
+  **عنوان:** [ASMR 다이어리 꾸미기 일주일치📚 몰아보기 | 아트 다꾸 Art Journal Compilation コラージュ diy 만들기](https://www.youtube.com/watch?v=bYLzgVzJRxQ)  
   ![](https://i.ytimg.com/vi/bYLzgVzJRxQ/hqdefault.jpg)
 
 
