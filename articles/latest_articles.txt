@@ -1,6 +1,26 @@
-# Last Run: 2026-10-09 12:46 UTC
+# Last Run: 2026-10-09 19:22 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Arnold Toynbee’s Chinese Century
+Published: 2026-10-09T19:00:50+00:00
+Link: https://foreignpolicy.com/2026/10/09/china-history-decline-toynbee-spengler/
+---
+[Foreign_Policy] Russian Sabotage in Europe Is No Longer ‘Symbolic’
+Published: 2026-10-09T18:51:28+00:00
+Link: https://foreignpolicy.com/2026/10/09/russia-sabotage-europe-attacks-hybrid-warfare-estonia/
+---
+[Foreign_Policy] How Italy Spawned the Western Far Right
+Published: 2026-10-09T18:20:38+00:00
+Link: https://foreignpolicy.com/2026/10/09/italy-far-right-book-review-nyt-rome-correspondent/
+---
+[Foreign_Policy] What Life Was Like for a Jewish Artist in 1930s Berlin
+Published: 2026-10-09T18:00:03+00:00
+Link: https://foreignpolicy.com/2026/10/09/international-fiction-releases-yiyun-li-music-against-night-rebecca-birrell-venus-vanishing/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-10-09T17:15:31+00:00
+Link: https://foreignpolicy.com/2026/10/09/news-quiz-pakistan-protest-spain-election-sanchez-ebola-nobel-prize/
+---
 [Foreign_Policy] Brazil’s Far-Right Resurgence
 Published: 2026-10-09T12:00:24+00:00
 Link: https://foreignpolicy.com/2026/10/09/brazil-election-far-right-bolsonaro-lula-crime-economy/
@@ -112,12 +132,4 @@ Link: https://foreignpolicy.com/2026/10/06/china-birth-rate-pregnancy-fertility-
 [Foreign_Policy] What’s Freezing the U.S. Housing Market?
 Published: 2026-10-06T19:28:43+00:00
 Link: https://foreignpolicy.com/2026/10/06/us-housing-market-frozen-ai-interest-rates-economics/
----
-[Foreign_Policy] China Doesn’t Need to Invade Taiwan to Control It
-Published: 2026-10-06T19:19:55+00:00
-Link: https://foreignpolicy.com/2026/10/06/china-taiwan-political-peaceful-reunification/
----
-[Foreign_Policy] Trump’s Red-Dye Diesel Plan Has a Major Flaw
-Published: 2026-10-06T16:11:52+00:00
-Link: https://foreignpolicy.com/2026/10/06/red-dye-diesel-trump-hormuz-prices-iran-war/
 ---
