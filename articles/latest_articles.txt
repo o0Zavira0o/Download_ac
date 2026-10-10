@@ -1,4 +1,4 @@
-# Last Run: 2026-10-10 12:08 UTC
+# Last Run: 2026-10-10 18:17 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Nobel Peace Prize Goes to Former ICC Judge
@@ -108,8 +108,4 @@ Link: https://foreignpolicy.com/2026/10/07/china-us-open-source-ai-race-governme
 [Foreign_Policy] Can Regional Powers Prevent Ethiopia’s Conflict From Spreading?
 Published: 2026-10-07T19:45:44+00:00
 Link: https://foreignpolicy.com/2026/10/07/ethiopia-tigray-conflict-regional-impact-spread-tplf/
----
-[Foreign_Policy] Here’s What to Do About Trump’s War Crimes
-Published: 2026-10-07T12:32:05+00:00
-Link: https://foreignpolicy.com/2026/10/07/trump-united-nations-war-crimes-democrats-accountability/
 ---
