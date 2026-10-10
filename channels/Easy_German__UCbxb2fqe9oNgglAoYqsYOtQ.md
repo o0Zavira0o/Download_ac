@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-09T16:04:06Z_
+_آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-09 17:23:26 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Das Geheimnis eurer Freundschaft](https://www.youtube.com/watch?v=bbZQEjwtNMw)  
+  ![](https://i.ytimg.com/vi/bbZQEjwtNMw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-08 12:46:13 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-09T16:04:06Z_
   **مدت:** حدود 2.9 دقیقه  
   **عنوان:** [At the boarding school | Super Easy German (29)](https://www.youtube.com/watch?v=ZnvIb_vvvPA)  
   ![](https://i.ytimg.com/vi/ZnvIb_vvvPA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-23 17:59:55 (UTC)  
-  **مدت:** حدود 14.7 دقیقه  
-  **عنوان:** [What's typical German? | Easy German 192](https://www.youtube.com/watch?v=0w67eHrJMEc)  
-  ![](https://i.ytimg.com/vi/0w67eHrJMEc/hqdefault.jpg)

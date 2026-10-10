@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-10-09T16:04:06Z_
+_آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-10-10 10:00:22 (UTC)  
+  **مدت:** حدود 19.0 دقیقه  
+  **عنوان:** [47,HERCULES BEETLE | Black & Matte Gold 2-Sheet Origami | Silent Origamiヘラクレスオオカブト黒とマットゴールドの折り紙2枚で折る](https://www.youtube.com/watch?v=dc5bEbGdH8Y)  
+  ![](https://i.ytimg.com/vi/dc5bEbGdH8Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-03 10:00:06 (UTC)  

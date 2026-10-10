@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-09T16:04:06Z_
+_آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-10 13:00:26 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [스탬프 다꾸 ASMR☠️ Stamp on it  コラージュ #diy꾸미기 #스탬프아트 #asmr](https://www.youtube.com/watch?v=UPNH0vdZsOE)  
+  ![](https://i.ytimg.com/vi/UPNH0vdZsOE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-10 01:30:00 (UTC)  
+  **مدت:** حدود 62.5 دقیقه  
+  **عنوان:** [ASMR 주말엔 다이어리 꾸미기 일주일치📜시청 | 아트 다꾸 Art Journal Compilation コラージュ](https://www.youtube.com/watch?v=wUplNQM1PSg)  
+  ![](https://i.ytimg.com/vi/wUplNQM1PSg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-08 14:25:20 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-09T16:04:06Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [Decorating a tag with stamps #diy #craft #asmr #shorts](https://www.youtube.com/watch?v=g60n7Wzj3_8)  
   ![](https://i.ytimg.com/vi/g60n7Wzj3_8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-20 08:47:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [#journal #asmr #skeleton #scrapbook #diy #paperart](https://www.youtube.com/watch?v=kGzo-l3Bpq4)  
-  ![](https://i.ytimg.com/vi/kGzo-l3Bpq4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-19 11:22:00 (UTC)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Satisfying Unboxing 🫖 #shorts #rubberstamp](https://www.youtube.com/watch?v=i3JDhSx6ELc)  
-  ![](https://i.ytimg.com/vi/i3JDhSx6ELc/hqdefault.jpg)

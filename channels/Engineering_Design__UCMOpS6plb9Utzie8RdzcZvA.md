@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-09T16:04:06Z_
+_آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-10 12:05:33 (UTC)  
+  **مدت:** حدود 5.1 دقیقه  
+  **عنوان:** [SolidWorks Toggle Clamp Assembly Tutorial | 3D Modeling Step by Step + JLCMC](https://www.youtube.com/watch?v=lPValrgLpYU)  
+  ![](https://i.ytimg.com/vi/lPValrgLpYU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-10 03:19:28 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [I Built a Real-Life Cybernetic Hummingbird (It Actually Flies!)](https://www.youtube.com/watch?v=iaW5MlZM-Kc)  
+  ![](https://i.ytimg.com/vi/iaW5MlZM-Kc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-09 02:54:08 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-09T16:04:06Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [Use Sweep Boss/Base Command | Solidworks Tips](https://www.youtube.com/watch?v=EiQe50V4V98)  
   ![](https://i.ytimg.com/vi/EiQe50V4V98/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-20 02:37:39 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [✅How to Use Revolved Cut Command | Solidworks Tips](https://www.youtube.com/watch?v=qVVKZ5vNsIE)  
-  ![](https://i.ytimg.com/vi/qVVKZ5vNsIE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-19 11:43:44 (UTC)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [✅How to Use Trim Body in Weldments❓| SolidWorks Structural Member](https://www.youtube.com/watch?v=04om884VUGY)  
-  ![](https://i.ytimg.com/vi/04om884VUGY/hqdefault.jpg)
