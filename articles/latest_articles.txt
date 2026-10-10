@@ -1,4 +1,4 @@
-# Last Run: 2026-10-10 04:46 UTC
+# Last Run: 2026-10-10 12:08 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Nobel Peace Prize Goes to Former ICC Judge
@@ -112,20 +112,4 @@ Link: https://foreignpolicy.com/2026/10/07/ethiopia-tigray-conflict-regional-imp
 [Foreign_Policy] Here’s What to Do About Trump’s War Crimes
 Published: 2026-10-07T12:32:05+00:00
 Link: https://foreignpolicy.com/2026/10/07/trump-united-nations-war-crimes-democrats-accountability/
----
-[Foreign_Policy] China’s AI Rollout Has No Off Switch
-Published: 2026-10-07T11:20:15+00:00
-Link: https://foreignpolicy.com/2026/10/07/china-ai-race-artificial-intelligence-safety-models-kill-switch/
----
-[Foreign_Affairs] Russia’s Hybrid War Has Entered a Dangerous New Phase
-Published: 2026-10-07T08:00:00+00:00
-Link: https://www.foreignaffairs.com/russia/russias-hybrid-war-has-entered-dangerous-new-phase
----
-[Foreign_Affairs] The Two Africas
-Published: 2026-10-07T08:00:00+00:00
-Link: https://www.foreignaffairs.com/africa/two-africas
----
-[Foreign_Policy] What Does China’s New Military Base in Laos Mean?
-Published: 2026-10-07T05:00:17+00:00
-Link: https://foreignpolicy.com/2026/10/07/china-military-base-laos-vientiane/
 ---
