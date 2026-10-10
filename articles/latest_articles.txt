@@ -1,4 +1,4 @@
-# Last Run: 2026-10-10 18:17 UTC
+# Last Run: 2026-10-10 23:25 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Nobel Peace Prize Goes to Former ICC Judge
@@ -92,20 +92,4 @@ Link: https://www.foreignaffairs.com/united-states/case-economic-espionage-david
 [Foreign_Policy] The Leverage Middle Powers Have in the AI Race
 Published: 2026-10-08T04:01:13+00:00
 Link: https://foreignpolicy.com/2026/10/08/leverage-middle-powers-ai-race/
----
-[Foreign_Policy] Pakistan’s Opposition on the March
-Published: 2026-10-07T21:36:17+00:00
-Link: https://foreignpolicy.com/2026/10/07/pakistan-imran-khan-opposition-long-march-islamabad/
----
-[Foreign_Policy] IMF Chief Issues Stark Economic Warning for 2027
-Published: 2026-10-07T21:34:20+00:00
-Link: https://foreignpolicy.com/2026/10/07/imf-speech-georgieva-economy-energy-oil-yields-ai-inflation/
----
-[Foreign_Policy] China Might Lap the United States on AI Adoption
-Published: 2026-10-07T20:29:31+00:00
-Link: https://foreignpolicy.com/2026/10/07/china-us-open-source-ai-race-government-adoption/
----
-[Foreign_Policy] Can Regional Powers Prevent Ethiopia’s Conflict From Spreading?
-Published: 2026-10-07T19:45:44+00:00
-Link: https://foreignpolicy.com/2026/10/07/ethiopia-tigray-conflict-regional-impact-spread-tplf/
 ---
