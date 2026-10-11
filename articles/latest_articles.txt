@@ -1,6 +1,18 @@
-# Last Run: 2026-10-11 04:31 UTC
+# Last Run: 2026-10-11 12:19 UTC
 # Articles published in last 72 hours
 
+[New_Yorker_Magazine] “Chuck Murphy’s Last Run,” by Kevin Barry
+Published: 2026-10-11T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/chuck-murphys-last-run-fiction-kevin-barry
+---
+[New_Yorker_Magazine] Donald Trump After the Midterms
+Published: 2026-10-11T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/donald-trump-after-the-midterms
+---
+[New_Yorker_Magazine] Kash Patel’s Slap Shot
+Published: 2026-10-10T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/kash-patels-slap-shot
+---
 [Foreign_Policy] Nobel Peace Prize Goes to Former ICC Judge
 Published: 2026-10-09T20:51:18+00:00
 Link: https://foreignpolicy.com/2026/10/09/nobel-peace-prize-navi-pillay-icc-israel-genocide-gaza-us-trump-sanctions/
@@ -36,6 +48,10 @@ Link: https://foreignpolicy.com/2026/10/09/news-quiz-pakistan-protest-spain-elec
 [Foreign_Policy] Brazil’s Far-Right Resurgence
 Published: 2026-10-09T12:00:24+00:00
 Link: https://foreignpolicy.com/2026/10/09/brazil-election-far-right-bolsonaro-lula-crime-economy/
+---
+[New_Yorker_Magazine] The Vertiginous Revelations of “You Can See Everything”
+Published: 2026-10-09T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/you-can-see-everything-movie-review
 ---
 [Foreign_Affairs] Iran’s Theory of Victory
 Published: 2026-10-09T08:00:00+00:00
@@ -80,12 +96,4 @@ Link: https://foreignpolicy.com/2026/10/08/ai-jagged-super-intelligence-mistakes
 [Foreign_Policy] America’s Best Answer to the China-Russia Alliance
 Published: 2026-10-08T17:13:51+00:00
 Link: https://foreignpolicy.com/2026/10/08/russia-china-alliance-united-states-xi-putin/
----
-[Foreign_Affairs] The End of Gaza
-Published: 2026-10-08T08:00:00+00:00
-Link: https://www.foreignaffairs.com/palestinian-territories/end-gaza
----
-[Foreign_Affairs] The Case for Economic Espionage
-Published: 2026-10-08T08:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/case-economic-espionage-david-cohen
 ---
