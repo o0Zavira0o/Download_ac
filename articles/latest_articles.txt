@@ -1,4 +1,4 @@
-# Last Run: 2026-10-10 23:25 UTC
+# Last Run: 2026-10-11 04:31 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Nobel Peace Prize Goes to Former ICC Judge
@@ -88,8 +88,4 @@ Link: https://www.foreignaffairs.com/palestinian-territories/end-gaza
 [Foreign_Affairs] The Case for Economic Espionage
 Published: 2026-10-08T08:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/case-economic-espionage-david-cohen
----
-[Foreign_Policy] The Leverage Middle Powers Have in the AI Race
-Published: 2026-10-08T04:01:13+00:00
-Link: https://foreignpolicy.com/2026/10/08/leverage-middle-powers-ai-race/
 ---
