@@ -1,4 +1,4 @@
-# Last Run: 2026-10-11 18:42 UTC
+# Last Run: 2026-10-11 23:32 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] “Chuck Murphy’s Last Run,” by Kevin Barry
@@ -60,32 +60,4 @@ Link: https://www.foreignaffairs.com/iran/irans-theory-victory
 [Foreign_Affairs] Trump Is Gutting America’s Core Geopolitical Advantage
 Published: 2026-10-09T08:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/trump-gutting-americas-core-geopolitical-advantage
----
-[Foreign_Policy] Mecca Pact, Activated
-Published: 2026-10-08T21:49:14+00:00
-Link: https://foreignpolicy.com/2026/10/08/mecca-pact-pakistan-turkey-saudi-houthi-yemen/
----
-[Foreign_Policy] How America and China Compare on AI
-Published: 2026-10-08T21:00:00+00:00
-Link: https://foreignpolicy.com/2026/10/08/united-states-china-ai-artificial-intelligence-race-winning-matt-sheehan/
----
-[Foreign_Policy] Trump Is Reopening the Middle East’s Deadliest Sectarian Fault Lines
-Published: 2026-10-08T20:34:49+00:00
-Link: https://foreignpolicy.com/2026/10/08/iraq-trump-sectarian-war/
----
-[Foreign_Policy] The Next Iran War Is This Iran War
-Published: 2026-10-08T19:57:39+00:00
-Link: https://foreignpolicy.com/2026/10/08/next-iran-war-regime-change/
----
-[Foreign_Policy] To Understand France’s Unrest, Look Back to 1982
-Published: 2026-10-08T19:44:15+00:00
-Link: https://foreignpolicy.com/2026/10/08/france-protests-macron-europe-history-mitterrand-economy/
----
-[Foreign_Policy] Where the Saudi-Houthi War Stands Now
-Published: 2026-10-08T19:28:55+00:00
-Link: https://foreignpolicy.com/2026/10/08/houthis-yemen-war-saudi-arabia-airport-oil-strikes-pakistan-turkey-syria/
----
-[Foreign_Policy] Can a New Credit Rating Agency Help Africans Borrow at Better Rates?
-Published: 2026-10-08T19:19:50+00:00
-Link: https://foreignpolicy.com/2026/10/08/africa-credit-rating-agency-borrowing-debt/
 ---
