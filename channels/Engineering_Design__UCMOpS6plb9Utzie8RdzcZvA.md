@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
+_آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-11 04:30:55 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Why Engineers Prefer Toggle Clamps Over Vises 🛠️ #shorts](https://www.youtube.com/watch?v=MJiwiA1ofmU)  
+  ![](https://i.ytimg.com/vi/MJiwiA1ofmU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-10 12:05:33 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
   **مدت:** حدود 7.5 دقیقه  
   **عنوان:** [Root Blower (Pump) Assembly and Animation in Solidworks](https://www.youtube.com/watch?v=8fnVOmca6Gg)  
   ![](https://i.ytimg.com/vi/8fnVOmca6Gg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-21 03:00:04 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Use Sweep Boss/Base Command | Solidworks Tips](https://www.youtube.com/watch?v=EiQe50V4V98)  
-  ![](https://i.ytimg.com/vi/EiQe50V4V98/hqdefault.jpg)

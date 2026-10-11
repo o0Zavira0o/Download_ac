@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
+_آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-10-11 06:40:02 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Tangent Fillet in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=THhMHhY9r0E)  
+  ![](https://i.ytimg.com/vi/THhMHhY9r0E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-07 02:40:43 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
   **مدت:** حدود 2.7 دقیقه  
   **عنوان:** [Honeycomb pattern in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=5C_rMvQSDl0)  
   ![](https://i.ytimg.com/vi/5C_rMvQSDl0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-05 03:08:18 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Learn solidworks basic to advance absolutely FREE 😃 #shorts #ytshorts #solidworks #cad](https://www.youtube.com/watch?v=y9ryNmDguzY)  
-  ![](https://i.ytimg.com/vi/y9ryNmDguzY/hqdefault.jpg)

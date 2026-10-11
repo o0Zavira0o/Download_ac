@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
+_آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-10 17:32:12 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Wie kann man sich politisch engagieren?](https://www.youtube.com/watch?v=WiEf_yYvJw0)  
+  ![](https://i.ytimg.com/vi/WiEf_yYvJw0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-09 17:23:26 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
   **مدت:** حدود 9.2 دقیقه  
   **عنوان:** [Your favorite Philosopher | Easy German 193](https://www.youtube.com/watch?v=E-EvyNaCMcQ)  
   ![](https://i.ytimg.com/vi/E-EvyNaCMcQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-26 20:52:31 (UTC)  
-  **مدت:** حدود 2.9 دقیقه  
-  **عنوان:** [At the boarding school | Super Easy German (29)](https://www.youtube.com/watch?v=ZnvIb_vvvPA)  
-  ![](https://i.ytimg.com/vi/ZnvIb_vvvPA/hqdefault.jpg)

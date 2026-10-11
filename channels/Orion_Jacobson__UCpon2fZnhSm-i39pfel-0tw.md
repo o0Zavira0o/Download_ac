@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Orion Jacobson 
 
-_آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
+_آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
 
 
 **لینک استاندارد کانال:** [Orion Jacobson ](https://www.youtube.com/channel/UCpon2fZnhSm-i39pfel-0tw)  

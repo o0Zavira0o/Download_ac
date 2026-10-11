@@ -1,15 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
+_آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
 
 
-- **تاریخ انتشار:** 2026-10-08 03:30:15 (UTC)  
-  **مدت:** حدود 46.0 دقیقه  
-  **عنوان:** [Housing Modeling in SolidWorks (Tapped Hole, Combine Features)](https://www.youtube.com/watch?v=D942hpZGmWw)  
-  ![](https://i.ytimg.com/vi/D942hpZGmWw/hqdefault.jpg)
+- **تاریخ انتشار:** 2026-10-11 15:06:14 (UTC)  
+  **مدت:** حدود 59.0 دقیقه  
+  **عنوان:** [Enclosure Modeling in SolidWorks (Tapped Hole, Revolved Cut)](https://www.youtube.com/watch?v=xUciO5h5FLI)  
+  ![](https://i.ytimg.com/vi/xUciO5h5FLI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-06 03:30:15 (UTC)  

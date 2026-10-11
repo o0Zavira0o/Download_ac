@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
+_آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/jeremyethier  
+
+
+- **تاریخ انتشار:** 2026-10-11 13:30:03 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [How Often Should You Work Out? (EXPERIMENT)](https://www.youtube.com/watch?v=wI2WVevL_lk)  
+  ![](https://i.ytimg.com/vi/wI2WVevL_lk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-27 13:30:37 (UTC)  
@@ -124,7 +130,7 @@ _آخرین به‌روزرسانی: 2026-10-10T15:12:26Z_
 
 - **تاریخ انتشار:** 2026-01-03 15:00:51 (UTC)  
   **مدت:** حدود 20.7 دقیقه  
-  **عنوان:** [If I Wanted to Get Shredded By Christmas, I'd Do This](https://www.youtube.com/watch?v=QyCFeB8mBz8)  
+  **عنوان:** [If I Wanted to Get Shredded In 2027, I'd Do This](https://www.youtube.com/watch?v=QyCFeB8mBz8)  
   ![](https://i.ytimg.com/vi/QyCFeB8mBz8/hqdefault.jpg)
 
 
