@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
+_آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,7 +10,7 @@ _آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
 
 - **تاریخ انتشار:** 2026-10-11 13:30:03 (UTC)  
   **مدت:** حدود 16.4 دقیقه  
-  **عنوان:** [How Often Should You Work Out? (EXPERIMENT)](https://www.youtube.com/watch?v=wI2WVevL_lk)  
+  **عنوان:** [I Proved (Almost) Everyone Is Wasting Time In The Gym](https://www.youtube.com/watch?v=wI2WVevL_lk)  
   ![](https://i.ytimg.com/vi/wI2WVevL_lk/hqdefault.jpg)
 
 

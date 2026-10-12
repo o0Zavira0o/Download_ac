@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
+_آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-12 11:44:19 (UTC)  
+  **مدت:** حدود 8.1 دقیقه  
+  **عنوان:** [SolidWorks Furniture Design Tutorial | Hexagon Shelf 3D Modeling Step-by-Step](https://www.youtube.com/watch?v=ADPPeUXgHYM)  
+  ![](https://i.ytimg.com/vi/ADPPeUXgHYM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-12 03:00:05 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [Designing a DIY Toggle Clamp with JLCMC!](https://www.youtube.com/watch?v=6p1dWeqSgEw)  
+  ![](https://i.ytimg.com/vi/6p1dWeqSgEw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-11 04:30:55 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [How to Make a Jewelry Ring in SolidWorks](https://www.youtube.com/watch?v=d9VL-p9k1y8)  
   ![](https://i.ytimg.com/vi/d9VL-p9k1y8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-22 12:23:47 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [✅How to Use Sweep Boss/Base with Thin Feature in SolidWorks | Quick Tips & Tricks](https://www.youtube.com/watch?v=TeSDp6bUU4w)  
-  ![](https://i.ytimg.com/vi/TeSDp6bUU4w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-21 12:12:16 (UTC)  
-  **مدت:** حدود 7.5 دقیقه  
-  **عنوان:** [Root Blower (Pump) Assembly and Animation in Solidworks](https://www.youtube.com/watch?v=8fnVOmca6Gg)  
-  ![](https://i.ytimg.com/vi/8fnVOmca6Gg/hqdefault.jpg)

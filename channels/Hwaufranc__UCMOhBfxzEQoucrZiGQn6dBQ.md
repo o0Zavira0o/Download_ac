@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
+_آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-12 14:35:07 (UTC)  
+  **مدت:** حدود 11.3 دقیقه  
+  **عنوان:** [다꾸 ASMR 빈티지 저널책 아트Time🕛 다이어리 꾸미기 : 아트 다꾸 Art Journal コラージュ diy 꾸미기](https://www.youtube.com/watch?v=PqT0R3OJmlM)  
+  ![](https://i.ytimg.com/vi/PqT0R3OJmlM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-11 13:40:35 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
   **مدت:** حدود 11.2 دقیقه  
   **عنوان:** [Scrapbook ASMR 🌿 Compilation : Scrapbooking diy Sounds](https://www.youtube.com/watch?v=t7trjfmtbcM)  
   ![](https://i.ytimg.com/vi/t7trjfmtbcM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-21 13:25:00 (UTC)  
-  **مدت:** حدود 9.3 دقیقه  
-  **عنوان:** [journal asmr | Vineyards Theme Journaling 🍇 Relaxing Sounds](https://www.youtube.com/watch?v=vfdIlwvs3mM)  
-  ![](https://i.ytimg.com/vi/vfdIlwvs3mM/hqdefault.jpg)

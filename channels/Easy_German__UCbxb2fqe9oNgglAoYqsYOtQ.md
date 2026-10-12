@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
+_آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-12 12:59:19 (UTC)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Deutsche Comedians](https://www.youtube.com/watch?v=6WV-0PPJNdI)  
+  ![](https://i.ytimg.com/vi/6WV-0PPJNdI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-11 17:00:32 (UTC)  
+  **مدت:** حدود 15.6 دقیقه  
+  **عنوان:** [When You Are Afraid to Make Mistakes in German](https://www.youtube.com/watch?v=RbtIMGCizu0)  
+  ![](https://i.ytimg.com/vi/RbtIMGCizu0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-10 17:32:12 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-11T15:32:23Z_
   **مدت:** حدود 8.1 دقیقه  
   **عنوان:** [At a German Bakery | Easy German 194](https://www.youtube.com/watch?v=1liYgLugZNs)  
   ![](https://i.ytimg.com/vi/1liYgLugZNs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-03 20:55:25 (UTC)  
-  **مدت:** حدود 6.2 دقیقه  
-  **عنوان:** [Schlesische Rouladen kochen | Super Easy German (30)](https://www.youtube.com/watch?v=4x-IcEV3wvA)  
-  ![](https://i.ytimg.com/vi/4x-IcEV3wvA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-30 16:59:00 (UTC)  
-  **مدت:** حدود 9.2 دقیقه  
-  **عنوان:** [Your favorite Philosopher | Easy German 193](https://www.youtube.com/watch?v=E-EvyNaCMcQ)  
-  ![](https://i.ytimg.com/vi/E-EvyNaCMcQ/hqdefault.jpg)
