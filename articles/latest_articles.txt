@@ -1,4 +1,4 @@
-# Last Run: 2026-10-12 14:41 UTC
+# Last Run: 2026-10-12 22:48 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Congress Can Do More to Curb Kushner’s Conflicts of Interest
@@ -40,36 +40,4 @@ Link: https://www.newyorker.com/magazine/2026/10/19/donald-trump-after-the-midte
 [New_Yorker_Magazine] Kash Patel’s Slap Shot
 Published: 2026-10-10T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/19/kash-patels-slap-shot
----
-[Foreign_Policy] Nobel Peace Prize Goes to Former ICC Judge
-Published: 2026-10-09T20:51:18+00:00
-Link: https://foreignpolicy.com/2026/10/09/nobel-peace-prize-navi-pillay-icc-israel-genocide-gaza-us-trump-sanctions/
----
-[Foreign_Policy] The Global Diesel Crisis, Explained
-Published: 2026-10-09T19:21:33+00:00
-Link: https://foreignpolicy.com/2026/10/09/diesel-crisis-oil-fuel-refineries-iran-ukraine-war/
----
-[Foreign_Policy] Arnold Toynbee’s Chinese Century
-Published: 2026-10-09T19:00:50+00:00
-Link: https://foreignpolicy.com/2026/10/09/china-history-decline-toynbee-spengler/
----
-[Foreign_Policy] Russian Sabotage in Europe Is No Longer ‘Symbolic’
-Published: 2026-10-09T18:51:28+00:00
-Link: https://foreignpolicy.com/2026/10/09/russia-sabotage-europe-attacks-hybrid-warfare-estonia/
----
-[Foreign_Policy] The United States Is Not Ready for the Arctic Age
-Published: 2026-10-09T18:40:37+00:00
-Link: https://foreignpolicy.com/2026/10/09/arctic-russia-china-canada-energy-icebreakers/
----
-[Foreign_Policy] How Italy Spawned the Western Far Right
-Published: 2026-10-09T18:20:38+00:00
-Link: https://foreignpolicy.com/2026/10/09/italy-far-right-book-review-nyt-rome-correspondent/
----
-[Foreign_Policy] What Life Was Like for a Jewish Artist in 1930s Berlin
-Published: 2026-10-09T18:00:03+00:00
-Link: https://foreignpolicy.com/2026/10/09/international-fiction-releases-yiyun-li-music-against-night-rebecca-birrell-venus-vanishing/
----
-[Foreign_Policy] What in the World?
-Published: 2026-10-09T17:15:31+00:00
-Link: https://foreignpolicy.com/2026/10/09/news-quiz-pakistan-protest-spain-election-sanchez-ebola-nobel-prize/
 ---
