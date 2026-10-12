@@ -1,6 +1,34 @@
-# Last Run: 2026-10-12 04:45 UTC
+# Last Run: 2026-10-12 14:41 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Congress Can Do More to Curb Kushner’s Conflicts of Interest
+Published: 2026-10-12T13:09:36+00:00
+Link: https://foreignpolicy.com/2026/10/12/congress-kushner-corruption-saudi-israel-russia/
+---
+[Foreign_Policy] Messi on Their Mind, Argentines Still Hold Maradona in Their Hearts
+Published: 2026-10-12T12:45:24+00:00
+Link: https://foreignpolicy.com/2026/10/12/messi-maradona-argentina-world-cup-soccer-football/
+---
+[Foreign_Policy] Can Brussels Budget Like a Superpower?
+Published: 2026-10-12T11:00:04+00:00
+Link: https://foreignpolicy.com/2026/10/12/eu-financial-framework-budget-russia-trump/
+---
+[Foreign_Policy] The Real Footprint of Trump’s Data Center Boom
+Published: 2026-10-12T10:00:29+00:00
+Link: https://foreignpolicy.com/2026/10/12/data-center-energy-water-land-pollution/
+---
+[Foreign_Policy] From Xinjiang to the Front Lines of Syria
+Published: 2026-10-12T09:00:23+00:00
+Link: https://foreignpolicy.com/2026/10/12/uyghur-xinjiang-china-syria-civil-war-fighters-training/
+---
+[Foreign_Affairs] America Shouldn’t Let Go of the Middle East
+Published: 2026-10-12T08:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/america-shouldnt-let-go-middle-east-phil-gordon
+---
+[Foreign_Affairs] Chinese Robots Could Decide the AI Race
+Published: 2026-10-12T08:00:00+00:00
+Link: https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race
+---
 [New_Yorker_Magazine] “Chuck Murphy’s Last Run,” by Kevin Barry
 Published: 2026-10-11T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/19/chuck-murphys-last-run-fiction-kevin-barry
@@ -44,20 +72,4 @@ Link: https://foreignpolicy.com/2026/10/09/international-fiction-releases-yiyun-
 [Foreign_Policy] What in the World?
 Published: 2026-10-09T17:15:31+00:00
 Link: https://foreignpolicy.com/2026/10/09/news-quiz-pakistan-protest-spain-election-sanchez-ebola-nobel-prize/
----
-[Foreign_Policy] Brazil’s Far-Right Resurgence
-Published: 2026-10-09T12:00:24+00:00
-Link: https://foreignpolicy.com/2026/10/09/brazil-election-far-right-bolsonaro-lula-crime-economy/
----
-[New_Yorker_Magazine] The Vertiginous Revelations of “You Can See Everything”
-Published: 2026-10-09T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/you-can-see-everything-movie-review
----
-[Foreign_Affairs] Iran’s Theory of Victory
-Published: 2026-10-09T08:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/irans-theory-victory
----
-[Foreign_Affairs] Trump Is Gutting America’s Core Geopolitical Advantage
-Published: 2026-10-09T08:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/trump-gutting-americas-core-geopolitical-advantage
 ---
