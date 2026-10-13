@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
+_آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-13 16:34:44 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Tipps für die Wohnungssuche in München](https://www.youtube.com/watch?v=rSmbb182z-U)  
+  ![](https://i.ytimg.com/vi/rSmbb182z-U/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-12 12:59:19 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
   **مدت:** حدود 3.1 دقیقه  
   **عنوان:** [Separable verbs in German | Super Easy German (31)](https://www.youtube.com/watch?v=K1eejivNkRQ)  
   ![](https://i.ytimg.com/vi/K1eejivNkRQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-07 17:11:25 (UTC)  
-  **مدت:** حدود 8.1 دقیقه  
-  **عنوان:** [At a German Bakery | Easy German 194](https://www.youtube.com/watch?v=1liYgLugZNs)  
-  ![](https://i.ytimg.com/vi/1liYgLugZNs/hqdefault.jpg)

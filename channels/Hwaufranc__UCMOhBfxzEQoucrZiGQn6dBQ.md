@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
+_آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  

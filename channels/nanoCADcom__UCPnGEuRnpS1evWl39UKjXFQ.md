@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
+_آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-10-13 00:30:05 (UTC)  
+  **مدت:** حدود 5.2 دقیقه  
+  **عنوان:** [Plot Drawing Faster in nanoCAD From Layout to PDF](https://www.youtube.com/watch?v=GqkteHQ_4NU)  
+  ![](https://i.ytimg.com/vi/GqkteHQ_4NU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-05 13:27:53 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
   **مدت:** حدود 5.7 دقیقه  
   **عنوان:** [Controlling Layers - Lesson 21](https://www.youtube.com/watch?v=BreafMe3PAU)  
   ![](https://i.ytimg.com/vi/BreafMe3PAU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-04-01 12:13:17 (UTC)  
-  **مدت:** حدود 5.8 دقیقه  
-  **عنوان:** [Arrays of Objects - Lesson 20](https://www.youtube.com/watch?v=4LD7rhgv6pM)  
-  ![](https://i.ytimg.com/vi/4LD7rhgv6pM/hqdefault.jpg)

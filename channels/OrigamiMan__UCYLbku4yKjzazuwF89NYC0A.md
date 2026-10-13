@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
+_آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  

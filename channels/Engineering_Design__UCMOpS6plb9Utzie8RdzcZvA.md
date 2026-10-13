@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
+_آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-13 02:43:44 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How This Simple Mechanism Changes Speed](https://www.youtube.com/watch?v=oDnWEXxVAS4)  
+  ![](https://i.ytimg.com/vi/oDnWEXxVAS4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-12 11:44:19 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [How to Use Shell Command | Solidworks Tips Tricks](https://www.youtube.com/watch?v=c2G29rzcCnk)  
   ![](https://i.ytimg.com/vi/c2G29rzcCnk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-23 11:40:31 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [How to Make a Jewelry Ring in SolidWorks](https://www.youtube.com/watch?v=d9VL-p9k1y8)  
-  ![](https://i.ytimg.com/vi/d9VL-p9k1y8/hqdefault.jpg)

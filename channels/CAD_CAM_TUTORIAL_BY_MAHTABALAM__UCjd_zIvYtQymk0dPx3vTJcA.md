@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
+_آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-13 13:26:20 (UTC)  
+  **مدت:** حدود 43.7 دقیقه  
+  **عنوان:** [Pump Body Modeling in SolidWorks (Rib,Tapped Hole,Revolved Cut)](https://www.youtube.com/watch?v=gStHH-BgUHo)  
+  ![](https://i.ytimg.com/vi/gStHH-BgUHo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-11 15:06:14 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-12T18:53:02Z_
   **مدت:** حدود 49.0 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Bulb in Solidworks](https://www.youtube.com/watch?v=SlGc40dBbpQ)  
   ![](https://i.ytimg.com/vi/SlGc40dBbpQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-15 15:13:33 (UTC)  
-  **مدت:** حدود 57.7 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch exhaust fan in Solidworks](https://www.youtube.com/watch?v=k5b5Cp2ywp0)  
-  ![](https://i.ytimg.com/vi/k5b5Cp2ywp0/hqdefault.jpg)
