@@ -1,6 +1,18 @@
-# Last Run: 2026-10-13 05:51 UTC
+# Last Run: 2026-10-13 13:46 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How JFK Helped Pave the Way for Trump’s Crackdown on Dissent
+Published: 2026-10-13T11:00:02+00:00
+Link: https://foreignpolicy.com/2026/10/13/trump-crackdown-dissent-history-jfk-william-worthy/
+---
+[Foreign_Affairs] The Real Lesson of the Iran War
+Published: 2026-10-13T08:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/real-lesson-iran-war
+---
+[Foreign_Affairs] The Global AI Bust
+Published: 2026-10-13T08:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/global-ai-bust-ruchir-sharma
+---
 [Foreign_Policy] Congress Can Do More to Curb Kushner’s Conflicts of Interest
 Published: 2026-10-12T13:09:36+00:00
 Link: https://foreignpolicy.com/2026/10/12/congress-kushner-corruption-saudi-israel-russia/
@@ -36,8 +48,4 @@ Link: https://www.newyorker.com/magazine/2026/10/19/chuck-murphys-last-run-ficti
 [New_Yorker_Magazine] Donald Trump After the Midterms
 Published: 2026-10-11T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/19/donald-trump-after-the-midterms
----
-[New_Yorker_Magazine] Kash Patel’s Slap Shot
-Published: 2026-10-10T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/kash-patels-slap-shot
 ---
