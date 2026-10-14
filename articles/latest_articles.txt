@@ -1,6 +1,14 @@
-# Last Run: 2026-10-13 20:10 UTC
+# Last Run: 2026-10-14 00:58 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Limits of China’s Surveillance State
+Published: 2026-10-13T21:50:59+00:00
+Link: https://foreignpolicy.com/2026/10/13/china-surveillance-state-covid-xinjiang-xi-jinping/
+---
+[Foreign_Policy] India’s Growing Cockroach Problem
+Published: 2026-10-13T21:32:44+00:00
+Link: https://foreignpolicy.com/2026/10/13/india-cockroach-movement-protests-arrests-jantar-mantar-modi/
+---
 [Foreign_Policy] Mapping Global Impunity
 Published: 2026-10-13T15:55:56+00:00
 Link: https://foreignpolicy.com/2026/10/13/global-impunity-atlas-press-freedom-map/
