@@ -1,6 +1,22 @@
-# Last Run: 2026-10-14 07:23 UTC
+# Last Run: 2026-10-14 13:26 UTC
 # Articles published in last 72 hours
 
+[New_Yorker_Magazine] The Secret History of Lee Krasner and Jackson Pollock
+Published: 2026-10-14T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/the-secret-history-of-lee-krasner-and-jackson-pollock
+---
+[Foreign_Policy] After Iran, Washington Needs a New Basing Strategy
+Published: 2026-10-14T09:00:29+00:00
+Link: https://foreignpolicy.com/2026/10/14/iran-war-us-military-base-strategy-allies-defense/
+---
+[Foreign_Affairs] Ukraine Can Turn Imminent Peril to Its Advantage
+Published: 2026-10-14T08:00:00+00:00
+Link: https://www.foreignaffairs.com/ukraine/ukraine-can-turn-imminent-peril-its-advantage
+---
+[Foreign_Affairs] China’s Next Frontier
+Published: 2026-10-14T08:00:00+00:00
+Link: https://www.foreignaffairs.com/china/chinas-next-frontier
+---
 [Foreign_Policy] China and India Want Much the Same Things From South Asia
 Published: 2026-10-14T05:00:44+00:00
 Link: https://foreignpolicy.com/2026/10/14/china-india-south-asia-regional-framework/
@@ -49,6 +65,54 @@ Link: https://foreignpolicy.com/2026/10/12/eu-financial-framework-budget-russia-
 Published: 2026-10-12T10:00:29+00:00
 Link: https://foreignpolicy.com/2026/10/12/data-center-energy-water-land-pollution/
 ---
+[New_Yorker_Magazine] The Yakuza and the Way of the Would-Be Warrior
+Published: 2026-10-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/yakuza-a-400-year-history-of-the-japanese-underworld-andrew-rankin-book-review
+---
+[New_Yorker_Magazine] Kramer and Fauci—Enemies to Friends to Protagonists
+Published: 2026-10-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/kramer-and-fauci-enemies-to-friends-to-protagonists
+---
+[New_Yorker_Magazine] Around the World in Explorer Names
+Published: 2026-10-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/around-the-world-in-explorer-names
+---
+[New_Yorker_Magazine] The First Candid
+Published: 2026-10-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/the-first-candid
+---
+[New_Yorker_Magazine] We’re Learning to Live with Waymos. It’s Going Weird
+Published: 2026-10-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird
+---
+[New_Yorker_Magazine] Cinema of Wayward Souls
+Published: 2026-10-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/lee-chang-dong-profile
+---
+[New_Yorker_Magazine] In Argentina, Rural Residents Send Messages Over the Radio
+Published: 2026-10-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/the-first-social-network
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-10-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/the-occidental-book-of-the-dead-luna-phoenix-queen-the-minimalist-the-decadent-movement
+---
+[New_Yorker_Magazine] Deana Lawson’s Subjects of Surveillance
+Published: 2026-10-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/deana-lawsons-subjects-of-surveillance
+---
+[New_Yorker_Magazine] A.1. II
+Published: 2026-10-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/a-1-ii
+---
+[New_Yorker_Magazine] My Education on the Border of the Syrian War
+Published: 2026-10-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/my-education-on-the-border-of-the-syrian-war
+---
+[New_Yorker_Magazine] The Communist Thrillers of Anna Seghers
+Published: 2026-10-12T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/19/the-communist-thrillers-of-anna-seghers
+---
 [Foreign_Policy] From Xinjiang to the Front Lines of Syria
 Published: 2026-10-12T09:00:23+00:00
 Link: https://foreignpolicy.com/2026/10/12/uyghur-xinjiang-china-syria-civil-war-fighters-training/
@@ -60,12 +124,4 @@ Link: https://www.foreignaffairs.com/iran/america-shouldnt-let-go-middle-east-ph
 [Foreign_Affairs] Chinese Robots Could Decide the AI Race
 Published: 2026-10-12T08:00:00+00:00
 Link: https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race
----
-[New_Yorker_Magazine] “Chuck Murphy’s Last Run,” by Kevin Barry
-Published: 2026-10-11T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/chuck-murphys-last-run-fiction-kevin-barry
----
-[New_Yorker_Magazine] Donald Trump After the Midterms
-Published: 2026-10-11T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/donald-trump-after-the-midterms
 ---
