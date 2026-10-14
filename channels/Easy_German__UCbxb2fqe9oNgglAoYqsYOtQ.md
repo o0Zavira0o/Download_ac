@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
+_آخرین به‌روزرسانی: 2026-10-14T14:27:19Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-14 13:04:27 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Deutschlern-Tipps](https://www.youtube.com/watch?v=vMKl23O6z9k)  
+  ![](https://i.ytimg.com/vi/vMKl23O6z9k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-13 16:34:44 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
   **مدت:** حدود 11.2 دقیقه  
   **عنوان:** [Responses on what's typical German  | Talking slow in the bakery video - Cari antwortet (46)](https://www.youtube.com/watch?v=HK9Au_Csikg)  
   ![](https://i.ytimg.com/vi/HK9Au_Csikg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-10 16:45:33 (UTC)  
-  **مدت:** حدود 3.1 دقیقه  
-  **عنوان:** [Separable verbs in German | Super Easy German (31)](https://www.youtube.com/watch?v=K1eejivNkRQ)  
-  ![](https://i.ytimg.com/vi/K1eejivNkRQ/hqdefault.jpg)

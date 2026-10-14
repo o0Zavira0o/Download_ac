@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
+_آخرین به‌روزرسانی: 2026-10-14T14:27:19Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-14 12:07:03 (UTC)  
+  **مدت:** حدود 7.2 دقیقه  
+  **عنوان:** [SolidWorks Furniture Design Tutorial | 3D Table Modeling Step by Step](https://www.youtube.com/watch?v=GYFc4-97kD8)  
+  ![](https://i.ytimg.com/vi/GYFc4-97kD8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-14 02:57:10 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Why This Screw Design is Worth Millions 💡 #shorts](https://www.youtube.com/watch?v=ASwjlW7u7Kw)  
+  ![](https://i.ytimg.com/vi/ASwjlW7u7Kw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-13 02:43:44 (UTC)  
@@ -56,7 +68,7 @@ _آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
 
 - **تاریخ انتشار:** 2026-10-07 03:02:08 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Gear Crank Mechanism (or Hypocycloidal Straight-Line Mechanism)](https://www.youtube.com/watch?v=3sju_L5jqZ8)  
+  **عنوان:** [Why This Gear Mechanism Is So Precise ⚙️ #engineering #shorts](https://www.youtube.com/watch?v=3sju_L5jqZ8)  
   ![](https://i.ytimg.com/vi/3sju_L5jqZ8/hqdefault.jpg)
 
 
@@ -788,7 +800,7 @@ _آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
 
 - **تاریخ انتشار:** 2026-02-01 14:22:25 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Universal Joint #solidworks #design #engineering](https://www.youtube.com/watch?v=sP4qC8ieWi8)  
+  **عنوان:** [How to Design a Universal Joint in SolidWorks](https://www.youtube.com/watch?v=sP4qC8ieWi8)  
   ![](https://i.ytimg.com/vi/sP4qC8ieWi8/hqdefault.jpg)
 
 
@@ -806,7 +818,7 @@ _آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
 
 - **تاریخ انتشار:** 2026-01-09 02:14:42 (UTC)  
   **مدت:** حدود 7.3 دقیقه  
-  **عنوان:** [20 Powerful SolidWorks Commands to Work Faster & Smarter 🚀](https://www.youtube.com/watch?v=X3wRG1lIe-g)  
+  **عنوان:** [Why You're Slow in SolidWorks (And How to Fix It)](https://www.youtube.com/watch?v=X3wRG1lIe-g)  
   ![](https://i.ytimg.com/vi/X3wRG1lIe-g/hqdefault.jpg)
 
 
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [✅How to Use SheetMetal Lifted Bend Command | Solidworks Tips Tricks #solidworks #cadcam](https://www.youtube.com/watch?v=_a11lTZHzpI)  
   ![](https://i.ytimg.com/vi/_a11lTZHzpI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-25 03:01:18 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Every Edge Radius You Can Create in SOLIDWORKS](https://www.youtube.com/watch?v=x9kcEOrpat4)  
-  ![](https://i.ytimg.com/vi/x9kcEOrpat4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-24 06:53:14 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [How to Use Shell Command | Solidworks Tips Tricks](https://www.youtube.com/watch?v=c2G29rzcCnk)  
-  ![](https://i.ytimg.com/vi/c2G29rzcCnk/hqdefault.jpg)

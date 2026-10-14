@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
+_آخرین به‌روزرسانی: 2026-10-14T14:27:19Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-10-14 11:00:35 (UTC)  
+  **مدت:** حدود 25.8 دقیقه  
+  **عنوان:** [【SolidWorks】產品練習：肥皂架｜無工程圖](https://www.youtube.com/watch?v=ByGXNYfVd_E)  
+  ![](https://i.ytimg.com/vi/ByGXNYfVd_E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-09 11:00:18 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
   **مدت:** حدود 21.4 دقیقه  
   **عنوان:** [【SolidWorks】設計變更：轉吧！七彩霓虹燈｜隨心所欲](https://www.youtube.com/watch?v=SxxTJQ8sKIY)  
   ![](https://i.ytimg.com/vi/SxxTJQ8sKIY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-05 11:01:30 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [短片看建模：SolidWorks建模順序](https://www.youtube.com/watch?v=ptEaL1gec9k)  
-  ![](https://i.ytimg.com/vi/ptEaL1gec9k/hqdefault.jpg)

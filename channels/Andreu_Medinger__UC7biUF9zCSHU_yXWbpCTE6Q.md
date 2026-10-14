@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
+_آخرین به‌روزرسانی: 2026-10-14T14:27:19Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-10-13 22:30:28 (UTC)  
+  **مدت:** حدود 7.2 دقیقه  
+  **عنوان:** [Construí um POSICIONADOR DE SOLDAGEM do ZERO! Veja como ficou! (I Built a WELDING POSITIONER)](https://www.youtube.com/watch?v=QHfvx1k09Is)  
+  ![](https://i.ytimg.com/vi/QHfvx1k09Is/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-12 22:30:21 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
   **مدت:** حدود 29.5 دقیقه  
   **عنوان:** [AULA 43 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=p9eN6a-XUPI)  
   ![](https://i.ytimg.com/vi/p9eN6a-XUPI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-04-21 22:30:10 (UTC)  
-  **مدت:** حدود 28.4 دقیقه  
-  **عنوان:** [AULA 42 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=j7BF12NJsHo)  
-  ![](https://i.ytimg.com/vi/j7BF12NJsHo/hqdefault.jpg)

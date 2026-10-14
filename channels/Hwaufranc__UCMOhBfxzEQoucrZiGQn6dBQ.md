@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
+_آخرین به‌روزرسانی: 2026-10-14T14:27:19Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-14 12:20:09 (UTC)  
+  **مدت:** حدود 73.8 دقیقه  
+  **عنوان:** [ASMR 앨리스의 모든 것🕰 다이어리 꾸미기 | 아트 다꾸 Art Journal Alice コラージュ](https://www.youtube.com/watch?v=uOupiptiPug)  
+  ![](https://i.ytimg.com/vi/uOupiptiPug/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-12 14:35:07 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Scrapbooking asmr #shorts #satisfying #scrapbook](https://www.youtube.com/watch?v=i7g9MKV9DY0)  
   ![](https://i.ytimg.com/vi/i7g9MKV9DY0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-22 10:56:00 (UTC)  
-  **مدت:** حدود 11.2 دقیقه  
-  **عنوان:** [Scrapbook ASMR 🌿 Compilation : Scrapbooking diy Sounds](https://www.youtube.com/watch?v=t7trjfmtbcM)  
-  ![](https://i.ytimg.com/vi/t7trjfmtbcM/hqdefault.jpg)

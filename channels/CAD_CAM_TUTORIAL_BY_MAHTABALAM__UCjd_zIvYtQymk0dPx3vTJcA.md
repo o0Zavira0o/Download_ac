@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
+_آخرین به‌روزرسانی: 2026-10-14T14:27:19Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-14 13:25:17 (UTC)  
+  **مدت:** حدود 24.3 دقیقه  
+  **عنوان:** [Catics 3D18-H01 Exercise in SolidWorks (Find Volume and Area of green ans Blue Surface?)](https://www.youtube.com/watch?v=z8UdAEJnnTo)  
+  ![](https://i.ytimg.com/vi/z8UdAEJnnTo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-13 13:26:20 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-13T16:51:56Z_
   **مدت:** حدود 19.8 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Baseball in Solidworks](https://www.youtube.com/watch?v=P60B2m0kWIU)  
   ![](https://i.ytimg.com/vi/P60B2m0kWIU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-17 01:45:23 (UTC)  
-  **مدت:** حدود 49.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Bulb in Solidworks](https://www.youtube.com/watch?v=SlGc40dBbpQ)  
-  ![](https://i.ytimg.com/vi/SlGc40dBbpQ/hqdefault.jpg)
