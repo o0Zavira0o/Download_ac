@@ -1,6 +1,18 @@
-# Last Run: 2026-10-15 08:59 UTC
+# Last Run: 2026-10-15 14:48 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Radioactive Ore That Could Break China’s Grip on Rare Earths
+Published: 2026-10-15T13:00:05+00:00
+Link: https://foreignpolicy.com/2026/10/15/monazite-china-rare-earths-radioactive/
+---
+[Foreign_Policy] The West Needs a Pax Biologica
+Published: 2026-10-15T09:00:31+00:00
+Link: https://foreignpolicy.com/2026/10/15/china-us-biomanufacturing-competition-industrial-policy/
+---
+[Foreign_Affairs] A Democratic Reckoning in India
+Published: 2026-10-15T08:00:00+00:00
+Link: https://www.foreignaffairs.com/india/democratic-reckoning-india
+---
 [Foreign_Affairs] India’s Democratic Reckoning
 Published: 2026-10-15T08:00:00+00:00
 Link: https://www.foreignaffairs.com/india/indias-democratic-reckoning
@@ -100,72 +112,4 @@ Link: https://www.foreignaffairs.com/united-states/real-lesson-iran-war
 [Foreign_Affairs] The Global AI Bust
 Published: 2026-10-13T08:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/global-ai-bust-ruchir-sharma
----
-[Foreign_Policy] Congress Can Do More to Curb Kushner’s Conflicts of Interest
-Published: 2026-10-12T13:09:36+00:00
-Link: https://foreignpolicy.com/2026/10/12/congress-kushner-corruption-saudi-israel-russia/
----
-[Foreign_Policy] Messi on Their Mind, Argentines Still Hold Maradona in Their Hearts
-Published: 2026-10-12T12:45:24+00:00
-Link: https://foreignpolicy.com/2026/10/12/messi-maradona-argentina-world-cup-soccer-football/
----
-[Foreign_Policy] Can Brussels Budget Like a Superpower?
-Published: 2026-10-12T11:00:04+00:00
-Link: https://foreignpolicy.com/2026/10/12/eu-financial-framework-budget-russia-trump/
----
-[Foreign_Policy] The Real Footprint of Trump’s Data Center Boom
-Published: 2026-10-12T10:00:29+00:00
-Link: https://foreignpolicy.com/2026/10/12/data-center-energy-water-land-pollution/
----
-[New_Yorker_Magazine] The Yakuza and the Way of the Would-Be Warrior
-Published: 2026-10-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/yakuza-a-400-year-history-of-the-japanese-underworld-andrew-rankin-book-review
----
-[New_Yorker_Magazine] Kramer and Fauci—Enemies to Friends to Protagonists
-Published: 2026-10-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/kramer-and-fauci-enemies-to-friends-to-protagonists
----
-[New_Yorker_Magazine] Around the World in Explorer Names
-Published: 2026-10-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/around-the-world-in-explorer-names
----
-[New_Yorker_Magazine] The First Candid
-Published: 2026-10-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/the-first-candid
----
-[New_Yorker_Magazine] We’re Learning to Live with Waymos. It’s Going Weird
-Published: 2026-10-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird
----
-[New_Yorker_Magazine] Cinema of Wayward Souls
-Published: 2026-10-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/lee-chang-dong-profile
----
-[New_Yorker_Magazine] In Argentina, Rural Residents Send Messages Over the Radio
-Published: 2026-10-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/the-first-social-network
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-10-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/the-occidental-book-of-the-dead-luna-phoenix-queen-the-minimalist-the-decadent-movement
----
-[New_Yorker_Magazine] Deana Lawson’s Subjects of Surveillance
-Published: 2026-10-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/deana-lawsons-subjects-of-surveillance
----
-[New_Yorker_Magazine] A.1. II
-Published: 2026-10-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/a-1-ii
----
-[New_Yorker_Magazine] My Education on the Border of the Syrian War
-Published: 2026-10-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/my-education-on-the-border-of-the-syrian-war
----
-[New_Yorker_Magazine] The Communist Thrillers of Anna Seghers
-Published: 2026-10-12T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/19/the-communist-thrillers-of-anna-seghers
----
-[Foreign_Policy] From Xinjiang to the Front Lines of Syria
-Published: 2026-10-12T09:00:23+00:00
-Link: https://foreignpolicy.com/2026/10/12/uyghur-xinjiang-china-syria-civil-war-fighters-training/
 ---
