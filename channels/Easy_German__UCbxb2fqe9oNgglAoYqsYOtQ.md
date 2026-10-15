@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-14T14:27:19Z_
+_آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-15 12:17:36 (UTC)  
+  **مدت:** حدود 1.6 دقیقه  
+  **عنوان:** [Eselsbrücken 🫏](https://www.youtube.com/watch?v=ljyvHrsmc4o)  
+  ![](https://i.ytimg.com/vi/ljyvHrsmc4o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-14 13:04:27 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-14T14:27:19Z_
   **مدت:** حدود 10.1 دقیقه  
   **عنوان:** [What Germans like about other Countries | Easy German 195](https://www.youtube.com/watch?v=9e8fQnRvsug)  
   ![](https://i.ytimg.com/vi/9e8fQnRvsug/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-12 17:04:45 (UTC)  
-  **مدت:** حدود 11.2 دقیقه  
-  **عنوان:** [Responses on what's typical German  | Talking slow in the bakery video - Cari antwortet (46)](https://www.youtube.com/watch?v=HK9Au_Csikg)  
-  ![](https://i.ytimg.com/vi/HK9Au_Csikg/hqdefault.jpg)

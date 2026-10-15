@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-14T14:27:19Z_
+_آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-15 13:57:49 (UTC)  
+  **مدت:** حدود 24.3 دقیقه  
+  **عنوان:** [Catics 3D18-M07 Exercise in SolidWorks (Thickened Cut, Offset Surface, Cut with surface)](https://www.youtube.com/watch?v=Czk_BOkKWgY)  
+  ![](https://i.ytimg.com/vi/Czk_BOkKWgY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-14 13:25:17 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-14T14:27:19Z_
   **مدت:** حدود 54.9 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Chain and Sprocket mechanism in Solidworks](https://www.youtube.com/watch?v=etEZEP4Lkk0)  
   ![](https://i.ytimg.com/vi/etEZEP4Lkk0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-18 17:55:54 (UTC)  
-  **مدت:** حدود 19.8 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Baseball in Solidworks](https://www.youtube.com/watch?v=P60B2m0kWIU)  
-  ![](https://i.ytimg.com/vi/P60B2m0kWIU/hqdefault.jpg)

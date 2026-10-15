@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-14T14:27:19Z_
+_آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-15 02:22:32 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Foldable Table Vs Door Design](https://www.youtube.com/watch?v=KPj77hwCxKU)  
+  ![](https://i.ytimg.com/vi/KPj77hwCxKU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-14 12:07:03 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-14T14:27:19Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅How to Use Fillet Asymmetric Command | Solidworks Tips Tricks](https://www.youtube.com/watch?v=Fe1W2iIwZGw)  
   ![](https://i.ytimg.com/vi/Fe1W2iIwZGw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-26 04:53:06 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [✅How to Use SheetMetal Lifted Bend Command | Solidworks Tips Tricks #solidworks #cadcam](https://www.youtube.com/watch?v=_a11lTZHzpI)  
-  ![](https://i.ytimg.com/vi/_a11lTZHzpI/hqdefault.jpg)
