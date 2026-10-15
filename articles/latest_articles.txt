@@ -1,6 +1,14 @@
-# Last Run: 2026-10-15 20:12 UTC
+# Last Run: 2026-10-15 22:58 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] A Tale of Two Elon Musk Fights
+Published: 2026-10-15T21:46:09+00:00
+Link: https://foreignpolicy.com/2026/10/15/elon-musk-india-ukraine-starlink/
+---
+[Foreign_Policy] Ukraine Resumes Strikes on Russian Oil Refineries
+Published: 2026-10-15T20:11:59+00:00
+Link: https://foreignpolicy.com/2026/10/15/ukraine-strikes-russia-oil-refineries-zelensky-trump-starlink-energy-cease-fire/
+---
 [Foreign_Policy] Can Ukraine Afford Its Own Defense?
 Published: 2026-10-15T19:17:10+00:00
 Link: https://foreignpolicy.com/2026/10/15/ukraine-budget-gap-shortfall-defense-reform-corruption-eu-europe/
