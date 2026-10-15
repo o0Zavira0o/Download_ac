@@ -1,6 +1,18 @@
-# Last Run: 2026-10-15 03:36 UTC
+# Last Run: 2026-10-15 08:59 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] India’s Democratic Reckoning
+Published: 2026-10-15T08:00:00+00:00
+Link: https://www.foreignaffairs.com/india/indias-democratic-reckoning
+---
+[Foreign_Affairs] The Middle East’s Quiet Liberal Revolution
+Published: 2026-10-15T08:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/middle-easts-quiet-liberal-revolution
+---
+[Foreign_Policy] Trump’s Midterm Strategy Harks Back to 1970
+Published: 2026-10-15T04:01:54+00:00
+Link: https://foreignpolicy.com/2026/10/15/trump-midterm-strategy-positive-polarization/
+---
 [Foreign_Policy] Algeria Sets Its Sights on the Sahel
 Published: 2026-10-14T23:00:14+00:00
 Link: https://foreignpolicy.com/2026/10/14/algeria-sahel-african-politics-security/
@@ -156,12 +168,4 @@ Link: https://www.newyorker.com/magazine/2026/10/19/the-communist-thrillers-of-a
 [Foreign_Policy] From Xinjiang to the Front Lines of Syria
 Published: 2026-10-12T09:00:23+00:00
 Link: https://foreignpolicy.com/2026/10/12/uyghur-xinjiang-china-syria-civil-war-fighters-training/
----
-[Foreign_Affairs] America Shouldn’t Let Go of the Middle East
-Published: 2026-10-12T08:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/america-shouldnt-let-go-middle-east-phil-gordon
----
-[Foreign_Affairs] Chinese Robots Could Decide the AI Race
-Published: 2026-10-12T08:00:00+00:00
-Link: https://www.foreignaffairs.com/china/chinese-robots-could-decide-ai-race
 ---
