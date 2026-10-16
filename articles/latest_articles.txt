@@ -1,6 +1,18 @@
-# Last Run: 2026-10-16 14:40 UTC
+# Last Run: 2026-10-16 19:26 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Empty Classrooms of ‘American Hagwon’
+Published: 2026-10-16T18:00:14+00:00
+Link: https://foreignpolicy.com/2026/10/16/american-hagwon-book-review-min-jin-lee-south-korea-us-education/
+---
+[Foreign_Policy] Sending Syrian Soldiers to Yemen Would Be a Mistake
+Published: 2026-10-16T16:42:50+00:00
+Link: https://foreignpolicy.com/2026/10/16/syria-yemen-saudi-arabia-iran-houthis-sharaa/
+---
+[Foreign_Policy] Europe Can Flag Ships to Keep the Black Sea Open
+Published: 2026-10-16T16:08:30+00:00
+Link: https://foreignpolicy.com/2026/10/16/europe-russia-ukraine-odesa-shipping-black-sea/
+---
 [Foreign_Policy] Uruguay Bucks Regional Migration Trend
 Published: 2026-10-16T12:00:27+00:00
 Link: https://foreignpolicy.com/2026/10/16/uruguay-migration-asylum-seekers-permanent-residency-cuba/
@@ -132,8 +144,4 @@ Link: https://foreignpolicy.com/2026/10/13/china-surveillance-state-covid-xinjia
 [Foreign_Policy] India’s Growing Cockroach Problem
 Published: 2026-10-13T21:32:44+00:00
 Link: https://foreignpolicy.com/2026/10/13/india-cockroach-movement-protests-arrests-jantar-mantar-modi/
----
-[Foreign_Policy] Mapping Global Impunity
-Published: 2026-10-13T15:55:56+00:00
-Link: https://foreignpolicy.com/2026/10/13/global-impunity-atlas-press-freedom-map/
 ---
