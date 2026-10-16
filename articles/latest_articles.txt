@@ -1,6 +1,26 @@
-# Last Run: 2026-10-16 19:26 UTC
+# Last Run: 2026-10-16 22:40 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Israeli Settlers Launch a Coordinated Attack in the West Bank
+Published: 2026-10-16T20:22:52+00:00
+Link: https://foreignpolicy.com/2026/10/16/israel-settler-attacks-palestinians-west-bank-washington-post-levine/
+---
+[Foreign_Policy] An Underwater Shadow War Is Raging
+Published: 2026-10-16T20:20:35+00:00
+Link: https://foreignpolicy.com/2026/10/16/undersea-war-book-review-cables-ocean-gray-zone-tactics/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-10-16T20:20:28+00:00
+Link: https://foreignpolicy.com/2026/10/16/news-quiz-houthi-saudi-strikes-trump-commercials-india-protests/
+---
+[Foreign_Policy] How This Year’s Economics Nobel Winners Shaped the World
+Published: 2026-10-16T20:05:43+00:00
+Link: https://foreignpolicy.com/2026/10/16/economics-nobel-central-banks-fed-warsh-woodford-hall/
+---
+[Foreign_Policy] Nostalgia and Tonic
+Published: 2026-10-16T19:00:10+00:00
+Link: https://foreignpolicy.com/2026/10/16/gin-tonic-churchill-nostalgia-invented-tradition/
+---
 [Foreign_Policy] The Empty Classrooms of ‘American Hagwon’
 Published: 2026-10-16T18:00:14+00:00
 Link: https://foreignpolicy.com/2026/10/16/american-hagwon-book-review-min-jin-lee-south-korea-us-education/
@@ -136,12 +156,4 @@ Link: https://foreignpolicy.com/2026/10/14/china-india-south-asia-regional-frame
 [Foreign_Policy] The Autumn Myanmar Turned Pretty
 Published: 2026-10-14T05:00:38+00:00
 Link: https://foreignpolicy.com/2026/10/14/myanmar-diplomatic-breakthroughs-min-aung-hlaing/
----
-[Foreign_Policy] The Limits of China’s Surveillance State
-Published: 2026-10-13T21:50:59+00:00
-Link: https://foreignpolicy.com/2026/10/13/china-surveillance-state-covid-xinjiang-xi-jinping/
----
-[Foreign_Policy] India’s Growing Cockroach Problem
-Published: 2026-10-13T21:32:44+00:00
-Link: https://foreignpolicy.com/2026/10/13/india-cockroach-movement-protests-arrests-jantar-mantar-modi/
 ---
