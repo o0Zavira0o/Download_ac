@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
+_آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-10-16 11:00:23 (UTC)  
+  **مدت:** حدود 19.4 دقیقه  
+  **عنوان:** [【onshape】基礎練習：加工特徵"肋材"｜0831週一工程圖](https://www.youtube.com/watch?v=igThkT9ilFM)  
+  ![](https://i.ytimg.com/vi/igThkT9ilFM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-14 11:00:35 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
   **مدت:** حدود 12.1 دقیقه  
   **عنوان:** [【onshape】產品練習：杯子｜曲面+美工線｜無工程圖](https://www.youtube.com/watch?v=dB42RwopU3Q)  
   ![](https://i.ytimg.com/vi/dB42RwopU3Q/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-09 11:00:47 (UTC)  
-  **مدت:** حدود 21.4 دقیقه  
-  **عنوان:** [【SolidWorks】設計變更：轉吧！七彩霓虹燈｜隨心所欲](https://www.youtube.com/watch?v=SxxTJQ8sKIY)  
-  ![](https://i.ytimg.com/vi/SxxTJQ8sKIY/hqdefault.jpg)

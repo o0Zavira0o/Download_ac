@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
+_آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-16 02:51:14 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How Machines Save Time 🤯 (Quick Return Mechanism)](https://www.youtube.com/watch?v=6Vm65fbTM6o)  
+  ![](https://i.ytimg.com/vi/6Vm65fbTM6o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-15 02:22:32 (UTC)  
@@ -50,7 +56,7 @@ _آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
 
 - **تاریخ انتشار:** 2026-10-10 12:05:33 (UTC)  
   **مدت:** حدود 5.1 دقیقه  
-  **عنوان:** [SolidWorks Toggle Clamp Assembly Tutorial | 3D Modeling Step by Step + JLCMC](https://www.youtube.com/watch?v=lPValrgLpYU)  
+  **عنوان:** [SolidWorks Assembly Secrets | Toggle Clamp Mechanism Design + JLCMC](https://www.youtube.com/watch?v=lPValrgLpYU)  
   ![](https://i.ytimg.com/vi/lPValrgLpYU/hqdefault.jpg)
 
 
@@ -206,7 +212,7 @@ _آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
 
 - **تاریخ انتشار:** 2026-09-14 11:30:32 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [SOLIDWORKS EXERCISE 2027](https://www.youtube.com/watch?v=lNt5n4IYgYk)  
+  **عنوان:** [✅SOLIDWORKS 2027](https://www.youtube.com/watch?v=lNt5n4IYgYk)  
   ![](https://i.ytimg.com/vi/lNt5n4IYgYk/hqdefault.jpg)
 
 
@@ -242,7 +248,7 @@ _آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
 
 - **تاریخ انتشار:** 2026-09-07 02:30:19 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [The Ultimate Engineering Connection 🔩 #jlcmc](https://www.youtube.com/watch?v=ZlLgYzOPIvs)  
+  **عنوان:** [✅The Ultimate Engineering Connection 🔩 #jlcmc📌](https://www.youtube.com/watch?v=ZlLgYzOPIvs)  
   ![](https://i.ytimg.com/vi/ZlLgYzOPIvs/hqdefault.jpg)
 
 
@@ -770,7 +776,7 @@ _آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
 
 - **تاریخ انتشار:** 2026-02-17 12:07:47 (UTC)  
   **مدت:** حدود 21.1 دقیقه  
-  **عنوان:** [Helical Gear Box Assembly & Animation in Solidworks | Solidworks Assembly Tutorial](https://www.youtube.com/watch?v=p3UTzr5uMk0)  
+  **عنوان:** [Learn to Build a Helical Gear Box in SolidWorks: Full Assembly Tutorial](https://www.youtube.com/watch?v=p3UTzr5uMk0)  
   ![](https://i.ytimg.com/vi/p3UTzr5uMk0/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
   **مدت:** حدود 0.4 دقیقه  
   **عنوان:** [How to Use Sheet metal Base Flange/Tab Command | Solidworks Tips Tricks](https://www.youtube.com/watch?v=2Wfz5jJD6K4)  
   ![](https://i.ytimg.com/vi/2Wfz5jJD6K4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-27 02:58:43 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅How to Use Fillet Asymmetric Command | Solidworks Tips Tricks](https://www.youtube.com/watch?v=Fe1W2iIwZGw)  
-  ![](https://i.ytimg.com/vi/Fe1W2iIwZGw/hqdefault.jpg)

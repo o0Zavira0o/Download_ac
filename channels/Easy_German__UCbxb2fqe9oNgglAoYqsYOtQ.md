@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
+_آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
@@ -32,7 +32,7 @@ _آخرین به‌روزرسانی: 2026-10-15T14:05:14Z_
 
 - **تاریخ انتشار:** 2026-10-11 17:00:32 (UTC)  
   **مدت:** حدود 15.6 دقیقه  
-  **عنوان:** [When You Are Afraid to Make Mistakes in German](https://www.youtube.com/watch?v=RbtIMGCizu0)  
+  **عنوان:** [We Asked Native Speakers About Their Experience with German Learners](https://www.youtube.com/watch?v=RbtIMGCizu0)  
   ![](https://i.ytimg.com/vi/RbtIMGCizu0/hqdefault.jpg)
 
 
