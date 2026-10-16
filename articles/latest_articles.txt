@@ -1,6 +1,14 @@
-# Last Run: 2026-10-16 03:31 UTC
+# Last Run: 2026-10-16 08:50 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The Axis of Upheaval Goes to War
+Published: 2026-10-16T08:00:00+00:00
+Link: https://www.foreignaffairs.com/iran/axis-upheaval-goes-war
+---
+[Foreign_Affairs] The Nuclear Deal That Could Save NATO
+Published: 2026-10-16T08:00:00+00:00
+Link: https://www.foreignaffairs.com/europe/nuclear-deal-could-save-nato
+---
 [Foreign_Policy] A Tale of Two Elon Musk Fights
 Published: 2026-10-15T21:46:09+00:00
 Link: https://foreignpolicy.com/2026/10/15/elon-musk-india-ukraine-starlink/
@@ -128,12 +136,4 @@ Link: https://foreignpolicy.com/2026/10/13/global-impunity-atlas-press-freedom-m
 [Foreign_Policy] How JFK Helped Pave the Way for Trump’s Crackdown on Dissent
 Published: 2026-10-13T11:00:02+00:00
 Link: https://foreignpolicy.com/2026/10/13/trump-crackdown-dissent-history-jfk-william-worthy/
----
-[Foreign_Affairs] The Real Lesson of the Iran War
-Published: 2026-10-13T08:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/real-lesson-iran-war
----
-[Foreign_Affairs] The Global AI Bust
-Published: 2026-10-13T08:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/global-ai-bust-ruchir-sharma
 ---
