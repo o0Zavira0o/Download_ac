@@ -1,4 +1,4 @@
-# Last Run: 2026-10-17 16:56 UTC
+# Last Run: 2026-10-17 20:18 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Your Next Vacay Is . . . the Strait of Hormuz?
@@ -120,16 +120,4 @@ Link: https://foreignpolicy.com/2026/10/14/india-protests-voter-roll-cockroach-m
 [Foreign_Policy] Environmentalists Are Wrong to Oppose the Senate’s Permitting Deal
 Published: 2026-10-14T20:51:04+00:00
 Link: https://foreignpolicy.com/2026/10/14/united-states-environmentalists-senate-clean-energy-fossil-fuels/
----
-[Foreign_Policy] Modi’s Crackdown Is a Strategic Error
-Published: 2026-10-14T19:59:56+00:00
-Link: https://foreignpolicy.com/2026/10/14/india-protests-delhi-crackdown-modi-voter-rolls/
----
-[Foreign_Policy] Why Hegseth Should Go
-Published: 2026-10-14T17:45:49+00:00
-Link: https://foreignpolicy.com/2026/10/14/hegseth-impeachment-testosterone-execution-defense-war-trump/
----
-[Foreign_Policy] Trump’s Diesel Deal Has No Winners
-Published: 2026-10-14T17:06:12+00:00
-Link: https://foreignpolicy.com/2026/10/14/trump-diesel-deal-russia-ukraine-putin/
 ---
