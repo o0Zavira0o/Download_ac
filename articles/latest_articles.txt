@@ -1,4 +1,4 @@
-# Last Run: 2026-10-17 03:22 UTC
+# Last Run: 2026-10-17 08:21 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Israeli Settlers Launch a Coordinated Attack in the West Bank
@@ -140,20 +140,4 @@ Link: https://www.newyorker.com/magazine/2026/10/26/the-secret-history-of-lee-kr
 [Foreign_Policy] After Iran, Washington Needs a New Basing Strategy
 Published: 2026-10-14T09:00:29+00:00
 Link: https://foreignpolicy.com/2026/10/14/iran-war-us-military-base-strategy-allies-defense/
----
-[Foreign_Affairs] Ukraine Can Turn Imminent Peril to Its Advantage
-Published: 2026-10-14T08:00:00+00:00
-Link: https://www.foreignaffairs.com/ukraine/ukraine-can-turn-imminent-peril-its-advantage
----
-[Foreign_Affairs] China’s Next Frontier
-Published: 2026-10-14T08:00:00+00:00
-Link: https://www.foreignaffairs.com/china/chinas-next-frontier
----
-[Foreign_Policy] China and India Want Much the Same Things From South Asia
-Published: 2026-10-14T05:00:44+00:00
-Link: https://foreignpolicy.com/2026/10/14/china-india-south-asia-regional-framework/
----
-[Foreign_Policy] The Autumn Myanmar Turned Pretty
-Published: 2026-10-14T05:00:38+00:00
-Link: https://foreignpolicy.com/2026/10/14/myanmar-diplomatic-breakthroughs-min-aung-hlaing/
 ---
