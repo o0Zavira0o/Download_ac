@@ -1,6 +1,10 @@
-# Last Run: 2026-10-17 08:21 UTC
+# Last Run: 2026-10-17 13:32 UTC
 # Articles published in last 72 hours
 
+[New_Yorker_Magazine] Your Next Vacay Is . . . the Strait of Hormuz?
+Published: 2026-10-17T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/your-next-vacay-is-the-strait-of-hormuz
+---
 [Foreign_Policy] Israeli Settlers Launch a Coordinated Attack in the West Bank
 Published: 2026-10-16T20:22:52+00:00
 Link: https://foreignpolicy.com/2026/10/16/israel-settler-attacks-palestinians-west-bank-washington-post-levine/
@@ -36,6 +40,10 @@ Link: https://foreignpolicy.com/2026/10/16/europe-russia-ukraine-odesa-shipping-
 [Foreign_Policy] Uruguay Bucks Regional Migration Trend
 Published: 2026-10-16T12:00:27+00:00
 Link: https://foreignpolicy.com/2026/10/16/uruguay-migration-asylum-seekers-permanent-residency-cuba/
+---
+[New_Yorker_Magazine] Facing the Death Penalty
+Published: 2026-10-16T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/facing-the-death-penalty
 ---
 [Foreign_Affairs] The Axis of Upheaval Goes to War
 Published: 2026-10-16T08:00:00+00:00
@@ -132,12 +140,4 @@ Link: https://foreignpolicy.com/2026/10/14/europe-militarization-russia-paradox/
 [Foreign_Policy] This Is Israel’s Haredi Election
 Published: 2026-10-14T14:41:40+00:00
 Link: https://foreignpolicy.com/2026/10/14/israel-election-haredi-ultra-orthodox-religion-military-conscription/
----
-[New_Yorker_Magazine] The Secret History of Lee Krasner and Jackson Pollock
-Published: 2026-10-14T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/the-secret-history-of-lee-krasner-and-jackson-pollock
----
-[Foreign_Policy] After Iran, Washington Needs a New Basing Strategy
-Published: 2026-10-14T09:00:29+00:00
-Link: https://foreignpolicy.com/2026/10/14/iran-war-us-military-base-strategy-allies-defense/
 ---
