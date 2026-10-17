@@ -1,4 +1,196 @@
 ================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | IrGens
+Title  : Automating Multi-vendor and Cloud Networks Using Ansible
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 23m | 329 MB
+Link   : http://zavat.pw/ebooks/ansible-automating-multi-vendor-cloud-networks.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | IrGens
+Title  : Build AI and Agentic Pipelines with Apache Airflow 3
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 6m | 224 MB
+Link   : http://zavat.pw/ebooks/apache-airflow-3-build-ai-agentic-pipelines.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | IrGens
+Title  : CompTIA CySA+ (CS0-004): Detection, Analysis, and Attack Mitigation
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 26m | 858 MB
+Link   : http://zavat.pw/ebooks/detection-analysis-attack-mitigation-comptia-cysa-cs0-004-cert.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | IrGens
+Title  : Implementing Information Protection (SC-401)
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 57m | 273 MB
+Link   : http://zavat.pw/ebooks/implementing-information-protection-sc-401-cert.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | IrGens
+Title  : OpenAI Codex at Scale
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 1m | 219 MB
+Link   : http://zavat.pw/ebooks/openai-codex-scale.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | hill0
+Title  : Humanizing Technology, Vol. II
+Details: English | 2026 | ISBN: 1803749539 | 412 Pages | EPUB (True) | 8 MB
+Link   : http://zavat.pw/ebooks/1803749539.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | hill0
+Title  : Modern Applied Fracture Mechanics
+Details: English | 2022 | ISBN: 0367501252 | 357 Pages | EPUB (True) | 35 MB
+Link   : http://zavat.pw/ebooks/0367501252E.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | hill0
+Title  : Bioinformatics for Mass Spectrometry
+Details: English | 2026 | ISBN: 1071655183 | 375 Pages | PDF (True) | 37 MB
+Link   : http://zavat.pw/ebooks/1071655183F.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | hill0
+Title  : Environmental Challenges in Civil Engineering IV
+Details: English | 2026 | ISBN: 3032395143 | 291 Pages | EPUB (True) | 73 MB
+Link   : http://zavat.pw/ebooks/3032395143E.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | hill0
+Title  : A Digital Twin Model for the Management of Indoor Environmental Quality in Developing Economies
+Details: English | 2027 | ISBN: 1041233892 | 158 Pages | PDF EPUB (True) | 18 MB
+Link   : http://zavat.pw/ebooks/1041233892.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | hill0
+Title  : Remarkable Diaries
+Details: English | 2020 | ISBN: 0744020433 | 259 Pages | PDF | 83 MB
+Link   : http://zavat.pw/ebooks/0744020433.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | hill0
+Title  : Youth, Identity, AI and Moral Purpose
+Details: English | 2026 | ISBN: 3032324785 | 207 Pages | PDF EPUB (True) | 14 MB
+Link   : http://zavat.pw/ebooks/3032324785.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | hill0
+Title  : Handbook of Materials Science, Volume 6: Sensor Materials
+Details: English | 2026 | ISBN: 981925986X | 561 Pages | PDF EPUB (True) | 162 MB
+Link   : http://zavat.pw/ebooks/981925986X.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | hill0
+Title  : Azure SQL Hyperscale Unveiled
+Details: English | 2026 | ASIN: B0HJL6J5Y1 | 314 Pages | PDF EPUB (True) | 29 MB
+Link   : http://zavat.pw/ebooks/B0HJL6J5Y1.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | hill0
+Title  : Patient Safety and the Deployment of Artificial Intelligence in Healthcare
+Details: English | 2026 | ISBN: 3032373379 | 393 Pages | PDF EPUB (True) | 49 MB
+Link   : http://zavat.pw/ebooks/3032373379.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | hill0
+Title  : Navigating Effective Intellectual Property Commercialization and Impact of Research
+Details: English | 2026 | ISBN: 3032201667 | 329 Pages | PDF EPUB (True) | 22 MB
+Link   : http://zavat.pw/ebooks/3032201667.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | hill0
+Title  : Le Temps Magazine - 17 Octobre 2026
+Details: Français | 70 pages | True PDF | 24 MB
+Link   : http://zavat.pw/magazines/t-magazine-20261017.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Playboy France N.6 - Novembre 2021 - Janvier 2022
+Details: Français | 228 pages | True PDF | 190.7 MB
+Link   : http://zavat.pw/magazines/PlayboyFranceN6Novembre2021Janvier2022-86507.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Playboy France N.8 - Mai-Juillet 2022
+Details: Français | 228 pages | True PDF | 147.5 MB
+Link   : http://zavat.pw/magazines/PlayboyFranceN8MaiJuillet2022-44175.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Playboy France N.7 - Février-Avril 2022
+Details: Français | 228 pages | True PDF | 195.3 MB
+Link   : http://zavat.pw/magazines/PlayboyFranceN7F%C3%A9vrierAvril2022-81681.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Playboy France N.5 - Juillet-Septembre 2021
+Details: Français | 224 pages | True PDF | 186.0 MB
+Link   : http://zavat.pw/magazines/PlayboyFranceN5JuilletSeptembre2021-05426.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Playboy France N.11 - Janvier-Mars 2023
+Details: Français | 228 pages | True PDF | 133.5 MB
+Link   : http://zavat.pw/magazines/PlayboyFranceN11JanvierMars2023-25006.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Playboy France N.12 - Avril-Juin 2023
+Details: Français | 228 pages | True PDF | 104.6 MB
+Link   : http://zavat.pw/magazines/PlayboyFranceN12AvrilJuin2023-13572.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Forbes USA - October 31, 2018
+Details: English | 222 pages | PDF | 137.3 MB
+Link   : http://zavat.pw/magazines/ForbesUSAOctober312018-08911.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Playboy France N.9 - Août-Octobre 2022
+Details: Français | 228 pages | True PDF | 59.0 MB
+Link   : http://zavat.pw/magazines/PlayboyFranceN9Ao%C3%BBtOctobre2022-19661.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Playboy France N.10 - Novembre 2022 - Janvier 2023
+Details: Français | 226 pages | True PDF | 77.9 MB
+Link   : http://zavat.pw/magazines/PlayboyFranceN10Novembre2022Janvier2023-98988.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Forbes USA - June 30, 2018
+Details: English | 116 pages | PDF | 69.0 MB
+Link   : http://zavat.pw/magazines/ForbesUSAJune302018-76274.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Forbes USA - September 30, 2018
+Details: English | 116 pages | PDF | 69.2 MB
+Link   : http://zavat.pw/magazines/ForbesUSASeptember302018-49326.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Forbes USA - December 31, 2018
+Details: English | 116 pages | PDF | 68.6 MB
+Link   : http://zavat.pw/magazines/ForbesUSADecember312018-75069.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Forbes USA - August 31, 2018
+Details: English | 116 pages | PDF | 72.7 MB
+Link   : http://zavat.pw/magazines/ForbesUSAAugust312018-15451.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Forbes USA - November 30, 2018
+Details: English | 134 pages | PDF | 75.3 MB
+Link   : http://zavat.pw/magazines/ForbesUSANovember302018-53279.html
+
+================================================================================
+2026-10-17 16:53:52 (Asia/Tehran) | crazy-slim
+Title  : Forbes USA - April 30, 2018
+Details: English | 116 pages | PDF | 68.8 MB
+Link   : http://zavat.pw/magazines/ForbesUSAApril302018-36182.html
+
+================================================================================
 2026-10-17 13:03:16 (Asia/Tehran) | hill0
 Title  : Software Design in the Age of AI: The Art and the Craft (Early Release)
 Details: English | 2026 | ISBN: 9780138227814 | 303 Pages | EPUB (True) | 8 MB
