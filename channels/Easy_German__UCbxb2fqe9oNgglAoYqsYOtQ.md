@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
+_آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-16 14:01:57 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Ruhrpott 🍯](https://www.youtube.com/watch?v=E8B84uNsxUo)  
+  ![](https://i.ytimg.com/vi/E8B84uNsxUo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-15 12:17:36 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
   **مدت:** حدود 3.2 دقیقه  
   **عنوان:** [GERMAN IDIOMS (Part I) | Super Easy German (32)](https://www.youtube.com/watch?v=MQn5ehuW8fQ)  
   ![](https://i.ytimg.com/vi/MQn5ehuW8fQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-14 17:22:15 (UTC)  
-  **مدت:** حدود 10.1 دقیقه  
-  **عنوان:** [What Germans like about other Countries | Easy German 195](https://www.youtube.com/watch?v=9e8fQnRvsug)  
-  ![](https://i.ytimg.com/vi/9e8fQnRvsug/hqdefault.jpg)

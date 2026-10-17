@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
+_آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-17 06:31:35 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Genius Engineering: The Scotch Yoke 🤯 #shorts](https://www.youtube.com/watch?v=j3SZCoAB2sk)  
+  ![](https://i.ytimg.com/vi/j3SZCoAB2sk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-16 02:51:14 (UTC)  
@@ -38,7 +44,7 @@ _آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
 
 - **تاریخ انتشار:** 2026-10-12 11:44:19 (UTC)  
   **مدت:** حدود 8.1 دقیقه  
-  **عنوان:** [SolidWorks Furniture Design Tutorial | Hexagon Shelf 3D Modeling Step-by-Step](https://www.youtube.com/watch?v=ADPPeUXgHYM)  
+  **عنوان:** [SolidWorks Furniture Design: From Sketch to 3D Hexagon Shelf](https://www.youtube.com/watch?v=ADPPeUXgHYM)  
   ![](https://i.ytimg.com/vi/ADPPeUXgHYM/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅The Ultimate Guide to Reference Planes in SolidWorks](https://www.youtube.com/watch?v=GIbVQnpV6zY)  
   ![](https://i.ytimg.com/vi/GIbVQnpV6zY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-28 12:25:56 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [How to Use Sheet metal Base Flange/Tab Command | Solidworks Tips Tricks](https://www.youtube.com/watch?v=2Wfz5jJD6K4)  
-  ![](https://i.ytimg.com/vi/2Wfz5jJD6K4/hqdefault.jpg)

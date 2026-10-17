@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
+_آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-10-17 10:00:34 (UTC)  
+  **مدت:** حدود 8.3 دقیقه  
+  **عنوان:** [48.ORIGAMI TURTLE |  Paper Folding & Stop-Motion Animation | Silent Origamiカメの折り紙 折り紙で作る亀とコマ撮りミニアニメ](https://www.youtube.com/watch?v=o3ceXzHXHfI)  
+  ![](https://i.ytimg.com/vi/o3ceXzHXHfI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-10 10:00:22 (UTC)  

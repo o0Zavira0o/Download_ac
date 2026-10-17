@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
+_آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-16 16:21:55 (UTC)  
+  **مدت:** حدود 31.1 دقیقه  
+  **عنوان:** [Valve Body Modeling in SolidWorks (Revolved Cut, Rib,Hole Wizard)](https://www.youtube.com/watch?v=eJIPBUqE-gc)  
+  ![](https://i.ytimg.com/vi/eJIPBUqE-gc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-15 13:57:49 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
   **مدت:** حدود 36.4 دقیقه  
   **عنوان:** [Solidworks tutorial chain and Sprocket Part3](https://www.youtube.com/watch?v=TT6hNgLS5eM)  
   ![](https://i.ytimg.com/vi/TT6hNgLS5eM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-26 12:04:14 (UTC)  
-  **مدت:** حدود 54.9 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Chain and Sprocket mechanism in Solidworks](https://www.youtube.com/watch?v=etEZEP4Lkk0)  
-  ![](https://i.ytimg.com/vi/etEZEP4Lkk0/hqdefault.jpg)

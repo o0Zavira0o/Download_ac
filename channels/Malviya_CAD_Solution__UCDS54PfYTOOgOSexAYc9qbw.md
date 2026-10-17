@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
+_آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-10-17 11:54:54 (UTC)  
+  **مدت:** حدود 2.5 دقیقه  
+  **عنوان:** [How to make multiple bodies with single part in solidworks 😀#shorts #ytshorts #solidworks #cad](https://www.youtube.com/watch?v=y9NuTPaxGpE)  
+  ![](https://i.ytimg.com/vi/y9NuTPaxGpE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-11 06:40:02 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
   **مدت:** حدود 3.0 دقیقه  
   **عنوان:** [How to enable Real View Graphics in solidworks 😀#shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=lzDFOrkvrx0)  
   ![](https://i.ytimg.com/vi/lzDFOrkvrx0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-07 03:37:24 (UTC)  
-  **مدت:** حدود 2.7 دقیقه  
-  **عنوان:** [Honeycomb pattern in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=5C_rMvQSDl0)  
-  ![](https://i.ytimg.com/vi/5C_rMvQSDl0/hqdefault.jpg)

@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
+_آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-17 03:25:31 (UTC)  
+  **مدت:** حدود 90.4 دقیقه  
+  **عنوان:** [ASMR 동양풍의 모든 것🌕 다이어리 꾸미기 | 아트 다꾸 Art Journal Oriental Style コラージュ](https://www.youtube.com/watch?v=O62t8DNkOM8)  
+  ![](https://i.ytimg.com/vi/O62t8DNkOM8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-15 14:30:39 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
   **مدت:** حدود 8.9 دقیقه  
   **عنوان:** [Open the PET stickers and decorate habit tracker 🌷 The Washi Tape Shop : DIY Journal 다꾸 デコ手帳](https://www.youtube.com/watch?v=nID7chDb5fQ)  
   ![](https://i.ytimg.com/vi/nID7chDb5fQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-24 11:58:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [ASMR Art Journaling #shorts #artjournal #journal](https://www.youtube.com/watch?v=pAMzIK63xtA)  
-  ![](https://i.ytimg.com/vi/pAMzIK63xtA/hqdefault.jpg)

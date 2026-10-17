@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
+_آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,7 +10,7 @@ _آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
 
 - **تاریخ انتشار:** 2026-10-11 13:30:03 (UTC)  
   **مدت:** حدود 16.4 دقیقه  
-  **عنوان:** [I Proved (Almost) Everyone Is Wasting Time In The Gym](https://www.youtube.com/watch?v=wI2WVevL_lk)  
+  **عنوان:** [Why Almost Everyone Is Wasting Their Time In The Gym](https://www.youtube.com/watch?v=wI2WVevL_lk)  
   ![](https://i.ytimg.com/vi/wI2WVevL_lk/hqdefault.jpg)
 
 
@@ -124,7 +124,7 @@ _آخرین به‌روزرسانی: 2026-10-16T13:53:17Z_
 
 - **تاریخ انتشار:** 2026-01-06 15:01:28 (UTC)  
   **مدت:** حدود 13.0 دقیقه  
-  **عنوان:** [The ONLY Workout You Need For 2026 (Do This 3x/Week)](https://www.youtube.com/watch?v=n_YW24F5HGc)  
+  **عنوان:** [The ONLY Workout You Need For 2027 (Do This 3x/Week)](https://www.youtube.com/watch?v=n_YW24F5HGc)  
   ![](https://i.ytimg.com/vi/n_YW24F5HGc/hqdefault.jpg)
 
 
