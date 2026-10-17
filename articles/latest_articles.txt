@@ -1,4 +1,4 @@
-# Last Run: 2026-10-17 13:32 UTC
+# Last Run: 2026-10-17 16:56 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Your Next Vacay Is . . . the Strait of Hormuz?
@@ -132,12 +132,4 @@ Link: https://foreignpolicy.com/2026/10/14/hegseth-impeachment-testosterone-exec
 [Foreign_Policy] Trump’s Diesel Deal Has No Winners
 Published: 2026-10-14T17:06:12+00:00
 Link: https://foreignpolicy.com/2026/10/14/trump-diesel-deal-russia-ukraine-putin/
----
-[Foreign_Policy] The Painful Paradox of European Rearmament
-Published: 2026-10-14T14:58:19+00:00
-Link: https://foreignpolicy.com/2026/10/14/europe-militarization-russia-paradox/
----
-[Foreign_Policy] This Is Israel’s Haredi Election
-Published: 2026-10-14T14:41:40+00:00
-Link: https://foreignpolicy.com/2026/10/14/israel-election-haredi-ultra-orthodox-religion-military-conscription/
 ---
