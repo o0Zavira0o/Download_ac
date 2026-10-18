@@ -1,4 +1,4 @@
-# Last Run: 2026-10-18 03:30 UTC
+# Last Run: 2026-10-18 08:42 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Your Next Vacay Is . . . the Strait of Hormuz?
@@ -84,20 +84,4 @@ Link: https://foreignpolicy.com/2026/10/15/monazite-china-rare-earths-radioactiv
 [Foreign_Policy] The West Needs a Pax Biologica
 Published: 2026-10-15T09:00:31+00:00
 Link: https://foreignpolicy.com/2026/10/15/china-us-biomanufacturing-competition-industrial-policy/
----
-[Foreign_Affairs] A Democratic Reckoning in India
-Published: 2026-10-15T08:00:00+00:00
-Link: https://www.foreignaffairs.com/india/democratic-reckoning-india
----
-[Foreign_Affairs] India’s Democratic Reckoning
-Published: 2026-10-15T08:00:00+00:00
-Link: https://www.foreignaffairs.com/india/indias-democratic-reckoning
----
-[Foreign_Affairs] The Middle East’s Quiet Liberal Revolution
-Published: 2026-10-15T08:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/middle-easts-quiet-liberal-revolution
----
-[Foreign_Policy] Trump’s Midterm Strategy Harks Back to 1970
-Published: 2026-10-15T04:01:54+00:00
-Link: https://foreignpolicy.com/2026/10/15/trump-midterm-strategy-positive-polarization/
 ---
