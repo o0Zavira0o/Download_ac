@@ -1,4 +1,4 @@
-# Last Run: 2026-10-18 13:50 UTC
+# Last Run: 2026-10-18 17:09 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Your Next Vacay Is . . . the Strait of Hormuz?
@@ -68,12 +68,4 @@ Link: https://foreignpolicy.com/2026/10/15/ukraine-budget-gap-shortfall-defense-
 [Foreign_Policy] USAID’s Destruction Left Nepal Dangerously Exposed
 Published: 2026-10-15T17:47:38+00:00
 Link: https://foreignpolicy.com/2026/10/15/nepal-usaid-doge-floods-united-states-funding/
----
-[Foreign_Policy] Algeria’s New Bid for Regional Influence
-Published: 2026-10-15T15:38:09+00:00
-Link: https://foreignpolicy.com/2026/10/15/algeria-foreign-policy-uae-break-united-states-western-sahara-dispute-morocco-tebboune/
----
-[Foreign_Policy] Why Spain Is Standing Up to Trump
-Published: 2026-10-15T14:52:42+00:00
-Link: https://foreignpolicy.com/2026/10/15/jose-manuel-albares-spain-foreign-policy-nato-trump-international-law/
 ---
