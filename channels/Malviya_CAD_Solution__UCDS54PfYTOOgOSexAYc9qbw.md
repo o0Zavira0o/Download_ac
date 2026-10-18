@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
+_آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-10-18 03:33:54 (UTC)  
+  **مدت:** حدود 15.9 دقیقه  
+  **عنوان:** [Bevel gear assembly in solidworks | Gear mate and animation | Solidworks assembly tutorial](https://www.youtube.com/watch?v=Zx_aOkd7ueo)  
+  ![](https://i.ytimg.com/vi/Zx_aOkd7ueo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-17 11:54:54 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
   **مدت:** حدود 1.5 دقیقه  
   **عنوان:** [what's new in linear pattern solidworks 2025 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=P8TjV3F23r4)  
   ![](https://i.ytimg.com/vi/P8TjV3F23r4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-09 03:08:19 (UTC)  
-  **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [How to enable Real View Graphics in solidworks 😀#shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=lzDFOrkvrx0)  
-  ![](https://i.ytimg.com/vi/lzDFOrkvrx0/hqdefault.jpg)

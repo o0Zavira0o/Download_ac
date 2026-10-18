@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
+_آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-18 12:00:21 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [ASMR 크리스마스 다꾸 스티커 언박싱🎅🎄Stationery Unboxing](https://www.youtube.com/watch?v=vu2jxQNxf_w)  
+  ![](https://i.ytimg.com/vi/vu2jxQNxf_w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-17 03:25:31 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Aesthetic Journal : Summer🏝 #habittracker #journaling #satisfying](https://www.youtube.com/watch?v=hBHPt0ymyTc)  
   ![](https://i.ytimg.com/vi/hBHPt0ymyTc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-25 13:00:56 (UTC)  
-  **مدت:** حدود 8.9 دقیقه  
-  **عنوان:** [Open the PET stickers and decorate habit tracker 🌷 The Washi Tape Shop : DIY Journal 다꾸 デコ手帳](https://www.youtube.com/watch?v=nID7chDb5fQ)  
-  ![](https://i.ytimg.com/vi/nID7chDb5fQ/hqdefault.jpg)

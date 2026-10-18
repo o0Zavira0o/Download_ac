@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
+_آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-18 03:30:08 (UTC)  
+  **مدت:** حدود 39.1 دقیقه  
+  **عنوان:** [Pump Housing Modeling in SolidWorks](https://www.youtube.com/watch?v=0KdO0KZlzSU)  
+  ![](https://i.ytimg.com/vi/0KdO0KZlzSU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-16 16:21:55 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
   **مدت:** حدود 29.1 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch panton chair (Advanced Surfacing) in Solidworks](https://www.youtube.com/watch?v=C-m16ltqbYI)  
   ![](https://i.ytimg.com/vi/C-m16ltqbYI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-27 16:54:49 (UTC)  
-  **مدت:** حدود 36.4 دقیقه  
-  **عنوان:** [Solidworks tutorial chain and Sprocket Part3](https://www.youtube.com/watch?v=TT6hNgLS5eM)  
-  ![](https://i.ytimg.com/vi/TT6hNgLS5eM/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
+_آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-18 02:45:10 (UTC)  
+  **مدت:** حدود 4.1 دقیقه  
+  **عنوان:** [SolidWorks Weldment Tutorial | Steel Frame Table Design Step by Step](https://www.youtube.com/watch?v=oURKnUinjBM)  
+  ![](https://i.ytimg.com/vi/oURKnUinjBM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-17 06:31:35 (UTC)  
@@ -218,7 +224,7 @@ _آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
 
 - **تاریخ انتشار:** 2026-09-14 11:30:32 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [✅SOLIDWORKS 2027](https://www.youtube.com/watch?v=lNt5n4IYgYk)  
+  **عنوان:** [Building a Mechanical Part in SolidWorks ⚙️ #cad #design #mechanical](https://www.youtube.com/watch?v=lNt5n4IYgYk)  
   ![](https://i.ytimg.com/vi/lNt5n4IYgYk/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-17T12:53:10Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [The Science Behind the Root Blower](https://www.youtube.com/watch?v=qoDz6Rte6K4)  
   ![](https://i.ytimg.com/vi/qoDz6Rte6K4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-29 02:38:06 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅The Ultimate Guide to Reference Planes in SolidWorks](https://www.youtube.com/watch?v=GIbVQnpV6zY)  
-  ![](https://i.ytimg.com/vi/GIbVQnpV6zY/hqdefault.jpg)
