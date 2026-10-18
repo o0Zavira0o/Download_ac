@@ -1,4 +1,4 @@
-# Last Run: 2026-10-18 17:09 UTC
+# Last Run: 2026-10-18 20:18 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Your Next Vacay Is . . . the Strait of Hormuz?
@@ -56,16 +56,4 @@ Link: https://www.foreignaffairs.com/europe/nuclear-deal-could-save-nato
 [Foreign_Policy] A Tale of Two Elon Musk Fights
 Published: 2026-10-15T21:46:09+00:00
 Link: https://foreignpolicy.com/2026/10/15/elon-musk-india-ukraine-starlink/
----
-[Foreign_Policy] Ukraine Resumes Strikes on Russian Oil Refineries
-Published: 2026-10-15T20:11:59+00:00
-Link: https://foreignpolicy.com/2026/10/15/ukraine-strikes-russia-oil-refineries-zelensky-trump-starlink-energy-cease-fire/
----
-[Foreign_Policy] Can Ukraine Afford Its Own Defense?
-Published: 2026-10-15T19:17:10+00:00
-Link: https://foreignpolicy.com/2026/10/15/ukraine-budget-gap-shortfall-defense-reform-corruption-eu-europe/
----
-[Foreign_Policy] USAID’s Destruction Left Nepal Dangerously Exposed
-Published: 2026-10-15T17:47:38+00:00
-Link: https://foreignpolicy.com/2026/10/15/nepal-usaid-doge-floods-united-states-funding/
 ---
