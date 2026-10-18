@@ -1,4 +1,4 @@
-# Last Run: 2026-10-18 08:42 UTC
+# Last Run: 2026-10-18 13:50 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Your Next Vacay Is . . . the Strait of Hormuz?
@@ -76,12 +76,4 @@ Link: https://foreignpolicy.com/2026/10/15/algeria-foreign-policy-uae-break-unit
 [Foreign_Policy] Why Spain Is Standing Up to Trump
 Published: 2026-10-15T14:52:42+00:00
 Link: https://foreignpolicy.com/2026/10/15/jose-manuel-albares-spain-foreign-policy-nato-trump-international-law/
----
-[Foreign_Policy] The Radioactive Ore That Could Break China’s Grip on Rare Earths
-Published: 2026-10-15T13:00:05+00:00
-Link: https://foreignpolicy.com/2026/10/15/monazite-china-rare-earths-radioactive/
----
-[Foreign_Policy] The West Needs a Pax Biologica
-Published: 2026-10-15T09:00:31+00:00
-Link: https://foreignpolicy.com/2026/10/15/china-us-biomanufacturing-competition-industrial-policy/
 ---
