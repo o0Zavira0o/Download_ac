@@ -1,6 +1,18 @@
-# Last Run: 2026-10-19 19:44 UTC
+# Last Run: 2026-10-19 23:26 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] France Orders Curfews Amid Widespread Rioting
+Published: 2026-10-19T20:46:23+00:00
+Link: https://foreignpolicy.com/2026/10/19/france-protests-violence-riots-curfew-paris-lecornu-macron-melenchon/
+---
+[Foreign_Policy] In Israel, Election Day Is Just the Beginning of the Story
+Published: 2026-10-19T19:56:05+00:00
+Link: https://foreignpolicy.com/2026/10/19/israel-election-netanyahu-polls-parties-coalition/
+---
+[Foreign_Policy] Why Is France Perpetually Rioting?
+Published: 2026-10-19T19:03:39+00:00
+Link: https://foreignpolicy.com/2026/10/19/france-student-protests-riots-police-street-violence-politics-macron/
+---
 [Foreign_Policy] Europe Is Finally Getting Tough on China. Now Comes the Hard Part.
 Published: 2026-10-19T15:13:51+00:00
 Link: https://foreignpolicy.com/2026/10/19/europe-china-france-germany-trade-economy/
@@ -32,20 +44,4 @@ Link: https://foreignpolicy.com/2026/10/19/congress-fixed-social-security/
 [New_Yorker_Magazine] Your Next Vacay Is . . . the Strait of Hormuz?
 Published: 2026-10-17T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/26/your-next-vacay-is-the-strait-of-hormuz
----
-[Foreign_Policy] Israeli Settlers Launch a Coordinated Attack in the West Bank
-Published: 2026-10-16T20:22:52+00:00
-Link: https://foreignpolicy.com/2026/10/16/israel-settler-attacks-palestinians-west-bank-washington-post-levine/
----
-[Foreign_Policy] An Underwater Shadow War Is Raging
-Published: 2026-10-16T20:20:35+00:00
-Link: https://foreignpolicy.com/2026/10/16/undersea-war-book-review-cables-ocean-gray-zone-tactics/
----
-[Foreign_Policy] What in the World?
-Published: 2026-10-16T20:20:28+00:00
-Link: https://foreignpolicy.com/2026/10/16/news-quiz-houthi-saudi-strikes-trump-commercials-india-protests/
----
-[Foreign_Policy] How This Year’s Economics Nobel Winners Shaped the World
-Published: 2026-10-16T20:05:43+00:00
-Link: https://foreignpolicy.com/2026/10/16/economics-nobel-central-banks-fed-warsh-woodford-hall/
 ---
