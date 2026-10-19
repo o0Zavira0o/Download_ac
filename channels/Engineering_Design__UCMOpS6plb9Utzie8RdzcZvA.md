@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
+_آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-19 11:30:00 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How Off-Center Shafts Actually Drive Power ⚙️](https://www.youtube.com/watch?v=uEKavNtguA4)  
+  ![](https://i.ytimg.com/vi/uEKavNtguA4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-18 02:45:10 (UTC)  
@@ -248,7 +254,7 @@ _آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
 
 - **تاریخ انتشار:** 2026-09-10 06:35:03 (UTC)  
   **مدت:** حدود 7.0 دقیقه  
-  **عنوان:** [Finally! An Easy Way to Design Interlocking Chains in SOLIDWORKS](https://www.youtube.com/watch?v=7UTqAiJmFKk)  
+  **عنوان:** [✅Finally! An Easy Way to Design Interlocking Chains in SOLIDWORKS](https://www.youtube.com/watch?v=7UTqAiJmFKk)  
   ![](https://i.ytimg.com/vi/7UTqAiJmFKk/hqdefault.jpg)
 
 
@@ -284,7 +290,7 @@ _آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
 
 - **تاریخ انتشار:** 2026-08-31 10:00:38 (UTC)  
   **مدت:** حدود 4.4 دقیقه  
-  **عنوان:** [How to Create a Perfect Weldment Cut List & BOM in SOLIDWORKS](https://www.youtube.com/watch?v=n2DGk0ZgcFI)  
+  **عنوان:** [✅How to Create a Perfect Weldment Cut List & BOM in SOLIDWORKS](https://www.youtube.com/watch?v=n2DGk0ZgcFI)  
   ![](https://i.ytimg.com/vi/n2DGk0ZgcFI/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [I Designed a Boss Base in Solidworks](https://www.youtube.com/watch?v=1XNU-qgrhLs)  
   ![](https://i.ytimg.com/vi/1XNU-qgrhLs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-29 12:10:41 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [The Science Behind the Root Blower](https://www.youtube.com/watch?v=qoDz6Rte6K4)  
-  ![](https://i.ytimg.com/vi/qoDz6Rte6K4/hqdefault.jpg)

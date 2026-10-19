@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
+_آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-19 15:15:11 (UTC)  
+  **مدت:** حدود 13.0 دقیقه  
+  **عنوان:** [다꾸 ASMR 미리🎅 크리스마스 다이어리 꾸미기🎄 Christmas 스티커 Journal コラージュ diy 꾸미기](https://www.youtube.com/watch?v=BweJjPbeK8k)  
+  ![](https://i.ytimg.com/vi/BweJjPbeK8k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-18 12:00:21 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Journaling asmr : art bee🐝 #shorts #journal #artjournal](https://www.youtube.com/watch?v=qhYg2wKhejo)  
   ![](https://i.ytimg.com/vi/qhYg2wKhejo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-26 09:25:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Aesthetic Journal : Summer🏝 #habittracker #journaling #satisfying](https://www.youtube.com/watch?v=hBHPt0ymyTc)  
-  ![](https://i.ytimg.com/vi/hBHPt0ymyTc/hqdefault.jpg)

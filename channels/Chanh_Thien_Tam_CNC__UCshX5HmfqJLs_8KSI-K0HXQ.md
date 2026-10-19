@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Chanh Thien Tam CNC
 
-_آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
+_آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
 
 
 **لینک استاندارد کانال:** [Chanh Thien Tam CNC](https://www.youtube.com/channel/UCshX5HmfqJLs_8KSI-K0HXQ)  
+
+
+- **تاریخ انتشار:** 2026-10-19 09:49:45 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [Video học Mastercam Solidworks Creo VISI #laptrinhcnc #phaycnc #cokhi #mayphaycnc #maytiencnc](https://www.youtube.com/watch?v=g6M7llWwx9E)  
+  ![](https://i.ytimg.com/vi/g6M7llWwx9E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-04 11:47:34 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
   **مدت:** حدود 5.3 دقیقه  
   **عنوان:** [Phay ren mastercam](https://www.youtube.com/watch?v=AbDBCu2G0v8)  
   ![](https://i.ytimg.com/vi/AbDBCu2G0v8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-04-11 02:40:07 (UTC)  
-  **مدت:** حدود 8.8 دقیقه  
-  **عنوان:** [Tách khuôn vỏ xe dream Solidworks](https://www.youtube.com/watch?v=ZDhnzf9JU2U)  
-  ![](https://i.ytimg.com/vi/ZDhnzf9JU2U/hqdefault.jpg)

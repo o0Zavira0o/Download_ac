@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
+_آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-19 10:08:30 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Was ist das Geheimnis eurer Freunschaft?](https://www.youtube.com/watch?v=mOJZxhHa8to)  
+  ![](https://i.ytimg.com/vi/mOJZxhHa8to/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-18 17:00:30 (UTC)  
+  **مدت:** حدود 12.9 دقیقه  
+  **عنوان:** [How Do Germans Deal with Saying Goodbye?](https://www.youtube.com/watch?v=6gr5wvJpxCU)  
+  ![](https://i.ytimg.com/vi/6gr5wvJpxCU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-16 14:01:57 (UTC)  
@@ -157,7 +169,7 @@ _آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
 
 
 - **تاریخ انتشار:** 2026-09-20 17:00:10 (UTC)  
-  **مدت:** حدود 15.8 دقیقه  
+  **مدت:** حدود 15.0 دقیقه  
   **عنوان:** [How Much Do People Pay for Rent in Munich?](https://www.youtube.com/watch?v=F2pU-1poAzE)  
   ![](https://i.ytimg.com/vi/F2pU-1poAzE/hqdefault.jpg)
 
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
   **مدت:** حدود 7.2 دقیقه  
   **عنوان:** [Minimalism | Easy German 197](https://www.youtube.com/watch?v=48dwnSH8peY)  
   ![](https://i.ytimg.com/vi/48dwnSH8peY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-21 16:58:35 (UTC)  
-  **مدت:** حدود 11.7 دقیقه  
-  **عنوان:** [Fishing | Easy German 196](https://www.youtube.com/watch?v=iFLfruYmVKI)  
-  ![](https://i.ytimg.com/vi/iFLfruYmVKI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-17 17:40:34 (UTC)  
-  **مدت:** حدود 3.2 دقیقه  
-  **عنوان:** [GERMAN IDIOMS (Part I) | Super Easy German (32)](https://www.youtube.com/watch?v=MQn5ehuW8fQ)  
-  ![](https://i.ytimg.com/vi/MQn5ehuW8fQ/hqdefault.jpg)

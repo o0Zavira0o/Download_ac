@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
+_آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-19 15:30:27 (UTC)  
+  **مدت:** حدود 16.7 دقیقه  
+  **عنوان:** [Bracket Modeling in SolidWorks (Shell Multi-thickness, Combine-Add)](https://www.youtube.com/watch?v=T5HJ__s0MIM)  
+  ![](https://i.ytimg.com/vi/T5HJ__s0MIM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-19 03:30:07 (UTC)  
+  **مدت:** حدود 34.7 دقیقه  
+  **عنوان:** [Box Cover Modeling in SolidWorks (Rib, Hole Wizard Tapped Hole)](https://www.youtube.com/watch?v=MY-c0gfIXNo)  
+  ![](https://i.ytimg.com/vi/MY-c0gfIXNo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-18 03:30:08 (UTC)  
@@ -8992,15 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-18T13:08:57Z_
   **مدت:** حدود 29.5 دقیقه  
   **عنوان:** [Solidworks tutorial Basics of Drawing](https://www.youtube.com/watch?v=k_45Xr3wHtk)  
   ![](https://i.ytimg.com/vi/k_45Xr3wHtk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-30 15:23:49 (UTC)  
-  **مدت:** حدود 57.3 دقیقه  
-  **عنوان:** [Solidworks tutorial how to make Acoustic guitar](https://www.youtube.com/watch?v=oPoFl_gZzyg)  
-  ![](https://i.ytimg.com/vi/oPoFl_gZzyg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-03-29 15:18:25 (UTC)  
-  **مدت:** حدود 29.1 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch panton chair (Advanced Surfacing) in Solidworks](https://www.youtube.com/watch?v=C-m16ltqbYI)  
-  ![](https://i.ytimg.com/vi/C-m16ltqbYI/hqdefault.jpg)
