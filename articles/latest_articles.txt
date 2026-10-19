@@ -1,6 +1,14 @@
-# Last Run: 2026-10-19 12:26 UTC
+# Last Run: 2026-10-19 19:44 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Europe Is Finally Getting Tough on China. Now Comes the Hard Part.
+Published: 2026-10-19T15:13:51+00:00
+Link: https://foreignpolicy.com/2026/10/19/europe-china-france-germany-trade-economy/
+---
+[Foreign_Policy] Trump Can Push Past Israeli-Palestinian Paralysis
+Published: 2026-10-19T14:18:19+00:00
+Link: https://foreignpolicy.com/2026/10/19/trump-israel-palestine-gaza-west-bank-peace-elections/
+---
 [Foreign_Policy] China Is a Peer Competitor in a Dangerous Space Race
 Published: 2026-10-19T11:00:19+00:00
 Link: https://foreignpolicy.com/2026/10/19/china-space-musk-race-satellites-moon/
@@ -40,20 +48,4 @@ Link: https://foreignpolicy.com/2026/10/16/news-quiz-houthi-saudi-strikes-trump-
 [Foreign_Policy] How This Year’s Economics Nobel Winners Shaped the World
 Published: 2026-10-16T20:05:43+00:00
 Link: https://foreignpolicy.com/2026/10/16/economics-nobel-central-banks-fed-warsh-woodford-hall/
----
-[Foreign_Policy] Nostalgia and Tonic
-Published: 2026-10-16T19:00:10+00:00
-Link: https://foreignpolicy.com/2026/10/16/gin-tonic-churchill-nostalgia-invented-tradition/
----
-[Foreign_Policy] The Empty Classrooms of ‘American Hagwon’
-Published: 2026-10-16T18:00:14+00:00
-Link: https://foreignpolicy.com/2026/10/16/american-hagwon-book-review-min-jin-lee-south-korea-us-education/
----
-[Foreign_Policy] Sending Syrian Soldiers to Yemen Would Be a Mistake
-Published: 2026-10-16T16:42:50+00:00
-Link: https://foreignpolicy.com/2026/10/16/syria-yemen-saudi-arabia-iran-houthis-sharaa/
----
-[Foreign_Policy] Europe Can Flag Ships to Keep the Black Sea Open
-Published: 2026-10-16T16:08:30+00:00
-Link: https://foreignpolicy.com/2026/10/16/europe-russia-ukraine-odesa-shipping-black-sea/
 ---
