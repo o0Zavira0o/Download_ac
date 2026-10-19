@@ -1070,6 +1070,9 @@ https://foreignpolicy.com/2026/10/16/news-quiz-houthi-saudi-strikes-trump-commer
 https://foreignpolicy.com/2026/10/16/syria-yemen-saudi-arabia-iran-houthis-sharaa/
 https://foreignpolicy.com/2026/10/16/undersea-war-book-review-cables-ocean-gray-zone-tactics/
 https://foreignpolicy.com/2026/10/16/uruguay-migration-asylum-seekers-permanent-residency-cuba/
+https://foreignpolicy.com/2026/10/19/china-space-musk-race-satellites-moon/
+https://foreignpolicy.com/2026/10/19/congress-fixed-social-security/
+https://foreignpolicy.com/2026/10/19/iran-war-effects-world-gulf-china-israel/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -1138,6 +1141,7 @@ https://www.foreignaffairs.com/europe/end-open-internet
 https://www.foreignaffairs.com/europe/europe-cant-get-out-its-own-way
 https://www.foreignaffairs.com/europe/europe-cant-get-out-its-own-way-andrew-mcAfee
 https://www.foreignaffairs.com/europe/europe-goes-its-own-way
+https://www.foreignaffairs.com/europe/europes-credibility-gap
 https://www.foreignaffairs.com/europe/europes-hidden-trade-advantage
 https://www.foreignaffairs.com/europe/how-migration-helps-authoritarians
 https://www.foreignaffairs.com/europe/leave-europe-europeans
@@ -1259,6 +1263,7 @@ https://www.foreignaffairs.com/united-states/americas-trillion-dollar-failure-ro
 https://www.foreignaffairs.com/united-states/artificial-intelligence-autocrat-technology-empowers-dictators
 https://www.foreignaffairs.com/united-states/autocrats-worst-enemy
 https://www.foreignaffairs.com/united-states/avoiding-next-famine
+https://www.foreignaffairs.com/united-states/better-america-first
 https://www.foreignaffairs.com/united-states/better-way-build-ai
 https://www.foreignaffairs.com/united-states/broken-nuclear-umbrella-lind-press
 https://www.foreignaffairs.com/united-states/case-economic-espionage-david-cohen

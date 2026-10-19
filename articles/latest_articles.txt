@@ -1,6 +1,26 @@
-# Last Run: 2026-10-19 04:09 UTC
+# Last Run: 2026-10-19 12:26 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] China Is a Peer Competitor in a Dangerous Space Race
+Published: 2026-10-19T11:00:19+00:00
+Link: https://foreignpolicy.com/2026/10/19/china-space-musk-race-satellites-moon/
+---
+[Foreign_Policy] The Iran War Has Changed the World Forever
+Published: 2026-10-19T10:00:09+00:00
+Link: https://foreignpolicy.com/2026/10/19/iran-war-effects-world-gulf-china-israel/
+---
+[Foreign_Affairs] Europe’s Credibility Gap
+Published: 2026-10-19T08:00:00+00:00
+Link: https://www.foreignaffairs.com/europe/europes-credibility-gap
+---
+[Foreign_Affairs] A Better “America First”
+Published: 2026-10-19T08:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/better-america-first
+---
+[Foreign_Policy] How Congress Fixed Social Security During Its Last Crisis
+Published: 2026-10-19T05:32:24+00:00
+Link: https://foreignpolicy.com/2026/10/19/congress-fixed-social-security/
+---
 [New_Yorker_Magazine] Your Next Vacay Is . . . the Strait of Hormuz?
 Published: 2026-10-17T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/26/your-next-vacay-is-the-strait-of-hormuz
@@ -36,20 +56,4 @@ Link: https://foreignpolicy.com/2026/10/16/syria-yemen-saudi-arabia-iran-houthis
 [Foreign_Policy] Europe Can Flag Ships to Keep the Black Sea Open
 Published: 2026-10-16T16:08:30+00:00
 Link: https://foreignpolicy.com/2026/10/16/europe-russia-ukraine-odesa-shipping-black-sea/
----
-[Foreign_Policy] Uruguay Bucks Regional Migration Trend
-Published: 2026-10-16T12:00:27+00:00
-Link: https://foreignpolicy.com/2026/10/16/uruguay-migration-asylum-seekers-permanent-residency-cuba/
----
-[New_Yorker_Magazine] Facing the Death Penalty
-Published: 2026-10-16T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/facing-the-death-penalty
----
-[Foreign_Affairs] The Axis of Upheaval Goes to War
-Published: 2026-10-16T08:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/axis-upheaval-goes-war
----
-[Foreign_Affairs] The Nuclear Deal That Could Save NATO
-Published: 2026-10-16T08:00:00+00:00
-Link: https://www.foreignaffairs.com/europe/nuclear-deal-could-save-nato
 ---
