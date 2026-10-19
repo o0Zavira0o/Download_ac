@@ -1,4 +1,4 @@
-# Last Run: 2026-10-18 20:18 UTC
+# Last Run: 2026-10-19 00:00 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] Your Next Vacay Is . . . the Strait of Hormuz?
@@ -52,8 +52,4 @@ Link: https://www.foreignaffairs.com/iran/axis-upheaval-goes-war
 [Foreign_Affairs] The Nuclear Deal That Could Save NATO
 Published: 2026-10-16T08:00:00+00:00
 Link: https://www.foreignaffairs.com/europe/nuclear-deal-could-save-nato
----
-[Foreign_Policy] A Tale of Two Elon Musk Fights
-Published: 2026-10-15T21:46:09+00:00
-Link: https://foreignpolicy.com/2026/10/15/elon-musk-india-ukraine-starlink/
 ---
