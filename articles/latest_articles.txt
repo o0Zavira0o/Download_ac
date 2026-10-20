@@ -1,6 +1,10 @@
-# Last Run: 2026-10-20 14:48 UTC
+# Last Run: 2026-10-20 19:55 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How Ukraine Is Navigating Trump’s Latest U-Turn
+Published: 2026-10-20T18:13:41+00:00
+Link: https://foreignpolicy.com/2026/10/20/ukraine-russia-talks-trump-starshield/
+---
 [Foreign_Policy] What if No One Wins the Israeli Election?
 Published: 2026-10-20T14:30:16+00:00
 Link: https://foreignpolicy.com/2026/10/20/israel-election-netanyahu-eisenkot-trump-palestinians-gaza/
@@ -12,6 +16,10 @@ Link: https://foreignpolicy.com/2026/10/20/data-centers-russia-ukraine-iran-gulf
 [Foreign_Policy] Myths of Battlefield Triumph Are Destroying the U.S. Military
 Published: 2026-10-20T11:17:18+00:00
 Link: https://foreignpolicy.com/2026/10/20/us-military-trump-hegseth-war-lethality-iran-strategy-power-victory/
+---
+[Foreign_Policy] The Conciliator
+Published: 2026-10-20T10:00:21+00:00
+Link: https://foreignpolicy.com/2026/10/20/sen-shaheen-democrats-us-midterms-trump-foreign-policy-russia-sanctions/
 ---
 [Foreign_Policy] The Conciliator
 Published: 2026-10-20T10:00:21+00:00
