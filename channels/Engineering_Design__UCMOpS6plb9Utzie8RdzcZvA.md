@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
+_آخرین به‌روزرسانی: 2026-10-20T14:14:21Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-20 13:18:50 (UTC)  
+  **مدت:** حدود 14.8 دقیقه  
+  **عنوان:** [SolidWorks Weldments Tutorial - Mechanical Shelf Assembly Design in SolidWorks | 6061 Aluminum Frame](https://www.youtube.com/watch?v=m6q9owpkOtw)  
+  ![](https://i.ytimg.com/vi/m6q9owpkOtw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-19 11:30:00 (UTC)  
@@ -38,7 +44,7 @@ _آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
 
 - **تاریخ انتشار:** 2026-10-14 12:07:03 (UTC)  
   **مدت:** حدود 7.2 دقیقه  
-  **عنوان:** [SolidWorks Furniture Design Tutorial | 3D Table Modeling Step by Step](https://www.youtube.com/watch?v=GYFc4-97kD8)  
+  **عنوان:** [Level Up Your CAD Skills: SolidWorks Furniture Design Masterclass](https://www.youtube.com/watch?v=GYFc4-97kD8)  
   ![](https://i.ytimg.com/vi/GYFc4-97kD8/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [✅Why You Should Use More Ribs in Your Designs](https://www.youtube.com/watch?v=ePlOoffvPfo)  
   ![](https://i.ytimg.com/vi/ePlOoffvPfo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-30 02:17:30 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [I Designed a Boss Base in Solidworks](https://www.youtube.com/watch?v=1XNU-qgrhLs)  
-  ![](https://i.ytimg.com/vi/1XNU-qgrhLs/hqdefault.jpg)

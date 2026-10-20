@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
+_آخرین به‌روزرسانی: 2026-10-20T14:14:21Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-20 12:53:40 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Oberösterreichische Ausdrücke](https://www.youtube.com/watch?v=_d6ZVtLtDsc)  
+  ![](https://i.ytimg.com/vi/_d6ZVtLtDsc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-19 10:08:30 (UTC)  
@@ -92,7 +98,7 @@ _آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
 
 - **تاریخ انتشار:** 2026-10-04 17:00:18 (UTC)  
   **مدت:** حدود 15.9 دقیقه  
-  **عنوان:** [A Trip to Germany’s Secret Mega City](https://www.youtube.com/watch?v=OEKrKnt-dak)  
+  **عنوان:** [Everyday Life in Germany’s Most Underrated Region](https://www.youtube.com/watch?v=OEKrKnt-dak)  
   ![](https://i.ytimg.com/vi/OEKrKnt-dak/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
   **مدت:** حدود 3.0 دقیقه  
   **عنوان:** [200 episodes of Easy German | Become part of our video](https://www.youtube.com/watch?v=KR1EdRQRkDQ)  
   ![](https://i.ytimg.com/vi/KR1EdRQRkDQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-28 17:00:56 (UTC)  
-  **مدت:** حدود 7.2 دقیقه  
-  **عنوان:** [Minimalism | Easy German 197](https://www.youtube.com/watch?v=48dwnSH8peY)  
-  ![](https://i.ytimg.com/vi/48dwnSH8peY/hqdefault.jpg)

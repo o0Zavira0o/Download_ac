@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
+_آخرین به‌روزرسانی: 2026-10-20T14:14:21Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-20 03:30:02 (UTC)  
+  **مدت:** حدود 27.5 دقیقه  
+  **عنوان:** [Support Bracket Modeling in SolidWorks (Rib, Revolved Cut)](https://www.youtube.com/watch?v=GrcuU1F6H8Q)  
+  ![](https://i.ytimg.com/vi/GrcuU1F6H8Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-19 15:30:27 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-19T16:23:39Z_
   **مدت:** حدود 23.9 دقیقه  
   **عنوان:** [Solidworks tutorial Basic of Weldments](https://www.youtube.com/watch?v=uv87tTAJckc)  
   ![](https://i.ytimg.com/vi/uv87tTAJckc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-02 10:21:03 (UTC)  
-  **مدت:** حدود 29.5 دقیقه  
-  **عنوان:** [Solidworks tutorial Basics of Drawing](https://www.youtube.com/watch?v=k_45Xr3wHtk)  
-  ![](https://i.ytimg.com/vi/k_45Xr3wHtk/hqdefault.jpg)
