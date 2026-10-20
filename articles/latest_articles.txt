@@ -1,6 +1,22 @@
-# Last Run: 2026-10-20 09:22 UTC
+# Last Run: 2026-10-20 14:48 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] What if No One Wins the Israeli Election?
+Published: 2026-10-20T14:30:16+00:00
+Link: https://foreignpolicy.com/2026/10/20/israel-election-netanyahu-eisenkot-trump-palestinians-gaza/
+---
+[Foreign_Policy] Data Centers in the Crosshairs
+Published: 2026-10-20T13:40:57+00:00
+Link: https://foreignpolicy.com/2026/10/20/data-centers-russia-ukraine-iran-gulf-internet-ai/
+---
+[Foreign_Policy] Myths of Battlefield Triumph Are Destroying the U.S. Military
+Published: 2026-10-20T11:17:18+00:00
+Link: https://foreignpolicy.com/2026/10/20/us-military-trump-hegseth-war-lethality-iran-strategy-power-victory/
+---
+[Foreign_Policy] The Conciliator
+Published: 2026-10-20T10:00:21+00:00
+Link: https://foreignpolicy.com/2026/10/20/the-conciliator/
+---
 [Foreign_Affairs] AI Is a Choice
 Published: 2026-10-20T04:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/ai-choice-imas-el-erian-manyika
@@ -57,6 +73,54 @@ Link: https://foreignpolicy.com/2026/10/19/china-space-musk-race-satellites-moon
 Published: 2026-10-19T10:00:09+00:00
 Link: https://foreignpolicy.com/2026/10/19/iran-war-effects-world-gulf-china-israel/
 ---
+[New_Yorker_Magazine] The Danger of Getting Too Close to a Source
+Published: 2026-10-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/the-danger-of-getting-too-close-to-a-source
+---
+[New_Yorker_Magazine] “The Brightness,” Reviewed: Chad Harbach’s Sequel to “The Art of Fielding”
+Published: 2026-10-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/the-brightness-chad-harbach-book-review
+---
+[New_Yorker_Magazine] Louise Glück’s Life in Restaurants
+Published: 2026-10-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/louise-glucks-life-in-restaurants
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-10-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/blockers-exhibit-g-passengers-few-and-far-between
+---
+[New_Yorker_Magazine] Bill Irwin Is the O.G. Clown
+Published: 2026-10-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/bill-irwin-is-the-og-clown
+---
+[New_Yorker_Magazine] Frank Capra’s Mythmaking Magic
+Published: 2026-10-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/frank-capra-a-life-sam-wasson-book-review
+---
+[New_Yorker_Magazine] The New Age of Reading
+Published: 2026-10-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/james-daunt-profile
+---
+[New_Yorker_Magazine] When God Is Another Addiction
+Published: 2026-10-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/will-and-attention-meghan-ogieblyns-book-review
+---
+[New_Yorker_Magazine] The Perils of Time Travel
+Published: 2026-10-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/the-perils-of-time-travel
+---
+[New_Yorker_Magazine] The Furry Prima Donna of “La Bohème”
+Published: 2026-10-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/the-furry-prima-donna-of-la-boheme
+---
+[New_Yorker_Magazine] Josh Safdie’s Top Ten (or So) N.Y.C. Films
+Published: 2026-10-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/josh-safdies-top-ten-or-so-new-york-films
+---
+[New_Yorker_Magazine] Computer Chips Are the Most Magnificent Things Humanity Has Ever Made
+Published: 2026-10-19T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/computer-chips-are-the-most-magnificent-things-weve-ever-made
+---
 [Foreign_Affairs] Europe’s Credibility Gap
 Published: 2026-10-19T08:00:00+00:00
 Link: https://www.foreignaffairs.com/europe/europes-credibility-gap
@@ -69,7 +133,23 @@ Link: https://www.foreignaffairs.com/united-states/better-america-first
 Published: 2026-10-19T05:32:24+00:00
 Link: https://foreignpolicy.com/2026/10/19/congress-fixed-social-security/
 ---
-[New_Yorker_Magazine] Your Next Vacay Is . . . the Strait of Hormuz?
-Published: 2026-10-17T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/your-next-vacay-is-the-strait-of-hormuz
+[New_Yorker_Magazine] How the D.S.A. Learned to Love Elections
+Published: 2026-10-18T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/how-the-dsa-learned-to-love-elections
+---
+[New_Yorker_Magazine] “Appeasement, Ohio,” by George Saunders
+Published: 2026-10-18T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/appeasement-ohio-fiction-george-saunders
+---
+[New_Yorker_Magazine] The Bari Weiss Effect on “60 Minutes”
+Published: 2026-10-18T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/the-bari-weiss-effect-on-60-minutes
+---
+[New_Yorker_Magazine] “Shortcut,” by Diane Mehta
+Published: 2026-10-18T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/shortcut-diane-mehta-poem
+---
+[New_Yorker_Magazine] “The Woodcutter,” by Nick Laird
+Published: 2026-10-18T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/10/26/the-woodcutter-nick-laird-poem
 ---
