@@ -1,6 +1,34 @@
-# Last Run: 2026-10-20 03:50 UTC
+# Last Run: 2026-10-20 09:22 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] AI Is a Choice
+Published: 2026-10-20T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/ai-choice-imas-el-erian-manyika
+---
+[Foreign_Affairs] The China Price
+Published: 2026-10-20T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/china-price-zongyuan-zoe-liu
+---
+[Foreign_Affairs] Empires of AI
+Published: 2026-10-20T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt
+---
+[Foreign_Affairs] The Chokepoint Trap
+Published: 2026-10-20T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/chokepoint-trap-economics-farrell-newman-tan
+---
+[Foreign_Affairs] The Fog of Tech
+Published: 2026-10-20T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/fog-tech-artificial-intelligence-mara-karlin-ai
+---
+[Foreign_Affairs] The Limits of American Power
+Published: 2026-10-20T04:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/limits-american-power-william-mcraven
+---
+[Foreign_Affairs] “Earth Satellites and Foreign Policy”
+Published: 2026-10-20T04:00:00+00:00
+Link: https://www.foreignaffairs.com/the-back-page/earth-satellites-and-foreign-policy
+---
 [Foreign_Policy] France Orders Curfews Amid Widespread Rioting
 Published: 2026-10-19T20:46:23+00:00
 Link: https://foreignpolicy.com/2026/10/19/france-protests-violence-riots-curfew-paris-lecornu-macron-melenchon/

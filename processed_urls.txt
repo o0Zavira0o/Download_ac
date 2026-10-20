@@ -1091,6 +1091,7 @@ https://www.foreignaffairs.com/brazil/brazils-election-wont-fix-whats-broken-mat
 https://www.foreignaffairs.com/china/beijings-next-play-south-china-sea
 https://www.foreignaffairs.com/china/case-letting-china
 https://www.foreignaffairs.com/china/case-letting-china-american-businesses-brian-deese
+https://www.foreignaffairs.com/china/china-price-zongyuan-zoe-liu
 https://www.foreignaffairs.com/china/china-pulling-ladder-behind-it
 https://www.foreignaffairs.com/china/china-sabotaging-world-enables-its-rise
 https://www.foreignaffairs.com/china/china-still-has-what-america-needs
@@ -1111,6 +1112,7 @@ https://www.foreignaffairs.com/china/coming-clash-between-china-and-europe
 https://www.foreignaffairs.com/china/coming-contest-asias-waterways
 https://www.foreignaffairs.com/china/coming-quantum-national-security-crisis
 https://www.foreignaffairs.com/china/coming-taiwan-crisis
+https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt
 https://www.foreignaffairs.com/china/extreme-weather-will-upend-us-china-competition
 https://www.foreignaffairs.com/china/fault-lines-chinas-power-ratner-danby
 https://www.foreignaffairs.com/china/gulfs-china-problem
@@ -1232,6 +1234,7 @@ https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin
 https://www.foreignaffairs.com/taiwan/how-taiwan-can-win-strait
 https://www.foreignaffairs.com/taiwan/war-china-might-choose
 https://www.foreignaffairs.com/thailand/end-thailands-long-stalemate
+https://www.foreignaffairs.com/the-back-page/earth-satellites-and-foreign-policy
 https://www.foreignaffairs.com/the-back-page/strategy-terrorism
 https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
 https://www.foreignaffairs.com/turkey/turkeys-quiet-realignment
@@ -1251,6 +1254,7 @@ https://www.foreignaffairs.com/united-nations/shrink
 https://www.foreignaffairs.com/united-states/abandoned-order-world-mark-leonard
 https://www.foreignaffairs.com/united-states/ai-and-new-age-bioweapons-sherwood-randall
 https://www.foreignaffairs.com/united-states/ai-autocrat
+https://www.foreignaffairs.com/united-states/ai-choice-imas-el-erian-manyika
 https://www.foreignaffairs.com/united-states/ai-growth-paradox
 https://www.foreignaffairs.com/united-states/ai-new-age-bioweapons-sherwood-randall
 https://www.foreignaffairs.com/united-states/ambiguity-spiral-iran
@@ -1275,6 +1279,7 @@ https://www.foreignaffairs.com/united-states/case-economic-espionage-david-cohen
 https://www.foreignaffairs.com/united-states/china-and-america-are-courting-nuclear-catastrophe
 https://www.foreignaffairs.com/united-states/china-strategy-lasts
 https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cassidy
+https://www.foreignaffairs.com/united-states/chokepoint-trap-economics-farrell-newman-tan
 https://www.foreignaffairs.com/united-states/cost-keeping-china-out
 https://www.foreignaffairs.com/united-states/crumbling-defense-europe
 https://www.foreignaffairs.com/united-states/crumbling-pillars-global-peace
@@ -1288,6 +1293,7 @@ https://www.foreignaffairs.com/united-states/end-axis-abraham
 https://www.foreignaffairs.com/united-states/end-foreign-aid-not-end-development
 https://www.foreignaffairs.com/united-states/end-foreign-aid-not-end-development-mark-suzman
 https://www.foreignaffairs.com/united-states/false-promise-us-china-stability
+https://www.foreignaffairs.com/united-states/fog-tech-artificial-intelligence-mara-karlin-ai
 https://www.foreignaffairs.com/united-states/g-2-reality
 https://www.foreignaffairs.com/united-states/global-ai-bust-ruchir-sharma
 https://www.foreignaffairs.com/united-states/great-rebalancing-coming
@@ -1305,6 +1311,7 @@ https://www.foreignaffairs.com/united-states/how-reindustrialize-america-jake-su
 https://www.foreignaffairs.com/united-states/how-win-defense-innovation-contest
 https://www.foreignaffairs.com/united-states/iran-and-forever-war-trap
 https://www.foreignaffairs.com/united-states/iran-and-new-rules-global-power
+https://www.foreignaffairs.com/united-states/limits-american-power-william-mcraven
 https://www.foreignaffairs.com/united-states/losing-war-future-paul-scharre
 https://www.foreignaffairs.com/united-states/lost-art-coercion
 https://www.foreignaffairs.com/united-states/maximum-pressure-iran-will-fail
