@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-20T14:14:21Z_
+_آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-21 14:00:20 (UTC)  
+  **مدت:** حدود 13.9 دقیقه  
+  **عنوان:** [다꾸 ASMR 빈티지 다이어리 꾸미기 📜 오리지널 다꾸 Vintage Journal コラージュ](https://www.youtube.com/watch?v=H3IVEf5S0Ps)  
+  ![](https://i.ytimg.com/vi/H3IVEf5S0Ps/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-19 15:15:11 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-20T14:14:21Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Satisfying Unboxing #shorts #journal #satisfying](https://www.youtube.com/watch?v=MhY4W5SW1a0)  
   ![](https://i.ytimg.com/vi/MhY4W5SW1a0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-27 11:25:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Journaling asmr : art bee🐝 #shorts #journal #artjournal](https://www.youtube.com/watch?v=qhYg2wKhejo)  
-  ![](https://i.ytimg.com/vi/qhYg2wKhejo/hqdefault.jpg)

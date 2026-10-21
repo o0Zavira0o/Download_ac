@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-20T14:14:21Z_
+_آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-21 03:03:48 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Inside a Double-Piston Steam Engine 🚂💨](https://www.youtube.com/watch?v=zR8luuAmpHM)  
+  ![](https://i.ytimg.com/vi/zR8luuAmpHM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-20 13:18:50 (UTC)  
@@ -272,7 +278,7 @@ _آخرین به‌روزرسانی: 2026-10-20T14:14:21Z_
 
 - **تاریخ انتشار:** 2026-09-07 02:30:19 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [✅The Ultimate Engineering Connection 🔩 #jlcmc📌](https://www.youtube.com/watch?v=ZlLgYzOPIvs)  
+  **عنوان:** [🔧 Find everything you need for your next project at JLCMC #mechanicalcomponents](https://www.youtube.com/watch?v=ZlLgYzOPIvs)  
   ![](https://i.ytimg.com/vi/ZlLgYzOPIvs/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-20T14:14:21Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [Master the Circular Pattern Command in SolidWorks!](https://www.youtube.com/watch?v=-1ptuFmoG34)  
   ![](https://i.ytimg.com/vi/-1ptuFmoG34/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-31 03:15:38 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Why You Should Use More Ribs in Your Designs](https://www.youtube.com/watch?v=ePlOoffvPfo)  
-  ![](https://i.ytimg.com/vi/ePlOoffvPfo/hqdefault.jpg)

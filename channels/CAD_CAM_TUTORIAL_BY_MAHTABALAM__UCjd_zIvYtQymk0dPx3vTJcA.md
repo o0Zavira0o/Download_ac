@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-20T14:14:21Z_
+_آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-21 03:30:04 (UTC)  
+  **مدت:** حدود 38.9 دقیقه  
+  **عنوان:** [Pump Body Modeling in SolidWorks (Swept Cut, Revolved Cut,Extruded Cut)](https://www.youtube.com/watch?v=Ijt1ucm_ICE)  
+  ![](https://i.ytimg.com/vi/Ijt1ucm_ICE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-20 03:30:02 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-20T14:14:21Z_
   **مدت:** حدود 12.9 دقیقه  
   **عنوان:** [Solidworks tutorial sheet metal](https://www.youtube.com/watch?v=Q3eiBb54S1c)  
   ![](https://i.ytimg.com/vi/Q3eiBb54S1c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-03 12:47:26 (UTC)  
-  **مدت:** حدود 23.9 دقیقه  
-  **عنوان:** [Solidworks tutorial Basic of Weldments](https://www.youtube.com/watch?v=uv87tTAJckc)  
-  ![](https://i.ytimg.com/vi/uv87tTAJckc/hqdefault.jpg)
