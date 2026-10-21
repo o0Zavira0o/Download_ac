@@ -1,6 +1,18 @@
-# Last Run: 2026-10-21 09:17 UTC
+# Last Run: 2026-10-21 14:58 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] They Fled Ethiopia’s War. Now, Israel May Send Them Back.
+Published: 2026-10-21T14:14:30+00:00
+Link: https://foreignpolicy.com/2026/10/21/israel-ethiopia-asylum-seekers-deportation-tigray-war/
+---
+[Foreign_Policy] Trump Is Making a Mess of Diego Garcia
+Published: 2026-10-21T12:29:40+00:00
+Link: https://foreignpolicy.com/2026/10/21/diego-garcia-trump-uk-mauritius-china-chagos-islands-treaty-military/
+---
+[Foreign_Policy] The Banking Scandal Upending Brazil’s Election
+Published: 2026-10-21T11:00:39+00:00
+Link: https://foreignpolicy.com/2026/10/21/brazil-election-lula-bolsonaro-banco-master-supreme-court-moraes/
+---
 [Foreign_Affairs] How Russia Sees the World Now
 Published: 2026-10-21T08:00:00+00:00
 Link: https://www.foreignaffairs.com/russia/how-russia-sees-world-now
@@ -44,6 +56,10 @@ Link: https://foreignpolicy.com/2026/10/20/sen-shaheen-democrats-us-midterms-tru
 [Foreign_Policy] The Conciliator
 Published: 2026-10-20T10:00:21+00:00
 Link: https://foreignpolicy.com/2026/10/20/the-conciliator/
+---
+[Foreign_Affairs] Empires of AI
+Published: 2026-10-20T04:00:00+00:00
+Link: https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt
 ---
 [Foreign_Affairs] AI Is a Choice
 Published: 2026-10-20T04:00:00+00:00
@@ -160,24 +176,4 @@ Link: https://www.foreignaffairs.com/united-states/better-america-first
 [Foreign_Policy] How Congress Fixed Social Security During Its Last Crisis
 Published: 2026-10-19T05:32:24+00:00
 Link: https://foreignpolicy.com/2026/10/19/congress-fixed-social-security/
----
-[New_Yorker_Magazine] How the D.S.A. Learned to Love Elections
-Published: 2026-10-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/how-the-dsa-learned-to-love-elections
----
-[New_Yorker_Magazine] “Appeasement, Ohio,” by George Saunders
-Published: 2026-10-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/appeasement-ohio-fiction-george-saunders
----
-[New_Yorker_Magazine] The Bari Weiss Effect on “60 Minutes”
-Published: 2026-10-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/the-bari-weiss-effect-on-60-minutes
----
-[New_Yorker_Magazine] “Shortcut,” by Diane Mehta
-Published: 2026-10-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/shortcut-diane-mehta-poem
----
-[New_Yorker_Magazine] “The Woodcutter,” by Nick Laird
-Published: 2026-10-18T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/the-woodcutter-nick-laird-poem
 ---
