@@ -1,6 +1,10 @@
-# Last Run: 2026-10-22 14:57 UTC
+# Last Run: 2026-10-22 20:03 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Europe Is Asking the Wrong Question About Russia’s Hybrid War
+Published: 2026-10-22T18:26:54+00:00
+Link: https://foreignpolicy.com/2026/10/22/europe-russia-hybrid-war-escalation/
+---
 [Foreign_Policy] Brazil’s Sovereignty Is on the Ballot
 Published: 2026-10-22T11:00:35+00:00
 Link: https://foreignpolicy.com/2026/10/22/brazil-election-lula-bolsonaro-trump-us-military-shield-americas/
@@ -136,16 +140,4 @@ Link: https://www.foreignaffairs.com/the-back-page/earth-satellites-and-foreign-
 [Foreign_Policy] France Orders Curfews Amid Widespread Rioting
 Published: 2026-10-19T20:46:23+00:00
 Link: https://foreignpolicy.com/2026/10/19/france-protests-violence-riots-curfew-paris-lecornu-macron-melenchon/
----
-[Foreign_Policy] In Israel, Election Day Is Just the Beginning of the Story
-Published: 2026-10-19T19:56:05+00:00
-Link: https://foreignpolicy.com/2026/10/19/israel-election-netanyahu-polls-parties-coalition/
----
-[Foreign_Policy] Why Is France Perpetually Rioting?
-Published: 2026-10-19T19:03:39+00:00
-Link: https://foreignpolicy.com/2026/10/19/france-student-protests-riots-police-street-violence-politics-macron/
----
-[Foreign_Policy] Europe Is Finally Getting Tough on China. Now Comes the Hard Part.
-Published: 2026-10-19T15:13:51+00:00
-Link: https://foreignpolicy.com/2026/10/19/europe-china-france-germany-trade-economy/
 ---
