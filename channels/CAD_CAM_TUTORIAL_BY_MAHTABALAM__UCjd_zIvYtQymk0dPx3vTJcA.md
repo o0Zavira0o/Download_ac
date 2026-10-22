@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
+_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-22 03:30:37 (UTC)  
+  **مدت:** حدود 33.8 دقیقه  
+  **عنوان:** [Hydraulic Cylinder Modeling in SolidWorks (Swept Cut, Revolved Cut,Hole Wizard Tapped Hole)](https://www.youtube.com/watch?v=E8mUEdrri38)  
+  ![](https://i.ytimg.com/vi/E8mUEdrri38/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-21 03:30:04 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
   **مدت:** حدود 21.0 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Cam and Follower mechanism in Solidworks](https://www.youtube.com/watch?v=fRL2z3a6Ic4)  
   ![](https://i.ytimg.com/vi/fRL2z3a6Ic4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-05 13:00:27 (UTC)  
-  **مدت:** حدود 12.9 دقیقه  
-  **عنوان:** [Solidworks tutorial sheet metal](https://www.youtube.com/watch?v=Q3eiBb54S1c)  
-  ![](https://i.ytimg.com/vi/Q3eiBb54S1c/hqdefault.jpg)

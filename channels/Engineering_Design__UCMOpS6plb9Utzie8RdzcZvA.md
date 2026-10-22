@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
+_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-22 02:42:30 (UTC)  
+  **مدت:** حدود 6.9 دقیقه  
+  **عنوان:** [How to Design a Chair in SOLIDWORKS 🔥 | 3D Modeling Tutorial Step by Step](https://www.youtube.com/watch?v=FnPdP4NHFpw)  
+  ![](https://i.ytimg.com/vi/FnPdP4NHFpw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-21 03:03:48 (UTC)  
@@ -896,11 +902,5 @@ _آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
 
 - **تاریخ انتشار:** 2026-01-02 03:46:04 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Rib Features in SolidWorks: The Ultimate Guide](https://www.youtube.com/watch?v=3JTRxkw-bw4)  
+  **عنوان:** [SolidWorks Rib command made easy #solidworks #cad #shorts](https://www.youtube.com/watch?v=3JTRxkw-bw4)  
   ![](https://i.ytimg.com/vi/3JTRxkw-bw4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-01 02:20:36 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Master the Circular Pattern Command in SolidWorks!](https://www.youtube.com/watch?v=-1ptuFmoG34)  
-  ![](https://i.ytimg.com/vi/-1ptuFmoG34/hqdefault.jpg)

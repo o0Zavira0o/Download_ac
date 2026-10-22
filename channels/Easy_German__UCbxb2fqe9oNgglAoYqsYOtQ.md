@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
+_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-22 06:00:29 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Mit Easy French auf der Seine](https://www.youtube.com/watch?v=qpEFOyI1YrY)  
+  ![](https://i.ytimg.com/vi/qpEFOyI1YrY/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-21 17:00:01 (UTC)  
+  **مدت:** حدود 16.1 دقیقه  
+  **عنوان:** [Learn Austrian German with Me in Klagenfurt](https://www.youtube.com/watch?v=b-k2yDRx6yw)  
+  ![](https://i.ytimg.com/vi/b-k2yDRx6yw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-20 12:53:40 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
   **مدت:** حدود 3.0 دقیقه  
   **عنوان:** [It's Mathias' 30th Birthday, let's surprise him with tons of good Wishes 😃](https://www.youtube.com/watch?v=pypFKSKbR5w)  
   ![](https://i.ytimg.com/vi/pypFKSKbR5w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-31 18:26:12 (UTC)  
-  **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [German Prepositions: AUF | Super Easy German (34)](https://www.youtube.com/watch?v=KQymZnmyFSg)  
-  ![](https://i.ytimg.com/vi/KQymZnmyFSg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-31 08:11:04 (UTC)  
-  **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [200 episodes of Easy German | Become part of our video](https://www.youtube.com/watch?v=KR1EdRQRkDQ)  
-  ![](https://i.ytimg.com/vi/KR1EdRQRkDQ/hqdefault.jpg)

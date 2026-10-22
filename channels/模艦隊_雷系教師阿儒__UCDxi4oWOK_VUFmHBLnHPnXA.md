@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
+_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
@@ -608,299 +608,299 @@ _آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
 
 - **تاریخ انتشار:** 2025-11-07 11:00:17 (UTC)  
   **مدت:** حدود 30.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=805JwsMRElI)  
-  ![]()
+  **عنوان:** [【onshape】產品練習：農具工具｜掃出+疊層拉伸｜複製特徵](https://www.youtube.com/watch?v=805JwsMRElI)  
+  ![](https://i.ytimg.com/vi/805JwsMRElI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-11-05 11:01:56 (UTC)  
   **مدت:** حدود 9.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=vNALSdJRsoQ)  
-  ![]()
+  **عنوان:** [【SolidWorks】參考幾何：基準面｜選擇基準面，就是你的江湖生存術！](https://www.youtube.com/watch?v=vNALSdJRsoQ)  
+  ![](https://i.ytimg.com/vi/vNALSdJRsoQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-31 11:01:31 (UTC)  
   **مدت:** حدود 15.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=etoxWTt5ffM)  
-  ![]()
+  **عنوان:** [【onshape】產品練習：塑膠刀子｜介紹曲線複製排列](https://www.youtube.com/watch?v=etoxWTt5ffM)  
+  ![](https://i.ytimg.com/vi/etoxWTt5ffM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-29 11:02:00 (UTC)  
   **مدت:** حدود 12.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ofcnSl19TMk)  
-  ![]()
+  **عنوان:** [【SolidWorks】基礎零件：練習建模組合拳｜分割+結合｜數學關係式｜反轉除料邊](https://www.youtube.com/watch?v=ofcnSl19TMk)  
+  ![](https://i.ytimg.com/vi/ofcnSl19TMk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-25 11:00:12 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=8K0ZpSnQj_c)  
-  ![]()
+  **عنوان:** [短片看建模：Onshape多管接口](https://www.youtube.com/watch?v=8K0ZpSnQj_c)  
+  ![](https://i.ytimg.com/vi/8K0ZpSnQj_c/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-24 11:01:09 (UTC)  
   **مدت:** حدود 19.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=YEIATQeRvKM)  
-  ![]()
+  **عنوان:** [【onshape】零件畫組合件：木作盒子｜這種畫法很方便](https://www.youtube.com/watch?v=YEIATQeRvKM)  
+  ![](https://i.ytimg.com/vi/YEIATQeRvKM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-22 11:01:01 (UTC)  
   **مدت:** حدود 17.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=UfGw8S7IlpU)  
-  ![]()
+  **عنوان:** [【SolidWorks】基礎零件：基準面+曲面除料｜阿儒不用草圖除料，改用刀切｜Use Planes as Knives](https://www.youtube.com/watch?v=UfGw8S7IlpU)  
+  ![](https://i.ytimg.com/vi/UfGw8S7IlpU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-18 11:00:11 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=4Uwl4kO1c-g)  
-  ![]()
+  **عنوان:** [短片看建模：Onshape產品練習 花瓶](https://www.youtube.com/watch?v=4Uwl4kO1c-g)  
+  ![](https://i.ytimg.com/vi/4Uwl4kO1c-g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-17 11:01:16 (UTC)  
   **مدت:** حدود 11.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=fj3QSff4lP4)  
-  ![]()
+  **عنوان:** [【onshape】產品練習：水果籃｜大量建模組合拳](https://www.youtube.com/watch?v=fj3QSff4lP4)  
+  ![](https://i.ytimg.com/vi/fj3QSff4lP4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-15 11:00:07 (UTC)  
   **مدت:** حدود 37.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=2hGLPLeZwKk)  
-  ![]()
+  **عنوان:** [【SolidWorks】零件練習：固定座｜網友敲碗](https://www.youtube.com/watch?v=2hGLPLeZwKk)  
+  ![](https://i.ytimg.com/vi/2hGLPLeZwKk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-11 11:00:59 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=cguPh9pHa38)  
-  ![]()
+  **عنوان:** [短片看建模：Onshape產品練習 汽車輪圈](https://www.youtube.com/watch?v=cguPh9pHa38)  
+  ![](https://i.ytimg.com/vi/cguPh9pHa38/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-10 11:00:16 (UTC)  
   **مدت:** حدود 7.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=7vnrJ9ZhaQM)  
-  ![]()
+  **عنوان:** [【onshape】產品練習：湯匙｜超可愛｜建模組合拳](https://www.youtube.com/watch?v=7vnrJ9ZhaQM)  
+  ![](https://i.ytimg.com/vi/7vnrJ9ZhaQM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-08 11:01:16 (UTC)  
   **مدت:** حدود 18.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=gfTN1Rgywqc)  
-  ![]()
+  **عنوان:** [【SolidWorks】產品練習：漏斗｜練習疊層拉伸｜網友敲碗sw版](https://www.youtube.com/watch?v=gfTN1Rgywqc)  
+  ![](https://i.ytimg.com/vi/gfTN1Rgywqc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-04 11:01:35 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=sSB_FtWKkmI)  
-  ![]()
+  **عنوان:** [短片看建模：Onshape法蘭的順序怎麼畫?](https://www.youtube.com/watch?v=sSB_FtWKkmI)  
+  ![](https://i.ytimg.com/vi/sSB_FtWKkmI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-03 11:01:01 (UTC)  
   **مدت:** حدود 20.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Q0-giAuDkKA)  
-  ![]()
+  **عنوان:** [【onshape】CSWA練習題｜大量練習複製特徵｜學會簡化草圖](https://www.youtube.com/watch?v=Q0-giAuDkKA)  
+  ![](https://i.ytimg.com/vi/Q0-giAuDkKA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-10-01 11:01:56 (UTC)  
   **مدت:** حدود 16.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=v49aOJPz0mM)  
-  ![]()
+  **عنوان:** [【SolidWorks】加圓角練習｜怎麼加是一門藝術](https://www.youtube.com/watch?v=v49aOJPz0mM)  
+  ![](https://i.ytimg.com/vi/v49aOJPz0mM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-09-27 11:01:13 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=j-YATshAacw)  
-  ![]()
+  **عنوان:** [短片看建模：Solidworks日常練習](https://www.youtube.com/watch?v=j-YATshAacw)  
+  ![](https://i.ytimg.com/vi/j-YATshAacw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-09-26 11:00:26 (UTC)  
   **مدت:** حدود 12.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=7rRtIF4Kq3o)  
-  ![]()
+  **عنوان:** [【onshape】產品練習：手持工具｜把很難變簡單](https://www.youtube.com/watch?v=7rRtIF4Kq3o)  
+  ![](https://i.ytimg.com/vi/7rRtIF4Kq3o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-09-24 11:00:17 (UTC)  
   **مدت:** حدود 10.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=9hwSnu147pY)  
-  ![]()
+  **عنوان:** [【SolidWorks】阿儒通過CSWP認證｜歷劫重生 差點GG 考前必看｜考後心得](https://www.youtube.com/watch?v=9hwSnu147pY)  
+  ![](https://i.ytimg.com/vi/9hwSnu147pY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-09-20 11:00:54 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=W4gAZK5FePw)  
-  ![]()
+  **عنوان:** [短片看建模：Solidworks認證題目練習](https://www.youtube.com/watch?v=W4gAZK5FePw)  
+  ![](https://i.ytimg.com/vi/W4gAZK5FePw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-09-19 11:00:01 (UTC)  
   **مدت:** حدود 21.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=aARuS6l2I0s)  
-  ![]()
+  **عنوان:** [【onshape】產品練習：鉤子｜疊層拉伸是設計師必學指令](https://www.youtube.com/watch?v=aARuS6l2I0s)  
+  ![](https://i.ytimg.com/vi/aARuS6l2I0s/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-09-17 11:00:40 (UTC)  
   **مدت:** حدود 11.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=MNgCOSEFB_8)  
-  ![]()
+  **عنوان:** [【SolidWorks】如何輕鬆的建模? How to Model Easily｜善用特徵指令：薄殼、肋材 Shell & Rib](https://www.youtube.com/watch?v=MNgCOSEFB_8)  
+  ![](https://i.ytimg.com/vi/MNgCOSEFB_8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-09-13 11:01:36 (UTC)  
   **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ysj86sEarmU)  
-  ![]()
+  **عنوان:** [短片看建模：Solidworks作品分享](https://www.youtube.com/watch?v=ysj86sEarmU)  
+  ![](https://i.ytimg.com/vi/ysj86sEarmU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-09-12 11:01:54 (UTC)  
   **مدت:** حدود 22.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=w1HMi12LseA)  
-  ![]()
+  **عنوان:** [【onshape】產品練習：支架｜大量掃出+合成曲線｜Multiple Sweeps｜Composite](https://www.youtube.com/watch?v=w1HMi12LseA)  
+  ![](https://i.ytimg.com/vi/w1HMi12LseA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-09-10 11:01:22 (UTC)  
   **مدت:** حدود 18.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=jMJCcoDpsTI)  
-  ![]()
+  **عنوان:** [【SolidWorks】溝槽的兩種方法｜建模組合拳｜Two Groove Methods｜Modeling Combo Techniques](https://www.youtube.com/watch?v=jMJCcoDpsTI)  
+  ![](https://i.ytimg.com/vi/jMJCcoDpsTI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-09-06 11:00:00 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=07Cvjz9xn4A)  
-  ![]()
+  **عنوان:** [短片看建模：Solidworks建模作品分享](https://www.youtube.com/watch?v=07Cvjz9xn4A)  
+  ![](https://i.ytimg.com/vi/07Cvjz9xn4A/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-09-05 11:01:50 (UTC)  
   **مدت:** حدود 37.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=xH3GSkefD5Y)  
-  ![]()
+  **عنوان:** [【onshape】證照題庫練習｜加上曲面變簡單 CSWP Exam Practice｜The Secret to Easy 3D Modeling](https://www.youtube.com/watch?v=xH3GSkefD5Y)  
+  ![](https://i.ytimg.com/vi/xH3GSkefD5Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-09-03 11:01:14 (UTC)  
   **مدت:** حدود 14.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=eur7X53sAwk)  
-  ![]()
+  **عنوان:** [【SolidWorks】加入拔模練習｜建模的原型食物 Taper Tutorial | The Tasty Prototype of Design Modeling](https://www.youtube.com/watch?v=eur7X53sAwk)  
+  ![](https://i.ytimg.com/vi/eur7X53sAwk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-30 11:01:29 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ub1Sk23ltP0)  
-  ![]()
+  **عنوان:** [短片看建模：Onshape日常練習](https://www.youtube.com/watch?v=ub1Sk23ltP0)  
+  ![](https://i.ytimg.com/vi/ub1Sk23ltP0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-29 11:01:02 (UTC)  
   **مدت:** حدود 14.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=V4-N7PXje44)  
-  ![]()
+  **عنوان:** [【onshape】產品練習：椅子｜燈籠骨架概念×布林運算，輕鬆省事完成造型！](https://www.youtube.com/watch?v=V4-N7PXje44)  
+  ![](https://i.ytimg.com/vi/V4-N7PXje44/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-27 11:01:01 (UTC)  
   **مدت:** حدود 19.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=V7RJQvaomu8)  
-  ![]()
+  **عنوان:** [【SolidWorks】分區處理練習｜彈性建模技巧大公開](https://www.youtube.com/watch?v=V7RJQvaomu8)  
+  ![](https://i.ytimg.com/vi/V7RJQvaomu8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-23 11:00:20 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=EeFMuJvFXWA)  
-  ![]()
+  **عنوان:** [短片看建模：Onshape檢定題練習](https://www.youtube.com/watch?v=EeFMuJvFXWA)  
+  ![](https://i.ytimg.com/vi/EeFMuJvFXWA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-22 11:00:52 (UTC)  
   **مدت:** حدود 15.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=QFBvR-Qof2I)  
-  ![]()
+  **عنوان:** [【onshape】產品練習：馬克杯｜兩種做握把的方法](https://www.youtube.com/watch?v=QFBvR-Qof2I)  
+  ![](https://i.ytimg.com/vi/QFBvR-Qof2I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-20 11:01:24 (UTC)  
   **مدت:** حدود 11.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=tO0oJ5z3lqg)  
-  ![]()
+  **عنوان:** [【SolidWorks】拔模練習｜為什麼會這樣勒?](https://www.youtube.com/watch?v=tO0oJ5z3lqg)  
+  ![](https://i.ytimg.com/vi/tO0oJ5z3lqg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-16 11:00:28 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=CSPPBoLecq0)  
-  ![]()
+  **عنوان:** [短片看建模：Onshape日常練習](https://www.youtube.com/watch?v=CSPPBoLecq0)  
+  ![](https://i.ytimg.com/vi/CSPPBoLecq0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-15 11:00:03 (UTC)  
   **مدت:** حدود 8.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=21lAfw35NK0)  
-  ![]()
+  **عنوان:** [【onshape】產品練習：迴紋針｜掃出練習｜投影曲線取代3D草圖](https://www.youtube.com/watch?v=21lAfw35NK0)  
+  ![](https://i.ytimg.com/vi/21lAfw35NK0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-13 11:00:03 (UTC)  
   **مدت:** حدود 38.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=0CkoZFx3lqA)  
-  ![]()
+  **عنوان:** [【SolidWorks】產品練習：椅子｜基準面+掃出｜長片](https://www.youtube.com/watch?v=0CkoZFx3lqA)  
+  ![](https://i.ytimg.com/vi/0CkoZFx3lqA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-09 11:00:02 (UTC)  
   **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=0YBC7E_rSF4)  
-  ![]()
+  **عنوان:** [短片看建模：Onshape考題練習](https://www.youtube.com/watch?v=0YBC7E_rSF4)  
+  ![](https://i.ytimg.com/vi/0YBC7E_rSF4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-08 11:00:50 (UTC)  
   **مدت:** حدود 10.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Oo5oulAsNBg)  
-  ![]()
+  **عنوان:** [【onshape】產品練習：湯匙(量匙)｜大量拔模｜父親節快樂](https://www.youtube.com/watch?v=Oo5oulAsNBg)  
+  ![](https://i.ytimg.com/vi/Oo5oulAsNBg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-06 11:01:29 (UTC)  
   **مدت:** حدود 9.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=iQcCQQFb1eA)  
-  ![]()
+  **عنوان:** [【SolidWorks】必學建模combo技｜成為最帥的焦點｜分區處理](https://www.youtube.com/watch?v=iQcCQQFb1eA)  
+  ![](https://i.ytimg.com/vi/iQcCQQFb1eA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-02 11:01:28 (UTC)  
   **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=x7Geg42MMVA)  
-  ![]()
+  **عنوان:** [短片看建模：Onshape產品練習](https://www.youtube.com/watch?v=x7Geg42MMVA)  
+  ![](https://i.ytimg.com/vi/x7Geg42MMVA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-08-01 11:01:17 (UTC)  
   **مدت:** حدود 14.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=kC0TZA1IG8k)  
-  ![]()
+  **عنوان:** [【onshape】練習圓角順序｜越練越美麗｜內有拔模教學](https://www.youtube.com/watch?v=kC0TZA1IG8k)  
+  ![](https://i.ytimg.com/vi/kC0TZA1IG8k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-07-30 11:01:25 (UTC)  
   **مدت:** حدود 17.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=qOmkgs7oWqg)  
-  ![]()
+  **عنوان:** [【SolidWorks】我沒有要講「變形」指令｜用模型組態來控制設計變更](https://www.youtube.com/watch?v=qOmkgs7oWqg)  
+  ![](https://i.ytimg.com/vi/qOmkgs7oWqg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-07-26 11:01:38 (UTC)  
   **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=y-9F3Vp-rGA)  
-  ![]()
+  **عنوان:** [短片看建模：SolidWorks產品建模：收納箱](https://www.youtube.com/watch?v=y-9F3Vp-rGA)  
+  ![](https://i.ytimg.com/vi/y-9F3Vp-rGA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-07-25 11:01:34 (UTC)  
   **مدت:** حدود 15.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=qRX2GRic5Bg)  
-  ![]()
+  **عنوان:** [【onshape】產品練習：咖啡機｜自己抓尺寸](https://www.youtube.com/watch?v=qRX2GRic5Bg)  
+  ![](https://i.ytimg.com/vi/qRX2GRic5Bg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-07-23 11:00:07 (UTC)  
   **مدت:** حدود 14.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=4IRmpgg7I88)  
-  ![]()
+  **عنوان:** [【SolidWorks】魔術(建模術)：簡化草圖｜分區處理](https://www.youtube.com/watch?v=4IRmpgg7I88)  
+  ![](https://i.ytimg.com/vi/4IRmpgg7I88/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-07-19 11:01:23 (UTC)  
   **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=lao70Q0dqlE)  
-  ![]()
+  **عنوان:** [短片看建模：SolidWorks模具練習](https://www.youtube.com/watch?v=lao70Q0dqlE)  
+  ![](https://i.ytimg.com/vi/lao70Q0dqlE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-07-18 11:00:22 (UTC)  
   **مدت:** حدود 19.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=F5mI-PADccg)  
-  ![]()
+  **عنوان:** [【onshape】曲面：湯匙｜曲面練習](https://www.youtube.com/watch?v=F5mI-PADccg)  
+  ![](https://i.ytimg.com/vi/F5mI-PADccg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-07-16 11:01:33 (UTC)  
   **مدت:** حدود 11.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=qFevilctdyg)  
-  ![]()
+  **عنوان:** [【SolidWorks】檢定題目：分區處理｜簡化草圖、簡化問題](https://www.youtube.com/watch?v=qFevilctdyg)  
+  ![](https://i.ytimg.com/vi/qFevilctdyg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-07-12 11:01:33 (UTC)  
   **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=r_J4s_S4sb0)  
-  ![]()
+  **عنوان:** [短片看建模：SolidWorks零件建模順序](https://www.youtube.com/watch?v=r_J4s_S4sb0)  
+  ![](https://i.ytimg.com/vi/r_J4s_S4sb0/hqdefault.jpg)

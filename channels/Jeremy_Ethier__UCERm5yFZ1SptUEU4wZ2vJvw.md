@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
+_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -353,7 +353,7 @@ _آخرین به‌روزرسانی: 2026-10-21T14:26:13Z_
 - **تاریخ انتشار:** 2024-12-20 22:06:01 (UTC)  
   **مدت:** حدود 0.0 دقیقه  
   **عنوان:** [Jeremy Ethier Live Stream](https://www.youtube.com/watch?v=iRe4YslsErQ)  
-  ![](https://i.ytimg.com/vi/iRe4YslsErQ/hqdefault_live.jpg)
+  ![](https://i.ytimg.com/vi/iRe4YslsErQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2024-12-13 17:09:58 (UTC)  
