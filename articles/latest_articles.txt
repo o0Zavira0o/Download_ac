@@ -1,6 +1,18 @@
-# Last Run: 2026-10-22 20:03 UTC
+# Last Run: 2026-10-22 23:03 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Hegseth Could Face Impeachment if Democrats Win in November
+Published: 2026-10-22T21:21:02+00:00
+Link: https://foreignpolicy.com/2026/10/22/hegseth-impeachment-democrats-win-november/
+---
+[Foreign_Policy] Trump Puts His Faith in Putin
+Published: 2026-10-22T20:52:58+00:00
+Link: https://foreignpolicy.com/2026/10/22/trump-putin-russia-ukraine-peace-talks/
+---
+[Foreign_Policy] Netanyahu Calls on Israel to Overthrow Iranian Regime
+Published: 2026-10-22T20:16:32+00:00
+Link: https://foreignpolicy.com/2026/10/22/netanyahu-israel-election-overthrow-iran-regime-us-strikes-war/
+---
 [Foreign_Policy] Europe Is Asking the Wrong Question About Russia’s Hybrid War
 Published: 2026-10-22T18:26:54+00:00
 Link: https://foreignpolicy.com/2026/10/22/europe-russia-hybrid-war-escalation/
@@ -136,8 +148,4 @@ Link: https://www.foreignaffairs.com/united-states/limits-american-power-william
 [Foreign_Affairs] “Earth Satellites and Foreign Policy”
 Published: 2026-10-20T04:00:00+00:00
 Link: https://www.foreignaffairs.com/the-back-page/earth-satellites-and-foreign-policy
----
-[Foreign_Policy] France Orders Curfews Amid Widespread Rioting
-Published: 2026-10-19T20:46:23+00:00
-Link: https://foreignpolicy.com/2026/10/19/france-protests-violence-riots-curfew-paris-lecornu-macron-melenchon/
 ---
