@@ -1,6 +1,14 @@
-# Last Run: 2026-10-22 03:39 UTC
+# Last Run: 2026-10-22 09:15 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] Brazil’s Economic Impasse
+Published: 2026-10-22T08:00:00+00:00
+Link: https://www.foreignaffairs.com/brazil/brazils-economic-impasse
+---
+[Foreign_Affairs] A Less-Is-More Strategy for America
+Published: 2026-10-22T08:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/less-more-strategy-america
+---
 [Foreign_Policy] What a New Rebel Alliance Means for Congo
 Published: 2026-10-22T00:36:19+00:00
 Link: https://foreignpolicy.com/2026/10/21/what-a-new-rebel-alliance-means-for-congo/
@@ -192,16 +200,4 @@ Link: https://www.newyorker.com/magazine/2026/10/26/josh-safdies-top-ten-or-so-n
 [New_Yorker_Magazine] Computer Chips Are the Most Magnificent Things Humanity Has Ever Made
 Published: 2026-10-19T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/10/26/computer-chips-are-the-most-magnificent-things-weve-ever-made
----
-[Foreign_Affairs] Europe’s Credibility Gap
-Published: 2026-10-19T08:00:00+00:00
-Link: https://www.foreignaffairs.com/europe/europes-credibility-gap
----
-[Foreign_Affairs] A Better “America First”
-Published: 2026-10-19T08:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/better-america-first
----
-[Foreign_Policy] How Congress Fixed Social Security During Its Last Crisis
-Published: 2026-10-19T05:32:24+00:00
-Link: https://foreignpolicy.com/2026/10/19/congress-fixed-social-security/
 ---
