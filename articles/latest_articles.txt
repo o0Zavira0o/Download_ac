@@ -1,6 +1,14 @@
-# Last Run: 2026-10-22 09:15 UTC
+# Last Run: 2026-10-22 14:57 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Brazil’s Sovereignty Is on the Ballot
+Published: 2026-10-22T11:00:35+00:00
+Link: https://foreignpolicy.com/2026/10/22/brazil-election-lula-bolsonaro-trump-us-military-shield-americas/
+---
+[Foreign_Policy] Could AI Disinformation Disrupt the Midterms?
+Published: 2026-10-22T10:00:44+00:00
+Link: https://foreignpolicy.com/2026/10/22/midterm-election-ai-disinformation-openai-anthropic-microsoft/
+---
 [Foreign_Affairs] Brazil’s Economic Impasse
 Published: 2026-10-22T08:00:00+00:00
 Link: https://www.foreignaffairs.com/brazil/brazils-economic-impasse
@@ -140,64 +148,4 @@ Link: https://foreignpolicy.com/2026/10/19/france-student-protests-riots-police-
 [Foreign_Policy] Europe Is Finally Getting Tough on China. Now Comes the Hard Part.
 Published: 2026-10-19T15:13:51+00:00
 Link: https://foreignpolicy.com/2026/10/19/europe-china-france-germany-trade-economy/
----
-[Foreign_Policy] Trump Can Push Past Israeli-Palestinian Paralysis
-Published: 2026-10-19T14:18:19+00:00
-Link: https://foreignpolicy.com/2026/10/19/trump-israel-palestine-gaza-west-bank-peace-elections/
----
-[Foreign_Policy] China Is a Peer Competitor in a Dangerous Space Race
-Published: 2026-10-19T11:00:19+00:00
-Link: https://foreignpolicy.com/2026/10/19/china-space-musk-race-satellites-moon/
----
-[Foreign_Policy] The Iran War Has Changed the World Forever
-Published: 2026-10-19T10:00:09+00:00
-Link: https://foreignpolicy.com/2026/10/19/iran-war-effects-world-gulf-china-israel/
----
-[New_Yorker_Magazine] The Danger of Getting Too Close to a Source
-Published: 2026-10-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/the-danger-of-getting-too-close-to-a-source
----
-[New_Yorker_Magazine] “The Brightness,” Reviewed: Chad Harbach’s Sequel to “The Art of Fielding”
-Published: 2026-10-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/the-brightness-chad-harbach-book-review
----
-[New_Yorker_Magazine] Louise Glück’s Life in Restaurants
-Published: 2026-10-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/louise-glucks-life-in-restaurants
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-10-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/blockers-exhibit-g-passengers-few-and-far-between
----
-[New_Yorker_Magazine] Bill Irwin Is the O.G. Clown
-Published: 2026-10-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/bill-irwin-is-the-og-clown
----
-[New_Yorker_Magazine] Frank Capra’s Mythmaking Magic
-Published: 2026-10-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/frank-capra-a-life-sam-wasson-book-review
----
-[New_Yorker_Magazine] The New Age of Reading
-Published: 2026-10-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/james-daunt-profile
----
-[New_Yorker_Magazine] When God Is Another Addiction
-Published: 2026-10-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/will-and-attention-meghan-ogieblyns-book-review
----
-[New_Yorker_Magazine] The Perils of Time Travel
-Published: 2026-10-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/the-perils-of-time-travel
----
-[New_Yorker_Magazine] The Furry Prima Donna of “La Bohème”
-Published: 2026-10-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/the-furry-prima-donna-of-la-boheme
----
-[New_Yorker_Magazine] Josh Safdie’s Top Ten (or So) N.Y.C. Films
-Published: 2026-10-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/josh-safdies-top-ten-or-so-new-york-films
----
-[New_Yorker_Magazine] Computer Chips Are the Most Magnificent Things Humanity Has Ever Made
-Published: 2026-10-19T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/10/26/computer-chips-are-the-most-magnificent-things-weve-ever-made
 ---
