@@ -1,4 +1,4 @@
-# Last Run: 2026-10-23 03:44 UTC
+# Last Run: 2026-10-23 09:12 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Hegseth Could Face Impeachment if Democrats Win in November
@@ -116,36 +116,4 @@ Link: https://foreignpolicy.com/2026/10/20/sen-shaheen-democrats-us-midterms-tru
 [Foreign_Policy] The Conciliator
 Published: 2026-10-20T10:00:21+00:00
 Link: https://foreignpolicy.com/2026/10/20/the-conciliator/
----
-[Foreign_Affairs] Empires of AI
-Published: 2026-10-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt
----
-[Foreign_Affairs] AI Is a Choice
-Published: 2026-10-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/ai-choice-imas-el-erian-manyika
----
-[Foreign_Affairs] The China Price
-Published: 2026-10-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/china-price-zongyuan-zoe-liu
----
-[Foreign_Affairs] Empires of AI
-Published: 2026-10-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt
----
-[Foreign_Affairs] The Chokepoint Trap
-Published: 2026-10-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/chokepoint-trap-economics-farrell-newman-tan
----
-[Foreign_Affairs] The Fog of Tech
-Published: 2026-10-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/fog-tech-artificial-intelligence-mara-karlin-ai
----
-[Foreign_Affairs] The Limits of American Power
-Published: 2026-10-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/limits-american-power-william-mcraven
----
-[Foreign_Affairs] “Earth Satellites and Foreign Policy”
-Published: 2026-10-20T04:00:00+00:00
-Link: https://www.foreignaffairs.com/the-back-page/earth-satellites-and-foreign-policy
 ---
