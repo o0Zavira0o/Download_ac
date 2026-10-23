@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
+_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-23 02:49:49 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [The Most Hypnotic Gear Mechanism Ever Designed](https://www.youtube.com/watch?v=t9Iusyw-YtI)  
+  ![](https://i.ytimg.com/vi/t9Iusyw-YtI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-22 02:42:30 (UTC)  
@@ -20,7 +26,7 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
 
 - **تاریخ انتشار:** 2026-10-20 13:18:50 (UTC)  
   **مدت:** حدود 14.8 دقیقه  
-  **عنوان:** [SolidWorks Weldments Tutorial - Mechanical Shelf Assembly Design in SolidWorks | 6061 Aluminum Frame](https://www.youtube.com/watch?v=m6q9owpkOtw)  
+  **عنوان:** [SolidWorks Weldments: Design a Professional Industrial Shelf](https://www.youtube.com/watch?v=m6q9owpkOtw)  
   ![](https://i.ytimg.com/vi/m6q9owpkOtw/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
   **مدت:** حدود 15.2 دقیقه  
   **عنوان:** [✅Modern Bookshelf Design in 2024 | Solidworks Furniture Tutorial | Solidworks Weldments](https://www.youtube.com/watch?v=UMsg25ro8OQ)  
   ![](https://i.ytimg.com/vi/UMsg25ro8OQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-02 03:46:04 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [SolidWorks Rib command made easy #solidworks #cad #shorts](https://www.youtube.com/watch?v=3JTRxkw-bw4)  
-  ![](https://i.ytimg.com/vi/3JTRxkw-bw4/hqdefault.jpg)

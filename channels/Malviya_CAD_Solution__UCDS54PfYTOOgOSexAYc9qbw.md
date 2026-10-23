@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
+_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-10-23 11:46:23 (UTC)  
+  **مدت:** حدود 2.2 دقیقه  
+  **عنوان:** [Surface thicken cut in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=Fmek2BY33G8)  
+  ![](https://i.ytimg.com/vi/Fmek2BY33G8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-18 03:33:54 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [Move face in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=2tS0gzaMths)  
   ![](https://i.ytimg.com/vi/2tS0gzaMths/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-10 04:44:14 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [what's new in linear pattern solidworks 2025 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=P8TjV3F23r4)  
-  ![](https://i.ytimg.com/vi/P8TjV3F23r4/hqdefault.jpg)

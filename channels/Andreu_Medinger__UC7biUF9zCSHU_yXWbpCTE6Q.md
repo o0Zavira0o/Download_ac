@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
+_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-10-23 11:45:18 (UTC)  
+  **مدت:** حدود 73.2 دقیقه  
+  **عنوان:** [AULA 4 - DESTRAVAR SOLIDWORKS](https://www.youtube.com/watch?v=9MrDJOwfCoY)  
+  ![](https://i.ytimg.com/vi/9MrDJOwfCoY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-22 11:45:38 (UTC)  
@@ -308,302 +314,302 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
 
 - **تاریخ انتشار:** 2026-05-04 22:30:10 (UTC)  
   **مدت:** حدود 28.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=_t-3aWv_brA)  
-  ![]()
+  **عنوان:** [AULA 6 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Linha de Produção #solidworks](https://www.youtube.com/watch?v=_t-3aWv_brA)  
+  ![](https://i.ytimg.com/vi/_t-3aWv_brA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-02 23:11:17 (UTC)  
   **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=6ILEzCxSkvk)  
-  ![]()
+  **عنوان:** [LOCTITE TRAVA ROSCA #loctite #engenharia #mecanica #soldagem #usinagem](https://www.youtube.com/watch?v=6ILEzCxSkvk)  
+  ![](https://i.ytimg.com/vi/6ILEzCxSkvk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-01 22:30:09 (UTC)  
   **مدت:** حدود 28.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=nJxTfT_Tw8w)  
-  ![]()
+  **عنوان:** [AULA 5 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Linha de Produção #solidworks](https://www.youtube.com/watch?v=nJxTfT_Tw8w)  
+  ![](https://i.ytimg.com/vi/nJxTfT_Tw8w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-04-27 22:30:15 (UTC)  
   **مدت:** حدود 26.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=VmFWYvQLCZM)  
-  ![]()
+  **عنوان:** [AULA 4 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Linha de Produção #solidworks](https://www.youtube.com/watch?v=VmFWYvQLCZM)  
+  ![](https://i.ytimg.com/vi/VmFWYvQLCZM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-04-24 22:30:07 (UTC)  
   **مدت:** حدود 31.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=QTUn3-F4oMQ)  
-  ![]()
+  **عنوان:** [AULA 3 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Linha de Produção #solidworks](https://www.youtube.com/watch?v=QTUn3-F4oMQ)  
+  ![](https://i.ytimg.com/vi/QTUn3-F4oMQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-04-23 22:52:56 (UTC)  
   **مدت:** حدود 2.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=bxXrGpWf7MU)  
-  ![]()
+  **عنوان:** [TESTE DE FAÍSCA EM AÇOS - #solidworks #hardox #strenx #engenhariamecanica](https://www.youtube.com/watch?v=bxXrGpWf7MU)  
+  ![](https://i.ytimg.com/vi/bxXrGpWf7MU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-04-22 22:32:02 (UTC)  
   **مدت:** حدود 28.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=g_yz1kgra8I)  
-  ![]()
+  **عنوان:** [AULA 2 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Linha de Produção #solidworks](https://www.youtube.com/watch?v=g_yz1kgra8I)  
+  ![](https://i.ytimg.com/vi/g_yz1kgra8I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-04-09 22:30:10 (UTC)  
   **مدت:** حدود 63.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=CUEjR1jgga8)  
-  ![]()
+  **عنوان:** [AULA 1 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Linha de Produção #solidworks](https://www.youtube.com/watch?v=CUEjR1jgga8)  
+  ![](https://i.ytimg.com/vi/CUEjR1jgga8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-04-08 22:56:06 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=6w0AR9Naqak)  
-  ![]()
+  **عنوان:** [PARAFUSOS NA OFICINA #solidworks #engenhariamecanica #usinagem #soldagem](https://www.youtube.com/watch?v=6w0AR9Naqak)  
+  ![](https://i.ytimg.com/vi/6w0AR9Naqak/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-04-07 23:34:40 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=qW0TZpRSQfg)  
-  ![]()
+  **عنوان:** [RETALHO DE HARDOX 600 #hardox #engenhariamecanica #usinagem #soldagem #cutelaria](https://www.youtube.com/watch?v=qW0TZpRSQfg)  
+  ![](https://i.ytimg.com/vi/qW0TZpRSQfg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-04-05 15:18:47 (UTC)  
   **مدت:** حدود 1.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=z_RD0CpO7Tc)  
-  ![]()
+  **عنوان:** [Por que as ferramentas atuais são tão fracas? #ferramentas #engenhariamecanica #soldagem #usinagem](https://www.youtube.com/watch?v=z_RD0CpO7Tc)  
+  ![](https://i.ytimg.com/vi/z_RD0CpO7Tc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-04-03 16:23:33 (UTC)  
   **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=kOThn7FPtfo)  
-  ![]()
+  **عنوان:** [CÓDIGO GRAVADO NOS ELETRODOS REVESTIDOS DE SOLDAGEM #solidworks #engenhariamecanica #soldagem](https://www.youtube.com/watch?v=kOThn7FPtfo)  
+  ![](https://i.ytimg.com/vi/kOThn7FPtfo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-26 23:44:20 (UTC)  
   **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=E7NvAxvgVpE)  
-  ![]()
+  **عنوان:** [CONVERSOR DE TORQUE CVT - Conteúdo Metalmecânico - Siga o perfil para receber mais conteúdos.](https://www.youtube.com/watch?v=E7NvAxvgVpE)  
+  ![](https://i.ytimg.com/vi/E7NvAxvgVpE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-14 23:08:16 (UTC)  
   **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=3vjYdCNxrLs)  
-  ![]()
+  **عنوان:** [CAVACO EM PÓ - Conteúdo Metalmecânico - Siga o perfil para receber mais conteúdos #solidworks](https://www.youtube.com/watch?v=3vjYdCNxrLs)  
+  ![](https://i.ytimg.com/vi/3vjYdCNxrLs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-06 22:30:04 (UTC)  
   **مدت:** حدود 7.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=AYj--Y_8K0k)  
-  ![]()
+  **عنوان:** [SOLIDWORKS | EXERCÍCIO 230 - CHAPA DOBRADA DE 100x30 mm #solidworks](https://www.youtube.com/watch?v=AYj--Y_8K0k)  
+  ![](https://i.ytimg.com/vi/AYj--Y_8K0k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-03 22:30:05 (UTC)  
   **مدت:** حدود 11.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=LfWWzg188ss)  
-  ![]()
+  **عنوان:** [SOLIDWORKS | EXERCÍCIO 229 - EIXO USINADO DE Ø25,4 mm x 1021 mm #solidworks](https://www.youtube.com/watch?v=LfWWzg188ss)  
+  ![](https://i.ytimg.com/vi/LfWWzg188ss/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-02-21 13:01:26 (UTC)  
   **مدت:** حدود 11.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=qcz3zVfDkQI)  
-  ![]()
+  **عنوان:** [SOLIDWORKS | EXERCÍCIO 228 - ROSCA HELICOIDAL Ø135x822x3,18 mm #solidworks](https://www.youtube.com/watch?v=qcz3zVfDkQI)  
+  ![](https://i.ytimg.com/vi/qcz3zVfDkQI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-02-19 22:48:29 (UTC)  
   **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=0eQMkaBeU04)  
-  ![]()
+  **عنوان:** [MATRIZ DE DOBRA PARA CHAPA DE AÇO - Siga o perfil para receber mais conteúdos #engenhariamecanica](https://www.youtube.com/watch?v=0eQMkaBeU04)  
+  ![](https://i.ytimg.com/vi/0eQMkaBeU04/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-02-19 22:30:13 (UTC)  
   **مدت:** حدود 32.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=lwQIdqlDI60)  
-  ![]()
+  **عنوان:** [SOLIDWORKS | EXERCÍCIO 227 - CHAPA DOBRADA DE 843x430x200x2,65mm #solidworks](https://www.youtube.com/watch?v=lwQIdqlDI60)  
+  ![](https://i.ytimg.com/vi/lwQIdqlDI60/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-02-06 22:30:13 (UTC)  
   **مدت:** حدود 14.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=jJ0mjHe0FrU)  
-  ![]()
+  **عنوان:** [SOLIDWORKS | EXERCÍCIO 226 - CHAPA DOBRADA DE 1715x188x32x2 mm #solidworks](https://www.youtube.com/watch?v=jJ0mjHe0FrU)  
+  ![](https://i.ytimg.com/vi/jJ0mjHe0FrU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-02-04 22:30:16 (UTC)  
   **مدت:** حدود 12.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=xV6zodMk4Zg)  
-  ![]()
+  **عنوان:** [O QUE SIGNIFICA A NUMERAÇÃO NA CABEÇA DOS PARAFUSOS? (Classe de Resistência)](https://www.youtube.com/watch?v=xV6zodMk4Zg)  
+  ![](https://i.ytimg.com/vi/xV6zodMk4Zg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-02-03 22:30:04 (UTC)  
   **مدت:** حدود 29.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=B51DF92TtxU)  
-  ![]()
+  **عنوان:** [AULA 91 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=B51DF92TtxU)  
+  ![](https://i.ytimg.com/vi/B51DF92TtxU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-30 22:30:04 (UTC)  
   **مدت:** حدود 29.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=E6KJKQCC7aY)  
-  ![]()
+  **عنوان:** [AULA 90 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=E6KJKQCC7aY)  
+  ![](https://i.ytimg.com/vi/E6KJKQCC7aY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-29 23:13:43 (UTC)  
   **مدت:** حدود 1.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=M3IEtUJ6O0U)  
-  ![]()
+  **عنوان:** [RESISTÊNCIA AO CALOR DOS PARAFUSOS - Siga o perfil para receber mais conteúdos #engenhariamecanica](https://www.youtube.com/watch?v=M3IEtUJ6O0U)  
+  ![](https://i.ytimg.com/vi/M3IEtUJ6O0U/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-26 22:30:04 (UTC)  
   **مدت:** حدود 29.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=JSeeapzFUwU)  
-  ![]()
+  **عنوان:** [AULA 89 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=JSeeapzFUwU)  
+  ![](https://i.ytimg.com/vi/JSeeapzFUwU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-23 15:15:13 (UTC)  
   **مدت:** حدود 10.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=uKTBSbzfue4)  
-  ![]()
+  **عنوان:** [CONSTRUINDO UMA PRENSA HIDRÁULICA DO ZERO (Building a hydraulic press from scratch)](https://www.youtube.com/watch?v=uKTBSbzfue4)  
+  ![](https://i.ytimg.com/vi/uKTBSbzfue4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-23 00:04:21 (UTC)  
   **مدت:** حدود 10.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=c4m65WEaqV0)  
-  ![]()
+  **عنوان:** [PROJETEI E CONSTRUÍ UMA PRENSA HIDRÁULICA DE 30 TONELADAS](https://www.youtube.com/watch?v=c4m65WEaqV0)  
+  ![](https://i.ytimg.com/vi/c4m65WEaqV0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-22 23:35:22 (UTC)  
   **مدت:** حدود 1.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=VIP6buxSNOU)  
-  ![]()
+  **عنوان:** [TESTE DE DOBRA EM AÇO HARDOX E A36 #solidworks #solidworksbrasil #engenhariamecanica #hardox](https://www.youtube.com/watch?v=VIP6buxSNOU)  
+  ![](https://i.ytimg.com/vi/VIP6buxSNOU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-17 22:10:38 (UTC)  
   **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=PqtLYAdjF8o)  
-  ![]()
+  **عنوان:** [RESISTÊNCIA DOS PARAFUSOS DA PRENSA HIDRÁULICA. #solidworks #solidworksbrasil #engenhariamecanica](https://www.youtube.com/watch?v=PqtLYAdjF8o)  
+  ![](https://i.ytimg.com/vi/PqtLYAdjF8o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-14 23:10:11 (UTC)  
   **مدت:** حدود 1.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=tlTDIrAJziI)  
-  ![]()
+  **عنوان:** [Conteúdo Metalmecânico - Siga o perfil para receber mais conteúdos. #solidworks #engenhariamecanica](https://www.youtube.com/watch?v=tlTDIrAJziI)  
+  ![](https://i.ytimg.com/vi/tlTDIrAJziI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-09 22:30:16 (UTC)  
   **مدت:** حدود 15.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=vXsu79BpCOU)  
-  ![]()
+  **عنوان:** [SOLIDWORKS | EXERCÍCIO 225 - CHAPA DOBRADA DE 200x32x32x2 mm #solidworks](https://www.youtube.com/watch?v=vXsu79BpCOU)  
+  ![](https://i.ytimg.com/vi/vXsu79BpCOU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-07 23:01:34 (UTC)  
   **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=cRWiFyvnuXA)  
-  ![]()
+  **عنوان:** [PRENSA HIDRÁULICA CUSTOMIZADA. Conteúdo Metalmecânico - Siga o perfil para receber mais conteúdos.](https://www.youtube.com/watch?v=cRWiFyvnuXA)  
+  ![](https://i.ytimg.com/vi/cRWiFyvnuXA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-07 22:30:29 (UTC)  
   **مدت:** حدود 6.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ySu0hF1GBBk)  
-  ![]()
+  **عنوان:** [SOLIDWORKS | EXERCÍCIO 224 - CHAPA CORTADA DE 185x100x15,88 mm #solidworks](https://www.youtube.com/watch?v=ySu0hF1GBBk)  
+  ![](https://i.ytimg.com/vi/ySu0hF1GBBk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-05 22:30:17 (UTC)  
   **مدت:** حدود 33.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=vX2UIMAlBv8)  
-  ![]()
+  **عنوان:** [AULA 88 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=vX2UIMAlBv8)  
+  ![](https://i.ytimg.com/vi/vX2UIMAlBv8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-04 23:25:47 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=t2eDTekf2B4)  
-  ![]()
+  **عنوان:** [REBITE ROSCADO - Conteúdo Metalmecânico | Siga o perfil para receber mais conteúdos. #solidworks](https://www.youtube.com/watch?v=t2eDTekf2B4)  
+  ![](https://i.ytimg.com/vi/t2eDTekf2B4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-03 23:14:01 (UTC)  
   **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=n5AI0LLikmk)  
-  ![]()
+  **عنوان:** [Conteúdo Metalmecânico - Siga o perfil para receber mais conteúdos. #solidworks #engenhariamecanica](https://www.youtube.com/watch?v=n5AI0LLikmk)  
+  ![](https://i.ytimg.com/vi/n5AI0LLikmk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-26 22:30:03 (UTC)  
   **مدت:** حدود 28.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=DuEozIThJ8Q)  
-  ![]()
+  **عنوان:** [AULA 87 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=DuEozIThJ8Q)  
+  ![](https://i.ytimg.com/vi/DuEozIThJ8Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-22 22:30:14 (UTC)  
   **مدت:** حدود 28.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=x92_rMPqSVo)  
-  ![]()
+  **عنوان:** [AULA 86 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=x92_rMPqSVo)  
+  ![](https://i.ytimg.com/vi/x92_rMPqSVo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-20 23:33:42 (UTC)  
   **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=S2PCxiAs6iw)  
-  ![]()
+  **عنوان:** [Conteúdo Metalmecânico - Siga o perfil para receber mais conteúdos. #solidworks #engenhariamecanica](https://www.youtube.com/watch?v=S2PCxiAs6iw)  
+  ![](https://i.ytimg.com/vi/S2PCxiAs6iw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-19 22:30:22 (UTC)  
   **مدت:** حدود 28.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=sFjsFFFcPVI)  
-  ![]()
+  **عنوان:** [AULA 85 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=sFjsFFFcPVI)  
+  ![](https://i.ytimg.com/vi/sFjsFFFcPVI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-18 22:30:00 (UTC)  
   **مدت:** حدود 5.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=4uX5C_6a-_Q)  
-  ![]()
+  **عنوان:** [SOLIDWORKS | EXERCÍCIO 223 - CHAPA CALANDRADA DE 779x532x140x1,5mm #solidworks](https://www.youtube.com/watch?v=4uX5C_6a-_Q)  
+  ![](https://i.ytimg.com/vi/4uX5C_6a-_Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-17 22:30:05 (UTC)  
   **مدت:** حدود 12.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=HOs7k7GeCHU)  
-  ![]()
+  **عنوان:** [SOLIDWORKS | EXERCÍCIO 222 - CHAPA CORTADA DE 780x617x1,5mm #solidworks](https://www.youtube.com/watch?v=HOs7k7GeCHU)  
+  ![](https://i.ytimg.com/vi/HOs7k7GeCHU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-16 22:30:24 (UTC)  
   **مدت:** حدود 23.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=j-rjMo2mxSo)  
-  ![]()
+  **عنوان:** [AULA 84 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=j-rjMo2mxSo)  
+  ![](https://i.ytimg.com/vi/j-rjMo2mxSo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-12 22:30:02 (UTC)  
   **مدت:** حدود 29.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=5BruaLYfqf4)  
-  ![]()
+  **عنوان:** [AULA 83 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=5BruaLYfqf4)  
+  ![](https://i.ytimg.com/vi/5BruaLYfqf4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-10 22:30:08 (UTC)  
   **مدت:** حدود 30.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=R-HYm8CJ2qU)  
-  ![]()
+  **عنوان:** [SOLIDWORKS | EXERCÍCIO 221 - CHAPA DOBRADA DE 2173x603x1,5mm #solidworks](https://www.youtube.com/watch?v=R-HYm8CJ2qU)  
+  ![](https://i.ytimg.com/vi/R-HYm8CJ2qU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-09 22:30:13 (UTC)  
   **مدت:** حدود 28.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=KMfrrb4RHMU)  
-  ![]()
+  **عنوان:** [AULA 82 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=KMfrrb4RHMU)  
+  ![](https://i.ytimg.com/vi/KMfrrb4RHMU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-07 17:31:29 (UTC)  
   **مدت:** حدود 2.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=BOZHVE_nOAg)  
-  ![]()
+  **عنوان:** [Conteúdo Metalmecânico - Siga o perfil para receber mais conteúdos. #solidworks #engenhariamecanica](https://www.youtube.com/watch?v=BOZHVE_nOAg)  
+  ![](https://i.ytimg.com/vi/BOZHVE_nOAg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-05 22:30:02 (UTC)  
   **مدت:** حدود 29.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=apqEFoKyOhU)  
-  ![]()
+  **عنوان:** [AULA 81 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=apqEFoKyOhU)  
+  ![](https://i.ytimg.com/vi/apqEFoKyOhU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-04 22:30:12 (UTC)  
   **مدت:** حدود 12.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=IS4Jn25KsR8)  
-  ![]()
+  **عنوان:** [SOLIDWORKS | EXERCÍCIO 220 - CHAPA DOBRADA DE 743x251x15,8mm #solidworks](https://www.youtube.com/watch?v=IS4Jn25KsR8)  
+  ![](https://i.ytimg.com/vi/IS4Jn25KsR8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-02 22:30:27 (UTC)  
   **مدت:** حدود 8.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=tkXpAiZ-5NI)  
-  ![]()
+  **عنوان:** [SOLIDWORKS | EXERCÍCIO 219 - CHAPA CORTADA DE 1158x224x15,8mm #solidworks  #solidworks](https://www.youtube.com/watch?v=tkXpAiZ-5NI)  
+  ![](https://i.ytimg.com/vi/tkXpAiZ-5NI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-01 22:30:05 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
   **مدت:** حدود 29.4 دقیقه  
   **عنوان:** [AULA 47 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=WY4uNFPqhEI)  
   ![](https://i.ytimg.com/vi/WY4uNFPqhEI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-05-16 23:49:15 (UTC)  
-  **مدت:** حدود 30.2 دقیقه  
-  **عنوان:** [AULA 46 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=Ympi5Btgdyo)  
-  ![](https://i.ytimg.com/vi/Ympi5Btgdyo/hqdefault.jpg)

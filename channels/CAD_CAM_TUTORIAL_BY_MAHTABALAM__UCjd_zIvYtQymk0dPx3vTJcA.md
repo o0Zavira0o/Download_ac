@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
+_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-23 03:30:12 (UTC)  
+  **مدت:** حدود 25.3 دقیقه  
+  **عنوان:** [Valve Body Modeling in SolidWorks (Swept Cut, Revolved Cut,Rib)](https://www.youtube.com/watch?v=CDKvvPcBO3U)  
+  ![](https://i.ytimg.com/vi/CDKvvPcBO3U/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-22 03:30:37 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
   **مدت:** حدود 85.7 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Anemometer in Solidworks](https://www.youtube.com/watch?v=LQz8COVp82Y)  
   ![](https://i.ytimg.com/vi/LQz8COVp82Y/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-06 07:24:01 (UTC)  
-  **مدت:** حدود 21.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Cam and Follower mechanism in Solidworks](https://www.youtube.com/watch?v=fRL2z3a6Ic4)  
-  ![](https://i.ytimg.com/vi/fRL2z3a6Ic4/hqdefault.jpg)

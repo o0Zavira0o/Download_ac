@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
+_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-23 07:40:03 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Empfehlungen zum Deutsch lernen](https://www.youtube.com/watch?v=LPNpqk2wd6w)  
+  ![](https://i.ytimg.com/vi/LPNpqk2wd6w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-22 06:00:29 (UTC)  
@@ -14,7 +20,7 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
 
 - **تاریخ انتشار:** 2026-10-21 17:00:01 (UTC)  
   **مدت:** حدود 16.1 دقیقه  
-  **عنوان:** [Learn Austrian German with Me in Klagenfurt](https://www.youtube.com/watch?v=b-k2yDRx6yw)  
+  **عنوان:** [Learn German with Me in Klagenfurt](https://www.youtube.com/watch?v=b-k2yDRx6yw)  
   ![](https://i.ytimg.com/vi/b-k2yDRx6yw/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
   **مدت:** حدود 11.9 دقیقه  
   **عنوان:** [Travelling | Easy German 198](https://www.youtube.com/watch?v=LvFvAM048d8)  
   ![](https://i.ytimg.com/vi/LvFvAM048d8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-03 18:20:46 (UTC)  
-  **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [It's Mathias' 30th Birthday, let's surprise him with tons of good Wishes 😃](https://www.youtube.com/watch?v=pypFKSKbR5w)  
-  ![](https://i.ytimg.com/vi/pypFKSKbR5w/hqdefault.jpg)

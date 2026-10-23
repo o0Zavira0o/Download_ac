@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال SolidWorks With Aryan Fallahi
 
-_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
+_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
 
 
 **لینک استاندارد کانال:** [SolidWorks With Aryan Fallahi](https://www.youtube.com/channel/UCRmLnVaHsSAH0HkXfeoxG6w)  
+
+
+- **تاریخ انتشار:** 2026-10-22 15:06:05 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [one minute solidworks part 01](https://www.youtube.com/watch?v=G9bGoT0HA-g)  
+  ![](https://i.ytimg.com/vi/G9bGoT0HA-g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-07 14:12:01 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
   **مدت:** حدود 13.4 دقیقه  
   **عنوان:** [SOLIDWORKS Drawing EP03 | BOM | Sheets | Customization](https://www.youtube.com/watch?v=ak5XVSQhLCU)  
   ![](https://i.ytimg.com/vi/ak5XVSQhLCU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2023-09-25 16:00:06 (UTC)  
-  **مدت:** حدود 17.4 دقیقه  
-  **عنوان:** [SOLIDWORKS Drawing | Make your sheet template](https://www.youtube.com/watch?v=9VX4jbs5lIY)  
-  ![](https://i.ytimg.com/vi/9VX4jbs5lIY/hqdefault.jpg)

@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
+_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-22 17:20:32 (UTC)  
+  **مدت:** حدود 14.1 دقیقه  
+  **عنوان:** [다꾸 ASMR 마녀노트 다이어리 꾸미고 마법포션 만들기🔮EP.10 Magic Potion Journal Witch Note](https://www.youtube.com/watch?v=09s5SSUe9rs)  
+  ![](https://i.ytimg.com/vi/09s5SSUe9rs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-21 14:00:20 (UTC)  
@@ -1810,302 +1816,302 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
 
 - **تاریخ انتشار:** 2026-01-05 11:51:00 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=vnnwtxav3Wo)  
-  ![]()
+  **عنوان:** [Journaling ASMR❤️‍🔥다꾸 #journal #1day1page #asmr](https://www.youtube.com/watch?v=vnnwtxav3Wo)  
+  ![](https://i.ytimg.com/vi/vnnwtxav3Wo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-05 02:16:00 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=M_o5BItOgrc)  
-  ![]()
+  **عنوان:** [Blackpink Cardmaking❤️‍🔥asmr](https://www.youtube.com/watch?v=M_o5BItOgrc)  
+  ![](https://i.ytimg.com/vi/M_o5BItOgrc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-04 12:20:00 (UTC)  
   **مدت:** حدود 16.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=CrVyHhdj9-k)  
-  ![]()
+  **عنوان:** [ASMR Cardmaking DIY (BTS,Blackpink,Stray kids,Kpop) 포카 다꾸 | hwaufranc](https://www.youtube.com/watch?v=CrVyHhdj9-k)  
+  ![](https://i.ytimg.com/vi/CrVyHhdj9-k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-04 02:50:00 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=p4k3xqsOyug)  
-  ![]()
+  **عنوان:** [My Melody Cardmaking💖](https://www.youtube.com/watch?v=p4k3xqsOyug)  
+  ![](https://i.ytimg.com/vi/p4k3xqsOyug/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-03 12:31:11 (UTC)  
   **مدت:** حدود 14.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=jL8HXzNLmu0)  
-  ![]()
+  **عنوان:** [ASMR Vintage Journaling 🕰 빈티지 다꾸템으로 다이어리 꾸미기 Scrapbooking 다꾸 | hwaufranc](https://www.youtube.com/watch?v=jL8HXzNLmu0)  
+  ![](https://i.ytimg.com/vi/jL8HXzNLmu0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-03 04:50:00 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=34f_USGM6m8)  
-  ![]()
+  **عنوان:** [ENHYPEN JUNGWON ASMR DIY Crafts 다꾸 #shorts](https://www.youtube.com/watch?v=34f_USGM6m8)  
+  ![](https://i.ytimg.com/vi/34f_USGM6m8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-02 13:00:04 (UTC)  
   **مدت:** حدود 4.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=2B1SlB-V54o)  
-  ![]()
+  **عنوان:** [[Unboxing ASMR] New Journal Supplies Haul Journalsay 다꾸 문구 언박싱 | hwaufranc](https://www.youtube.com/watch?v=2B1SlB-V54o)  
+  ![](https://i.ytimg.com/vi/2B1SlB-V54o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-01 13:00:38 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=KkPQRT_ZJ1Q)  
-  ![]()
+  **عنوان:** [Kpop Demon Hunters Huntrix Cardmaking ASMR #shorts](https://www.youtube.com/watch?v=KkPQRT_ZJ1Q)  
+  ![](https://i.ytimg.com/vi/KkPQRT_ZJ1Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-01-01 01:00:50 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=YkFxtO_RS8g)  
-  ![]()
+  **عنوان:** [BTS RM Cardmaking asmr #shorts](https://www.youtube.com/watch?v=YkFxtO_RS8g)  
+  ![](https://i.ytimg.com/vi/YkFxtO_RS8g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-31 13:30:01 (UTC)  
   **مدت:** حدود 199.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=1IZyUiNredY)  
-  ![]()
+  **عنوان:** [ASMR Journaling Favorite entries 2025🎊Compilation 가장 좋아하는 다꾸 모음 | hwaufranc](https://www.youtube.com/watch?v=1IZyUiNredY)  
+  ![](https://i.ytimg.com/vi/1IZyUiNredY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-30 13:01:46 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=t9AWr8COUdM)  
-  ![]()
+  **عنوان:** [Scrapbooking ASMR Kpop Demon Hunters 1분 다꾸 #shorts](https://www.youtube.com/watch?v=t9AWr8COUdM)  
+  ![](https://i.ytimg.com/vi/t9AWr8COUdM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-29 13:00:54 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=NZNfwDwcyk0)  
-  ![]()
+  **عنوان:** [Romance Cardmaking💖 ATC Crafts Kpop Demon Hunters](https://www.youtube.com/watch?v=NZNfwDwcyk0)  
+  ![](https://i.ytimg.com/vi/NZNfwDwcyk0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-29 13:00:53 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=VqcOXt8nBTI)  
-  ![]()
+  **عنوان:** [Rose Cardmaking DIY Crafts #shorts #Cardmaking](https://www.youtube.com/watch?v=VqcOXt8nBTI)  
+  ![](https://i.ytimg.com/vi/VqcOXt8nBTI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-28 13:01:12 (UTC)  
   **مدت:** حدود 14.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ZRkCIqSmYxs)  
-  ![]()
+  **عنوان:** [ASMR Journaling with Vintage🪵 빈티지하게 다이어리 꾸미기 Relaxing Sounds 다꾸 | hwaufranc](https://www.youtube.com/watch?v=ZRkCIqSmYxs)  
+  ![](https://i.ytimg.com/vi/ZRkCIqSmYxs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-27 11:08:34 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=joz6OPU0mFc)  
-  ![]()
+  **عنوان:** [Stray Kids Bang Chan ATC Cards DIY #shorts #straykids #diy](https://www.youtube.com/watch?v=joz6OPU0mFc)  
+  ![](https://i.ytimg.com/vi/joz6OPU0mFc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-27 11:08:00 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=rxp9FNB0rhY)  
-  ![]()
+  **عنوان:** [Lisa ATC Cardmaking asmr BLACKPINK #shorts #journal #lisa](https://www.youtube.com/watch?v=rxp9FNB0rhY)  
+  ![](https://i.ytimg.com/vi/rxp9FNB0rhY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-26 12:20:00 (UTC)  
   **مدت:** حدود 63.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=M2TGBTEVTfA)  
-  ![]()
+  **عنوان:** [ASMR 1 HOUR | Immersive Journaling 🕯 Relaxing Sounds | hwaufranc](https://www.youtube.com/watch?v=M2TGBTEVTfA)  
+  ![](https://i.ytimg.com/vi/M2TGBTEVTfA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-25 14:05:00 (UTC)  
   **مدت:** حدود 14.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=9YKB6UHUXHM)  
-  ![]()
+  **عنوان:** [다꾸 ASMR Merry Christmas Journaling🦌💙 메리 크리스마스 테마 다이어리 꾸미기 | hwaufranc](https://www.youtube.com/watch?v=9YKB6UHUXHM)  
+  ![](https://i.ytimg.com/vi/9YKB6UHUXHM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-25 09:02:00 (UTC)  
   **مدت:** حدود 1.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=H5GHITvsKP8)  
-  ![]()
+  **عنوان:** [Journaling ASMR 다꾸 Christmas🎄](https://www.youtube.com/watch?v=H5GHITvsKP8)  
+  ![](https://i.ytimg.com/vi/H5GHITvsKP8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-25 09:02:00 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=rAyrF6qAoS4)  
-  ![]()
+  **عنوان:** [ASMR Rumi DIY ATC Cards Kpop Demon Hunters 다꾸 #shorts #diy](https://www.youtube.com/watch?v=rAyrF6qAoS4)  
+  ![](https://i.ytimg.com/vi/rAyrF6qAoS4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-24 13:30:37 (UTC)  
   **مدت:** حدود 13.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=WmClVtn-zTo)  
-  ![]()
+  **عنوان:** [다꾸 ASMR Original Vintage Journaling📜 오리지널 빈티지 다이어리 꾸미기 Relaxing Sounds | hwaufranc](https://www.youtube.com/watch?v=WmClVtn-zTo)  
+  ![](https://i.ytimg.com/vi/WmClVtn-zTo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-24 00:20:00 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=-ds2za-8-Fo)  
-  ![]()
+  **عنوان:** [ASMR ATC Cards Derpy Kpop Demon Hunters #shorts #atc다꾸](https://www.youtube.com/watch?v=-ds2za-8-Fo)  
+  ![](https://i.ytimg.com/vi/-ds2za-8-Fo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-24 00:20:00 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=y5qG_HgbJHg)  
-  ![]()
+  **عنوان:** [ASMR Bobby Kpop Demon Hunters ATC Cards #shorts](https://www.youtube.com/watch?v=y5qG_HgbJHg)  
+  ![](https://i.ytimg.com/vi/y5qG_HgbJHg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-23 13:45:11 (UTC)  
   **مدت:** حدود 16.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=lzBZpE5yIEo)  
-  ![]()
+  **عنوان:** [ASMR 콜라주 팩으로 다이어리 꾸미기🎼 Collage Journaling 다꾸 Relaxing Sounds | hwaufranc](https://www.youtube.com/watch?v=lzBZpE5yIEo)  
+  ![](https://i.ytimg.com/vi/lzBZpE5yIEo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-22 07:50:01 (UTC)  
   **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=o4UOg6SF-jQ)  
-  ![]()
+  **عنوان:** [Merry Christmas🎄 Journal ASMR #shorts](https://www.youtube.com/watch?v=o4UOg6SF-jQ)  
+  ![](https://i.ytimg.com/vi/o4UOg6SF-jQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-22 07:50:01 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=pcyf5z8eEag)  
-  ![]()
+  **عنوان:** [블랙핑크JISOO ATC Cards BLACKPINK #shorts #cardmaking #photocard](https://www.youtube.com/watch?v=pcyf5z8eEag)  
+  ![](https://i.ytimg.com/vi/pcyf5z8eEag/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-21 06:30:42 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=vFJoeCjOUlw)  
-  ![]()
+  **عنوان:** [Kuromi💜쿠로미 ATC Cards #shorts #atc #cards #asmr](https://www.youtube.com/watch?v=vFJoeCjOUlw)  
+  ![](https://i.ytimg.com/vi/vFJoeCjOUlw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-21 06:30:25 (UTC)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=cslu2rF2alo)  
-  ![]()
+  **عنوان:** [ASMR Sajaboys ATC Cards #shorts #cardmaking](https://www.youtube.com/watch?v=cslu2rF2alo)  
+  ![](https://i.ytimg.com/vi/cslu2rF2alo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-20 13:20:04 (UTC)  
   **مدت:** حدود 10.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=joKxblsuDRI)  
-  ![]()
+  **عنوان:** [ASMR Satisfying Journal Unboxing AnnsNote🌟 다꾸 문구 Stationery Sounds 하울 | hwaufranc](https://www.youtube.com/watch?v=joKxblsuDRI)  
+  ![](https://i.ytimg.com/vi/joKxblsuDRI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-19 13:01:42 (UTC)  
   **مدت:** حدود 8.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=n1dL3B18-fo)  
-  ![]()
+  **عنوان:** [다꾸 ASMR Journaling with Sticker background 스티커로 배경만들어서 다이어리 꾸미기 Relaxing Sounds | hwaufranc](https://www.youtube.com/watch?v=n1dL3B18-fo)  
+  ![](https://i.ytimg.com/vi/n1dL3B18-fo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-19 05:50:00 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=iMi6TcHLFtY)  
-  ![]()
+  **عنوان:** [ASMR Jennie❤️ DIY ATC Cardmaking #shorts #atc #cards](https://www.youtube.com/watch?v=iMi6TcHLFtY)  
+  ![](https://i.ytimg.com/vi/iMi6TcHLFtY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-18 12:20:00 (UTC)  
   **مدت:** حدود 467.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=vQ2NiAHc7bY)  
-  ![]()
+  **عنوان:** [Special ASMR 다꾸 BlackNote Journaling Compilation 크리스마스특집 블랙노트 다이어리 꾸미기 | hwaufranc](https://www.youtube.com/watch?v=vQ2NiAHc7bY)  
+  ![](https://i.ytimg.com/vi/vQ2NiAHc7bY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-18 05:50:00 (UTC)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=jTG89esx9pY)  
-  ![]()
+  **عنوان:** [다꾸 ASMR DIY Kpop Demon Hunters Cards Journaling #shorts](https://www.youtube.com/watch?v=jTG89esx9pY)  
+  ![](https://i.ytimg.com/vi/jTG89esx9pY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-17 13:40:00 (UTC)  
   **مدت:** حدود 11.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=jS4nF_lT7FY)  
-  ![]()
+  **عنوان:** [다꾸 ASMR Winter vibes Journaling Mini❤️ 겨울느낌 미니 다이어리 3장 꾸미기 Relaxing Sounds | hwaufranc](https://www.youtube.com/watch?v=jS4nF_lT7FY)  
+  ![](https://i.ytimg.com/vi/jS4nF_lT7FY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-16 12:20:02 (UTC)  
   **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=TGNMqia1hfE)  
-  ![]()
+  **عنوان:** [Sealing wax art💚🤍 asmr #shorts #waxseal #satisfying](https://www.youtube.com/watch?v=TGNMqia1hfE)  
+  ![](https://i.ytimg.com/vi/TGNMqia1hfE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-16 12:20:00 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=LwkTN8Y1Jws)  
-  ![]()
+  **عنوان:** [ASMR 1분다꾸 Scrapbooking Lisa Blackpink](https://www.youtube.com/watch?v=LwkTN8Y1Jws)  
+  ![](https://i.ytimg.com/vi/LwkTN8Y1Jws/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-15 13:00:52 (UTC)  
   **مدت:** حدود 65.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=RESoWI1uzug)  
-  ![]()
+  **عنوان:** [ASMR 1 HOUR | Therapy Journaling🌹 Relaxing Sounds | hwaufranc](https://www.youtube.com/watch?v=RESoWI1uzug)  
+  ![](https://i.ytimg.com/vi/RESoWI1uzug/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-15 01:51:18 (UTC)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=i1Mrs9eDNOg)  
-  ![]()
+  **عنوان:** [카드 다꾸 ASMR Wednesday Cardmaking🖤 #shorts](https://www.youtube.com/watch?v=i1Mrs9eDNOg)  
+  ![](https://i.ytimg.com/vi/i1Mrs9eDNOg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-15 01:50:01 (UTC)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=HQc0w1hRxco)  
-  ![]()
+  **عنوان:** [ASMR Card Journaling 카드 다꾸 #shorts #kpopdemonhunters](https://www.youtube.com/watch?v=HQc0w1hRxco)  
+  ![](https://i.ytimg.com/vi/HQc0w1hRxco/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-14 13:40:00 (UTC)  
   **مدت:** حدود 15.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=K_-RGZ0AfvU)  
-  ![]()
+  **عنوان:** [다꾸ASMR Journaling with Oriental Style🪢 동양풍 테마 다이어리 꾸미기 Scrapbooking | hwaufranc](https://www.youtube.com/watch?v=K_-RGZ0AfvU)  
+  ![](https://i.ytimg.com/vi/K_-RGZ0AfvU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-13 02:50:00 (UTC)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=XCpVXXYAyHA)  
-  ![]()
+  **عنوان:** [다꾸ASMR Mira Kpop Demon Hunters Cardmaking #shorts](https://www.youtube.com/watch?v=XCpVXXYAyHA)  
+  ![](https://i.ytimg.com/vi/XCpVXXYAyHA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-12 13:20:01 (UTC)  
   **مدت:** حدود 12.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=04jDqUJ18aM)  
-  ![]()
+  **عنوان:** [ASMR Dec Journal Unboxing Haul ☃️ Dear Days Stationery 다꾸템 하울 | Hwaufranc 다꾸 문구](https://www.youtube.com/watch?v=04jDqUJ18aM)  
+  ![](https://i.ytimg.com/vi/04jDqUJ18aM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-11 13:20:02 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Y3DFux7X2hY)  
-  ![]()
+  **عنوان:** [1분다꾸 ASMR👛✨️ Journaling Mini #shorts](https://www.youtube.com/watch?v=Y3DFux7X2hY)  
+  ![](https://i.ytimg.com/vi/Y3DFux7X2hY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-11 03:55:00 (UTC)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=_71YsQ6UZYg)  
-  ![]()
+  **عنوان:** [Kpop Demon Hunters 케이팝 데몬 헌터스 DIY Cards Scrapbooking asmr #shorts](https://www.youtube.com/watch?v=_71YsQ6UZYg)  
+  ![](https://i.ytimg.com/vi/_71YsQ6UZYg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-10 13:20:01 (UTC)  
   **مدت:** حدود 8.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=sJbbinqfnh0)  
-  ![]()
+  **عنوان:** [다꾸 ASMR Paper DIY Spooky Cards 으스스한 스크랩 카드 꾸미기 Scrap Journal Relaxing Sounds | hwaufranc](https://www.youtube.com/watch?v=sJbbinqfnh0)  
+  ![](https://i.ytimg.com/vi/sJbbinqfnh0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-10 01:20:01 (UTC)  
   **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=D-oJUrozASU)  
-  ![]()
+  **عنوان:** [ASMR Washi Tape Unboxing🌕 Journalsay #shorts #다꾸템](https://www.youtube.com/watch?v=D-oJUrozASU)  
+  ![](https://i.ytimg.com/vi/D-oJUrozASU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-09 14:50:00 (UTC)  
   **مدت:** حدود 6.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=_8566s8yaPQ)  
-  ![]()
+  **عنوان:** [다꾸템 ASMR Journal Stationery Unboxing🪄 Journalsay 다꾸 문구 언박싱 하울 | hwaufranc](https://www.youtube.com/watch?v=_8566s8yaPQ)  
+  ![](https://i.ytimg.com/vi/_8566s8yaPQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-09 04:50:00 (UTC)  
   **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=NmdO6fTyspg)  
-  ![]()
+  **عنوان:** [ZOEY💙 Kpop Demon Hunters DIY Cards Scrapbooking #diy #asmr #케이팝데몬헌터스](https://www.youtube.com/watch?v=NmdO6fTyspg)  
+  ![](https://i.ytimg.com/vi/NmdO6fTyspg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-08 13:35:02 (UTC)  
   **مدت:** حدود 12.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=gct1D3fU4b8)  
-  ![]()
+  **عنوان:** [다꾸 ASMR Therapy Aesthetic Journaling 잠들기전 힐링 다이어리 꾸미기 | hwaufranc](https://www.youtube.com/watch?v=gct1D3fU4b8)  
+  ![](https://i.ytimg.com/vi/gct1D3fU4b8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-08 01:00:38 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=RXNPMu26cJ8)  
-  ![]()
+  **عنوان:** [Kpop Demon Hunters Jinu DIY Cards #diy #art #asmr](https://www.youtube.com/watch?v=RXNPMu26cJ8)  
+  ![](https://i.ytimg.com/vi/RXNPMu26cJ8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-12-08 01:00:18 (UTC)  
@@ -2350,7 +2356,7 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
 
 - **تاریخ انتشار:** 2025-10-30 17:05:00 (UTC)  
   **مدت:** حدود 14.4 دقیقه  
-  **عنوان:** [다꾸 ASMR Journaling with Witch Note🪔 : Halloween 마녀노트 다이어리 꾸미기 Scrapbooking | hwaufranc](https://www.youtube.com/watch?v=KYnaLsu_9Ps)  
+  **عنوان:** [다꾸 ASMR Journaling with Witch Note🪔 : EP.9 마녀노트 다이어리 꾸미기 Scrapbooking | hwaufranc](https://www.youtube.com/watch?v=KYnaLsu_9Ps)  
   ![](https://i.ytimg.com/vi/KYnaLsu_9Ps/hqdefault.jpg)
 
 
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [scrapbook 🪄🌪witch part.1/2 #journal #asmr #scrapbooking](https://www.youtube.com/watch?v=yVOW8M6XW2k)  
   ![](https://i.ytimg.com/vi/yVOW8M6XW2k/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-28 06:20:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Satisfying Unboxing #shorts #journal #satisfying](https://www.youtube.com/watch?v=MhY4W5SW1a0)  
-  ![](https://i.ytimg.com/vi/MhY4W5SW1a0/hqdefault.jpg)

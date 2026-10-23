@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Pei Planet
 
-_آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
+_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
 
 
 **لینک استاندارد کانال:** [Pei Planet](https://www.youtube.com/channel/UCIsZqDCJmW7HQCTjHz5MVQQ)  
@@ -610,182 +610,182 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
 
 - **تاریخ انتشار:** 2025-07-31 11:01:10 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🍃📜🎋🐉ASMR – Gege’s Garden Party in 3D Stickers! (Part 3) #asmr #diy#3dstickers #cute #creative](https://www.youtube.com/watch?v=ix_D14YAXv0)  
-  ![](https://i.ytimg.com/vi/ix_D14YAXv0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ix_D14YAXv0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-30 23:00:52 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🏯🌸🍥🧧 Building the Gege’s Garden Room – ASMR Sticker Scene (Part 2) #asmr #diy#3dstickers #cute](https://www.youtube.com/watch?v=osB6sNq_xCo)  
-  ![](https://i.ytimg.com/vi/osB6sNq_xCo/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=osB6sNq_xCo)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-30 11:01:43 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [🎐🏮🎀🍡3D Sticker Room ASMR–Princess Garden Fair Begins (Part 1) #asmr #diy#creative #3dstickers #cute](https://www.youtube.com/watch?v=y3FBPNqFW-8)  
-  ![](https://i.ytimg.com/vi/y3FBPNqFW-8/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=y3FBPNqFW-8)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-29 23:00:38 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [🪵🌼🧉🔉3D ASMR Sticker Room-Cute Tribal Vibes Only(II) #diy #asmr #3dstickers#cute #creative #craft](https://www.youtube.com/watch?v=f5vyEfY1h-8)  
-  ![](https://i.ytimg.com/vi/f5vyEfY1h-8/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=f5vyEfY1h-8)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-29 11:00:26 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🌿🛖🌞🔥 ASMR | Tribal Life in a Tiny 3D Sticker Room(I) #asmr #diy #3dstickers#cute #creative #craft](https://www.youtube.com/watch?v=JdKLqk1QBTc)  
-  ![](https://i.ytimg.com/vi/JdKLqk1QBTc/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=JdKLqk1QBTc)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-28 23:01:01 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🌳🪟🧸🌀Forest Treehouse ASMR – Inside a Treehouse Community 🌳🏠 #asmr #diy #3dstickers#cute #creative](https://www.youtube.com/watch?v=tKrNW8cvbtU)  
-  ![](https://i.ytimg.com/vi/tKrNW8cvbtU/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=tKrNW8cvbtU)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-28 11:00:53 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [🐿️🏡🛠️🌳Cute Treehouse Community – ASMR Sticker Build(Part II) #asmr #diy #3dstickers#cute #creative](https://www.youtube.com/watch?v=XEanqI-fFBs)  
-  ![](https://i.ytimg.com/vi/XEanqI-fFBs/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=XEanqI-fFBs)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-27 23:00:37 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [🎄🛏️🌲🎧ASMR Sticker Room – Cozy Treehouse Life in the Woods #asmr #diy #3dstickers#creative #cute](https://www.youtube.com/watch?v=YqKK1bMYr0Y)  
-  ![](https://i.ytimg.com/vi/YqKK1bMYr0Y/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=YqKK1bMYr0Y)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-27 11:01:38 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [🐧🍧🧊🎧❄️ASMR Sticker Room | Fridge World is Real! #diy #asmr #3dstickers#cute #creative #craft](https://www.youtube.com/watch?v=zO29TLJ170c)  
-  ![](https://i.ytimg.com/vi/zO29TLJ170c/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=zO29TLJ170c)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-26 23:00:47 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [🧊🛋️❄️🐧ASMR | 3D Sticker Room: A Cozy World Inside the Fridge! #asmr #diy #3dstickers#cute #craft](https://www.youtube.com/watch?v=sWXXGYNtvfE)  
-  ![](https://i.ytimg.com/vi/sWXXGYNtvfE/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=sWXXGYNtvfE)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-26 11:01:27 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [🏕️🧸🍄🎵ASMR | Sticker ASMR Storytime - Camping with Snow White #asmr #diy #3dstickers#creative #cute](https://www.youtube.com/watch?v=rRUoa1bT_Bk)  
-  ![](https://i.ytimg.com/vi/rRUoa1bT_Bk/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=rRUoa1bT_Bk)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-25 23:00:07 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🌲✨🧚ASMR | Forest Night Talk–3D Sticker Scene(Part I) #asmr #diy #3dstickers#cute #creative #craft](https://www.youtube.com/watch?v=7z5z-j3Uwio)  
-  ![](https://i.ytimg.com/vi/7z5z-j3Uwio/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=7z5z-j3Uwio)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-25 11:00:46 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🧹📚🏠🌷ASMR | 3D Sticker House for Neat Freaks 😌✨ #asmr #diy #3dstickers#cute #creative #tidying](https://www.youtube.com/watch?v=NWThDmt-G5g)  
-  ![](https://i.ytimg.com/vi/NWThDmt-G5g/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=NWThDmt-G5g)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-24 23:00:20 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🎀🏡📦✨ASMR | Building a Big & Tidy House with Stickers💖#asmr #diy #3dstickers#creative #cute #tidying](https://www.youtube.com/watch?v=OTnfAgp08n0)  
-  ![](https://i.ytimg.com/vi/OTnfAgp08n0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=OTnfAgp08n0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-24 11:00:21 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [✨👩‍🌾🌾🐑📸ASMR | Building My 3D Farm Scene – Part 3 #asmr #diy #3dstickers#creative #stickershop #cute](https://www.youtube.com/watch?v=ChM1XckvtCI)  
-  ![](https://i.ytimg.com/vi/ChM1XckvtCI/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ChM1XckvtCI)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-23 23:00:53 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🐓🌽💧📦 ASMR | Adding Animals to My 3D Sticker Farm – Part 2  #diy #asmr #3dstickers#cute #stickershop](https://www.youtube.com/watch?v=sS-1O2v7JEI)  
-  ![](https://i.ytimg.com/vi/sS-1O2v7JEI/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=sS-1O2v7JEI)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-23 11:01:05 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🐓🌽🐄🧤🎵ASMR | Building a 3D Sticker Farm – Part 1 #asmr #diy #3dstickers#cute #creative #stickershop](https://www.youtube.com/watch?v=bV-FmHKUicQ)  
-  ![](https://i.ytimg.com/vi/bV-FmHKUicQ/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=bV-FmHKUicQ)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-22 23:00:42 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [🎧🕵️‍♀️🔍✨ASMR | Cute 3D Sticker Room with a Pharaoh’s Curse  #asmr #diy #3dstickers#cute #creative](https://www.youtube.com/watch?v=biXHD-25Pyg)  
-  ![](https://i.ytimg.com/vi/biXHD-25Pyg/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=biXHD-25Pyg)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-22 11:01:24 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [🏺✨🕵️‍♀️ASMR Sticker Mystery Begins-Pharaoh’s Curse Room #asmr #diy #3dstickers#creative #cute](https://www.youtube.com/watch?v=pWhr7c8Cds0)  
-  ![](https://i.ytimg.com/vi/pWhr7c8Cds0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=pWhr7c8Cds0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-21 23:00:29 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [🦄🌈🌼💫 ASMR + DIY Sticker Therapy | Building a Cute Magic Horse Room #diy #asmr #3dstickers#creative](https://www.youtube.com/watch?v=_0EuPKfdQK0)  
-  ![](https://i.ytimg.com/vi/_0EuPKfdQK0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=_0EuPKfdQK0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-21 11:00:43 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🌸 ASMR + DIY Sticker Therapy 🐎 | Magic Horse Lily's Room #asmr  #diy #3dstickers#cute #creative](https://www.youtube.com/watch?v=OQyt-5a8OSU)  
-  ![](https://i.ytimg.com/vi/OQyt-5a8OSU/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=OQyt-5a8OSU)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-20 23:00:19 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🦄🌈✨🌸ASMR | 3D Sticker Room– Magic Horse Lily🐴#asmr  #diy #3dstickers#cute #creative #3dstickerscene](https://www.youtube.com/watch?v=I1zgyaHpyDw)  
-  ![](https://i.ytimg.com/vi/I1zgyaHpyDw/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=I1zgyaHpyDw)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-20 11:34:34 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [🏠🧸💻ASMR | Build A 3D Sticker House That Works and Sleeps #asmr #diy #3dstickers#cute #creative](https://www.youtube.com/watch?v=ktADUMlaJuU)  
-  ![](https://i.ytimg.com/vi/ktADUMlaJuU/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ktADUMlaJuU)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-19 23:00:19 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🏡💼✨ASMR | 3D Sticker House-Half-Home and Half-Offic! #asmr #diy #3dstickers#cute #3dstickerscene](https://www.youtube.com/watch?v=CEbF9teEnBI)  
-  ![](https://i.ytimg.com/vi/CEbF9teEnBI/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=CEbF9teEnBI)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-19 11:00:50 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🩺🫀ASMR + Horror DIY | Building the Puppet Hospital (Part 2)  #asmr #diy #3dstickers#horror #sticker](https://www.youtube.com/watch?v=SzgJSCRjzKc)  
-  ![](https://i.ytimg.com/vi/SzgJSCRjzKc/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=SzgJSCRjzKc)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-18 23:00:42 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [🪡🏥ASMR Sticker Scene | Welcome to the Puppet Hospital (Part 1)  #diy #3dstickers #asmr #horror](https://www.youtube.com/watch?v=ZLIjFHeh0e4)  
-  ![](https://i.ytimg.com/vi/ZLIjFHeh0e4/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ZLIjFHeh0e4)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-18 11:01:17 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [📚🏠Great DIY project: Finished 3-Story Bookshop Scene (Part 3) – Final Reveal!  #asmr #diy #stickers](https://www.youtube.com/watch?v=YDRFVEVKp50)  
-  ![](https://i.ytimg.com/vi/YDRFVEVKp50/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=YDRFVEVKp50)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-17 23:00:39 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [🪄📚ASMR: DIY Bookshop with Stickers(Part 2) – The Mezzanine Floor!  #asmr #diy #3dstickers #creative](https://www.youtube.com/watch?v=Zggkxi4n8Dk)  
-  ![](https://i.ytimg.com/vi/Zggkxi4n8Dk/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Zggkxi4n8Dk)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-17 11:01:30 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [📚✨Build a 3-Story Bookshop with Stickers (Part 1) #asmr #diy #3dstickers #3dstickerscene  #creative](https://www.youtube.com/watch?v=kjVpHZImqXE)  
-  ![](https://i.ytimg.com/vi/kjVpHZImqXE/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=kjVpHZImqXE)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-16 23:00:08 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [3D Horror Sticker Scene – Final Reveal 🩸 (Part 2) #asmr  #3dstickers  #diy  #shorts  #3dstickerscene](https://www.youtube.com/watch?v=7xsj19CsHV4)  
-  ![](https://i.ytimg.com/vi/7xsj19CsHV4/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=7xsj19CsHV4)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-07-16 11:00:45 (UTC)  
@@ -796,5 +796,5 @@ _آخرین به‌روزرسانی: 2026-10-22T14:27:49Z_
 
 - **تاریخ انتشار:** 2025-07-15 23:00:47 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Saw Lab 3D Sticker Scene 🩸 | 3D Horror DIY for Brave Souls Only](https://www.youtube.com/watch?v=fHLXiZoD7a8)  
-  ![](https://i.ytimg.com/vi/fHLXiZoD7a8/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=fHLXiZoD7a8)  
+  ![]()
