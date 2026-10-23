@@ -1,6 +1,22 @@
-# Last Run: 2026-10-23 14:45 UTC
+# Last Run: 2026-10-23 19:52 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Filming Among the Rubble of Nazi Germany
+Published: 2026-10-23T18:23:42+00:00
+Link: https://foreignpolicy.com/2026/10/23/fatherland-nazis-postwar-trauma-rubble-movies/
+---
+[Foreign_Policy] How to Make a Monster
+Published: 2026-10-23T18:00:22+00:00
+Link: https://foreignpolicy.com/2026/10/23/field-notes-extinction-eoghan-walls-review-ireland-great-famine-auks/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-10-23T16:28:02+00:00
+Link: https://foreignpolicy.com/2026/10/23/news-quiz-france-protests-israel-police-trump-vote-bailout/
+---
+[Foreign_Policy] Why the ‘Odds of Mischief Are High’ in These Midterms
+Published: 2026-10-23T14:12:59+00:00
+Link: https://foreignpolicy.com/2026/10/23/midterm-elections-us-trump-democratic-party/
+---
 [Foreign_Policy] What’s Behind Turkish-Azerbaijani Tensions?
 Published: 2026-10-23T13:27:41+00:00
 Link: https://foreignpolicy.com/2026/10/23/turkey-azerbaijan-aliev-erdogan-headscarf-ban/
@@ -12,6 +28,14 @@ Link: https://www.foreignaffairs.com/ukraine/new-energy-stalemate-ukraine
 [Foreign_Policy] Bolivia and Chile Make Nice
 Published: 2026-10-23T12:00:01+00:00
 Link: https://foreignpolicy.com/2026/10/23/bolivia-chile-relations-thaw-kast-paz-lithium/
+---
+[New_Yorker_Magazine] The Fragile Unions of “Possible Love”
+Published: 2026-10-23T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/possible-love-movie-review
+---
+[New_Yorker_Magazine] Political Skirmishes in “Other Desert Cities” and “A Bright Room Called Day”
+Published: 2026-10-23T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/other-desert-cities-theatre-review-a-bright-room-called-day
 ---
 [Foreign_Policy] Hegseth Could Face Impeachment if Democrats Win in November
 Published: 2026-10-22T21:21:02+00:00
@@ -104,8 +128,4 @@ Link: https://foreignpolicy.com/2026/10/20/zelensky-ukraine-witkoff-kushner-talk
 [Foreign_Policy] Trump Makes Midterm Pitch to Farmers
 Published: 2026-10-20T20:16:15+00:00
 Link: https://foreignpolicy.com/2026/10/20/trump-farmer-bailout-midterms-diesel-prices-iran-war/
----
-[Foreign_Policy] How Ukraine Is Navigating Trump’s Latest U-Turn
-Published: 2026-10-20T18:13:41+00:00
-Link: https://foreignpolicy.com/2026/10/20/ukraine-russia-talks-trump-starshield/
 ---
