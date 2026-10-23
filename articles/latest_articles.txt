@@ -1,6 +1,18 @@
-# Last Run: 2026-10-23 19:52 UTC
+# Last Run: 2026-10-23 22:59 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Netanyahu Orders Large-Scale Military Operation in West Bank
+Published: 2026-10-23T20:22:10+00:00
+Link: https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/
+---
+[Foreign_Policy] The Real Danger of Big Tech
+Published: 2026-10-23T19:51:32+00:00
+Link: https://foreignpolicy.com/2026/10/23/musk-starlink-big-tech-dangers-ultrarich-us-democracy/
+---
+[Foreign_Policy] Why Putin’s Defenders Are Increasingly American
+Published: 2026-10-23T19:00:30+00:00
+Link: https://foreignpolicy.com/2026/10/23/putins-american-fellow-travelers-us-politics-russia/
+---
 [Foreign_Policy] Filming Among the Rubble of Nazi Germany
 Published: 2026-10-23T18:23:42+00:00
 Link: https://foreignpolicy.com/2026/10/23/fatherland-nazis-postwar-trauma-rubble-movies/
@@ -36,6 +48,10 @@ Link: https://www.newyorker.com/magazine/2026/11/02/possible-love-movie-review
 [New_Yorker_Magazine] Political Skirmishes in “Other Desert Cities” and “A Bright Room Called Day”
 Published: 2026-10-23T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/02/other-desert-cities-theatre-review-a-bright-room-called-day
+---
+[Foreign_Affairs] What Israel’s Election Won't Change
+Published: 2026-10-23T04:00:00+00:00
+Link: https://www.foreignaffairs.com/israel/what-israels-election-wont-change
 ---
 [Foreign_Policy] Hegseth Could Face Impeachment if Democrats Win in November
 Published: 2026-10-22T21:21:02+00:00
@@ -120,12 +136,4 @@ Link: https://foreignpolicy.com/2026/10/21/myanmar-shan-state-meth-drugs/
 [Foreign_Policy] What Does Beijing Mean By ‘Strategic Stability’?
 Published: 2026-10-21T01:34:49+00:00
 Link: https://foreignpolicy.com/2026/10/20/china-us-trump-xi-strategic-stability/
----
-[Foreign_Policy] Zelensky Seeks U.S. Support, but Is Trump Interested?
-Published: 2026-10-20T21:00:58+00:00
-Link: https://foreignpolicy.com/2026/10/20/zelensky-ukraine-witkoff-kushner-talks-oslo-russia-trump-starlink/
----
-[Foreign_Policy] Trump Makes Midterm Pitch to Farmers
-Published: 2026-10-20T20:16:15+00:00
-Link: https://foreignpolicy.com/2026/10/20/trump-farmer-bailout-midterms-diesel-prices-iran-war/
 ---
