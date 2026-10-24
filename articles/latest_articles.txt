@@ -1,4 +1,4 @@
-# Last Run: 2026-10-24 08:45 UTC
+# Last Run: 2026-10-24 13:54 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu Orders Large-Scale Military Operation in West Bank
@@ -116,12 +116,4 @@ Link: https://foreignpolicy.com/2026/10/21/gen-z-protests-youth-students-europe-
 [Foreign_Policy] They Fled Ethiopia’s War. Now, Israel May Send Them Back.
 Published: 2026-10-21T14:14:30+00:00
 Link: https://foreignpolicy.com/2026/10/21/israel-ethiopia-asylum-seekers-deportation-tigray-war/
----
-[Foreign_Policy] Trump Is Making a Mess of Diego Garcia
-Published: 2026-10-21T12:29:40+00:00
-Link: https://foreignpolicy.com/2026/10/21/diego-garcia-trump-uk-mauritius-china-chagos-islands-treaty-military/
----
-[Foreign_Policy] The Banking Scandal Upending Brazil’s Election
-Published: 2026-10-21T11:00:39+00:00
-Link: https://foreignpolicy.com/2026/10/21/brazil-election-lula-bolsonaro-banco-master-supreme-court-moraes/
 ---
