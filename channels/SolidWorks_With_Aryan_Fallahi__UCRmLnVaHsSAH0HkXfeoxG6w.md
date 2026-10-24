@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال SolidWorks With Aryan Fallahi
 
-_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
+_آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
 
 
 **لینک استاندارد کانال:** [SolidWorks With Aryan Fallahi](https://www.youtube.com/channel/UCRmLnVaHsSAH0HkXfeoxG6w)  
+
+
+- **تاریخ انتشار:** 2026-10-23 14:45:01 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [one minute solidworks part 02 #motivation #business #howto](https://www.youtube.com/watch?v=WoIDGs8msns)  
+  ![](https://i.ytimg.com/vi/WoIDGs8msns/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-22 15:06:05 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
   **مدت:** حدود 0.8 دقیقه  
   **عنوان:** [Honeycomb in SOLIDWORKS | Fill Pattern #solidworks](https://www.youtube.com/watch?v=0fjHieJLeEE)  
   ![](https://i.ytimg.com/vi/0fjHieJLeEE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2023-10-02 16:00:04 (UTC)  
-  **مدت:** حدود 13.4 دقیقه  
-  **عنوان:** [SOLIDWORKS Drawing EP03 | BOM | Sheets | Customization](https://www.youtube.com/watch?v=ak5XVSQhLCU)  
-  ![](https://i.ytimg.com/vi/ak5XVSQhLCU/hqdefault.jpg)

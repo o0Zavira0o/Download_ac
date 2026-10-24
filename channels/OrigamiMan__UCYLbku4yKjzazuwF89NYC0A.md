@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
+_آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-10-24 10:00:02 (UTC)  
+  **مدت:** حدود 14.8 دقیقه  
+  **عنوان:** [49,HALLOWEEN PUMPKIN | Two-Tone Origami | Silent Origamiハロウィンカボチャ｜オレンジと黒の折り紙【無言の折り紙】](https://www.youtube.com/watch?v=Gdj8u_C7Hrg)  
+  ![](https://i.ytimg.com/vi/Gdj8u_C7Hrg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-17 10:00:34 (UTC)  

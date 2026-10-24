@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
+_آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-24 13:00:23 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [다꾸 ASMR 크리스마스 꾸미기🎄Christmas Journaling WT Stickers](https://www.youtube.com/watch?v=jvjfD1t_49g)  
+  ![](https://i.ytimg.com/vi/jvjfD1t_49g/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-24 03:45:30 (UTC)  
+  **مدت:** حدود 60.7 دقیقه  
+  **عنوان:** [다꾸 ASMR 힐링되는 다이어리 꾸미기 1시간📜 테라피 Paper Vintage Journal コラージュ](https://www.youtube.com/watch?v=KYdqIGPd26k)  
+  ![](https://i.ytimg.com/vi/KYdqIGPd26k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-22 17:20:32 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
   **مدت:** حدود 0.8 دقیقه  
   **عنوان:** [Frozen Tag Elsa ❄️ #disney #elsa #crafts #shorts #diycrafts #asmr](https://www.youtube.com/watch?v=BoKQYdJJDUg)  
   ![](https://i.ytimg.com/vi/BoKQYdJJDUg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-29 01:57:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [scrapbook 🪄🌪witch part.2/2 #journal #asmr #scrapbooking](https://www.youtube.com/watch?v=537gwqMRYq4)  
-  ![](https://i.ytimg.com/vi/537gwqMRYq4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-29 01:57:00 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [scrapbook 🪄🌪witch part.1/2 #journal #asmr #scrapbooking](https://www.youtube.com/watch?v=yVOW8M6XW2k)  
-  ![](https://i.ytimg.com/vi/yVOW8M6XW2k/hqdefault.jpg)

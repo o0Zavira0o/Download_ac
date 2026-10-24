@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
+_آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-24 03:30:06 (UTC)  
+  **مدت:** حدود 26.8 دقیقه  
+  **عنوان:** [Cylinder Block Stirling Engine Modeling in SolidWorks (Move Face- offset)](https://www.youtube.com/watch?v=XfS8OuHW-p4)  
+  ![](https://i.ytimg.com/vi/XfS8OuHW-p4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-23 03:30:12 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
   **مدت:** حدود 35.2 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Steel Stair in Solidworks](https://www.youtube.com/watch?v=enVmeljaaE8)  
   ![](https://i.ytimg.com/vi/enVmeljaaE8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-08 18:29:34 (UTC)  
-  **مدت:** حدود 85.7 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Anemometer in Solidworks](https://www.youtube.com/watch?v=LQz8COVp82Y)  
-  ![](https://i.ytimg.com/vi/LQz8COVp82Y/hqdefault.jpg)

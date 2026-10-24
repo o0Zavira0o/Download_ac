@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
+_آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-24 05:27:13 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Satisfying Pure Harmonic Motion: The Scotch Yoke 🔄](https://www.youtube.com/watch?v=0zQl4Ir_Pso)  
+  ![](https://i.ytimg.com/vi/0zQl4Ir_Pso/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-24 02:18:15 (UTC)  
+  **مدت:** حدود 9.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial For Beginners | How To Model This Complex Part From 2D Drawing](https://www.youtube.com/watch?v=VvbfiAD4AG0)  
+  ![](https://i.ytimg.com/vi/VvbfiAD4AG0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-23 02:49:49 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-23T14:10:43Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [✅Advanced SolidWorks: Lofted Boss & Shell Command Explained](https://www.youtube.com/watch?v=QykHsGw0Z1w)  
   ![](https://i.ytimg.com/vi/QykHsGw0Z1w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-03 02:39:41 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Making Weldments in SOLIDWORKS!](https://www.youtube.com/watch?v=GxchYo75JWc)  
-  ![](https://i.ytimg.com/vi/GxchYo75JWc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-02 13:36:46 (UTC)  
-  **مدت:** حدود 15.2 دقیقه  
-  **عنوان:** [✅Modern Bookshelf Design in 2024 | Solidworks Furniture Tutorial | Solidworks Weldments](https://www.youtube.com/watch?v=UMsg25ro8OQ)  
-  ![](https://i.ytimg.com/vi/UMsg25ro8OQ/hqdefault.jpg)
