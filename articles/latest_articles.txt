@@ -1,4 +1,4 @@
-# Last Run: 2026-10-25 00:04 UTC
+# Last Run: 2026-10-25 07:22 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu Orders Large-Scale Military Operation in West Bank
@@ -84,8 +84,4 @@ Link: https://www.foreignaffairs.com/brazil/brazils-economic-impasse
 [Foreign_Affairs] A Less-Is-More Strategy for America
 Published: 2026-10-22T08:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/less-more-strategy-america
----
-[Foreign_Policy] What a New Rebel Alliance Means for Congo
-Published: 2026-10-22T00:36:19+00:00
-Link: https://foreignpolicy.com/2026/10/21/what-a-new-rebel-alliance-means-for-congo/
 ---
