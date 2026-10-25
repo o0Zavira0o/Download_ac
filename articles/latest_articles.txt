@@ -1,4 +1,4 @@
-# Last Run: 2026-10-25 07:22 UTC
+# Last Run: 2026-10-25 13:03 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu Orders Large-Scale Military Operation in West Bank
@@ -68,20 +68,4 @@ Link: https://foreignpolicy.com/2026/10/22/netanyahu-israel-election-overthrow-i
 [Foreign_Policy] Europe Is Asking the Wrong Question About Russia’s Hybrid War
 Published: 2026-10-22T18:26:54+00:00
 Link: https://foreignpolicy.com/2026/10/22/europe-russia-hybrid-war-escalation/
----
-[Foreign_Policy] Brazil’s Sovereignty Is on the Ballot
-Published: 2026-10-22T11:00:35+00:00
-Link: https://foreignpolicy.com/2026/10/22/brazil-election-lula-bolsonaro-trump-us-military-shield-americas/
----
-[Foreign_Policy] Could AI Disinformation Disrupt the Midterms?
-Published: 2026-10-22T10:00:44+00:00
-Link: https://foreignpolicy.com/2026/10/22/midterm-election-ai-disinformation-openai-anthropic-microsoft/
----
-[Foreign_Affairs] Brazil’s Economic Impasse
-Published: 2026-10-22T08:00:00+00:00
-Link: https://www.foreignaffairs.com/brazil/brazils-economic-impasse
----
-[Foreign_Affairs] A Less-Is-More Strategy for America
-Published: 2026-10-22T08:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/less-more-strategy-america
 ---
