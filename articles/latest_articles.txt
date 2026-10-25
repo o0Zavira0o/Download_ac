@@ -1,4 +1,4 @@
-# Last Run: 2026-10-25 20:31 UTC
+# Last Run: 2026-10-25 23:55 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu Orders Large-Scale Military Operation in West Bank
@@ -52,12 +52,4 @@ Link: https://www.newyorker.com/magazine/2026/11/02/other-desert-cities-theatre-
 [Foreign_Affairs] What Israel’s Election Won't Change
 Published: 2026-10-23T04:00:00+00:00
 Link: https://www.foreignaffairs.com/israel/what-israels-election-wont-change
----
-[Foreign_Policy] Hegseth Could Face Impeachment if Democrats Win in November
-Published: 2026-10-22T21:21:02+00:00
-Link: https://foreignpolicy.com/2026/10/22/hegseth-impeachment-democrats-win-november/
----
-[Foreign_Policy] Trump Puts His Faith in Putin
-Published: 2026-10-22T20:52:58+00:00
-Link: https://foreignpolicy.com/2026/10/22/trump-putin-russia-ukraine-peace-talks/
 ---
