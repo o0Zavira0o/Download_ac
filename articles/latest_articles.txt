@@ -1,4 +1,4 @@
-# Last Run: 2026-10-24 20:25 UTC
+# Last Run: 2026-10-25 00:04 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu Orders Large-Scale Military Operation in West Bank
@@ -88,12 +88,4 @@ Link: https://www.foreignaffairs.com/united-states/less-more-strategy-america
 [Foreign_Policy] What a New Rebel Alliance Means for Congo
 Published: 2026-10-22T00:36:19+00:00
 Link: https://foreignpolicy.com/2026/10/21/what-a-new-rebel-alliance-means-for-congo/
----
-[Foreign_Policy] In India, Rubio Is All Business
-Published: 2026-10-21T21:56:48+00:00
-Link: https://foreignpolicy.com/2026/10/21/rubio-india-trip-business-trade-oil-ambani-jaishankar/
----
-[Foreign_Policy] The Paradox at the Heart of China’s Export Boom
-Published: 2026-10-21T21:08:49+00:00
-Link: https://foreignpolicy.com/2026/10/21/china-export-trade-economy-artificial-intelligence-trump/
 ---
