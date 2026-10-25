@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
+_آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-25 03:30:36 (UTC)  
+  **مدت:** حدود 14.2 دقیقه  
+  **عنوان:** [Valve Body Modeling with SolidWorks Surface (Lofted Surface, Trim Surface,Thread)](https://www.youtube.com/watch?v=plcwO3jTAoM)  
+  ![](https://i.ytimg.com/vi/plcwO3jTAoM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-24 03:30:06 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
   **مدت:** حدود 31.7 دقیقه  
   **عنوان:** [Solidworks tutorial Basics of sheet metal](https://www.youtube.com/watch?v=MZ_lgSDhwb4)  
   ![](https://i.ytimg.com/vi/MZ_lgSDhwb4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-09 15:21:06 (UTC)  
-  **مدت:** حدود 35.2 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Steel Stair in Solidworks](https://www.youtube.com/watch?v=enVmeljaaE8)  
-  ![](https://i.ytimg.com/vi/enVmeljaaE8/hqdefault.jpg)

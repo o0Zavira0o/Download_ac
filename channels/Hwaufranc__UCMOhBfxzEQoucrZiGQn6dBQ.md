@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
+_آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-25 13:10:28 (UTC)  
+  **مدت:** حدود 1.8 دقیقه  
+  **عنوان:** [다꾸 ASMR 벽돌로 다이어리 꾸미기🧱Art Journaling](https://www.youtube.com/watch?v=O7bVbt0LMVE)  
+  ![](https://i.ytimg.com/vi/O7bVbt0LMVE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-24 13:00:23 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [Journal 다꾸 asmr 🍷 #journaling #scrapbooking #다꾸 #デコ手帳](https://www.youtube.com/watch?v=V1f8JgaVnOI)  
   ![](https://i.ytimg.com/vi/V1f8JgaVnOI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-07-30 04:40:00 (UTC)  
-  **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Frozen Tag Elsa ❄️ #disney #elsa #crafts #shorts #diycrafts #asmr](https://www.youtube.com/watch?v=BoKQYdJJDUg)  
-  ![](https://i.ytimg.com/vi/BoKQYdJJDUg/hqdefault.jpg)

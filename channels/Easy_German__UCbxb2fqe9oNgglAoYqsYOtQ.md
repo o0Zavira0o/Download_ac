@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
+_آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-24 18:26:27 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Schöne Erlebnisse mit Freunden 👯‍♀️](https://www.youtube.com/watch?v=nR41ZGNuGMg)  
+  ![](https://i.ytimg.com/vi/nR41ZGNuGMg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-23 07:40:03 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
   **مدت:** حدود 2.4 دقیقه  
   **عنوان:** [German Sea Vocabulary | Super Easy German (35)](https://www.youtube.com/watch?v=2bRy92nvWRI)  
   ![](https://i.ytimg.com/vi/2bRy92nvWRI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-04 20:32:31 (UTC)  
-  **مدت:** حدود 11.9 دقیقه  
-  **عنوان:** [Travelling | Easy German 198](https://www.youtube.com/watch?v=LvFvAM048d8)  
-  ![](https://i.ytimg.com/vi/LvFvAM048d8/hqdefault.jpg)

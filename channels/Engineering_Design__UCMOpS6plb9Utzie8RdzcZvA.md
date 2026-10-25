@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
+_آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-25 03:42:49 (UTC)  
+  **مدت:** حدود 8.7 دقیقه  
+  **عنوان:** [SolidWorks Tutorial: 3D Fluted Bowl Design | Sketch to 3D Model Step by Step](https://www.youtube.com/watch?v=WyTtwowUYWE)  
+  ![](https://i.ytimg.com/vi/WyTtwowUYWE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-24 05:27:13 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-24T13:13:35Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [✅How to Use Sweep Boss/Base with Twisting 270° | Solidworks Advanced Exercise](https://www.youtube.com/watch?v=1kiGDs7klg8)  
   ![](https://i.ytimg.com/vi/1kiGDs7klg8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-04 06:32:03 (UTC)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [✅Advanced SolidWorks: Lofted Boss & Shell Command Explained](https://www.youtube.com/watch?v=QykHsGw0Z1w)  
-  ![](https://i.ytimg.com/vi/QykHsGw0Z1w/hqdefault.jpg)
