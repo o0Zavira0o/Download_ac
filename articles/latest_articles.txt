@@ -1,4 +1,4 @@
-# Last Run: 2026-10-26 03:38 UTC
+# Last Run: 2026-10-26 09:51 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Netanyahu Orders Large-Scale Military Operation in West Bank
@@ -48,8 +48,4 @@ Link: https://www.newyorker.com/magazine/2026/11/02/possible-love-movie-review
 [New_Yorker_Magazine] Political Skirmishes in “Other Desert Cities” and “A Bright Room Called Day”
 Published: 2026-10-23T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/02/other-desert-cities-theatre-review-a-bright-room-called-day
----
-[Foreign_Affairs] What Israel’s Election Won't Change
-Published: 2026-10-23T04:00:00+00:00
-Link: https://www.foreignaffairs.com/israel/what-israels-election-wont-change
 ---
