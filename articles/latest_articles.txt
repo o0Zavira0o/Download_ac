@@ -1,6 +1,22 @@
-# Last Run: 2026-10-26 09:51 UTC
+# Last Run: 2026-10-26 16:37 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] America’s Least Bad Option in Iran
+Published: 2026-10-26T14:55:56+00:00
+Link: https://foreignpolicy.com/2026/10/26/iran-war-trump-options-escalation-blockade-hormuz/
+---
+[Foreign_Policy] Could Victory for Netanyahu Mean Mass Emigration?
+Published: 2026-10-26T12:00:55+00:00
+Link: https://foreignpolicy.com/2026/10/26/israel-elections-netanyahu-emigration-skilled-workers-polarization-gaza/
+---
+[Foreign_Policy] How the 1966 Midterm Elections Presage 2026
+Published: 2026-10-26T10:19:00+00:00
+Link: https://foreignpolicy.com/2026/10/26/midterms-1966-vietnam-iran-trump/
+---
+[Foreign_Policy] 5 Foreign-Policy Priorities for Democrats After the Midterms
+Published: 2026-10-26T10:00:05+00:00
+Link: https://foreignpolicy.com/2026/10/26/democrats-midterms-priorities-corruption-iran-ukraine-nato-venezuela-ai/
+---
 [Foreign_Policy] Netanyahu Orders Large-Scale Military Operation in West Bank
 Published: 2026-10-23T20:22:10+00:00
 Link: https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/
@@ -20,32 +36,4 @@ Link: https://foreignpolicy.com/2026/10/23/fatherland-nazis-postwar-trauma-rubbl
 [Foreign_Policy] How to Make a Monster
 Published: 2026-10-23T18:00:22+00:00
 Link: https://foreignpolicy.com/2026/10/23/field-notes-extinction-eoghan-walls-review-ireland-great-famine-auks/
----
-[Foreign_Policy] What in the World?
-Published: 2026-10-23T16:28:02+00:00
-Link: https://foreignpolicy.com/2026/10/23/news-quiz-france-protests-israel-police-trump-vote-bailout/
----
-[Foreign_Policy] Why the ‘Odds of Mischief Are High’ in These Midterms
-Published: 2026-10-23T14:12:59+00:00
-Link: https://foreignpolicy.com/2026/10/23/midterm-elections-us-trump-democratic-party/
----
-[Foreign_Policy] What’s Behind Turkish-Azerbaijani Tensions?
-Published: 2026-10-23T13:27:41+00:00
-Link: https://foreignpolicy.com/2026/10/23/turkey-azerbaijan-aliev-erdogan-headscarf-ban/
----
-[Foreign_Affairs] The New Energy Stalemate in Ukraine
-Published: 2026-10-23T12:33:00+00:00
-Link: https://www.foreignaffairs.com/ukraine/new-energy-stalemate-ukraine
----
-[Foreign_Policy] Bolivia and Chile Make Nice
-Published: 2026-10-23T12:00:01+00:00
-Link: https://foreignpolicy.com/2026/10/23/bolivia-chile-relations-thaw-kast-paz-lithium/
----
-[New_Yorker_Magazine] The Fragile Unions of “Possible Love”
-Published: 2026-10-23T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/possible-love-movie-review
----
-[New_Yorker_Magazine] Political Skirmishes in “Other Desert Cities” and “A Bright Room Called Day”
-Published: 2026-10-23T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/other-desert-cities-theatre-review-a-bright-room-called-day
 ---
