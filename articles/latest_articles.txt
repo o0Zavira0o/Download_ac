@@ -1,6 +1,22 @@
-# Last Run: 2026-10-26 16:37 UTC
+# Last Run: 2026-10-26 22:25 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Serbia’s Student Protesters Deserve a Nobel Prize
+Published: 2026-10-26T21:06:07+00:00
+Link: https://foreignpolicy.com/2026/10/26/serbia-elections-students-nobel-prize/
+---
+[Foreign_Policy] Vucic’s Reign Is Over
+Published: 2026-10-26T20:40:17+00:00
+Link: https://foreignpolicy.com/2026/10/26/serbia-elections-vucic-student-list-protests-lula-brazil/
+---
+[Foreign_Policy] Lula Defies Latin America’s Pro-Trump Wave
+Published: 2026-10-26T19:20:32+00:00
+Link: https://foreignpolicy.com/2026/10/26/brazil-election-lula-flavio-bolsonaro-far-right-trump/
+---
+[Foreign_Policy] China’s Overcapacity Has a Mind of Its Own
+Published: 2026-10-26T16:28:58+00:00
+Link: https://foreignpolicy.com/2026/10/26/beijing-overcapacity-exports-manufacturing/
+---
 [Foreign_Policy] America’s Least Bad Option in Iran
 Published: 2026-10-26T14:55:56+00:00
 Link: https://foreignpolicy.com/2026/10/26/iran-war-trump-options-escalation-blockade-hormuz/
@@ -17,23 +33,75 @@ Link: https://foreignpolicy.com/2026/10/26/midterms-1966-vietnam-iran-trump/
 Published: 2026-10-26T10:00:05+00:00
 Link: https://foreignpolicy.com/2026/10/26/democrats-midterms-priorities-corruption-iran-ukraine-nato-venezuela-ai/
 ---
-[Foreign_Policy] Netanyahu Orders Large-Scale Military Operation in West Bank
-Published: 2026-10-23T20:22:10+00:00
-Link: https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/
+[New_Yorker_Magazine] A Pickpocket’s Guide to New York
+Published: 2026-10-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york
 ---
-[Foreign_Policy] The Real Danger of Big Tech
-Published: 2026-10-23T19:51:32+00:00
-Link: https://foreignpolicy.com/2026/10/23/musk-starlink-big-tech-dangers-ultrarich-us-democracy/
+[New_Yorker_Magazine] Daniel Humm’s Home Décor
+Published: 2026-10-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/daniel-humms-home-decor
 ---
-[Foreign_Policy] Why Putin’s Defenders Are Increasingly American
-Published: 2026-10-23T19:00:30+00:00
-Link: https://foreignpolicy.com/2026/10/23/putins-american-fellow-travelers-us-politics-russia/
+[New_Yorker_Magazine] Why the Broadway Musical Refuses to Die
+Published: 2026-10-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/broadway-in-black-and-white-john-mauceri-and-john-mcwhorter-book-review-lin-manuel-miranda-daniel-pollack-pelzner
 ---
-[Foreign_Policy] Filming Among the Rubble of Nazi Germany
-Published: 2026-10-23T18:23:42+00:00
-Link: https://foreignpolicy.com/2026/10/23/fatherland-nazis-postwar-trauma-rubble-movies/
+[New_Yorker_Magazine] Did an Alternative-Medicine Guru Accidentally Kill Patients?
+Published: 2026-10-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/did-an-alternative-medicine-guru-accidentally-kill-patients
 ---
-[Foreign_Policy] How to Make a Monster
-Published: 2026-10-23T18:00:22+00:00
-Link: https://foreignpolicy.com/2026/10/23/field-notes-extinction-eoghan-walls-review-ireland-great-famine-auks/
+[New_Yorker_Magazine] The Gold Rush and the Making of Modern America
+Published: 2026-10-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/the-rush-nathaniel-philbrick-book-review
+---
+[New_Yorker_Magazine] How Jim Morrison Surmounted Tragedy and Skied Down Everest
+Published: 2026-10-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/how-jim-morrison-surmounted-tragedy-and-skied-down-everest
+---
+[New_Yorker_Magazine] Letters from Our Readers
+Published: 2026-10-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/letters-from-the-november-02-2026-issue
+---
+[New_Yorker_Magazine] The Victoria & Albert Museum Expands, Twice
+Published: 2026-10-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/the-victoria-and-albert-museum-expands-twice
+---
+[New_Yorker_Magazine] Cheeks
+Published: 2026-10-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/cheeks
+---
+[New_Yorker_Magazine] From the Battalion to Broadway
+Published: 2026-10-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/from-the-battalion-to-broadway
+---
+[New_Yorker_Magazine] Charles Kushner and the MAGA Ambassador’s Playbook
+Published: 2026-10-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/charles-kushner-and-the-maga-ambassadors-playbook
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-10-26T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/auslander-frivolity-a-defense-may-we-feed-the-king-sophie-standing-there
+---
+[New_Yorker_Magazine] “ABCMIAMI,” by Adrienne Raphel
+Published: 2026-10-25T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/abcmiami-adrienne-raphel-poem
+---
+[New_Yorker_Magazine] “Waves, Cords,” by Alfred Corn
+Published: 2026-10-25T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/waves-cords-alfred-corn-poem
+---
+[New_Yorker_Magazine] The Republicans’ Remarkably Bad Midterm Campaigns
+Published: 2026-10-25T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/the-republicans-remarkably-bad-midterm-campaigns
+---
+[New_Yorker_Magazine] The State Officials Defending the Midterms from the President
+Published: 2026-10-25T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/the-state-officials-defending-the-midterms-from-the-president
+---
+[New_Yorker_Magazine] “Wall Cano,” by Souvankham Thammavongsa
+Published: 2026-10-25T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/wall-cano-fiction-souvankham-thammavongsa
+---
+[New_Yorker_Magazine] For Bob Iger, That’s the Way It Is
+Published: 2026-10-24T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/02/for-bob-iger-thats-the-way-it-is
 ---
