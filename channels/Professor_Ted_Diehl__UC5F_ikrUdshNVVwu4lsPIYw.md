@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
+_آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  

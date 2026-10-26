@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
+_آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-26 09:36:16 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Bist du nostalgisch?](https://www.youtube.com/watch?v=sd9420Fy1Qs)  
+  ![](https://i.ytimg.com/vi/sd9420Fy1Qs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-25 18:00:25 (UTC)  
+  **مدت:** حدود 20.9 دقیقه  
+  **عنوان:** [Inside Germany’s Unique Apprenticeship System](https://www.youtube.com/watch?v=-4o4S6M6QcE)  
+  ![](https://i.ytimg.com/vi/-4o4S6M6QcE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-24 18:26:27 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
   **مدت:** حدود 12.3 دقیقه  
   **عنوان:** [200 Episodes of Easy German](https://www.youtube.com/watch?v=qSTB21a7YqQ)  
   ![](https://i.ytimg.com/vi/qSTB21a7YqQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-14 20:22:49 (UTC)  
-  **مدت:** حدود 2.3 دقیقه  
-  **عنوان:** [German Modal Verbs | SUPER Easy German (36)](https://www.youtube.com/watch?v=aFURRj5A6IE)  
-  ![](https://i.ytimg.com/vi/aFURRj5A6IE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-08 06:14:49 (UTC)  
-  **مدت:** حدود 2.4 دقیقه  
-  **عنوان:** [German Sea Vocabulary | Super Easy German (35)](https://www.youtube.com/watch?v=2bRy92nvWRI)  
-  ![](https://i.ytimg.com/vi/2bRy92nvWRI/hqdefault.jpg)

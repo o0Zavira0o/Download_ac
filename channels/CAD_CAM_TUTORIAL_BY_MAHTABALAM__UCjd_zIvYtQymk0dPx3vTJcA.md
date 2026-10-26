@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
+_آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-26 03:30:29 (UTC)  
+  **مدت:** حدود 14.9 دقیقه  
+  **عنوان:** [Cylinder Clamp Assembly in SolidWorks-Part1.Cylinder Base](https://www.youtube.com/watch?v=B70WXNRXzyQ)  
+  ![](https://i.ytimg.com/vi/B70WXNRXzyQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-25 03:30:36 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
   **مدت:** حدود 36.5 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Audi Rim in Solidworks](https://www.youtube.com/watch?v=nyviOLV3YdE)  
   ![](https://i.ytimg.com/vi/nyviOLV3YdE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-11 14:46:21 (UTC)  
-  **مدت:** حدود 31.7 دقیقه  
-  **عنوان:** [Solidworks tutorial Basics of sheet metal](https://www.youtube.com/watch?v=MZ_lgSDhwb4)  
-  ![](https://i.ytimg.com/vi/MZ_lgSDhwb4/hqdefault.jpg)

@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
+_آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-26 11:59:42 (UTC)  
+  **مدت:** حدود 6.6 دقیقه  
+  **عنوان:** [How to Design a V-Belt Pulley in SolidWorks | Step-by-Step 3D Modeling Tutorial](https://www.youtube.com/watch?v=MfrqH51wBvo)  
+  ![](https://i.ytimg.com/vi/MfrqH51wBvo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-26 02:10:50 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Satisfying CAD Linkage Animation! 🤯](https://www.youtube.com/watch?v=Mo4xBecxI1A)  
+  ![](https://i.ytimg.com/vi/Mo4xBecxI1A/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-25 03:42:49 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
   **مدت:** حدود 7.3 دقیقه  
   **عنوان:** [Why You're Slow in SolidWorks (And How to Fix It)](https://www.youtube.com/watch?v=X3wRG1lIe-g)  
   ![](https://i.ytimg.com/vi/X3wRG1lIe-g/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-05 06:32:00 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [How to Use Two Faces Fillet Command  | Solidworks Advanced Exercise](https://www.youtube.com/watch?v=u3MM8pmvjkA)  
-  ![](https://i.ytimg.com/vi/u3MM8pmvjkA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-04 15:14:26 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [✅How to Use Sweep Boss/Base with Twisting 270° | Solidworks Advanced Exercise](https://www.youtube.com/watch?v=1kiGDs7klg8)  
-  ![](https://i.ytimg.com/vi/1kiGDs7klg8/hqdefault.jpg)

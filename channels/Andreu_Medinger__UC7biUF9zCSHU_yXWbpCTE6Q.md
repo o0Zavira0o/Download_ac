@@ -1,33 +1,9 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
+_آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
-
-
-- **تاریخ انتشار:** 2026-10-23 11:45:18 (UTC)  
-  **مدت:** حدود 73.2 دقیقه  
-  **عنوان:** [AULA 4 - DESTRAVAR SOLIDWORKS](https://www.youtube.com/watch?v=9MrDJOwfCoY)  
-  ![](https://i.ytimg.com/vi/9MrDJOwfCoY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-10-22 11:45:38 (UTC)  
-  **مدت:** حدود 249.8 دقیقه  
-  **عنوان:** [AULA 3 - DESTRAVAR SOLIDWORKS](https://www.youtube.com/watch?v=73Su0N57OSM)  
-  ![](https://i.ytimg.com/vi/73Su0N57OSM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-10-21 11:45:06 (UTC)  
-  **مدت:** حدود 137.6 دقیقه  
-  **عنوان:** [AULA 2 - DESTRAVAR SOLIDWORKS](https://www.youtube.com/watch?v=D63wqFqiBKo)  
-  ![](https://i.ytimg.com/vi/D63wqFqiBKo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-10-19 11:45:25 (UTC)  
-  **مدت:** حدود 20.4 دقیقه  
-  **عنوان:** [AULA 1 - DESTRAVAR SOLIDWORKS](https://www.youtube.com/watch?v=kilCww6QaAY)  
-  ![](https://i.ytimg.com/vi/kilCww6QaAY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-16 22:30:25 (UTC)  
@@ -904,3 +880,27 @@ _آخرین به‌روزرسانی: 2026-10-25T13:39:19Z_
   **مدت:** حدود 29.4 دقیقه  
   **عنوان:** [AULA 47 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=WY4uNFPqhEI)  
   ![](https://i.ytimg.com/vi/WY4uNFPqhEI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-05-16 23:49:15 (UTC)  
+  **مدت:** حدود 30.2 دقیقه  
+  **عنوان:** [AULA 46 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=Ympi5Btgdyo)  
+  ![](https://i.ytimg.com/vi/Ympi5Btgdyo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-05-09 01:09:44 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [SABONETE METÁLICO DE AÇO INOX 304 #solidworks #solidworksbrasil #engenhariamecanica #engenharia](https://www.youtube.com/watch?v=fNkxytdyljk)  
+  ![](https://i.ytimg.com/vi/fNkxytdyljk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-05-02 22:30:18 (UTC)  
+  **مدت:** حدود 27.5 دقیقه  
+  **عنوان:** [AULA 45 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=oXRBU7eY9-o)  
+  ![](https://i.ytimg.com/vi/oXRBU7eY9-o/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2025-04-28 22:30:08 (UTC)  
+  **مدت:** حدود 30.0 دقیقه  
+  **عنوان:** [AULA 44 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=bk4af6QBTwg)  
+  ![](https://i.ytimg.com/vi/bk4af6QBTwg/hqdefault.jpg)
