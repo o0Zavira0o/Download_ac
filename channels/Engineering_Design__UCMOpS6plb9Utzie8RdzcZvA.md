@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
+_آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-27 12:01:13 (UTC)  
+  **مدت:** حدود 7.6 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Bracket Design Tutorial | 2D Drawing to 3D Model](https://www.youtube.com/watch?v=zoaTLFu6ZMk)  
+  ![](https://i.ytimg.com/vi/zoaTLFu6ZMk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-26 11:59:42 (UTC)  
@@ -20,7 +26,7 @@ _آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
 
 - **تاریخ انتشار:** 2026-10-25 03:42:49 (UTC)  
   **مدت:** حدود 8.7 دقیقه  
-  **عنوان:** [SolidWorks Tutorial: 3D Fluted Bowl Design | Sketch to 3D Model Step by Step](https://www.youtube.com/watch?v=WyTtwowUYWE)  
+  **عنوان:** [How to Model a Professional Fluted Bowl in SolidWorks](https://www.youtube.com/watch?v=WyTtwowUYWE)  
   ![](https://i.ytimg.com/vi/WyTtwowUYWE/hqdefault.jpg)
 
 
@@ -374,7 +380,7 @@ _آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
 
 - **تاریخ انتشار:** 2026-08-25 12:40:19 (UTC)  
   **مدت:** حدود 3.6 دقیقه  
-  **عنوان:** [Can You Model This? SolidWorks S-Groove Sphere Tutorial](https://www.youtube.com/watch?v=D0T620Ua5gw)  
+  **عنوان:** [✅Can You Model This? SolidWorks S-Groove Sphere Tutorial](https://www.youtube.com/watch?v=D0T620Ua5gw)  
   ![](https://i.ytimg.com/vi/D0T620Ua5gw/hqdefault.jpg)
 
 
@@ -860,7 +866,7 @@ _آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
 
 - **تاریخ انتشار:** 2026-02-07 14:38:52 (UTC)  
   **مدت:** حدود 12.8 دقیقه  
-  **عنوان:** [Solidworks Surface Tutorial | How to Design Minimal Surface Structure in Solidworks](https://www.youtube.com/watch?v=9WasC_DsXuM)  
+  **عنوان:** [Want to Design Minimal Surfaces? Watch This Solidworks Tutorial](https://www.youtube.com/watch?v=9WasC_DsXuM)  
   ![](https://i.ytimg.com/vi/9WasC_DsXuM/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
   **مدت:** حدود 13.6 دقیقه  
   **عنوان:** [Universal Joint Assembly and Animation in Solidworks](https://www.youtube.com/watch?v=H5VgPTac4FY)  
   ![](https://i.ytimg.com/vi/H5VgPTac4FY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-09 02:14:42 (UTC)  
-  **مدت:** حدود 7.3 دقیقه  
-  **عنوان:** [Why You're Slow in SolidWorks (And How to Fix It)](https://www.youtube.com/watch?v=X3wRG1lIe-g)  
-  ![](https://i.ytimg.com/vi/X3wRG1lIe-g/hqdefault.jpg)

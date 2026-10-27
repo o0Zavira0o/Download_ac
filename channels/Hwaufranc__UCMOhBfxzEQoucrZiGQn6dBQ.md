@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
+_آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-27 13:30:40 (UTC)  
+  **مدت:** حدود 147.1 دقیقه  
+  **عنوان:** [ASMR 할로윈의 모든 것🎃 다이어리 꾸미기 | 아트 다꾸 Halloween Journal Art コラージュ](https://www.youtube.com/watch?v=kgLIIPHJKNo)  
+  ![](https://i.ytimg.com/vi/kgLIIPHJKNo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-26 14:00:01 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [Journaling ASMR 🌷 #backtoschool #sale #thewashitapeshop](https://www.youtube.com/watch?v=uyYkYb1izHg)  
   ![](https://i.ytimg.com/vi/uyYkYb1izHg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-08-01 12:10:01 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [ASMR Art Journaling 🪂 #shorts #artjournal #journal #다꾸 #デコ手帳](https://www.youtube.com/watch?v=suSUBbLt4Jw)  
-  ![](https://i.ytimg.com/vi/suSUBbLt4Jw/hqdefault.jpg)

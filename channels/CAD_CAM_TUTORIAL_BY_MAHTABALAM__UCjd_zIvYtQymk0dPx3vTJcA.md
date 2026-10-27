@@ -1,14 +1,26 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
+_آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
 
 
+- **تاریخ انتشار:** 2026-10-27 13:30:33 (UTC)  
+  **مدت:** حدود 25.7 دقیقه  
+  **عنوان:** [Cylinder Clamp Assembly in SolidWorks-Part 3 (Block cover front and back, Piston and Piston rod)](https://www.youtube.com/watch?v=X7YstQ6czms)  
+  ![](https://i.ytimg.com/vi/X7YstQ6czms/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-27 03:30:27 (UTC)  
+  **مدت:** حدود 15.1 دقیقه  
+  **عنوان:** [Cylinder Clamp Assembly in SolidWorks- Part 2.(Clamp, Long and Short Shaft, Pin, Cylinder Body)](https://www.youtube.com/watch?v=gLpu-Fzfq6U)  
+  ![](https://i.ytimg.com/vi/gLpu-Fzfq6U/hqdefault.jpg)
+
+
 - **تاریخ انتشار:** 2026-10-26 03:30:29 (UTC)  
   **مدت:** حدود 14.9 دقیقه  
-  **عنوان:** [Cylinder Clamp Assembly in SolidWorks-Part1.Cylinder Base](https://www.youtube.com/watch?v=B70WXNRXzyQ)  
+  **عنوان:** [Cylinder Clamp Assembly in SolidWorks-Part1. Cylinder Base](https://www.youtube.com/watch?v=B70WXNRXzyQ)  
   ![](https://i.ytimg.com/vi/B70WXNRXzyQ/hqdefault.jpg)
 
 
@@ -8992,15 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-26T16:02:55Z_
   **مدت:** حدود 29.7 دقیقه  
   **عنوان:** [Solidworks tutorial | slider crank mechanism in solidworks](https://www.youtube.com/watch?v=sHu_4yvZCoA)  
   ![](https://i.ytimg.com/vi/sHu_4yvZCoA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-18 05:03:06 (UTC)  
-  **مدت:** حدود 16.8 دقیقه  
-  **عنوان:** [Solidworks tutorial | Bevel gear and pinion mechanism in Solidworks](https://www.youtube.com/watch?v=GZiLtLj2WCE)  
-  ![](https://i.ytimg.com/vi/GZiLtLj2WCE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-13 15:08:15 (UTC)  
-  **مدت:** حدود 36.5 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Audi Rim in Solidworks](https://www.youtube.com/watch?v=nyviOLV3YdE)  
-  ![](https://i.ytimg.com/vi/nyviOLV3YdE/hqdefault.jpg)
