@@ -1,6 +1,10 @@
-# Last Run: 2026-10-27 16:08 UTC
+# Last Run: 2026-10-27 20:46 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Is Israel a Good Ally?
+Published: 2026-10-27T16:52:34+00:00
+Link: https://foreignpolicy.com/2026/10/27/israel-gaza-hamas-hezbollah-netanyahu-trump/
+---
 [Foreign_Policy] Space Junk Is a Problem We Know How to Solve
 Published: 2026-10-27T14:08:30+00:00
 Link: https://foreignpolicy.com/2026/10/27/outer-space-junk-satellites-problem-solutions/
@@ -24,6 +28,10 @@ Link: https://foreignpolicy.com/2026/10/27/china-europe-morocco-electric-vehicle
 [Foreign_Policy] China Takes Its Lawfare to Sea
 Published: 2026-10-27T04:01:59+00:00
 Link: https://foreignpolicy.com/2026/10/27/panama-canal-china-maritime-lawfare/
+---
+[Foreign_Affairs] Putin’s Strategy Is Working
+Published: 2026-10-27T04:00:00+00:00
+Link: https://www.foreignaffairs.com/russia/putins-strategy-working-michael-mcfaul
 ---
 [Foreign_Affairs] Putin’s Strategy Is Working
 Published: 2026-10-27T04:00:00+00:00
