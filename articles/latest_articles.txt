@@ -1,6 +1,22 @@
-# Last Run: 2026-10-27 09:47 UTC
+# Last Run: 2026-10-27 16:08 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Space Junk Is a Problem We Know How to Solve
+Published: 2026-10-27T14:08:30+00:00
+Link: https://foreignpolicy.com/2026/10/27/outer-space-junk-satellites-problem-solutions/
+---
+[Foreign_Policy] Trump Has Lost the Foreign-Policy Debate
+Published: 2026-10-27T12:00:54+00:00
+Link: https://foreignpolicy.com/2026/10/27/trump-polling-midterms-foreign-policy/
+---
+[Foreign_Policy] A Papal ‘Homecoming’
+Published: 2026-10-27T11:00:58+00:00
+Link: https://foreignpolicy.com/2026/10/27/pope-leo-south-america-trip-peru-argentina-uruguay-cancer/
+---
+[Foreign_Policy] The Global Push to Keep Kids Off Social Media
+Published: 2026-10-27T10:00:05+00:00
+Link: https://foreignpolicy.com/2026/10/27/social-media-age-restrictions-australia-china-india/
+---
 [Foreign_Policy] China Is Building Its Way Around Europe’s EV Tariffs
 Published: 2026-10-27T09:00:18+00:00
 Link: https://foreignpolicy.com/2026/10/27/china-europe-morocco-electric-vehicle-manufacturing-industrial-policy/
@@ -116,8 +132,4 @@ Link: https://www.newyorker.com/magazine/2026/11/02/the-state-officials-defendin
 [New_Yorker_Magazine] “Wall Cano,” by Souvankham Thammavongsa
 Published: 2026-10-25T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/02/wall-cano-fiction-souvankham-thammavongsa
----
-[New_Yorker_Magazine] For Bob Iger, That’s the Way It Is
-Published: 2026-10-24T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/for-bob-iger-thats-the-way-it-is
 ---
