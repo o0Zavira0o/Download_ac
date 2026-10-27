@@ -1121,6 +1121,8 @@ https://foreignpolicy.com/2026/10/26/israel-elections-netanyahu-emigration-skill
 https://foreignpolicy.com/2026/10/26/midterms-1966-vietnam-iran-trump/
 https://foreignpolicy.com/2026/10/26/serbia-elections-students-nobel-prize/
 https://foreignpolicy.com/2026/10/26/serbia-elections-vucic-student-list-protests-lula-brazil/
+https://foreignpolicy.com/2026/10/27/china-europe-morocco-electric-vehicle-manufacturing-industrial-policy/
+https://foreignpolicy.com/2026/10/27/panama-canal-china-maritime-lawfare/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -1241,6 +1243,7 @@ https://www.foreignaffairs.com/iran/why-america-cant-strangle-iran
 https://www.foreignaffairs.com/israel/can-israel-end-its-forever-wars
 https://www.foreignaffairs.com/israel/hezbollahs-trap-israel
 https://www.foreignaffairs.com/israel/how-save-us-israeli-alliance
+https://www.foreignaffairs.com/israel/israel-netanyahu-made
 https://www.foreignaffairs.com/israel/what-israels-election-wont-change
 https://www.foreignaffairs.com/japan/japan-giving-united-states-chance-asia
 https://www.foreignaffairs.com/japan/japans-point-no-return
@@ -1269,6 +1272,7 @@ https://www.foreignaffairs.com/russia/inertia-russias-war
 https://www.foreignaffairs.com/russia/next-russia-threat-michael-kofman
 https://www.foreignaffairs.com/russia/price-russian-paranoia
 https://www.foreignaffairs.com/russia/putin-will-turn-cease-fire-weapon
+https://www.foreignaffairs.com/russia/putins-strategy-working
 https://www.foreignaffairs.com/russia/russias-hybrid-war-has-entered-dangerous-new-phase
 https://www.foreignaffairs.com/saudi-arabia/looming-nuclear-crisis-gulf
 https://www.foreignaffairs.com/senegal/senegal-brink
