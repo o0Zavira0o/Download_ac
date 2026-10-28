@@ -1,6 +1,22 @@
-# Last Run: 2026-10-28 08:12 UTC
+# Last Run: 2026-10-28 15:09 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump’s Middle East Dealmaking Is Working Against Itself
+Published: 2026-10-28T13:33:34+00:00
+Link: https://foreignpolicy.com/2026/10/28/trump-middle-east-saudi-qatar-deals-syria-uae/
+---
+[Foreign_Policy] How to Not Change Your Mind
+Published: 2026-10-28T12:02:56+00:00
+Link: https://foreignpolicy.com/2026/10/28/change-mind-iran-war/
+---
+[Foreign_Policy] The Quiet Power of International Orders
+Published: 2026-10-28T12:00:47+00:00
+Link: https://foreignpolicy.com/2026/10/28/international-order-liberal-norms-west-colonial-empire-china/
+---
+[Foreign_Policy] Dawn of the Data Centers
+Published: 2026-10-28T10:00:38+00:00
+Link: https://foreignpolicy.com/2026/10/28/data-centers-locations-world-global-ai-construction/
+---
 [Foreign_Affairs] How to Secure the Straits
 Published: 2026-10-28T08:00:00+00:00
 Link: https://www.foreignaffairs.com/iran/how-secure-straits
@@ -148,24 +164,4 @@ Link: https://www.newyorker.com/magazine/2026/11/02/charles-kushner-and-the-maga
 [New_Yorker_Magazine] Briefly Noted Book Reviews
 Published: 2026-10-26T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/02/auslander-frivolity-a-defense-may-we-feed-the-king-sophie-standing-there
----
-[New_Yorker_Magazine] “ABCMIAMI,” by Adrienne Raphel
-Published: 2026-10-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/abcmiami-adrienne-raphel-poem
----
-[New_Yorker_Magazine] “Waves, Cords,” by Alfred Corn
-Published: 2026-10-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/waves-cords-alfred-corn-poem
----
-[New_Yorker_Magazine] The Republicans’ Remarkably Bad Midterm Campaigns
-Published: 2026-10-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/the-republicans-remarkably-bad-midterm-campaigns
----
-[New_Yorker_Magazine] The State Officials Defending the Midterms from the President
-Published: 2026-10-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/the-state-officials-defending-the-midterms-from-the-president
----
-[New_Yorker_Magazine] “Wall Cano,” by Souvankham Thammavongsa
-Published: 2026-10-25T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/wall-cano-fiction-souvankham-thammavongsa
 ---
