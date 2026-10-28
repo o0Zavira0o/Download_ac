@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
+_آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-10-28 11:00:29 (UTC)  
+  **مدت:** حدود 26.0 دقیقه  
+  **عنوان:** [【SolidWorks】肋材練習：哪個更好看?｜0831週一工程圖](https://www.youtube.com/watch?v=36vvPinkqtc)  
+  ![](https://i.ytimg.com/vi/36vvPinkqtc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-23 11:00:25 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
   **مدت:** حدود 19.4 دقیقه  
   **عنوان:** [【onshape】曲面：湯匙｜曲面練習](https://www.youtube.com/watch?v=F5mI-PADccg)  
   ![](https://i.ytimg.com/vi/F5mI-PADccg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-16 11:01:33 (UTC)  
-  **مدت:** حدود 11.4 دقیقه  
-  **عنوان:** [【SolidWorks】檢定題目：分區處理｜簡化草圖、簡化問題](https://www.youtube.com/watch?v=qFevilctdyg)  
-  ![](https://i.ytimg.com/vi/qFevilctdyg/hqdefault.jpg)

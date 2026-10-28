@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
+_آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-28 06:21:49 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Mind-Bending Mechanics: The Double Slider-Crank Loop 🤯⚙️](https://www.youtube.com/watch?v=iffBbudTD2U)  
+  ![](https://i.ytimg.com/vi/iffBbudTD2U/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-27 12:01:13 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
   **مدت:** حدود 10.4 دقیقه  
   **عنوان:** [Solidworks Tutorial | Solidworks Tutorial for Beginners Exercise 122](https://www.youtube.com/watch?v=lNsBW4AiPMQ)  
   ![](https://i.ytimg.com/vi/lNsBW4AiPMQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-10 11:53:25 (UTC)  
-  **مدت:** حدود 13.6 دقیقه  
-  **عنوان:** [Universal Joint Assembly and Animation in Solidworks](https://www.youtube.com/watch?v=H5VgPTac4FY)  
-  ![](https://i.ytimg.com/vi/H5VgPTac4FY/hqdefault.jpg)

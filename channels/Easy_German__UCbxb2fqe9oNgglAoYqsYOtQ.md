@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
+_آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-27 18:00:37 (UTC)  
+  **مدت:** حدود 42.0 دقیقه  
+  **عنوان:** [Learn German with Our Live Podcast](https://www.youtube.com/watch?v=-WbwNgcUT2o)  
+  ![](https://i.ytimg.com/vi/-WbwNgcUT2o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-26 09:36:16 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
   **مدت:** حدود 3.0 دقیقه  
   **عنوان:** [Grocery shopping in German | Super Easy German (33)](https://www.youtube.com/watch?v=yCV4h5kDwbM)  
   ![](https://i.ytimg.com/vi/yCV4h5kDwbM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-18 17:00:19 (UTC)  
-  **مدت:** حدود 12.3 دقیقه  
-  **عنوان:** [200 Episodes of Easy German](https://www.youtube.com/watch?v=qSTB21a7YqQ)  
-  ![](https://i.ytimg.com/vi/qSTB21a7YqQ/hqdefault.jpg)

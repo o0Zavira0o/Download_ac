@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
+_آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-28 11:10:25 (UTC)  
+  **مدت:** حدود 25.0 دقیقه  
+  **عنوان:** [Cylinder Clamp Assembly in SolidWorks-Part 4 (Sub-Assembly and Main Assembly)](https://www.youtube.com/watch?v=UBh4G3642hs)  
+  ![](https://i.ytimg.com/vi/UBh4G3642hs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-27 13:30:33 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
   **مدت:** حدود 21.9 دقیقه  
   **عنوان:** [Solidworks tutorial Chain Component Pattern](https://www.youtube.com/watch?v=jE3eUOYnyFQ)  
   ![](https://i.ytimg.com/vi/jE3eUOYnyFQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-20 20:00:22 (UTC)  
-  **مدت:** حدود 29.7 دقیقه  
-  **عنوان:** [Solidworks tutorial | slider crank mechanism in solidworks](https://www.youtube.com/watch?v=sHu_4yvZCoA)  
-  ![](https://i.ytimg.com/vi/sHu_4yvZCoA/hqdefault.jpg)

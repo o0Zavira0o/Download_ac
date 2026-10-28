@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
+_آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-28 14:00:27 (UTC)  
+  **مدت:** حدود 7.6 دقیقه  
+  **عنوان:** [다꾸 ASMR 호박 동작그만🏰🎃 다이어리 꾸미기 Pumpkin World Journaling コラージュ diy](https://www.youtube.com/watch?v=8syRzrsMSIU)  
+  ![](https://i.ytimg.com/vi/8syRzrsMSIU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-27 13:30:40 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-27T15:16:38Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [Unboxing PET Tape 🍁🏔 #autumn #winter #journalsupplies #asmr](https://www.youtube.com/watch?v=aKnp6bShw04)  
   ![](https://i.ytimg.com/vi/aKnp6bShw04/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-08-02 09:40:02 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Journaling ASMR 🌷 #backtoschool #sale #thewashitapeshop](https://www.youtube.com/watch?v=uyYkYb1izHg)  
-  ![](https://i.ytimg.com/vi/uyYkYb1izHg/hqdefault.jpg)
