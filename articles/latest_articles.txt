@@ -1,6 +1,22 @@
-# Last Run: 2026-10-29 08:10 UTC
+# Last Run: 2026-10-29 16:43 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] No One Has a Plan for American Decline
+Published: 2026-10-29T11:33:17+00:00
+Link: https://foreignpolicy.com/2026/10/29/america-decline-power-trump-liberal-progressive-neocon/
+---
+[Foreign_Policy] Is the UAE the Missing Link in the Fight Against the Houthis?
+Published: 2026-10-29T10:00:12+00:00
+Link: https://foreignpolicy.com/2026/10/29/uae-saudi-arabia-yemen-houthis-iran/
+---
+[Foreign_Affairs] Only the Gulf Can End the Iran War
+Published: 2026-10-29T08:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/only-gulf-can-end-iran-war
+---
+[Foreign_Affairs] Don’t Go Backward on China Policy
+Published: 2026-10-29T08:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/dont-go-backward-china-policy
+---
 [Foreign_Policy] Europe Was Never Meant to Be a ‘Regulatory Superpower’
 Published: 2026-10-29T04:01:38+00:00
 Link: https://foreignpolicy.com/2026/10/29/europe-regulatory-superpower-trade/
@@ -124,72 +140,4 @@ Link: https://foreignpolicy.com/2026/10/26/serbia-elections-vucic-student-list-p
 [Foreign_Policy] Lula Defies Latin America’s Pro-Trump Wave
 Published: 2026-10-26T19:20:32+00:00
 Link: https://foreignpolicy.com/2026/10/26/brazil-election-lula-flavio-bolsonaro-far-right-trump/
----
-[Foreign_Policy] China’s Overcapacity Has a Mind of Its Own
-Published: 2026-10-26T16:28:58+00:00
-Link: https://foreignpolicy.com/2026/10/26/beijing-overcapacity-exports-manufacturing/
----
-[Foreign_Policy] America’s Least Bad Option in Iran
-Published: 2026-10-26T14:55:56+00:00
-Link: https://foreignpolicy.com/2026/10/26/iran-war-trump-options-escalation-blockade-hormuz/
----
-[Foreign_Policy] Could Victory for Netanyahu Mean Mass Emigration?
-Published: 2026-10-26T12:00:55+00:00
-Link: https://foreignpolicy.com/2026/10/26/israel-elections-netanyahu-emigration-skilled-workers-polarization-gaza/
----
-[Foreign_Policy] How the 1966 Midterm Elections Presage 2026
-Published: 2026-10-26T10:19:00+00:00
-Link: https://foreignpolicy.com/2026/10/26/midterms-1966-vietnam-iran-trump/
----
-[Foreign_Policy] 5 Foreign-Policy Priorities for Democrats After the Midterms
-Published: 2026-10-26T10:00:05+00:00
-Link: https://foreignpolicy.com/2026/10/26/democrats-midterms-priorities-corruption-iran-ukraine-nato-venezuela-ai/
----
-[New_Yorker_Magazine] A Pickpocket’s Guide to New York
-Published: 2026-10-26T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york
----
-[New_Yorker_Magazine] Daniel Humm’s Home Décor
-Published: 2026-10-26T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/daniel-humms-home-decor
----
-[New_Yorker_Magazine] Why the Broadway Musical Refuses to Die
-Published: 2026-10-26T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/broadway-in-black-and-white-john-mauceri-and-john-mcwhorter-book-review-lin-manuel-miranda-daniel-pollack-pelzner
----
-[New_Yorker_Magazine] Did an Alternative-Medicine Guru Accidentally Kill Patients?
-Published: 2026-10-26T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/did-an-alternative-medicine-guru-accidentally-kill-patients
----
-[New_Yorker_Magazine] The Gold Rush and the Making of Modern America
-Published: 2026-10-26T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/the-rush-nathaniel-philbrick-book-review
----
-[New_Yorker_Magazine] How Jim Morrison Surmounted Tragedy and Skied Down Everest
-Published: 2026-10-26T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/how-jim-morrison-surmounted-tragedy-and-skied-down-everest
----
-[New_Yorker_Magazine] Letters from Our Readers
-Published: 2026-10-26T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/letters-from-the-november-02-2026-issue
----
-[New_Yorker_Magazine] The Victoria & Albert Museum Expands, Twice
-Published: 2026-10-26T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/the-victoria-and-albert-museum-expands-twice
----
-[New_Yorker_Magazine] Cheeks
-Published: 2026-10-26T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/cheeks
----
-[New_Yorker_Magazine] From the Battalion to Broadway
-Published: 2026-10-26T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/from-the-battalion-to-broadway
----
-[New_Yorker_Magazine] Charles Kushner and the MAGA Ambassador’s Playbook
-Published: 2026-10-26T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/charles-kushner-and-the-maga-ambassadors-playbook
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-10-26T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/02/auslander-frivolity-a-defense-may-we-feed-the-king-sophie-standing-there
 ---
