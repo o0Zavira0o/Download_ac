@@ -1,6 +1,22 @@
-# Last Run: 2026-10-29 16:43 UTC
+# Last Run: 2026-10-29 22:33 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How Big of a Threat Are the Houthis?
+Published: 2026-10-29T21:33:20+00:00
+Link: https://foreignpolicy.com/2026/10/29/houthis-yemen-war-saudi-arabia-red-sea-shipping-threat-iran/
+---
+[Foreign_Policy] The EU and Canada Struggle to Define Their Relationship
+Published: 2026-10-29T20:12:18+00:00
+Link: https://foreignpolicy.com/2026/10/29/eu-associate-member-canada-von-der-leyen-carney-trump-trade/
+---
+[Foreign_Policy] A New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast
+Published: 2026-10-29T19:04:01+00:00
+Link: https://foreignpolicy.com/2026/10/29/netanyahu-trump-israel-united-states-iran-war-election/
+---
+[Foreign_Policy] (Latin) America’s Pastime
+Published: 2026-10-29T18:59:15+00:00
+Link: https://foreignpolicy.com/2026/10/29/baseball-world-series-cuba-venezuela-dominican-republic-us-culture/
+---
 [Foreign_Policy] No One Has a Plan for American Decline
 Published: 2026-10-29T11:33:17+00:00
 Link: https://foreignpolicy.com/2026/10/29/america-decline-power-trump-liberal-progressive-neocon/
@@ -8,6 +24,10 @@ Link: https://foreignpolicy.com/2026/10/29/america-decline-power-trump-liberal-p
 [Foreign_Policy] Is the UAE the Missing Link in the Fight Against the Houthis?
 Published: 2026-10-29T10:00:12+00:00
 Link: https://foreignpolicy.com/2026/10/29/uae-saudi-arabia-yemen-houthis-iran/
+---
+[New_Yorker_Magazine] A Song of Grief and Union in “Lincoln in the Bardo”
+Published: 2026-10-29T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/lincoln-in-the-bardo-music-review
 ---
 [Foreign_Affairs] Only the Gulf Can End the Iran War
 Published: 2026-10-29T08:00:00+00:00
@@ -128,16 +148,4 @@ Link: https://www.foreignaffairs.com/russia/putins-strategy-working
 [Foreign_Affairs] The Israel Netanyahu Made
 Published: 2026-10-27T04:00:00+00:00
 Link: https://www.foreignaffairs.com/israel/israel-netanyahu-made
----
-[Foreign_Policy] Serbia’s Student Protesters Deserve a Nobel Prize
-Published: 2026-10-26T21:06:07+00:00
-Link: https://foreignpolicy.com/2026/10/26/serbia-elections-students-nobel-prize/
----
-[Foreign_Policy] Vucic’s Reign Is Over
-Published: 2026-10-26T20:40:17+00:00
-Link: https://foreignpolicy.com/2026/10/26/serbia-elections-vucic-student-list-protests-lula-brazil/
----
-[Foreign_Policy] Lula Defies Latin America’s Pro-Trump Wave
-Published: 2026-10-26T19:20:32+00:00
-Link: https://foreignpolicy.com/2026/10/26/brazil-election-lula-flavio-bolsonaro-far-right-trump/
 ---
