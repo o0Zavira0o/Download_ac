@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
+_آخرین به‌روزرسانی: 2026-10-29T15:59:31Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-29 12:31:19 (UTC)  
+  **مدت:** حدود 7.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial: 3D Mechanical Bracket Design Step by Step | 2D Sketch to 3D Model](https://www.youtube.com/watch?v=9bIl6dJJV24)  
+  ![](https://i.ytimg.com/vi/9bIl6dJJV24/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-28 06:21:49 (UTC)  
@@ -14,7 +20,7 @@ _آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
 
 - **تاریخ انتشار:** 2026-10-27 12:01:13 (UTC)  
   **مدت:** حدود 7.6 دقیقه  
-  **عنوان:** [SolidWorks Sheet Metal Bracket Design Tutorial | 2D Drawing to 3D Model](https://www.youtube.com/watch?v=zoaTLFu6ZMk)  
+  **عنوان:** [The Pro Way to Model Sheet Metal Parts in SolidWorks](https://www.youtube.com/watch?v=zoaTLFu6ZMk)  
   ![](https://i.ytimg.com/vi/zoaTLFu6ZMk/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [How to Design a Universal Joint in SolidWorks](https://www.youtube.com/watch?v=sP4qC8ieWi8)  
   ![](https://i.ytimg.com/vi/sP4qC8ieWi8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-24 05:48:49 (UTC)  
-  **مدت:** حدود 10.4 دقیقه  
-  **عنوان:** [Solidworks Tutorial | Solidworks Tutorial for Beginners Exercise 122](https://www.youtube.com/watch?v=lNsBW4AiPMQ)  
-  ![](https://i.ytimg.com/vi/lNsBW4AiPMQ/hqdefault.jpg)

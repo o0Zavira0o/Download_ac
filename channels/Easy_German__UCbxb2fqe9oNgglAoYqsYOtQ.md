@@ -1,14 +1,20 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
+_آخرین به‌روزرسانی: 2026-10-29T15:59:31Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
 
 
+- **تاریخ انتشار:** 2026-10-28 17:54:56 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Wie ist das Verhältnis zwischen den Städten im Ruhrgebiet?](https://www.youtube.com/watch?v=_f4ck2lAP5o)  
+  ![](https://i.ytimg.com/vi/_f4ck2lAP5o/hqdefault.jpg)
+
+
 - **تاریخ انتشار:** 2026-10-27 18:00:37 (UTC)  
   **مدت:** حدود 42.0 دقیقه  
-  **عنوان:** [Learn German with Our Live Podcast](https://www.youtube.com/watch?v=-WbwNgcUT2o)  
+  **عنوان:** [A Podcast to Learn German](https://www.youtube.com/watch?v=-WbwNgcUT2o)  
   ![](https://i.ytimg.com/vi/-WbwNgcUT2o/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
   **مدت:** حدود 7.6 دقیقه  
   **عنوان:** [Happy Birthday Manuel 😃](https://www.youtube.com/watch?v=cKWVpJlFhhs)  
   ![](https://i.ytimg.com/vi/cKWVpJlFhhs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-19 08:09:48 (UTC)  
-  **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [Grocery shopping in German | Super Easy German (33)](https://www.youtube.com/watch?v=yCV4h5kDwbM)  
-  ![](https://i.ytimg.com/vi/yCV4h5kDwbM/hqdefault.jpg)

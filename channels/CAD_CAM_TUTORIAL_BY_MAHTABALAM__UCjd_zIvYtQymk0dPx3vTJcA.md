@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
+_آخرین به‌روزرسانی: 2026-10-29T15:59:31Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-29 03:30:14 (UTC)  
+  **مدت:** حدود 33.5 دقیقه  
+  **عنوان:** [Oil Pump Body Modeling in SolidWorks](https://www.youtube.com/watch?v=SDU2x5TgKbE)  
+  ![](https://i.ytimg.com/vi/SDU2x5TgKbE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-28 11:10:25 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
   **مدت:** حدود 63.8 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Worm gear Reducer in Solidworks | Solidworks](https://www.youtube.com/watch?v=RIiXhbdluxQ)  
   ![](https://i.ytimg.com/vi/RIiXhbdluxQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-23 21:51:29 (UTC)  
-  **مدت:** حدود 21.9 دقیقه  
-  **عنوان:** [Solidworks tutorial Chain Component Pattern](https://www.youtube.com/watch?v=jE3eUOYnyFQ)  
-  ![](https://i.ytimg.com/vi/jE3eUOYnyFQ/hqdefault.jpg)

@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
+_آخرین به‌روزرسانی: 2026-10-29T15:59:31Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-10-29 15:20:29 (UTC)  
+  **مدت:** حدود 13.0 دقیقه  
+  **عنوان:** [다꾸 ASMR 생명의 나무 마녀노트 다이어리 꾸미기🌳EP.11 Tree of Life Journal Witch Note](https://www.youtube.com/watch?v=hICuqVDMcl8)  
+  ![](https://i.ytimg.com/vi/hICuqVDMcl8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-28 14:00:27 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-28T15:54:14Z_
   **مدت:** حدود 7.0 دقیقه  
   **عنوان:** [journal asmr | Pink Journaling 🌺 핑크 다꾸 Relaxing Sounds Scrapbooking デコ手帳](https://www.youtube.com/watch?v=S9EKP5YHPcg)  
   ![](https://i.ytimg.com/vi/S9EKP5YHPcg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-08-03 01:15:01 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Unboxing PET Tape 🍁🏔 #autumn #winter #journalsupplies #asmr](https://www.youtube.com/watch?v=aKnp6bShw04)  
-  ![](https://i.ytimg.com/vi/aKnp6bShw04/hqdefault.jpg)
