@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-29T15:59:31Z_
+_آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-30 11:54:16 (UTC)  
+  **مدت:** حدود 77.5 دقیقه  
+  **عنوان:** [Gate Valve Parts and Assembly in SolidWorks](https://www.youtube.com/watch?v=SmMtML3s2eA)  
+  ![](https://i.ytimg.com/vi/SmMtML3s2eA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-29 03:30:14 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-29T15:59:31Z_
   **مدت:** حدود 89.3 دقیقه  
   **عنوان:** [Solidworks tutorial | Design and Assembly of Car Jack in Solidworks | Solidworks](https://www.youtube.com/watch?v=6zVW8Tcm1LA)  
   ![](https://i.ytimg.com/vi/6zVW8Tcm1LA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-26 04:18:45 (UTC)  
-  **مدت:** حدود 63.8 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Worm gear Reducer in Solidworks | Solidworks](https://www.youtube.com/watch?v=RIiXhbdluxQ)  
-  ![](https://i.ytimg.com/vi/RIiXhbdluxQ/hqdefault.jpg)

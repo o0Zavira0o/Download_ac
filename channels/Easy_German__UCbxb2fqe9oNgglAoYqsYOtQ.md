@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-29T15:59:31Z_
+_آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-30 07:47:10 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [Nerven dich Fehler?](https://www.youtube.com/watch?v=tVdNn_hlvgo)  
+  ![](https://i.ytimg.com/vi/tVdNn_hlvgo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-29 16:10:24 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Kalte Wurst](https://www.youtube.com/watch?v=BJqsxOSMeno)  
+  ![](https://i.ytimg.com/vi/BJqsxOSMeno/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-28 17:54:56 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-29T15:59:31Z_
   **مدت:** حدود 10.1 دقیقه  
   **عنوان:** [Medieval Festival in Germany | Easy German 201](https://www.youtube.com/watch?v=P9_SOkWuUyk)  
   ![](https://i.ytimg.com/vi/P9_SOkWuUyk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-21 16:16:48 (UTC)  
-  **مدت:** حدود 3.4 دقیقه  
-  **عنوان:** [German Prepositions: IN | Super Easy German (37)](https://www.youtube.com/watch?v=ZdeUwPFB02Y)  
-  ![](https://i.ytimg.com/vi/ZdeUwPFB02Y/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-19 16:51:52 (UTC)  
-  **مدت:** حدود 7.6 دقیقه  
-  **عنوان:** [Happy Birthday Manuel 😃](https://www.youtube.com/watch?v=cKWVpJlFhhs)  
-  ![](https://i.ytimg.com/vi/cKWVpJlFhhs/hqdefault.jpg)

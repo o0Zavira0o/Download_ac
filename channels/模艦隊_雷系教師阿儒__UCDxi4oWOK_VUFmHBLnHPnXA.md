@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-10-29T15:59:31Z_
+_آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-10-30 11:00:13 (UTC)  
+  **مدت:** حدود 11.2 دقیقه  
+  **عنوان:** [【onshape】基礎課程：視角操作｜熟悉介面操控](https://www.youtube.com/watch?v=TbyeQjupQis)  
+  ![](https://i.ytimg.com/vi/TbyeQjupQis/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-28 11:00:29 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-29T15:59:31Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [短片看建模：SolidWorks模具練習](https://www.youtube.com/watch?v=lao70Q0dqlE)  
   ![](https://i.ytimg.com/vi/lao70Q0dqlE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-18 11:00:22 (UTC)  
-  **مدت:** حدود 19.4 دقیقه  
-  **عنوان:** [【onshape】曲面：湯匙｜曲面練習](https://www.youtube.com/watch?v=F5mI-PADccg)  
-  ![](https://i.ytimg.com/vi/F5mI-PADccg/hqdefault.jpg)

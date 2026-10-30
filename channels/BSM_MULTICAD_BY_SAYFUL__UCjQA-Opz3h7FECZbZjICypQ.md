@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال BSM MULTICAD BY SAYFUL
 
-_آخرین به‌روزرسانی: 2026-10-29T15:59:31Z_
+_آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
 
 
 **لینک استاندارد کانال:** [BSM MULTICAD BY SAYFUL](https://www.youtube.com/channel/UCjQA-Opz3h7FECZbZjICypQ)  
@@ -308,302 +308,302 @@ _آخرین به‌روزرسانی: 2026-10-29T15:59:31Z_
 
 - **تاریخ انتشار:** 2026-06-12 10:37:40 (UTC)  
   **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=4qqzR7oEBV8)  
-  ![]()
+  **عنوان:** [FULL COURSE AUTOCAD A TO Z  ARCHITECTURE, STRUCTURE WITH BASIC AND PRESENTATIONEP 02a BSMMULTICAD](https://www.youtube.com/watch?v=4qqzR7oEBV8)  
+  ![](https://i.ytimg.com/vi/4qqzR7oEBV8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 10:33:09 (UTC)  
   **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=-iPCmQBYUjQ)  
-  ![]()
+  **عنوان:** [FULL COURSE AUTOCAD A TO Z  ARCHITECTURE, STRUCTURE WITH BASIC AND PRESENTATIONEP 02b BSMMULTICAD](https://www.youtube.com/watch?v=-iPCmQBYUjQ)  
+  ![](https://i.ytimg.com/vi/-iPCmQBYUjQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 10:19:16 (UTC)  
   **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=TzbPepg-oig)  
-  ![]()
+  **عنوان:** [FULL COURSE AUTOCAD A TO Z  ARCHITECTURE, STRUCTURE WITH BASIC AND PRESENTATIONEP 02c BSMMULTICAD](https://www.youtube.com/watch?v=TzbPepg-oig)  
+  ![](https://i.ytimg.com/vi/TzbPepg-oig/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 10:13:22 (UTC)  
   **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=iOzbgZ0yJAA)  
-  ![]()
+  **عنوان:** [FULL COURSE AUTOCAD A TO Z  ARCHITECTURE, STRUCTURE WITH BASIC AND PRESENTATIONEP 02d BSMMULTICAD](https://www.youtube.com/watch?v=iOzbgZ0yJAA)  
+  ![](https://i.ytimg.com/vi/iOzbgZ0yJAA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 10:09:45 (UTC)  
   **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=369q31hTZPc)  
-  ![]()
+  **عنوان:** [FULL COURSE AUTOCAD A TO Z  ARCHITECTURE, STRUCTURE WITH BASIC AND PRESENTATIONEP 02d BSMMULTICAD](https://www.youtube.com/watch?v=369q31hTZPc)  
+  ![](https://i.ytimg.com/vi/369q31hTZPc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 09:55:37 (UTC)  
   **مدت:** حدود 22.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=TRza2kT_PeI)  
-  ![]()
+  **عنوان:** [Ground floor reinforcement details AutoCAD Bangla tutorials CAD EP 47  Reinforcement Details](https://www.youtube.com/watch?v=TRza2kT_PeI)  
+  ![](https://i.ytimg.com/vi/TRza2kT_PeI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 09:29:09 (UTC)  
   **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=C4VZp3bjYpI)  
-  ![]()
+  **عنوان:** [Ground floor reinforcement details AutoCAD Bangla tutorials CAD EP 47  Reinforcement Details b](https://www.youtube.com/watch?v=C4VZp3bjYpI)  
+  ![](https://i.ytimg.com/vi/C4VZp3bjYpI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 09:19:01 (UTC)  
   **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=WuLoFaw8Ie8)  
-  ![]()
+  **عنوان:** [Ground floor reinforcement details AutoCAD Bangla tutorials CAD EP 47  Reinforcement Details c](https://www.youtube.com/watch?v=WuLoFaw8Ie8)  
+  ![](https://i.ytimg.com/vi/WuLoFaw8Ie8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 09:17:30 (UTC)  
   **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=aJkymhalbFs)  
-  ![]()
+  **عنوان:** [Ground floor reinforcement details AutoCAD Bangla tutorials CAD EP 47  Reinforcement Details d](https://www.youtube.com/watch?v=aJkymhalbFs)  
+  ![](https://i.ytimg.com/vi/aJkymhalbFs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 05:06:08 (UTC)  
   **مدت:** حدود 23.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=jzhRmRxVJhA)  
-  ![]()
+  **عنوان:** [Ground floor reinforecment details autocad bangla tutorials](https://www.youtube.com/watch?v=jzhRmRxVJhA)  
+  ![](https://i.ytimg.com/vi/jzhRmRxVJhA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 04:44:52 (UTC)  
   **مدت:** حدود 15.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=NSmtnemnvZQ)  
-  ![]()
+  **عنوان:** [HATCH BLOCK STRETCH DETAILS BANGLA TUTORIALS BSMMULTICADBYSAYFUL EP 06](https://www.youtube.com/watch?v=NSmtnemnvZQ)  
+  ![](https://i.ytimg.com/vi/NSmtnemnvZQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 04:37:18 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=iC4m-IVN7NU)  
-  ![]()
+  **عنوان:** [how to complete course SketchUp Bangla tutorialsB](https://www.youtube.com/watch?v=iC4m-IVN7NU)  
+  ![](https://i.ytimg.com/vi/iC4m-IVN7NU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 04:32:23 (UTC)  
   **مدت:** حدود 21.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=usgUCBN76W8)  
-  ![]()
+  **عنوان:** [HOW TO DRAW FOOTING LAYOUT PLANFOOTING WORKING DRAWING](https://www.youtube.com/watch?v=usgUCBN76W8)  
+  ![](https://i.ytimg.com/vi/usgUCBN76W8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 04:12:55 (UTC)  
   **مدت:** حدود 15.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=T_w4NMjT3dk)  
-  ![]()
+  **عنوان:** [How to read SLAB reinforcement drawing  Typical SLAB DETAILS  Two way slab reinforcements CAD EP 48](https://www.youtube.com/watch?v=T_w4NMjT3dk)  
+  ![](https://i.ytimg.com/vi/T_w4NMjT3dk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 03:49:14 (UTC)  
   **مدت:** حدود 15.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=qo_c9xJgcqw)  
-  ![]()
+  **عنوان:** [How to read SLAB reinforcement drawing  Typical SLAB DETAILS  Two way slab reinforcements CAD EP 48](https://www.youtube.com/watch?v=qo_c9xJgcqw)  
+  ![](https://i.ytimg.com/vi/qo_c9xJgcqw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 03:42:04 (UTC)  
   **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Qrt0zoue8-s)  
-  ![]()
+  **عنوان:** [How to read SLAB reinforcement drawing  Typical SLAB DETAILS  Two way slab reinforcements CAD EP 48](https://www.youtube.com/watch?v=Qrt0zoue8-s)  
+  ![](https://i.ytimg.com/vi/Qrt0zoue8-s/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 03:37:54 (UTC)  
   **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=l9IbEnVjU5o)  
-  ![]()
+  **عنوان:** [How to read SLAB reinforcement drawing  Typical SLAB DETAILS  Two way slab reinforcements CAD EP 48](https://www.youtube.com/watch?v=l9IbEnVjU5o)  
+  ![](https://i.ytimg.com/vi/l9IbEnVjU5o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-12 03:35:43 (UTC)  
   **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=kSpI_hbDL3c)  
-  ![]()
+  **عنوان:** [How to read SLAB reinforcement drawing  Typical SLAB DETAILS  Two way slab reinforcements CAD EP 48](https://www.youtube.com/watch?v=kSpI_hbDL3c)  
+  ![](https://i.ytimg.com/vi/kSpI_hbDL3c/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 12:23:06 (UTC)  
   **مدت:** حدود 1.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=MLQoovqmqHY)  
-  ![]()
+  **عنوان:** [MID POINT AUTOCAD](https://www.youtube.com/watch?v=MLQoovqmqHY)  
+  ![](https://i.ytimg.com/vi/MLQoovqmqHY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 12:21:26 (UTC)  
   **مدت:** حدود 4.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=xajWvfp5uEY)  
-  ![]()
+  **عنوان:** [PAGE SETUP](https://www.youtube.com/watch?v=xajWvfp5uEY)  
+  ![](https://i.ytimg.com/vi/xajWvfp5uEY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 10:06:10 (UTC)  
   **مدت:** حدود 3.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=QsBTy4NN-KA)  
-  ![]()
+  **عنوان:** [PAID COURSE RULES BANGLA TUTORIALS BSM CAD EP 01](https://www.youtube.com/watch?v=QsBTy4NN-KA)  
+  ![](https://i.ytimg.com/vi/QsBTy4NN-KA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 08:30:37 (UTC)  
   **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=cxiXq5HrJLg)  
-  ![]()
+  **عنوان:** [PAID COURSE](https://www.youtube.com/watch?v=cxiXq5HrJLg)  
+  ![](https://i.ytimg.com/vi/cxiXq5HrJLg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 08:10:34 (UTC)  
   **مدت:** حدود 14.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=VBKET0Uc7Wg)  
-  ![]()
+  **عنوان:** [PAID কোর্স করলে আপনাদের কি কি শিখানো হবে, কোর্স ফি কত, CLASS কতটা আপনাদের সব প্রশ্নের উত্তরই ভিডিওতে](https://www.youtube.com/watch?v=VBKET0Uc7Wg)  
+  ![](https://i.ytimg.com/vi/VBKET0Uc7Wg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 07:46:53 (UTC)  
   **مدت:** حدود 26.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=zncgNsSnnmM)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 01](https://www.youtube.com/watch?v=zncgNsSnnmM)  
+  ![](https://i.ytimg.com/vi/zncgNsSnnmM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 07:24:03 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=PqdLCLMWvlc)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 01](https://www.youtube.com/watch?v=PqdLCLMWvlc)  
+  ![](https://i.ytimg.com/vi/PqdLCLMWvlc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 07:23:11 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=fukQK-ZDGco)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 01](https://www.youtube.com/watch?v=fukQK-ZDGco)  
+  ![](https://i.ytimg.com/vi/fukQK-ZDGco/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 07:22:32 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Y0-t6UzXyLU)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 01](https://www.youtube.com/watch?v=Y0-t6UzXyLU)  
+  ![](https://i.ytimg.com/vi/Y0-t6UzXyLU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 07:22:18 (UTC)  
   **مدت:** حدود 39.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=7LK2fM2y_Uo)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 02](https://www.youtube.com/watch?v=7LK2fM2y_Uo)  
+  ![](https://i.ytimg.com/vi/7LK2fM2y_Uo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 07:19:33 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=BnCuMMpUdpE)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 01](https://www.youtube.com/watch?v=BnCuMMpUdpE)  
+  ![](https://i.ytimg.com/vi/BnCuMMpUdpE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-06 07:19:02 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=3z5wSE24Tb4)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 01](https://www.youtube.com/watch?v=3z5wSE24Tb4)  
+  ![](https://i.ytimg.com/vi/3z5wSE24Tb4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-06-01 06:04:46 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=qJ-UeSHH93Q)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 02](https://www.youtube.com/watch?v=qJ-UeSHH93Q)  
+  ![](https://i.ytimg.com/vi/qJ-UeSHH93Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-31 10:25:15 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=MMpJKoOV5Z0)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 02](https://www.youtube.com/watch?v=MMpJKoOV5Z0)  
+  ![](https://i.ytimg.com/vi/MMpJKoOV5Z0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-31 02:29:56 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=W7XXjGs6dCk)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 02](https://www.youtube.com/watch?v=W7XXjGs6dCk)  
+  ![](https://i.ytimg.com/vi/W7XXjGs6dCk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-24 08:08:59 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=9Mb47y4EdWQ)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 02](https://www.youtube.com/watch?v=9Mb47y4EdWQ)  
+  ![](https://i.ytimg.com/vi/9Mb47y4EdWQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-24 01:49:57 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=7mJJH10hwLA)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 02](https://www.youtube.com/watch?v=7mJJH10hwLA)  
+  ![](https://i.ytimg.com/vi/7mJJH10hwLA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-23 14:16:52 (UTC)  
   **مدت:** حدود 25.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=icXNrme_YMs)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 03](https://www.youtube.com/watch?v=icXNrme_YMs)  
+  ![](https://i.ytimg.com/vi/icXNrme_YMs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-22 08:37:16 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=vm_XA7QdJYY)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 03](https://www.youtube.com/watch?v=vm_XA7QdJYY)  
+  ![](https://i.ytimg.com/vi/vm_XA7QdJYY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-22 08:34:22 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=5H5Vn-tBdkk)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 03](https://www.youtube.com/watch?v=5H5Vn-tBdkk)  
+  ![](https://i.ytimg.com/vi/5H5Vn-tBdkk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-22 08:28:29 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=_jgp-tZyC04)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 03](https://www.youtube.com/watch?v=_jgp-tZyC04)  
+  ![](https://i.ytimg.com/vi/_jgp-tZyC04/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-22 02:06:24 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=OsYykAW4fR4)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 03](https://www.youtube.com/watch?v=OsYykAW4fR4)  
+  ![](https://i.ytimg.com/vi/OsYykAW4fR4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-21 18:15:14 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=YctIb08bZXg)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 04](https://www.youtube.com/watch?v=YctIb08bZXg)  
+  ![](https://i.ytimg.com/vi/YctIb08bZXg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-21 00:27:06 (UTC)  
   **مدت:** حدود 25.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=9zWPzfE1Mrc)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 05](https://www.youtube.com/watch?v=9zWPzfE1Mrc)  
+  ![](https://i.ytimg.com/vi/9zWPzfE1Mrc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-21 00:02:55 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=D5ID42j4p8s)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 05](https://www.youtube.com/watch?v=D5ID42j4p8s)  
+  ![](https://i.ytimg.com/vi/D5ID42j4p8s/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 23:39:09 (UTC)  
   **مدت:** حدود 18.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=l12JYnNKXOc)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 06](https://www.youtube.com/watch?v=l12JYnNKXOc)  
+  ![](https://i.ytimg.com/vi/l12JYnNKXOc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 16:50:34 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=nO1IU86sdKo)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 06](https://www.youtube.com/watch?v=nO1IU86sdKo)  
+  ![](https://i.ytimg.com/vi/nO1IU86sdKo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 16:05:02 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=qKkWGRmNa_I)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 06](https://www.youtube.com/watch?v=qKkWGRmNa_I)  
+  ![](https://i.ytimg.com/vi/qKkWGRmNa_I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 02:03:43 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=WtelxW-0mdA)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 06](https://www.youtube.com/watch?v=WtelxW-0mdA)  
+  ![](https://i.ytimg.com/vi/WtelxW-0mdA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-20 01:09:43 (UTC)  
   **مدت:** حدود 45.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=F8I9rLnewbU)  
-  ![]()
+  **عنوان:** [Professional AutoCAD Architecture & Structure Course | A to Z Full Training Bangla | EP-07 |](https://www.youtube.com/watch?v=F8I9rLnewbU)  
+  ![](https://i.ytimg.com/vi/F8I9rLnewbU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-19 23:24:08 (UTC)  
   **مدت:** حدود 12.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=vZGJwOGVVf8)  
-  ![]()
+  **عنوان:** [Professional AutoCAD architecture, structure with basic a to z full course Singapore Hasan Vay Ep 08](https://www.youtube.com/watch?v=vZGJwOGVVf8)  
+  ![](https://i.ytimg.com/vi/vZGJwOGVVf8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-19 00:54:34 (UTC)  
   **مدت:** حدود 113.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Aowf4eBqvfI)  
-  ![]()
+  **عنوان:** [SketchUp Bedroom Interior Design | Complete Bangla Tutorial Step by Step](https://www.youtube.com/watch?v=Aowf4eBqvfI)  
+  ![](https://i.ytimg.com/vi/Aowf4eBqvfI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-05-19 00:28:32 (UTC)  
