@@ -1,4 +1,4 @@
-# Last Run: 2026-10-29 22:33 UTC
+# Last Run: 2026-10-30 04:46 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] How Big of a Threat Are the Houthis?
@@ -132,20 +132,4 @@ Link: https://foreignpolicy.com/2026/10/27/social-media-age-restrictions-austral
 [Foreign_Policy] China Is Building Its Way Around Europe’s EV Tariffs
 Published: 2026-10-27T09:00:18+00:00
 Link: https://foreignpolicy.com/2026/10/27/china-europe-morocco-electric-vehicle-manufacturing-industrial-policy/
----
-[Foreign_Policy] China Takes Its Lawfare to Sea
-Published: 2026-10-27T04:01:59+00:00
-Link: https://foreignpolicy.com/2026/10/27/panama-canal-china-maritime-lawfare/
----
-[Foreign_Affairs] Putin’s Strategy Is Working
-Published: 2026-10-27T04:00:00+00:00
-Link: https://www.foreignaffairs.com/russia/putins-strategy-working-michael-mcfaul
----
-[Foreign_Affairs] Putin’s Strategy Is Working
-Published: 2026-10-27T04:00:00+00:00
-Link: https://www.foreignaffairs.com/russia/putins-strategy-working
----
-[Foreign_Affairs] The Israel Netanyahu Made
-Published: 2026-10-27T04:00:00+00:00
-Link: https://www.foreignaffairs.com/israel/israel-netanyahu-made
 ---
