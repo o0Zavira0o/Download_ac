@@ -1,6 +1,18 @@
-# Last Run: 2026-10-30 19:03 UTC
+# Last Run: 2026-10-30 23:33 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The World’s Biggest Crypto Heist
+Published: 2026-10-30T20:44:08+00:00
+Link: https://foreignpolicy.com/2026/10/30/binance-cryptocurrency-hack-north-korea/
+---
+[Foreign_Policy] Russia the Disruptor
+Published: 2026-10-30T19:15:49+00:00
+Link: https://foreignpolicy.com/2026/10/30/russia-war-ukraine-books-us-history-kinzer-haslam-notte/
+---
+[Foreign_Policy] AI Isn’t a Revolution—Yet
+Published: 2026-10-30T19:00:32+00:00
+Link: https://foreignpolicy.com/2026/10/30/artificial-intelligence-ai-revolution-technology-history-luddites/
+---
 [Foreign_Policy] Fame, Fortune, and Murder in 1960s France
 Published: 2026-10-30T18:45:17+00:00
 Link: https://foreignpolicy.com/2026/10/30/french-history-edward-chisholm-murder-paris-68-alain-delon-scandal/
@@ -152,20 +164,4 @@ Link: https://www.foreignaffairs.com/united-states/backdoor-american-innovation
 [Foreign_Policy] Young People Are Struggling in Southeast Asia Too
 Published: 2026-10-28T05:00:50+00:00
 Link: https://foreignpolicy.com/2026/10/28/young-people-southeast-asia-underemployment/
----
-[Foreign_Policy] Why Party Plenums Matter So Much to Xi
-Published: 2026-10-27T21:28:22+00:00
-Link: https://foreignpolicy.com/2026/10/27/china-ccp-fifth-plenum-xi-jinping-politics-corruption/
----
-[Foreign_Policy] Decoding Israel’s Election Results
-Published: 2026-10-27T21:19:59+00:00
-Link: https://foreignpolicy.com/2026/10/27/israel-election-netanyahu-likud-eisenkot-yashar-hamas-gaza-war/
----
-[Foreign_Policy] Trump’s Tariffs Will Have Another Day in Court
-Published: 2026-10-27T20:46:52+00:00
-Link: https://foreignpolicy.com/2026/10/27/trump-tariffs-trade-war-court-ieepa/
----
-[Foreign_Policy] Dramatic Changes Are Unlikely in Israel, Even if Netanyahu Is Ousted
-Published: 2026-10-27T20:39:45+00:00
-Link: https://foreignpolicy.com/2026/10/27/israel-election-netanyahu-eisenkot-palestinians-gaza/
 ---
