@@ -1,6 +1,50 @@
-# Last Run: 2026-10-30 12:19 UTC
+# Last Run: 2026-10-30 19:03 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Fame, Fortune, and Murder in 1960s France
+Published: 2026-10-30T18:45:17+00:00
+Link: https://foreignpolicy.com/2026/10/30/french-history-edward-chisholm-murder-paris-68-alain-delon-scandal/
+---
+[Foreign_Policy] Is Netflix’s ‘The New Stanford Prison Experiment’ for Real?
+Published: 2026-10-30T18:15:27+00:00
+Link: https://foreignpolicy.com/2026/10/30/netflix-new-stanford-prison-experiment-review/
+---
+[Foreign_Policy] ‘I Welcome Their Hatred’
+Published: 2026-10-30T18:00:42+00:00
+Link: https://foreignpolicy.com/2026/10/30/fdr-madison-square-garden-speech-new-deal-democrats/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-10-30T17:47:37+00:00
+Link: https://foreignpolicy.com/2026/10/30/news-quiz-lula-brazil-election-serbia-vucic-israel-china-fifth-plenum-ccp/
+---
+[Foreign_Policy] Why Trump’s Hail Mary on Fuel Prices Fell Short
+Published: 2026-10-30T17:31:38+00:00
+Link: https://foreignpolicy.com/2026/10/30/trump-russia-diesel-deal-putin-prices-midterms-iran-war/
+---
+[Foreign_Policy] The Security Challenges Facing the Next Israeli Leader
+Published: 2026-10-30T16:58:37+00:00
+Link: https://foreignpolicy.com/2026/10/30/israel-wars-netanyahu-eisenkot-election-gaza-lebanon-iran/
+---
+[Foreign_Policy] The Gulf Isn’t Ready for a Renewed Iran War
+Published: 2026-10-30T16:43:49+00:00
+Link: https://foreignpolicy.com/2026/10/30/iran-war-gulf-energy-infrastructure/
+---
+[Foreign_Policy] U.S. Allies Have Midterm Fever
+Published: 2026-10-30T15:52:23+00:00
+Link: https://foreignpolicy.com/2026/10/30/us-midterm-elections-europe-canada-democrats-congress-trump/
+---
+[Foreign_Policy] How Israel’s Coalition Wrangling Could Play Out
+Published: 2026-10-30T15:21:23+00:00
+Link: https://foreignpolicy.com/2026/10/30/israel-election-netanyahu-majority-coalition-likud-yashar-eisenkot-dahlia-scheindlin/
+---
+[Foreign_Policy] What Life Is Like by the Strait of Hormuz Right Now
+Published: 2026-10-30T14:47:03+00:00
+Link: https://foreignpolicy.com/2026/10/30/life-in-strait-of-hormuz-bandar-abbas/
+---
+[Foreign_Policy] Venezuela’s Exiled Opposition Leader Comes Home
+Published: 2026-10-30T12:00:01+00:00
+Link: https://foreignpolicy.com/2026/10/30/venezuela-machado-elections-us-rubio-rodriguez-oil/
+---
 [Foreign_Policy] Trump Promised Poland More Troops. They’re Still Not There.
 Published: 2026-10-30T10:00:10+00:00
 Link: https://foreignpolicy.com/2026/10/30/trump-poland-troops-deployment-delay-europe-review/
@@ -124,12 +168,4 @@ Link: https://foreignpolicy.com/2026/10/27/trump-tariffs-trade-war-court-ieepa/
 [Foreign_Policy] Dramatic Changes Are Unlikely in Israel, Even if Netanyahu Is Ousted
 Published: 2026-10-27T20:39:45+00:00
 Link: https://foreignpolicy.com/2026/10/27/israel-election-netanyahu-eisenkot-palestinians-gaza/
----
-[Foreign_Policy] Is Israel a Good Ally?
-Published: 2026-10-27T16:52:34+00:00
-Link: https://foreignpolicy.com/2026/10/27/israel-gaza-hamas-hezbollah-netanyahu-trump/
----
-[Foreign_Policy] Space Junk Is a Problem We Know How to Solve
-Published: 2026-10-27T14:08:30+00:00
-Link: https://foreignpolicy.com/2026/10/27/outer-space-junk-satellites-problem-solutions/
 ---
