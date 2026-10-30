@@ -1,6 +1,22 @@
-# Last Run: 2026-10-30 04:46 UTC
+# Last Run: 2026-10-30 12:19 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump Promised Poland More Troops. They’re Still Not There.
+Published: 2026-10-30T10:00:10+00:00
+Link: https://foreignpolicy.com/2026/10/30/trump-poland-troops-deployment-delay-europe-review/
+---
+[Foreign_Affairs] Can the Nordic Model Save NATO?
+Published: 2026-10-30T08:00:00+00:00
+Link: https://www.foreignaffairs.com/northern-europe/can-nordic-model-save-nato
+---
+[Foreign_Affairs] North Korea’s Enemies Within
+Published: 2026-10-30T08:00:00+00:00
+Link: https://www.foreignaffairs.com/north-korea/north-koreas-enemies-within
+---
+[Foreign_Policy] Russia’s Next Mobilization Is Already Happening
+Published: 2026-10-30T06:51:46+00:00
+Link: https://foreignpolicy.com/2026/10/30/putin-russia-ukraine-war-mobilization-casualties/
+---
 [Foreign_Policy] How Big of a Threat Are the Houthis?
 Published: 2026-10-29T21:33:20+00:00
 Link: https://foreignpolicy.com/2026/10/29/houthis-yemen-war-saudi-arabia-red-sea-shipping-threat-iran/
@@ -116,20 +132,4 @@ Link: https://foreignpolicy.com/2026/10/27/israel-gaza-hamas-hezbollah-netanyahu
 [Foreign_Policy] Space Junk Is a Problem We Know How to Solve
 Published: 2026-10-27T14:08:30+00:00
 Link: https://foreignpolicy.com/2026/10/27/outer-space-junk-satellites-problem-solutions/
----
-[Foreign_Policy] Trump Has Lost the Foreign-Policy Debate
-Published: 2026-10-27T12:00:54+00:00
-Link: https://foreignpolicy.com/2026/10/27/trump-polling-midterms-foreign-policy/
----
-[Foreign_Policy] A Papal ‘Homecoming’
-Published: 2026-10-27T11:00:58+00:00
-Link: https://foreignpolicy.com/2026/10/27/pope-leo-south-america-trip-peru-argentina-uruguay-cancer/
----
-[Foreign_Policy] The Global Push to Keep Kids Off Social Media
-Published: 2026-10-27T10:00:05+00:00
-Link: https://foreignpolicy.com/2026/10/27/social-media-age-restrictions-australia-china-india/
----
-[Foreign_Policy] China Is Building Its Way Around Europe’s EV Tariffs
-Published: 2026-10-27T09:00:18+00:00
-Link: https://foreignpolicy.com/2026/10/27/china-europe-morocco-electric-vehicle-manufacturing-industrial-policy/
 ---
