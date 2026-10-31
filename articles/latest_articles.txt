@@ -1,4 +1,4 @@
-# Last Run: 2026-10-31 04:30 UTC
+# Last Run: 2026-10-31 11:51 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The World’s Biggest Crypto Heist
@@ -148,20 +148,4 @@ Link: https://foreignpolicy.com/2026/10/28/change-mind-iran-war/
 [Foreign_Policy] The Quiet Power of International Orders
 Published: 2026-10-28T12:00:47+00:00
 Link: https://foreignpolicy.com/2026/10/28/international-order-liberal-norms-west-colonial-empire-china/
----
-[Foreign_Policy] Dawn of the Data Centers
-Published: 2026-10-28T10:00:38+00:00
-Link: https://foreignpolicy.com/2026/10/28/data-centers-locations-world-global-ai-construction/
----
-[Foreign_Affairs] How to Secure the Straits
-Published: 2026-10-28T08:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/how-secure-straits
----
-[Foreign_Affairs] The Backdoor to American Innovation
-Published: 2026-10-28T08:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/backdoor-american-innovation
----
-[Foreign_Policy] Young People Are Struggling in Southeast Asia Too
-Published: 2026-10-28T05:00:50+00:00
-Link: https://foreignpolicy.com/2026/10/28/young-people-southeast-asia-underemployment/
 ---
