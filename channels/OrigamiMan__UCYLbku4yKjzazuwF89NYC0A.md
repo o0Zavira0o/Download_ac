@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
+_آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-10-31 10:00:09 (UTC)  
+  **مدت:** حدود 12.8 دقیقه  
+  **عنوان:** [50.TINY SPARROW | Mini Origami Bird | 小さなすずめの折り紙【無言の折り紙】](https://www.youtube.com/watch?v=W7Rlp043xE0)  
+  ![](https://i.ytimg.com/vi/W7Rlp043xE0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-24 10:00:02 (UTC)  

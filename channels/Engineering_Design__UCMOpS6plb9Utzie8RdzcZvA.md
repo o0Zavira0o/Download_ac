@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
+_آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-10-31 11:57:29 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How to Drill a SQUARE Hole! 🤯📐](https://www.youtube.com/watch?v=jmHQaSh3vRk)  
+  ![](https://i.ytimg.com/vi/jmHQaSh3vRk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-30 02:42:19 (UTC)  
@@ -884,7 +890,7 @@ _آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
 
 - **تاریخ انتشار:** 2026-02-14 12:05:00 (UTC)  
   **مدت:** حدود 13.1 دقیقه  
-  **عنوان:** [Solidworks Assembly Tutorial | How to Design Scissor lift Mechanism in Solidworks](https://www.youtube.com/watch?v=j0i0r9vZDvs)  
+  **عنوان:** [Level Up Your SolidWorks Skills: Scissor Lift Assembly Tutorial](https://www.youtube.com/watch?v=j0i0r9vZDvs)  
   ![](https://i.ytimg.com/vi/j0i0r9vZDvs/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [Gear Fidget Spinner Mechanism](https://www.youtube.com/watch?v=HdRmNF8fObw)  
   ![](https://i.ytimg.com/vi/HdRmNF8fObw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-05 04:51:34 (UTC)  
-  **مدت:** حدود 13.8 دقیقه  
-  **عنوان:** [Solidworks Mold Tutorial | How to Design Lego Brick Mold in Solidworks](https://www.youtube.com/watch?v=VxmFCRFyvzg)  
-  ![](https://i.ytimg.com/vi/VxmFCRFyvzg/hqdefault.jpg)

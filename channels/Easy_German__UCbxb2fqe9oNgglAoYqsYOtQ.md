@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
+_آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-10-31 10:59:05 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Das deutsche „Mhm“](https://www.youtube.com/watch?v=LJaqDOH1-gU)  
+  ![](https://i.ytimg.com/vi/LJaqDOH1-gU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-30 07:47:10 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
   **مدت:** حدود 2.4 دقیقه  
   **عنوان:** [German Prepositions: AN | Super Easy German (38)](https://www.youtube.com/watch?v=58U2IvsjSrk)  
   ![](https://i.ytimg.com/vi/58U2IvsjSrk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-25 17:37:03 (UTC)  
-  **مدت:** حدود 10.1 دقیقه  
-  **عنوان:** [Medieval Festival in Germany | Easy German 201](https://www.youtube.com/watch?v=P9_SOkWuUyk)  
-  ![](https://i.ytimg.com/vi/P9_SOkWuUyk/hqdefault.jpg)

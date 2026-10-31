@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
+_آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
@@ -4810,86 +4810,86 @@ _آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
 
 - **تاریخ انتشار:** 2021-10-14 19:08:25 (UTC)  
   **مدت:** حدود 29.7 دقیقه  
-  **عنوان:** [F21 ME370 Class 15 Pipe under Torque Von Mises Example with SolidWorks](https://www.youtube.com/watch?v=3X4ahVxPvis)  
-  ![](https://i.ytimg.com/vi/3X4ahVxPvis/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=3X4ahVxPvis)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-14 19:05:58 (UTC)  
   **مدت:** حدود 14.6 دقیقه  
-  **عنوان:** [F21 ME370 Class 15 Distortion Energy Theory Examples 1 and 2](https://www.youtube.com/watch?v=k9XiroIRAec)  
-  ![](https://i.ytimg.com/vi/k9XiroIRAec/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=k9XiroIRAec)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-14 15:12:08 (UTC)  
   **مدت:** حدود 34.1 دقیقه  
-  **عنوان:** [F21 ME370 Class 15 Von Mises Stress .... Introduction to the Distortion Energy Theory (DET)](https://www.youtube.com/watch?v=nOTIASnAW50)  
-  ![](https://i.ytimg.com/vi/nOTIASnAW50/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=nOTIASnAW50)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-13 01:32:18 (UTC)  
   **مدت:** حدود 13.5 دقیقه  
-  **عنوان:** [F21 ME370 Class 14 MSST Example 2](https://www.youtube.com/watch?v=RTH84ofbJs0)  
-  ![](https://i.ytimg.com/vi/RTH84ofbJs0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=RTH84ofbJs0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-13 01:30:08 (UTC)  
   **مدت:** حدود 13.6 دقیقه  
-  **عنوان:** [F21 ME370 Class 14 MSST Example 3](https://www.youtube.com/watch?v=Id4PBygHOTg)  
-  ![](https://i.ytimg.com/vi/Id4PBygHOTg/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Id4PBygHOTg)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-13 01:28:52 (UTC)  
   **مدت:** حدود 21.8 دقیقه  
-  **عنوان:** [F21 ME370 Class 14 Introduction to Maximum Shear Stress Theory MSST](https://www.youtube.com/watch?v=i-pliCngm_8)  
-  ![](https://i.ytimg.com/vi/i-pliCngm_8/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=i-pliCngm_8)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-13 01:28:50 (UTC)  
   **مدت:** حدود 9.3 دقیقه  
-  **عنوان:** [F21 ME370 Class 14 MSST Example 1](https://www.youtube.com/watch?v=9xLDsjxjbrQ)  
-  ![](https://i.ytimg.com/vi/9xLDsjxjbrQ/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=9xLDsjxjbrQ)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-12 18:59:57 (UTC)  
   **مدت:** حدود 28.7 دقیقه  
-  **عنوان:** [F21 ME370 HW7 Solution](https://www.youtube.com/watch?v=CVAIrapqWD0)  
-  ![](https://i.ytimg.com/vi/CVAIrapqWD0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=CVAIrapqWD0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-09 20:11:44 (UTC)  
   **مدت:** حدود 98.7 دقیقه  
-  **عنوان:** [F21 ES211 Exam 2 (Particle Kinetics) Review Session](https://www.youtube.com/watch?v=zUWq29gXglE)  
-  ![](https://i.ytimg.com/vi/zUWq29gXglE/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=zUWq29gXglE)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-07 17:21:29 (UTC)  
   **مدت:** حدود 35.0 دقیقه  
-  **عنوان:** [F20 ME370 Class 10 FEA Deflection Example using SolidWorks Simulation](https://www.youtube.com/watch?v=QQXhmFy4REM)  
-  ![](https://i.ytimg.com/vi/QQXhmFy4REM/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=QQXhmFy4REM)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-07 17:15:01 (UTC)  
   **مدت:** حدود 33.4 دقیقه  
-  **عنوان:** [F20 ME370 SolidWorks Simulation for Deflection Tutorial](https://www.youtube.com/watch?v=FI7TXE3KRU0)  
-  ![](https://i.ytimg.com/vi/FI7TXE3KRU0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=FI7TXE3KRU0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-07 17:14:43 (UTC)  
   **مدت:** حدود 19.8 دقیقه  
-  **عنوان:** [F20 ME370 Class 13 Stress Concentration Example 3 84 SolidWorks Simulation](https://www.youtube.com/watch?v=SDu2SOHcHbc)  
-  ![](https://i.ytimg.com/vi/SDu2SOHcHbc/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=SDu2SOHcHbc)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-07 17:12:03 (UTC)  
   **مدت:** حدود 21.6 دقیقه  
-  **عنوان:** [F20 ME370 Class 13 Stress Concentration Example 3 84](https://www.youtube.com/watch?v=qYp5waktzeM)  
-  ![](https://i.ytimg.com/vi/qYp5waktzeM/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=qYp5waktzeM)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-07 17:11:10 (UTC)  
   **مدت:** حدود 25.7 دقیقه  
-  **عنوان:** [F20 ME370 Class 13 Stress Concentration Example 2 with SolidWorks Simulation Tutorial](https://www.youtube.com/watch?v=dO7ro6lSnwM)  
-  ![](https://i.ytimg.com/vi/dO7ro6lSnwM/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=dO7ro6lSnwM)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-07 17:10:22 (UTC)  
@@ -4900,14 +4900,14 @@ _آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
 
 - **تاریخ انتشار:** 2021-10-07 15:13:32 (UTC)  
   **مدت:** حدود 33.4 دقیقه  
-  **عنوان:** [F21 ME370 Class 12 Design Factor from Data Example with Excel](https://www.youtube.com/watch?v=t0Tmm8CAy6w)  
-  ![](https://i.ytimg.com/vi/t0Tmm8CAy6w/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=t0Tmm8CAy6w)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-07 15:13:30 (UTC)  
   **مدت:** حدود 20.1 دقیقه  
-  **عنوان:** [F21 ME370 Class 13 Stress Concentration Introduction](https://www.youtube.com/watch?v=Hg9UdFso-oY)  
-  ![](https://i.ytimg.com/vi/Hg9UdFso-oY/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Hg9UdFso-oY)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-07 15:12:13 (UTC)  
@@ -4918,92 +4918,92 @@ _آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
 
 - **تاریخ انتشار:** 2021-10-07 15:11:49 (UTC)  
   **مدت:** حدود 20.3 دقیقه  
-  **عنوان:** [F21 ME370 Class 12 Statistics for Reliability and Probablity of Failure Example 1 4](https://www.youtube.com/watch?v=etgb6hDT6I0)  
-  ![](https://i.ytimg.com/vi/etgb6hDT6I0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=etgb6hDT6I0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-07 15:10:42 (UTC)  
   **مدت:** حدود 34.0 دقیقه  
-  **عنوان:** [F21 ME370 Class 12 Safety Factor and Design Factor Introduction](https://www.youtube.com/watch?v=cVXsL3MWUTw)  
-  ![](https://i.ytimg.com/vi/cVXsL3MWUTw/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=cVXsL3MWUTw)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-06 16:28:44 (UTC)  
   **مدت:** حدود 15.4 دقیقه  
-  **عنوان:** [Dynamics: Rigid Body Kinematics HW13 Problem 2 Solution (F21 ES211)](https://www.youtube.com/watch?v=umCKAzgwCRw)  
-  ![](https://i.ytimg.com/vi/umCKAzgwCRw/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=umCKAzgwCRw)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-06 16:26:44 (UTC)  
   **مدت:** حدود 27.6 دقیقه  
-  **عنوان:** [Dynamics: Rigid Body Kinematics HW13 Problem 1 Solution (F21 ES211)](https://www.youtube.com/watch?v=lVK_y9v7yJ4)  
-  ![](https://i.ytimg.com/vi/lVK_y9v7yJ4/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=lVK_y9v7yJ4)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-05 20:58:23 (UTC)  
   **مدت:** حدود 23.4 دقیقه  
-  **عنوان:** [Dynamics: Rigid Body Kinematics HW12 Problem 2 Solution (F21 ES211)](https://www.youtube.com/watch?v=wprXUFaRcPk)  
-  ![](https://i.ytimg.com/vi/wprXUFaRcPk/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=wprXUFaRcPk)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-05 20:55:02 (UTC)  
   **مدت:** حدود 20.5 دقیقه  
-  **عنوان:** [Dynamics: Rigid Body Kinematics HW12 Problem 1 Solution (F21 ES211)](https://www.youtube.com/watch?v=c5jc36xVlSQ)  
-  ![](https://i.ytimg.com/vi/c5jc36xVlSQ/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=c5jc36xVlSQ)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-05 18:59:19 (UTC)  
   **مدت:** حدود 13.3 دقیقه  
-  **عنوان:** [F21 ME370 HW6 Solution](https://www.youtube.com/watch?v=HbL67KA09OY)  
-  ![](https://i.ytimg.com/vi/HbL67KA09OY/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=HbL67KA09OY)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-01 20:11:11 (UTC)  
   **مدت:** حدود 68.8 دقیقه  
-  **عنوان:** [F21 ME370 Help Session Week 5](https://www.youtube.com/watch?v=h2r0FD7K000)  
-  ![](https://i.ytimg.com/vi/h2r0FD7K000/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=h2r0FD7K000)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-10-01 01:49:03 (UTC)  
   **مدت:** حدود 32.1 دقیقه  
-  **عنوان:** [Dynamics (ES211) : Particle Kinetics HW11 Problem 3 Solution](https://www.youtube.com/watch?v=3aMewk5zixk)  
-  ![](https://i.ytimg.com/vi/3aMewk5zixk/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=3aMewk5zixk)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-30 23:12:44 (UTC)  
   **مدت:** حدود 42.3 دقیقه  
-  **عنوان:** [Dynamics: Particle Kinetics HW11 Problem 2 Solution (F21 ES211)](https://www.youtube.com/watch?v=_Qd1Kz6x99o)  
-  ![](https://i.ytimg.com/vi/_Qd1Kz6x99o/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=_Qd1Kz6x99o)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-30 23:11:57 (UTC)  
   **مدت:** حدود 42.3 دقیقه  
-  **عنوان:** [Dynamics: Particle Kinetics HW11 Problem 1 Solution (F21 ES211)](https://www.youtube.com/watch?v=ooirA_Kp94Y)  
-  ![](https://i.ytimg.com/vi/ooirA_Kp94Y/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ooirA_Kp94Y)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-29 18:55:51 (UTC)  
   **مدت:** حدود 13.2 دقیقه  
-  **عنوان:** [F21 ME370 Class 11 Other Buckling](https://www.youtube.com/watch?v=e1cMUoG5I9E)  
-  ![](https://i.ytimg.com/vi/e1cMUoG5I9E/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=e1cMUoG5I9E)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-29 18:55:15 (UTC)  
   **مدت:** حدود 19.9 دقیقه  
-  **عنوان:** [F21 ME370 Class 11 Buckling Example 2](https://www.youtube.com/watch?v=BAmtl8sauLs)  
-  ![](https://i.ytimg.com/vi/BAmtl8sauLs/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=BAmtl8sauLs)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-29 18:54:45 (UTC)  
   **مدت:** حدود 32.6 دقیقه  
-  **عنوان:** [F21 ME370 Class 11 Introduction to Buckling   Euler](https://www.youtube.com/watch?v=RyIv3SgFjc8)  
-  ![](https://i.ytimg.com/vi/RyIv3SgFjc8/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=RyIv3SgFjc8)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-29 18:54:33 (UTC)  
   **مدت:** حدود 20.4 دقیقه  
-  **عنوان:** [F21 ME370 Class 11 Buckling Example 1](https://www.youtube.com/watch?v=FKJIi75FBYU)  
-  ![](https://i.ytimg.com/vi/FKJIi75FBYU/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=FKJIi75FBYU)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-29 18:53:08 (UTC)  
@@ -5014,44 +5014,44 @@ _آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
 
 - **تاریخ انتشار:** 2021-09-28 21:13:08 (UTC)  
   **مدت:** حدود 35.0 دقیقه  
-  **عنوان:** [Dynamics: Particle Kinetics HW10 Problem 2 Solution (F21 ES211)](https://www.youtube.com/watch?v=X5Nh-f6Fulo)  
-  ![](https://i.ytimg.com/vi/X5Nh-f6Fulo/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=X5Nh-f6Fulo)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-28 21:13:05 (UTC)  
   **مدت:** حدود 24.7 دقیقه  
-  **عنوان:** [Dynamics: Particle Kinetics HW10 Problem 1 Solution (F21 ES211)](https://www.youtube.com/watch?v=L_o4wPc5qcw)  
-  ![](https://i.ytimg.com/vi/L_o4wPc5qcw/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=L_o4wPc5qcw)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-24 20:19:32 (UTC)  
   **مدت:** حدود 125.2 دقیقه  
-  **عنوان:** [F21 ME370 Exam 1 Review Session](https://www.youtube.com/watch?v=B71-tpqNgGg)  
-  ![](https://i.ytimg.com/vi/B71-tpqNgGg/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=B71-tpqNgGg)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-24 15:30:00 (UTC)  
   **مدت:** حدود 39.0 دقیقه  
-  **عنوان:** [Dynamics  (ES211): Particle Kinetics HW9 Problem 3 Solution](https://www.youtube.com/watch?v=0Kthr4zWo40)  
-  ![](https://i.ytimg.com/vi/0Kthr4zWo40/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=0Kthr4zWo40)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-24 14:36:12 (UTC)  
   **مدت:** حدود 23.0 دقیقه  
-  **عنوان:** [Dynamics: Particle Kinetics HW9 Problem 2 Solution (F21 ES211)](https://www.youtube.com/watch?v=ZgdxmcBVUkg)  
-  ![](https://i.ytimg.com/vi/ZgdxmcBVUkg/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ZgdxmcBVUkg)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-24 14:35:42 (UTC)  
   **مدت:** حدود 46.1 دقیقه  
-  **عنوان:** [Dynamics: Particle Kinetics HW9 Problem 1 Solution (F21 ES211)](https://www.youtube.com/watch?v=qSsm-ydtTXA)  
-  ![](https://i.ytimg.com/vi/qSsm-ydtTXA/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=qSsm-ydtTXA)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-22 18:45:14 (UTC)  
   **مدت:** حدود 21.3 دقیقه  
-  **عنوان:** [F21 ME370 Class 10 FEA Deflection Example 1](https://www.youtube.com/watch?v=7VXiPhUGmE0)  
-  ![](https://i.ytimg.com/vi/7VXiPhUGmE0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=7VXiPhUGmE0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-22 18:44:33 (UTC)  
@@ -5062,50 +5062,50 @@ _آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
 
 - **تاریخ انتشار:** 2021-09-22 18:41:01 (UTC)  
   **مدت:** حدود 13.9 دقیقه  
-  **عنوان:** [F21 ME370 Class 10 FEA Stiffness Matrices and Mesh Sensitivity](https://www.youtube.com/watch?v=dvlHsO2rr1s)  
-  ![](https://i.ytimg.com/vi/dvlHsO2rr1s/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=dvlHsO2rr1s)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-22 18:40:14 (UTC)  
   **مدت:** حدود 13.9 دقیقه  
-  **عنوان:** [F21 ME370 Class 10 FEA Deflection Introduction](https://www.youtube.com/watch?v=HAY7uj3QxhQ)  
-  ![](https://i.ytimg.com/vi/HAY7uj3QxhQ/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=HAY7uj3QxhQ)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-22 14:39:29 (UTC)  
   **مدت:** حدود 12.2 دقیقه  
-  **عنوان:** [F21 ME370 Class 9 Superposition Beam Example](https://www.youtube.com/watch?v=I-e9B3VV54E)  
-  ![](https://i.ytimg.com/vi/I-e9B3VV54E/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=I-e9B3VV54E)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-22 14:38:33 (UTC)  
   **مدت:** حدود 14.4 دقیقه  
-  **عنوان:** [F21 ME370 Class 9 Superposition Door Handle Examples with FEA Comparison](https://www.youtube.com/watch?v=-jqoZ5yEVOs)  
-  ![](https://i.ytimg.com/vi/-jqoZ5yEVOs/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=-jqoZ5yEVOs)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-22 14:38:01 (UTC)  
   **مدت:** حدود 22.6 دقیقه  
-  **عنوان:** [F21 ME370 Class 9 Deflection Introduction](https://www.youtube.com/watch?v=Df_DeKLZHZc)  
-  ![](https://i.ytimg.com/vi/Df_DeKLZHZc/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Df_DeKLZHZc)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-22 14:37:32 (UTC)  
   **مدت:** حدود 13.3 دقیقه  
-  **عنوان:** [F21 ME370 Class 9 Beam Deflection Derivation Example](https://www.youtube.com/watch?v=iGXOvlXnPeQ)  
-  ![](https://i.ytimg.com/vi/iGXOvlXnPeQ/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=iGXOvlXnPeQ)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-21 18:56:53 (UTC)  
   **مدت:** حدود 16.9 دقیقه  
-  **عنوان:** [Dynamics: Particle Kinetics HW8 Problem 2 Solution (F21 ES211)](https://www.youtube.com/watch?v=_4bY6EYvewc)  
-  ![](https://i.ytimg.com/vi/_4bY6EYvewc/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=_4bY6EYvewc)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-21 18:55:56 (UTC)  
   **مدت:** حدود 23.2 دقیقه  
-  **عنوان:** [Dynamics: Particle Kinetics HW8 Problem 1 Solution (F21 ES211)](https://www.youtube.com/watch?v=M04yfiFD4EA)  
-  ![](https://i.ytimg.com/vi/M04yfiFD4EA/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=M04yfiFD4EA)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2021-09-21 15:07:23 (UTC)  

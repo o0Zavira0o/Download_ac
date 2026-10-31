@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
+_آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-10-31 13:30:28 (UTC)  
+  **مدت:** حدود 8.1 دقیقه  
+  **عنوان:** [Sea Shell modeling with SolidWorks (Surface Lofted Surface, Boundary Surface)](https://www.youtube.com/watch?v=cEro1iFYgjQ)  
+  ![](https://i.ytimg.com/vi/cEro1iFYgjQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-30 11:54:16 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-30T15:46:20Z_
   **مدت:** حدود 178.5 دقیقه  
   **عنوان:** [Solidworks tutorial | sketch Bobcat Loader in Solidworks](https://www.youtube.com/watch?v=n-3Gcjmir64)  
   ![](https://i.ytimg.com/vi/n-3Gcjmir64/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-04-28 05:17:48 (UTC)  
-  **مدت:** حدود 89.3 دقیقه  
-  **عنوان:** [Solidworks tutorial | Design and Assembly of Car Jack in Solidworks | Solidworks](https://www.youtube.com/watch?v=6zVW8Tcm1LA)  
-  ![](https://i.ytimg.com/vi/6zVW8Tcm1LA/hqdefault.jpg)
