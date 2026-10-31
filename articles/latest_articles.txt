@@ -1,4 +1,4 @@
-# Last Run: 2026-10-31 11:51 UTC
+# Last Run: 2026-10-31 16:57 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The World’s Biggest Crypto Heist
@@ -132,20 +132,4 @@ Link: https://foreignpolicy.com/2026/10/28/russia-africa-summit-putin-moscow-war
 [Foreign_Policy] Ukrainians Have a Long-Shot Plan to Boot Russia from the U.N.
 Published: 2026-10-28T18:29:01+00:00
 Link: https://foreignpolicy.com/2026/10/28/ukraine-russia-ussr-united-nations-history/
----
-[Foreign_Policy] Violence Flares Again in Thailand’s Deep South
-Published: 2026-10-28T14:51:06+00:00
-Link: https://foreignpolicy.com/2026/10/28/thailand-violence-south-armed-groups-security/
----
-[Foreign_Policy] Trump’s Middle East Dealmaking Is Working Against Itself
-Published: 2026-10-28T13:33:34+00:00
-Link: https://foreignpolicy.com/2026/10/28/trump-middle-east-saudi-qatar-deals-syria-uae/
----
-[Foreign_Policy] How to Not Change Your Mind
-Published: 2026-10-28T12:02:56+00:00
-Link: https://foreignpolicy.com/2026/10/28/change-mind-iran-war/
----
-[Foreign_Policy] The Quiet Power of International Orders
-Published: 2026-10-28T12:00:47+00:00
-Link: https://foreignpolicy.com/2026/10/28/international-order-liberal-norms-west-colonial-empire-china/
 ---
