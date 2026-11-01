@@ -1,4 +1,4 @@
-# Last Run: 2026-11-01 00:51 UTC
+# Last Run: 2026-11-01 08:51 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The World’s Biggest Crypto Heist
@@ -100,16 +100,4 @@ Link: https://foreignpolicy.com/2026/10/29/uae-saudi-arabia-yemen-houthis-iran/
 [New_Yorker_Magazine] A Song of Grief and Union in “Lincoln in the Bardo”
 Published: 2026-10-29T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/09/lincoln-in-the-bardo-music-review
----
-[Foreign_Affairs] Only the Gulf Can End the Iran War
-Published: 2026-10-29T08:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/only-gulf-can-end-iran-war
----
-[Foreign_Affairs] Don’t Go Backward on China Policy
-Published: 2026-10-29T08:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/dont-go-backward-china-policy
----
-[Foreign_Policy] Europe Was Never Meant to Be a ‘Regulatory Superpower’
-Published: 2026-10-29T04:01:38+00:00
-Link: https://foreignpolicy.com/2026/10/29/europe-regulatory-superpower-trade/
 ---
