@@ -1,4 +1,4 @@
-# Last Run: 2026-10-31 21:08 UTC
+# Last Run: 2026-11-01 00:51 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The World’s Biggest Crypto Heist
@@ -112,12 +112,4 @@ Link: https://www.foreignaffairs.com/united-states/dont-go-backward-china-policy
 [Foreign_Policy] Europe Was Never Meant to Be a ‘Regulatory Superpower’
 Published: 2026-10-29T04:01:38+00:00
 Link: https://foreignpolicy.com/2026/10/29/europe-regulatory-superpower-trade/
----
-[Foreign_Policy] Bangladesh Measles Outbreak Is a ‘Warning Sign’
-Published: 2026-10-28T22:22:20+00:00
-Link: https://foreignpolicy.com/2026/10/28/bangladesh-measles-outbreak-vaccination-crisis-health/
----
-[Foreign_Policy] Flávio Bolsonaro Becomes a Florida Man
-Published: 2026-10-28T21:35:31+00:00
-Link: https://foreignpolicy.com/2026/10/28/flavio-bolsonaro-flees-brazil-florida-trump-presidential-election-lula/
 ---
