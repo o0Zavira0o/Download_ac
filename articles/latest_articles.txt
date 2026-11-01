@@ -1,4 +1,4 @@
-# Last Run: 2026-11-01 16:39 UTC
+# Last Run: 2026-11-01 21:48 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The World’s Biggest Crypto Heist
@@ -72,20 +72,4 @@ Link: https://www.foreignaffairs.com/north-korea/north-koreas-enemies-within
 [Foreign_Policy] Russia’s Next Mobilization Is Already Happening
 Published: 2026-10-30T06:51:46+00:00
 Link: https://foreignpolicy.com/2026/10/30/putin-russia-ukraine-war-mobilization-casualties/
----
-[Foreign_Policy] How Big of a Threat Are the Houthis?
-Published: 2026-10-29T21:33:20+00:00
-Link: https://foreignpolicy.com/2026/10/29/houthis-yemen-war-saudi-arabia-red-sea-shipping-threat-iran/
----
-[Foreign_Policy] The EU and Canada Struggle to Define Their Relationship
-Published: 2026-10-29T20:12:18+00:00
-Link: https://foreignpolicy.com/2026/10/29/eu-associate-member-canada-von-der-leyen-carney-trump-trade/
----
-[Foreign_Policy] A New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast
-Published: 2026-10-29T19:04:01+00:00
-Link: https://foreignpolicy.com/2026/10/29/netanyahu-trump-israel-united-states-iran-war-election/
----
-[Foreign_Policy] (Latin) America’s Pastime
-Published: 2026-10-29T18:59:15+00:00
-Link: https://foreignpolicy.com/2026/10/29/baseball-world-series-cuba-venezuela-dominican-republic-us-culture/
 ---
