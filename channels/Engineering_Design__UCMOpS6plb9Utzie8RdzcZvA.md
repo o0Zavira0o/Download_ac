@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
+_آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-01 09:14:12 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Rate this mechanism from 1-10! 🤯👇](https://www.youtube.com/watch?v=HEU2a5uMzOI)  
+  ![](https://i.ytimg.com/vi/HEU2a5uMzOI/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-01 02:37:04 (UTC)  
+  **مدت:** حدود 6.5 دقیقه  
+  **عنوان:** [SolidWorks Tutorial: How to Model Flat Head Cap Screw 6X10mm | Complete Step-by-Step #jlcmc](https://www.youtube.com/watch?v=pbLK_KhVumk)  
+  ![](https://i.ytimg.com/vi/pbLK_KhVumk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-31 11:57:29 (UTC)  
@@ -246,24 +258,6 @@ _آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
   ![](https://i.ytimg.com/vi/zYhtmBWZqAs/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2026-09-24 07:41:52 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How This Genius Victorian Invention Multiplies Your Hand Power by 5x! 🥚⚙️](https://www.youtube.com/watch?v=y4hZ8obpnq0)  
-  ![](https://i.ytimg.com/vi/y4hZ8obpnq0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-09-23 03:22:23 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Mechanical Movement 02 #mechanical #3ddesign #mechanism](https://www.youtube.com/watch?v=7rl8NLvW53E)  
-  ![](https://i.ytimg.com/vi/7rl8NLvW53E/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-09-22 12:14:41 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [The Rare 4-Gear Planetary System Explained 🛠️](https://www.youtube.com/watch?v=JhknCbaiP0E)  
-  ![](https://i.ytimg.com/vi/JhknCbaiP0E/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2026-09-21 19:30:02 (UTC)  
   **مدت:** حدود 1.3 دقیقه  
   **عنوان:** [How to Design a Bewel Gear | Sponsorship: JLCMC #jlcmc #gear #design](https://www.youtube.com/watch?v=g8XP1fhD0Xo)  
@@ -300,12 +294,6 @@ _آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
   ![](https://i.ytimg.com/vi/6l24n-jXm0I/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2026-09-17 03:10:09 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [The most satisfying clamping mechanism ever ⚙️ #engineering #satisfying #shorts](https://www.youtube.com/watch?v=k_83T8GavB0)  
-  ![](https://i.ytimg.com/vi/k_83T8GavB0/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2026-09-16 06:35:25 (UTC)  
   **مدت:** حدود 10.9 دقیقه  
   **عنوان:** [SolidWorks Sheet Metal Tutorial: Learn the Basics in 10 Minutes!](https://www.youtube.com/watch?v=2lZJy5g_Znw)  
@@ -322,12 +310,6 @@ _آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
   **مدت:** حدود 0.4 دقیقه  
   **عنوان:** [Building a Mechanical Part in SolidWorks ⚙️ #cad #design #mechanical](https://www.youtube.com/watch?v=lNt5n4IYgYk)  
   ![](https://i.ytimg.com/vi/lNt5n4IYgYk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-09-14 03:28:53 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [I Built a Retro Grain Mill in CAD... and it actually works! 🤯](https://www.youtube.com/watch?v=VNKuFGckA6E)  
-  ![](https://i.ytimg.com/vi/VNKuFGckA6E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-12 12:14:37 (UTC)  
@@ -484,12 +466,6 @@ _آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
   **مدت:** حدود 8.8 دقیقه  
   **عنوان:** [How to Model an Industrial Desk in SolidWorks](https://www.youtube.com/watch?v=wwugsuzGl6Q)  
   ![](https://i.ytimg.com/vi/wwugsuzGl6Q/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-08-13 12:57:47 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Why This Mechanism Doesn't Stop Moving ⚙️ #cad #engineering #design](https://www.youtube.com/watch?v=afLZp-eta4I)  
-  ![](https://i.ytimg.com/vi/afLZp-eta4I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-12 12:30:22 (UTC)  
@@ -904,3 +880,27 @@ _آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [Gear Fidget Spinner Mechanism](https://www.youtube.com/watch?v=HdRmNF8fObw)  
   ![](https://i.ytimg.com/vi/HdRmNF8fObw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-02-05 04:51:34 (UTC)  
+  **مدت:** حدود 13.8 دقیقه  
+  **عنوان:** [Solidworks Mold Tutorial | How to Design Lego Brick Mold in Solidworks](https://www.youtube.com/watch?v=VxmFCRFyvzg)  
+  ![](https://i.ytimg.com/vi/VxmFCRFyvzg/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-02-02 12:09:32 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [Build a Gear Fidget Spinner: SolidWorks Assembly Guide](https://www.youtube.com/watch?v=rx-J1DLJLQw)  
+  ![](https://i.ytimg.com/vi/rx-J1DLJLQw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-02-01 14:22:25 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How to Design a Universal Joint in SolidWorks](https://www.youtube.com/watch?v=sP4qC8ieWi8)  
+  ![](https://i.ytimg.com/vi/sP4qC8ieWi8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-01-24 05:48:49 (UTC)  
+  **مدت:** حدود 10.4 دقیقه  
+  **عنوان:** [Solidworks Tutorial | Solidworks Tutorial for Beginners Exercise 122](https://www.youtube.com/watch?v=lNsBW4AiPMQ)  
+  ![](https://i.ytimg.com/vi/lNsBW4AiPMQ/hqdefault.jpg)

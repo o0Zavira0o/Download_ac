@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
+_آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-01 13:55:26 (UTC)  
+  **مدت:** حدود 12.0 دقیقه  
+  **عنوان:** [SolidWorks Advanced exercise-dotted vase (Swept Surface, 3D Sketch,extend Surface,move face,Dome)](https://www.youtube.com/watch?v=1ICyUX1yOc4)  
+  ![](https://i.ytimg.com/vi/1ICyUX1yOc4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-31 13:30:28 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
   **مدت:** حدود 185.8 دقیقه  
   **عنوان:** [Solidworks tutorial | Design and Assembly of Bicycle in Solidworks](https://www.youtube.com/watch?v=tj5Wo1Z9r20)  
   ![](https://i.ytimg.com/vi/tj5Wo1Z9r20/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-02 14:52:03 (UTC)  
-  **مدت:** حدود 178.5 دقیقه  
-  **عنوان:** [Solidworks tutorial | sketch Bobcat Loader in Solidworks](https://www.youtube.com/watch?v=n-3Gcjmir64)  
-  ![](https://i.ytimg.com/vi/n-3Gcjmir64/hqdefault.jpg)

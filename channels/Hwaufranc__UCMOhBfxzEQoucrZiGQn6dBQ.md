@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
+_آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-11-01 13:00:05 (UTC)  
+  **مدت:** حدود 66.7 دقیقه  
+  **عنوان:** [ASMR 요정의 모든것🧚‍♀️ 다이어리 꾸미기 | 아트 다꾸 Fairy Tale Journal Art コラージュ](https://www.youtube.com/watch?v=Xqm6XS-PP2s)  
+  ![](https://i.ytimg.com/vi/Xqm6XS-PP2s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-10-31 16:25:39 (UTC)  
+  **مدت:** حدود 15.1 دقیقه  
+  **عنوان:** [다꾸 ASMR 마녀노트 다이어리 꾸미고 마법의 촛불 만들기🪔EP.12 Magic Candle Journaling コラージュ](https://www.youtube.com/watch?v=3Pv_smHJP9A)  
+  ![](https://i.ytimg.com/vi/3Pv_smHJP9A/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-29 15:20:29 (UTC)  
@@ -5394,15 +5406,3 @@ _آخرین به‌روزرسانی: 2026-10-31T15:14:21Z_
   **مدت:** حدود 1.0 دقیقه  
   **عنوان:** [Journaling ASMR #journal #journaling #aesthetic #빈티지다꾸 #デコ手帳](https://www.youtube.com/watch?v=mQjumYwB0rc)  
   ![](https://i.ytimg.com/vi/mQjumYwB0rc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-08-05 13:53:00 (UTC)  
-  **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Snow White Journaling 🍎 #journal #disney #scrapbooking #diycrafts #asmr](https://www.youtube.com/watch?v=oxJXLiu3qnU)  
-  ![](https://i.ytimg.com/vi/oxJXLiu3qnU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-08-04 13:20:00 (UTC)  
-  **مدت:** حدود 7.0 دقیقه  
-  **عنوان:** [journal asmr | Pink Journaling 🌺 핑크 다꾸 Relaxing Sounds Scrapbooking デコ手帳](https://www.youtube.com/watch?v=S9EKP5YHPcg)  
-  ![](https://i.ytimg.com/vi/S9EKP5YHPcg/hqdefault.jpg)
