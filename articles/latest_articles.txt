@@ -1,4 +1,4 @@
-# Last Run: 2026-11-01 08:51 UTC
+# Last Run: 2026-11-01 16:39 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The World’s Biggest Crypto Heist
@@ -88,16 +88,4 @@ Link: https://foreignpolicy.com/2026/10/29/netanyahu-trump-israel-united-states-
 [Foreign_Policy] (Latin) America’s Pastime
 Published: 2026-10-29T18:59:15+00:00
 Link: https://foreignpolicy.com/2026/10/29/baseball-world-series-cuba-venezuela-dominican-republic-us-culture/
----
-[Foreign_Policy] No One Has a Plan for American Decline
-Published: 2026-10-29T11:33:17+00:00
-Link: https://foreignpolicy.com/2026/10/29/america-decline-power-trump-liberal-progressive-neocon/
----
-[Foreign_Policy] Is the UAE the Missing Link in the Fight Against the Houthis?
-Published: 2026-10-29T10:00:12+00:00
-Link: https://foreignpolicy.com/2026/10/29/uae-saudi-arabia-yemen-houthis-iran/
----
-[New_Yorker_Magazine] A Song of Grief and Union in “Lincoln in the Bardo”
-Published: 2026-10-29T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/09/lincoln-in-the-bardo-music-review
 ---
