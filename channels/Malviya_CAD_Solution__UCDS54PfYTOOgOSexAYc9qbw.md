@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
+_آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-11-02 02:35:12 (UTC)  
+  **مدت:** حدود 12.5 دقیقه  
+  **عنوان:** [Solidworks Exercise tutorial | Exercise42](https://www.youtube.com/watch?v=-TW9P69nsYA)  
+  ![](https://i.ytimg.com/vi/-TW9P69nsYA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-23 11:46:23 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
   **مدت:** حدود 20.7 دقیقه  
   **عنوان:** [Design of Garlic Crusing tool in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=oAyMk9Y6sUo)  
   ![](https://i.ytimg.com/vi/oAyMk9Y6sUo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-14 06:04:33 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Move face in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=2tS0gzaMths)  
-  ![](https://i.ytimg.com/vi/2tS0gzaMths/hqdefault.jpg)

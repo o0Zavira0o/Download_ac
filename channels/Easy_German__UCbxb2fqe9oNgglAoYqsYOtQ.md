@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
+_آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-02 13:09:06 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Eine Methode zum Deutsch lernen](https://www.youtube.com/watch?v=JpqjYc-5VHk)  
+  ![](https://i.ytimg.com/vi/JpqjYc-5VHk/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-01 18:00:23 (UTC)  
+  **مدت:** حدود 14.9 دقیقه  
+  **عنوان:** [What Germans Think About Turks (Street Interviews)](https://www.youtube.com/watch?v=WninNBkt6MI)  
+  ![](https://i.ytimg.com/vi/WninNBkt6MI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-31 10:59:05 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
   **مدت:** حدود 2.0 دقیقه  
   **عنوان:** [German Prepositions: BEI](https://www.youtube.com/watch?v=fa9K07uIrOo)  
   ![](https://i.ytimg.com/vi/fa9K07uIrOo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-02 17:04:01 (UTC)  
-  **مدت:** حدود 10.7 دقیقه  
-  **عنوان:** [Germany vs. The Netherlands | Easy German 202](https://www.youtube.com/watch?v=HNDfrgo-rxA)  
-  ![](https://i.ytimg.com/vi/HNDfrgo-rxA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-28 15:53:22 (UTC)  
-  **مدت:** حدود 2.4 دقیقه  
-  **عنوان:** [German Prepositions: AN | Super Easy German (38)](https://www.youtube.com/watch?v=58U2IvsjSrk)  
-  ![](https://i.ytimg.com/vi/58U2IvsjSrk/hqdefault.jpg)

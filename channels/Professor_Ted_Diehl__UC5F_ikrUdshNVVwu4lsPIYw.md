@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
+_آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
@@ -310,302 +310,302 @@ _آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
 
 - **تاریخ انتشار:** 2026-03-24 20:33:19 (UTC)  
   **مدت:** حدود 24.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=cjR_FsTJy3k)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 2 Video 1, Grashof Condition](https://www.youtube.com/watch?v=cjR_FsTJy3k)  
+  ![](https://i.ytimg.com/vi/cjR_FsTJy3k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:19 (UTC)  
   **مدت:** حدود 11.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=hLWJfSiLfmY)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 2 Video 2; 4-bar Inversions](https://www.youtube.com/watch?v=hLWJfSiLfmY)  
+  ![](https://i.ytimg.com/vi/hLWJfSiLfmY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:19 (UTC)  
   **مدت:** حدود 17.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=iP4uPOykj2A)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Class 1 Video 2, Basic Mechanisms](https://www.youtube.com/watch?v=iP4uPOykj2A)  
+  ![](https://i.ytimg.com/vi/iP4uPOykj2A/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:17 (UTC)  
   **مدت:** حدود 16.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=8JoDEAHjLAQ)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 3 Video 3, 4bar Transmission Angle and Limiting Conditions Examples](https://www.youtube.com/watch?v=8JoDEAHjLAQ)  
+  ![](https://i.ytimg.com/vi/8JoDEAHjLAQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:17 (UTC)  
   **مدت:** حدود 17.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=BB1Lj5CZ6wM)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 4 Video 3, Two Position Line Motion of Rocker 4bar Graphical Synthesis](https://www.youtube.com/watch?v=BB1Lj5CZ6wM)  
+  ![](https://i.ytimg.com/vi/BB1Lj5CZ6wM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:17 (UTC)  
   **مدت:** حدود 13.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=BYdn7ieEAIU)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 3 Video 4, 4bar Practical Considerations and DC Motors](https://www.youtube.com/watch?v=BYdn7ieEAIU)  
+  ![](https://i.ytimg.com/vi/BYdn7ieEAIU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:17 (UTC)  
   **مدت:** حدود 14.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Ui0JASrHBCQ)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 3 Video 2, 4bar Transmission Angle and Limiting Conditions](https://www.youtube.com/watch?v=Ui0JASrHBCQ)  
+  ![](https://i.ytimg.com/vi/Ui0JASrHBCQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:17 (UTC)  
   **مدت:** حدود 42.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=aPIlJ7rjIbQ)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 4 Video 1, Graphical Synthesis Two Position Rocker 4bar](https://www.youtube.com/watch?v=aPIlJ7rjIbQ)  
+  ![](https://i.ytimg.com/vi/aPIlJ7rjIbQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:17 (UTC)  
   **مدت:** حدود 44.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=bkA68625Xs0)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 4 Video 2, Graphical Synthesis Quick Return 4bar Mechanism](https://www.youtube.com/watch?v=bkA68625Xs0)  
+  ![](https://i.ytimg.com/vi/bkA68625Xs0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:17 (UTC)  
   **مدت:** حدود 10.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=cq0SIbMXo2M)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 3 Video 5, Linkages of More than 4 bars](https://www.youtube.com/watch?v=cq0SIbMXo2M)  
+  ![](https://i.ytimg.com/vi/cq0SIbMXo2M/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:17 (UTC)  
   **مدت:** حدود 7.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=g49YAOI85xM)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 2 Video 3 Crank-Slider Inversions](https://www.youtube.com/watch?v=g49YAOI85xM)  
+  ![](https://i.ytimg.com/vi/g49YAOI85xM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:17 (UTC)  
   **مدت:** حدود 34.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=lBHOAhzNtIU)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 3 Video 1, 4bar Graphical Position Analysis](https://www.youtube.com/watch?v=lBHOAhzNtIU)  
+  ![](https://i.ytimg.com/vi/lBHOAhzNtIU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:17 (UTC)  
   **مدت:** حدود 4.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=sa0axhPLHPw)  
-  ![]()
+  **عنوان:** [S26 MENG4145 PS1 Problem 4 mechanism hunt help](https://www.youtube.com/watch?v=sa0axhPLHPw)  
+  ![](https://i.ytimg.com/vi/sa0axhPLHPw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:15 (UTC)  
   **مدت:** حدود 17.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=02gfDpvDVMk)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 6 Video 1 Coupler Curves Introduction](https://www.youtube.com/watch?v=02gfDpvDVMk)  
+  ![](https://i.ytimg.com/vi/02gfDpvDVMk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:15 (UTC)  
   **مدت:** حدود 11.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=10pLbEGpAVA)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 6 Video 2 Motion Gen and Straight Line Mechanisms](https://www.youtube.com/watch?v=10pLbEGpAVA)  
+  ![](https://i.ytimg.com/vi/10pLbEGpAVA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:15 (UTC)  
   **مدت:** حدود 11.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=53eMgVPi__w)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 6 Video 3 Other Types of Path Synthesis with Motion Gen](https://www.youtube.com/watch?v=53eMgVPi__w)  
+  ![](https://i.ytimg.com/vi/53eMgVPi__w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:15 (UTC)  
   **مدت:** حدود 16.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=6GX9oQjBGhk)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 5 Video 1, 4bar 3 Position Graphical Synthesis Norton Ex 3-5 thru 3-8](https://www.youtube.com/watch?v=6GX9oQjBGhk)  
+  ![](https://i.ytimg.com/vi/6GX9oQjBGhk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:15 (UTC)  
   **مدت:** حدود 46.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=7BaEe4jh-MY)  
-  ![]()
+  **عنوان:** [S26 MENT4145 Mechanisms Class 5 Video 3, Graphical 3 Position Synthesis, Norton Prob 3-54 w/ SW](https://www.youtube.com/watch?v=7BaEe4jh-MY)  
+  ![](https://i.ytimg.com/vi/7BaEe4jh-MY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:15 (UTC)  
   **مدت:** حدود 85.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=AazmTmF2S90)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Class 5 Remote Recording 1-26-26](https://www.youtube.com/watch?v=AazmTmF2S90)  
+  ![](https://i.ytimg.com/vi/AazmTmF2S90/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:15 (UTC)  
   **مدت:** حدود 10.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=HXDCD2hXZhg)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 6 Video 4 Cognates](https://www.youtube.com/watch?v=HXDCD2hXZhg)  
+  ![](https://i.ytimg.com/vi/HXDCD2hXZhg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:15 (UTC)  
   **مدت:** حدود 47.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ZHQRZhA7Yq0)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 5 Video 2, 4bar 3 Position Graphical Synthesis Ex Norton 3-48 w/ SW](https://www.youtube.com/watch?v=ZHQRZhA7Yq0)  
+  ![](https://i.ytimg.com/vi/ZHQRZhA7Yq0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:15 (UTC)  
   **مدت:** حدود 15.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=alYuVm4snn8)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 5 Video 4 Branch Defect and Beer Pourer Discussion](https://www.youtube.com/watch?v=alYuVm4snn8)  
+  ![](https://i.ytimg.com/vi/alYuVm4snn8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:15 (UTC)  
   **مدت:** حدود 16.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=kTkqWCemkak)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 4 Video 4, Two Position Line Motion of Coupler 4bar Graphical Synth](https://www.youtube.com/watch?v=kTkqWCemkak)  
+  ![](https://i.ytimg.com/vi/kTkqWCemkak/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:13 (UTC)  
   **مدت:** حدود 9.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=18FYuqDl_2g)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 7 Video 5 Statics Example Beer Johnson Problem 6.148](https://www.youtube.com/watch?v=18FYuqDl_2g)  
+  ![](https://i.ytimg.com/vi/18FYuqDl_2g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:13 (UTC)  
   **مدت:** حدود 7.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=1oFHg_-WUcA)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 8 Video 4 Analytical Position Analysis of Inverted Crank-Slider](https://www.youtube.com/watch?v=1oFHg_-WUcA)  
+  ![](https://i.ytimg.com/vi/1oFHg_-WUcA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:13 (UTC)  
   **مدت:** حدود 7.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=7wSmGZkrRNw)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 7 Video 6 Statics Example Myszka Ex 13.4](https://www.youtube.com/watch?v=7wSmGZkrRNw)  
+  ![](https://i.ytimg.com/vi/7wSmGZkrRNw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:13 (UTC)  
   **مدت:** حدود 10.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=9pr32nOEuEI)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 7 Video 2 Two and Three Force Member Review](https://www.youtube.com/watch?v=9pr32nOEuEI)  
+  ![](https://i.ytimg.com/vi/9pr32nOEuEI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:13 (UTC)  
   **مدت:** حدود 20.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=DW4BFpaO1JQ)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 7 Video 4 Statics Example Myszka 13-18](https://www.youtube.com/watch?v=DW4BFpaO1JQ)  
+  ![](https://i.ytimg.com/vi/DW4BFpaO1JQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:13 (UTC)  
   **مدت:** حدود 20.0 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Gcp_D9H8tnw)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 8 Video 2 Analytical Position Analysis of Crank-Slider & Slider-Crank](https://www.youtube.com/watch?v=Gcp_D9H8tnw)  
+  ![](https://i.ytimg.com/vi/Gcp_D9H8tnw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:13 (UTC)  
   **مدت:** حدود 14.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Hb3gFNA4lf4)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 8 Video 3 Analytical Position Analysis of a Four Bar](https://www.youtube.com/watch?v=Hb3gFNA4lf4)  
+  ![](https://i.ytimg.com/vi/Hb3gFNA4lf4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:13 (UTC)  
   **مدت:** حدود 12.2 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=beJDQ3j0Bvs)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 7 Video 3 Statics Example Beer Johnson Problem 6.128 w/ SW](https://www.youtube.com/watch?v=beJDQ3j0Bvs)  
+  ![](https://i.ytimg.com/vi/beJDQ3j0Bvs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:13 (UTC)  
   **مدت:** حدود 9.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=np320TfmGMk)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 7 Video 1 Static Analysis and FBD Review](https://www.youtube.com/watch?v=np320TfmGMk)  
+  ![](https://i.ytimg.com/vi/np320TfmGMk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:13 (UTC)  
   **مدت:** حدود 15.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=vxyqlKZLh7o)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 8 Video 1 Analytical Position Analysis and the Vector Loop](https://www.youtube.com/watch?v=vxyqlKZLh7o)  
+  ![](https://i.ytimg.com/vi/vxyqlKZLh7o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:10 (UTC)  
   **مدت:** حدود 15.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Am9gac3PoLs)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 9 Video 2 Numerical Position Analysis One Dimensional Newton-Raphson](https://www.youtube.com/watch?v=Am9gac3PoLs)  
+  ![](https://i.ytimg.com/vi/Am9gac3PoLs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:10 (UTC)  
   **مدت:** حدود 14.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=DFrbo5k94CE)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 11 Video 1, 4-bar Position Analytical Synthesis Part 1, Driving Dyad](https://www.youtube.com/watch?v=DFrbo5k94CE)  
+  ![](https://i.ytimg.com/vi/DFrbo5k94CE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:10 (UTC)  
   **مدت:** حدود 27.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=KTx2YtnVPkQ)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 10 Video 2 Generalized Vector Loop Approach, More Complex Mechanisms](https://www.youtube.com/watch?v=KTx2YtnVPkQ)  
+  ![](https://i.ytimg.com/vi/KTx2YtnVPkQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:10 (UTC)  
   **مدت:** حدود 9.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Om3ojdZPuYg)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 11 Vid 3, 4-bar Pos Analytical Synth Part 1, Norton Example 5-1](https://www.youtube.com/watch?v=Om3ojdZPuYg)  
+  ![](https://i.ytimg.com/vi/Om3ojdZPuYg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:10 (UTC)  
   **مدت:** حدود 32.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ez--BNZ6rcM)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 10 Video 1 Generalized Vector Loop Approach , 5bar, 6bar, and 8bar](https://www.youtube.com/watch?v=ez--BNZ6rcM)  
+  ![](https://i.ytimg.com/vi/ez--BNZ6rcM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:10 (UTC)  
   **مدت:** حدود 12.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=gKmeb91fmOw)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 9 Video 1 Numerical Position Analysis Excel Solver](https://www.youtube.com/watch?v=gKmeb91fmOw)  
+  ![](https://i.ytimg.com/vi/gKmeb91fmOw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:10 (UTC)  
   **مدت:** حدود 18.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=wtD4te4APrM)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 9 Video 3 Numerical Position Analysis Multi-Dimensional Newton-Raphson](https://www.youtube.com/watch?v=wtD4te4APrM)  
+  ![](https://i.ytimg.com/vi/wtD4te4APrM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:10 (UTC)  
   **مدت:** حدود 16.5 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=yVgxdPEqIjY)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 11 Vid 2, 4-bar Pos Analytical Synth Part 1, 2 Position Coupler Synth](https://www.youtube.com/watch?v=yVgxdPEqIjY)  
+  ![](https://i.ytimg.com/vi/yVgxdPEqIjY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:08 (UTC)  
   **مدت:** حدود 18.6 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=2zAEGyAhcT8)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 11 Video 4, 4-bar Pos Analytical Synth Part 1, Norton Problems 5-8 etc](https://www.youtube.com/watch?v=2zAEGyAhcT8)  
+  ![](https://i.ytimg.com/vi/2zAEGyAhcT8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:08 (UTC)  
   **مدت:** حدود 20.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=3lRe5G5o1sA)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 12 Video 1 Three Position Analytical Synthesis w/o Prescribed Grounds](https://www.youtube.com/watch?v=3lRe5G5o1sA)  
+  ![](https://i.ytimg.com/vi/3lRe5G5o1sA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:08 (UTC)  
   **مدت:** حدود 29.4 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=4p_ICtW-iFE)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Exam 1 Example w/ Norton Problem 5-44](https://www.youtube.com/watch?v=4p_ICtW-iFE)  
+  ![](https://i.ytimg.com/vi/4p_ICtW-iFE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:08 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Qjp7JK2y2x8)  
-  ![]()
+  **عنوان:** [Norton's Design of Machinery Section 6.5: Centrodes ellipsoid animation](https://www.youtube.com/watch?v=Qjp7JK2y2x8)  
+  ![](https://i.ytimg.com/vi/Qjp7JK2y2x8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:08 (UTC)  
   **مدت:** حدود 40.9 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=eu0U_Ai_q5w)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Norton Problem 3-54 (5-31) w/ SolidWorks](https://www.youtube.com/watch?v=eu0U_Ai_q5w)  
+  ![](https://i.ytimg.com/vi/eu0U_Ai_q5w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:08 (UTC)  
   **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=gQwekNZfqac)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Project 1 Prototype Demo 1 at 3V](https://www.youtube.com/watch?v=gQwekNZfqac)  
+  ![](https://i.ytimg.com/vi/gQwekNZfqac/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:08 (UTC)  
   **مدت:** حدود 33.8 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=iTFRVmZWSEI)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Exam 1 Example w/ Norton Problem 3-38](https://www.youtube.com/watch?v=iTFRVmZWSEI)  
+  ![](https://i.ytimg.com/vi/iTFRVmZWSEI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:08 (UTC)  
   **مدت:** حدود 34.7 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=swGcVCP0-C0)  
-  ![]()
+  **عنوان:** [S26 MENG4145 Mechanisms Class 12 Video 2 Three Position Analytical Synthesis w/ Prescribed Grounds](https://www.youtube.com/watch?v=swGcVCP0-C0)  
+  ![](https://i.ytimg.com/vi/swGcVCP0-C0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:08 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=x4V0me6E47Y)  
-  ![]()
+  **عنوان:** [Norton's Design of Machinery Section 6.5: Centrodes in Contact  animation](https://www.youtube.com/watch?v=x4V0me6E47Y)  
+  ![](https://i.ytimg.com/vi/x4V0me6E47Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:06 (UTC)  

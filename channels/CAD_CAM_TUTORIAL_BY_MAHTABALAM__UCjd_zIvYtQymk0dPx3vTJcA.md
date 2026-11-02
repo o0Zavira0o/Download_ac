@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
+_آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-02 03:30:22 (UTC)  
+  **مدت:** حدود 27.8 دقیقه  
+  **عنوان:** [Cabinet Modeling in SolidWorks (Revolved Boss/Base, Revolved Cut,Hole Wizard-Tapped Hole)](https://www.youtube.com/watch?v=xEYKMCnI7Do)  
+  ![](https://i.ytimg.com/vi/xEYKMCnI7Do/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-01 13:55:26 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
   **مدت:** حدود 6.1 دقیقه  
   **عنوان:** [How to use Autotrace in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=qD034DBK2YY)  
   ![](https://i.ytimg.com/vi/qD034DBK2YY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-04 09:08:24 (UTC)  
-  **مدت:** حدود 185.8 دقیقه  
-  **عنوان:** [Solidworks tutorial | Design and Assembly of Bicycle in Solidworks](https://www.youtube.com/watch?v=tj5Wo1Z9r20)  
-  ![](https://i.ytimg.com/vi/tj5Wo1Z9r20/hqdefault.jpg)

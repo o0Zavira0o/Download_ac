@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
+_آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-02 03:05:15 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [The Ultimate Heavy-Duty Pulley Bracket You Need Right Now 🔥](https://www.youtube.com/watch?v=DdGAVLcPmUQ)  
+  ![](https://i.ytimg.com/vi/DdGAVLcPmUQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-01 09:14:12 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-01T15:56:18Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [How to Design a Universal Joint in SolidWorks](https://www.youtube.com/watch?v=sP4qC8ieWi8)  
   ![](https://i.ytimg.com/vi/sP4qC8ieWi8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-01-24 05:48:49 (UTC)  
-  **مدت:** حدود 10.4 دقیقه  
-  **عنوان:** [Solidworks Tutorial | Solidworks Tutorial for Beginners Exercise 122](https://www.youtube.com/watch?v=lNsBW4AiPMQ)  
-  ![](https://i.ytimg.com/vi/lNsBW4AiPMQ/hqdefault.jpg)
