@@ -1,6 +1,14 @@
-# Last Run: 2026-11-02 01:20 UTC
+# Last Run: 2026-11-02 09:02 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Don’t Read Too Much Into These Midterms
+Published: 2026-11-02T05:01:53+00:00
+Link: https://foreignpolicy.com/2026/11/02/midterms-foreign-policy-results/
+---
+[Foreign_Policy] The Biggest October Surprise of All
+Published: 2026-11-02T05:01:26+00:00
+Link: https://foreignpolicy.com/2026/11/02/biggest-october-surprise-1962-cuba/
+---
 [New_Yorker_Magazine] “I Love You in the Morning,” by Ellen Bass
 Published: 2026-11-01T11:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/09/i-love-you-in-the-morning-ellen-bass-poem
@@ -88,16 +96,4 @@ Link: https://foreignpolicy.com/2026/10/30/trump-poland-troops-deployment-delay-
 [New_Yorker_Magazine] “Wild Horse Nine” Gets Lost on Easter Island
 Published: 2026-10-30T10:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/09/wild-horse-nine-movie-review
----
-[Foreign_Affairs] Can the Nordic Model Save NATO?
-Published: 2026-10-30T08:00:00+00:00
-Link: https://www.foreignaffairs.com/northern-europe/can-nordic-model-save-nato
----
-[Foreign_Affairs] North Korea’s Enemies Within
-Published: 2026-10-30T08:00:00+00:00
-Link: https://www.foreignaffairs.com/north-korea/north-koreas-enemies-within
----
-[Foreign_Policy] Russia’s Next Mobilization Is Already Happening
-Published: 2026-10-30T06:51:46+00:00
-Link: https://foreignpolicy.com/2026/10/30/putin-russia-ukraine-war-mobilization-casualties/
 ---
