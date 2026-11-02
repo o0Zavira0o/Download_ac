@@ -1,6 +1,30 @@
-# Last Run: 2026-11-01 21:48 UTC
+# Last Run: 2026-11-02 01:20 UTC
 # Articles published in last 72 hours
 
+[New_Yorker_Magazine] “I Love You in the Morning,” by Ellen Bass
+Published: 2026-11-01T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/i-love-you-in-the-morning-ellen-bass-poem
+---
+[New_Yorker_Magazine] “Family Lore,” by Téa Obreht
+Published: 2026-11-01T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/family-lore-fiction-tea-obreht
+---
+[New_Yorker_Magazine] Corruption on the Ballot
+Published: 2026-11-01T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/corruption-on-the-ballot
+---
+[New_Yorker_Magazine] The Year Math Changed Forever
+Published: 2026-11-01T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever
+---
+[New_Yorker_Magazine] “Form and Function,” by Paul Tran
+Published: 2026-11-01T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/form-and-function-paul-tran-poem
+---
+[New_Yorker_Magazine] The Party Girls at the Heart of “Club Kid”
+Published: 2026-10-31T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/the-party-girls-at-the-heart-of-club-kid
+---
 [Foreign_Policy] The World’s Biggest Crypto Heist
 Published: 2026-10-30T20:44:08+00:00
 Link: https://foreignpolicy.com/2026/10/30/binance-cryptocurrency-hack-north-korea/
@@ -60,6 +84,10 @@ Link: https://foreignpolicy.com/2026/10/30/venezuela-machado-elections-us-rubio-
 [Foreign_Policy] Trump Promised Poland More Troops. They’re Still Not There.
 Published: 2026-10-30T10:00:10+00:00
 Link: https://foreignpolicy.com/2026/10/30/trump-poland-troops-deployment-delay-europe-review/
+---
+[New_Yorker_Magazine] “Wild Horse Nine” Gets Lost on Easter Island
+Published: 2026-10-30T10:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/wild-horse-nine-movie-review
 ---
 [Foreign_Affairs] Can the Nordic Model Save NATO?
 Published: 2026-10-30T08:00:00+00:00
