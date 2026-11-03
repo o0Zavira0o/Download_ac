@@ -1,6 +1,26 @@
-# Last Run: 2026-11-03 02:20 UTC
+# Last Run: 2026-11-03 11:43 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Iran Is Talking Peace but Preparing for War
+Published: 2026-11-03T10:59:55+00:00
+Link: https://foreignpolicy.com/2026/11/03/iran-peace-war-rezaei-akhlaghi/
+---
+[Foreign_Policy] Vucic Is Leaving. His Economy Remains.
+Published: 2026-11-03T09:00:37+00:00
+Link: https://foreignpolicy.com/2026/11/03/serbia-vucic-is-leaving-his-economy-remains/
+---
+[Foreign_Affairs] The Fight for the Future of Democratic Foreign Policy
+Published: 2026-11-03T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/fight-future-democratic-foreign-policy
+---
+[Foreign_Affairs] What Sanctions Get Right
+Published: 2026-11-03T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/what-sanctions-get-right
+---
+[Foreign_Affairs] America’s AI Ambitions Depend on Taiwan
+Published: 2026-11-03T05:00:00+00:00
+Link: https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan
+---
 [Foreign_Policy] Trump’s Closing Midterm Message
 Published: 2026-11-02T22:03:19+00:00
 Link: https://foreignpolicy.com/2026/11/02/us-midterm-elections-trump-speech-reflecting-pool-democrats-republicans/
@@ -56,8 +76,4 @@ Link: https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-foreve
 [New_Yorker_Magazine] “Form and Function,” by Paul Tran
 Published: 2026-11-01T11:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/09/form-and-function-paul-tran-poem
----
-[New_Yorker_Magazine] The Party Girls at the Heart of “Club Kid”
-Published: 2026-10-31T10:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/09/the-party-girls-at-the-heart-of-club-kid
 ---
