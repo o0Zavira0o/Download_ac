@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
+_آخرین به‌روزرسانی: 2026-11-03T16:58:06Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-03 11:51:33 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [FREE SolidWorks Alternative? SolidCraft FREE CAD Software - Sample Plate 3D Modeling](https://www.youtube.com/watch?v=Cwov5QLKM1M)  
+  ![](https://i.ytimg.com/vi/Cwov5QLKM1M/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-03 02:13:50 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [How to Design Flat Head Cap Screw 6x10mm in SolidWorks #jlcmc](https://www.youtube.com/watch?v=r_oDzZ1qXo4)  
+  ![](https://i.ytimg.com/vi/r_oDzZ1qXo4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-02 03:05:15 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
   **مدت:** حدود 13.8 دقیقه  
   **عنوان:** [Solidworks Mold Tutorial | How to Design Lego Brick Mold in Solidworks](https://www.youtube.com/watch?v=VxmFCRFyvzg)  
   ![](https://i.ytimg.com/vi/VxmFCRFyvzg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-02 12:09:32 (UTC)  
-  **مدت:** حدود 16.4 دقیقه  
-  **عنوان:** [Build a Gear Fidget Spinner: SolidWorks Assembly Guide](https://www.youtube.com/watch?v=rx-J1DLJLQw)  
-  ![](https://i.ytimg.com/vi/rx-J1DLJLQw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-01 14:22:25 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How to Design a Universal Joint in SolidWorks](https://www.youtube.com/watch?v=sP4qC8ieWi8)  
-  ![](https://i.ytimg.com/vi/sP4qC8ieWi8/hqdefault.jpg)

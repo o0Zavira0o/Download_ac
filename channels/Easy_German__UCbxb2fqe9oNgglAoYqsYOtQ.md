@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
+_آخرین به‌روزرسانی: 2026-11-03T16:58:06Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-03 12:52:03 (UTC)  
+  **مدت:** حدود 0.6 دقیقه  
+  **عنوان:** [Fremde Leute ansprechen](https://www.youtube.com/watch?v=Wzcg1mV6n3E)  
+  ![](https://i.ytimg.com/vi/Wzcg1mV6n3E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-02 13:09:06 (UTC)  
@@ -14,7 +20,7 @@ _آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
 
 - **تاریخ انتشار:** 2026-11-01 18:00:23 (UTC)  
   **مدت:** حدود 14.9 دقیقه  
-  **عنوان:** [What Germans Think About Turks (Street Interviews)](https://www.youtube.com/watch?v=WninNBkt6MI)  
+  **عنوان:** [What 🇩🇪 Germans Think About 🇹🇷 Turks (Street Interviews)](https://www.youtube.com/watch?v=WninNBkt6MI)  
   ![](https://i.ytimg.com/vi/WninNBkt6MI/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
   **مدت:** حدود 7.7 دقیقه  
   **عنوان:** [How Germans react to jokes about Germans | Easy German 203](https://www.youtube.com/watch?v=hW28HSSfEg0)  
   ![](https://i.ytimg.com/vi/hW28HSSfEg0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-05 16:11:56 (UTC)  
-  **مدت:** حدود 2.0 دقیقه  
-  **عنوان:** [German Prepositions: BEI](https://www.youtube.com/watch?v=fa9K07uIrOo)  
-  ![](https://i.ytimg.com/vi/fa9K07uIrOo/hqdefault.jpg)

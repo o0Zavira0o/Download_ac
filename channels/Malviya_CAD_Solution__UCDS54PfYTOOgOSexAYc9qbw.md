@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
+_آخرین به‌روزرسانی: 2026-11-03T16:58:06Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-11-03 14:22:55 (UTC)  
+  **مدت:** حدود 38.1 دقیقه  
+  **عنوان:** [Solidworks plastic bottle tutorial | Solid and surface modelling](https://www.youtube.com/watch?v=9iiQrIo_C-g)  
+  ![](https://i.ytimg.com/vi/9iiQrIo_C-g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-02 02:35:12 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
   **مدت:** حدود 1.1 دقیقه  
   **عنوان:** [Solidworks modelling garlic crushing tool #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=B7Lz1_yMZnA)  
   ![](https://i.ytimg.com/vi/B7Lz1_yMZnA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-15 03:05:12 (UTC)  
-  **مدت:** حدود 20.7 دقیقه  
-  **عنوان:** [Design of Garlic Crusing tool in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=oAyMk9Y6sUo)  
-  ![](https://i.ytimg.com/vi/oAyMk9Y6sUo/hqdefault.jpg)

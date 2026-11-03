@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
+_آخرین به‌روزرسانی: 2026-11-03T16:58:06Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-11-03 08:28:19 (UTC)  
+  **مدت:** حدود 15.0 دقیقه  
+  **عنوان:** [Lección 1 - Interfaz de nanoCAD y modos de dibujo para principiantes](https://www.youtube.com/watch?v=q_OoY6ZkVbE)  
+  ![](https://i.ytimg.com/vi/q_OoY6ZkVbE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-13 00:30:05 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
   **مدت:** حدود 5.5 دقیقه  
   **عنوان:** [Controlling Layers with Filters, Groups, and States - Lesson 22](https://www.youtube.com/watch?v=n9IfRQXpAis)  
   ![](https://i.ytimg.com/vi/n9IfRQXpAis/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-04-13 18:10:48 (UTC)  
-  **مدت:** حدود 5.7 دقیقه  
-  **عنوان:** [Controlling Layers - Lesson 21](https://www.youtube.com/watch?v=BreafMe3PAU)  
-  ![](https://i.ytimg.com/vi/BreafMe3PAU/hqdefault.jpg)

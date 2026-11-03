@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
+_آخرین به‌روزرسانی: 2026-11-03T16:58:06Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-11-02 23:07:10 (UTC)  
+  **مدت:** حدود 1.3 دقیقه  
+  **عنوان:** [FIZ 2 CURVAS DE INOX 304 COM SOLDAGEM TIG #tig #industria #soldagem #mecanica #usinagem](https://www.youtube.com/watch?v=j9zSzt9gcEY)  
+  ![](https://i.ytimg.com/vi/j9zSzt9gcEY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-30 22:30:23 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
   **مدت:** حدود 30.2 دقیقه  
   **عنوان:** [AULA 46 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=Ympi5Btgdyo)  
   ![](https://i.ytimg.com/vi/Ympi5Btgdyo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-05-09 01:09:44 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [SABONETE METÁLICO DE AÇO INOX 304 #solidworks #solidworksbrasil #engenhariamecanica #engenharia](https://www.youtube.com/watch?v=fNkxytdyljk)  
-  ![](https://i.ytimg.com/vi/fNkxytdyljk/hqdefault.jpg)

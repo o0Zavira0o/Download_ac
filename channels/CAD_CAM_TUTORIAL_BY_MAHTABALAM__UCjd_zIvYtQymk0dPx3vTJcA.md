@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
+_آخرین به‌روزرسانی: 2026-11-03T16:58:06Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-03 03:30:34 (UTC)  
+  **مدت:** حدود 32.0 دقیقه  
+  **عنوان:** [Gear Box Body Modeling in SolidWorks (Swept Cut, Hole Wizard-Tapped Hole)](https://www.youtube.com/watch?v=VHoqBOcI5b0)  
+  ![](https://i.ytimg.com/vi/VHoqBOcI5b0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-02 03:30:22 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-02T19:24:01Z_
   **مدت:** حدود 8.5 دقیقه  
   **عنوان:** [How to insert an image in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=bi1OJN-OD9w)  
   ![](https://i.ytimg.com/vi/bi1OJN-OD9w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-05 16:27:36 (UTC)  
-  **مدت:** حدود 6.1 دقیقه  
-  **عنوان:** [How to use Autotrace in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=qD034DBK2YY)  
-  ![](https://i.ytimg.com/vi/qD034DBK2YY/hqdefault.jpg)
