@@ -1,6 +1,30 @@
-# Last Run: 2026-11-04 08:45 UTC
+# Last Run: 2026-11-04 17:55 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Where Democrats Can Thwart Trump’s Foreign Policy
+Published: 2026-11-04T14:23:05+00:00
+Link: https://foreignpolicy.com/2026/11/04/midterm-election-results-democrats-congress-trump-iran-war-oversight/
+---
+[Foreign_Policy] U.S. Democracy Is Back—Sort of
+Published: 2026-11-04T14:18:01+00:00
+Link: https://foreignpolicy.com/2026/11/04/election-trump-democrats-congress-senate-house-vote/
+---
+[Foreign_Policy] Democrats Have a Historic Opportunity to Rethink Capitalism
+Published: 2026-11-04T12:47:12+00:00
+Link: https://foreignpolicy.com/2026/11/04/midterm-elections-progressive-democratic-socialism-us-capitalism/
+---
+[Foreign_Policy] The Beginning of the End of Trumpism
+Published: 2026-11-04T12:43:00+00:00
+Link: https://foreignpolicy.com/2026/11/04/democrats-midterms-senate-house-united-states-trump-global-backlash/
+---
+[Foreign_Affairs] The Missing Critical Minerals Investment
+Published: 2026-11-04T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/missing-critical-minerals-investment
+---
+[Foreign_Affairs] The Dangers of a Lame-Duck Trump
+Published: 2026-11-04T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/dangers-lame-duck-trump
+---
 [Foreign_Policy] Why Are Indonesians Dying in Ukraine?
 Published: 2026-11-04T06:00:45+00:00
 Link: https://foreignpolicy.com/2026/11/04/southeast-asia-indonesia-russia-ukraine-war-recruitment/
@@ -100,24 +124,4 @@ Link: https://foreignpolicy.com/2026/11/02/midterms-foreign-policy-results/
 [Foreign_Policy] The Biggest October Surprise of All
 Published: 2026-11-02T05:01:26+00:00
 Link: https://foreignpolicy.com/2026/11/02/biggest-october-surprise-1962-cuba/
----
-[New_Yorker_Magazine] “I Love You in the Morning,” by Ellen Bass
-Published: 2026-11-01T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/09/i-love-you-in-the-morning-ellen-bass-poem
----
-[New_Yorker_Magazine] “Family Lore,” by Téa Obreht
-Published: 2026-11-01T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/09/family-lore-fiction-tea-obreht
----
-[New_Yorker_Magazine] Corruption on the Ballot
-Published: 2026-11-01T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/09/corruption-on-the-ballot
----
-[New_Yorker_Magazine] The Year Math Changed Forever
-Published: 2026-11-01T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever
----
-[New_Yorker_Magazine] “Form and Function,” by Paul Tran
-Published: 2026-11-01T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/09/form-and-function-paul-tran-poem
 ---
