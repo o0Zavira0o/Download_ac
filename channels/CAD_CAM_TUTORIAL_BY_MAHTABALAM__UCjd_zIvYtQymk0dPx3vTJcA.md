@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-03T16:58:06Z_
+_آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-04 03:30:31 (UTC)  
+  **مدت:** حدود 46.0 دقیقه  
+  **عنوان:** [Housing Modeling in SolidWorks (Hole Wizard-Tapped Hole,Combine Features)](https://www.youtube.com/watch?v=i5CHEf06Hm0)  
+  ![](https://i.ytimg.com/vi/i5CHEf06Hm0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-03 03:30:34 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-03T16:58:06Z_
   **مدت:** حدود 18.2 دقیقه  
   **عنوان:** [Solidworks Mold tools tutorial | Introduction of Mold tools in Solidworks](https://www.youtube.com/watch?v=yqROZFStz6c)  
   ![](https://i.ytimg.com/vi/yqROZFStz6c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-06 17:27:25 (UTC)  
-  **مدت:** حدود 8.5 دقیقه  
-  **عنوان:** [How to insert an image in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=bi1OJN-OD9w)  
-  ![](https://i.ytimg.com/vi/bi1OJN-OD9w/hqdefault.jpg)

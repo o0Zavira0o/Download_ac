@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-03T16:58:06Z_
+_آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-04 10:27:45 (UTC)  
+  **مدت:** حدود 6.2 دقیقه  
+  **عنوان:** [SolidCraft Tutorial for Beginners 🔥 | Download FREE Open-Source CAD Software & 3D Modeling](https://www.youtube.com/watch?v=q7zSB7fJnUg)  
+  ![](https://i.ytimg.com/vi/q7zSB7fJnUg/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-03 11:51:33 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-03T16:58:06Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [Gear Fidget Spinner Mechanism](https://www.youtube.com/watch?v=HdRmNF8fObw)  
   ![](https://i.ytimg.com/vi/HdRmNF8fObw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-05 04:51:34 (UTC)  
-  **مدت:** حدود 13.8 دقیقه  
-  **عنوان:** [Solidworks Mold Tutorial | How to Design Lego Brick Mold in Solidworks](https://www.youtube.com/watch?v=VxmFCRFyvzg)  
-  ![](https://i.ytimg.com/vi/VxmFCRFyvzg/hqdefault.jpg)

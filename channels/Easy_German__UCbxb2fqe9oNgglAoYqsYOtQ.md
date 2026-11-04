@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-03T16:58:06Z_
+_آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
