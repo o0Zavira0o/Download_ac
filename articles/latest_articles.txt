@@ -1,13 +1,49 @@
-# Last Run: 2026-11-03 11:43 UTC
+# Last Run: 2026-11-04 00:31 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Iran Strikes and Israel Aid Cuts Shake Up Election Day
+Published: 2026-11-03T23:02:31+00:00
+Link: https://foreignpolicy.com/2026/11/03/us-iran-strikes-midterms-israel-aid-ukraine-russia-agoa-australia/
+---
+[Foreign_Policy] Chinese AI Stocks Are Slumping, Too
+Published: 2026-11-03T20:49:19+00:00
+Link: https://foreignpolicy.com/2026/11/03/china-ai-stock-market-downturn-bubble-economics/
+---
+[Foreign_Policy] China Won’t Bail Out Trump’s Lost War
+Published: 2026-11-03T18:04:35+00:00
+Link: https://foreignpolicy.com/2026/11/03/china-iran-trump-xi-middle-east-interests/
+---
+[Foreign_Policy] Soviet Nostalgia Is a Geopolitical Dead End
+Published: 2026-11-03T17:19:19+00:00
+Link: https://foreignpolicy.com/2026/11/03/soviet-ukraine-russia-realism-history-nostalgia/
+---
+[Foreign_Policy] The Quiet Revolution in U.S.-Cypriot Relations
+Published: 2026-11-03T16:36:13+00:00
+Link: https://foreignpolicy.com/2026/11/03/cyprus-united-states-turkey-foreign-policy-security-defense/
+---
+[Foreign_Policy] Why Kushner and Witkoff Keep Failing
+Published: 2026-11-03T13:11:17+00:00
+Link: https://foreignpolicy.com/2026/11/03/kushner-witkoff-diplomacy-russia-iran-failure/
+---
+[Foreign_Policy] Can Washington Afford to Deter Chinese Cyber Activity?
+Published: 2026-11-03T12:00:08+00:00
+Link: https://foreignpolicy.com/2026/11/03/china-cyberattacks-united-states-deterrence-hackers-competition/
+---
 [Foreign_Policy] Iran Is Talking Peace but Preparing for War
 Published: 2026-11-03T10:59:55+00:00
 Link: https://foreignpolicy.com/2026/11/03/iran-peace-war-rezaei-akhlaghi/
 ---
 [Foreign_Policy] Vucic Is Leaving. His Economy Remains.
 Published: 2026-11-03T09:00:37+00:00
+Link: https://foreignpolicy.com/2026/11/03/serbia-vucic-elections-economy-europe/
+---
+[Foreign_Policy] Vucic Is Leaving. His Economy Remains.
+Published: 2026-11-03T09:00:37+00:00
 Link: https://foreignpolicy.com/2026/11/03/serbia-vucic-is-leaving-his-economy-remains/
+---
+[Foreign_Affairs] What Sanctions Get Right
+Published: 2026-11-03T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/what-sanctions-get-right-s-c-m-paine
 ---
 [Foreign_Affairs] The Fight for the Future of Democratic Foreign Policy
 Published: 2026-11-03T09:00:00+00:00
@@ -16,6 +52,10 @@ Link: https://www.foreignaffairs.com/united-states/fight-future-democratic-forei
 [Foreign_Affairs] What Sanctions Get Right
 Published: 2026-11-03T09:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/what-sanctions-get-right
+---
+[Foreign_Affairs] America’s AI Ambitions Depend on Taiwan
+Published: 2026-11-03T05:00:00+00:00
+Link: https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan-lin-chia-lung
 ---
 [Foreign_Affairs] America’s AI Ambitions Depend on Taiwan
 Published: 2026-11-03T05:00:00+00:00

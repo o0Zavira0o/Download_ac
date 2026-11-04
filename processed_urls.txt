@@ -1173,8 +1173,16 @@ https://foreignpolicy.com/2026/11/02/midterms-foreign-policy-results/
 https://foreignpolicy.com/2026/11/02/trump-iran-war-midterms-military-readiness-missiles-capabilities/
 https://foreignpolicy.com/2026/11/02/us-midterm-elections-trump-speech-reflecting-pool-democrats-republicans/
 https://foreignpolicy.com/2026/11/02/usaid-doge-grants-development/
+https://foreignpolicy.com/2026/11/03/china-ai-stock-market-downturn-bubble-economics/
+https://foreignpolicy.com/2026/11/03/china-cyberattacks-united-states-deterrence-hackers-competition/
+https://foreignpolicy.com/2026/11/03/china-iran-trump-xi-middle-east-interests/
+https://foreignpolicy.com/2026/11/03/cyprus-united-states-turkey-foreign-policy-security-defense/
 https://foreignpolicy.com/2026/11/03/iran-peace-war-rezaei-akhlaghi/
+https://foreignpolicy.com/2026/11/03/kushner-witkoff-diplomacy-russia-iran-failure/
+https://foreignpolicy.com/2026/11/03/serbia-vucic-elections-economy-europe/
 https://foreignpolicy.com/2026/11/03/serbia-vucic-is-leaving-his-economy-remains/
+https://foreignpolicy.com/2026/11/03/soviet-ukraine-russia-realism-history-nostalgia/
+https://foreignpolicy.com/2026/11/03/us-iran-strikes-midterms-israel-aid-ukraine-russia-agoa-australia/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -1339,6 +1347,7 @@ https://www.foreignaffairs.com/southeast-asia/can-private-sector-save-vietnam
 https://www.foreignaffairs.com/syria/road-through-damascus
 https://www.foreignaffairs.com/syria/syrias-imperiled-transition
 https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan
+https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan-lin-chia-lung
 https://www.foreignaffairs.com/taiwan/china-could-win-taiwan-without-fighting
 https://www.foreignaffairs.com/taiwan/coming-taiwan-crisis-china-jonathan-czin
 https://www.foreignaffairs.com/taiwan/how-taiwan-can-win-strait
@@ -1472,6 +1481,7 @@ https://www.foreignaffairs.com/united-states/trumps-china-trap
 https://www.foreignaffairs.com/united-states/ukraine-lesson-taiwan-keeps-missing
 https://www.foreignaffairs.com/united-states/united-nations-general-assembly-secretary-general
 https://www.foreignaffairs.com/united-states/what-sanctions-get-right
+https://www.foreignaffairs.com/united-states/what-sanctions-get-right-s-c-m-paine
 https://www.foreignaffairs.com/united-states/when-workers-lose-ai
 https://www.foreignaffairs.com/united-states/why-iran-escalates
 https://www.foreignaffairs.com/united-states/why-we-should-fight-kori-schake
