@@ -1,6 +1,18 @@
-# Last Run: 2026-11-05 14:13 UTC
+# Last Run: 2026-11-05 21:53 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Post-Midterms AI Reckoning
+Published: 2026-11-05T21:23:32+00:00
+Link: https://foreignpolicy.com/2026/11/05/midterm-results-ai-data-centers-texas-georgia-ohio/
+---
+[Foreign_Policy] What Does Morocco’s First Woman Leader Actually Mean for the Country?
+Published: 2026-11-05T18:00:23+00:00
+Link: https://foreignpolicy.com/2026/11/05/morocco-first-woman-leader-head-government-mansouri/
+---
+[Foreign_Policy] Palestinian Voters Gave Eisenkot a Chance to Govern—He Should Take It
+Published: 2026-11-05T17:39:27+00:00
+Link: https://foreignpolicy.com/2026/11/05/israel-election-netanyahu-palestinian-eisenkot-coalition-government/
+---
 [Foreign_Affairs] The New Congress Can Repair Civil-Military Relations
 Published: 2026-11-05T09:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/new-congress-can-repair-civil-military-relations
@@ -128,20 +140,4 @@ Link: https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan
 [Foreign_Policy] Trump’s Closing Midterm Message
 Published: 2026-11-02T22:03:19+00:00
 Link: https://foreignpolicy.com/2026/11/02/us-midterm-elections-trump-speech-reflecting-pool-democrats-republicans/
----
-[Foreign_Policy] Reigniting War With Iran Would Be a ‘Huge Gamble’
-Published: 2026-11-02T21:06:08+00:00
-Link: https://foreignpolicy.com/2026/11/02/trump-iran-war-midterms-military-readiness-missiles-capabilities/
----
-[Foreign_Policy] Washington Is Debating the Wrong AI Risk
-Published: 2026-11-02T17:46:13+00:00
-Link: https://foreignpolicy.com/2026/11/02/ai-risk-washington-intelligence-iran-war/
----
-[Foreign_Policy] A New USAID Can Be Smarter and Sharper
-Published: 2026-11-02T16:08:43+00:00
-Link: https://foreignpolicy.com/2026/11/02/usaid-doge-grants-development/
----
-[Foreign_Policy] Lula’s Succession Race Starts Now
-Published: 2026-11-02T15:26:23+00:00
-Link: https://foreignpolicy.com/2026/11/02/brazil-election-lula-age-workers-party-fonteles/
 ---
