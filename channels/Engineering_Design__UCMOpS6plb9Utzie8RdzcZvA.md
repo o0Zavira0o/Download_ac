@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
+_آخرین به‌روزرسانی: 2026-11-05T17:16:39Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-05 03:30:14 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Sewing Machine Foot Pedal Crank-rocker Mechanism](https://www.youtube.com/watch?v=HKnFQObHdXU)  
+  ![](https://i.ytimg.com/vi/HKnFQObHdXU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-04 10:27:45 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
   **مدت:** حدود 12.8 دقیقه  
   **عنوان:** [Want to Design Minimal Surfaces? Watch This Solidworks Tutorial](https://www.youtube.com/watch?v=9WasC_DsXuM)  
   ![](https://i.ytimg.com/vi/9WasC_DsXuM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-06 13:15:21 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Gear Fidget Spinner Mechanism](https://www.youtube.com/watch?v=HdRmNF8fObw)  
-  ![](https://i.ytimg.com/vi/HdRmNF8fObw/hqdefault.jpg)

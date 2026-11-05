@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
+_آخرین به‌روزرسانی: 2026-11-05T17:16:39Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-05 03:30:24 (UTC)  
+  **مدت:** حدود 47.2 دقیقه  
+  **عنوان:** [Pump Housing Modeling in SolidWorks (Revolve Cut, Rib, Hole Wizard Tapped Hole)](https://www.youtube.com/watch?v=1jZJZ64IPwY)  
+  ![](https://i.ytimg.com/vi/1jZJZ64IPwY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-04 03:30:31 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
   **مدت:** حدود 137.4 دقیقه  
   **عنوان:** [Solidworks tutorial | Design of Two Cylinder Engine in Solidworks](https://www.youtube.com/watch?v=MIr-4xyItSA)  
   ![](https://i.ytimg.com/vi/MIr-4xyItSA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-07 14:04:33 (UTC)  
-  **مدت:** حدود 18.2 دقیقه  
-  **عنوان:** [Solidworks Mold tools tutorial | Introduction of Mold tools in Solidworks](https://www.youtube.com/watch?v=yqROZFStz6c)  
-  ![](https://i.ytimg.com/vi/yqROZFStz6c/hqdefault.jpg)

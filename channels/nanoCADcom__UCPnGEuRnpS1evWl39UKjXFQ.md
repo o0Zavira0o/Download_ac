@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
+_آخرین به‌روزرسانی: 2026-11-05T17:16:39Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-11-05 01:00:04 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Model a 3D Nut in nanoCAD in 1 Minute! 🔧 #nanoCAD #3DModeling #CAD #Shorts #CADTutorial #3DDesign](https://www.youtube.com/watch?v=1NbbZvoDiyk)  
+  ![](https://i.ytimg.com/vi/1NbbZvoDiyk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-03 08:28:19 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
   **مدت:** حدود 6.6 دقیقه  
   **عنوان:** [Layer Utility Commands - Lesson 23](https://www.youtube.com/watch?v=3zQtBAD9t8w)  
   ![](https://i.ytimg.com/vi/3zQtBAD9t8w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-04-25 10:04:33 (UTC)  
-  **مدت:** حدود 5.5 دقیقه  
-  **عنوان:** [Controlling Layers with Filters, Groups, and States - Lesson 22](https://www.youtube.com/watch?v=n9IfRQXpAis)  
-  ![](https://i.ytimg.com/vi/n9IfRQXpAis/hqdefault.jpg)

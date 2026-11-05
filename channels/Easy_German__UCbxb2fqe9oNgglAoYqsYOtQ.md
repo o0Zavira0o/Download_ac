@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
+_آخرین به‌روزرسانی: 2026-11-05T17:16:39Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-05 06:18:25 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Deutsche WG](https://www.youtube.com/watch?v=Udqioc8aTY4)  
+  ![](https://i.ytimg.com/vi/Udqioc8aTY4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-04 18:00:17 (UTC)  
+  **مدت:** حدود 16.4 دقیقه  
+  **عنوان:** [How to Get a Drivers License in Germany](https://www.youtube.com/watch?v=aiFJ11GY7sE)  
+  ![](https://i.ytimg.com/vi/aiFJ11GY7sE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-03 12:52:03 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
   **مدت:** حدود 10.1 دقیقه  
   **عنوان:** [What Germans have for Breakfast | Easy German 204](https://www.youtube.com/watch?v=kwdnxwQCoXM)  
   ![](https://i.ytimg.com/vi/kwdnxwQCoXM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-19 18:38:12 (UTC)  
-  **مدت:** حدود 4.5 دقیقه  
-  **عنوان:** [German Prepositions With Dative](https://www.youtube.com/watch?v=CDgG2K7Kbbs)  
-  ![](https://i.ytimg.com/vi/CDgG2K7Kbbs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-09 17:08:03 (UTC)  
-  **مدت:** حدود 7.7 دقیقه  
-  **عنوان:** [How Germans react to jokes about Germans | Easy German 203](https://www.youtube.com/watch?v=hW28HSSfEg0)  
-  ![](https://i.ytimg.com/vi/hW28HSSfEg0/hqdefault.jpg)

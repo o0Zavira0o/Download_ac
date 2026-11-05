@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
+_آخرین به‌روزرسانی: 2026-11-05T17:16:39Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-11-04 23:47:10 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Projetei um Patinete Mototanque no SolidWorks e vou fabricar ele na minha oficina.](https://www.youtube.com/watch?v=tWcYaTENOx4)  
+  ![](https://i.ytimg.com/vi/tWcYaTENOx4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-03 22:30:01 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-04T17:01:29Z_
   **مدت:** حدود 30.9 دقیقه  
   **عنوان:** [AULA 48 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=2_7q3YQ1pIo)  
   ![](https://i.ytimg.com/vi/2_7q3YQ1pIo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-05-19 22:30:09 (UTC)  
-  **مدت:** حدود 29.4 دقیقه  
-  **عنوان:** [AULA 47 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=WY4uNFPqhEI)  
-  ![](https://i.ytimg.com/vi/WY4uNFPqhEI/hqdefault.jpg)
