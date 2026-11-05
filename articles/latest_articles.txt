@@ -1,6 +1,10 @@
-# Last Run: 2026-11-04 23:20 UTC
+# Last Run: 2026-11-05 05:35 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Americans Care About Foreign Policy. Now Democrats Must Listen to Them.
+Published: 2026-11-04T23:23:56+00:00
+Link: https://foreignpolicy.com/2026/11/04/us-midterm-elections-democrats-trump-israel-iran/
+---
 [Foreign_Policy] Trump Has Shifted the U.S.-Pakistan Relationship
 Published: 2026-11-04T22:13:59+00:00
 Link: https://foreignpolicy.com/2026/11/04/pakistan-us-trump-business-ties-lng-project/
@@ -133,6 +137,50 @@ Link: https://foreignpolicy.com/2026/11/02/usaid-doge-grants-development/
 Published: 2026-11-02T15:26:23+00:00
 Link: https://foreignpolicy.com/2026/11/02/brazil-election-lula-age-workers-party-fonteles/
 ---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-11-02T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/music-against-the-night-her-kind-a-world-we-share-the-flying-death
+---
+[New_Yorker_Magazine] Common Scams to Avoid
+Published: 2026-11-02T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/common-scams-to-avoid
+---
+[New_Yorker_Magazine] An Exiled Filmmaker’s Unsparing View of Contemporary Russia
+Published: 2026-11-02T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/an-exiled-filmmakers-unsparing-view-of-contemporary-russia
+---
+[New_Yorker_Magazine] The Telephone’s Tangled History of Intimacy and Control
+Published: 2026-11-02T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/the-telephone-james-gleick-book-review
+---
+[New_Yorker_Magazine] The Trouble with Saying What You Mean
+Published: 2026-11-02T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/the-channel-jana-prikryl-book-review
+---
+[New_Yorker_Magazine] Reliving the Bronx’s Biggest Battle
+Published: 2026-11-02T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/reliving-the-bronxs-biggest-battle
+---
+[New_Yorker_Magazine] Roy Lichtenstein’s Witty Critiques of Masculinity
+Published: 2026-11-02T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/roy-lichtensteins-witty-critiques-of-masculinity
+---
+[New_Yorker_Magazine] Dante de Blasio Is Off Vocal Rest
+Published: 2026-11-02T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/dante-de-blasio-is-off-vocal-rest
+---
+[New_Yorker_Magazine] New Jersey, the Diesel State
+Published: 2026-11-02T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/new-jersey-the-diesel-state
+---
+[New_Yorker_Magazine] Why Immigration Agents Don’t Quit in Protest
+Published: 2026-11-02T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/why-immigration-agents-dont-quit-in-protest
+---
+[New_Yorker_Magazine] Did the World Just Gain Hundreds of Millions of Alzheimer’s Patients?
+Published: 2026-11-02T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/09/did-the-world-just-gain-hundreds-of-millions-of-alzheimers-patients
+---
 [Foreign_Affairs] How America Can Counter Chinese Coercion
 Published: 2026-11-02T09:00:00+00:00
 Link: https://www.foreignaffairs.com/japan/how-america-can-counter-chinese-coercion
@@ -140,12 +188,4 @@ Link: https://www.foreignaffairs.com/japan/how-america-can-counter-chinese-coerc
 [Foreign_Affairs] The Limits of China’s Self-Sufficiency
 Published: 2026-11-02T09:00:00+00:00
 Link: https://www.foreignaffairs.com/china/limits-chinas-self-sufficiency
----
-[Foreign_Policy] Don’t Read Too Much Into These Midterms
-Published: 2026-11-02T05:01:53+00:00
-Link: https://foreignpolicy.com/2026/11/02/midterms-foreign-policy-results/
----
-[Foreign_Policy] The Biggest October Surprise of All
-Published: 2026-11-02T05:01:26+00:00
-Link: https://foreignpolicy.com/2026/11/02/biggest-october-surprise-1962-cuba/
 ---
