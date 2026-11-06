@@ -1,6 +1,38 @@
-# Last Run: 2026-11-06 09:17 UTC
+# Last Run: 2026-11-06 17:16 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How America Was Swept by an Anti-Trump Wave
+Published: 2026-11-06T17:14:38+00:00
+Link: https://foreignpolicy.com/2026/11/06/susan-glasser-us-midterms-blue-wave-trump-rebuke-iran-war/
+---
+[Foreign_Policy] How a World War I Crackdown Predicted ICE
+Published: 2026-11-06T16:30:26+00:00
+Link: https://foreignpolicy.com/2026/11/06/dissidents-backderf-cartoonists-ice/
+---
+[Foreign_Policy] Who Will Succeed Xi Jinping?
+Published: 2026-11-06T16:18:57+00:00
+Link: https://foreignpolicy.com/2026/11/06/china-xi-jinping-successor-party-congress/
+---
+[Foreign_Policy] The International Power Broker Trying to Normalize Hamas
+Published: 2026-11-06T14:59:23+00:00
+Link: https://foreignpolicy.com/2026/11/06/mohammed-dahlan-gaza-hamas-palestine/
+---
+[Foreign_Policy] How Will the Blue Tsunami Affect Latin America?
+Published: 2026-11-06T13:00:32+00:00
+Link: https://foreignpolicy.com/2026/11/06/us-midterm-election-latin-america-trump-boat-strikes-venezuela/
+---
+[Foreign_Affairs] Democrats Shouldn’t Squander Their Chance to Launch a Foreign Policy Revolution
+Published: 2026-11-06T12:36:00+00:00
+Link: https://www.foreignaffairs.com/united-states/democrats-shouldnt-squander-their-chance-launch-foreign-policy-congress-midterms-matthew-duss
+---
+[Foreign_Affairs] Don’t Soak the Rich
+Published: 2026-11-06T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/dont-soak-rich
+---
+[Foreign_Affairs] The True Meaning of Power
+Published: 2026-11-06T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/true-meaning-power
+---
 [Foreign_Policy] How Foreign Policy Shaped These 3 Critical Midterm Races
 Published: 2026-11-05T22:53:29+00:00
 Link: https://foreignpolicy.com/2026/11/05/us-midterms-israel-immigration-deportation-tariffs-democrats/
@@ -104,20 +136,4 @@ Link: https://foreignpolicy.com/2026/11/03/china-iran-trump-xi-middle-east-inter
 [Foreign_Policy] Soviet Nostalgia Is a Geopolitical Dead End
 Published: 2026-11-03T17:19:19+00:00
 Link: https://foreignpolicy.com/2026/11/03/soviet-ukraine-russia-realism-history-nostalgia/
----
-[Foreign_Policy] The Quiet Revolution in U.S.-Cypriot Relations
-Published: 2026-11-03T16:36:13+00:00
-Link: https://foreignpolicy.com/2026/11/03/cyprus-united-states-turkey-foreign-policy-security-defense/
----
-[Foreign_Policy] Why Kushner and Witkoff Keep Failing
-Published: 2026-11-03T13:11:17+00:00
-Link: https://foreignpolicy.com/2026/11/03/kushner-witkoff-diplomacy-russia-iran-failure/
----
-[Foreign_Policy] Can Washington Afford to Deter Chinese Cyber Activity?
-Published: 2026-11-03T12:00:08+00:00
-Link: https://foreignpolicy.com/2026/11/03/china-cyberattacks-united-states-deterrence-hackers-competition/
----
-[Foreign_Policy] Iran Is Talking Peace but Preparing for War
-Published: 2026-11-03T10:59:55+00:00
-Link: https://foreignpolicy.com/2026/11/03/iran-peace-war-rezaei-akhlaghi/
 ---

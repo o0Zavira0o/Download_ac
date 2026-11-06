@@ -1201,6 +1201,11 @@ https://foreignpolicy.com/2026/11/05/midterm-results-ai-data-centers-texas-georg
 https://foreignpolicy.com/2026/11/05/midterm-results-trump-iran-russia-china-north-korea/
 https://foreignpolicy.com/2026/11/05/morocco-first-woman-leader-head-government-mansouri/
 https://foreignpolicy.com/2026/11/05/us-midterms-israel-immigration-deportation-tariffs-democrats/
+https://foreignpolicy.com/2026/11/06/china-xi-jinping-successor-party-congress/
+https://foreignpolicy.com/2026/11/06/dissidents-backderf-cartoonists-ice/
+https://foreignpolicy.com/2026/11/06/mohammed-dahlan-gaza-hamas-palestine/
+https://foreignpolicy.com/2026/11/06/susan-glasser-us-midterms-blue-wave-trump-rebuke-iran-war/
+https://foreignpolicy.com/2026/11/06/us-midterm-election-latin-america-trump-boat-strikes-venezuela/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -1425,9 +1430,11 @@ https://www.foreignaffairs.com/united-states/crumbling-defense-europe
 https://www.foreignaffairs.com/united-states/crumbling-pillars-global-peace
 https://www.foreignaffairs.com/united-states/dangers-lame-duck-trump
 https://www.foreignaffairs.com/united-states/democracies-need-creative-destruction-pahlka-greenway
+https://www.foreignaffairs.com/united-states/democrats-shouldnt-squander-their-chance-launch-foreign-policy-congress-midterms-matthew-duss
 https://www.foreignaffairs.com/united-states/disposable-oligarchs
 https://www.foreignaffairs.com/united-states/dont-give-global-order
 https://www.foreignaffairs.com/united-states/dont-go-backward-china-policy
+https://www.foreignaffairs.com/united-states/dont-soak-rich
 https://www.foreignaffairs.com/united-states/emerging-us-china-detente
 https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch
 https://www.foreignaffairs.com/united-states/end-american-sanctuary
@@ -1497,6 +1504,7 @@ https://www.foreignaffairs.com/united-states/transatlantic-crucible
 https://www.foreignaffairs.com/united-states/transatlantic-crucible-europe-nato
 https://www.foreignaffairs.com/united-states/triumph-tech-fueled-propaganda
 https://www.foreignaffairs.com/united-states/trouble-nuclear-ai-analogy
+https://www.foreignaffairs.com/united-states/true-meaning-power
 https://www.foreignaffairs.com/united-states/trump-and-xi-cant-stop-us-china-spiral-orville-schell
 https://www.foreignaffairs.com/united-states/trump-gutting-americas-core-geopolitical-advantage
 https://www.foreignaffairs.com/united-states/trumps-china-trap
