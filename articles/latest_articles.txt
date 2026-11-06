@@ -1,9 +1,45 @@
-# Last Run: 2026-11-06 17:16 UTC
+# Last Run: 2026-11-06 22:51 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Global AI Stocks React to U.S. Midterm Results
+Published: 2026-11-06T21:59:39+00:00
+Link: https://foreignpolicy.com/2026/11/06/ai-stock-market-us-midterms-democrats-data-centers-regulation/
+---
+[Foreign_Policy] The U.S. Senate Just Got a Lot Younger
+Published: 2026-11-06T20:46:41+00:00
+Link: https://foreignpolicy.com/2026/11/06/us-midterm-elections-senate-ages-average-decline-oecd/
+---
+[Foreign_Policy] A German Movie Previews Its Far-Right Future
+Published: 2026-11-06T20:00:36+00:00
+Link: https://foreignpolicy.com/2026/11/06/germany-movies-prosecution-film-far-right-afd/
+---
+[Foreign_Policy] ‘Call of Duty’ Has a Message for Hegseth
+Published: 2026-11-06T19:45:52+00:00
+Link: https://foreignpolicy.com/2026/11/06/call-of-duty-modern-warfare-review-video-game-us-military-hegseth/
+---
+[Foreign_Policy] ‘Wild Horse Nine’ Looks Away From Chile’s History
+Published: 2026-11-06T19:15:24+00:00
+Link: https://foreignpolicy.com/2026/11/06/wild-horse-nine-movie-review-chile-cia-coup-history-conspiracy-martin-mcdonagh/
+---
+[Foreign_Policy] Two New Stand-Out Novels From Ireland and South Africa
+Published: 2026-11-06T19:00:27+00:00
+Link: https://foreignpolicy.com/2026/11/06/international-fiction-releases-louise-kennedy-stations-keletso-mopai-we-belong-trees/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-11-06T18:20:41+00:00
+Link: https://foreignpolicy.com/2026/11/06/news-quiz-russia-ukraine-us-midterm-elections-trump-democrats/
+---
+[Foreign_Policy] Do the Democrats Have a Cohesive Economic Plan?
+Published: 2026-11-06T17:41:27+00:00
+Link: https://foreignpolicy.com/2026/11/06/economy-election-congress-trade-affordability-artificial-intelligence-trump-democrats/
+---
 [Foreign_Policy] How America Was Swept by an Anti-Trump Wave
 Published: 2026-11-06T17:14:38+00:00
 Link: https://foreignpolicy.com/2026/11/06/susan-glasser-us-midterms-blue-wave-trump-rebuke-iran-war/
+---
+[Foreign_Policy] How a World War I Crackdown Predicted ICE
+Published: 2026-11-06T16:30:26+00:00
+Link: https://foreignpolicy.com/2026/11/06/backderf-dissidents-review-cartoonists-censorship-press-freedom-ice/
 ---
 [Foreign_Policy] How a World War I Crackdown Predicted ICE
 Published: 2026-11-06T16:30:26+00:00
@@ -15,6 +51,10 @@ Link: https://foreignpolicy.com/2026/11/06/china-xi-jinping-successor-party-cong
 ---
 [Foreign_Policy] The International Power Broker Trying to Normalize Hamas
 Published: 2026-11-06T14:59:23+00:00
+Link: https://foreignpolicy.com/2026/11/06/mohammed-dahlan-gaza-hamas-palestine-elections-israel-negotiations/
+---
+[Foreign_Policy] The International Power Broker Trying to Normalize Hamas
+Published: 2026-11-06T14:59:23+00:00
 Link: https://foreignpolicy.com/2026/11/06/mohammed-dahlan-gaza-hamas-palestine/
 ---
 [Foreign_Policy] How Will the Blue Tsunami Affect Latin America?
@@ -23,7 +63,15 @@ Link: https://foreignpolicy.com/2026/11/06/us-midterm-election-latin-america-tru
 ---
 [Foreign_Affairs] Democrats Shouldn’t Squander Their Chance to Launch a Foreign Policy Revolution
 Published: 2026-11-06T12:36:00+00:00
+Link: https://www.foreignaffairs.com/united-states/matthew-duss-democrats-squander-chance-foreign-policy-congress-midterms
+---
+[Foreign_Affairs] Democrats Shouldn’t Squander Their Chance to Launch a Foreign Policy Revolution
+Published: 2026-11-06T12:36:00+00:00
 Link: https://www.foreignaffairs.com/united-states/democrats-shouldnt-squander-their-chance-launch-foreign-policy-congress-midterms-matthew-duss
+---
+[Foreign_Affairs] The True Meaning of Power
+Published: 2026-11-06T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/true-meaning-power-david-sacks
 ---
 [Foreign_Affairs] Don’t Soak the Rich
 Published: 2026-11-06T09:00:00+00:00
@@ -124,16 +172,4 @@ Link: https://foreignpolicy.com/2026/11/04/southeast-asia-indonesia-russia-ukrai
 [Foreign_Policy] Iran Strikes and Israel Aid Cuts Shake Up Election Day
 Published: 2026-11-03T23:02:31+00:00
 Link: https://foreignpolicy.com/2026/11/03/us-iran-strikes-midterms-israel-aid-ukraine-russia-agoa-australia/
----
-[Foreign_Policy] Chinese AI Stocks Are Slumping, Too
-Published: 2026-11-03T20:49:19+00:00
-Link: https://foreignpolicy.com/2026/11/03/china-ai-stock-market-downturn-bubble-economics/
----
-[Foreign_Policy] China Won’t Bail Out Trump’s Lost War
-Published: 2026-11-03T18:04:35+00:00
-Link: https://foreignpolicy.com/2026/11/03/china-iran-trump-xi-middle-east-interests/
----
-[Foreign_Policy] Soviet Nostalgia Is a Geopolitical Dead End
-Published: 2026-11-03T17:19:19+00:00
-Link: https://foreignpolicy.com/2026/11/03/soviet-ukraine-russia-realism-history-nostalgia/
 ---

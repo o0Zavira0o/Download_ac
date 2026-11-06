@@ -1201,11 +1201,21 @@ https://foreignpolicy.com/2026/11/05/midterm-results-ai-data-centers-texas-georg
 https://foreignpolicy.com/2026/11/05/midterm-results-trump-iran-russia-china-north-korea/
 https://foreignpolicy.com/2026/11/05/morocco-first-woman-leader-head-government-mansouri/
 https://foreignpolicy.com/2026/11/05/us-midterms-israel-immigration-deportation-tariffs-democrats/
+https://foreignpolicy.com/2026/11/06/ai-stock-market-us-midterms-democrats-data-centers-regulation/
+https://foreignpolicy.com/2026/11/06/backderf-dissidents-review-cartoonists-censorship-press-freedom-ice/
+https://foreignpolicy.com/2026/11/06/call-of-duty-modern-warfare-review-video-game-us-military-hegseth/
 https://foreignpolicy.com/2026/11/06/china-xi-jinping-successor-party-congress/
 https://foreignpolicy.com/2026/11/06/dissidents-backderf-cartoonists-ice/
+https://foreignpolicy.com/2026/11/06/economy-election-congress-trade-affordability-artificial-intelligence-trump-democrats/
+https://foreignpolicy.com/2026/11/06/germany-movies-prosecution-film-far-right-afd/
+https://foreignpolicy.com/2026/11/06/international-fiction-releases-louise-kennedy-stations-keletso-mopai-we-belong-trees/
+https://foreignpolicy.com/2026/11/06/mohammed-dahlan-gaza-hamas-palestine-elections-israel-negotiations/
 https://foreignpolicy.com/2026/11/06/mohammed-dahlan-gaza-hamas-palestine/
+https://foreignpolicy.com/2026/11/06/news-quiz-russia-ukraine-us-midterm-elections-trump-democrats/
 https://foreignpolicy.com/2026/11/06/susan-glasser-us-midterms-blue-wave-trump-rebuke-iran-war/
 https://foreignpolicy.com/2026/11/06/us-midterm-election-latin-america-trump-boat-strikes-venezuela/
+https://foreignpolicy.com/2026/11/06/us-midterm-elections-senate-ages-average-decline-oecd/
+https://foreignpolicy.com/2026/11/06/wild-horse-nine-movie-review-chile-cia-coup-history-conspiracy-martin-mcdonagh/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -1465,6 +1475,7 @@ https://www.foreignaffairs.com/united-states/less-more-strategy-america
 https://www.foreignaffairs.com/united-states/limits-american-power-william-mcraven
 https://www.foreignaffairs.com/united-states/losing-war-future-paul-scharre
 https://www.foreignaffairs.com/united-states/lost-art-coercion
+https://www.foreignaffairs.com/united-states/matthew-duss-democrats-squander-chance-foreign-policy-congress-midterms
 https://www.foreignaffairs.com/united-states/maximum-pressure-iran-will-fail
 https://www.foreignaffairs.com/united-states/middle-power-delusion
 https://www.foreignaffairs.com/united-states/military-and-republic
@@ -1505,6 +1516,7 @@ https://www.foreignaffairs.com/united-states/transatlantic-crucible-europe-nato
 https://www.foreignaffairs.com/united-states/triumph-tech-fueled-propaganda
 https://www.foreignaffairs.com/united-states/trouble-nuclear-ai-analogy
 https://www.foreignaffairs.com/united-states/true-meaning-power
+https://www.foreignaffairs.com/united-states/true-meaning-power-david-sacks
 https://www.foreignaffairs.com/united-states/trump-and-xi-cant-stop-us-china-spiral-orville-schell
 https://www.foreignaffairs.com/united-states/trump-gutting-americas-core-geopolitical-advantage
 https://www.foreignaffairs.com/united-states/trumps-china-trap
