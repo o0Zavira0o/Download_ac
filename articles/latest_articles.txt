@@ -1,4 +1,4 @@
-# Last Run: 2026-11-06 02:04 UTC
+# Last Run: 2026-11-06 09:17 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] How Foreign Policy Shaped These 3 Critical Midterm Races
@@ -120,32 +120,4 @@ Link: https://foreignpolicy.com/2026/11/03/china-cyberattacks-united-states-dete
 [Foreign_Policy] Iran Is Talking Peace but Preparing for War
 Published: 2026-11-03T10:59:55+00:00
 Link: https://foreignpolicy.com/2026/11/03/iran-peace-war-rezaei-akhlaghi/
----
-[Foreign_Policy] Vucic Is Leaving. His Economy Remains.
-Published: 2026-11-03T09:00:37+00:00
-Link: https://foreignpolicy.com/2026/11/03/serbia-vucic-elections-economy-europe/
----
-[Foreign_Policy] Vucic Is Leaving. His Economy Remains.
-Published: 2026-11-03T09:00:37+00:00
-Link: https://foreignpolicy.com/2026/11/03/serbia-vucic-is-leaving-his-economy-remains/
----
-[Foreign_Affairs] What Sanctions Get Right
-Published: 2026-11-03T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/what-sanctions-get-right-s-c-m-paine
----
-[Foreign_Affairs] The Fight for the Future of Democratic Foreign Policy
-Published: 2026-11-03T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/fight-future-democratic-foreign-policy
----
-[Foreign_Affairs] What Sanctions Get Right
-Published: 2026-11-03T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/what-sanctions-get-right
----
-[Foreign_Affairs] America’s AI Ambitions Depend on Taiwan
-Published: 2026-11-03T05:00:00+00:00
-Link: https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan-lin-chia-lung
----
-[Foreign_Affairs] America’s AI Ambitions Depend on Taiwan
-Published: 2026-11-03T05:00:00+00:00
-Link: https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan
 ---
