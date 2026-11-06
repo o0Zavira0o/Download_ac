@@ -1,6 +1,18 @@
-# Last Run: 2026-11-05 21:53 UTC
+# Last Run: 2026-11-06 02:04 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How Foreign Policy Shaped These 3 Critical Midterm Races
+Published: 2026-11-05T22:53:29+00:00
+Link: https://foreignpolicy.com/2026/11/05/us-midterms-israel-immigration-deportation-tariffs-democrats/
+---
+[Foreign_Policy] U.S. Foes React to the GOP’s Midterm Wipeout
+Published: 2026-11-05T22:37:16+00:00
+Link: https://foreignpolicy.com/2026/11/05/midterm-results-trump-iran-russia-china-north-korea/
+---
+[Foreign_Policy] Hoax Bomb Threats Disrupt Air Traffic Across Europe
+Published: 2026-11-05T21:34:07+00:00
+Link: https://foreignpolicy.com/2026/11/05/hoax-bomb-threats-europe-airlines-hybrid-warfare-russia/
+---
 [Foreign_Policy] The Post-Midterms AI Reckoning
 Published: 2026-11-05T21:23:32+00:00
 Link: https://foreignpolicy.com/2026/11/05/midterm-results-ai-data-centers-texas-georgia-ohio/
@@ -136,8 +148,4 @@ Link: https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan-
 [Foreign_Affairs] America’s AI Ambitions Depend on Taiwan
 Published: 2026-11-03T05:00:00+00:00
 Link: https://www.foreignaffairs.com/taiwan/americas-ai-ambitions-depend-taiwan
----
-[Foreign_Policy] Trump’s Closing Midterm Message
-Published: 2026-11-02T22:03:19+00:00
-Link: https://foreignpolicy.com/2026/11/02/us-midterm-elections-trump-speech-reflecting-pool-democrats-republicans/
 ---
