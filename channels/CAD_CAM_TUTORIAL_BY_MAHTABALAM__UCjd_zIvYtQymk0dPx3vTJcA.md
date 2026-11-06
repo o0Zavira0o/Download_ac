@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-05T17:16:39Z_
+_آخرین به‌روزرسانی: 2026-11-06T16:41:23Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-06 03:30:30 (UTC)  
+  **مدت:** حدود 22.1 دقیقه  
+  **عنوان:** [Cylinder Body Modeling in SolidWorks (Revolved Boss/Base, Revolved Cut)](https://www.youtube.com/watch?v=wSHqgyus_c8)  
+  ![](https://i.ytimg.com/vi/wSHqgyus_c8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-05 03:30:24 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-05T17:16:39Z_
   **مدت:** حدود 5.5 دقیقه  
   **عنوان:** [How to create Custom Weldments Profile in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=lOAxr1ta5Vc)  
   ![](https://i.ytimg.com/vi/lOAxr1ta5Vc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-09 07:56:17 (UTC)  
-  **مدت:** حدود 137.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | Design of Two Cylinder Engine in Solidworks](https://www.youtube.com/watch?v=MIr-4xyItSA)  
-  ![](https://i.ytimg.com/vi/MIr-4xyItSA/hqdefault.jpg)

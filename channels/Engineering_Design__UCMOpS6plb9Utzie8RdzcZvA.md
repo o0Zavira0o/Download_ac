@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-05T17:16:39Z_
+_آخرین به‌روزرسانی: 2026-11-06T16:41:23Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-06 02:28:53 (UTC)  
+  **مدت:** حدود 5.4 دقیقه  
+  **عنوان:** [SolidCraft FREE Software 😱 | 2D Drawing to 3D Model in 5 Mins | Full Tutorial for Beginners!](https://www.youtube.com/watch?v=why8JUtRf7A)  
+  ![](https://i.ytimg.com/vi/why8JUtRf7A/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-05 03:30:14 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-05T17:16:39Z_
   **مدت:** حدود 13.1 دقیقه  
   **عنوان:** [Level Up Your SolidWorks Skills: Scissor Lift Assembly Tutorial](https://www.youtube.com/watch?v=j0i0r9vZDvs)  
   ![](https://i.ytimg.com/vi/j0i0r9vZDvs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-07 14:38:52 (UTC)  
-  **مدت:** حدود 12.8 دقیقه  
-  **عنوان:** [Want to Design Minimal Surfaces? Watch This Solidworks Tutorial](https://www.youtube.com/watch?v=9WasC_DsXuM)  
-  ![](https://i.ytimg.com/vi/9WasC_DsXuM/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-05T17:16:39Z_
+_آخرین به‌روزرسانی: 2026-11-06T16:41:23Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-06 12:03:08 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Sehenswürdigkeiten Klagenfurt](https://www.youtube.com/watch?v=eRgFjdusziY)  
+  ![](https://i.ytimg.com/vi/eRgFjdusziY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-05 06:18:25 (UTC)  
@@ -14,7 +20,7 @@ _آخرین به‌روزرسانی: 2026-11-05T17:16:39Z_
 
 - **تاریخ انتشار:** 2026-11-04 18:00:17 (UTC)  
   **مدت:** حدود 16.4 دقیقه  
-  **عنوان:** [How to Get a Drivers License in Germany](https://www.youtube.com/watch?v=aiFJ11GY7sE)  
+  **عنوان:** [Everything You Need to Know About the German Drivers License](https://www.youtube.com/watch?v=aiFJ11GY7sE)  
   ![](https://i.ytimg.com/vi/aiFJ11GY7sE/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-05T17:16:39Z_
   **مدت:** حدود 7.1 دقیقه  
   **عنوان:** [What do I see in the Streets (accusative exercise) | Super Easy German (41)](https://www.youtube.com/watch?v=ZgmVwPjTtM4)  
   ![](https://i.ytimg.com/vi/ZgmVwPjTtM4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-23 17:11:25 (UTC)  
-  **مدت:** حدود 10.1 دقیقه  
-  **عنوان:** [What Germans have for Breakfast | Easy German 204](https://www.youtube.com/watch?v=kwdnxwQCoXM)  
-  ![](https://i.ytimg.com/vi/kwdnxwQCoXM/hqdefault.jpg)
