@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-11-06T16:41:23Z_
+_آخرین به‌روزرسانی: 2026-11-07T15:36:11Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-11-07 10:00:06 (UTC)  
+  **مدت:** حدود 15.0 دقیقه  
+  **عنوان:** [51,TINY SHIMA ENAGA | Palm-Sized Origami Bird | シマエナガの折り紙【無言の折り紙】](https://www.youtube.com/watch?v=gXOLuCRqGGE)  
+  ![](https://i.ytimg.com/vi/gXOLuCRqGGE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-31 10:00:09 (UTC)  
