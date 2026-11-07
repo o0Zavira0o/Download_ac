@@ -1,4 +1,4 @@
-# Last Run: 2026-11-07 04:59 UTC
+# Last Run: 2026-11-07 12:37 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Global AI Stocks React to U.S. Midterm Results
@@ -156,16 +156,4 @@ Link: https://foreignpolicy.com/2026/11/04/midterm-elections-progressive-democra
 [Foreign_Policy] The Beginning of the End of Trumpism
 Published: 2026-11-04T12:43:00+00:00
 Link: https://foreignpolicy.com/2026/11/04/democrats-midterms-senate-house-united-states-trump-global-backlash/
----
-[Foreign_Affairs] The Missing Critical Minerals Investment
-Published: 2026-11-04T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/missing-critical-minerals-investment
----
-[Foreign_Affairs] The Dangers of a Lame-Duck Trump
-Published: 2026-11-04T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/dangers-lame-duck-trump
----
-[Foreign_Policy] Why Are Indonesians Dying in Ukraine?
-Published: 2026-11-04T06:00:45+00:00
-Link: https://foreignpolicy.com/2026/11/04/southeast-asia-indonesia-russia-ukraine-war-recruitment/
 ---
