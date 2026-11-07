@@ -1,4 +1,4 @@
-# Last Run: 2026-11-07 18:32 UTC
+# Last Run: 2026-11-07 23:30 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Global AI Stocks React to U.S. Midterm Results
@@ -112,28 +112,4 @@ Link: https://www.foreignaffairs.com/united-states/new-congress-can-repair-civil
 [Foreign_Affairs] China’s Economics of Denial
 Published: 2026-11-05T09:00:00+00:00
 Link: https://www.foreignaffairs.com/china/chinas-economics-denial
----
-[Foreign_Policy] Americans Care About Foreign Policy. Now Democrats Must Listen to Them.
-Published: 2026-11-04T23:23:56+00:00
-Link: https://foreignpolicy.com/2026/11/04/us-midterm-elections-democrats-trump-israel-iran/
----
-[Foreign_Policy] Trump Has Shifted the U.S.-Pakistan Relationship
-Published: 2026-11-04T22:13:59+00:00
-Link: https://foreignpolicy.com/2026/11/04/pakistan-us-trump-business-ties-lng-project/
----
-[Foreign_Policy] U.N. Peacekeepers Are Leaving Western Sahara. What Does That Mean?
-Published: 2026-11-04T20:56:42+00:00
-Link: https://foreignpolicy.com/2026/11/04/un-peacekeeping-mission-western-sahara-africa-morocco/
----
-[Foreign_Policy] Democrats Won Big in the U.S. Midterms. What’s Next?
-Published: 2026-11-04T20:51:17+00:00
-Link: https://foreignpolicy.com/2026/11/04/us-midterm-election-democrats-congress-iran-war-economy-corruption-trump/
----
-[Foreign_Policy] Vance Blames Iran War for GOP Midterms Wipeout
-Published: 2026-11-04T20:01:51+00:00
-Link: https://foreignpolicy.com/2026/11/04/vance-midterms-blames-iran-war-trump-republicans/
----
-[Foreign_Policy] For Ukrainians, U.S. Midterm Results Bring Some Hope
-Published: 2026-11-04T18:41:21+00:00
-Link: https://foreignpolicy.com/2026/11/04/us-midterms-democrats-ukraine-russia/
 ---
