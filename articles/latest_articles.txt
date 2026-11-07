@@ -1,4 +1,4 @@
-# Last Run: 2026-11-07 12:37 UTC
+# Last Run: 2026-11-07 18:32 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Global AI Stocks React to U.S. Midterm Results
@@ -136,24 +136,4 @@ Link: https://foreignpolicy.com/2026/11/04/vance-midterms-blames-iran-war-trump-
 [Foreign_Policy] For Ukrainians, U.S. Midterm Results Bring Some Hope
 Published: 2026-11-04T18:41:21+00:00
 Link: https://foreignpolicy.com/2026/11/04/us-midterms-democrats-ukraine-russia/
----
-[Foreign_Policy] Trump’s Next Trade War Could Be With Congress
-Published: 2026-11-04T18:02:50+00:00
-Link: https://foreignpolicy.com/2026/11/04/midterms-democrats-trump-tariffs-trade-war-congress/
----
-[Foreign_Policy] Where Democrats Can Thwart Trump’s Foreign Policy
-Published: 2026-11-04T14:23:05+00:00
-Link: https://foreignpolicy.com/2026/11/04/midterm-election-results-democrats-congress-trump-iran-war-oversight/
----
-[Foreign_Policy] U.S. Democracy Is Back—Sort of
-Published: 2026-11-04T14:18:01+00:00
-Link: https://foreignpolicy.com/2026/11/04/election-trump-democrats-congress-senate-house-vote/
----
-[Foreign_Policy] Democrats Have a Historic Opportunity to Rethink Capitalism
-Published: 2026-11-04T12:47:12+00:00
-Link: https://foreignpolicy.com/2026/11/04/midterm-elections-progressive-democratic-socialism-us-capitalism/
----
-[Foreign_Policy] The Beginning of the End of Trumpism
-Published: 2026-11-04T12:43:00+00:00
-Link: https://foreignpolicy.com/2026/11/04/democrats-midterms-senate-house-united-states-trump-global-backlash/
 ---
