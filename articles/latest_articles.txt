@@ -1,4 +1,4 @@
-# Last Run: 2026-11-06 22:51 UTC
+# Last Run: 2026-11-07 04:59 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Global AI Stocks React to U.S. Midterm Results
@@ -168,8 +168,4 @@ Link: https://www.foreignaffairs.com/united-states/dangers-lame-duck-trump
 [Foreign_Policy] Why Are Indonesians Dying in Ukraine?
 Published: 2026-11-04T06:00:45+00:00
 Link: https://foreignpolicy.com/2026/11/04/southeast-asia-indonesia-russia-ukraine-war-recruitment/
----
-[Foreign_Policy] Iran Strikes and Israel Aid Cuts Shake Up Election Day
-Published: 2026-11-03T23:02:31+00:00
-Link: https://foreignpolicy.com/2026/11/03/us-iran-strikes-midterms-israel-aid-ukraine-russia-agoa-australia/
 ---
