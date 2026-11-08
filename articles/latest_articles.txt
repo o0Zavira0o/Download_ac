@@ -1,6 +1,30 @@
-# Last Run: 2026-11-08 04:54 UTC
+# Last Run: 2026-11-08 12:55 UTC
 # Articles published in last 72 hours
 
+[New_Yorker_Magazine] “Vers Libre,” by Jane Huffman
+Published: 2026-11-08T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/vers-libre-jane-huffman-poem
+---
+[New_Yorker_Magazine] “After Rothko,” by David Biespiel
+Published: 2026-11-08T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/after-rothko-david-biespiel-poem
+---
+[New_Yorker_Magazine] An N.B.A. Player Got Hooked on Sports Betting. Soon, He Became the Bet
+Published: 2026-11-08T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/the-nba-player-who-got-hooked-on-sports-betting
+---
+[New_Yorker_Magazine] “The Death of a Certain Woman,” by Yasushi Inoue
+Published: 2026-11-08T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/the-death-of-a-certain-woman-fiction-yasushi-inoue
+---
+[New_Yorker_Magazine] Breaking the Decade-Long Trump Fever
+Published: 2026-11-07T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/breaking-the-decade-long-trump-fever
+---
+[New_Yorker_Magazine] I’ll Take Blue Florida for Five Hundred
+Published: 2026-11-07T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/ill-take-blue-florida-for-five-hundred
+---
 [Foreign_Policy] Global AI Stocks React to U.S. Midterm Results
 Published: 2026-11-06T21:59:39+00:00
 Link: https://foreignpolicy.com/2026/11/06/ai-stock-market-us-midterms-democrats-data-centers-regulation/
@@ -69,6 +93,10 @@ Link: https://www.foreignaffairs.com/united-states/matthew-duss-democrats-squand
 Published: 2026-11-06T12:36:00+00:00
 Link: https://www.foreignaffairs.com/united-states/democrats-shouldnt-squander-their-chance-launch-foreign-policy-congress-midterms-matthew-duss
 ---
+[New_Yorker_Magazine] “Paper Tiger” Views Family as Deadweight
+Published: 2026-11-06T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/paper-tiger-movie-review
+---
 [Foreign_Affairs] The True Meaning of Power
 Published: 2026-11-06T09:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/true-meaning-power-david-sacks
@@ -104,12 +132,4 @@ Link: https://foreignpolicy.com/2026/11/05/morocco-first-woman-leader-head-gover
 [Foreign_Policy] Palestinian Voters Gave Eisenkot a Chance to Govern—He Should Take It
 Published: 2026-11-05T17:39:27+00:00
 Link: https://foreignpolicy.com/2026/11/05/israel-election-netanyahu-palestinian-eisenkot-coalition-government/
----
-[Foreign_Affairs] The New Congress Can Repair Civil-Military Relations
-Published: 2026-11-05T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/new-congress-can-repair-civil-military-relations
----
-[Foreign_Affairs] China’s Economics of Denial
-Published: 2026-11-05T09:00:00+00:00
-Link: https://www.foreignaffairs.com/china/chinas-economics-denial
 ---
