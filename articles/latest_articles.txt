@@ -1,4 +1,4 @@
-# Last Run: 2026-11-08 12:55 UTC
+# Last Run: 2026-11-08 18:42 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] “Vers Libre,” by Jane Huffman
@@ -124,12 +124,4 @@ Link: https://foreignpolicy.com/2026/11/05/hoax-bomb-threats-europe-airlines-hyb
 [Foreign_Policy] The Post-Midterms AI Reckoning
 Published: 2026-11-05T21:23:32+00:00
 Link: https://foreignpolicy.com/2026/11/05/midterm-results-ai-data-centers-texas-georgia-ohio/
----
-[Foreign_Policy] What Does Morocco’s First Woman Leader Actually Mean for the Country?
-Published: 2026-11-05T18:00:23+00:00
-Link: https://foreignpolicy.com/2026/11/05/morocco-first-woman-leader-head-government-mansouri/
----
-[Foreign_Policy] Palestinian Voters Gave Eisenkot a Chance to Govern—He Should Take It
-Published: 2026-11-05T17:39:27+00:00
-Link: https://foreignpolicy.com/2026/11/05/israel-election-netanyahu-palestinian-eisenkot-coalition-government/
 ---
