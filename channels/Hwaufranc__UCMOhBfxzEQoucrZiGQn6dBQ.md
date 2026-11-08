@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-11-07T15:36:11Z_
+_آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-11-08 13:20:27 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [ASMR 반짝이는 diy 카드 꾸미기🎄 #asmr #카드꾸미기 #diy꾸미기](https://www.youtube.com/watch?v=6_aNfldYx7Y)  
+  ![](https://i.ytimg.com/vi/6_aNfldYx7Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-07 13:20:28 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-11-07T15:36:11Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [Pumpkin🎃1/2 Journaling 다꾸 ASMR #journal #journaling #asmr #scrabooking](https://www.youtube.com/watch?v=6WkRXMfmV7c)  
   ![](https://i.ytimg.com/vi/6WkRXMfmV7c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-08-10 13:42:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Pumpkin🎃2/2 Journaling 다꾸 ASMR #journal #journaling #asmr #scrabooking](https://www.youtube.com/watch?v=hSLx72UojkY)  
-  ![](https://i.ytimg.com/vi/hSLx72UojkY/hqdefault.jpg)

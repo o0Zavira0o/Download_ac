@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-07T15:36:11Z_
+_آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-08 05:55:58 (UTC)  
+  **مدت:** حدود 4.9 دقیقه  
+  **عنوان:** [SolidCraft FREE Software? 😱 Learn 3D Design From ZERO | Beginner Tutorial](https://www.youtube.com/watch?v=rFqzEq_UbM4)  
+  ![](https://i.ytimg.com/vi/rFqzEq_UbM4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-06 02:28:53 (UTC)  
@@ -26,7 +32,7 @@ _آخرین به‌روزرسانی: 2026-11-07T15:36:11Z_
 
 - **تاریخ انتشار:** 2026-11-03 11:51:33 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [FREE SolidWorks Alternative? SolidCraft FREE CAD Software - Sample Plate 3D Modeling](https://www.youtube.com/watch?v=Cwov5QLKM1M)  
+  **عنوان:** [SolidCraft vs SolidWorks: Is This The Best Free CAD?](https://www.youtube.com/watch?v=Cwov5QLKM1M)  
   ![](https://i.ytimg.com/vi/Cwov5QLKM1M/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-07T15:36:11Z_
   **مدت:** حدود 21.1 دقیقه  
   **عنوان:** [Learn to Build a Helical Gear Box in SolidWorks: Full Assembly Tutorial](https://www.youtube.com/watch?v=p3UTzr5uMk0)  
   ![](https://i.ytimg.com/vi/p3UTzr5uMk0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-14 12:05:00 (UTC)  
-  **مدت:** حدود 13.1 دقیقه  
-  **عنوان:** [Level Up Your SolidWorks Skills: Scissor Lift Assembly Tutorial](https://www.youtube.com/watch?v=j0i0r9vZDvs)  
-  ![](https://i.ytimg.com/vi/j0i0r9vZDvs/hqdefault.jpg)

@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-07T15:36:11Z_
+_آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-08 11:24:45 (UTC)  
+  **مدت:** حدود 6.6 دقیقه  
+  **عنوان:** [How to Equation driven curve (Parabola X²=225/32(Z+32)) represented in SolidWorks?](https://www.youtube.com/watch?v=QfZaPpEfgTA)  
+  ![](https://i.ytimg.com/vi/QfZaPpEfgTA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-07 15:47:47 (UTC)  
+  **مدت:** حدود 16.5 دقیقه  
+  **عنوان:** [SolidWorks Advanced exercise-Wooden Stool](https://www.youtube.com/watch?v=v_ruVnaI5-o)  
+  ![](https://i.ytimg.com/vi/v_ruVnaI5-o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-06 03:30:30 (UTC)  
@@ -8992,15 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-07T15:36:11Z_
   **مدت:** حدود 86.0 دقیقه  
   **عنوان:** [Solidworks tutorial | Sketch Hydraulic Cylinder in Solidworks](https://www.youtube.com/watch?v=uKmXO42MpIk)  
   ![](https://i.ytimg.com/vi/uKmXO42MpIk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-13 04:41:56 (UTC)  
-  **مدت:** حدود 80.7 دقیقه  
-  **عنوان:** [Solidworks tutorial | Design and Assembly Scissor Lift in Solidworks](https://www.youtube.com/watch?v=-SZ4WHqgZn8)  
-  ![](https://i.ytimg.com/vi/-SZ4WHqgZn8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-11 11:30:21 (UTC)  
-  **مدت:** حدود 5.5 دقیقه  
-  **عنوان:** [How to create Custom Weldments Profile in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=lOAxr1ta5Vc)  
-  ![](https://i.ytimg.com/vi/lOAxr1ta5Vc/hqdefault.jpg)

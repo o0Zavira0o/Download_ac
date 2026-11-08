@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-07T15:36:11Z_
+_آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-07 16:36:30 (UTC)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Wer ist emotionaler?](https://www.youtube.com/watch?v=jIgMoGba2IY)  
+  ![](https://i.ytimg.com/vi/jIgMoGba2IY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-06 12:03:08 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-07T15:36:11Z_
   **مدت:** حدود 10.3 دقیقه  
   **عنوان:** [What do you like about your profession? | Easy German 205](https://www.youtube.com/watch?v=qFDZu0CDHYs)  
   ![](https://i.ytimg.com/vi/qFDZu0CDHYs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-26 17:01:31 (UTC)  
-  **مدت:** حدود 7.1 دقیقه  
-  **عنوان:** [What do I see in the Streets (accusative exercise) | Super Easy German (41)](https://www.youtube.com/watch?v=ZgmVwPjTtM4)  
-  ![](https://i.ytimg.com/vi/ZgmVwPjTtM4/hqdefault.jpg)
