@@ -1,4 +1,220 @@
 ================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | IrGens
+Title  : PostgreSQL High Availability and Scalability
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 42m | 347 MB
+Link   : http://zavat.pw/ebooks/postgresql-high-availability-scalability.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | IrGens
+Title  : Introduction to Version Control with Git
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 59m | 160 MB
+Link   : http://zavat.pw/ebooks/git-version-control-introduction.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | IrGens
+Title  : Stream Data Changes with SQL Server 2025 Change Event Streaming
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 20m | 193 MB
+Link   : http://zavat.pw/ebooks/sql-server-25-change-event-streaming.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | IrGens
+Title  : Multi-Cloud Data Strategies for AI and ML Workloads
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 49m | 256 MB
+Link   : http://zavat.pw/ebooks/ai-ml-workloads-multi-cloud-strategies.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | IrGens
+Title  : Security Hardening and System Monitoring in Ubuntu Linux
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 45m | 256 MB
+Link   : http://zavat.pw/ebooks/ubuntu-linux-security-hardening-system-monitoring.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | IrGens
+Title  : Spec-driven Development with AI in Practice
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 10m | 513 MB
+Link   : http://zavat.pw/ebooks/spec-driven-development-ai-practice.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : Essentials of the Adult Neurogenic Bladder
+Details: English | 2021 | ISBN: 0367335808 | 363 Pages | PDF (True) | 16 MB
+Link   : http://zavat.pw/ebooks/0367335808.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : Understanding Diabetic Foot
+Details: English | 2023 | ISBN: 9811269351 | 368 Pages | PDF (True) | 153 MB
+Link   : http://zavat.pw/ebooks/9811269351E.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : Resolving the Cholesterol Controversy
+Details: English | 2023 | ISBN: 1800613970 | 255 Pages | EPUB (True) | 4 MB
+Link   : http://zavat.pw/ebooks/1800613970E.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : History of Britain & Ireland: The Definitive Visual Guide
+Details: English | 2019 | ISBN: 1465482474 | 400 Pages | EPUB (True) | 231 MB
+Link   : http://zavat.pw/ebooks/1465482474F.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : The Clinical Utility of a Wellness Lens in Global Mental Health
+Details: English | 2026 | ISBN: 3032283817 | 113 Pages | PDF EPUB (True) | 6 MB
+Link   : http://zavat.pw/ebooks/3032283817.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : Moulding a Durable Organisational Identity: A Practice Guide
+Details: English | 2026 | ISBN: 3032203953 | 196 Pages | PDF EPUB (True) | 20 MB
+Link   : http://zavat.pw/ebooks/3032203953.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : Physical Modality
+Details: English | 2026 | ISBN: 3032293278 | 307 Pages | PDF EPUB (True) | 2.4 MB
+Link   : http://zavat.pw/ebooks/3032293278.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : Validating Financial Crime Risk Models
+Details: English | 2026 | ISBN: 3032249813 | 286 Pages | PDF EPUB (True) | 3.3 MB
+Link   : http://zavat.pw/ebooks/3032249813.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : The Handbook of Large-Size Economies Development
+Details: English | 2026 | ISBN: 981958051X | 494 Pages | PDF EPUB (True) | 14 MB
+Link   : http://zavat.pw/ebooks/981958051X.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : Human Resource Analytics and Data-Driven Decision-Making
+Details: English | 2026 | ISBN: 3032284392 | 210 Pages | PDF EPUB (True) | 27 MB
+Link   : http://zavat.pw/ebooks/3032284392.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : Agricultural Weather Index Insurance Practice in China
+Details: English | 2026 | ISBN: 9819536731 | 204 Pages | PDF EPUB (True) | 8 MB
+Link   : http://zavat.pw/ebooks/9819536731.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : 25 Years of Internet and Democracy
+Details: English | 2026 | ISBN: 3032119529 | 378 Pages | PDF EPUB (True) | 8 MB
+Link   : http://zavat.pw/ebooks/3032119529.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : Goethe and Psychology
+Details: English | 2026 | ISBN: 3032224845 | 294 Pages | PDF EPUB (True) | 13 MB
+Link   : http://zavat.pw/ebooks/3032224845.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : Criminology, Therapy, and the Ever-Evolving Offender
+Details: English | 2026 | ISBN: 3032287375 | 185 Pages | PDF EPUB (True) | 5 MB
+Link   : http://zavat.pw/ebooks/3032287375.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | hill0
+Title  : Le Temps - 9 Novembre 2026
+Details: Français | 18 pages | True PDF | 13 MB
+Link   : http://zavat.pw/newspapers/le-temps-20261109.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Corriere dello Sport Stadio - 9 Novembre 2026
+Details: Italiano | 48 pages | True PDF | 20 MB
+Link   : http://zavat.pw/newspapers/CorrieredelloSportStadio9Novembre2026-64221.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Il Tempo - 9 Novembre 2026
+Details: Italiano | 24 pages | True PDF | 9 MB
+Link   : http://zavat.pw/newspapers/IlTempo9Novembre2026-92656.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : South Wales Evening Post - 9 November 2026
+Details: English | 48 pages | PDF | 54 MB
+Link   : http://zavat.pw/newspapers/SouthWalesEveningPost9November2026-56270.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Daily Express (Irish) - 9 November 2026
+Details: English | 72 pages | PDF | 85 MB
+Link   : http://zavat.pw/newspapers/DailyExpressIrish9November2026-83413.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Nottingham Post - 9 November 2026
+Details: English | 40 pages | PDF | 43 MB
+Link   : http://zavat.pw/newspapers/NottinghamPost9November2026-31919.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Derby Telegraph - 9 November 2026
+Details: English | 48 pages | PDF | 55 MB
+Link   : http://zavat.pw/newspapers/DerbyTelegraph9November2026-45992.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Western Morning News - 9 November 2026
+Details: English | 40 pages | PDF | 48 MB
+Link   : http://zavat.pw/newspapers/WesternMorningNews9November2026-79010.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Record - 9 Novembro 2026
+Details: Portuguese | 36 pages | True PDF | 24 MB
+Link   : http://zavat.pw/newspapers/Record9Novembro2026-35446.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Stoke Sentinel - 9 November 2026
+Details: English | 48 pages | PDF | 55 MB
+Link   : http://zavat.pw/newspapers/StokeSentinel9November2026-61158.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Western Daily Press - 9 November 2026
+Details: English | 40 pages | PDF | 47 MB
+Link   : http://zavat.pw/newspapers/WesternDailyPress9November2026-04536.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Western Mail - 9 November 2026
+Details: English | 48 pages | PDF | 58 MB
+Link   : http://zavat.pw/newspapers/WesternMail9November2026-76507.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Hull Daily Mail - 9 November 2026
+Details: English | 48 pages | PDF | 51 MB
+Link   : http://zavat.pw/newspapers/HullDailyMail9November2026-76872.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Bristol Post - 9 November 2026
+Details: English | 48 pages | PDF | 53 MB
+Link   : http://zavat.pw/newspapers/BristolPost9November2026-21685.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Plymouth Herald - 9 November 2026
+Details: English | 40 pages | PDF | 44 MB
+Link   : http://zavat.pw/newspapers/PlymouthHerald9November2026-79559.html
+
+================================================================================
+2026-11-09 10:28:57 (Asia/Tehran) | crazy-slim
+Title  : Newcastle Journal - 9 November 2026
+Details: English | 40 pages | PDF | 46 MB
+Link   : http://zavat.pw/newspapers/NewcastleJournal9November2026-09747.html
+
+================================================================================
 2026-11-09 03:54:11 (Asia/Tehran) | crazy-slim
 Title  : Casa Brutus (カーサ・ブルータス) - December 2026
 Details: 日本語 | 212 pages | PDF | 136 MB
