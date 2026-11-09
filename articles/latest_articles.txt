@@ -1,6 +1,22 @@
-# Last Run: 2026-11-09 05:01 UTC
+# Last Run: 2026-11-09 15:28 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The New Epicenter of Global Terror
+Published: 2026-11-09T09:00:00+00:00
+Link: https://www.foreignaffairs.com/nigeria/new-epicenter-global-terror
+---
+[Foreign_Affairs] A Recipe for Disaster in Taiwan
+Published: 2026-11-09T09:00:00+00:00
+Link: https://www.foreignaffairs.com/taiwan/recipe-disaster-taiwan-lissner-rapp-hooper
+---
+[Foreign_Policy] The Experts Are Taking Their Revenge Again
+Published: 2026-11-09T08:08:55+00:00
+Link: https://foreignpolicy.com/2026/11/09/trump-iran-cia-intelligence/
+---
+[Foreign_Policy] Is Hegseth the New Rumsfeld?
+Published: 2026-11-09T05:01:06+00:00
+Link: https://foreignpolicy.com/2026/11/09/hegseth-rumsfeld-impeach-congress/
+---
 [New_Yorker_Magazine] “Vers Libre,” by Jane Huffman
 Published: 2026-11-08T11:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/16/vers-libre-jane-huffman-poem
@@ -72,40 +88,4 @@ Link: https://foreignpolicy.com/2026/11/06/dissidents-backderf-cartoonists-ice/
 [Foreign_Policy] Who Will Succeed Xi Jinping?
 Published: 2026-11-06T16:18:57+00:00
 Link: https://foreignpolicy.com/2026/11/06/china-xi-jinping-successor-party-congress/
----
-[Foreign_Policy] The International Power Broker Trying to Normalize Hamas
-Published: 2026-11-06T14:59:23+00:00
-Link: https://foreignpolicy.com/2026/11/06/mohammed-dahlan-gaza-hamas-palestine-elections-israel-negotiations/
----
-[Foreign_Policy] The International Power Broker Trying to Normalize Hamas
-Published: 2026-11-06T14:59:23+00:00
-Link: https://foreignpolicy.com/2026/11/06/mohammed-dahlan-gaza-hamas-palestine/
----
-[Foreign_Policy] How Will the Blue Tsunami Affect Latin America?
-Published: 2026-11-06T13:00:32+00:00
-Link: https://foreignpolicy.com/2026/11/06/us-midterm-election-latin-america-trump-boat-strikes-venezuela/
----
-[Foreign_Affairs] Democrats Shouldn’t Squander Their Chance to Launch a Foreign Policy Revolution
-Published: 2026-11-06T12:36:00+00:00
-Link: https://www.foreignaffairs.com/united-states/matthew-duss-democrats-squander-chance-foreign-policy-congress-midterms
----
-[Foreign_Affairs] Democrats Shouldn’t Squander Their Chance to Launch a Foreign Policy Revolution
-Published: 2026-11-06T12:36:00+00:00
-Link: https://www.foreignaffairs.com/united-states/democrats-shouldnt-squander-their-chance-launch-foreign-policy-congress-midterms-matthew-duss
----
-[New_Yorker_Magazine] “Paper Tiger” Views Family as Deadweight
-Published: 2026-11-06T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/paper-tiger-movie-review
----
-[Foreign_Affairs] The True Meaning of Power
-Published: 2026-11-06T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/true-meaning-power-david-sacks
----
-[Foreign_Affairs] Don’t Soak the Rich
-Published: 2026-11-06T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/dont-soak-rich
----
-[Foreign_Affairs] The True Meaning of Power
-Published: 2026-11-06T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/true-meaning-power
 ---
