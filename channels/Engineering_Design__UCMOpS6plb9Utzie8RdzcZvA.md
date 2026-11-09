@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
+_آخرین به‌روزرسانی: 2026-11-09T19:42:39Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-09 13:14:39 (UTC)  
+  **مدت:** حدود 8.3 دقیقه  
+  **عنوان:** [How To Make a 90° Elbow In SolidWorks? Full Step By Step Tutorial](https://www.youtube.com/watch?v=S2aYfYXWM_k)  
+  ![](https://i.ytimg.com/vi/S2aYfYXWM_k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-08 05:55:58 (UTC)  
@@ -26,7 +32,7 @@ _آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
 
 - **تاریخ انتشار:** 2026-11-04 10:27:45 (UTC)  
   **مدت:** حدود 6.2 دقیقه  
-  **عنوان:** [SolidCraft Tutorial for Beginners 🔥 | Download FREE Open-Source CAD Software & 3D Modeling](https://www.youtube.com/watch?v=q7zSB7fJnUg)  
+  **عنوان:** [Don't Buy Expensive CAD Until You Watch This!](https://www.youtube.com/watch?v=q7zSB7fJnUg)  
   ![](https://i.ytimg.com/vi/q7zSB7fJnUg/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅How a Spring Latch Lock Works❓](https://www.youtube.com/watch?v=PMPKaPSZaq4)  
   ![](https://i.ytimg.com/vi/PMPKaPSZaq4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-17 12:07:47 (UTC)  
-  **مدت:** حدود 21.1 دقیقه  
-  **عنوان:** [Learn to Build a Helical Gear Box in SolidWorks: Full Assembly Tutorial](https://www.youtube.com/watch?v=p3UTzr5uMk0)  
-  ![](https://i.ytimg.com/vi/p3UTzr5uMk0/hqdefault.jpg)

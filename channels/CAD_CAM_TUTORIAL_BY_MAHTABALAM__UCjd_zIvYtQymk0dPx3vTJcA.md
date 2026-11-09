@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
+_آخرین به‌روزرسانی: 2026-11-09T19:42:39Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-09 09:45:50 (UTC)  
+  **مدت:** حدود 39.4 دقیقه  
+  **عنوان:** [Box Lid Modeling in SolidWorks (Revolved Boss/Base, Revolved Cut)](https://www.youtube.com/watch?v=20gwvbBFxWY)  
+  ![](https://i.ytimg.com/vi/20gwvbBFxWY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-08 11:24:45 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
   **مدت:** حدود 104.2 دقیقه  
   **عنوان:** [Solidworks tutorial | Design and Assembly of Swiss Pliers in Solidworks](https://www.youtube.com/watch?v=xqHxo-nMVdE)  
   ![](https://i.ytimg.com/vi/xqHxo-nMVdE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-15 07:09:40 (UTC)  
-  **مدت:** حدود 86.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sketch Hydraulic Cylinder in Solidworks](https://www.youtube.com/watch?v=uKmXO42MpIk)  
-  ![](https://i.ytimg.com/vi/uKmXO42MpIk/hqdefault.jpg)

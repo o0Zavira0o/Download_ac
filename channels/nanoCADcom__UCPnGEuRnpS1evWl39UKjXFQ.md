@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
+_آخرین به‌روزرسانی: 2026-11-09T19:42:39Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-11-09 14:15:37 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [From Sketch to 3D Part in nanoCAD #nanoCAD #3DModeling #CAD #Shorts #CADTutorial #3DDesign](https://www.youtube.com/watch?v=7sf5fgqOwgQ)  
+  ![](https://i.ytimg.com/vi/7sf5fgqOwgQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-05 01:00:04 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
   **مدت:** حدود 4.2 دقیقه  
   **عنوان:** [Working With Text - Lesson 24](https://www.youtube.com/watch?v=e0s9U6jranE)  
   ![](https://i.ytimg.com/vi/e0s9U6jranE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-05-07 09:04:12 (UTC)  
-  **مدت:** حدود 6.6 دقیقه  
-  **عنوان:** [Layer Utility Commands - Lesson 23](https://www.youtube.com/watch?v=3zQtBAD9t8w)  
-  ![](https://i.ytimg.com/vi/3zQtBAD9t8w/hqdefault.jpg)

@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
+_آخرین به‌روزرسانی: 2026-11-09T19:42:39Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,7 +10,7 @@ _آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
 
 - **تاریخ انتشار:** 2026-11-08 14:53:06 (UTC)  
   **مدت:** حدود 21.9 دقیقه  
-  **عنوان:** [Everything That Burns Fat Faster Than 10K Steps/Day](https://www.youtube.com/watch?v=C-KqNLIKrXM)  
+  **عنوان:** [It’s Tough, But Burns Fat 4x Faster Than 10K Steps/Day](https://www.youtube.com/watch?v=C-KqNLIKrXM)  
   ![](https://i.ytimg.com/vi/C-KqNLIKrXM/hqdefault.jpg)
 
 

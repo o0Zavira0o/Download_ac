@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
+_آخرین به‌روزرسانی: 2026-11-09T19:42:39Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-09 10:17:28 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Agnesa möchte eine Ausbildung machen](https://www.youtube.com/watch?v=yaqrxLIFnv4)  
+  ![](https://i.ytimg.com/vi/yaqrxLIFnv4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-08 18:00:36 (UTC)  
+  **مدت:** حدود 15.4 دقیقه  
+  **عنوان:** [Learn Everyday German in Chemnitz](https://www.youtube.com/watch?v=l15FIo3a1jk)  
+  ![](https://i.ytimg.com/vi/l15FIo3a1jk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-07 16:36:30 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
   **مدت:** حدود 8.1 دقیقه  
   **عنوان:** [What Germans think about Canada | Easy German 206](https://www.youtube.com/watch?v=M6l8kFDgElw)  
   ![](https://i.ytimg.com/vi/M6l8kFDgElw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-08-02 19:18:30 (UTC)  
-  **مدت:** حدود 8.4 دقیقه  
-  **عنوان:** [Shops you see in Germany | Super Easy German 42](https://www.youtube.com/watch?v=2kfkQN3_rNM)  
-  ![](https://i.ytimg.com/vi/2kfkQN3_rNM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-30 16:56:37 (UTC)  
-  **مدت:** حدود 10.3 دقیقه  
-  **عنوان:** [What do you like about your profession? | Easy German 205](https://www.youtube.com/watch?v=qFDZu0CDHYs)  
-  ![](https://i.ytimg.com/vi/qFDZu0CDHYs/hqdefault.jpg)

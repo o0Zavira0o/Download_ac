@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
+_آخرین به‌روزرسانی: 2026-11-09T19:42:39Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-11-09 15:12:40 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [How to apply perfect isometric drawing dimensions in solidworks 😀#shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=yBiWsrwxh8g)  
+  ![](https://i.ytimg.com/vi/yBiWsrwxh8g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-03 14:22:55 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-08T15:53:49Z_
   **مدت:** حدود 0.6 دقیقه  
   **عنوان:** [Solidworks mold design 2025 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=BtG0CZbDHc0)  
   ![](https://i.ytimg.com/vi/BtG0CZbDHc0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-15 16:32:02 (UTC)  
-  **مدت:** حدود 1.1 دقیقه  
-  **عنوان:** [Solidworks modelling garlic crushing tool #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=B7Lz1_yMZnA)  
-  ![](https://i.ytimg.com/vi/B7Lz1_yMZnA/hqdefault.jpg)
