@@ -1,6 +1,30 @@
-# Last Run: 2026-11-09 15:28 UTC
+# Last Run: 2026-11-10 00:01 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Walls Close In on Hegseth
+Published: 2026-11-09T22:26:03+00:00
+Link: https://foreignpolicy.com/2026/11/09/pete-hegseth-midterms-trump-iran-war-impeachment-congress/
+---
+[Foreign_Policy] What to Know About Nvidia CEO Jensen Huang’s Chinese Spy Scandal
+Published: 2026-11-09T21:57:16+00:00
+Link: https://foreignpolicy.com/2026/11/09/jensen-huang-spy-scandal-alice-nvidia-trump-china/
+---
+[Foreign_Policy] Trump Hosts Key Qatari Mediator to Discuss End to Iran War
+Published: 2026-11-09T21:34:48+00:00
+Link: https://foreignpolicy.com/2026/11/09/trump-qatar-thani-iran-war-nvidia-huang-affair-chinese-spy/
+---
+[Foreign_Policy] Hegseth’s Leadership Has Damaged the Pentagon
+Published: 2026-11-09T21:32:11+00:00
+Link: https://foreignpolicy.com/2026/11/09/hegseth-impeachment-charges-massie-defense-pentagon-damage/
+---
+[Foreign_Policy] It’s Possible to Fix the United Nations
+Published: 2026-11-09T20:49:21+00:00
+Link: https://foreignpolicy.com/2026/11/09/united-nations-security-council-reform-fix/
+---
+[Foreign_Policy] The Vexing Arithmetic of Israeli Coalition-Building
+Published: 2026-11-09T19:05:31+00:00
+Link: https://foreignpolicy.com/2026/11/09/israel-eisenkot-netanyahu-election-government-herzog/
+---
 [Foreign_Affairs] The New Epicenter of Global Terror
 Published: 2026-11-09T09:00:00+00:00
 Link: https://www.foreignaffairs.com/nigeria/new-epicenter-global-terror
@@ -12,6 +36,10 @@ Link: https://www.foreignaffairs.com/taiwan/recipe-disaster-taiwan-lissner-rapp-
 [Foreign_Policy] The Experts Are Taking Their Revenge Again
 Published: 2026-11-09T08:08:55+00:00
 Link: https://foreignpolicy.com/2026/11/09/trump-iran-cia-intelligence/
+---
+[Foreign_Policy] Is Hegseth the New Rumsfeld?
+Published: 2026-11-09T05:01:06+00:00
+Link: https://foreignpolicy.com/2026/11/09/hegseth-impeachment-iran-war-democratic-congress-donald-rumsfeld/
 ---
 [Foreign_Policy] Is Hegseth the New Rumsfeld?
 Published: 2026-11-09T05:01:06+00:00
@@ -40,52 +68,4 @@ Link: https://www.newyorker.com/magazine/2026/11/16/breaking-the-decade-long-tru
 [New_Yorker_Magazine] I’ll Take Blue Florida for Five Hundred
 Published: 2026-11-07T11:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/16/ill-take-blue-florida-for-five-hundred
----
-[Foreign_Policy] Global AI Stocks React to U.S. Midterm Results
-Published: 2026-11-06T21:59:39+00:00
-Link: https://foreignpolicy.com/2026/11/06/ai-stock-market-us-midterms-democrats-data-centers-regulation/
----
-[Foreign_Policy] The U.S. Senate Just Got a Lot Younger
-Published: 2026-11-06T20:46:41+00:00
-Link: https://foreignpolicy.com/2026/11/06/us-midterm-elections-senate-ages-average-decline-oecd/
----
-[Foreign_Policy] A German Movie Previews Its Far-Right Future
-Published: 2026-11-06T20:00:36+00:00
-Link: https://foreignpolicy.com/2026/11/06/germany-movies-prosecution-film-far-right-afd/
----
-[Foreign_Policy] ‘Call of Duty’ Has a Message for Hegseth
-Published: 2026-11-06T19:45:52+00:00
-Link: https://foreignpolicy.com/2026/11/06/call-of-duty-modern-warfare-review-video-game-us-military-hegseth/
----
-[Foreign_Policy] ‘Wild Horse Nine’ Looks Away From Chile’s History
-Published: 2026-11-06T19:15:24+00:00
-Link: https://foreignpolicy.com/2026/11/06/wild-horse-nine-movie-review-chile-cia-coup-history-conspiracy-martin-mcdonagh/
----
-[Foreign_Policy] Two New Stand-Out Novels From Ireland and South Africa
-Published: 2026-11-06T19:00:27+00:00
-Link: https://foreignpolicy.com/2026/11/06/international-fiction-releases-louise-kennedy-stations-keletso-mopai-we-belong-trees/
----
-[Foreign_Policy] What in the World?
-Published: 2026-11-06T18:20:41+00:00
-Link: https://foreignpolicy.com/2026/11/06/news-quiz-russia-ukraine-us-midterm-elections-trump-democrats/
----
-[Foreign_Policy] Do the Democrats Have a Cohesive Economic Plan?
-Published: 2026-11-06T17:41:27+00:00
-Link: https://foreignpolicy.com/2026/11/06/economy-election-congress-trade-affordability-artificial-intelligence-trump-democrats/
----
-[Foreign_Policy] How America Was Swept by an Anti-Trump Wave
-Published: 2026-11-06T17:14:38+00:00
-Link: https://foreignpolicy.com/2026/11/06/susan-glasser-us-midterms-blue-wave-trump-rebuke-iran-war/
----
-[Foreign_Policy] How a World War I Crackdown Predicted ICE
-Published: 2026-11-06T16:30:26+00:00
-Link: https://foreignpolicy.com/2026/11/06/backderf-dissidents-review-cartoonists-censorship-press-freedom-ice/
----
-[Foreign_Policy] How a World War I Crackdown Predicted ICE
-Published: 2026-11-06T16:30:26+00:00
-Link: https://foreignpolicy.com/2026/11/06/dissidents-backderf-cartoonists-ice/
----
-[Foreign_Policy] Who Will Succeed Xi Jinping?
-Published: 2026-11-06T16:18:57+00:00
-Link: https://foreignpolicy.com/2026/11/06/china-xi-jinping-successor-party-congress/
 ---
