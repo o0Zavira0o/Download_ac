@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-11-09T19:42:39Z_
+_آخرین به‌روزرسانی: 2026-11-10T16:57:03Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-11-10 14:00:03 (UTC)  
+  **مدت:** حدود 9.5 دقیقه  
+  **عنوان:** [Lección 2 — Dibujo básico en nanoCAD: Línea, Polilínea y Círculo](https://www.youtube.com/watch?v=R3AGjllxgCo)  
+  ![](https://i.ytimg.com/vi/R3AGjllxgCo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-09 14:15:37 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-09T19:42:39Z_
   **مدت:** حدود 4.9 دقیقه  
   **عنوان:** [Writing with MText - Lesson 25](https://www.youtube.com/watch?v=B5PdNO6Emdo)  
   ![](https://i.ytimg.com/vi/B5PdNO6Emdo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-05-24 07:43:39 (UTC)  
-  **مدت:** حدود 4.2 دقیقه  
-  **عنوان:** [Working With Text - Lesson 24](https://www.youtube.com/watch?v=e0s9U6jranE)  
-  ![](https://i.ytimg.com/vi/e0s9U6jranE/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-09T19:42:39Z_
+_آخرین به‌روزرسانی: 2026-11-10T16:57:03Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-10 03:30:18 (UTC)  
+  **مدت:** حدود 12.3 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal-90° Bend of Rectangular tube (sketched bend,convert to sheet)](https://www.youtube.com/watch?v=zQDBbCwsKdA)  
+  ![](https://i.ytimg.com/vi/zQDBbCwsKdA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-09 09:45:50 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-09T19:42:39Z_
   **مدت:** حدود 16.0 دقیقه  
   **عنوان:** [Solidworks tutorial | Design of Fidget Spinner in Solidworks](https://www.youtube.com/watch?v=Om2-TFmqcRw)  
   ![](https://i.ytimg.com/vi/Om2-TFmqcRw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-17 08:27:07 (UTC)  
-  **مدت:** حدود 104.2 دقیقه  
-  **عنوان:** [Solidworks tutorial | Design and Assembly of Swiss Pliers in Solidworks](https://www.youtube.com/watch?v=xqHxo-nMVdE)  
-  ![](https://i.ytimg.com/vi/xqHxo-nMVdE/hqdefault.jpg)
