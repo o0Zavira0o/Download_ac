@@ -1,6 +1,26 @@
-# Last Run: 2026-11-10 07:04 UTC
+# Last Run: 2026-11-10 16:12 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Democrats Have a Mandate to Tackle Corruption. Here’s How.
+Published: 2026-11-10T14:31:18+00:00
+Link: https://foreignpolicy.com/2026/11/10/democrats-republicans-elections-corruption-campaign-finance-trump/
+---
+[Foreign_Policy] And What About Europe’s Center-Left?
+Published: 2026-11-10T14:09:50+00:00
+Link: https://foreignpolicy.com/2026/11/10/democrats-us-europe-eu-center-left/
+---
+[Foreign_Policy] The Global Economy Braces for Yet Another Blow
+Published: 2026-11-10T11:00:07+00:00
+Link: https://foreignpolicy.com/2026/11/10/el-nino-economy-agriculture-cost/
+---
+[Foreign_Affairs] China’s AI Diplomacy Is Working
+Published: 2026-11-10T09:00:00+00:00
+Link: https://www.foreignaffairs.com/china/chinas-ai-diplomacy-working
+---
+[Foreign_Affairs] The Luxury of Children
+Published: 2026-11-10T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/luxury-children
+---
 [Foreign_Policy] Where Is U.S. Security Assistance to Jordan Going?
 Published: 2026-11-10T00:17:41+00:00
 Link: https://foreignpolicy.com/2026/11/09/united-states-aid-security-jordan-church-attack-islamic-state/
@@ -64,12 +84,4 @@ Link: https://www.newyorker.com/magazine/2026/11/16/the-nba-player-who-got-hooke
 [New_Yorker_Magazine] “The Death of a Certain Woman,” by Yasushi Inoue
 Published: 2026-11-08T11:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/16/the-death-of-a-certain-woman-fiction-yasushi-inoue
----
-[New_Yorker_Magazine] Breaking the Decade-Long Trump Fever
-Published: 2026-11-07T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/breaking-the-decade-long-trump-fever
----
-[New_Yorker_Magazine] I’ll Take Blue Florida for Five Hundred
-Published: 2026-11-07T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/ill-take-blue-florida-for-five-hundred
 ---

@@ -1226,6 +1226,9 @@ https://foreignpolicy.com/2026/11/09/trump-iran-cia-intelligence/
 https://foreignpolicy.com/2026/11/09/trump-qatar-thani-iran-war-nvidia-huang-affair-chinese-spy/
 https://foreignpolicy.com/2026/11/09/united-nations-security-council-reform-fix/
 https://foreignpolicy.com/2026/11/09/united-states-aid-security-jordan-church-attack-islamic-state/
+https://foreignpolicy.com/2026/11/10/democrats-republicans-elections-corruption-campaign-finance-trump/
+https://foreignpolicy.com/2026/11/10/democrats-us-europe-eu-center-left/
+https://foreignpolicy.com/2026/11/10/el-nino-economy-agriculture-cost/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -1245,6 +1248,7 @@ https://www.foreignaffairs.com/china/china-pulling-ladder-behind-it
 https://www.foreignaffairs.com/china/china-sabotaging-world-enables-its-rise
 https://www.foreignaffairs.com/china/china-still-has-what-america-needs
 https://www.foreignaffairs.com/china/china-still-has-what-america-needs-adam-posen
+https://www.foreignaffairs.com/china/chinas-ai-diplomacy-working
 https://www.foreignaffairs.com/china/chinas-ai-heist
 https://www.foreignaffairs.com/china/chinas-economics-denial
 https://www.foreignaffairs.com/china/chinas-edifice-complex
@@ -1487,6 +1491,7 @@ https://www.foreignaffairs.com/united-states/less-more-strategy-america
 https://www.foreignaffairs.com/united-states/limits-american-power-william-mcraven
 https://www.foreignaffairs.com/united-states/losing-war-future-paul-scharre
 https://www.foreignaffairs.com/united-states/lost-art-coercion
+https://www.foreignaffairs.com/united-states/luxury-children
 https://www.foreignaffairs.com/united-states/matthew-duss-democrats-squander-chance-foreign-policy-congress-midterms
 https://www.foreignaffairs.com/united-states/maximum-pressure-iran-will-fail
 https://www.foreignaffairs.com/united-states/middle-power-delusion
