@@ -1,6 +1,22 @@
-# Last Run: 2026-11-11 13:44 UTC
+# Last Run: 2026-11-11 21:22 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Serbia’s Student Movement Faces Its Next Test
+Published: 2026-11-11T17:55:40+00:00
+Link: https://foreignpolicy.com/2026/11/11/serbia-parliament-elections-vucic-corruption-student-movement-sns-student-list/
+---
+[Foreign_Policy] Congress Must Stop Arming Israel
+Published: 2026-11-11T17:46:03+00:00
+Link: https://foreignpolicy.com/2026/11/11/us-midterm-elections-israel-iran-war-congress/
+---
+[Foreign_Policy] What a Hormuz Endgame Could Actually Look Like
+Published: 2026-11-11T17:32:23+00:00
+Link: https://foreignpolicy.com/2026/11/11/strait-hormuz-endgame-iran-trump-control-oman-war-shipping-oil/
+---
+[Foreign_Policy] Brazil Shows the Danger of Digital Chokepoints
+Published: 2026-11-11T15:22:58+00:00
+Link: https://foreignpolicy.com/2026/11/11/brazil-meta-lula-elections-big-tech/
+---
 [Foreign_Policy] How New Delhi Sees the Blue Tsunami
 Published: 2026-11-11T11:00:08+00:00
 Link: https://foreignpolicy.com/2026/11/11/us-midterms-india-blue-tsunami-trump-democrats-trade/
@@ -8,6 +24,10 @@ Link: https://foreignpolicy.com/2026/11/11/us-midterms-india-blue-tsunami-trump-
 [Foreign_Policy] How Netanyahu Lost His Bet on Trump
 Published: 2026-11-11T09:30:41+00:00
 Link: https://foreignpolicy.com/2026/11/11/us-midterm-elections-netanyahu-trump-republicans-israel-aid/
+---
+[Foreign_Policy] Memory Chips Are Completely Distorting South Korea’s Economy
+Published: 2026-11-11T09:11:24+00:00
+Link: https://foreignpolicy.com/2026/11/11/south-korea-semiconductor-memory-chips-artificial-intelligence-inflation-affordability/
 ---
 [Foreign_Policy] Memory Chips Are Completely Distorting South Korea’s Economy
 Published: 2026-11-11T09:11:24+00:00
