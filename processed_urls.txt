@@ -1235,6 +1235,10 @@ https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-affair-china-spy-unansw
 https://foreignpolicy.com/2026/11/10/middle-east-new-washington-arab-spring-iran-war/
 https://foreignpolicy.com/2026/11/10/progressives-democrats-israel-aid-weapons-sales-congress-midterms/
 https://foreignpolicy.com/2026/11/10/us-russia-ukraine-peace-talks-progress-cease-fire-donbas/
+https://foreignpolicy.com/2026/11/11/indonesia-wiretap-prabowo-police-chief/
+https://foreignpolicy.com/2026/11/11/memory-chips-are-completely-distorting-south-koreas-economy/
+https://foreignpolicy.com/2026/11/11/us-midterm-elections-netanyahu-trump-republicans-israel-aid/
+https://foreignpolicy.com/2026/11/11/us-midterms-india-blue-tsunami-trump-democrats-trade/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -1288,6 +1292,7 @@ https://www.foreignaffairs.com/china/limits-chinas-self-sufficiency
 https://www.foreignaffairs.com/china/mirage-chinas-military-edge-dennis-blair
 https://www.foreignaffairs.com/china/new-chinese-way-cyberwar
 https://www.foreignaffairs.com/china/new-chinese-way-cyberwar-ai
+https://www.foreignaffairs.com/china/new-kind-foreign-agent
 https://www.foreignaffairs.com/china/next-global-economic-crisis-made-china-michael-froman
 https://www.foreignaffairs.com/china/next-phase-chinas-minority-crackdown
 https://www.foreignaffairs.com/china/real-problem-global-trade
@@ -1374,6 +1379,7 @@ https://www.foreignaffairs.com/middle-east/new-old-middle-east-gause
 https://www.foreignaffairs.com/middle-east/new-red-sea-wars
 https://www.foreignaffairs.com/nigeria/new-epicenter-global-terror
 https://www.foreignaffairs.com/north-korea/north-koreas-enemies-within
+https://www.foreignaffairs.com/north-korea/trump-facing-very-different-north-korea
 https://www.foreignaffairs.com/northern-europe/can-nordic-model-save-nato
 https://www.foreignaffairs.com/oceans-seas/scramble-open-seas
 https://www.foreignaffairs.com/pakistan/pakistan-won-war-iran
@@ -2011,8 +2017,19 @@ https://www.newyorker.com/magazine/2026/11/09/why-immigration-agents-dont-quit-i
 https://www.newyorker.com/magazine/2026/11/09/wild-horse-nine-movie-review
 https://www.newyorker.com/magazine/2026/11/16/after-rothko-david-biespiel-poem
 https://www.newyorker.com/magazine/2026/11/16/breaking-the-decade-long-trump-fever
+https://www.newyorker.com/magazine/2026/11/16/can-american-socialism-survive-its-success
+https://www.newyorker.com/magazine/2026/11/16/hilary-knight-is-rawther-beloved
+https://www.newyorker.com/magazine/2026/11/16/if-trump-did-standup
 https://www.newyorker.com/magazine/2026/11/16/ill-take-blue-florida-for-five-hundred
+https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review
+https://www.newyorker.com/magazine/2026/11/16/john-cusack-goes-graphic
+https://www.newyorker.com/magazine/2026/11/16/josh-homme-likes-to-satan
 https://www.newyorker.com/magazine/2026/11/16/paper-tiger-movie-review
+https://www.newyorker.com/magazine/2026/11/16/popstar-tinashe-music-review
 https://www.newyorker.com/magazine/2026/11/16/the-death-of-a-certain-woman-fiction-yasushi-inoue
+https://www.newyorker.com/magazine/2026/11/16/the-end-of-everything-gloria-dont-speak-shakespeare-at-thirty-almost-animal
 https://www.newyorker.com/magazine/2026/11/16/the-nba-player-who-got-hooked-on-sports-betting
+https://www.newyorker.com/magazine/2026/11/16/the-opposite-of-happiness-george-loewenstein-book-review
+https://www.newyorker.com/magazine/2026/11/16/the-ubiquitous-melancholy-of-max-richter
 https://www.newyorker.com/magazine/2026/11/16/vers-libre-jane-huffman-poem
+https://www.newyorker.com/magazine/2026/11/16/what-it-takes-to-save-a-town-from-wildfire

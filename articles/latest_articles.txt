@@ -1,6 +1,30 @@
-# Last Run: 2026-11-11 05:02 UTC
+# Last Run: 2026-11-11 13:44 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How New Delhi Sees the Blue Tsunami
+Published: 2026-11-11T11:00:08+00:00
+Link: https://foreignpolicy.com/2026/11/11/us-midterms-india-blue-tsunami-trump-democrats-trade/
+---
+[Foreign_Policy] How Netanyahu Lost His Bet on Trump
+Published: 2026-11-11T09:30:41+00:00
+Link: https://foreignpolicy.com/2026/11/11/us-midterm-elections-netanyahu-trump-republicans-israel-aid/
+---
+[Foreign_Policy] Memory Chips Are Completely Distorting South Korea’s Economy
+Published: 2026-11-11T09:11:24+00:00
+Link: https://foreignpolicy.com/2026/11/11/memory-chips-are-completely-distorting-south-koreas-economy/
+---
+[Foreign_Affairs] A New Kind of Foreign Agent
+Published: 2026-11-11T09:00:00+00:00
+Link: https://www.foreignaffairs.com/china/new-kind-foreign-agent
+---
+[Foreign_Affairs] Trump Is Facing a Very Different North Korea
+Published: 2026-11-11T09:00:00+00:00
+Link: https://www.foreignaffairs.com/north-korea/trump-facing-very-different-north-korea
+---
+[Foreign_Policy] Indonesia’s Wiretap Scandal Heralds a Political Showdown
+Published: 2026-11-11T06:00:42+00:00
+Link: https://foreignpolicy.com/2026/11/11/indonesia-wiretap-prabowo-police-chief/
+---
 [Foreign_Policy] Did China Play Jensen Huang?
 Published: 2026-11-10T22:55:16+00:00
 Link: https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-affair-china-spy-unanswered-questions/
@@ -73,6 +97,50 @@ Link: https://foreignpolicy.com/2026/11/09/united-nations-security-council-refor
 Published: 2026-11-09T19:05:31+00:00
 Link: https://foreignpolicy.com/2026/11/09/israel-eisenkot-netanyahu-election-government-herzog/
 ---
+[New_Yorker_Magazine] The Lasting Influence of John Berger
+Published: 2026-11-09T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-11-09T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/the-end-of-everything-gloria-dont-speak-shakespeare-at-thirty-almost-animal
+---
+[New_Yorker_Magazine] If Trump Did Standup
+Published: 2026-11-09T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/if-trump-did-standup
+---
+[New_Yorker_Magazine] The Long-Awaited Rise of Tinashe
+Published: 2026-11-09T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/popstar-tinashe-music-review
+---
+[New_Yorker_Magazine] The Unfinished Business of American Socialism
+Published: 2026-11-09T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/can-american-socialism-survive-its-success
+---
+[New_Yorker_Magazine] Josh Homme Likes to Satan
+Published: 2026-11-09T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/josh-homme-likes-to-satan
+---
+[New_Yorker_Magazine] The Ubiquitous Melancholy of Max Richter
+Published: 2026-11-09T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/the-ubiquitous-melancholy-of-max-richter
+---
+[New_Yorker_Magazine] Why Are We So Good at Feeling Bad?
+Published: 2026-11-09T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/the-opposite-of-happiness-george-loewenstein-book-review
+---
+[New_Yorker_Magazine] What It Takes to Save a Town from Wildfire
+Published: 2026-11-09T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/what-it-takes-to-save-a-town-from-wildfire
+---
+[New_Yorker_Magazine] John Cusack Goes Graphic
+Published: 2026-11-09T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/john-cusack-goes-graphic
+---
+[New_Yorker_Magazine] Hilary Knight Is Rawther Beloved
+Published: 2026-11-09T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/16/hilary-knight-is-rawther-beloved
+---
 [Foreign_Affairs] The New Epicenter of Global Terror
 Published: 2026-11-09T09:00:00+00:00
 Link: https://www.foreignaffairs.com/nigeria/new-epicenter-global-terror
@@ -92,20 +160,4 @@ Link: https://foreignpolicy.com/2026/11/09/hegseth-impeachment-iran-war-democrat
 [Foreign_Policy] Is Hegseth the New Rumsfeld?
 Published: 2026-11-09T05:01:06+00:00
 Link: https://foreignpolicy.com/2026/11/09/hegseth-rumsfeld-impeach-congress/
----
-[New_Yorker_Magazine] “Vers Libre,” by Jane Huffman
-Published: 2026-11-08T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/vers-libre-jane-huffman-poem
----
-[New_Yorker_Magazine] “After Rothko,” by David Biespiel
-Published: 2026-11-08T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/after-rothko-david-biespiel-poem
----
-[New_Yorker_Magazine] An N.B.A. Player Got Hooked on Sports Betting. Soon, He Became the Bet
-Published: 2026-11-08T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/the-nba-player-who-got-hooked-on-sports-betting
----
-[New_Yorker_Magazine] “The Death of a Certain Woman,” by Yasushi Inoue
-Published: 2026-11-08T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/the-death-of-a-certain-woman-fiction-yasushi-inoue
 ---
