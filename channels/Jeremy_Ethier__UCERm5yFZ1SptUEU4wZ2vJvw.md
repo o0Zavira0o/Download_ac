@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-11-10T16:57:03Z_
+_آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -28,7 +28,7 @@ _آخرین به‌روزرسانی: 2026-11-10T16:57:03Z_
 
 - **تاریخ انتشار:** 2026-09-27 13:30:37 (UTC)  
   **مدت:** حدود 22.4 دقیقه  
-  **عنوان:** [It's Weird, But Destroyed Every Ab Exercise I Tested](https://www.youtube.com/watch?v=0ShG8aVIvms)  
+  **عنوان:** [I Tested 30 Ab Exercises, You ONLY Need These 2](https://www.youtube.com/watch?v=0ShG8aVIvms)  
   ![](https://i.ytimg.com/vi/0ShG8aVIvms/hqdefault.jpg)
 
 

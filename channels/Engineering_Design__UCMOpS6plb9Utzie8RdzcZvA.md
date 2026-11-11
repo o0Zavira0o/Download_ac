@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-10T16:57:03Z_
+_آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-11 04:02:37 (UTC)  
+  **مدت:** حدود 4.8 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Tutorial For Beginners | Sketch To 3D Model In 5 Minutes!](https://www.youtube.com/watch?v=eOCF33mZPoM)  
+  ![](https://i.ytimg.com/vi/eOCF33mZPoM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-09 13:14:39 (UTC)  
@@ -26,7 +32,7 @@ _آخرین به‌روزرسانی: 2026-11-10T16:57:03Z_
 
 - **تاریخ انتشار:** 2026-11-05 03:30:14 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Sewing Machine Foot Pedal Crank-rocker Mechanism](https://www.youtube.com/watch?v=HKnFQObHdXU)  
+  **عنوان:** [What's Really Inside a Sewing Machine Foot Pedal?](https://www.youtube.com/watch?v=HKnFQObHdXU)  
   ![](https://i.ytimg.com/vi/HKnFQObHdXU/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-10T16:57:03Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [✅How to Calculate L- Section Weight of Mild Steel ❓](https://www.youtube.com/watch?v=VNllKJ8Ip5s)  
   ![](https://i.ytimg.com/vi/VNllKJ8Ip5s/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-23 12:37:31 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅How a Spring Latch Lock Works❓](https://www.youtube.com/watch?v=PMPKaPSZaq4)  
-  ![](https://i.ytimg.com/vi/PMPKaPSZaq4/hqdefault.jpg)

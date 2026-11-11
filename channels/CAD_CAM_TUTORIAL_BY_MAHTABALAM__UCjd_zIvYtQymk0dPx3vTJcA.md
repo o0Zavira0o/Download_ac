@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-10T16:57:03Z_
+_آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-11 10:50:55 (UTC)  
+  **مدت:** حدود 26.3 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal-Circuit Connection Box (Sketched Bend,insert Bend,Rip,Hem closed,Tab & Slot)](https://www.youtube.com/watch?v=MlEoZO6AaAs)  
+  ![](https://i.ytimg.com/vi/MlEoZO6AaAs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-10 03:30:18 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-10T16:57:03Z_
   **مدت:** حدود 25.6 دقیقه  
   **عنوان:** [Solidworks tutorial | Gyroscope in Solidworks](https://www.youtube.com/watch?v=CppWpZ7qoQM)  
   ![](https://i.ytimg.com/vi/CppWpZ7qoQM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-18 14:56:52 (UTC)  
-  **مدت:** حدود 16.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | Design of Fidget Spinner in Solidworks](https://www.youtube.com/watch?v=Om2-TFmqcRw)  
-  ![](https://i.ytimg.com/vi/Om2-TFmqcRw/hqdefault.jpg)

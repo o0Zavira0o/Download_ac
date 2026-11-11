@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-10T16:57:03Z_
+_آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-11 14:15:41 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Führerscheintest](https://www.youtube.com/watch?v=BX1AiXrUnCo)  
+  ![](https://i.ytimg.com/vi/BX1AiXrUnCo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-10 17:33:06 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Easy German Beginner Challenge](https://www.youtube.com/watch?v=9KRVbcqRY1M)  
+  ![](https://i.ytimg.com/vi/9KRVbcqRY1M/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-09 10:17:28 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-10T16:57:03Z_
   **مدت:** حدود 9.2 دقیقه  
   **عنوان:** [Will robots replace our jobs? | Easy German 207](https://www.youtube.com/watch?v=tnagbAbsmSU)  
   ![](https://i.ytimg.com/vi/tnagbAbsmSU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-08-09 16:12:02 (UTC)  
-  **مدت:** حدود 6.3 دقیقه  
-  **عنوان:** [Public Transport in Berlin | Super Easy German (43)](https://www.youtube.com/watch?v=0De12CAXin8)  
-  ![](https://i.ytimg.com/vi/0De12CAXin8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-08-06 17:11:46 (UTC)  
-  **مدت:** حدود 8.1 دقیقه  
-  **عنوان:** [What Germans think about Canada | Easy German 206](https://www.youtube.com/watch?v=M6l8kFDgElw)  
-  ![](https://i.ytimg.com/vi/M6l8kFDgElw/hqdefault.jpg)
