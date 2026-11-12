@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
+_آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
@@ -10,302 +10,302 @@ _آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
 
 - **تاریخ انتشار:** 2026-10-07 18:42:37 (UTC)  
   **مدت:** حدود 18.7 دقیقه  
-  **عنوان:** [F26 MENG4137 Using PowerPoint to Create Drawings](https://www.youtube.com/watch?v=tOTnQEhCLic)  
-  ![](https://i.ytimg.com/vi/tOTnQEhCLic/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=tOTnQEhCLic)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-07-12 20:29:27 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Chipping Sparrow](https://www.youtube.com/watch?v=TI2TUXQGfp8)  
-  ![](https://i.ytimg.com/vi/TI2TUXQGfp8/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=TI2TUXQGfp8)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-07-05 21:03:47 (UTC)  
   **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Hummingbird at back porch feeder in slomo](https://www.youtube.com/watch?v=2jJodgD1nmw)  
-  ![](https://i.ytimg.com/vi/2jJodgD1nmw/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=2jJodgD1nmw)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-07-05 15:51:01 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Thiccc w/ 3 c’s Mourning Dove taking up space](https://www.youtube.com/watch?v=FpG8hgrsI9U)  
-  ![](https://i.ytimg.com/vi/FpG8hgrsI9U/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=FpG8hgrsI9U)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-07-05 15:46:43 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Bird Fight!](https://www.youtube.com/watch?v=eLI_M4oozmk)  
-  ![](https://i.ytimg.com/vi/eLI_M4oozmk/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=eLI_M4oozmk)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-07-05 15:26:49 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Mourning Dove](https://www.youtube.com/watch?v=D-luOeUmqpA)  
-  ![](https://i.ytimg.com/vi/D-luOeUmqpA/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=D-luOeUmqpA)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-07-04 18:52:48 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [White-breasted Nuthatch](https://www.youtube.com/watch?v=twvqBjtLG8Y)  
-  ![](https://i.ytimg.com/vi/twvqBjtLG8Y/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=twvqBjtLG8Y)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-07-03 23:38:50 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Chestnut-backed Chickadee](https://www.youtube.com/watch?v=-2nKu_a_BRo)  
-  ![](https://i.ytimg.com/vi/-2nKu_a_BRo/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=-2nKu_a_BRo)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-07-02 20:07:59 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Northern Flicker](https://www.youtube.com/watch?v=7paM1HXQVpI)  
-  ![](https://i.ytimg.com/vi/7paM1HXQVpI/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=7paM1HXQVpI)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-06-30 17:42:14 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Northern Cardinal (better crest than previous)](https://www.youtube.com/watch?v=yzwJ3wn_AeI)  
-  ![](https://i.ytimg.com/vi/yzwJ3wn_AeI/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=yzwJ3wn_AeI)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-06-30 13:54:32 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Hairy Woodpecker (AI identified it as a Downy Woodpecker)](https://www.youtube.com/watch?v=lxJbqtHtm3g)  
-  ![](https://i.ytimg.com/vi/lxJbqtHtm3g/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=lxJbqtHtm3g)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-06-28 18:43:38 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Tufted Titmouse (Probably not a Verdin as identified by AI)](https://www.youtube.com/watch?v=Ff9R6owcUIk)  
-  ![](https://i.ytimg.com/vi/Ff9R6owcUIk/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Ff9R6owcUIk)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-06-28 15:52:41 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Northern Cardinal](https://www.youtube.com/watch?v=fXyjB1yno-E)  
-  ![](https://i.ytimg.com/vi/fXyjB1yno-E/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=fXyjB1yno-E)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-06-27 22:14:27 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Hummingbird 2](https://www.youtube.com/watch?v=f6rP_RaaKFk)  
-  ![](https://i.ytimg.com/vi/f6rP_RaaKFk/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=f6rP_RaaKFk)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-06-27 04:43:27 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Chip without Dale birdseed muncher… just asking for war](https://www.youtube.com/watch?v=hONn9kOpwDM)  
-  ![](https://i.ytimg.com/vi/hONn9kOpwDM/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=hONn9kOpwDM)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-06-27 04:36:56 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [And evil says “My hunger must be fed!”  Thus the battle begins](https://www.youtube.com/watch?v=sB9ppOYwmNg)  
-  ![](https://i.ytimg.com/vi/sB9ppOYwmNg/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=sB9ppOYwmNg)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-06-25 18:23:32 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Two Carolina Wrens (one’s a klutz)](https://www.youtube.com/watch?v=XxUjtWYAxyk)  
-  ![](https://i.ytimg.com/vi/XxUjtWYAxyk/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=XxUjtWYAxyk)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-06-25 16:02:26 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Tufted Titmouse (AI birdfeeder says it's the American Bushtit)](https://www.youtube.com/watch?v=hyq2O2o1evc)  
-  ![](https://i.ytimg.com/vi/hyq2O2o1evc/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=hyq2O2o1evc)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-06-24 18:28:29 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Tufted Titmouse?  Maybe has hair slicked back.](https://www.youtube.com/watch?v=NCWIFW5xDWs)  
-  ![](https://i.ytimg.com/vi/NCWIFW5xDWs/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=NCWIFW5xDWs)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-06-23 12:12:24 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Hummingbird 1 (short, out of focus)](https://www.youtube.com/watch?v=XjhpAiYfY44)  
-  ![](https://i.ytimg.com/vi/XjhpAiYfY44/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=XjhpAiYfY44)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-06-22 22:31:23 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [Carolina Wren](https://www.youtube.com/watch?v=xHSE36ZVIcQ)  
-  ![](https://i.ytimg.com/vi/xHSE36ZVIcQ/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=xHSE36ZVIcQ)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-20 02:40:31 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [S26 MENG4145 Project 1 w/ ball SolidWorks Motion Simulation](https://www.youtube.com/watch?v=N3UjuY9uMSo)  
-  ![](https://i.ytimg.com/vi/N3UjuY9uMSo/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=N3UjuY9uMSo)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-20 00:00:45 (UTC)  
   **مدت:** حدود 8.4 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 21 Video 3 - Full Rotation Dynamic Force Analysis of Norton Ex 11-3](https://www.youtube.com/watch?v=L-o9EyRvR8c)  
-  ![](https://i.ytimg.com/vi/L-o9EyRvR8c/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=L-o9EyRvR8c)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-15 21:29:09 (UTC)  
   **مدت:** حدود 21.3 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 23 Video 2 Cam Design with More Refined Profiles part 2](https://www.youtube.com/watch?v=TaN3wguU0yg)  
-  ![](https://i.ytimg.com/vi/TaN3wguU0yg/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=TaN3wguU0yg)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-15 21:27:25 (UTC)  
   **مدت:** حدود 9.4 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 23 Video 1 Cam Design with More Refined Profiles part 1](https://www.youtube.com/watch?v=eTroBV7Rk2s)  
-  ![](https://i.ytimg.com/vi/eTroBV7Rk2s/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=eTroBV7Rk2s)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-15 21:25:47 (UTC)  
   **مدت:** حدود 20.7 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 22 Video 3 Cam Design SolidWorks Motion Analysis Results part 1](https://www.youtube.com/watch?v=fvNYsXQlM0g)  
-  ![](https://i.ytimg.com/vi/fvNYsXQlM0g/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=fvNYsXQlM0g)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-15 21:24:26 (UTC)  
   **مدت:** حدود 24.2 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 22 Video 2 Cam Design, Sinusoidal and Cycloidal Norton Ex 8-2 and 8-3](https://www.youtube.com/watch?v=h6p6NmhfhSg)  
-  ![](https://i.ytimg.com/vi/h6p6NmhfhSg/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=h6p6NmhfhSg)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-15 21:22:51 (UTC)  
   **مدت:** حدود 16.5 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 22 Video 1 Cam Design Introduction, Norton Example 8-1](https://www.youtube.com/watch?v=lZyHd6X0NdY)  
-  ![](https://i.ytimg.com/vi/lZyHd6X0NdY/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=lZyHd6X0NdY)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-15 18:53:31 (UTC)  
   **مدت:** حدود 24.2 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 21 Video 5 - Full Rotation Dynamic Force Analysis of Sixbar](https://www.youtube.com/watch?v=Ro5_fYJoKCw)  
-  ![](https://i.ytimg.com/vi/Ro5_fYJoKCw/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Ro5_fYJoKCw)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-15 18:51:25 (UTC)  
   **مدت:** حدود 10.4 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 21 Video 4 - Full Rotation Dynamic Force Analysis of Four bar (metric)](https://www.youtube.com/watch?v=zxh5oXGtGD8)  
-  ![](https://i.ytimg.com/vi/zxh5oXGtGD8/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=zxh5oXGtGD8)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-15 18:48:40 (UTC)  
   **مدت:** حدود 8.5 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 21 Video 2 - Full Rotation Dynamic Force Analysis of Norton Ex 11-1](https://www.youtube.com/watch?v=nT57AwNQl-0)  
-  ![](https://i.ytimg.com/vi/nT57AwNQl-0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=nT57AwNQl-0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-08 15:23:01 (UTC)  
   **مدت:** حدود 14.7 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 21 Video 1 Torque from Energy Method, Norton Example 11-4](https://www.youtube.com/watch?v=K5bCipCeyxo)  
-  ![](https://i.ytimg.com/vi/K5bCipCeyxo/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=K5bCipCeyxo)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-06 19:55:40 (UTC)  
   **مدت:** حدود 12.6 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 20 Video 3 Crank-Slider Kinetic Analysis Norton Problem 11-3a](https://www.youtube.com/watch?v=Djf4mJCr1m4)  
-  ![](https://i.ytimg.com/vi/Djf4mJCr1m4/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Djf4mJCr1m4)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-06 19:54:42 (UTC)  
   **مدت:** حدود 10.6 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 20 Video 2 Fourbar Kinetic Analysis Norton Problem 11-5a](https://www.youtube.com/watch?v=W-9AUhG4xxs)  
-  ![](https://i.ytimg.com/vi/W-9AUhG4xxs/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=W-9AUhG4xxs)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-06 17:10:14 (UTC)  
   **مدت:** حدود 36.3 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 20 Video 1 Fourbar Kinetic Analysis Norton Example 11-3](https://www.youtube.com/watch?v=kNjMrmNah9w)  
-  ![](https://i.ytimg.com/vi/kNjMrmNah9w/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=kNjMrmNah9w)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-06 00:36:47 (UTC)  
   **مدت:** حدود 31.8 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 19 Video 2 Three-bar Crank Slider Force Analysis w/ Norton Ex 11-2](https://www.youtube.com/watch?v=CNFV1rVjAW8)  
-  ![](https://i.ytimg.com/vi/CNFV1rVjAW8/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=CNFV1rVjAW8)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-06 00:35:49 (UTC)  
   **مدت:** حدود 21.7 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 19 Video 1 One bar Force Analysis with Norton Example 11-1](https://www.youtube.com/watch?v=RP_MCHAdBZ4)  
-  ![](https://i.ytimg.com/vi/RP_MCHAdBZ4/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=RP_MCHAdBZ4)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-01 13:58:12 (UTC)  
   **مدت:** حدود 12.9 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 18 Video 7 Dynamics Example Schaum's Outline Problem 5.24](https://www.youtube.com/watch?v=DUiSy2ywfcg)  
-  ![](https://i.ytimg.com/vi/DUiSy2ywfcg/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=DUiSy2ywfcg)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-01 13:44:16 (UTC)  
   **مدت:** حدود 12.4 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 18 Video 6 Dynamics Example Fourbar Torque](https://www.youtube.com/watch?v=ZQZCWL99NYM)  
-  ![](https://i.ytimg.com/vi/ZQZCWL99NYM/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=ZQZCWL99NYM)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-01 13:27:46 (UTC)  
   **مدت:** حدود 9.7 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 18 Video 5 Dynamics Example Crank-Slider Torque](https://www.youtube.com/watch?v=cW5U487he-I)  
-  ![](https://i.ytimg.com/vi/cW5U487he-I/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=cW5U487he-I)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-01 13:08:20 (UTC)  
   **مدت:** حدود 6.8 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 18 Video 4 Dynamics Example Lifting Crate](https://www.youtube.com/watch?v=LICdjaA9e0w)  
-  ![](https://i.ytimg.com/vi/LICdjaA9e0w/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=LICdjaA9e0w)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-01 12:55:40 (UTC)  
   **مدت:** حدود 5.7 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 18 Video 3 Unpinned Dynamics Kinetics Example](https://www.youtube.com/watch?v=NiQScUSY324)  
-  ![](https://i.ytimg.com/vi/NiQScUSY324/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=NiQScUSY324)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-04-01 00:20:21 (UTC)  
   **مدت:** حدود 8.1 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 18 Video 2 Pinned Kinetics Drawbridge Example](https://www.youtube.com/watch?v=RjJru1Mg1TQ)  
-  ![](https://i.ytimg.com/vi/RjJru1Mg1TQ/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=RjJru1Mg1TQ)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-03-31 23:59:10 (UTC)  
   **مدت:** حدود 27.0 دقیقه  
-  **عنوان:** [S26 MENG4145 Mechanisms Class 18 Video 1 Dynamics Kinetics Review](https://www.youtube.com/watch?v=5e8Nb0_hi8I)  
-  ![](https://i.ytimg.com/vi/5e8Nb0_hi8I/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=5e8Nb0_hi8I)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:48 (UTC)  
   **مدت:** حدود 23.1 دقیقه  
-  **عنوان:** [F24 ME370 Elements of Mechanical Design Shaft Design based on Static Stress](https://www.youtube.com/watch?v=6uoqV9Gb5YI)  
-  ![](https://i.ytimg.com/vi/6uoqV9Gb5YI/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=6uoqV9Gb5YI)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:22 (UTC)  
   **مدت:** حدود 26.6 دقیقه  
-  **عنوان:** [F24 ME370 HW8 Help FEA of Shigley 5-36](https://www.youtube.com/watch?v=8DaXR0hlEYk)  
-  ![](https://i.ytimg.com/vi/8DaXR0hlEYk/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=8DaXR0hlEYk)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:22 (UTC)  
   **مدت:** حدود 46.5 دقیقه  
-  **عنوان:** [F24 ME370 Elements of Mechanical Design Shaft Design for Static Stress Example](https://www.youtube.com/watch?v=C227E40qq6U)  
-  ![](https://i.ytimg.com/vi/C227E40qq6U/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=C227E40qq6U)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:19 (UTC)  
   **مدت:** حدود 18.7 دقیقه  
-  **عنوان:** [S26 MENG4145 Class 1 Video 3, Kinematic Diagram and Mobility Introduction](https://www.youtube.com/watch?v=OWxXbI5EVgk)  
-  ![](https://i.ytimg.com/vi/OWxXbI5EVgk/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=OWxXbI5EVgk)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:19 (UTC)  
   **مدت:** حدود 13.2 دقیقه  
-  **عنوان:** [S26 MENG4145 Class 1 Video 1, Course Introduction](https://www.youtube.com/watch?v=PovVUZorSjY)  
-  ![](https://i.ytimg.com/vi/PovVUZorSjY/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=PovVUZorSjY)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:19 (UTC)  
   **مدت:** حدود 24.3 دقیقه  
-  **عنوان:** [S26 MENG4145 Class 1 Video 4, Mobility & Kinematic Diagram Examples](https://www.youtube.com/watch?v=SU7x20bhDjc)  
-  ![](https://i.ytimg.com/vi/SU7x20bhDjc/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=SU7x20bhDjc)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-03-24 20:33:19 (UTC)  

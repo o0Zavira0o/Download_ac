@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
+_آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-12 09:23:57 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Türkische Kultur](https://www.youtube.com/watch?v=-rqPBArsy-c)  
+  ![](https://i.ytimg.com/vi/-rqPBArsy-c/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-11 14:15:41 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
   **مدت:** حدود 5.4 دقیقه  
   **عنوان:** [Things you read in the Streets | Super Easy German (44)](https://www.youtube.com/watch?v=NafRXUWieG0)  
   ![](https://i.ytimg.com/vi/NafRXUWieG0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-08-13 18:17:46 (UTC)  
-  **مدت:** حدود 9.2 دقیقه  
-  **عنوان:** [Will robots replace our jobs? | Easy German 207](https://www.youtube.com/watch?v=tnagbAbsmSU)  
-  ![](https://i.ytimg.com/vi/tnagbAbsmSU/hqdefault.jpg)

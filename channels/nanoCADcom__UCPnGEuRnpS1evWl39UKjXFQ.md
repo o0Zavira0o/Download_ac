@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
+_آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  
+
+
+- **تاریخ انتشار:** 2026-11-12 13:30:04 (UTC)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [¡Crea un resorte 3D en nanoCAD de forma rápida y sencilla! 🚀 #nanoCAD #3DModeling #CAD #diseño3d](https://www.youtube.com/watch?v=kz_YS9YuigA)  
+  ![](https://i.ytimg.com/vi/kz_YS9YuigA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-10 14:00:03 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
   **مدت:** حدود 5.6 دقیقه  
   **عنوان:** [Understanding Text Styles and Justification - Lesson 26](https://www.youtube.com/watch?v=148Oj0WixMM)  
   ![](https://i.ytimg.com/vi/148Oj0WixMM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2020-06-02 09:58:56 (UTC)  
-  **مدت:** حدود 4.9 دقیقه  
-  **عنوان:** [Writing with MText - Lesson 25](https://www.youtube.com/watch?v=B5PdNO6Emdo)  
-  ![](https://i.ytimg.com/vi/B5PdNO6Emdo/hqdefault.jpg)

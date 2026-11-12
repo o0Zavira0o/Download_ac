@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
+_آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-11-12 13:00:08 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [앨리스 토끼⁉️ DIY 다꾸 꾸미기 카꾸 Cardmaking asmr](https://www.youtube.com/watch?v=8iGvCHw71q4)  
+  ![](https://i.ytimg.com/vi/8iGvCHw71q4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-11 13:00:25 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
   **مدت:** حدود 6.6 دقیقه  
   **عنوان:** [ASMR Journal 🏠 Happy House Journaling 해피하우스 다꾸 Satisfying Sounds](https://www.youtube.com/watch?v=q0uonv9rwSQ)  
   ![](https://i.ytimg.com/vi/q0uonv9rwSQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-08-12 11:31:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Aesthetic Journaling ASMR 1/2💌 #journal #journaling #aesthetic #다꾸 #デコ手帳](https://www.youtube.com/watch?v=bKSehjLWFAM)  
-  ![](https://i.ytimg.com/vi/bKSehjLWFAM/hqdefault.jpg)

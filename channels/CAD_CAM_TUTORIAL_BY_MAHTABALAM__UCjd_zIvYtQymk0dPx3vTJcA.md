@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
+_آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-12 14:44:51 (UTC)  
+  **مدت:** حدود 18.1 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Part (Sketched Bend, Insert Bend, Unfold, Fold, Break-Corner)](https://www.youtube.com/watch?v=nwlmgYzt9z4)  
+  ![](https://i.ytimg.com/vi/nwlmgYzt9z4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-11 10:50:55 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-11T17:00:38Z_
   **مدت:** حدود 6.0 دقیقه  
   **عنوان:** [Solidworks tutorial | Smart Dimension Tips](https://www.youtube.com/watch?v=1-4_1U1ecQ0)  
   ![](https://i.ytimg.com/vi/1-4_1U1ecQ0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-21 18:40:48 (UTC)  
-  **مدت:** حدود 25.6 دقیقه  
-  **عنوان:** [Solidworks tutorial | Gyroscope in Solidworks](https://www.youtube.com/watch?v=CppWpZ7qoQM)  
-  ![](https://i.ytimg.com/vi/CppWpZ7qoQM/hqdefault.jpg)
