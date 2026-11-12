@@ -1248,6 +1248,9 @@ https://foreignpolicy.com/2026/11/11/tanzania-samia-hassan-lissu-chadema-sentenc
 https://foreignpolicy.com/2026/11/11/us-midterm-elections-israel-iran-war-congress/
 https://foreignpolicy.com/2026/11/11/us-midterm-elections-netanyahu-trump-republicans-israel-aid/
 https://foreignpolicy.com/2026/11/11/us-midterms-india-blue-tsunami-trump-democrats-trade/
+https://foreignpolicy.com/2026/11/12/china-us-investments-auto-electric-vehicles/
+https://foreignpolicy.com/2026/11/12/europe-bomb-threats-russia-hybrid-war-nato-deterrence-ukraine-military/
+https://foreignpolicy.com/2026/11/12/undersea-anarchy-turkey-greece-cyprus-energy/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -1319,6 +1322,7 @@ https://www.foreignaffairs.com/cuba/cubas-point-no-return
 https://www.foreignaffairs.com/cuba/day-after-cuba
 https://www.foreignaffairs.com/democratic-republic-congo/ebola-only-beginning
 https://www.foreignaffairs.com/democratic-republic-congo/why-trumps-congo-deal-falling-apart
+https://www.foreignaffairs.com/economics/paradox-dollar-dominance
 https://www.foreignaffairs.com/ethiopia/war-ethiopia-isnt-over
 https://www.foreignaffairs.com/europe/end-open-internet
 https://www.foreignaffairs.com/europe/europe-cant-get-out-its-own-way
@@ -1450,6 +1454,7 @@ https://www.foreignaffairs.com/united-states/ai-growth-paradox
 https://www.foreignaffairs.com/united-states/ai-new-age-bioweapons-sherwood-randall
 https://www.foreignaffairs.com/united-states/ambiguity-spiral-iran
 https://www.foreignaffairs.com/united-states/america-and-irans-strange-moment-opportunity
+https://www.foreignaffairs.com/united-states/america-can-do-good-and-do-well
 https://www.foreignaffairs.com/united-states/america-doesnt-need-more-nuclear-weapons
 https://www.foreignaffairs.com/united-states/america-must-let-go-middle-east
 https://www.foreignaffairs.com/united-states/america-still-has-upper-hand-over-china

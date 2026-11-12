@@ -1,6 +1,26 @@
-# Last Run: 2026-11-12 02:46 UTC
+# Last Run: 2026-11-12 21:21 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Russia’s Cheapest Weapon in Its Hybrid War Is Fear
+Published: 2026-11-12T18:51:15+00:00
+Link: https://foreignpolicy.com/2026/11/12/europe-bomb-threats-russia-hybrid-war-nato-deterrence-ukraine-military/
+---
+[Foreign_Policy] U.S.-China Investments Can Still Work for Americans
+Published: 2026-11-12T17:58:52+00:00
+Link: https://foreignpolicy.com/2026/11/12/china-us-investments-auto-electric-vehicles/
+---
+[Foreign_Policy] The Coming Era of Undersea Anarchy
+Published: 2026-11-12T14:30:23+00:00
+Link: https://foreignpolicy.com/2026/11/12/undersea-anarchy-turkey-greece-cyprus-energy/
+---
+[Foreign_Affairs] America Can Do Good—and Do Well
+Published: 2026-11-12T09:00:01+00:00
+Link: https://www.foreignaffairs.com/united-states/america-can-do-good-and-do-well
+---
+[Foreign_Affairs] The Paradox of Dollar Dominance
+Published: 2026-11-12T09:00:00+00:00
+Link: https://www.foreignaffairs.com/economics/paradox-dollar-dominance
+---
 [Foreign_Policy] How Democrats Will Wield Power on Foreign Policy
 Published: 2026-11-11T22:34:18+00:00
 Link: https://foreignpolicy.com/2026/11/11/democratic-congress-foreign-policy-priorities-jason-crow-working-class-americans/
@@ -124,76 +144,4 @@ Link: https://foreignpolicy.com/2026/11/09/trump-qatar-thani-iran-war-nvidia-hua
 [Foreign_Policy] Hegseth’s Leadership Has Damaged the Pentagon
 Published: 2026-11-09T21:32:11+00:00
 Link: https://foreignpolicy.com/2026/11/09/hegseth-impeachment-charges-massie-defense-pentagon-damage/
----
-[Foreign_Policy] It’s Possible to Fix the United Nations
-Published: 2026-11-09T20:49:21+00:00
-Link: https://foreignpolicy.com/2026/11/09/united-nations-security-council-reform-fix/
----
-[Foreign_Policy] The Vexing Arithmetic of Israeli Coalition-Building
-Published: 2026-11-09T19:05:31+00:00
-Link: https://foreignpolicy.com/2026/11/09/israel-eisenkot-netanyahu-election-government-herzog/
----
-[New_Yorker_Magazine] The Lasting Influence of John Berger
-Published: 2026-11-09T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-11-09T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/the-end-of-everything-gloria-dont-speak-shakespeare-at-thirty-almost-animal
----
-[New_Yorker_Magazine] If Trump Did Standup
-Published: 2026-11-09T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/if-trump-did-standup
----
-[New_Yorker_Magazine] The Long-Awaited Rise of Tinashe
-Published: 2026-11-09T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/popstar-tinashe-music-review
----
-[New_Yorker_Magazine] The Unfinished Business of American Socialism
-Published: 2026-11-09T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/can-american-socialism-survive-its-success
----
-[New_Yorker_Magazine] Josh Homme Likes to Satan
-Published: 2026-11-09T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/josh-homme-likes-to-satan
----
-[New_Yorker_Magazine] The Ubiquitous Melancholy of Max Richter
-Published: 2026-11-09T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/the-ubiquitous-melancholy-of-max-richter
----
-[New_Yorker_Magazine] Why Are We So Good at Feeling Bad?
-Published: 2026-11-09T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/the-opposite-of-happiness-george-loewenstein-book-review
----
-[New_Yorker_Magazine] What It Takes to Save a Town from Wildfire
-Published: 2026-11-09T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/what-it-takes-to-save-a-town-from-wildfire
----
-[New_Yorker_Magazine] John Cusack Goes Graphic
-Published: 2026-11-09T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/john-cusack-goes-graphic
----
-[New_Yorker_Magazine] Hilary Knight Is Rawther Beloved
-Published: 2026-11-09T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/16/hilary-knight-is-rawther-beloved
----
-[Foreign_Affairs] The New Epicenter of Global Terror
-Published: 2026-11-09T09:00:00+00:00
-Link: https://www.foreignaffairs.com/nigeria/new-epicenter-global-terror
----
-[Foreign_Affairs] A Recipe for Disaster in Taiwan
-Published: 2026-11-09T09:00:00+00:00
-Link: https://www.foreignaffairs.com/taiwan/recipe-disaster-taiwan-lissner-rapp-hooper
----
-[Foreign_Policy] The Experts Are Taking Their Revenge Again
-Published: 2026-11-09T08:08:55+00:00
-Link: https://foreignpolicy.com/2026/11/09/trump-iran-cia-intelligence/
----
-[Foreign_Policy] Is Hegseth the New Rumsfeld?
-Published: 2026-11-09T05:01:06+00:00
-Link: https://foreignpolicy.com/2026/11/09/hegseth-impeachment-iran-war-democratic-congress-donald-rumsfeld/
----
-[Foreign_Policy] Is Hegseth the New Rumsfeld?
-Published: 2026-11-09T05:01:06+00:00
-Link: https://foreignpolicy.com/2026/11/09/hegseth-rumsfeld-impeach-congress/
 ---
