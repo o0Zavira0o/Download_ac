@@ -1,6 +1,18 @@
-# Last Run: 2026-11-13 11:59 UTC
+# Last Run: 2026-11-13 19:20 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] What in the World?
+Published: 2026-11-13T18:04:50+00:00
+Link: https://foreignpolicy.com/2026/11/13/foreign-policy-news-quiz-nvidia-huang-resignation-pope-leo-cop31/
+---
+[Foreign_Policy] Congress Can Do More to Defend U.S. Alliances
+Published: 2026-11-13T14:32:37+00:00
+Link: https://foreignpolicy.com/2026/11/13/congress-alliances-nato-europe-china-defense-tariffs/
+---
+[Foreign_Policy] Pope Leo’s South America Tour
+Published: 2026-11-13T13:00:49+00:00
+Link: https://foreignpolicy.com/2026/11/13/pope-leo-south-america-trip-argentina-peru-uruguay/
+---
 [Foreign_Policy] Lame-Duck Trump Heads to Asia
 Published: 2026-11-13T10:00:03+00:00
 Link: https://foreignpolicy.com/2026/11/13/trump-asia-visit-apec-china-philippines-quad-asean-xi-putin/
@@ -120,20 +132,4 @@ Link: https://foreignpolicy.com/2026/11/10/us-russia-ukraine-peace-talks-progres
 [Foreign_Policy] There’s Never a New Middle East
 Published: 2026-11-10T19:21:20+00:00
 Link: https://foreignpolicy.com/2026/11/10/middle-east-new-washington-arab-spring-iran-war/
----
-[Foreign_Policy] ‘Sabotage’: Read Hegseth’s Fiery Speech Against His Impeachment
-Published: 2026-11-10T16:59:05+00:00
-Link: https://foreignpolicy.com/2026/11/10/hegseth-speech-impeachment-transcript-pentagon-full-text/
----
-[Foreign_Policy] The Economic Impact of Israel’s Election
-Published: 2026-11-10T15:23:35+00:00
-Link: https://foreignpolicy.com/2026/11/10/israel-election-economy-netanyahu-eisenkot-united-states-trump/
----
-[Foreign_Policy] The Democrats Have a Mandate to Tackle Corruption. Here’s How.
-Published: 2026-11-10T14:31:18+00:00
-Link: https://foreignpolicy.com/2026/11/10/democrats-republicans-elections-corruption-campaign-finance-trump/
----
-[Foreign_Policy] And What About Europe’s Center-Left?
-Published: 2026-11-10T14:09:50+00:00
-Link: https://foreignpolicy.com/2026/11/10/democrats-us-europe-eu-center-left/
 ---
