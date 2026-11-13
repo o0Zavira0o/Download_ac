@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
+_آخرین به‌روزرسانی: 2026-11-13T17:05:57Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-13 08:20:21 (UTC)  
+  **مدت:** حدود 6.0 دقیقه  
+  **عنوان:** [How to Design an Archimedes Screw in SOLIDWORKS | Screw Conveyor 3D Modeling Tutorial](https://www.youtube.com/watch?v=KCabpX5Clgc)  
+  ![](https://i.ytimg.com/vi/KCabpX5Clgc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-11 04:02:37 (UTC)  
@@ -20,7 +26,7 @@ _آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
 
 - **تاریخ انتشار:** 2026-11-08 05:55:58 (UTC)  
   **مدت:** حدود 4.9 دقیقه  
-  **عنوان:** [SolidCraft FREE Software? 😱 Learn 3D Design From ZERO | Beginner Tutorial](https://www.youtube.com/watch?v=rFqzEq_UbM4)  
+  **عنوان:** [Don't Start 3D Modeling Until You Watch This!](https://www.youtube.com/watch?v=rFqzEq_UbM4)  
   ![](https://i.ytimg.com/vi/rFqzEq_UbM4/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [How to Use Linear Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=UrWsuyFVjHU)  
   ![](https://i.ytimg.com/vi/UrWsuyFVjHU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-24 13:09:34 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [✅How to Calculate L- Section Weight of Mild Steel ❓](https://www.youtube.com/watch?v=VNllKJ8Ip5s)  
-  ![](https://i.ytimg.com/vi/VNllKJ8Ip5s/hqdefault.jpg)

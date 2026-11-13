@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
+_آخرین به‌روزرسانی: 2026-11-13T17:05:57Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-11-13 13:22:07 (UTC)  
+  **مدت:** حدود 18.5 دقیقه  
+  **عنوان:** [Design of 3d model in solidworks | Exercise43 | Solidworks Exercise Tutorial](https://www.youtube.com/watch?v=digvXc21yY0)  
+  ![](https://i.ytimg.com/vi/digvXc21yY0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-09 15:12:40 (UTC)  
@@ -602,56 +608,56 @@ _آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
 
 - **تاریخ انتشار:** 2026-02-26 17:33:45 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Shortcut key for how to find all the planes using on part in solidworks 😀 #shorts #ytshorts #cad](https://www.youtube.com/watch?v=9k9aSwA72cI)  
-  ![](https://i.ytimg.com/vi/9k9aSwA72cI/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=9k9aSwA72cI)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-02-24 04:31:32 (UTC)  
   **مدت:** حدود 0.8 دقیقه  
-  **عنوان:** [Solidworks assembly mate 😄 #shorts #ytshorts #solidworks #malviyacadsolution #cad](https://www.youtube.com/watch?v=CsuQT4vRF0o)  
-  ![](https://i.ytimg.com/vi/CsuQT4vRF0o/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=CsuQT4vRF0o)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-02-22 03:38:33 (UTC)  
   **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [Linear coupler in solidworks assembly ! Advance mate 😄 #shorts #ytshorts #solidworks](https://www.youtube.com/watch?v=zlHPZZ58_tw)  
-  ![](https://i.ytimg.com/vi/zlHPZZ58_tw/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=zlHPZZ58_tw)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-02-20 16:01:40 (UTC)  
   **مدت:** حدود 11.5 دقیقه  
-  **عنوان:** [Arbour Design in Solidworks MT2 | Step by Step Solidworks tutorial](https://www.youtube.com/watch?v=hnChk6GE158)  
-  ![](https://i.ytimg.com/vi/hnChk6GE158/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=hnChk6GE158)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-02-13 02:51:22 (UTC)  
   **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Belt chain feature in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=KuBs2UGkbi0)  
-  ![](https://i.ytimg.com/vi/KuBs2UGkbi0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=KuBs2UGkbi0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-02-09 05:41:51 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Solidworks 3d modelling chain pulley design 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=0yuODjSqx2w)  
-  ![](https://i.ytimg.com/vi/0yuODjSqx2w/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=0yuODjSqx2w)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-02-08 17:06:37 (UTC)  
   **مدت:** حدود 14.6 دقیقه  
-  **عنوان:** [Design of Chain Pulley in Solidworks | Step by Step tutorial | Solidworks 2025](https://www.youtube.com/watch?v=Jtfj5l7XdrQ)  
-  ![](https://i.ytimg.com/vi/Jtfj5l7XdrQ/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Jtfj5l7XdrQ)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-02-06 16:54:27 (UTC)  
   **مدت:** حدود 1.2 دقیقه  
-  **عنوان:** [Advance lofted cut in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=IF8bN9IOMVA)  
-  ![](https://i.ytimg.com/vi/IF8bN9IOMVA/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=IF8bN9IOMVA)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-02-06 02:50:44 (UTC)  
   **مدت:** حدود 20.4 دقیقه  
-  **عنوان:** [Solidworks advance modelling tutorial | Citrus juicer in Solidworks](https://www.youtube.com/watch?v=a-W8majfDYk)  
-  ![](https://i.ytimg.com/vi/a-W8majfDYk/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=a-W8majfDYk)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-02-04 05:57:41 (UTC)  
@@ -662,44 +668,44 @@ _آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
 
 - **تاریخ انتشار:** 2026-02-03 17:17:58 (UTC)  
   **مدت:** حدود 11.8 دقیقه  
-  **عنوان:** [Design of Arbour Sleeve (size 3/4") in Solidworks | Solidworks beginners tutorial](https://www.youtube.com/watch?v=NxseF9G3qCA)  
-  ![](https://i.ytimg.com/vi/NxseF9G3qCA/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=NxseF9G3qCA)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-30 04:15:08 (UTC)  
   **مدت:** حدود 1.8 دقیقه  
-  **عنوان:** [Watch till end for reference mate in solidworks 😀 #shorts #ytshorts #malviyacadsolution #solidworks](https://www.youtube.com/watch?v=yoOUTxYm54Q)  
-  ![](https://i.ytimg.com/vi/yoOUTxYm54Q/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=yoOUTxYm54Q)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-29 04:52:25 (UTC)  
   **مدت:** حدود 1.2 دقیقه  
-  **عنوان:** [Solidworks fill pattern 😀 #shorts #ytshorts #solidworks #malviyacadsolution #cad](https://www.youtube.com/watch?v=z5a1qL9uoKE)  
-  ![](https://i.ytimg.com/vi/z5a1qL9uoKE/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=z5a1qL9uoKE)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-28 04:00:58 (UTC)  
   **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [How to apply axis line with explode view in solidworks 😀 #shorts #ytshorts #malviyacadsolution](https://www.youtube.com/watch?v=7J_oadC0lD0)  
-  ![](https://i.ytimg.com/vi/7J_oadC0lD0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=7J_oadC0lD0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-27 02:49:24 (UTC)  
   **مدت:** حدود 2.4 دقیقه  
-  **عنوان:** [How to make this in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution #cad #subscribe](https://www.youtube.com/watch?v=hFWeDSS14us)  
-  ![](https://i.ytimg.com/vi/hFWeDSS14us/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=hFWeDSS14us)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-26 08:22:07 (UTC)  
   **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [Gravity mate in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution #cad](https://www.youtube.com/watch?v=AQkVvo0nf0o)  
-  ![](https://i.ytimg.com/vi/AQkVvo0nf0o/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=AQkVvo0nf0o)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-24 08:32:54 (UTC)  
   **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [Solidworks fastening feature Lip/Groove 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=yzqCBHJVMq8)  
-  ![](https://i.ytimg.com/vi/yzqCBHJVMq8/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=yzqCBHJVMq8)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-22 16:46:04 (UTC)  
@@ -710,197 +716,191 @@ _آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
 
 - **تاریخ انتشار:** 2026-01-21 17:40:33 (UTC)  
   **مدت:** حدود 15.6 دقیقه  
-  **عنوان:** [Solidworks Beginners Exercise Tutorial | Solidworks Exercise38](https://www.youtube.com/watch?v=c3_dZbFDrfY)  
-  ![](https://i.ytimg.com/vi/c3_dZbFDrfY/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=c3_dZbFDrfY)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-21 09:41:25 (UTC)  
   **مدت:** حدود 1.7 دقیقه  
-  **عنوان:** [How to apply an asymmetric chamfer in solidworks 😀 #shorts #ytshorts #malviyacadsolution](https://www.youtube.com/watch?v=u81vHAupUKo)  
-  ![](https://i.ytimg.com/vi/u81vHAupUKo/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=u81vHAupUKo)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-21 02:49:49 (UTC)  
   **مدت:** حدود 10.4 دقیقه  
-  **عنوان:** [Solidworks exercise tutorial for beginners | Solidworks tutorial](https://www.youtube.com/watch?v=mRXA0xF7RjQ)  
-  ![](https://i.ytimg.com/vi/mRXA0xF7RjQ/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=mRXA0xF7RjQ)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-18 17:13:01 (UTC)  
   **مدت:** حدود 10.7 دقیقه  
-  **عنوان:** [Solidworks Beginners Exercise Tutorial | Exercise37](https://www.youtube.com/watch?v=mA1nzL8kx7M)  
-  ![](https://i.ytimg.com/vi/mA1nzL8kx7M/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=mA1nzL8kx7M)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-18 07:49:02 (UTC)  
   **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [How to apply a tapper hole using Hole wizard in solidworks 😀 #shorts #ytshorts #malviyacadsolution](https://www.youtube.com/watch?v=vhQj0kVBVHs)  
-  ![](https://i.ytimg.com/vi/vhQj0kVBVHs/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=vhQj0kVBVHs)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-18 06:07:30 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Solidworks cut with surface feature #shorts #ytshorts #solidworks #malviyacadsolution #subscribe](https://www.youtube.com/watch?v=r3nryWSfKig)  
-  ![](https://i.ytimg.com/vi/r3nryWSfKig/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=r3nryWSfKig)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-16 16:10:01 (UTC)  
   **مدت:** حدود 11.4 دقیقه  
-  **عنوان:** [Solidworks advance surface modelling 2025 | Solidworks surface tutorial](https://www.youtube.com/watch?v=crCzejCxV3Y)  
-  ![](https://i.ytimg.com/vi/crCzejCxV3Y/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=crCzejCxV3Y)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-16 06:09:55 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [Advance surface modelling in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=4_OgEFhNdr0)  
-  ![](https://i.ytimg.com/vi/4_OgEFhNdr0/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=4_OgEFhNdr0)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-15 02:50:56 (UTC)  
   **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [Solidworks Routing Assembly tutorial 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=4365I67vb94)  
-  ![](https://i.ytimg.com/vi/4365I67vb94/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=4365I67vb94)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-14 08:52:45 (UTC)  
   **مدت:** حدود 1.1 دقیقه  
-  **عنوان:** [Solidworks sheetmetal insert Bend 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=YjI5yrM4uCE)  
-  ![](https://i.ytimg.com/vi/YjI5yrM4uCE/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=YjI5yrM4uCE)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-13 02:58:12 (UTC)  
   **مدت:** حدود 11.2 دقیقه  
-  **عنوان:** [Design of rectangle type cyclone in solidworks | Solidworks sheetmetal tutorial](https://www.youtube.com/watch?v=zv-jLUSVznY)  
-  ![](https://i.ytimg.com/vi/zv-jLUSVznY/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=zv-jLUSVznY)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-12 04:56:45 (UTC)  
   **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [Advance Bottle thread in solidworks 😀 #shorts #ytshorts #cad #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=0Cg38pmT9gw)  
-  ![](https://i.ytimg.com/vi/0Cg38pmT9gw/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=0Cg38pmT9gw)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-10 03:00:50 (UTC)  
   **مدت:** حدود 6.0 دقیقه  
-  **عنوان:** [Solidworks 3d Sketch Advanced modelling 2025 | Loft feature | Swept feature](https://www.youtube.com/watch?v=Sq3lt_ntESc)  
-  ![](https://i.ytimg.com/vi/Sq3lt_ntESc/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=Sq3lt_ntESc)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-09 03:33:36 (UTC)  
   **مدت:** حدود 2.8 دقیقه  
-  **عنوان:** [Thread with 2 types of features in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=16NzwdblP_s)  
-  ![](https://i.ytimg.com/vi/16NzwdblP_s/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=16NzwdblP_s)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-08 03:30:17 (UTC)  
   **مدت:** حدود 1.7 دقیقه  
-  **عنوان:** [How to apply chamfer on hole in hole wizard 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=4s6OLReNYgM)  
-  ![](https://i.ytimg.com/vi/4s6OLReNYgM/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=4s6OLReNYgM)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-07 03:19:35 (UTC)  
   **مدت:** حدود 1.6 دقیقه  
-  **عنوان:** [How to apply face fillet in solidworks 😀#shorts #ytshorts #solidworks #cad #malviyacadsolution](https://www.youtube.com/watch?v=OTvLj1EV8dg)  
-  ![](https://i.ytimg.com/vi/OTvLj1EV8dg/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=OTvLj1EV8dg)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-06 16:27:39 (UTC)  
   **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [How to export dxf file in solidworks 😀 #ytshorts #shorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=P5qNu6UJBaM)  
-  ![](https://i.ytimg.com/vi/P5qNu6UJBaM/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=P5qNu6UJBaM)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-05 07:39:12 (UTC)  
   **مدت:** حدود 1.2 دقیقه  
-  **عنوان:** [Surface flattern feature in solidworks 😀 #ytshorts #shorts #solidworks #malviyacadsolution #cad](https://www.youtube.com/watch?v=SLSntZnVQc4)  
-  ![](https://i.ytimg.com/vi/SLSntZnVQc4/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=SLSntZnVQc4)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-05 02:22:52 (UTC)  
   **مدت:** حدود 1.3 دقیقه  
-  **عنوان:** [Solidworks surface feature | Boundary surface 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=a__Bs-BuoW8)  
-  ![](https://i.ytimg.com/vi/a__Bs-BuoW8/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=a__Bs-BuoW8)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2026-01-02 03:28:56 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Sheetmetal Hem tool in solidworks 😀 #shorts #ytshorts #solidworks #sheetmetal #malviyacadsolution](https://www.youtube.com/watch?v=adC0aoaMavE)  
-  ![](https://i.ytimg.com/vi/adC0aoaMavE/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=adC0aoaMavE)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-12-31 13:40:48 (UTC)  
   **مدت:** حدود 13.0 دقیقه  
-  **عنوان:** [Solidworks Hinge Tutorial | Parts and assembly  with mechanical mate](https://www.youtube.com/watch?v=9XKd3jmubMI)  
-  ![](https://i.ytimg.com/vi/9XKd3jmubMI/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=9XKd3jmubMI)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-12-30 17:58:35 (UTC)  
   **مدت:** حدود 1.0 دقیقه  
-  **عنوان:** [How to apply extrude upto surface in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=gt7Xpai_Kk4)  
-  ![](https://i.ytimg.com/vi/gt7Xpai_Kk4/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=gt7Xpai_Kk4)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-12-28 02:33:39 (UTC)  
   **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [Hinge Assembly mate in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=zzj1vHQDD1s)  
-  ![](https://i.ytimg.com/vi/zzj1vHQDD1s/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=zzj1vHQDD1s)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-12-26 13:07:18 (UTC)  
   **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Delete face in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution #subscribe](https://www.youtube.com/watch?v=aBI_uaZo0fI)  
-  ![](https://i.ytimg.com/vi/aBI_uaZo0fI/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=aBI_uaZo0fI)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-12-26 04:24:56 (UTC)  
   **مدت:** حدود 2.1 دقیقه  
-  **عنوان:** [Magic tool in solidworks 😀 #shorts #ytshorts #solidworks #cad #malviyacadsolution](https://www.youtube.com/watch?v=QZt77ORq2W8)  
-  ![](https://i.ytimg.com/vi/QZt77ORq2W8/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=QZt77ORq2W8)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-12-25 04:40:22 (UTC)  
   **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [Learn about counterbore in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=H-fvC2MGKas)  
-  ![](https://i.ytimg.com/vi/H-fvC2MGKas/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=H-fvC2MGKas)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-12-23 03:10:42 (UTC)  
   **مدت:** حدود 1.1 دقیقه  
-  **عنوان:** [3d modelling in solidworks 2025 😀 #solidworks #shorts #ytshorts #malviyacadsolution #cad](https://www.youtube.com/watch?v=dcnWJWNplss)  
-  ![](https://i.ytimg.com/vi/dcnWJWNplss/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=dcnWJWNplss)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-12-22 03:58:57 (UTC)  
   **مدت:** حدود 49.5 دقیقه  
-  **عنوان:** [Solidworks Advance Exercise Tutorial | Exercise35 | Solidworks tutorial 2025](https://www.youtube.com/watch?v=bN5u707Rvlk)  
-  ![](https://i.ytimg.com/vi/bN5u707Rvlk/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=bN5u707Rvlk)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-12-21 03:33:34 (UTC)  
   **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [Solidworks sheetmetal stamp feature 2025 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=fp4IaZ2ehhc)  
-  ![](https://i.ytimg.com/vi/fp4IaZ2ehhc/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=fp4IaZ2ehhc)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-12-19 15:29:23 (UTC)  
   **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Using a lofted boss with a centerline perameter 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=7kQbJQ2E9Dg)  
-  ![](https://i.ytimg.com/vi/7kQbJQ2E9Dg/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=7kQbJQ2E9Dg)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-12-19 07:12:22 (UTC)  
   **مدت:** حدود 2.2 دقیقه  
-  **عنوان:** [How to set a cavity in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=vb9kLo89xDg)  
-  ![](https://i.ytimg.com/vi/vb9kLo89xDg/hqdefault.jpg)
+  **عنوان:** [Deleted video](https://www.youtube.com/watch?v=vb9kLo89xDg)  
+  ![]()
 
 
 - **تاریخ انتشار:** 2025-12-19 02:57:32 (UTC)  
   **مدت:** حدود 20.9 دقیقه  
   **عنوان:** [Solidworks Mold Design CORE CAVITY and PART | Solidworks tutorial](https://www.youtube.com/watch?v=GL0gsSAX5ek)  
   ![](https://i.ytimg.com/vi/GL0gsSAX5ek/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-17 06:08:33 (UTC)  
-  **مدت:** حدود 0.6 دقیقه  
-  **عنوان:** [Solidworks mold design 2025 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=BtG0CZbDHc0)  
-  ![](https://i.ytimg.com/vi/BtG0CZbDHc0/hqdefault.jpg)

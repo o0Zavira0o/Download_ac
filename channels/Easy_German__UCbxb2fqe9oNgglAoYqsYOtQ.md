@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
+_آخرین به‌روزرسانی: 2026-11-13T17:05:57Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-13 09:17:22 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Heiliger aus hohlem Holz](https://www.youtube.com/watch?v=tL1Pi5nn97w)  
+  ![](https://i.ytimg.com/vi/tL1Pi5nn97w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-12 09:23:57 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
   **مدت:** حدود 9.0 دقیقه  
   **عنوان:** [What Germans call their loved ones | Easy German 208](https://www.youtube.com/watch?v=1mXzrM5pYyE)  
   ![](https://i.ytimg.com/vi/1mXzrM5pYyE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-08-16 20:30:31 (UTC)  
-  **مدت:** حدود 5.4 دقیقه  
-  **عنوان:** [Things you read in the Streets | Super Easy German (44)](https://www.youtube.com/watch?v=NafRXUWieG0)  
-  ![](https://i.ytimg.com/vi/NafRXUWieG0/hqdefault.jpg)

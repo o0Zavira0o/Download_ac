@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
+_آخرین به‌روزرسانی: 2026-11-13T17:05:57Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-13 15:01:26 (UTC)  
+  **مدت:** حدود 11.5 دقیقه  
+  **عنوان:** [Plastic Manure Scoop Modeling in SolidWorks (Draft, Combine-Subtract, Intersect, Shell)](https://www.youtube.com/watch?v=6ZQIi0uluI0)  
+  ![](https://i.ytimg.com/vi/6ZQIi0uluI0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-12 14:44:51 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
   **مدت:** حدود 11.8 دقیقه  
   **عنوان:** [How to Create Custom Title block template in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=hQKi5mf3VCc)  
   ![](https://i.ytimg.com/vi/hQKi5mf3VCc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-22 15:04:30 (UTC)  
-  **مدت:** حدود 6.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | Smart Dimension Tips](https://www.youtube.com/watch?v=1-4_1U1ecQ0)  
-  ![](https://i.ytimg.com/vi/1-4_1U1ecQ0/hqdefault.jpg)

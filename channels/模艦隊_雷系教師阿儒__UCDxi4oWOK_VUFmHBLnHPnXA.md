@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
+_آخرین به‌روزرسانی: 2026-11-13T17:05:57Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-11-13 11:00:30 (UTC)  
+  **مدت:** حدود 19.4 دقیقه  
+  **عنوان:** [【onshape】基礎零件：法蘭軸套｜0608週一工程圖](https://www.youtube.com/watch?v=lNR3jQsgwcA)  
+  ![](https://i.ytimg.com/vi/lNR3jQsgwcA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-11 11:23:00 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
   **مدت:** حدود 17.0 دقیقه  
   **عنوان:** [【SolidWorks】我沒有要講「變形」指令｜用模型組態來控制設計變更](https://www.youtube.com/watch?v=qOmkgs7oWqg)  
   ![](https://i.ytimg.com/vi/qOmkgs7oWqg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-26 11:01:38 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [短片看建模：SolidWorks產品建模：收納箱](https://www.youtube.com/watch?v=y-9F3Vp-rGA)  
-  ![](https://i.ytimg.com/vi/y-9F3Vp-rGA/hqdefault.jpg)

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
+_آخرین به‌روزرسانی: 2026-11-13T17:05:57Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-11-12 23:19:32 (UTC)  
+  **مدت:** حدود 2.2 دقیقه  
+  **عنوان:** [SUSPENSÃO DO PATINETE MOTOTANQUE](https://www.youtube.com/watch?v=No0UwWyEQ80)  
+  ![](https://i.ytimg.com/vi/No0UwWyEQ80/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-09 22:30:34 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-12T17:30:00Z_
   **مدت:** حدود 27.7 دقیقه  
   **عنوان:** [AULA 51 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=y2-YgnjLvKg)  
   ![](https://i.ytimg.com/vi/y2-YgnjLvKg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-05-30 22:30:01 (UTC)  
-  **مدت:** حدود 27.4 دقیقه  
-  **عنوان:** [AULA 50 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=C1T_GpR4oFE)  
-  ![](https://i.ytimg.com/vi/C1T_GpR4oFE/hqdefault.jpg)
