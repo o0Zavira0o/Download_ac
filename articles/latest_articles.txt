@@ -1,6 +1,22 @@
-# Last Run: 2026-11-13 02:29 UTC
+# Last Run: 2026-11-13 11:59 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Lame-Duck Trump Heads to Asia
+Published: 2026-11-13T10:00:03+00:00
+Link: https://foreignpolicy.com/2026/11/13/trump-asia-visit-apec-china-philippines-quad-asean-xi-putin/
+---
+[Foreign_Affairs] The Case for a Trump-Xi-Putin Summit
+Published: 2026-11-13T05:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/case-trump-xi-putin-summit
+---
+[Foreign_Affairs] The World’s Last Chance for Peace
+Published: 2026-11-13T05:00:00+00:00
+Link: https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war
+---
+[Foreign_Affairs] La última oportunidad para la paz
+Published: 2026-11-13T05:00:00+00:00
+Link: https://www.foreignaffairs.com/es/spain/pedro-sanchez-ultima-oportunidad-paz-evitar-guerra-mundial
+---
 [Foreign_Policy] Hegseth’s Troubles Are Far From Over
 Published: 2026-11-12T22:46:38+00:00
 Link: https://foreignpolicy.com/2026/11/12/hegseth-impeachment-congress-democrats-trump/
@@ -120,16 +136,4 @@ Link: https://foreignpolicy.com/2026/11/10/democrats-republicans-elections-corru
 [Foreign_Policy] And What About Europe’s Center-Left?
 Published: 2026-11-10T14:09:50+00:00
 Link: https://foreignpolicy.com/2026/11/10/democrats-us-europe-eu-center-left/
----
-[Foreign_Policy] The Global Economy Braces for Yet Another Blow
-Published: 2026-11-10T11:00:07+00:00
-Link: https://foreignpolicy.com/2026/11/10/el-nino-economy-agriculture-cost/
----
-[Foreign_Affairs] China’s AI Diplomacy Is Working
-Published: 2026-11-10T09:00:00+00:00
-Link: https://www.foreignaffairs.com/china/chinas-ai-diplomacy-working
----
-[Foreign_Affairs] The Luxury of Children
-Published: 2026-11-10T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/luxury-children
 ---
