@@ -1,6 +1,14 @@
-# Last Run: 2026-11-12 21:21 UTC
+# Last Run: 2026-11-13 02:29 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Hegseth’s Troubles Are Far From Over
+Published: 2026-11-12T22:46:38+00:00
+Link: https://foreignpolicy.com/2026/11/12/hegseth-impeachment-congress-democrats-trump/
+---
+[Foreign_Policy] Huang Out at Nvidia
+Published: 2026-11-12T20:50:22+00:00
+Link: https://foreignpolicy.com/2026/11/12/nvidia-jensen-huang-resigns-ai-china-spy-megaspeed-extramarital-affairs/
+---
 [Foreign_Policy] Russia’s Cheapest Weapon in Its Hybrid War Is Fear
 Published: 2026-11-12T18:51:15+00:00
 Link: https://foreignpolicy.com/2026/11/12/europe-bomb-threats-russia-hybrid-war-nato-deterrence-ukraine-military/
@@ -124,24 +132,4 @@ Link: https://www.foreignaffairs.com/china/chinas-ai-diplomacy-working
 [Foreign_Affairs] The Luxury of Children
 Published: 2026-11-10T09:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/luxury-children
----
-[Foreign_Policy] Where Is U.S. Security Assistance to Jordan Going?
-Published: 2026-11-10T00:17:41+00:00
-Link: https://foreignpolicy.com/2026/11/09/united-states-aid-security-jordan-church-attack-islamic-state/
----
-[Foreign_Policy] The Walls Close In on Hegseth
-Published: 2026-11-09T22:26:03+00:00
-Link: https://foreignpolicy.com/2026/11/09/pete-hegseth-midterms-trump-iran-war-impeachment-congress/
----
-[Foreign_Policy] What to Know About Nvidia CEO Jensen Huang’s Chinese Spy Scandal
-Published: 2026-11-09T21:57:16+00:00
-Link: https://foreignpolicy.com/2026/11/09/jensen-huang-spy-scandal-alice-nvidia-trump-china/
----
-[Foreign_Policy] Trump Hosts Key Qatari Mediator to Discuss End to Iran War
-Published: 2026-11-09T21:34:48+00:00
-Link: https://foreignpolicy.com/2026/11/09/trump-qatar-thani-iran-war-nvidia-huang-affair-chinese-spy/
----
-[Foreign_Policy] Hegseth’s Leadership Has Damaged the Pentagon
-Published: 2026-11-09T21:32:11+00:00
-Link: https://foreignpolicy.com/2026/11/09/hegseth-impeachment-charges-massie-defense-pentagon-damage/
 ---
