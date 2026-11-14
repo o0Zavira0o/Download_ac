@@ -1,6 +1,14 @@
-# Last Run: 2026-11-14 08:44 UTC
+# Last Run: 2026-11-14 16:27 UTC
 # Articles published in last 72 hours
 
+[New_Yorker_Magazine] President Trump’s Nightmare Oval Office
+Published: 2026-11-14T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/president-trumps-nightmare-oval-office
+---
+[New_Yorker_Magazine] Jensen Huang and the Storied Lineage of the Honey Trap
+Published: 2026-11-14T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/jensen-huang-and-the-storied-lineage-of-the-honey-trap
+---
 [Foreign_Policy] The EU’s First AI Summit
 Published: 2026-11-13T20:27:42+00:00
 Link: https://foreignpolicy.com/2026/11/13/eu-ai-summit-semiconductor-chips-russia-ukraine-peace-talks-nvidia/
@@ -40,6 +48,10 @@ Link: https://foreignpolicy.com/2026/11/13/congress-alliances-nato-europe-china-
 [Foreign_Policy] Pope Leo’s South America Tour
 Published: 2026-11-13T13:00:49+00:00
 Link: https://foreignpolicy.com/2026/11/13/pope-leo-south-america-trip-argentina-peru-uruguay/
+---
+[New_Yorker_Magazine] The Labyrinthine Betrayals of “Minotaur”
+Published: 2026-11-13T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/minotaur-movie-review
 ---
 [Foreign_Policy] Lame-Duck Trump Heads to Asia
 Published: 2026-11-13T10:00:03+00:00
@@ -112,32 +124,4 @@ Link: https://foreignpolicy.com/2026/11/11/us-midterm-elections-israel-iran-war-
 [Foreign_Policy] What a Hormuz Endgame Could Actually Look Like
 Published: 2026-11-11T17:32:23+00:00
 Link: https://foreignpolicy.com/2026/11/11/strait-hormuz-endgame-iran-trump-control-oman-war-shipping-oil/
----
-[Foreign_Policy] Brazil Shows the Danger of Digital Chokepoints
-Published: 2026-11-11T15:22:58+00:00
-Link: https://foreignpolicy.com/2026/11/11/brazil-meta-lula-elections-big-tech/
----
-[Foreign_Policy] How New Delhi Sees the Blue Tsunami
-Published: 2026-11-11T11:00:08+00:00
-Link: https://foreignpolicy.com/2026/11/11/us-midterms-india-blue-tsunami-trump-democrats-trade/
----
-[Foreign_Policy] How Netanyahu Lost His Bet on Trump
-Published: 2026-11-11T09:30:41+00:00
-Link: https://foreignpolicy.com/2026/11/11/us-midterm-elections-netanyahu-trump-republicans-israel-aid/
----
-[Foreign_Policy] Memory Chips Are Completely Distorting South Korea’s Economy
-Published: 2026-11-11T09:11:24+00:00
-Link: https://foreignpolicy.com/2026/11/11/south-korea-semiconductor-memory-chips-artificial-intelligence-inflation-affordability/
----
-[Foreign_Policy] Memory Chips Are Completely Distorting South Korea’s Economy
-Published: 2026-11-11T09:11:24+00:00
-Link: https://foreignpolicy.com/2026/11/11/memory-chips-are-completely-distorting-south-koreas-economy/
----
-[Foreign_Affairs] A New Kind of Foreign Agent
-Published: 2026-11-11T09:00:00+00:00
-Link: https://www.foreignaffairs.com/china/new-kind-foreign-agent
----
-[Foreign_Affairs] Trump Is Facing a Very Different North Korea
-Published: 2026-11-11T09:00:00+00:00
-Link: https://www.foreignaffairs.com/north-korea/trump-facing-very-different-north-korea
 ---
