@@ -1,4 +1,4 @@
-# Last Run: 2026-11-14 00:45 UTC
+# Last Run: 2026-11-14 08:44 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] The EU’s First AI Summit
@@ -140,8 +140,4 @@ Link: https://www.foreignaffairs.com/china/new-kind-foreign-agent
 [Foreign_Affairs] Trump Is Facing a Very Different North Korea
 Published: 2026-11-11T09:00:00+00:00
 Link: https://www.foreignaffairs.com/north-korea/trump-facing-very-different-north-korea
----
-[Foreign_Policy] Indonesia’s Wiretap Scandal Heralds a Political Showdown
-Published: 2026-11-11T06:00:42+00:00
-Link: https://foreignpolicy.com/2026/11/11/indonesia-wiretap-prabowo-police-chief/
 ---
