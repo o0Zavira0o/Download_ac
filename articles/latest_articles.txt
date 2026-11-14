@@ -1,6 +1,34 @@
-# Last Run: 2026-11-13 19:20 UTC
+# Last Run: 2026-11-14 00:45 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The EU’s First AI Summit
+Published: 2026-11-13T20:27:42+00:00
+Link: https://foreignpolicy.com/2026/11/13/eu-ai-summit-semiconductor-chips-russia-ukraine-peace-talks-nvidia/
+---
+[Foreign_Policy] Realism Was Forged in Trauma
+Published: 2026-11-13T20:00:00+00:00
+Link: https://foreignpolicy.com/2026/11/13/realism-hans-morgenthau-david-sacks-the-realist-review-international-relations-theory/
+---
+[Foreign_Policy] The Journalists Who Left Russia—But Can’t Escape It
+Published: 2026-11-13T19:56:57+00:00
+Link: https://foreignpolicy.com/2026/11/13/russia-my-undesirable-friends-film-movie-review-war-ukraine-journalism/
+---
+[Foreign_Policy] What Jensen Huang’s Fall Means for U.S.-China Relations
+Published: 2026-11-13T19:50:23+00:00
+Link: https://foreignpolicy.com/2026/11/13/jensen-huang-nvidia-resignation-china-spy-scandal-trump/
+---
+[Foreign_Policy] How Lebanon Became the Middle East’s Battleground
+Published: 2026-11-13T19:38:34+00:00
+Link: https://foreignpolicy.com/2026/11/13/lebanon-middle-east-hezbollah-history-us-israel-military-war/
+---
+[Foreign_Policy] Nvidia, Spies, and the Art of Economic Espionage
+Published: 2026-11-13T19:35:54+00:00
+Link: https://foreignpolicy.com/2026/11/13/nvidia-spy-chips-artificial-intelligence-huang-china/
+---
+[Foreign_Policy] Will German Rearmament Save Europe?
+Published: 2026-11-13T19:30:52+00:00
+Link: https://foreignpolicy.com/2026/11/13/german-rearmament-europe-nato-military-liana-fix-review/
+---
 [Foreign_Policy] What in the World?
 Published: 2026-11-13T18:04:50+00:00
 Link: https://foreignpolicy.com/2026/11/13/foreign-policy-news-quiz-nvidia-huang-resignation-pope-leo-cop31/
@@ -116,20 +144,4 @@ Link: https://www.foreignaffairs.com/north-korea/trump-facing-very-different-nor
 [Foreign_Policy] Indonesia’s Wiretap Scandal Heralds a Political Showdown
 Published: 2026-11-11T06:00:42+00:00
 Link: https://foreignpolicy.com/2026/11/11/indonesia-wiretap-prabowo-police-chief/
----
-[Foreign_Policy] Did China Play Jensen Huang?
-Published: 2026-11-10T22:55:16+00:00
-Link: https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-affair-china-spy-unanswered-questions/
----
-[Foreign_Policy] What Progressives Could Do on Israel
-Published: 2026-11-10T21:02:51+00:00
-Link: https://foreignpolicy.com/2026/11/10/progressives-democrats-israel-aid-weapons-sales-congress-midterms/
----
-[Foreign_Policy] U.S.-Mediated Russia-Ukraine Talks Make Little Headway
-Published: 2026-11-10T20:34:28+00:00
-Link: https://foreignpolicy.com/2026/11/10/us-russia-ukraine-peace-talks-progress-cease-fire-donbas/
----
-[Foreign_Policy] There’s Never a New Middle East
-Published: 2026-11-10T19:21:20+00:00
-Link: https://foreignpolicy.com/2026/11/10/middle-east-new-washington-arab-spring-iran-war/
 ---
