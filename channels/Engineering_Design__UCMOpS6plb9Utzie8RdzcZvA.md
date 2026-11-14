@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-13T17:05:57Z_
+_آخرین به‌روزرسانی: 2026-11-14T15:42:49Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-14 03:20:20 (UTC)  
+  **مدت:** حدود 3.8 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Tutorial For Beginners | Lofted Bend Explained](https://www.youtube.com/watch?v=aFjRrs1SG3c)  
+  ![](https://i.ytimg.com/vi/aFjRrs1SG3c/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-13 08:20:21 (UTC)  
@@ -140,7 +146,7 @@ _آخرین به‌روزرسانی: 2026-11-13T17:05:57Z_
 
 - **تاریخ انتشار:** 2026-10-24 02:18:15 (UTC)  
   **مدت:** حدود 9.5 دقیقه  
-  **عنوان:** [SolidWorks Tutorial For Beginners | How To Model This Complex Part From 2D Drawing](https://www.youtube.com/watch?v=VvbfiAD4AG0)  
+  **عنوان:** [How To Model This Complex Part From 2D Drawing](https://www.youtube.com/watch?v=VvbfiAD4AG0)  
   ![](https://i.ytimg.com/vi/VvbfiAD4AG0/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-13T17:05:57Z_
   **مدت:** حدود 0.4 دقیقه  
   **عنوان:** [How to Use Revolve Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=9kXnYJEb5o4)  
   ![](https://i.ytimg.com/vi/9kXnYJEb5o4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-25 14:28:38 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [How to Use Linear Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=UrWsuyFVjHU)  
-  ![](https://i.ytimg.com/vi/UrWsuyFVjHU/hqdefault.jpg)

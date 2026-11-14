@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-11-13T17:05:57Z_
+_آخرین به‌روزرسانی: 2026-11-14T15:42:49Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-11-14 10:00:39 (UTC)  
+  **مدت:** حدود 19.9 دقیقه  
+  **عنوان:** [52.MIGHTY MAMMOTH | Origami Mammoth with White Tusks | マンモスの折り紙【無言の折り紙】](https://www.youtube.com/watch?v=mtEhYM-E1KA)  
+  ![](https://i.ytimg.com/vi/mtEhYM-E1KA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-07 10:00:06 (UTC)  
