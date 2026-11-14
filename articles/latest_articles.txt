@@ -1,4 +1,4 @@
-# Last Run: 2026-11-14 16:27 UTC
+# Last Run: 2026-11-14 22:05 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] President Trump’s Nightmare Oval Office
@@ -108,20 +108,4 @@ Link: https://foreignpolicy.com/2026/11/11/hoax-bomb-threats-schools-italy-europ
 [Foreign_Policy] India Ups Its Ukraine War Diplomacy
 Published: 2026-11-11T22:19:17+00:00
 Link: https://foreignpolicy.com/2026/11/11/india-ukraine-war-russia-mediation-black-sea/
----
-[Foreign_Policy] The Tragedy of Tanzania
-Published: 2026-11-11T22:01:17+00:00
-Link: https://foreignpolicy.com/2026/11/11/tanzania-samia-hassan-lissu-chadema-sentence/
----
-[Foreign_Policy] Serbia’s Student Movement Faces Its Next Test
-Published: 2026-11-11T17:55:40+00:00
-Link: https://foreignpolicy.com/2026/11/11/serbia-parliament-elections-vucic-corruption-student-movement-sns-student-list/
----
-[Foreign_Policy] Congress Must Stop Arming Israel
-Published: 2026-11-11T17:46:03+00:00
-Link: https://foreignpolicy.com/2026/11/11/us-midterm-elections-israel-iran-war-congress/
----
-[Foreign_Policy] What a Hormuz Endgame Could Actually Look Like
-Published: 2026-11-11T17:32:23+00:00
-Link: https://foreignpolicy.com/2026/11/11/strait-hormuz-endgame-iran-trump-control-oman-war-shipping-oil/
 ---
