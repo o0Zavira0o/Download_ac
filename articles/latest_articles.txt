@@ -1,4 +1,4 @@
-# Last Run: 2026-11-14 22:05 UTC
+# Last Run: 2026-11-15 05:14 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] President Trump’s Nightmare Oval Office
@@ -96,16 +96,4 @@ Link: https://www.foreignaffairs.com/united-states/america-can-do-good-and-do-we
 [Foreign_Affairs] The Paradox of Dollar Dominance
 Published: 2026-11-12T09:00:00+00:00
 Link: https://www.foreignaffairs.com/economics/paradox-dollar-dominance
----
-[Foreign_Policy] How Democrats Will Wield Power on Foreign Policy
-Published: 2026-11-11T22:34:18+00:00
-Link: https://foreignpolicy.com/2026/11/11/democratic-congress-foreign-policy-priorities-jason-crow-working-class-americans/
----
-[Foreign_Policy] Hoax Bomb Threats Target Hundreds of European Schools
-Published: 2026-11-11T22:23:16+00:00
-Link: https://foreignpolicy.com/2026/11/11/hoax-bomb-threats-schools-italy-europe-hybrid-warfare-russia-iran/
----
-[Foreign_Policy] India Ups Its Ukraine War Diplomacy
-Published: 2026-11-11T22:19:17+00:00
-Link: https://foreignpolicy.com/2026/11/11/india-ukraine-war-russia-mediation-black-sea/
 ---
