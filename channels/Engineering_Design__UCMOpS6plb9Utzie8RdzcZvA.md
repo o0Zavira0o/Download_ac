@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-14T15:42:49Z_
+_آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-15 11:59:19 (UTC)  
+  **مدت:** حدود 4.7 دقیقه  
+  **عنوان:** [How to Make a Faceted Sheet Metal Cone in SOLIDWORKS (Easy Lofted Bend!)](https://www.youtube.com/watch?v=0_RkrgdbPmE)  
+  ![](https://i.ytimg.com/vi/0_RkrgdbPmE/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-14 03:20:20 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-14T15:42:49Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [How to Use Sweep+ Circular Profile Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=bxXG4zWjEno)  
   ![](https://i.ytimg.com/vi/bxXG4zWjEno/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-26 11:42:23 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [How to Use Revolve Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=9kXnYJEb5o4)  
-  ![](https://i.ytimg.com/vi/9kXnYJEb5o4/hqdefault.jpg)

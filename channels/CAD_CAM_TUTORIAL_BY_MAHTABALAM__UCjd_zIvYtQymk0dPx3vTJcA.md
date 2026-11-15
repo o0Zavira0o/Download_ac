@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-14T15:42:49Z_
+_آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-15 13:44:22 (UTC)  
+  **مدت:** حدود 12.4 دقیقه  
+  **عنوان:** [Wave-Shaped Handle Modeling in SolidWorks (Swept Surface, Swept Boss/Base)](https://www.youtube.com/watch?v=9qO7_CnJmUk)  
+  ![](https://i.ytimg.com/vi/9qO7_CnJmUk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-13 15:01:26 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-14T15:42:49Z_
   **مدت:** حدود 9.1 دقیقه  
   **عنوان:** [Solidworks tutorial | Sheet Metal box using Louver tool in Solidworks](https://www.youtube.com/watch?v=MpHsHKFOE5Q)  
   ![](https://i.ytimg.com/vi/MpHsHKFOE5Q/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-24 04:11:58 (UTC)  
-  **مدت:** حدود 11.8 دقیقه  
-  **عنوان:** [How to Create Custom Title block template in Solidworks | Solidworks tutorial](https://www.youtube.com/watch?v=hQKi5mf3VCc)  
-  ![](https://i.ytimg.com/vi/hQKi5mf3VCc/hqdefault.jpg)

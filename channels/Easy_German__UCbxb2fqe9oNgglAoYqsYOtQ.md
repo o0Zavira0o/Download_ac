@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-14T15:42:49Z_
+_آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-14 17:21:30 (UTC)  
+  **مدت:** حدود 1.1 دقیقه  
+  **عنوان:** [Schwer zu verstehen 🤔](https://www.youtube.com/watch?v=MjkI0G_qbz0)  
+  ![](https://i.ytimg.com/vi/MjkI0G_qbz0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-13 09:17:22 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-14T15:42:49Z_
   **مدت:** حدود 3.5 دقیقه  
   **عنوان:** [Learning Fruits in German | Super Easy German (45)](https://www.youtube.com/watch?v=N9iYnpvkOcA)  
   ![](https://i.ytimg.com/vi/N9iYnpvkOcA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-08-20 16:57:33 (UTC)  
-  **مدت:** حدود 9.0 دقیقه  
-  **عنوان:** [What Germans call their loved ones | Easy German 208](https://www.youtube.com/watch?v=1mXzrM5pYyE)  
-  ![](https://i.ytimg.com/vi/1mXzrM5pYyE/hqdefault.jpg)

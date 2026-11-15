@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-11-14T15:42:49Z_
+_آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-11-15 01:57:48 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Solidworks surface loft ...#shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=uOPWxskhUas)  
+  ![](https://i.ytimg.com/vi/uOPWxskhUas/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-14 11:22:56 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-14T15:42:49Z_
   **مدت:** حدود 0.9 دقیقه  
   **عنوان:** [Using a lofted boss with a centerline perameter 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=7kQbJQ2E9Dg)  
   ![](https://i.ytimg.com/vi/7kQbJQ2E9Dg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-19 07:12:22 (UTC)  
-  **مدت:** حدود 2.2 دقیقه  
-  **عنوان:** [How to set a cavity in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=vb9kLo89xDg)  
-  ![](https://i.ytimg.com/vi/vb9kLo89xDg/hqdefault.jpg)
