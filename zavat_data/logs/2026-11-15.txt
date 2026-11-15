@@ -1,4 +1,34 @@
 ================================================================================
+2026-11-15 04:05:52 (Asia/Tehran) | IrGens
+Title  : Implementing VMware vSAN
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 48m | 342 MB
+Link   : http://zavat.pw/ebooks/vsan-vmware-implementing.html
+
+================================================================================
+2026-11-15 04:05:52 (Asia/Tehran) | IrGens
+Title  : Combine and Summarize Data in Python
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 53m | 153 MB
+Link   : http://zavat.pw/ebooks/python-combine-summarize-data.html
+
+================================================================================
+2026-11-15 04:05:52 (Asia/Tehran) | IrGens
+Title  : Defending AI Applications
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 31m | 382 MB
+Link   : http://zavat.pw/ebooks/defending-ai-applications.html
+
+================================================================================
+2026-11-15 04:05:52 (Asia/Tehran) | IrGens
+Title  : GitHub Copilot Deployment and Administration
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 19m | 504 MB
+Link   : http://zavat.pw/ebooks/github-copilot-deployment-administration.html
+
+================================================================================
+2026-11-15 04:05:52 (Asia/Tehran) | IrGens
+Title  : Windows Kernel Driver Exploitation
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 47m | 196 MB
+Link   : http://zavat.pw/ebooks/windows-kernel-driver-exploitation.html
+
+================================================================================
 2026-11-15 00:20:55 (Asia/Tehran) | hill0
 Title  : The Ultimate Chinese Takeaway Bible
 Details: English | 2026 | ISBN: 1399643525 | 349 Pages | EPUB (True) | 125 MB
