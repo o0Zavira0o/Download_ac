@@ -1,4 +1,4 @@
-# Last Run: 2026-11-15 19:47 UTC
+# Last Run: 2026-11-15 23:49 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] President Trump’s Nightmare Oval Office
@@ -68,12 +68,4 @@ Link: https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace
 [Foreign_Affairs] La última oportunidad para la paz
 Published: 2026-11-13T05:00:00+00:00
 Link: https://www.foreignaffairs.com/es/spain/pedro-sanchez-ultima-oportunidad-paz-evitar-guerra-mundial
----
-[Foreign_Policy] Hegseth’s Troubles Are Far From Over
-Published: 2026-11-12T22:46:38+00:00
-Link: https://foreignpolicy.com/2026/11/12/hegseth-impeachment-congress-democrats-trump/
----
-[Foreign_Policy] Huang Out at Nvidia
-Published: 2026-11-12T20:50:22+00:00
-Link: https://foreignpolicy.com/2026/11/12/nvidia-jensen-huang-resigns-ai-china-spy-megaspeed-extramarital-affairs/
 ---
