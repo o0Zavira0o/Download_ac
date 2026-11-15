@@ -1,4 +1,4 @@
-# Last Run: 2026-11-15 13:35 UTC
+# Last Run: 2026-11-15 19:47 UTC
 # Articles published in last 72 hours
 
 [New_Yorker_Magazine] President Trump’s Nightmare Oval Office
@@ -76,16 +76,4 @@ Link: https://foreignpolicy.com/2026/11/12/hegseth-impeachment-congress-democrat
 [Foreign_Policy] Huang Out at Nvidia
 Published: 2026-11-12T20:50:22+00:00
 Link: https://foreignpolicy.com/2026/11/12/nvidia-jensen-huang-resigns-ai-china-spy-megaspeed-extramarital-affairs/
----
-[Foreign_Policy] Russia’s Cheapest Weapon in Its Hybrid War Is Fear
-Published: 2026-11-12T18:51:15+00:00
-Link: https://foreignpolicy.com/2026/11/12/europe-bomb-threats-russia-hybrid-war-nato-deterrence-ukraine-military/
----
-[Foreign_Policy] U.S.-China Investments Can Still Work for Americans
-Published: 2026-11-12T17:58:52+00:00
-Link: https://foreignpolicy.com/2026/11/12/china-us-investments-auto-electric-vehicles/
----
-[Foreign_Policy] The Coming Era of Undersea Anarchy
-Published: 2026-11-12T14:30:23+00:00
-Link: https://foreignpolicy.com/2026/11/12/undersea-anarchy-turkey-greece-cyprus-energy/
 ---
