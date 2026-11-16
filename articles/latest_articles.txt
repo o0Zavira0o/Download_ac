@@ -1,6 +1,30 @@
-# Last Run: 2026-11-16 05:12 UTC
+# Last Run: 2026-11-16 15:03 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] How Xi Sees a Weakened Trump
+Published: 2026-11-16T12:00:55+00:00
+Link: https://foreignpolicy.com/2026/11/16/midterms-trump-xi-meeting/
+---
+[Foreign_Policy] Democrats Can’t Return to Pre-Trump Foreign Policy
+Published: 2026-11-16T12:00:39+00:00
+Link: https://foreignpolicy.com/2026/11/16/democrats-foreign-policy-congress-election-trump-tariffs/
+---
+[Foreign_Policy] Can South Africa Tackle HIV Without the U.S.?
+Published: 2026-11-16T10:00:22+00:00
+Link: https://foreignpolicy.com/2026/11/16/south-africa-hiv-aids-pepfar-trump-health-funding-withdrawal/
+---
+[Foreign_Affairs] China Doesn’t Want a Nuclear Arms Race
+Published: 2026-11-16T09:00:00+00:00
+Link: https://www.foreignaffairs.com/china/china-doesnt-want-nuclear-arms-race
+---
+[Foreign_Affairs] Why Israel Is Losing America
+Published: 2026-11-16T09:00:00+00:00
+Link: https://www.foreignaffairs.com/israel/why-israel-losing-america
+---
+[Foreign_Policy] Lessons From the Watergate Babies for the ‘No Kings’ Congress
+Published: 2026-11-16T05:01:24+00:00
+Link: https://foreignpolicy.com/2026/11/16/watergate-babies-congress-after-midterms/
+---
 [New_Yorker_Magazine] President Trump’s Nightmare Oval Office
 Published: 2026-11-14T11:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/23/president-trumps-nightmare-oval-office
@@ -40,20 +64,4 @@ Link: https://foreignpolicy.com/2026/11/13/german-rearmament-europe-nato-militar
 [Foreign_Policy] What in the World?
 Published: 2026-11-13T18:04:50+00:00
 Link: https://foreignpolicy.com/2026/11/13/foreign-policy-news-quiz-nvidia-huang-resignation-pope-leo-cop31/
----
-[Foreign_Policy] Congress Can Do More to Defend U.S. Alliances
-Published: 2026-11-13T14:32:37+00:00
-Link: https://foreignpolicy.com/2026/11/13/congress-alliances-nato-europe-china-defense-tariffs/
----
-[Foreign_Policy] Pope Leo’s South America Tour
-Published: 2026-11-13T13:00:49+00:00
-Link: https://foreignpolicy.com/2026/11/13/pope-leo-south-america-trip-argentina-peru-uruguay/
----
-[New_Yorker_Magazine] The Labyrinthine Betrayals of “Minotaur”
-Published: 2026-11-13T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/minotaur-movie-review
----
-[Foreign_Policy] Lame-Duck Trump Heads to Asia
-Published: 2026-11-13T10:00:03+00:00
-Link: https://foreignpolicy.com/2026/11/13/trump-asia-visit-apec-china-philippines-quad-asean-xi-putin/
 ---
