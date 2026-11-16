@@ -1,0 +1,30 @@
+================================================================================
+2026-11-16 03:36:25 (Asia/Tehran) | IrGens
+Title  : Cloud Observability for AWS Operations
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 6m | 298 MB
+Link   : http://zavat.pw/ebooks/aws-operations-cloud-observability.html
+
+================================================================================
+2026-11-16 03:36:25 (Asia/Tehran) | IrGens
+Title  : AWS Container Compute Operations
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 20m | 300 MB
+Link   : http://zavat.pw/ebooks/aws-container-compute-ops.html
+
+================================================================================
+2026-11-16 03:36:25 (Asia/Tehran) | IrGens
+Title  : Securing and Delivering AWS Network Traffic
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 30m | 267 MB
+Link   : http://zavat.pw/ebooks/aws-network-traffic-securing-delivering.html
+
+================================================================================
+2026-11-16 03:36:25 (Asia/Tehran) | IrGens
+Title  : Generative AI for Project Managers
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 39m | 673 MB
+Link   : http://zavat.pw/ebooks/project-managers-generative-ai.html
+
+================================================================================
+2026-11-16 03:36:25 (Asia/Tehran) | IrGens
+Title  : Integrating AI Agents with ServiceNow
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 30m | 274 MB
+Link   : http://zavat.pw/ebooks/integrating-ai-agents-servicenow.html
+
