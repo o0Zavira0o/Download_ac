@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
+_آخرین به‌روزرسانی: 2026-11-16T19:28:55Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-16 02:49:32 (UTC)  
+  **مدت:** حدود 6.3 دقیقه  
+  **عنوان:** [How To Make This Beautiful Pot In SolidWorks? Loft + Twist Trick!](https://www.youtube.com/watch?v=_6yT8rtZ73s)  
+  ![](https://i.ytimg.com/vi/_6yT8rtZ73s/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-15 11:59:19 (UTC)  
@@ -20,7 +26,7 @@ _آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
 
 - **تاریخ انتشار:** 2026-11-13 08:20:21 (UTC)  
   **مدت:** حدود 6.0 دقیقه  
-  **عنوان:** [How to Design an Archimedes Screw in SOLIDWORKS | Screw Conveyor 3D Modeling Tutorial](https://www.youtube.com/watch?v=KCabpX5Clgc)  
+  **عنوان:** [Don't Guess the Helix! Archimedes Screw Design in SOLIDWORKS](https://www.youtube.com/watch?v=KCabpX5Clgc)  
   ![](https://i.ytimg.com/vi/KCabpX5Clgc/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
   **مدت:** حدود 0.4 دقیقه  
   **عنوان:** [How to Use Curve Driven Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=h1Keww1YaJ8)  
   ![](https://i.ytimg.com/vi/h1Keww1YaJ8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-27 11:44:25 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [How to Use Sweep+ Circular Profile Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=bxXG4zWjEno)  
-  ![](https://i.ytimg.com/vi/bxXG4zWjEno/hqdefault.jpg)

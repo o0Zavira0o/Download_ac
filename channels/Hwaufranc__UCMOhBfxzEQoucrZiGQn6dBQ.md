@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
+_آخرین به‌روزرسانی: 2026-11-16T19:28:55Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-11-16 15:10:09 (UTC)  
+  **مدت:** حدود 14.1 دقیقه  
+  **عنوان:** [다꾸 ASMR 아포칼립스 다이어리 꾸미고 일기쓰기⚙️ Apocalypse Journal Scrapbooking コラージュ](https://www.youtube.com/watch?v=NPW7QJsKk-k)  
+  ![](https://i.ytimg.com/vi/NPW7QJsKk-k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-15 11:10:01 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
   **مدت:** حدود 10.0 دقیقه  
   **عنوان:** [ASMR Decorating Vintage Journal 빈티지 다꾸 | Journaling Collage Ideas | hwaufranc](https://www.youtube.com/watch?v=-rZccbqKYVQ)  
   ![](https://i.ytimg.com/vi/-rZccbqKYVQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-08-14 12:25:01 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Aesthetic Journaling 🏡1/2 #journaling #다꾸 #journaltherapy #asmr](https://www.youtube.com/watch?v=SlIqRVhiQxg)  
-  ![](https://i.ytimg.com/vi/SlIqRVhiQxg/hqdefault.jpg)

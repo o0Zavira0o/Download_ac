@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
+_آخرین به‌روزرسانی: 2026-11-16T19:28:55Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-16 13:32:47 (UTC)  
+  **مدت:** حدود 10.0 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Design:Semi-circular Clamping Clip (Sketched Bend, Edge flange, Unfold, Fold)](https://www.youtube.com/watch?v=n9BVehf0kBo)  
+  ![](https://i.ytimg.com/vi/n9BVehf0kBo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-15 13:44:22 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
   **مدت:** حدود 17.4 دقیقه  
   **عنوان:** [Solidworks tutorial | Crown Wheel and Pinion mechanism in Solidworks](https://www.youtube.com/watch?v=_D6bnHL5ahI)  
   ![](https://i.ytimg.com/vi/_D6bnHL5ahI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-30 08:51:26 (UTC)  
-  **مدت:** حدود 9.1 دقیقه  
-  **عنوان:** [Solidworks tutorial | Sheet Metal box using Louver tool in Solidworks](https://www.youtube.com/watch?v=MpHsHKFOE5Q)  
-  ![](https://i.ytimg.com/vi/MpHsHKFOE5Q/hqdefault.jpg)

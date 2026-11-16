@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
+_آخرین به‌روزرسانی: 2026-11-16T19:28:55Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-16 18:56:07 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Ausländischen Führerschein umschreiben](https://www.youtube.com/watch?v=sU1QInkVuKE)  
+  ![](https://i.ytimg.com/vi/sU1QInkVuKE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-15 18:00:01 (UTC)  
+  **مدت:** حدود 15.5 دقیقه  
+  **عنوان:** [Bregenz: Lake Life, Austrian Dialect & Local Food](https://www.youtube.com/watch?v=MN5GQvHMA5Y)  
+  ![](https://i.ytimg.com/vi/MN5GQvHMA5Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-14 17:21:30 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-15T16:13:19Z_
   **مدت:** حدود 13.4 دقیقه  
   **عنوان:** [Why hasn't Cari antwortet? | Funny Nicknames | Jokes about Germans - Cari Antwortet (47)](https://www.youtube.com/watch?v=MQfFQdpQB3c)  
   ![](https://i.ytimg.com/vi/MQfFQdpQB3c/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-08-27 17:39:21 (UTC)  
-  **مدت:** حدود 8.0 دقیقه  
-  **عنوان:** [What Germans love & hate about Germany | Easy German 209](https://www.youtube.com/watch?v=OI3JMZjU1mY)  
-  ![](https://i.ytimg.com/vi/OI3JMZjU1mY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-08-23 18:19:51 (UTC)  
-  **مدت:** حدود 3.5 دقیقه  
-  **عنوان:** [Learning Fruits in German | Super Easy German (45)](https://www.youtube.com/watch?v=N9iYnpvkOcA)  
-  ![](https://i.ytimg.com/vi/N9iYnpvkOcA/hqdefault.jpg)
