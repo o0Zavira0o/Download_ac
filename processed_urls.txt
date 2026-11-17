@@ -1274,6 +1274,9 @@ https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec
 https://foreignpolicy.com/2026/11/16/trump-xi-meeting-shenzhen-apec-midterms-congress-us-china-relations/
 https://foreignpolicy.com/2026/11/16/united-states-middle-east-intervention-era-over/
 https://foreignpolicy.com/2026/11/16/watergate-babies-congress-after-midterms/
+https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate/
+https://foreignpolicy.com/2026/11/17/baaja-national-security-trump-permitting-reform/
+https://foreignpolicy.com/2026/11/17/nvidia-racial-profiling-jensen-huang-usa-ai/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -1457,6 +1460,7 @@ https://www.foreignaffairs.com/taiwan/war-china-might-choose
 https://www.foreignaffairs.com/thailand/end-thailands-long-stalemate
 https://www.foreignaffairs.com/the-back-page/earth-satellites-and-foreign-policy
 https://www.foreignaffairs.com/the-back-page/strategy-terrorism
+https://www.foreignaffairs.com/turkey/fantasy-turkish-middle-east
 https://www.foreignaffairs.com/turkey/iran-wars-threat-turkey
 https://www.foreignaffairs.com/turkey/turkeys-quiet-realignment
 https://www.foreignaffairs.com/ukraine/future-ukraines-drone-democracy
@@ -1502,6 +1506,7 @@ https://www.foreignaffairs.com/united-states/broken-nuclear-umbrella-lind-press
 https://www.foreignaffairs.com/united-states/case-economic-espionage-david-cohen
 https://www.foreignaffairs.com/united-states/case-trump-xi-putin-summit
 https://www.foreignaffairs.com/united-states/china-and-america-are-courting-nuclear-catastrophe
+https://www.foreignaffairs.com/united-states/china-misreading-moment
 https://www.foreignaffairs.com/united-states/china-strategy-lasts
 https://www.foreignaffairs.com/united-states/china-strategy-lasts-bill-cassidy
 https://www.foreignaffairs.com/united-states/chokepoint-trap-economics-farrell-newman-tan
@@ -2075,6 +2080,21 @@ https://www.newyorker.com/magazine/2026/11/16/the-opposite-of-happiness-george-l
 https://www.newyorker.com/magazine/2026/11/16/the-ubiquitous-melancholy-of-max-richter
 https://www.newyorker.com/magazine/2026/11/16/vers-libre-jane-huffman-poem
 https://www.newyorker.com/magazine/2026/11/16/what-it-takes-to-save-a-town-from-wildfire
+https://www.newyorker.com/magazine/2026/11/23/how-branford-marsalis-and-dianne-reeves-got-their-feet
+https://www.newyorker.com/magazine/2026/11/23/james-gray-keeps-it-old-school
 https://www.newyorker.com/magazine/2026/11/23/jensen-huang-and-the-storied-lineage-of-the-honey-trap
+https://www.newyorker.com/magazine/2026/11/23/jesse-eisenberg-profile
+https://www.newyorker.com/magazine/2026/11/23/medea-a-life-edith-hall-book-review
 https://www.newyorker.com/magazine/2026/11/23/minotaur-movie-review
 https://www.newyorker.com/magazine/2026/11/23/president-trumps-nightmare-oval-office
+https://www.newyorker.com/magazine/2026/11/23/the-absent-woman-stations-valiant-men-of-war-said-the-dead
+https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley
+https://www.newyorker.com/magazine/2026/11/23/the-co-creation-olivia-judson-book-review-earth-and-life-andrew-knoll
+https://www.newyorker.com/magazine/2026/11/23/the-nhls-most-philosophical-goalie
+https://www.newyorker.com/magazine/2026/11/23/the-party-will-go-on-at-butterworths
+https://www.newyorker.com/magazine/2026/11/23/tova-gannana-news-from-home-poem
+https://www.newyorker.com/magazine/2026/11/23/train-of-thought-jennifer-maier-poem
+https://www.newyorker.com/magazine/2026/11/23/trude-fiction-joshua-cohen
+https://www.newyorker.com/magazine/2026/11/23/venezuelas-collaborator-in-chief
+https://www.newyorker.com/magazine/2026/11/23/would-you-dissect-a-human-body
+https://www.newyorker.com/magazine/2026/11/23/your-pizza-topping-horoscope

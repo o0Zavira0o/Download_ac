@@ -1,6 +1,26 @@
-# Last Run: 2026-11-17 07:46 UTC
+# Last Run: 2026-11-17 17:27 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The AI Safety Debate Has a Human Rights Blind Spot
+Published: 2026-11-17T16:53:25+00:00
+Link: https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate/
+---
+[Foreign_Policy] The National Security Case for Permitting Reform
+Published: 2026-11-17T16:27:29+00:00
+Link: https://foreignpolicy.com/2026/11/17/baaja-national-security-trump-permitting-reform/
+---
+[Foreign_Policy] America Can’t Racially Profile Its Way to AI Supremacy
+Published: 2026-11-17T12:49:13+00:00
+Link: https://foreignpolicy.com/2026/11/17/nvidia-racial-profiling-jensen-huang-usa-ai/
+---
+[Foreign_Affairs] Is China Misreading the Moment?
+Published: 2026-11-17T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/china-misreading-moment
+---
+[Foreign_Affairs] The Fantasy of a Turkish Middle East
+Published: 2026-11-17T09:00:00+00:00
+Link: https://www.foreignaffairs.com/turkey/fantasy-turkish-middle-east
+---
 [Foreign_Policy] Trump Kicks Off Asia Tour
 Published: 2026-11-16T21:35:11+00:00
 Link: https://foreignpolicy.com/2026/11/16/trump-asean-quad-china-xi-putin-kim-midterms-nvidia-trade-security/
@@ -29,6 +49,54 @@ Link: https://foreignpolicy.com/2026/11/16/midterms-trump-xi-meeting/
 Published: 2026-11-16T12:00:39+00:00
 Link: https://foreignpolicy.com/2026/11/16/democrats-foreign-policy-congress-election-trump-tariffs/
 ---
+[New_Yorker_Magazine] Venezuela’s Collaborator-in-Chief
+Published: 2026-11-16T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/venezuelas-collaborator-in-chief
+---
+[New_Yorker_Magazine] James Gray Keeps It Old School
+Published: 2026-11-16T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/james-gray-keeps-it-old-school
+---
+[New_Yorker_Magazine] Would You Dissect a Human Body?
+Published: 2026-11-16T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/would-you-dissect-a-human-body
+---
+[New_Yorker_Magazine] “Medea: A Life,” Reviewed
+Published: 2026-11-16T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/medea-a-life-edith-hall-book-review
+---
+[New_Yorker_Magazine] The Buddhist A.I. Sect That Wants to Take Over Silicon Valley
+Published: 2026-11-16T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley
+---
+[New_Yorker_Magazine] Your Pizza-Topping Horoscope
+Published: 2026-11-16T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/your-pizza-topping-horoscope
+---
+[New_Yorker_Magazine] The Party Will Go On at Butterworth’s
+Published: 2026-11-16T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/the-party-will-go-on-at-butterworths
+---
+[New_Yorker_Magazine] Jesse Eisenberg Can’t Help Overthinking It
+Published: 2026-11-16T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/jesse-eisenberg-profile
+---
+[New_Yorker_Magazine] How Branford Marsalis and Dianne Reeves Got Their Feet
+Published: 2026-11-16T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/how-branford-marsalis-and-dianne-reeves-got-their-feet
+---
+[New_Yorker_Magazine] Earth Was a Fixer-Upper
+Published: 2026-11-16T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/the-co-creation-olivia-judson-book-review-earth-and-life-andrew-knoll
+---
+[New_Yorker_Magazine] Briefly Noted Book Reviews
+Published: 2026-11-16T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/the-absent-woman-stations-valiant-men-of-war-said-the-dead
+---
+[New_Yorker_Magazine] The N.H.L.’s Most Philosophical Goalie
+Published: 2026-11-16T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/the-nhls-most-philosophical-goalie
+---
 [Foreign_Policy] Can South Africa Tackle HIV Without the U.S.?
 Published: 2026-11-16T10:00:22+00:00
 Link: https://foreignpolicy.com/2026/11/16/south-africa-hiv-aids-pepfar-trump-health-funding-withdrawal/
@@ -49,11 +117,15 @@ Link: https://foreignpolicy.com/2026/11/16/democratic-congress-after-midterms-wa
 Published: 2026-11-16T05:01:24+00:00
 Link: https://foreignpolicy.com/2026/11/16/watergate-babies-congress-after-midterms/
 ---
-[New_Yorker_Magazine] President Trump’s Nightmare Oval Office
-Published: 2026-11-14T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/president-trumps-nightmare-oval-office
+[New_Yorker_Magazine] “News from Home,” by Tova Gannana
+Published: 2026-11-15T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/tova-gannana-news-from-home-poem
 ---
-[New_Yorker_Magazine] Jensen Huang and the Storied Lineage of the Honey Trap
-Published: 2026-11-14T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/jensen-huang-and-the-storied-lineage-of-the-honey-trap
+[New_Yorker_Magazine] “Trude,” by Joshua Cohen
+Published: 2026-11-15T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/trude-fiction-joshua-cohen
+---
+[New_Yorker_Magazine] “Train of Thought,” by Jennifer Maier
+Published: 2026-11-15T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/23/train-of-thought-jennifer-maier-poem
 ---
