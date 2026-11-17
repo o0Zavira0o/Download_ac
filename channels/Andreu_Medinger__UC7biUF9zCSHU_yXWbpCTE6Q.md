@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-11-16T19:28:55Z_
+_آخرین به‌روزرسانی: 2026-11-17T18:23:27Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-11-16 22:30:34 (UTC)  
+  **مدت:** حدود 28.5 دقیقه  
+  **عنوان:** [AULA 45 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Linha de Produção #solidworks](https://www.youtube.com/watch?v=Wj3fWjZ9VME)  
+  ![](https://i.ytimg.com/vi/Wj3fWjZ9VME/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-13 22:30:31 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-16T19:28:55Z_
   **مدت:** حدود 27.2 دقیقه  
   **عنوان:** [AULA 52 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=CUJJPJxM0-w)  
   ![](https://i.ytimg.com/vi/CUJJPJxM0-w/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-06-05 23:15:26 (UTC)  
-  **مدت:** حدود 1.9 دقیقه  
-  **عنوان:** [Por que uma broca de aço rápido perde o fio de corte? #solidworks #engenhariamecanica #metalurgia](https://www.youtube.com/watch?v=q6X5hSNgK0Y)  
-  ![](https://i.ytimg.com/vi/q6X5hSNgK0Y/hqdefault.jpg)

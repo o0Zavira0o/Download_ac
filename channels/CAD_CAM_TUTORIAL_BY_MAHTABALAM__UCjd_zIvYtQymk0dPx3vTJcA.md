@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-16T19:28:55Z_
+_آخرین به‌روزرسانی: 2026-11-17T18:23:27Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-17 14:14:27 (UTC)  
+  **مدت:** حدود 9.6 دقیقه  
+  **عنوان:** [A Cake with Candles in SolidWorks (Helix and Spiral, Curve Driven Pattern, Dome)](https://www.youtube.com/watch?v=vijJfzt0ah8)  
+  ![](https://i.ytimg.com/vi/vijJfzt0ah8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-16 13:32:47 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-16T19:28:55Z_
   **مدت:** حدود 22.9 دقیقه  
   **عنوان:** [Solidworks tutorial | Design of Fidget Spinner in Solidworks](https://www.youtube.com/watch?v=dktWCgA2Y-o)  
   ![](https://i.ytimg.com/vi/dktWCgA2Y-o/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-05-31 07:24:45 (UTC)  
-  **مدت:** حدود 17.4 دقیقه  
-  **عنوان:** [Solidworks tutorial | Crown Wheel and Pinion mechanism in Solidworks](https://www.youtube.com/watch?v=_D6bnHL5ahI)  
-  ![](https://i.ytimg.com/vi/_D6bnHL5ahI/hqdefault.jpg)

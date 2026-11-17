@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-16T19:28:55Z_
+_آخرین به‌روزرسانی: 2026-11-17T18:23:27Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-17 04:52:06 (UTC)  
+  **مدت:** حدود 6.0 دقیقه  
+  **عنوان:** [How to Design a 3D Printable Geometric Planter in SolidWorks](https://www.youtube.com/watch?v=HHOUPOYWjFQ)  
+  ![](https://i.ytimg.com/vi/HHOUPOYWjFQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-16 02:49:32 (UTC)  
@@ -20,7 +26,7 @@ _آخرین به‌روزرسانی: 2026-11-16T19:28:55Z_
 
 - **تاریخ انتشار:** 2026-11-14 03:20:20 (UTC)  
   **مدت:** حدود 3.8 دقیقه  
-  **عنوان:** [SolidWorks Sheet Metal Tutorial For Beginners | Lofted Bend Explained](https://www.youtube.com/watch?v=aFjRrs1SG3c)  
+  **عنوان:** [Why Your Lofted Bends Fail in SolidWorks (And How to Fix It)](https://www.youtube.com/watch?v=aFjRrs1SG3c)  
   ![](https://i.ytimg.com/vi/aFjRrs1SG3c/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-16T19:28:55Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [How to Use a Metric Tap Thread in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=qhU63RZdA9s)  
   ![](https://i.ytimg.com/vi/qhU63RZdA9s/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-28 02:53:41 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [How to Use Curve Driven Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=h1Keww1YaJ8)  
-  ![](https://i.ytimg.com/vi/h1Keww1YaJ8/hqdefault.jpg)
