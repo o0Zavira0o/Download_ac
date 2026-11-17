@@ -1,6 +1,26 @@
-# Last Run: 2026-11-16 15:03 UTC
+# Last Run: 2026-11-17 00:02 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Trump Kicks Off Asia Tour
+Published: 2026-11-16T21:35:11+00:00
+Link: https://foreignpolicy.com/2026/11/16/trump-asean-quad-china-xi-putin-kim-midterms-nvidia-trade-security/
+---
+[Foreign_Policy] The Middle East Is Finally on Its Own
+Published: 2026-11-16T20:49:31+00:00
+Link: https://foreignpolicy.com/2026/11/16/united-states-middle-east-intervention-era-over/
+---
+[Foreign_Policy] A Diminished Trump Could Get Played in Asia
+Published: 2026-11-16T17:37:50+00:00
+Link: https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec-nvidia-jensen-huang/
+---
+[Foreign_Policy] Japan’s Defense Lessons From Ukraine and the Middle East
+Published: 2026-11-16T16:08:29+00:00
+Link: https://foreignpolicy.com/2026/11/16/japan-defense-industry-military-weapons-strategy-takaichi/
+---
+[Foreign_Policy] How Xi Sees a Weakened Trump
+Published: 2026-11-16T12:00:55+00:00
+Link: https://foreignpolicy.com/2026/11/16/trump-xi-meeting-shenzhen-apec-midterms-congress-us-china-relations/
+---
 [Foreign_Policy] How Xi Sees a Weakened Trump
 Published: 2026-11-16T12:00:55+00:00
 Link: https://foreignpolicy.com/2026/11/16/midterms-trump-xi-meeting/
@@ -23,6 +43,10 @@ Link: https://www.foreignaffairs.com/israel/why-israel-losing-america
 ---
 [Foreign_Policy] Lessons From the Watergate Babies for the ‘No Kings’ Congress
 Published: 2026-11-16T05:01:24+00:00
+Link: https://foreignpolicy.com/2026/11/16/democratic-congress-after-midterms-watergate-babies/
+---
+[Foreign_Policy] Lessons From the Watergate Babies for the ‘No Kings’ Congress
+Published: 2026-11-16T05:01:24+00:00
 Link: https://foreignpolicy.com/2026/11/16/watergate-babies-congress-after-midterms/
 ---
 [New_Yorker_Magazine] President Trump’s Nightmare Oval Office
@@ -32,36 +56,4 @@ Link: https://www.newyorker.com/magazine/2026/11/23/president-trumps-nightmare-o
 [New_Yorker_Magazine] Jensen Huang and the Storied Lineage of the Honey Trap
 Published: 2026-11-14T11:00:00+00:00
 Link: https://www.newyorker.com/magazine/2026/11/23/jensen-huang-and-the-storied-lineage-of-the-honey-trap
----
-[Foreign_Policy] The EU’s First AI Summit
-Published: 2026-11-13T20:27:42+00:00
-Link: https://foreignpolicy.com/2026/11/13/eu-ai-summit-semiconductor-chips-russia-ukraine-peace-talks-nvidia/
----
-[Foreign_Policy] Realism Was Forged in Trauma
-Published: 2026-11-13T20:00:00+00:00
-Link: https://foreignpolicy.com/2026/11/13/realism-hans-morgenthau-david-sacks-the-realist-review-international-relations-theory/
----
-[Foreign_Policy] The Journalists Who Left Russia—But Can’t Escape It
-Published: 2026-11-13T19:56:57+00:00
-Link: https://foreignpolicy.com/2026/11/13/russia-my-undesirable-friends-film-movie-review-war-ukraine-journalism/
----
-[Foreign_Policy] What Jensen Huang’s Fall Means for U.S.-China Relations
-Published: 2026-11-13T19:50:23+00:00
-Link: https://foreignpolicy.com/2026/11/13/jensen-huang-nvidia-resignation-china-spy-scandal-trump/
----
-[Foreign_Policy] How Lebanon Became the Middle East’s Battleground
-Published: 2026-11-13T19:38:34+00:00
-Link: https://foreignpolicy.com/2026/11/13/lebanon-middle-east-hezbollah-history-us-israel-military-war/
----
-[Foreign_Policy] Nvidia, Spies, and the Art of Economic Espionage
-Published: 2026-11-13T19:35:54+00:00
-Link: https://foreignpolicy.com/2026/11/13/nvidia-spy-chips-artificial-intelligence-huang-china/
----
-[Foreign_Policy] Will German Rearmament Save Europe?
-Published: 2026-11-13T19:30:52+00:00
-Link: https://foreignpolicy.com/2026/11/13/german-rearmament-europe-nato-military-liana-fix-review/
----
-[Foreign_Policy] What in the World?
-Published: 2026-11-13T18:04:50+00:00
-Link: https://foreignpolicy.com/2026/11/13/foreign-policy-news-quiz-nvidia-huang-resignation-pope-leo-cop31/
 ---
