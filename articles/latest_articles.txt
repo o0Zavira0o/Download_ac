@@ -1,6 +1,30 @@
-# Last Run: 2026-11-17 17:27 UTC
+# Last Run: 2026-11-18 00:42 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Xi Makes the Most of Trump’s Asia-Pacific Trip
+Published: 2026-11-17T21:52:41+00:00
+Link: https://foreignpolicy.com/2026/11/17/china-xi-trade-canada-tariffs-peru-trump-asean-apec/
+---
+[Foreign_Policy] 5 Freshmen Democratic Lawmakers to Watch
+Published: 2026-11-17T20:31:45+00:00
+Link: https://foreignpolicy.com/2026/11/17/freshmen-house-democratic-lawmakers-congress-israel-defense-military/
+---
+[Foreign_Policy] Will Iraqi Kurdistan Break Apart?
+Published: 2026-11-17T19:13:40+00:00
+Link: https://foreignpolicy.com/2026/11/17/kurdistan-iraq-puk-kdp-talabani-barzani-split/
+---
+[Foreign_Policy] Ecuador’s Fraught Mining Boom
+Published: 2026-11-17T17:44:42+00:00
+Link: https://foreignpolicy.com/2026/11/17/ecuador-mining-boom-noboa-agenda-economics-environment-democracy/
+---
+[Foreign_Policy] European Rearmament Risks Political Peril
+Published: 2026-11-17T17:11:46+00:00
+Link: https://foreignpolicy.com/2026/11/17/europe-rearmament-russia-ukraine-defense-social-spending-protest/
+---
+[Foreign_Policy] The AI Safety Debate Has a Human Rights Blind Spot
+Published: 2026-11-17T16:53:25+00:00
+Link: https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate-regulation-united-nations/
+---
 [Foreign_Policy] The AI Safety Debate Has a Human Rights Blind Spot
 Published: 2026-11-17T16:53:25+00:00
 Link: https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate/
@@ -8,6 +32,10 @@ Link: https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate/
 [Foreign_Policy] The National Security Case for Permitting Reform
 Published: 2026-11-17T16:27:29+00:00
 Link: https://foreignpolicy.com/2026/11/17/baaja-national-security-trump-permitting-reform/
+---
+[Foreign_Policy] America Can’t Racially Profile Its Way to AI Supremacy
+Published: 2026-11-17T12:49:13+00:00
+Link: https://foreignpolicy.com/2026/11/17/nvidia-scandal-jensen-huang-racial-profiling-usa-intelligence-ai/
 ---
 [Foreign_Policy] America Can’t Racially Profile Its Way to AI Supremacy
 Published: 2026-11-17T12:49:13+00:00
