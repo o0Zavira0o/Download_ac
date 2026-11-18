@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-17T18:23:27Z_
+_آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-18 11:31:11 (UTC)  
+  **مدت:** حدود 18.0 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Part Modeling (Base Flange/Tab, Edge Flange)](https://www.youtube.com/watch?v=BuUpBvKhf6Q)  
+  ![](https://i.ytimg.com/vi/BuUpBvKhf6Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-17 14:14:27 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-17T18:23:27Z_
   **مدت:** حدود 9.8 دقیقه  
   **عنوان:** [Solidworks tutorial 3D Pipe](https://www.youtube.com/watch?v=8t4Q0i8kFDU)  
   ![](https://i.ytimg.com/vi/8t4Q0i8kFDU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-04 13:07:55 (UTC)  
-  **مدت:** حدود 22.9 دقیقه  
-  **عنوان:** [Solidworks tutorial | Design of Fidget Spinner in Solidworks](https://www.youtube.com/watch?v=dktWCgA2Y-o)  
-  ![](https://i.ytimg.com/vi/dktWCgA2Y-o/hqdefault.jpg)

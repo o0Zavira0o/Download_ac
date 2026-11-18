@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-11-17T18:23:27Z_
+_آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,7 +10,7 @@ _آخرین به‌روزرسانی: 2026-11-17T18:23:27Z_
 
 - **تاریخ انتشار:** 2026-11-15 17:17:18 (UTC)  
   **مدت:** حدود 1.8 دقیقه  
-  **عنوان:** [It's Dumb, But Builds Muscle 4x Faster](https://www.youtube.com/watch?v=72GH0Y1YxkM)  
+  **عنوان:** [What "No Rest Days" Does To Your Muscles](https://www.youtube.com/watch?v=72GH0Y1YxkM)  
   ![](https://i.ytimg.com/vi/72GH0Y1YxkM/hqdefault.jpg)
 
 

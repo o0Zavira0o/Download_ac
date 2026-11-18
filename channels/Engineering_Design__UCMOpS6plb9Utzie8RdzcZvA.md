@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-17T18:23:27Z_
+_آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-18 12:11:59 (UTC)  
+  **مدت:** حدود 5.1 دقیقه  
+  **عنوان:** [Drawing To 3D Model In SolidWorks! 😱 | 2D To 3D Bracket Tutorial | Beginner To Pro](https://www.youtube.com/watch?v=2vOVkKJeenQ)  
+  ![](https://i.ytimg.com/vi/2vOVkKJeenQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-17 04:52:06 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-17T18:23:27Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [How to Use Wrap Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=uyJiJqZbvPo)  
   ![](https://i.ytimg.com/vi/uyJiJqZbvPo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-03-01 02:51:19 (UTC)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [How to Use a Metric Tap Thread in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=qhU63RZdA9s)  
-  ![](https://i.ytimg.com/vi/qhU63RZdA9s/hqdefault.jpg)

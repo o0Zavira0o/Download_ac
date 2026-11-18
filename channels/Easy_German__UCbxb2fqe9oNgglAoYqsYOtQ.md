@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-17T18:23:27Z_
+_آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-17 20:14:24 (UTC)  
+  **مدت:** حدود 1.4 دقیقه  
+  **عنوان:** [Easy German Beginner Challenge](https://www.youtube.com/watch?v=IKWw8rqC154)  
+  ![](https://i.ytimg.com/vi/IKWw8rqC154/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-16 18:56:07 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-17T18:23:27Z_
   **مدت:** حدود 8.9 دقیقه  
   **عنوان:** [How Many Hours do Germans Work per Week? | Easy German 210](https://www.youtube.com/watch?v=LHGmpGgBZnw)  
   ![](https://i.ytimg.com/vi/LHGmpGgBZnw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-09-02 18:50:58 (UTC)  
-  **مدت:** حدود 13.4 دقیقه  
-  **عنوان:** [Why hasn't Cari antwortet? | Funny Nicknames | Jokes about Germans - Cari Antwortet (47)](https://www.youtube.com/watch?v=MQfFQdpQB3c)  
-  ![](https://i.ytimg.com/vi/MQfFQdpQB3c/hqdefault.jpg)
