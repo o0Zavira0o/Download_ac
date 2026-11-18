@@ -1,6 +1,22 @@
-# Last Run: 2026-11-18 09:51 UTC
+# Last Run: 2026-11-18 18:44 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] ICJ to Deliver Landmark Verdict on Myanmar
+Published: 2026-11-18T15:37:12+00:00
+Link: https://foreignpolicy.com/2026/11/18/icj-myanmar-rohingya-genocide-case-landmark-verdict-israel-gaza/
+---
+[Foreign_Policy] Cooperating With China on AI Control Is a Fantasy
+Published: 2026-11-18T14:00:07+00:00
+Link: https://foreignpolicy.com/2026/11/18/china-ai-trump-arms-control-regulation-openai-anthropic/
+---
+[Foreign_Affairs] The Model Middle Power
+Published: 2026-11-18T09:00:00+00:00
+Link: https://www.foreignaffairs.com/south-korea/model-middle-power
+---
+[Foreign_Affairs] America’s Hidden AI Advantage
+Published: 2026-11-18T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/americas-hidden-ai-advantage
+---
 [Foreign_Policy] Iran Is Heading for a Swiss-Cheese Solution
 Published: 2026-11-18T06:46:40+00:00
 Link: https://foreignpolicy.com/2026/11/18/iran-war-trump-swiss-cheese-solution/
@@ -148,16 +164,4 @@ Link: https://foreignpolicy.com/2026/11/16/democratic-congress-after-midterms-wa
 [Foreign_Policy] Lessons From the Watergate Babies for the ‘No Kings’ Congress
 Published: 2026-11-16T05:01:24+00:00
 Link: https://foreignpolicy.com/2026/11/16/watergate-babies-congress-after-midterms/
----
-[New_Yorker_Magazine] “News from Home,” by Tova Gannana
-Published: 2026-11-15T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/tova-gannana-news-from-home-poem
----
-[New_Yorker_Magazine] “Trude,” by Joshua Cohen
-Published: 2026-11-15T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/trude-fiction-joshua-cohen
----
-[New_Yorker_Magazine] “Train of Thought,” by Jennifer Maier
-Published: 2026-11-15T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/train-of-thought-jennifer-maier-poem
 ---

@@ -1284,6 +1284,8 @@ https://foreignpolicy.com/2026/11/17/freshmen-house-democratic-lawmakers-congres
 https://foreignpolicy.com/2026/11/17/kurdistan-iraq-puk-kdp-talabani-barzani-split/
 https://foreignpolicy.com/2026/11/17/nvidia-racial-profiling-jensen-huang-usa-ai/
 https://foreignpolicy.com/2026/11/17/nvidia-scandal-jensen-huang-racial-profiling-usa-intelligence-ai/
+https://foreignpolicy.com/2026/11/18/china-ai-trump-arms-control-regulation-openai-anthropic/
+https://foreignpolicy.com/2026/11/18/icj-myanmar-rohingya-genocide-case-landmark-verdict-israel-gaza/
 https://foreignpolicy.com/2026/11/18/iran-war-trump-swiss-cheese-solution/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
@@ -1454,6 +1456,7 @@ https://www.foreignaffairs.com/russia/russias-hybrid-war-has-entered-dangerous-n
 https://www.foreignaffairs.com/saudi-arabia/looming-nuclear-crisis-gulf
 https://www.foreignaffairs.com/senegal/senegal-brink
 https://www.foreignaffairs.com/somalia/who-winning-africas-drone-wars
+https://www.foreignaffairs.com/south-korea/model-middle-power
 https://www.foreignaffairs.com/southeast-asia/can-private-sector-save-vietnam
 https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war
 https://www.foreignaffairs.com/syria/road-through-damascus
@@ -1500,6 +1503,7 @@ https://www.foreignaffairs.com/united-states/america-still-has-upper-hand-over-c
 https://www.foreignaffairs.com/united-states/american-militarys-coming-marathon
 https://www.foreignaffairs.com/united-states/americas-attrition-trap
 https://www.foreignaffairs.com/united-states/americas-fatal-attraction-war
+https://www.foreignaffairs.com/united-states/americas-hidden-ai-advantage
 https://www.foreignaffairs.com/united-states/americas-missing-military-revolution-doug-beck
 https://www.foreignaffairs.com/united-states/americas-superintelligence-dilemma
 https://www.foreignaffairs.com/united-states/americas-surprising-energy-advantage
