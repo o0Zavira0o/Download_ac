@@ -1294,6 +1294,7 @@ https://foreignpolicy.com/2026/11/18/iran-war-trump-swiss-cheese-solution/
 https://foreignpolicy.com/2026/11/18/israel-military-aid-united-states-trump-netanyahu-wars/
 https://foreignpolicy.com/2026/11/18/marco-rubio-united-states-rule-of-law-rogue/
 https://foreignpolicy.com/2026/11/18/microsoft-outage-faa-apple-nsa-tech-banks-cause-ai-explainer/
+https://foreignpolicy.com/2026/11/19/trump-asia-trip-asean-manila-summit/
 https://www.foreignaffairs.com/afghanistan/afghanistan-reckoning-carter-malkasian
 https://www.foreignaffairs.com/afghanistan/standing-afghan-women
 https://www.foreignaffairs.com/africa/africa-cant-afford-squander-its-demographic-opportunity
@@ -1360,6 +1361,7 @@ https://www.foreignaffairs.com/china/why-china-worries-about-north-korea
 https://www.foreignaffairs.com/china/why-criminals-love-chinese-economy
 https://www.foreignaffairs.com/china/worse-axis
 https://www.foreignaffairs.com/china/xis-forever-purge
+https://www.foreignaffairs.com/colombia/avoiding-colombias-escalation-trap
 https://www.foreignaffairs.com/cuba/cubas-only-choice
 https://www.foreignaffairs.com/cuba/cubas-only-option
 https://www.foreignaffairs.com/cuba/cubas-point-no-return
@@ -1421,6 +1423,7 @@ https://www.foreignaffairs.com/iran/trumps-least-bad-option-iran
 https://www.foreignaffairs.com/iran/why-america-cant-strangle-iran
 https://www.foreignaffairs.com/israel/can-israel-end-its-forever-wars
 https://www.foreignaffairs.com/israel/hezbollahs-trap-israel
+https://www.foreignaffairs.com/israel/how-arab-parties-can-rescue-israeli-democracy
 https://www.foreignaffairs.com/israel/how-save-us-israeli-alliance
 https://www.foreignaffairs.com/israel/israel-netanyahu-made
 https://www.foreignaffairs.com/israel/what-israels-election-wont-change
@@ -1588,6 +1591,7 @@ https://www.foreignaffairs.com/united-states/not-world-russia-wants
 https://www.foreignaffairs.com/united-states/only-congress-can-fix-american-trade
 https://www.foreignaffairs.com/united-states/only-gulf-can-end-iran-war
 https://www.foreignaffairs.com/united-states/other-war-terror
+https://www.foreignaffairs.com/united-states/paradox-american-credibility
 https://www.foreignaffairs.com/united-states/path-development-post-aid-world
 https://www.foreignaffairs.com/united-states/powder-keg-outer-space
 https://www.foreignaffairs.com/united-states/price-arctic-ambition

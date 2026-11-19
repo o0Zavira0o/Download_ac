@@ -1,6 +1,22 @@
-# Last Run: 2026-11-19 01:48 UTC
+# Last Run: 2026-11-19 09:59 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] The Paradox of American Credibility
+Published: 2026-11-19T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/paradox-american-credibility
+---
+[Foreign_Affairs] Avoiding Colombia’s Escalation Trap
+Published: 2026-11-19T09:00:00+00:00
+Link: https://www.foreignaffairs.com/colombia/avoiding-colombias-escalation-trap
+---
+[Foreign_Affairs] How Arab Parties Can Rescue Israeli Democracy
+Published: 2026-11-19T09:00:00+00:00
+Link: https://www.foreignaffairs.com/israel/how-arab-parties-can-rescue-israeli-democracy
+---
+[Foreign_Policy] Why Did Trump Attend ASEAN?
+Published: 2026-11-19T06:00:31+00:00
+Link: https://foreignpolicy.com/2026/11/19/trump-asia-trip-asean-manila-summit/
+---
 [Foreign_Policy] What India Makes of Trump’s Asia Trip
 Published: 2026-11-18T22:51:03+00:00
 Link: https://foreignpolicy.com/2026/11/18/india-trump-asia-trip-quad-asean-apec-xi-putin/
@@ -176,20 +192,4 @@ Link: https://www.newyorker.com/magazine/2026/11/23/the-nhls-most-philosophical-
 [Foreign_Policy] Can South Africa Tackle HIV Without the U.S.?
 Published: 2026-11-16T10:00:22+00:00
 Link: https://foreignpolicy.com/2026/11/16/south-africa-hiv-aids-pepfar-trump-health-funding-withdrawal/
----
-[Foreign_Affairs] China Doesn’t Want a Nuclear Arms Race
-Published: 2026-11-16T09:00:00+00:00
-Link: https://www.foreignaffairs.com/china/china-doesnt-want-nuclear-arms-race
----
-[Foreign_Affairs] Why Israel Is Losing America
-Published: 2026-11-16T09:00:00+00:00
-Link: https://www.foreignaffairs.com/israel/why-israel-losing-america
----
-[Foreign_Policy] Lessons From the Watergate Babies for the ‘No Kings’ Congress
-Published: 2026-11-16T05:01:24+00:00
-Link: https://foreignpolicy.com/2026/11/16/democratic-congress-after-midterms-watergate-babies/
----
-[Foreign_Policy] Lessons From the Watergate Babies for the ‘No Kings’ Congress
-Published: 2026-11-16T05:01:24+00:00
-Link: https://foreignpolicy.com/2026/11/16/watergate-babies-congress-after-midterms/
 ---
