@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
+_آخرین به‌روزرسانی: 2026-11-19T18:08:32Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-19 02:46:02 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How Engine Valve Mechanism Works? 🔥 | All Components Explained!](https://www.youtube.com/watch?v=tzJP7iyO_fY)  
+  ![](https://i.ytimg.com/vi/tzJP7iyO_fY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-18 12:11:59 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [How to Use a Lofted Boss/Base Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=UUBupeYSFWo)  
   ![](https://i.ytimg.com/vi/UUBupeYSFWo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-03-02 11:41:58 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [How to Use Wrap Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=uyJiJqZbvPo)  
-  ![](https://i.ytimg.com/vi/uyJiJqZbvPo/hqdefault.jpg)

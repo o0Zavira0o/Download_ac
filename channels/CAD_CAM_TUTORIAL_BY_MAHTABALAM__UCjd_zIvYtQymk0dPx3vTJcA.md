@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
+_آخرین به‌روزرسانی: 2026-11-19T18:08:32Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-19 03:30:29 (UTC)  
+  **مدت:** حدود 22.1 دقیقه  
+  **عنوان:** [Tailstock Body Modeling in SolidWorks (Extruded Boss/Base,Hole Wizard-Tapped hole,Circular Pattern)](https://www.youtube.com/watch?v=x7aEbFgiC6o)  
+  ![](https://i.ytimg.com/vi/x7aEbFgiC6o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-18 11:31:11 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
   **مدت:** حدود 8.7 دقیقه  
   **عنوان:** [Solidworks tutorial Sheet metal fold and unfold command](https://www.youtube.com/watch?v=F8DJHqwSHCk)  
   ![](https://i.ytimg.com/vi/F8DJHqwSHCk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-08 10:29:12 (UTC)  
-  **مدت:** حدود 9.8 دقیقه  
-  **عنوان:** [Solidworks tutorial 3D Pipe](https://www.youtube.com/watch?v=8t4Q0i8kFDU)  
-  ![](https://i.ytimg.com/vi/8t4Q0i8kFDU/hqdefault.jpg)

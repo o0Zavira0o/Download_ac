@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال nanoCADcom
 
-_آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
+_آخرین به‌روزرسانی: 2026-11-19T18:08:32Z_
 
 
 **لینک استاندارد کانال:** [nanoCADcom](https://www.youtube.com/channel/UCPnGEuRnpS1evWl39UKjXFQ)  

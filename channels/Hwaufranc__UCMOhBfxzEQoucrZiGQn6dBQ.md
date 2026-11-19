@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
+_آخرین به‌روزرسانی: 2026-11-19T18:08:32Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-11-19 16:15:32 (UTC)  
+  **مدت:** حدود 19.3 دقیقه  
+  **عنوان:** [다꾸 ASMR 미스터리 삐에로 다이어리 꾸미고 일기쓰기🃏 Pierrot Journal Scrapbooking コラージュ](https://www.youtube.com/watch?v=-MmIN8BoX2Q)  
+  ![](https://i.ytimg.com/vi/-MmIN8BoX2Q/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-17 13:50:32 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [Journaling ASMR 2/2 #journal #asmr #scrabooking #다꾸](https://www.youtube.com/watch?v=8yaLpELG_Ek)  
   ![](https://i.ytimg.com/vi/8yaLpELG_Ek/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-08-17 12:32:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Journaling ASMR 1/2 #journaling #asmr #scrabooking #다꾸asmr](https://www.youtube.com/watch?v=B2W0Q5-31Hw)  
-  ![](https://i.ytimg.com/vi/B2W0Q5-31Hw/hqdefault.jpg)

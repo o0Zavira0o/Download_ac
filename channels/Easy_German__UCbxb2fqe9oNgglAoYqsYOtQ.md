@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
+_آخرین به‌روزرسانی: 2026-11-19T18:08:32Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-19 17:26:02 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Wer hat mehr Bildschirmzeit?](https://www.youtube.com/watch?v=m5ctBJRVsMQ)  
+  ![](https://i.ytimg.com/vi/m5ctBJRVsMQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-18 18:00:06 (UTC)  
+  **مدت:** حدود 17.8 دقیقه  
+  **عنوان:** [Driving Lesson in Slow German](https://www.youtube.com/watch?v=svtSFmcX9fo)  
+  ![](https://i.ytimg.com/vi/svtSFmcX9fo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-17 20:14:24 (UTC)  
@@ -3116,7 +3128,7 @@ _آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
 
 - **تاریخ انتشار:** 2025-05-13 17:00:09 (UTC)  
   **مدت:** حدود 33.3 دقیقه  
-  **عنوان:** [From Germany to South Africa by Bike | Easy German Podcast 481 (with Wiebke Lühmann)](https://www.youtube.com/watch?v=9G31hzuPpMg)  
+  **عنوان:** [From Germany to South Africa by Bike | Easy German Podcast 573 (with Wiebke Lühmann)](https://www.youtube.com/watch?v=9G31hzuPpMg)  
   ![](https://i.ytimg.com/vi/9G31hzuPpMg/hqdefault.jpg)
 
 
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-18T17:55:53Z_
   **مدت:** حدود 9.3 دقیقه  
   **عنوان:** [Describe yourself with 3 Words | Easy German 211](https://www.youtube.com/watch?v=wvMCOqTn1lw)  
   ![](https://i.ytimg.com/vi/wvMCOqTn1lw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-09-06 17:09:19 (UTC)  
-  **مدت:** حدود 6.3 دقیقه  
-  **عنوان:** [At the office | Super Easy German (47)](https://www.youtube.com/watch?v=3vvIqOF-_-s)  
-  ![](https://i.ytimg.com/vi/3vvIqOF-_-s/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-09-03 18:51:45 (UTC)  
-  **مدت:** حدود 8.9 دقیقه  
-  **عنوان:** [How Many Hours do Germans Work per Week? | Easy German 210](https://www.youtube.com/watch?v=LHGmpGgBZnw)  
-  ![](https://i.ytimg.com/vi/LHGmpGgBZnw/hqdefault.jpg)
