@@ -1,6 +1,22 @@
-# Last Run: 2026-11-19 09:59 UTC
+# Last Run: 2026-11-19 18:59 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Iran’s ‘Boiling Frog’ Strategy
+Published: 2026-11-19T17:55:24+00:00
+Link: https://foreignpolicy.com/2026/11/19/iran-war-us-strikes-dirty-bomb-trump-congress-democrats-vali-nasr/
+---
+[Foreign_Policy] Is This the Beginning of the End for Modi?
+Published: 2026-11-19T17:28:42+00:00
+Link: https://foreignpolicy.com/2026/11/19/beginning-end-modi-protests/
+---
+[Foreign_Policy] The Gulf Is America’s Next AI Security Test
+Published: 2026-11-19T15:26:55+00:00
+Link: https://foreignpolicy.com/2026/11/19/nvidia-huang-scandal-ai-security-chips-export-controls-gulf-saudi-uae/
+---
+[Foreign_Affairs] The Only Way to End the Netanyahu Era
+Published: 2026-11-19T09:00:00+00:00
+Link: https://www.foreignaffairs.com/israel/only-way-end-netanyahu-era
+---
 [Foreign_Affairs] The Paradox of American Credibility
 Published: 2026-11-19T09:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/paradox-american-credibility
@@ -120,76 +136,4 @@ Link: https://foreignpolicy.com/2026/11/16/trump-asean-quad-china-xi-putin-kim-m
 [Foreign_Policy] The Middle East Is Finally on Its Own
 Published: 2026-11-16T20:49:31+00:00
 Link: https://foreignpolicy.com/2026/11/16/united-states-middle-east-intervention-era-over/
----
-[Foreign_Policy] A Diminished Trump Could Get Played in Asia
-Published: 2026-11-16T17:37:50+00:00
-Link: https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec-nvidia-jensen-huang/
----
-[Foreign_Policy] Japan’s Defense Lessons From Ukraine and the Middle East
-Published: 2026-11-16T16:08:29+00:00
-Link: https://foreignpolicy.com/2026/11/16/japan-defense-industry-military-weapons-strategy-takaichi/
----
-[Foreign_Policy] How Xi Sees a Weakened Trump
-Published: 2026-11-16T12:00:55+00:00
-Link: https://foreignpolicy.com/2026/11/16/trump-xi-meeting-shenzhen-apec-midterms-congress-us-china-relations/
----
-[Foreign_Policy] How Xi Sees a Weakened Trump
-Published: 2026-11-16T12:00:55+00:00
-Link: https://foreignpolicy.com/2026/11/16/midterms-trump-xi-meeting/
----
-[Foreign_Policy] Democrats Can’t Return to Pre-Trump Foreign Policy
-Published: 2026-11-16T12:00:39+00:00
-Link: https://foreignpolicy.com/2026/11/16/democrats-foreign-policy-congress-election-trump-tariffs/
----
-[New_Yorker_Magazine] Venezuela’s Collaborator-in-Chief
-Published: 2026-11-16T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/venezuelas-collaborator-in-chief
----
-[New_Yorker_Magazine] James Gray Keeps It Old School
-Published: 2026-11-16T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/james-gray-keeps-it-old-school
----
-[New_Yorker_Magazine] Would You Dissect a Human Body?
-Published: 2026-11-16T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/would-you-dissect-a-human-body
----
-[New_Yorker_Magazine] “Medea: A Life,” Reviewed
-Published: 2026-11-16T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/medea-a-life-edith-hall-book-review
----
-[New_Yorker_Magazine] The Buddhist A.I. Sect That Wants to Take Over Silicon Valley
-Published: 2026-11-16T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley
----
-[New_Yorker_Magazine] Your Pizza-Topping Horoscope
-Published: 2026-11-16T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/your-pizza-topping-horoscope
----
-[New_Yorker_Magazine] The Party Will Go On at Butterworth’s
-Published: 2026-11-16T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/the-party-will-go-on-at-butterworths
----
-[New_Yorker_Magazine] Jesse Eisenberg Can’t Help Overthinking It
-Published: 2026-11-16T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/jesse-eisenberg-profile
----
-[New_Yorker_Magazine] How Branford Marsalis and Dianne Reeves Got Their Feet
-Published: 2026-11-16T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/how-branford-marsalis-and-dianne-reeves-got-their-feet
----
-[New_Yorker_Magazine] Earth Was a Fixer-Upper
-Published: 2026-11-16T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/the-co-creation-olivia-judson-book-review-earth-and-life-andrew-knoll
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-11-16T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/the-absent-woman-stations-valiant-men-of-war-said-the-dead
----
-[New_Yorker_Magazine] The N.H.L.’s Most Philosophical Goalie
-Published: 2026-11-16T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/23/the-nhls-most-philosophical-goalie
----
-[Foreign_Policy] Can South Africa Tackle HIV Without the U.S.?
-Published: 2026-11-16T10:00:22+00:00
-Link: https://foreignpolicy.com/2026/11/16/south-africa-hiv-aids-pepfar-trump-health-funding-withdrawal/
 ---
