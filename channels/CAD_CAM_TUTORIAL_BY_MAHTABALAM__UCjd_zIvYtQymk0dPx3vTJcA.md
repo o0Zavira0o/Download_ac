@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-19T18:08:32Z_
+_آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-20 03:30:30 (UTC)  
+  **مدت:** حدود 23.7 دقیقه  
+  **عنوان:** [SolidWorks Sheet Metal Multibody Parts-Footstool (Convert to Sheet Metal,Edge Flange,Insert Bend)](https://www.youtube.com/watch?v=YzlYVaB-Ez4)  
+  ![](https://i.ytimg.com/vi/YzlYVaB-Ez4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-19 03:30:29 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-19T18:08:32Z_
   **مدت:** حدود 8.1 دقیقه  
   **عنوان:** [Unboxing 3Dconnexion SpaceNavigator 3D Mouse 3DX 700028](https://www.youtube.com/watch?v=Sa9vvhe5pJs)  
   ![](https://i.ytimg.com/vi/Sa9vvhe5pJs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-17 13:22:13 (UTC)  
-  **مدت:** حدود 8.7 دقیقه  
-  **عنوان:** [Solidworks tutorial Sheet metal fold and unfold command](https://www.youtube.com/watch?v=F8DJHqwSHCk)  
-  ![](https://i.ytimg.com/vi/F8DJHqwSHCk/hqdefault.jpg)

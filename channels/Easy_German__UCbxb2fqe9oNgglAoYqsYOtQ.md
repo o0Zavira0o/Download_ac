@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-19T18:08:32Z_
+_آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-20 11:35:43 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Chemnitz: Was hast du heute schon gemacht?](https://www.youtube.com/watch?v=ahPs4VjYmH8)  
+  ![](https://i.ytimg.com/vi/ahPs4VjYmH8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-19 17:26:02 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-19T18:08:32Z_
   **مدت:** حدود 3.0 دقیقه  
   **عنوان:** [Doing laundry - Super Easy German (48)](https://www.youtube.com/watch?v=f_Eu2-OtKfw)  
   ![](https://i.ytimg.com/vi/f_Eu2-OtKfw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-09-10 18:49:00 (UTC)  
-  **مدت:** حدود 9.3 دقیقه  
-  **عنوان:** [Describe yourself with 3 Words | Easy German 211](https://www.youtube.com/watch?v=wvMCOqTn1lw)  
-  ![](https://i.ytimg.com/vi/wvMCOqTn1lw/hqdefault.jpg)

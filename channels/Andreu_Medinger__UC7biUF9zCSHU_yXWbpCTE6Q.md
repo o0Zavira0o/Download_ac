@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-11-19T18:08:32Z_
+_آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-11-19 23:16:41 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [ROSQUEADEIRA ELETRÔNICA BT FIXO - ROSCAS DO M3 ao M16 #usinagem #soldagem #cnc](https://www.youtube.com/watch?v=8o1JekwInQo)  
+  ![](https://i.ytimg.com/vi/8o1JekwInQo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-16 22:30:34 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-19T18:08:32Z_
   **مدت:** حدود 30.2 دقیقه  
   **عنوان:** [AULA 53 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=fi79vz9PqPE)  
   ![](https://i.ytimg.com/vi/fi79vz9PqPE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-06-23 22:30:03 (UTC)  
-  **مدت:** حدود 27.2 دقیقه  
-  **عنوان:** [AULA 52 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=CUJJPJxM0-w)  
-  ![](https://i.ytimg.com/vi/CUJJPJxM0-w/hqdefault.jpg)
