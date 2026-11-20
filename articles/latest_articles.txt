@@ -1,6 +1,18 @@
-# Last Run: 2026-11-20 09:48 UTC
+# Last Run: 2026-11-20 18:24 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] ICJ Finds Myanmar Committed Genocide. What Comes Next?
+Published: 2026-11-20T15:57:04+00:00
+Link: https://foreignpolicy.com/2026/11/20/myanmar-genocide-icj-ruling-rohingya-muslims-ukraine-gaza-tom-andrews-un/
+---
+[Foreign_Policy] The Other Summitry in Shenzhen
+Published: 2026-11-20T13:00:10+00:00
+Link: https://foreignpolicy.com/2026/11/20/apec-summit-chile-mexico-peru-china-xi/
+---
+[New_Yorker_Magazine] “All of a Sudden” Exalts the Power of Talk
+Published: 2026-11-20T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/30/all-of-a-sudden-movie-review
+---
 [Foreign_Affairs] Congress and the Coming Crises
 Published: 2026-11-20T09:00:00+00:00
 Link: https://www.foreignaffairs.com/united-states/congress-and-coming-crises
@@ -8,6 +20,10 @@ Link: https://www.foreignaffairs.com/united-states/congress-and-coming-crises
 [Foreign_Affairs] America’s Bad Bargain in Venezuela
 Published: 2026-11-20T09:00:00+00:00
 Link: https://www.foreignaffairs.com/venezuela/americas-bad-bargain-venezuela
+---
+[New_Yorker_Magazine] Amid Heckles and Hurrahs, Anthropic Rings In a New Era
+Published: 2026-11-20T01:56:42+00:00
+Link: https://www.newyorker.com/magazine/2026/11/30/amid-heckles-and-hurrahs-anthropic-rings-in-a-new-era
 ---
 [Foreign_Policy] The U.S. and Iran Are Back to Trading Strikes
 Published: 2026-11-19T22:39:31+00:00
@@ -40,6 +56,10 @@ Link: https://foreignpolicy.com/2026/11/19/beginning-end-modi-protests/
 [Foreign_Policy] The Gulf Is America’s Next AI Security Test
 Published: 2026-11-19T15:26:55+00:00
 Link: https://foreignpolicy.com/2026/11/19/nvidia-huang-scandal-ai-security-chips-export-controls-gulf-saudi-uae/
+---
+[New_Yorker_Magazine] Bruce Norris’s Ferociously Challenging “Downstate”
+Published: 2026-11-19T11:00:00+00:00
+Link: https://www.newyorker.com/magazine/2026/11/30/downstate-theatre-review
 ---
 [Foreign_Affairs] The Only Way to End the Netanyahu Era
 Published: 2026-11-19T09:00:00+00:00
@@ -120,32 +140,4 @@ Link: https://foreignpolicy.com/2026/11/17/freshmen-house-democratic-lawmakers-c
 [Foreign_Policy] Will Iraqi Kurdistan Break Apart?
 Published: 2026-11-17T19:13:40+00:00
 Link: https://foreignpolicy.com/2026/11/17/kurdistan-iraq-puk-kdp-talabani-barzani-split/
----
-[Foreign_Policy] Ecuador’s Fraught Mining Boom
-Published: 2026-11-17T17:44:42+00:00
-Link: https://foreignpolicy.com/2026/11/17/ecuador-mining-boom-noboa-agenda-economics-environment-democracy/
----
-[Foreign_Policy] European Rearmament Risks Political Peril
-Published: 2026-11-17T17:11:46+00:00
-Link: https://foreignpolicy.com/2026/11/17/europe-rearmament-russia-ukraine-defense-social-spending-protest/
----
-[Foreign_Policy] The AI Safety Debate Has a Human Rights Blind Spot
-Published: 2026-11-17T16:53:25+00:00
-Link: https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate-regulation-united-nations/
----
-[Foreign_Policy] The AI Safety Debate Has a Human Rights Blind Spot
-Published: 2026-11-17T16:53:25+00:00
-Link: https://foreignpolicy.com/2026/11/17/ai-human-rights-safety-debate/
----
-[Foreign_Policy] The National Security Case for Permitting Reform
-Published: 2026-11-17T16:27:29+00:00
-Link: https://foreignpolicy.com/2026/11/17/baaja-national-security-trump-permitting-reform/
----
-[Foreign_Policy] America Can’t Racially Profile Its Way to AI Supremacy
-Published: 2026-11-17T12:49:13+00:00
-Link: https://foreignpolicy.com/2026/11/17/nvidia-scandal-jensen-huang-racial-profiling-usa-intelligence-ai/
----
-[Foreign_Policy] America Can’t Racially Profile Its Way to AI Supremacy
-Published: 2026-11-17T12:49:13+00:00
-Link: https://foreignpolicy.com/2026/11/17/nvidia-racial-profiling-jensen-huang-usa-ai/
 ---
