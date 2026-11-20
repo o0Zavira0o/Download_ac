@@ -1,9 +1,29 @@
-# Last Run: 2026-11-19 18:59 UTC
+# Last Run: 2026-11-20 01:43 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The U.S. and Iran Are Back to Trading Strikes
+Published: 2026-11-19T22:39:31+00:00
+Link: https://foreignpolicy.com/2026/11/19/us-iran-strikes-bahrain-kuwait-trump/
+---
+[Foreign_Policy] Trump, Xi, Putin Hold Historic Trilateral Talks
+Published: 2026-11-19T21:28:32+00:00
+Link: https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-talks-nuclear-disarmament-un-icc-oil/
+---
+[Foreign_Policy] Shenzhen Was No Yalta Conference
+Published: 2026-11-19T19:41:00+00:00
+Link: https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/
+---
+[Foreign_Policy] In Italy, Meloni Grapples With a Potential Spoiler
+Published: 2026-11-19T19:25:00+00:00
+Link: https://foreignpolicy.com/2026/11/19/italy-meloni-vannacci-far-right-spoiler-elections-ukraine/
+---
 [Foreign_Policy] Iran’s ‘Boiling Frog’ Strategy
 Published: 2026-11-19T17:55:24+00:00
 Link: https://foreignpolicy.com/2026/11/19/iran-war-us-strikes-dirty-bomb-trump-congress-democrats-vali-nasr/
+---
+[Foreign_Policy] Is This the Beginning of the End for Modi?
+Published: 2026-11-19T17:28:42+00:00
+Link: https://foreignpolicy.com/2026/11/19/india-protests-election-fraud-modi-corruption-education-students/
 ---
 [Foreign_Policy] Is This the Beginning of the End for Modi?
 Published: 2026-11-19T17:28:42+00:00
@@ -128,12 +148,4 @@ Link: https://www.foreignaffairs.com/united-states/china-misreading-moment
 [Foreign_Affairs] The Fantasy of a Turkish Middle East
 Published: 2026-11-17T09:00:00+00:00
 Link: https://www.foreignaffairs.com/turkey/fantasy-turkish-middle-east
----
-[Foreign_Policy] Trump Kicks Off Asia Tour
-Published: 2026-11-16T21:35:11+00:00
-Link: https://foreignpolicy.com/2026/11/16/trump-asean-quad-china-xi-putin-kim-midterms-nvidia-trade-security/
----
-[Foreign_Policy] The Middle East Is Finally on Its Own
-Published: 2026-11-16T20:49:31+00:00
-Link: https://foreignpolicy.com/2026/11/16/united-states-middle-east-intervention-era-over/
 ---
