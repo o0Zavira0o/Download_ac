@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
+_آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
@@ -1418,12 +1418,6 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
   ![](https://i.ytimg.com/vi/KDgrzcjrZ4c/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2025-04-12 17:45:46 (UTC)  
-  **مدت:** حدود 18.2 دقیقه  
-  **عنوان:** [F24 ME401 Mechanisms Class 3 Video 3 Transmission Angle Examples](https://www.youtube.com/watch?v=zZKEjZwOmCk)  
-  ![](https://i.ytimg.com/vi/zZKEjZwOmCk/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2025-04-12 17:45:44 (UTC)  
   **مدت:** حدود 12.5 دقیقه  
   **عنوان:** [S24 ME401 Homework 6 MATLAB explanation](https://www.youtube.com/watch?v=ZTRmFD-JOAA)  
@@ -1446,12 +1440,6 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
   **مدت:** حدود 33.7 دقیقه  
   **عنوان:** [S24 ME401 Gear Crank SolidWorks Assembly for Project](https://www.youtube.com/watch?v=m0B7txQ-uWw)  
   ![](https://i.ytimg.com/vi/m0B7txQ-uWw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-04-12 17:45:42 (UTC)  
-  **مدت:** حدود 41.4 دقیقه  
-  **عنوان:** [S24 ME401 Mechanisms Three Position Graphical Synthesis with SolidWorks Norton Problem 3-5](https://www.youtube.com/watch?v=ICupnRtmuDQ)  
-  ![](https://i.ytimg.com/vi/ICupnRtmuDQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-04-12 17:45:42 (UTC)  
@@ -1494,12 +1482,6 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
   **مدت:** حدود 28.3 دقیقه  
   **عنوان:** [S25 ME401/501 Welcome to Mechanisms!](https://www.youtube.com/watch?v=KNvGbHRK8mI)  
   ![](https://i.ytimg.com/vi/KNvGbHRK8mI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-04-12 17:44:50 (UTC)  
-  **مدت:** حدود 31.5 دقیقه  
-  **عنوان:** [S25 ME401/501 Mechanisms Class 7 Statics - Using SolidWorks Motion to find Reactions](https://www.youtube.com/watch?v=Ivy5m8uW2wk)  
-  ![](https://i.ytimg.com/vi/Ivy5m8uW2wk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2025-01-09 06:55:02 (UTC)  
@@ -3510,42 +3492,6 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
   **مدت:** حدود 22.0 دقیقه  
   **عنوان:** [F21 ES211 HW23 Problem 2 Solution](https://www.youtube.com/watch?v=nz0KwYn_KwE)  
   ![](https://i.ytimg.com/vi/nz0KwYn_KwE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2022-12-16 22:37:10 (UTC)  
-  **مدت:** حدود 76.8 دقیقه  
-  **عنوان:** [Mechanisms: Three-Position Graphical Synthesis Norton 3-54 Example w/ SolidWorks (S21 ME401 Class 4)](https://www.youtube.com/watch?v=9OpGm6ka7x8)  
-  ![](https://i.ytimg.com/vi/9OpGm6ka7x8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2022-12-16 22:30:15 (UTC)  
-  **مدت:** حدود 12.5 دقیقه  
-  **عنوان:** [Mechanisms: Three-Position Graphical Synthesis Movin'-a-box Example  (S21 ME401 Class 4)](https://www.youtube.com/watch?v=pvRBLnxyGs0)  
-  ![](https://i.ytimg.com/vi/pvRBLnxyGs0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2022-12-16 22:20:21 (UTC)  
-  **مدت:** حدود 24.5 دقیقه  
-  **عنوان:** [Mechanisms: Graphical Synthesis Quick Return Driving Dyad Example (S21 ME401 Class 4)](https://www.youtube.com/watch?v=U0pA1TNF1OQ)  
-  ![](https://i.ytimg.com/vi/U0pA1TNF1OQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2022-12-16 22:05:56 (UTC)  
-  **مدت:** حدود 47.6 دقیقه  
-  **عنوان:** [Mechanisms: Graphical Motion Two-Position Synthesis with SolidWorks (S20 ME401 Class 4 Examples 3-5)](https://www.youtube.com/watch?v=FQhjzyJmiyo)  
-  ![](https://i.ytimg.com/vi/FQhjzyJmiyo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2022-12-16 22:02:38 (UTC)  
-  **مدت:** حدود 15.9 دقیقه  
-  **عنوان:** [Mechanisms:  Quick Return Mechanism Synthesis with SolidWorks Example (S20 ME401 Class 4)](https://www.youtube.com/watch?v=79DVQn4_7sE)  
-  ![](https://i.ytimg.com/vi/79DVQn4_7sE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2022-12-16 21:58:44 (UTC)  
-  **مدت:** حدود 23.3 دقیقه  
-  **عنوان:** [Mechanisms: 4bar graphical synthesis with SolidWorks (S20 ME401 Class 4 Example 1)](https://www.youtube.com/watch?v=Iugw-ANDp9M)  
-  ![](https://i.ytimg.com/vi/Iugw-ANDp9M/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2022-12-06 20:14:53 (UTC)  
@@ -6722,12 +6668,6 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
   ![](https://i.ytimg.com/vi/Igj-9zizQyI/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2021-07-19 15:22:43 (UTC)  
-  **مدت:** حدود 40.7 دقیقه  
-  **عنوان:** [Mechanisms: Graphical Synthesis Example Norton 5-57 (S21 ME401 Class 12)](https://www.youtube.com/watch?v=ziQPSRrOKmU)  
-  ![](https://i.ytimg.com/vi/ziQPSRrOKmU/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2021-07-19 15:19:38 (UTC)  
   **مدت:** حدود 17.0 دقیقه  
   **عنوان:** [Mechanisms: Cam SVAJ Diagrams in Excel part 2 (S20 ME401 Class 21 part 2)](https://www.youtube.com/watch?v=yIsYP_XpnzM)  
@@ -6746,226 +6686,10 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
   ![](https://i.ytimg.com/vi/ndNNW5QQ9ys/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2021-07-19 15:14:14 (UTC)  
-  **مدت:** حدود 29.1 دقیقه  
-  **عنوان:** [Mechanisms, Two Position Motion Analytical Synthesis Example Excel and MATLAB (S21 ME401 Class 12)](https://www.youtube.com/watch?v=_JVkZFo7OZE)  
-  ![](https://i.ytimg.com/vi/_JVkZFo7OZE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 15:13:32 (UTC)  
-  **مدت:** حدود 22.0 دقیقه  
-  **عنوان:** [Mechanisms: Three-Position Analytical Synthesis Using MATLAB Example (S21 ME401 Class 12)](https://www.youtube.com/watch?v=j9S1bCTCljQ)  
-  ![](https://i.ytimg.com/vi/j9S1bCTCljQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 15:06:16 (UTC)  
-  **مدت:** حدود 18.1 دقیقه  
-  **عنوان:** [Mechanisms: Two Position Motion Analytical Synthesis Intro (S21 ME401 Class 11)](https://www.youtube.com/watch?v=n2yMmwKsobo)  
-  ![](https://i.ytimg.com/vi/n2yMmwKsobo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 15:04:34 (UTC)  
-  **مدت:** حدود 16.4 دقیقه  
-  **عنوان:** [Mechanisms: Two Position Motion Analytical Synthesis Example (S21 ME401 Class 11)](https://www.youtube.com/watch?v=wJe_eZWEZhg)  
-  ![](https://i.ytimg.com/vi/wJe_eZWEZhg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 14:39:50 (UTC)  
-  **مدت:** حدود 10.3 دقیقه  
-  **عنوان:** [Mechanisms: Two-Position Rocker Output Analytical Synthesis Example (S21 ME401 Class 11)](https://www.youtube.com/watch?v=u5CspNDYq20)  
-  ![](https://i.ytimg.com/vi/u5CspNDYq20/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 14:32:05 (UTC)  
-  **مدت:** حدود 20.4 دقیقه  
-  **عنوان:** [Mechanisms: Position Analysis of Complex Mechanism  in MATLAB and SolidWorks (S21 ME401 Class 10)](https://www.youtube.com/watch?v=FPpnLMbjZww)  
-  ![](https://i.ytimg.com/vi/FPpnLMbjZww/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 14:31:06 (UTC)  
-  **مدت:** حدود 11.2 دقیقه  
-  **عنوان:** [Mechanisms: Two Position Analytical Synthesis Intro (S21 ME401 Class 11)](https://www.youtube.com/watch?v=ZdcKKGDgvbg)  
-  ![](https://i.ytimg.com/vi/ZdcKKGDgvbg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 14:26:41 (UTC)  
-  **مدت:** حدود 15.1 دقیقه  
-  **عنوان:** [Mechanisms: Four Bar Position Analysis Using Newton Raphson in MATLAB (S21 ME401 Class 10)](https://www.youtube.com/watch?v=DTJ3r5pDR3M)  
-  ![](https://i.ytimg.com/vi/DTJ3r5pDR3M/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 14:17:28 (UTC)  
-  **مدت:** حدود 11.2 دقیقه  
-  **عنوان:** [Mechanisms: Introduction to 1D Newton-Raphson Numerical Solutions (S21 ME401 Class 10)](https://www.youtube.com/watch?v=LbmhGbsNrb8)  
-  ![](https://i.ytimg.com/vi/LbmhGbsNrb8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 14:14:47 (UTC)  
-  **مدت:** حدود 15.1 دقیقه  
-  **عنوان:** [Mechanisms: Four-Bar Position Analysis Using Numerical Approach Excel Solver (S21 ME401 Class 10)](https://www.youtube.com/watch?v=DTYHGw7kRZ0)  
-  ![](https://i.ytimg.com/vi/DTYHGw7kRZ0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 14:11:14 (UTC)  
-  **مدت:** حدود 21.1 دقیقه  
-  **عنوان:** [Mechanisms: Four Bar Coupler Curve w/ Excel Analytical Position Full Rotation (S20 ME401 Class 8)](https://www.youtube.com/watch?v=P2GrCeBO0oQ)  
-  ![](https://i.ytimg.com/vi/P2GrCeBO0oQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 14:08:42 (UTC)  
-  **مدت:** حدود 19.4 دقیقه  
-  **عنوان:** [Mechanisms: Four-Bar Position Analysis Using Excel Solver (S20 ME401 Class 10)](https://www.youtube.com/watch?v=1i4mbMFG-WE)  
-  ![](https://i.ytimg.com/vi/1i4mbMFG-WE/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 13:56:10 (UTC)  
-  **مدت:** حدود 16.6 دقیقه  
-  **عنوان:** [Mechanisms: Inverted Crank-Slider Excel Position Analysis (S20 ME401 Class 8)](https://www.youtube.com/watch?v=0JR4JSAvF3M)  
-  ![](https://i.ytimg.com/vi/0JR4JSAvF3M/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 13:51:19 (UTC)  
-  **مدت:** حدود 30.0 دقیقه  
-  **عنوان:** [Mechanisms: Slider-Crank Vector Loop Analytical Position Analysis (S21 ME401 Class 8)](https://www.youtube.com/watch?v=28Pnh2JSuZo)  
-  ![](https://i.ytimg.com/vi/28Pnh2JSuZo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 13:51:15 (UTC)  
-  **مدت:** حدود 6.7 دقیقه  
-  **عنوان:** [Mechanisms: Inverted Crank-Slider Vector Loop Analytical Position Analysis (S21 ME401 Class 8)](https://www.youtube.com/watch?v=Idf8bUstfwQ)  
-  ![](https://i.ytimg.com/vi/Idf8bUstfwQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 13:46:30 (UTC)  
-  **مدت:** حدود 19.6 دقیقه  
-  **عنوان:** [Mechanisms: Vector Loop Four-Bar Analytical Position Analysis (S21 ME401 Class 8)](https://www.youtube.com/watch?v=AjePLsnSDh8)  
-  ![](https://i.ytimg.com/vi/AjePLsnSDh8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 13:44:04 (UTC)  
-  **مدت:** حدود 20.1 دقیقه  
-  **عنوان:** [Mechanisms: Vector Loop for Crank-Slider Example (S21 ME401 Class 8 part 2)](https://www.youtube.com/watch?v=5Gy_Pozu4S4)  
-  ![](https://i.ytimg.com/vi/5Gy_Pozu4S4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-19 13:38:33 (UTC)  
-  **مدت:** حدود 15.8 دقیقه  
-  **عنوان:** [Mechanisms: Vector Loop Analytical Position Analysis Intro (S21 ME401 Class 8)](https://www.youtube.com/watch?v=14smhv_tepU)  
-  ![](https://i.ytimg.com/vi/14smhv_tepU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-16 17:20:44 (UTC)  
-  **مدت:** حدود 52.8 دقیقه  
-  **عنوان:** [Mechanisms: Four-Bar Grashof, Inversions and Classification (S21 ME401 Class 2)](https://www.youtube.com/watch?v=dMZFsg_HS-A)  
-  ![](https://i.ytimg.com/vi/dMZFsg_HS-A/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-16 17:18:33 (UTC)  
-  **مدت:** حدود 14.9 دقیقه  
-  **عنوان:** [Mechanisms: Four-Bar Two Position Graphical Synthesis 2 (S21 ME401 Class 4)](https://www.youtube.com/watch?v=f6dxvIMqqgc)  
-  ![](https://i.ytimg.com/vi/f6dxvIMqqgc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-16 17:13:37 (UTC)  
-  **مدت:** حدود 14.6 دقیقه  
-  **عنوان:** [Mechanisms: Slider-Crank Vector Loop Analytical Position Analysis with Excel (S20 ME401 Class 8)](https://www.youtube.com/watch?v=iuDgs4rwlJY)  
-  ![](https://i.ytimg.com/vi/iuDgs4rwlJY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-16 17:10:54 (UTC)  
-  **مدت:** حدود 12.4 دقیقه  
-  **عنوان:** [Mechanisms: Crank-Slider Position Analysis with Excel (S20 ME401 Class 8)](https://www.youtube.com/watch?v=HSXpyhhhuNA)  
-  ![](https://i.ytimg.com/vi/HSXpyhhhuNA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-16 17:08:53 (UTC)  
-  **مدت:** حدود 19.3 دقیقه  
-  **عنوان:** [Mechanisms: Four-Bar Position Analysis with Excel (S20 ME401 Class 8)](https://www.youtube.com/watch?v=SgcsNQFCD3g)  
-  ![](https://i.ytimg.com/vi/SgcsNQFCD3g/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-16 17:08:42 (UTC)  
-  **مدت:** حدود 12.5 دقیقه  
-  **عنوان:** [Mechanisms: Four-Bar Three Position Graphical Synthesis (S21 ME401 Class 4)](https://www.youtube.com/watch?v=ghs52_8RRpw)  
-  ![](https://i.ytimg.com/vi/ghs52_8RRpw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-16 16:56:21 (UTC)  
-  **مدت:** حدود 7.5 دقیقه  
-  **عنوان:** [Mechanisms: Four Bar Statics Example 1 (S21 ME401 Class 7)](https://www.youtube.com/watch?v=DRX52BvfZvk)  
-  ![](https://i.ytimg.com/vi/DRX52BvfZvk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-16 16:46:42 (UTC)  
-  **مدت:** حدود 29.9 دقیقه  
-  **عنوان:** [Mechanisms, Four Bar Linkage Statics Example 2 (S21 ME401 Class 7)](https://www.youtube.com/watch?v=G-I3XcT2ogQ)  
-  ![](https://i.ytimg.com/vi/G-I3XcT2ogQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-16 16:45:35 (UTC)  
-  **مدت:** حدود 26.3 دقیقه  
-  **عنوان:** [Mechanisms: Four-Bar Statics Example 3 (S21 ME401 Class 7)](https://www.youtube.com/watch?v=eYTXj_KrZKM)  
-  ![](https://i.ytimg.com/vi/eYTXj_KrZKM/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2021-07-16 16:35:38 (UTC)  
   **مدت:** حدود 41.5 دقیقه  
   **عنوان:** [S21 ME401/501 Mechanisms Class 1: Introduction, Mobility and Kinematic Diagrams](https://www.youtube.com/watch?v=IdWrlfhcuFk)  
   ![](https://i.ytimg.com/vi/IdWrlfhcuFk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-15 00:45:00 (UTC)  
-  **مدت:** حدود 9.5 دقیقه  
-  **عنوان:** [Mechanisms: Four Bar Two-Position Coupler Output Synthesis (S21 ME401 Class 4 part 3)](https://www.youtube.com/watch?v=SiLsZsgglTw)  
-  ![](https://i.ytimg.com/vi/SiLsZsgglTw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-15 00:42:59 (UTC)  
-  **مدت:** حدود 9.5 دقیقه  
-  **عنوان:** [Mechanisms: Four Bar Two-Position Rocker Output Graphical Synthesis (S21 ME401 Class 4)](https://www.youtube.com/watch?v=W3ZRZDHPJ4M)  
-  ![](https://i.ytimg.com/vi/W3ZRZDHPJ4M/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-15 00:39:08 (UTC)  
-  **مدت:** حدود 15.9 دقیقه  
-  **عنوان:** [Mechanisms: Four-Bar Graphical Synthesis, Rocker Output (S21 ME401 Class 4 part 1)](https://www.youtube.com/watch?v=IXT7fCza63k)  
-  ![](https://i.ytimg.com/vi/IXT7fCza63k/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-15 00:35:03 (UTC)  
-  **مدت:** حدود 38.5 دقیقه  
-  **عنوان:** [Mechanisms: Four-Bar Graphical Position Analysis (S21 ME401 Class 3)](https://www.youtube.com/watch?v=eOGqlqg87QY)  
-  ![](https://i.ytimg.com/vi/eOGqlqg87QY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-15 00:26:13 (UTC)  
-  **مدت:** حدود 12.8 دقیقه  
-  **عنوان:** [Mechanisms: Straight Line Mechanisms Four-Bar Coupler Curves with Motion Gen (S21 ME401 Class 5)](https://www.youtube.com/watch?v=oryCZq16Ly8)  
-  ![](https://i.ytimg.com/vi/oryCZq16Ly8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-15 00:24:48 (UTC)  
-  **مدت:** حدود 7.7 دقیقه  
-  **عنوان:** [Mechanisms: Four-Bar Coupler Curves from Atlas and Motion Gen (S21 ME401 Class 5)](https://www.youtube.com/watch?v=2ontVqP-R9A)  
-  ![](https://i.ytimg.com/vi/2ontVqP-R9A/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-15 00:24:30 (UTC)  
-  **مدت:** حدود 12.8 دقیقه  
-  **عنوان:** [Mechanisms: Four-Bar Coupler Curve Cognates with Motion Gen (S21 ME401 Class 5)](https://www.youtube.com/watch?v=cbKdEuJaNgo)  
-  ![](https://i.ytimg.com/vi/cbKdEuJaNgo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-15 00:23:02 (UTC)  
-  **مدت:** حدود 15.7 دقیقه  
-  **عنوان:** [Mechanisms, Four-Bar Coupler Curves with Motion Gen (S21 ME401 Class 5)](https://www.youtube.com/watch?v=07_mh2wRkdk)  
-  ![](https://i.ytimg.com/vi/07_mh2wRkdk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-07-15 00:21:17 (UTC)  
-  **مدت:** حدود 21.7 دقیقه  
-  **عنوان:** [Mechanisms: Four-Bar Stationary Positions and Transmission Angle (S21 ME401 Class 3 Part 2)](https://www.youtube.com/watch?v=iN3NLgvLhp0)  
-  ![](https://i.ytimg.com/vi/iN3NLgvLhp0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2021-07-15 00:19:39 (UTC)  
@@ -7622,12 +7346,6 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
   ![](https://i.ytimg.com/vi/5ChJamB9pik/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2021-05-25 18:23:26 (UTC)  
-  **مدت:** حدود 18.5 دقیقه  
-  **عنوان:** [Mechanisms: Dynamics Review Velocity Analysis Introduction (S20 ME401 Class 13)](https://www.youtube.com/watch?v=DLB1xGjtH44)  
-  ![](https://i.ytimg.com/vi/DLB1xGjtH44/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2021-05-25 18:23:25 (UTC)  
   **مدت:** حدود 28.8 دقیقه  
   **عنوان:** [Dynamics: Center of Mass and Mass Moment of Inertia by parts Example (S20 ES211 Class 19)](https://www.youtube.com/watch?v=k26mUUIh-5w)  
@@ -7646,28 +7364,10 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
   ![](https://i.ytimg.com/vi/U1EFJfQCjN0/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2021-05-25 18:14:07 (UTC)  
-  **مدت:** حدود 7.9 دقیقه  
-  **عنوان:** [Mechanisms: Dynamics Review Velocity Analysis Vector Triangles Example (S20 ME401 Class 13)](https://www.youtube.com/watch?v=lHuA8L2Q9WY)  
-  ![](https://i.ytimg.com/vi/lHuA8L2Q9WY/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2021-05-25 18:10:06 (UTC)  
   **مدت:** حدود 5.7 دقیقه  
   **عنوان:** [Mechanisms: Dynamics Review Velocity Analysis ICR Method Example (S20 ME401 Class 13)](https://www.youtube.com/watch?v=J4rkSYv3zjU)  
   ![](https://i.ytimg.com/vi/J4rkSYv3zjU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-05-25 18:08:57 (UTC)  
-  **مدت:** حدود 7.2 دقیقه  
-  **عنوان:** [Mechanisms: Dynamics Review Velocity Analysis Vector Math Example (S20 ME401 Class 13)](https://www.youtube.com/watch?v=hdG8VRoCALM)  
-  ![](https://i.ytimg.com/vi/hdG8VRoCALM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-05-25 18:08:48 (UTC)  
-  **مدت:** حدود 7.0 دقیقه  
-  **عنوان:** [Mechanisms Dynamics Review Velocity Analysis Three Diagram Method Example (S20 ME401 Class 13)](https://www.youtube.com/watch?v=wRUK-ZaonHU)  
-  ![](https://i.ytimg.com/vi/wRUK-ZaonHU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2021-05-25 18:03:22 (UTC)  
@@ -7830,12 +7530,6 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
   **مدت:** حدود 20.9 دقیقه  
   **عنوان:** [Dynamics, Rigid Body Kinematics, Velocity Introduction (S20 ES211 Class 14)](https://www.youtube.com/watch?v=BJPrZeGY9xk)  
   ![](https://i.ytimg.com/vi/BJPrZeGY9xk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2021-05-25 15:18:12 (UTC)  
-  **مدت:** حدود 17.0 دقیقه  
-  **عنوان:** [Mechanisms Exam 1 Solution Overview (S20 ME401)](https://www.youtube.com/watch?v=EiH1L79pmiY)  
-  ![](https://i.ytimg.com/vi/EiH1L79pmiY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2021-05-25 15:16:57 (UTC)  

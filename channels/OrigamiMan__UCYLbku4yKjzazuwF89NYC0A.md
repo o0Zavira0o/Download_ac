@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
+_آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-11-21 10:00:05 (UTC)  
+  **مدت:** حدود 13.9 دقیقه  
+  **عنوان:** [53,PTERANODON | Prehistoric Flying Reptile Origami | プテラノドンの折り紙【無言の折り紙】](https://www.youtube.com/watch?v=sh2MsJgSFpA)  
+  ![](https://i.ytimg.com/vi/sh2MsJgSFpA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-14 10:00:39 (UTC)  

@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
+_آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-21 07:39:09 (UTC)  
+  **مدت:** حدود 3.5 دقیقه  
+  **عنوان:** [SolidWorks Advanced Exercise! 🤯 Can You Model This 6-Pipe Star Junction?](https://www.youtube.com/watch?v=pPQcfIaOZoQ)  
+  ![](https://i.ytimg.com/vi/pPQcfIaOZoQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-18 12:11:59 (UTC)  
@@ -188,7 +194,7 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
 
 - **تاریخ انتشار:** 2026-10-21 03:03:48 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Inside a Double-Piston Steam Engine 🚂💨](https://www.youtube.com/watch?v=zR8luuAmpHM)  
+  **عنوان:** [✅Inside a Double-Piston Steam Engine 🚂💨](https://www.youtube.com/watch?v=zR8luuAmpHM)  
   ![](https://i.ytimg.com/vi/zR8luuAmpHM/hqdefault.jpg)
 
 
@@ -212,13 +218,13 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
 
 - **تاریخ انتشار:** 2026-10-17 06:31:35 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Genius Engineering: The Scotch Yoke 🤯 #shorts](https://www.youtube.com/watch?v=j3SZCoAB2sk)  
+  **عنوان:** [✅Genius Engineering: The Scotch Yoke 🤯 #shorts](https://www.youtube.com/watch?v=j3SZCoAB2sk)  
   ![](https://i.ytimg.com/vi/j3SZCoAB2sk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-16 02:51:14 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How Machines Save Time 🤯 (Quick Return Mechanism)](https://www.youtube.com/watch?v=6Vm65fbTM6o)  
+  **عنوان:** [✅How Machines Save Time 🤯 (Quick Return Mechanism)](https://www.youtube.com/watch?v=6Vm65fbTM6o)  
   ![](https://i.ytimg.com/vi/6Vm65fbTM6o/hqdefault.jpg)
 
 
@@ -284,7 +290,7 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
 
 - **تاریخ انتشار:** 2026-10-08 02:33:56 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [This 140-Year-Old Mechanical Secret Will Blow Your Mind! 🤯](https://www.youtube.com/watch?v=aKch7yK1jGg)  
+  **عنوان:** [✅This 140-Year-Old Mechanical Secret Will Blow Your Mind! 🤯](https://www.youtube.com/watch?v=aKch7yK1jGg)  
   ![](https://i.ytimg.com/vi/aKch7yK1jGg/hqdefault.jpg)
 
 
@@ -344,7 +350,7 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
 
 - **تاریخ انتشار:** 2026-09-25 03:09:04 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [The Most Satisfying Clamping Mechanism Ever Made](https://www.youtube.com/watch?v=zYhtmBWZqAs)  
+  **عنوان:** [✅DIY Clamping Mechanism Ever Made](https://www.youtube.com/watch?v=zYhtmBWZqAs)  
   ![](https://i.ytimg.com/vi/zYhtmBWZqAs/hqdefault.jpg)
 
 
@@ -374,7 +380,7 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
 
 - **تاریخ انتشار:** 2026-09-19 05:30:28 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Automated vs. Manual Rowing Mechanisms](https://www.youtube.com/watch?v=F5-H6mBLvZM)  
+  **عنوان:** [✅Automated vs. Manual Rowing Mechanisms #3danimation](https://www.youtube.com/watch?v=F5-H6mBLvZM)  
   ![](https://i.ytimg.com/vi/F5-H6mBLvZM/hqdefault.jpg)
 
 
@@ -392,7 +398,7 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
 
 - **تاریخ انتشار:** 2026-09-15 05:28:47 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [CAD vs LEGO: Which design wins? 🤔#shorts #3dmodeling #lego](https://www.youtube.com/watch?v=SfB0Ub99aLI)  
+  **عنوان:** [✅CAD vs LEGO: Which design wins? 🤔#shorts #3dmodeling #lego](https://www.youtube.com/watch?v=SfB0Ub99aLI)  
   ![](https://i.ytimg.com/vi/SfB0Ub99aLI/hqdefault.jpg)
 
 
@@ -530,7 +536,7 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
 
 - **تاریخ انتشار:** 2026-08-18 02:16:37 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Comparative Design Variations of Nutating and Swashplate Mechanical Drives](https://www.youtube.com/watch?v=J1QSugTXIyE)  
+  **عنوان:** [✅Comparative Design Variations of Nutating and Swashplate Mechanical Drives](https://www.youtube.com/watch?v=J1QSugTXIyE)  
   ![](https://i.ytimg.com/vi/J1QSugTXIyE/hqdefault.jpg)
 
 
@@ -548,7 +554,7 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
 
 - **تاریخ انتشار:** 2026-08-15 03:14:32 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [This 1884 invention is pure engineering magic! ⚙️✨ #Shorts](https://www.youtube.com/watch?v=-BxFlWBh9s0)  
+  **عنوان:** [✅This 1884 invention is pure engineering magic! ⚙️✨ #Shorts](https://www.youtube.com/watch?v=-BxFlWBh9s0)  
   ![](https://i.ytimg.com/vi/-BxFlWBh9s0/hqdefault.jpg)
 
 
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [How to Use a Lofted Boss/Base Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=UUBupeYSFWo)  
   ![](https://i.ytimg.com/vi/UUBupeYSFWo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-03-02 11:41:58 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [How to Use Wrap Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=uyJiJqZbvPo)  
-  ![](https://i.ytimg.com/vi/uyJiJqZbvPo/hqdefault.jpg)

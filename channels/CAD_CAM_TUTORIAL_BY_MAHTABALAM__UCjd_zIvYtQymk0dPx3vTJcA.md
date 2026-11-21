@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
+_آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-21 03:30:17 (UTC)  
+  **مدت:** حدود 19.4 دقیقه  
+  **عنوان:** [Worm Gearbox Body Modeling in SolidWorks (Thread,Revolved Cut,Hole Wizard-Tapped Hole)](https://www.youtube.com/watch?v=-IDQ5TUsEUo)  
+  ![](https://i.ytimg.com/vi/-IDQ5TUsEUo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-20 03:30:30 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
   **مدت:** حدود 68.1 دقیقه  
   **عنوان:** [Solidworks tutorial | Design of Tube Welding Clamp in Solidworks](https://www.youtube.com/watch?v=4FO12kmXO8I)  
   ![](https://i.ytimg.com/vi/4FO12kmXO8I/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-06-29 13:21:38 (UTC)  
-  **مدت:** حدود 8.1 دقیقه  
-  **عنوان:** [Unboxing 3Dconnexion SpaceNavigator 3D Mouse 3DX 700028](https://www.youtube.com/watch?v=Sa9vvhe5pJs)  
-  ![](https://i.ytimg.com/vi/Sa9vvhe5pJs/hqdefault.jpg)

@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Hwaufranc
 
-_آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
+_آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
 
 
 **لینک استاندارد کانال:** [Hwaufranc](https://www.youtube.com/channel/UCMOhBfxzEQoucrZiGQn6dBQ)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/@hwaufranc  
+
+
+- **تاریخ انتشار:** 2026-11-21 13:25:00 (UTC)  
+  **مدت:** حدود 2.6 دقیقه  
+  **عنوان:** [ASMR 다꾸 스티커 하울🎄 다이어리꾸미기 다꾸템 WT 협찬 Journal Unboxing](https://www.youtube.com/watch?v=28inaT-giSM)  
+  ![](https://i.ytimg.com/vi/28inaT-giSM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-19 16:15:32 (UTC)  
@@ -5400,9 +5406,3 @@ _آخرین به‌روزرسانی: 2026-11-20T17:41:28Z_
   **مدت:** حدود 11.4 دقیقه  
   **عنوان:** [ASMR Decorating a Journal and Organize 빈티지 다꾸 | Tingle Journaling Sounds | hwaufranc](https://www.youtube.com/watch?v=wHZfPZCLaU4)  
   ![](https://i.ytimg.com/vi/wHZfPZCLaU4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2024-08-17 12:32:00 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [Journaling ASMR 2/2 #journal #asmr #scrabooking #다꾸](https://www.youtube.com/watch?v=8yaLpELG_Ek)  
-  ![](https://i.ytimg.com/vi/8yaLpELG_Ek/hqdefault.jpg)
