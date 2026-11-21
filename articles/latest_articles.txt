@@ -1,6 +1,38 @@
-# Last Run: 2026-11-20 18:24 UTC
+# Last Run: 2026-11-21 01:10 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] EU, U.K. Agree to a Brexit Reset
+Published: 2026-11-20T22:07:43+00:00
+Link: https://foreignpolicy.com/2026/11/20/brexit-reset-deal-eu-uk-summit-burnham-trade-economy/
+---
+[Foreign_Policy] States Are Playing Serious Games on Virtual Battlefields
+Published: 2026-11-20T20:00:53+00:00
+Link: https://foreignpolicy.com/2026/11/20/grand-theft-auto-power-play-osborn-review-geopolitics-video-games/
+---
+[Foreign_Policy] Bob Woodward Is Scared as Hell
+Published: 2026-11-20T19:40:17+00:00
+Link: https://foreignpolicy.com/2026/11/20/bob-woodward-memoir-secrets-review/
+---
+[Foreign_Policy] Pop Culture Still Can’t Figure Out Drone Warfare
+Published: 2026-11-20T19:20:52+00:00
+Link: https://foreignpolicy.com/2026/11/20/drone-warfare-movies-tv-culture-video-games-ukraine-war/
+---
+[Foreign_Policy] What in the World?
+Published: 2026-11-20T19:05:46+00:00
+Link: https://foreignpolicy.com/2026/11/20/foreign-policy-news-quiz-summits-pope-leo-ukraine-icj-trilateral-somalia/
+---
+[Foreign_Policy] After ‘Wild Horse Nine,’ 5 of the Best Movies About the CIA
+Published: 2026-11-20T19:00:51+00:00
+Link: https://foreignpolicy.com/2026/11/20/cia-movies-wild-horse-nine-review-espionage-us-intelligence/
+---
+[Foreign_Policy] Why BAAJA Matters
+Published: 2026-11-20T18:58:35+00:00
+Link: https://foreignpolicy.com/2026/11/20/baaja-permitting-reform-affordability-climate-change-renewable-energy-us-policy/
+---
+[Foreign_Policy] What the Yalta Comparison Really Reveals About Shenzhen
+Published: 2026-11-20T18:12:07+00:00
+Link: https://foreignpolicy.com/2026/11/20/summit-trump-xi-putin-shenzhen-yalta-history-china/
+---
 [Foreign_Policy] ICJ Finds Myanmar Committed Genocide. What Comes Next?
 Published: 2026-11-20T15:57:04+00:00
 Link: https://foreignpolicy.com/2026/11/20/myanmar-genocide-icj-ruling-rohingya-muslims-ukraine-gaza-tom-andrews-un/
@@ -128,16 +160,4 @@ Link: https://www.foreignaffairs.com/united-states/americas-hidden-ai-advantage
 [Foreign_Policy] Iran Is Heading for a Swiss-Cheese Solution
 Published: 2026-11-18T06:46:40+00:00
 Link: https://foreignpolicy.com/2026/11/18/iran-war-trump-swiss-cheese-solution/
----
-[Foreign_Policy] Xi Makes the Most of Trump’s Asia-Pacific Trip
-Published: 2026-11-17T21:52:41+00:00
-Link: https://foreignpolicy.com/2026/11/17/china-xi-trade-canada-tariffs-peru-trump-asean-apec/
----
-[Foreign_Policy] 5 Freshmen Democratic Lawmakers to Watch
-Published: 2026-11-17T20:31:45+00:00
-Link: https://foreignpolicy.com/2026/11/17/freshmen-house-democratic-lawmakers-congress-israel-defense-military/
----
-[Foreign_Policy] Will Iraqi Kurdistan Break Apart?
-Published: 2026-11-17T19:13:40+00:00
-Link: https://foreignpolicy.com/2026/11/17/kurdistan-iraq-puk-kdp-talabani-barzani-split/
 ---
