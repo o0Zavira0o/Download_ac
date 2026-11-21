@@ -1,4 +1,4 @@
-# Last Run: 2026-11-21 01:10 UTC
+# Last Run: 2026-11-21 09:19 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] EU, U.K. Agree to a Brexit Reset
@@ -148,16 +148,4 @@ Link: https://foreignpolicy.com/2026/11/18/icj-myanmar-rohingya-genocide-case-la
 [Foreign_Policy] Cooperating With China on AI Control Is a Fantasy
 Published: 2026-11-18T14:00:07+00:00
 Link: https://foreignpolicy.com/2026/11/18/china-ai-trump-arms-control-regulation-openai-anthropic/
----
-[Foreign_Affairs] The Model Middle Power
-Published: 2026-11-18T09:00:00+00:00
-Link: https://www.foreignaffairs.com/south-korea/model-middle-power
----
-[Foreign_Affairs] America’s Hidden AI Advantage
-Published: 2026-11-18T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/americas-hidden-ai-advantage
----
-[Foreign_Policy] Iran Is Heading for a Swiss-Cheese Solution
-Published: 2026-11-18T06:46:40+00:00
-Link: https://foreignpolicy.com/2026/11/18/iran-war-trump-swiss-cheese-solution/
 ---
