@@ -1,4 +1,4 @@
-# Last Run: 2026-11-21 09:19 UTC
+# Last Run: 2026-11-21 17:11 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] EU, U.K. Agree to a Brexit Reset
@@ -140,12 +140,4 @@ Link: https://foreignpolicy.com/2026/11/18/israel-military-aid-united-states-tru
 [Foreign_Policy] Marco Rubio, Would-Be Pompey
 Published: 2026-11-18T19:46:39+00:00
 Link: https://foreignpolicy.com/2026/11/18/marco-rubio-united-states-rule-of-law-rogue/
----
-[Foreign_Policy] ICJ to Deliver Landmark Verdict on Myanmar
-Published: 2026-11-18T15:37:12+00:00
-Link: https://foreignpolicy.com/2026/11/18/icj-myanmar-rohingya-genocide-case-landmark-verdict-israel-gaza/
----
-[Foreign_Policy] Cooperating With China on AI Control Is a Fantasy
-Published: 2026-11-18T14:00:07+00:00
-Link: https://foreignpolicy.com/2026/11/18/china-ai-trump-arms-control-regulation-openai-anthropic/
 ---
