@@ -1,4 +1,4 @@
-# Last Run: 2026-11-22 14:13 UTC
+# Last Run: 2026-11-22 21:37 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too
@@ -64,32 +64,4 @@ Link: https://www.newyorker.com/magazine/2026/11/30/amid-heckles-and-hurrahs-ant
 [Foreign_Policy] The U.S. and Iran Are Back to Trading Strikes
 Published: 2026-11-19T22:39:31+00:00
 Link: https://foreignpolicy.com/2026/11/19/us-iran-strikes-bahrain-kuwait-trump/
----
-[Foreign_Policy] Trump, Xi, Putin Hold Historic Trilateral Talks
-Published: 2026-11-19T21:28:32+00:00
-Link: https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-talks-nuclear-disarmament-un-icc-oil/
----
-[Foreign_Policy] Shenzhen Was No Yalta Conference
-Published: 2026-11-19T19:41:00+00:00
-Link: https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/
----
-[Foreign_Policy] In Italy, Meloni Grapples With a Potential Spoiler
-Published: 2026-11-19T19:25:00+00:00
-Link: https://foreignpolicy.com/2026/11/19/italy-meloni-vannacci-far-right-spoiler-elections-ukraine/
----
-[Foreign_Policy] Iran’s ‘Boiling Frog’ Strategy
-Published: 2026-11-19T17:55:24+00:00
-Link: https://foreignpolicy.com/2026/11/19/iran-war-us-strikes-dirty-bomb-trump-congress-democrats-vali-nasr/
----
-[Foreign_Policy] Is This the Beginning of the End for Modi?
-Published: 2026-11-19T17:28:42+00:00
-Link: https://foreignpolicy.com/2026/11/19/india-protests-election-fraud-modi-corruption-education-students/
----
-[Foreign_Policy] Is This the Beginning of the End for Modi?
-Published: 2026-11-19T17:28:42+00:00
-Link: https://foreignpolicy.com/2026/11/19/beginning-end-modi-protests/
----
-[Foreign_Policy] The Gulf Is America’s Next AI Security Test
-Published: 2026-11-19T15:26:55+00:00
-Link: https://foreignpolicy.com/2026/11/19/nvidia-huang-scandal-ai-security-chips-export-controls-gulf-saudi-uae/
 ---
