@@ -1,4 +1,4 @@
-# Last Run: 2026-11-22 05:34 UTC
+# Last Run: 2026-11-22 14:13 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too
@@ -92,28 +92,4 @@ Link: https://foreignpolicy.com/2026/11/19/beginning-end-modi-protests/
 [Foreign_Policy] The Gulf Is America’s Next AI Security Test
 Published: 2026-11-19T15:26:55+00:00
 Link: https://foreignpolicy.com/2026/11/19/nvidia-huang-scandal-ai-security-chips-export-controls-gulf-saudi-uae/
----
-[New_Yorker_Magazine] Bruce Norris’s Ferociously Challenging “Downstate”
-Published: 2026-11-19T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/downstate-theatre-review
----
-[Foreign_Affairs] The Only Way to End the Netanyahu Era
-Published: 2026-11-19T09:00:00+00:00
-Link: https://www.foreignaffairs.com/israel/only-way-end-netanyahu-era
----
-[Foreign_Affairs] The Paradox of American Credibility
-Published: 2026-11-19T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/paradox-american-credibility
----
-[Foreign_Affairs] Avoiding Colombia’s Escalation Trap
-Published: 2026-11-19T09:00:00+00:00
-Link: https://www.foreignaffairs.com/colombia/avoiding-colombias-escalation-trap
----
-[Foreign_Affairs] How Arab Parties Can Rescue Israeli Democracy
-Published: 2026-11-19T09:00:00+00:00
-Link: https://www.foreignaffairs.com/israel/how-arab-parties-can-rescue-israeli-democracy
----
-[Foreign_Policy] Why Did Trump Attend ASEAN?
-Published: 2026-11-19T06:00:31+00:00
-Link: https://foreignpolicy.com/2026/11/19/trump-asia-trip-asean-manila-summit/
 ---
