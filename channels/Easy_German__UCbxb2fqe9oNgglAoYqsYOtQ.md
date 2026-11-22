@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
+_آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-21 16:56:16 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Sehenswürdigkeiten in Bregenz 🇦🇹](https://www.youtube.com/watch?v=IXxW8VUf7ZY)  
+  ![](https://i.ytimg.com/vi/IXxW8VUf7ZY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-20 11:35:43 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
   **مدت:** حدود 3.1 دقیقه  
   **عنوان:** [Washing the dishes | Super Easy German (49)](https://www.youtube.com/watch?v=agoDvS2bzSI)  
   ![](https://i.ytimg.com/vi/agoDvS2bzSI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-09-13 17:42:56 (UTC)  
-  **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [Doing laundry - Super Easy German (48)](https://www.youtube.com/watch?v=f_Eu2-OtKfw)  
-  ![](https://i.ytimg.com/vi/f_Eu2-OtKfw/hqdefault.jpg)

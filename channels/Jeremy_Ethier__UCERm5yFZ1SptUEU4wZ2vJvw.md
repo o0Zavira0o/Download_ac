@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
+_آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,7 +10,7 @@ _آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
 
 - **تاریخ انتشار:** 2026-11-15 17:17:18 (UTC)  
   **مدت:** حدود 1.8 دقیقه  
-  **عنوان:** [What Happens If You STOP Taking Rest Days?](https://www.youtube.com/watch?v=72GH0Y1YxkM)  
+  **عنوان:** [The Dumbest Way to Build Muscle (Actually Works)](https://www.youtube.com/watch?v=72GH0Y1YxkM)  
   ![](https://i.ytimg.com/vi/72GH0Y1YxkM/hqdefault.jpg)
 
 

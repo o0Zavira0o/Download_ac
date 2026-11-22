@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
+_آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-22 03:30:38 (UTC)  
+  **مدت:** حدود 34.3 دقیقه  
+  **عنوان:** [Catics 3D12-H07 Complex Exercise in SolidWorks (Project Curve, offset surface,Replace Surface)](https://www.youtube.com/watch?v=DQZaoMG25r4)  
+  ![](https://i.ytimg.com/vi/DQZaoMG25r4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-21 03:30:17 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
   **مدت:** حدود 68.8 دقیقه  
   **عنوان:** [Solidworks tutorial | Design of Pipe Vice in Solidworks](https://www.youtube.com/watch?v=kLjSilO3ebs)  
   ![](https://i.ytimg.com/vi/kLjSilO3ebs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-07 20:35:21 (UTC)  
-  **مدت:** حدود 68.1 دقیقه  
-  **عنوان:** [Solidworks tutorial | Design of Tube Welding Clamp in Solidworks](https://www.youtube.com/watch?v=4FO12kmXO8I)  
-  ![](https://i.ytimg.com/vi/4FO12kmXO8I/hqdefault.jpg)

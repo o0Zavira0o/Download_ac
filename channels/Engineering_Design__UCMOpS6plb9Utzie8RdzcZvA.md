@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
+_آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-22 11:35:42 (UTC)  
+  **مدت:** حدود 22.1 دقیقه  
+  **عنوان:** [SolidWorks Weldments Structure Design! 🔥 Full Platform + Stairs | Step By Step Tutorial!](https://www.youtube.com/watch?v=82BJhUzX26M)  
+  ![](https://i.ytimg.com/vi/82BJhUzX26M/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-21 07:39:09 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [How to Use a Circular Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=CHcQazfgOOM)  
   ![](https://i.ytimg.com/vi/CHcQazfgOOM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-03-03 14:33:18 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [How to Use a Lofted Boss/Base Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=UUBupeYSFWo)  
-  ![](https://i.ytimg.com/vi/UUBupeYSFWo/hqdefault.jpg)

@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Machine Engineer
 
-_آخرین به‌روزرسانی: 2026-11-21T16:43:02Z_
+_آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 
 **لینک استاندارد کانال:** [Machine Engineer](https://www.youtube.com/channel/UCi_pluZoV81wOpEHXpfJelw)  
