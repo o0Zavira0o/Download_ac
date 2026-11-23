@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
+_آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-23 09:23:57 (UTC)  
+  **مدت:** حدود 11.4 دقیقه  
+  **عنوان:** [Gold Ring Design In SolidWorks | Jewellery Design Tutorial For Beginners!](https://www.youtube.com/watch?v=6j1j8moLH0w)  
+  ![](https://i.ytimg.com/vi/6j1j8moLH0w/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-22 11:35:42 (UTC)  
@@ -80,7 +86,7 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-11-05 03:30:14 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [What's Really Inside a Sewing Machine Foot Pedal?](https://www.youtube.com/watch?v=HKnFQObHdXU)  
+  **عنوان:** [✅What's Really Inside a Sewing Machine Foot Pedal?](https://www.youtube.com/watch?v=HKnFQObHdXU)  
   ![](https://i.ytimg.com/vi/HKnFQObHdXU/hqdefault.jpg)
 
 
@@ -104,13 +110,13 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-11-02 03:05:15 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [The Ultimate Heavy-Duty Pulley Bracket You Need Right Now 🔥](https://www.youtube.com/watch?v=DdGAVLcPmUQ)  
+  **عنوان:** [✅The Ultimate Heavy-Duty Pulley Bracket You Need Right Now 🔥](https://www.youtube.com/watch?v=DdGAVLcPmUQ)  
   ![](https://i.ytimg.com/vi/DdGAVLcPmUQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-01 09:14:12 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Rate this mechanism from 1-10! 🤯👇](https://www.youtube.com/watch?v=HEU2a5uMzOI)  
+  **عنوان:** [✅Rate this mechanism from 1-10! 🤯👇](https://www.youtube.com/watch?v=HEU2a5uMzOI)  
   ![](https://i.ytimg.com/vi/HEU2a5uMzOI/hqdefault.jpg)
 
 
@@ -122,20 +128,14 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-10-31 11:57:29 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How to Drill a SQUARE Hole! 🤯📐](https://www.youtube.com/watch?v=jmHQaSh3vRk)  
+  **عنوان:** [✅How to Drill a SQUARE Hole! 🤯📐](https://www.youtube.com/watch?v=jmHQaSh3vRk)  
   ![](https://i.ytimg.com/vi/jmHQaSh3vRk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-30 02:42:19 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [This straight rod passing through a curved hole will break your brain 🤯❌](https://www.youtube.com/watch?v=MeAOm7503ik)  
+  **عنوان:** [✅This straight rod passing through a curved hole will break your brain 🤯❌](https://www.youtube.com/watch?v=MeAOm7503ik)  
   ![](https://i.ytimg.com/vi/MeAOm7503ik/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-10-29 17:30:12 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [How to Download SolidCraft Software for FREE! 🔥 Easy Step-by-Step Guide #Shorts](https://www.youtube.com/watch?v=-oqqCs-xLwI)  
-  ![](https://i.ytimg.com/vi/-oqqCs-xLwI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-29 12:31:19 (UTC)  
@@ -146,7 +146,7 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-10-28 06:21:49 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Mind-Bending Mechanics: The Double Slider-Crank Loop 🤯⚙️](https://www.youtube.com/watch?v=iffBbudTD2U)  
+  **عنوان:** [✅Mind-Bending Mechanics: The Double Slider-Crank Loop 🤯⚙️](https://www.youtube.com/watch?v=iffBbudTD2U)  
   ![](https://i.ytimg.com/vi/iffBbudTD2U/hqdefault.jpg)
 
 
@@ -164,7 +164,7 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-10-26 02:10:50 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Satisfying CAD Linkage Animation! 🤯](https://www.youtube.com/watch?v=Mo4xBecxI1A)  
+  **عنوان:** [✅Satisfying CAD Linkage Animation! 🤯](https://www.youtube.com/watch?v=Mo4xBecxI1A)  
   ![](https://i.ytimg.com/vi/Mo4xBecxI1A/hqdefault.jpg)
 
 
@@ -176,7 +176,7 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-10-24 05:27:13 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Satisfying Pure Harmonic Motion: The Scotch Yoke 🔄](https://www.youtube.com/watch?v=0zQl4Ir_Pso)  
+  **عنوان:** [✅Satisfying Pure Harmonic Motion: The Scotch Yoke 🔄](https://www.youtube.com/watch?v=0zQl4Ir_Pso)  
   ![](https://i.ytimg.com/vi/0zQl4Ir_Pso/hqdefault.jpg)
 
 
@@ -188,7 +188,7 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-10-23 02:49:49 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [The Most Hypnotic Gear Mechanism Ever Designed](https://www.youtube.com/watch?v=t9Iusyw-YtI)  
+  **عنوان:** [✅The Most Hypnotic Gear Mechanism Ever Designed](https://www.youtube.com/watch?v=t9Iusyw-YtI)  
   ![](https://i.ytimg.com/vi/t9Iusyw-YtI/hqdefault.jpg)
 
 
@@ -212,7 +212,7 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-10-19 11:30:00 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How Off-Center Shafts Actually Drive Power ⚙️](https://www.youtube.com/watch?v=uEKavNtguA4)  
+  **عنوان:** [✅How Off-Center Shafts Actually Drive Power ⚙️](https://www.youtube.com/watch?v=uEKavNtguA4)  
   ![](https://i.ytimg.com/vi/uEKavNtguA4/hqdefault.jpg)
 
 
@@ -236,7 +236,7 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-10-15 02:22:32 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Foldable Table Vs Door Design](https://www.youtube.com/watch?v=KPj77hwCxKU)  
+  **عنوان:** [✅Foldable Table Vs Door Design](https://www.youtube.com/watch?v=KPj77hwCxKU)  
   ![](https://i.ytimg.com/vi/KPj77hwCxKU/hqdefault.jpg)
 
 
@@ -248,13 +248,13 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-10-14 02:57:10 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Why This Screw Design is Worth Millions 💡 #shorts](https://www.youtube.com/watch?v=ASwjlW7u7Kw)  
+  **عنوان:** [✅Why This Screw Design is Worth Millions 💡 #shorts](https://www.youtube.com/watch?v=ASwjlW7u7Kw)  
   ![](https://i.ytimg.com/vi/ASwjlW7u7Kw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-13 02:43:44 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How This Simple Mechanism Changes Speed](https://www.youtube.com/watch?v=oDnWEXxVAS4)  
+  **عنوان:** [✅How This Simple Mechanism Changes Speed](https://www.youtube.com/watch?v=oDnWEXxVAS4)  
   ![](https://i.ytimg.com/vi/oDnWEXxVAS4/hqdefault.jpg)
 
 
@@ -272,7 +272,7 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-10-11 04:30:55 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Why Engineers Prefer Toggle Clamps Over Vises 🛠️ #shorts](https://www.youtube.com/watch?v=MJiwiA1ofmU)  
+  **عنوان:** [✅Why Engineers Prefer Toggle Clamps Over Vises🤔](https://www.youtube.com/watch?v=MJiwiA1ofmU)  
   ![](https://i.ytimg.com/vi/MJiwiA1ofmU/hqdefault.jpg)
 
 
@@ -284,13 +284,13 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-10-10 03:19:28 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [I Built a Real-Life Cybernetic Hummingbird (It Actually Flies!)](https://www.youtube.com/watch?v=iaW5MlZM-Kc)  
+  **عنوان:** [✅I Built a Real-Life Cybernetic Hummingbird (It Actually Flies!)](https://www.youtube.com/watch?v=iaW5MlZM-Kc)  
   ![](https://i.ytimg.com/vi/iaW5MlZM-Kc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-09 02:54:08 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [The Wobbling Disc Mechanism is pure hypnosis! 😵⚙️](https://www.youtube.com/watch?v=CrBj4RAQot8)  
+  **عنوان:** [✅The Wobbling Disc Mechanism is pure hypnosis! 😵⚙️](https://www.youtube.com/watch?v=CrBj4RAQot8)  
   ![](https://i.ytimg.com/vi/CrBj4RAQot8/hqdefault.jpg)
 
 
@@ -302,55 +302,43 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-10-07 03:02:08 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Why This Gear Mechanism Is So Precise ⚙️ #engineering #shorts](https://www.youtube.com/watch?v=3sju_L5jqZ8)  
+  **عنوان:** [✅Why This Gear Mechanism Is So Precise ⚙️](https://www.youtube.com/watch?v=3sju_L5jqZ8)  
   ![](https://i.ytimg.com/vi/3sju_L5jqZ8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-06 12:30:40 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [🤯 This 90° Drive Uses ZERO Gears! (Almond Coupling)](https://www.youtube.com/watch?v=Kj4DRpC23p0)  
+  **عنوان:** [✅This 90° Drive Uses ZERO Gears! (Almond Coupling)](https://www.youtube.com/watch?v=Kj4DRpC23p0)  
   ![](https://i.ytimg.com/vi/Kj4DRpC23p0/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-05 11:58:54 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [The Smartest Gear System Ever? 💡 Planetary Gear Explained #shorts](https://www.youtube.com/watch?v=HTRSLh_bkA4)  
+  **عنوان:** [✅The Smartest Gear System Ever? 💡](https://www.youtube.com/watch?v=HTRSLh_bkA4)  
   ![](https://i.ytimg.com/vi/HTRSLh_bkA4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-04 12:23:47 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Variable Shape Star Mechanism📌](https://www.youtube.com/watch?v=Wf7QIWzcuNI)  
+  **عنوان:** [✅Variable Shape Star Mechanism📌](https://www.youtube.com/watch?v=Wf7QIWzcuNI)  
   ![](https://i.ytimg.com/vi/Wf7QIWzcuNI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-03 11:30:30 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How an Archimedes Wind Turbine works📌](https://www.youtube.com/watch?v=cY06k7Ow2yM)  
+  **عنوان:** [✅How an Archimedes Wind Turbine works📌](https://www.youtube.com/watch?v=cY06k7Ow2yM)  
   ![](https://i.ytimg.com/vi/cY06k7Ow2yM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-10-03 09:48:12 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How to Work Worm Gear📌](https://www.youtube.com/watch?v=3-EUGYLrCLM)  
-  ![](https://i.ytimg.com/vi/3-EUGYLrCLM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-10-02 12:09:26 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How to Work Universal Joint (or Hooke's joint)📌](https://www.youtube.com/watch?v=gxYE9BAG_9Y)  
-  ![](https://i.ytimg.com/vi/gxYE9BAG_9Y/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-01 04:57:34 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Genius Radial Cam Follower Design #shorts #mechanical](https://www.youtube.com/watch?v=lWGUGE8ZKFA)  
+  **عنوان:** [✅Genius Radial Cam Follower Design](https://www.youtube.com/watch?v=lWGUGE8ZKFA)  
   ![](https://i.ytimg.com/vi/lWGUGE8ZKFA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-26 04:36:02 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Internal Geneva Mechanism📌 #3danimation #mechanism #mechanical](https://www.youtube.com/watch?v=jgFRi9i7eVM)  
+  **عنوان:** [✅Internal Geneva Mechanism📌](https://www.youtube.com/watch?v=jgFRi9i7eVM)  
   ![](https://i.ytimg.com/vi/jgFRi9i7eVM/hqdefault.jpg)
 
 
@@ -358,12 +346,6 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅DIY Clamping Mechanism Ever Made](https://www.youtube.com/watch?v=zYhtmBWZqAs)  
   ![](https://i.ytimg.com/vi/zYhtmBWZqAs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-09-21 19:30:02 (UTC)  
-  **مدت:** حدود 1.3 دقیقه  
-  **عنوان:** [How to Design a Bewel Gear | Sponsorship: JLCMC #jlcmc #gear #design](https://www.youtube.com/watch?v=g8XP1fhD0Xo)  
-  ![](https://i.ytimg.com/vi/g8XP1fhD0Xo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-21 11:59:46 (UTC)  
@@ -374,13 +356,13 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-09-21 05:30:20 (UTC)  
   **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅Mechanical Movement 01 #3ddesign #mechanical #shorts](https://www.youtube.com/watch?v=I67LPBkirho)  
+  **عنوان:** [✅Mechanical Movement #3ddesign #mechanical #shorts](https://www.youtube.com/watch?v=I67LPBkirho)  
   ![](https://i.ytimg.com/vi/I67LPBkirho/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-20 04:54:47 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Push-Pull Toggle Clamp Mechanism 💡](https://www.youtube.com/watch?v=YBP97BRDCBk)  
+  **عنوان:** [✅Push-Pull Toggle Clamp💡](https://www.youtube.com/watch?v=YBP97BRDCBk)  
   ![](https://i.ytimg.com/vi/YBP97BRDCBk/hqdefault.jpg)
 
 
@@ -406,12 +388,6 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
   **مدت:** حدود 0.1 دقیقه  
   **عنوان:** [✅CAD vs LEGO: Which design wins? 🤔#shorts #3dmodeling #lego](https://www.youtube.com/watch?v=SfB0Ub99aLI)  
   ![](https://i.ytimg.com/vi/SfB0Ub99aLI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-09-14 11:30:32 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [Building a Mechanical Part in SolidWorks ⚙️ #cad #design #mechanical](https://www.youtube.com/watch?v=lNt5n4IYgYk)  
-  ![](https://i.ytimg.com/vi/lNt5n4IYgYk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-09-12 12:14:37 (UTC)  
@@ -444,12 +420,6 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
   ![](https://i.ytimg.com/vi/ZlLgYzOPIvs/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2026-09-03 13:29:26 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅SOLIDWORKS Motion Analysis Made Easy! ⏳](https://www.youtube.com/watch?v=7IYIUufxJn8)  
-  ![](https://i.ytimg.com/vi/7IYIUufxJn8/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2026-09-03 04:37:38 (UTC)  
   **مدت:** حدود 2.7 دقیقه  
   **عنوان:** [Design, Assembly, and Motion Simulation of a Hex Bolt and Nut in SolidWorks #jlcmc](https://www.youtube.com/watch?v=3qE1UyM76L8)  
@@ -468,12 +438,6 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
   ![](https://i.ytimg.com/vi/n2DGk0ZgcFI/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2026-08-31 03:11:53 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Archimedes Spiral Wind Turbine 3D Model](https://www.youtube.com/watch?v=EbQvu3H7HD8)  
-  ![](https://i.ytimg.com/vi/EbQvu3H7HD8/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2026-08-29 13:29:36 (UTC)  
   **مدت:** حدود 4.1 دقیقه  
   **عنوان:** [Why Your Sheet Metal Drawings Fail (And How to Fix Them in SolidWorks)](https://www.youtube.com/watch?v=epzV-wUijOw)  
@@ -488,7 +452,7 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-08-26 02:49:05 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅How to Convert Rotation into 3D Motion (Spherical Crank)](https://www.youtube.com/watch?v=EjDx-1chG3Y)  
+  **عنوان:** [✅How Gyroscope Mechanism Works?](https://www.youtube.com/watch?v=EjDx-1chG3Y)  
   ![](https://i.ytimg.com/vi/EjDx-1chG3Y/hqdefault.jpg)
 
 
@@ -506,7 +470,7 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-08-24 03:42:51 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Rotary ➡️ Linear Motion Made Simple! 🔄 #shorts](https://www.youtube.com/watch?v=mQnCBAJnjLY)  
+  **عنوان:** [✅CAD & Follower Simple Working 😀](https://www.youtube.com/watch?v=mQnCBAJnjLY)  
   ![](https://i.ytimg.com/vi/mQnCBAJnjLY/hqdefault.jpg)
 
 
@@ -516,27 +480,21 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
   ![](https://i.ytimg.com/vi/6jJE60uJsYc/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2026-08-21 11:00:19 (UTC)  
-  **مدت:** حدود 0.0 دقیقه  
-  **عنوان:** [✅Why This Radial Cam Mechanism is So Satisfying ⚙️ #shorts #cad #engineering](https://www.youtube.com/watch?v=HeJJg9Gy-Lc)  
-  ![](https://i.ytimg.com/vi/HeJJg9Gy-Lc/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2026-08-20 18:14:49 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅Would You Build These Mechanical Pets? 🧐 #diy #engineering #robotics](https://www.youtube.com/watch?v=YrrA0ixHLKw)  
+  **عنوان:** [✅Would You Build These Mechanical Pets? 🧐](https://www.youtube.com/watch?v=YrrA0ixHLKw)  
   ![](https://i.ytimg.com/vi/YrrA0ixHLKw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-20 05:00:22 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [The Secret Behind Swashplate Motion ⚙️ #mechanical #engineering #physics](https://www.youtube.com/watch?v=Rkf5DAOQI-E)  
+  **عنوان:** [✅ Which Single Cylinder Design Do You Want?](https://www.youtube.com/watch?v=Rkf5DAOQI-E)  
   ![](https://i.ytimg.com/vi/Rkf5DAOQI-E/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-19 03:06:14 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅How a Mini Drafter Actually Works! 📏 #shorts](https://www.youtube.com/watch?v=vGuguYFA01c)  
+  **عنوان:** [✅Drafter Works! 📏 #shorts](https://www.youtube.com/watch?v=vGuguYFA01c)  
   ![](https://i.ytimg.com/vi/vGuguYFA01c/hqdefault.jpg)
 
 
@@ -554,7 +512,7 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-08-16 14:35:02 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Perfectly Balanced Mechanical Claw Mechanism #mechanism #engineering #robotics](https://www.youtube.com/watch?v=lvwKfRMQP4M)  
+  **عنوان:** [✅Perfectly Balanced Mechanical Claw Mechanism](https://www.youtube.com/watch?v=lvwKfRMQP4M)  
   ![](https://i.ytimg.com/vi/lvwKfRMQP4M/hqdefault.jpg)
 
 
@@ -572,25 +530,25 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-08-12 12:30:22 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How a Cam and Sine Mechanism Works! ⚙️ #shorts](https://www.youtube.com/watch?v=4VggmvdQw8o)  
+  **عنوان:** [✅How a Cam and Sine Mechanism Works! ⚙️ #shorts](https://www.youtube.com/watch?v=4VggmvdQw8o)  
   ![](https://i.ytimg.com/vi/4VggmvdQw8o/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-11 12:30:25 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Spherical Coulisse Mechanism](https://www.youtube.com/watch?v=aUlnYlBLyTA)  
+  **عنوان:** [✅Spherical Coulisse Mechanism](https://www.youtube.com/watch?v=aUlnYlBLyTA)  
   ![](https://i.ytimg.com/vi/aUlnYlBLyTA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-10 12:44:28 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [90% of people can't name this mechanism! 🤔👇](https://www.youtube.com/watch?v=6Cix8QIXLUI)  
+  **عنوان:** [✅90% of people can't name this mechanism! 🤔👇](https://www.youtube.com/watch?v=6Cix8QIXLUI)  
   ![](https://i.ytimg.com/vi/6Cix8QIXLUI/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-08-09 13:02:36 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Scotch Yoke | Simple Mechanical Linkages](https://www.youtube.com/watch?v=CUgPqgJkiKU)  
+  **عنوان:** [✅Scotch Yoke | Simple Mechanical Linkages](https://www.youtube.com/watch?v=CUgPqgJkiKU)  
   ![](https://i.ytimg.com/vi/CUgPqgJkiKU/hqdefault.jpg)
 
 
@@ -672,12 +630,6 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
   ![](https://i.ytimg.com/vi/geilLg4_Y0o/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2026-05-14 12:44:09 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [How to Design a Compression Spring #cad #solidworks #cadcam](https://www.youtube.com/watch?v=qkZBntdoDSQ)  
-  ![](https://i.ytimg.com/vi/qkZBntdoDSQ/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2026-05-13 04:58:09 (UTC)  
   **مدت:** حدود 25.5 دقیقه  
   **عنوان:** [Dump Truck Model Assembly Design in Solidworks](https://www.youtube.com/watch?v=C1C8xsSaVbk)  
@@ -722,7 +674,7 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
 
 - **تاریخ انتشار:** 2026-04-24 12:33:00 (UTC)  
   **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [✅How to Use SheetMetal Miter Flange Command in SolidWorks❓ #cad #shorts](https://www.youtube.com/watch?v=mXAVTbAkQoI)  
+  **عنوان:** [How to Use SheetMetal Miter Flange Command in SolidWorks❓ #cad #shorts](https://www.youtube.com/watch?v=mXAVTbAkQoI)  
   ![](https://i.ytimg.com/vi/mXAVTbAkQoI/hqdefault.jpg)
 
 
@@ -834,12 +786,6 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
   ![](https://i.ytimg.com/vi/OwOB2xvLWjg/hqdefault.jpg)
 
 
-- **تاریخ انتشار:** 2026-03-25 14:11:58 (UTC)  
-  **مدت:** حدود 0.2 دقیقه  
-  **عنوان:** [✅How to Calculate the Angel of Bendable Pipe🤔 #calculation #howto #design](https://www.youtube.com/watch?v=nraRFq2fmoE)  
-  ![](https://i.ytimg.com/vi/nraRFq2fmoE/hqdefault.jpg)
-
-
 - **تاریخ انتشار:** 2026-03-23 12:01:15 (UTC)  
   **مدت:** حدود 11.3 دقیقه  
   **عنوان:** [Don't Build Molds Until You Watch This SolidWorks Tutorial](https://www.youtube.com/watch?v=50LVntqBdV8)  
@@ -904,3 +850,57 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
   **مدت:** حدود 0.5 دقیقه  
   **عنوان:** [How to Use a Circular Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=CHcQazfgOOM)  
   ![](https://i.ytimg.com/vi/CHcQazfgOOM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-03-03 14:33:18 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [How to Use a Lofted Boss/Base Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=UUBupeYSFWo)  
+  ![](https://i.ytimg.com/vi/UUBupeYSFWo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-03-02 11:41:58 (UTC)  
+  **مدت:** حدود 0.7 دقیقه  
+  **عنوان:** [How to Use Wrap Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=uyJiJqZbvPo)  
+  ![](https://i.ytimg.com/vi/uyJiJqZbvPo/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-03-01 02:51:19 (UTC)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [How to Use a Metric Tap Thread in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=qhU63RZdA9s)  
+  ![](https://i.ytimg.com/vi/qhU63RZdA9s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-02-28 02:53:41 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [How to Use Curve Driven Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=h1Keww1YaJ8)  
+  ![](https://i.ytimg.com/vi/h1Keww1YaJ8/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-02-27 11:44:25 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [How to Use Sweep+ Circular Profile Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=bxXG4zWjEno)  
+  ![](https://i.ytimg.com/vi/bxXG4zWjEno/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-02-26 11:42:23 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [How to Use Revolve Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=9kXnYJEb5o4)  
+  ![](https://i.ytimg.com/vi/9kXnYJEb5o4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-02-25 14:28:38 (UTC)  
+  **مدت:** حدود 0.3 دقیقه  
+  **عنوان:** [How to Use Linear Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=UrWsuyFVjHU)  
+  ![](https://i.ytimg.com/vi/UrWsuyFVjHU/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-02-23 12:37:31 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [✅How a Spring Latch Lock Works❓](https://www.youtube.com/watch?v=PMPKaPSZaq4)  
+  ![](https://i.ytimg.com/vi/PMPKaPSZaq4/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-02-17 12:07:47 (UTC)  
+  **مدت:** حدود 21.1 دقیقه  
+  **عنوان:** [Learn to Build a Helical Gear Box in SolidWorks: Full Assembly Tutorial](https://www.youtube.com/watch?v=p3UTzr5uMk0)  
+  ![](https://i.ytimg.com/vi/p3UTzr5uMk0/hqdefault.jpg)

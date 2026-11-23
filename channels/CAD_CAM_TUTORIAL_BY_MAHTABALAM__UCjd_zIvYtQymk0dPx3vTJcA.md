@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
+_آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-23 03:30:38 (UTC)  
+  **مدت:** حدود 36.7 دقیقه  
+  **عنوان:** [Catics 3D11-H07 Exercise in SolidWorks (Revolved Boss/Base, Shell,Rib,Combine-Add)](https://www.youtube.com/watch?v=3OdcaFWKPTo)  
+  ![](https://i.ytimg.com/vi/3OdcaFWKPTo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-22 03:30:38 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
   **مدت:** حدود 8.8 دقیقه  
   **عنوان:** [Unboxing and Review of TeckNet M002 2.4G Wireless Mouse](https://www.youtube.com/watch?v=oZwqGiqhk-0)  
   ![](https://i.ytimg.com/vi/oZwqGiqhk-0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-08 21:19:04 (UTC)  
-  **مدت:** حدود 68.8 دقیقه  
-  **عنوان:** [Solidworks tutorial | Design of Pipe Vice in Solidworks](https://www.youtube.com/watch?v=kLjSilO3ebs)  
-  ![](https://i.ytimg.com/vi/kLjSilO3ebs/hqdefault.jpg)

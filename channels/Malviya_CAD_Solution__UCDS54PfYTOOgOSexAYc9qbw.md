@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
+_آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-11-23 04:05:50 (UTC)  
+  **مدت:** حدود 1.8 دقیقه  
+  **عنوان:** [Advance fillet in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=KrILc8bdixY)  
+  ![](https://i.ytimg.com/vi/KrILc8bdixY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-15 01:57:48 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
   **مدت:** حدود 3.0 دقیقه  
   **عنوان:** [Solidworks sheetmetal stamp feature 2025 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=fp4IaZ2ehhc)  
   ![](https://i.ytimg.com/vi/fp4IaZ2ehhc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-19 15:29:23 (UTC)  
-  **مدت:** حدود 0.9 دقیقه  
-  **عنوان:** [Using a lofted boss with a centerline perameter 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=7kQbJQ2E9Dg)  
-  ![](https://i.ytimg.com/vi/7kQbJQ2E9Dg/hqdefault.jpg)

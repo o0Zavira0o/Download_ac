@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
+_آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-23 13:27:46 (UTC)  
+  **مدت:** حدود 0.8 دقیقه  
+  **عنوان:** [Resoluter Schüler](https://www.youtube.com/watch?v=s426NcUbB-E)  
+  ![](https://i.ytimg.com/vi/s426NcUbB-E/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-22 18:00:03 (UTC)  
+  **مدت:** حدود 14.9 دقیقه  
+  **عنوان:** [The Pro’s and Con’s of Living in Stuttgart](https://www.youtube.com/watch?v=VlACZMlkWCo)  
+  ![](https://i.ytimg.com/vi/VlACZMlkWCo/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-21 16:56:16 (UTC)  
@@ -9592,15 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-22T17:01:49Z_
   **مدت:** حدود 8.5 دقیقه  
   **عنوان:** [What are you reading? | Easy German 214](https://www.youtube.com/watch?v=Co-VwHBM1ZY)  
   ![](https://i.ytimg.com/vi/Co-VwHBM1ZY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-09-24 16:21:47 (UTC)  
-  **مدت:** حدود 13.1 دقیقه  
-  **عنوان:** [German Elections 2017 | Easy German 213](https://www.youtube.com/watch?v=cbnQQjo1wHw)  
-  ![](https://i.ytimg.com/vi/cbnQQjo1wHw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-09-20 17:01:28 (UTC)  
-  **مدت:** حدود 3.1 دقیقه  
-  **عنوان:** [Washing the dishes | Super Easy German (49)](https://www.youtube.com/watch?v=agoDvS2bzSI)  
-  ![](https://i.ytimg.com/vi/agoDvS2bzSI/hqdefault.jpg)
