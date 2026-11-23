@@ -1,6 +1,18 @@
-# Last Run: 2026-11-23 02:22 UTC
+# Last Run: 2026-11-23 14:08 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Is It Time for Kyiv to Compromise?
+Published: 2026-11-23T10:00:55+00:00
+Link: https://foreignpolicy.com/2026/11/23/oleksiy-goncharenko-interview-ukraine-russia-war-compromise-negotiations-trump-zelensky/
+---
+[Foreign_Affairs] It’s Time to Settle With Russia
+Published: 2026-11-23T09:00:00+00:00
+Link: https://www.foreignaffairs.com/ukraine/its-time-settle-russia
+---
+[Foreign_Policy] The Democratic Party’s Three Conflicting Camps on AI
+Published: 2026-11-23T05:01:00+00:00
+Link: https://foreignpolicy.com/2026/11/23/democratic-party-ai-race-china-regulation-nvidia-data-centers/
+---
 [Foreign_Policy] Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too
 Published: 2026-11-22T05:01:28+00:00
 Link: https://foreignpolicy.com/2026/11/22/reagan-chief-of-staff-change-midterms/
@@ -40,20 +52,4 @@ Link: https://foreignpolicy.com/2026/11/20/summit-trump-xi-putin-shenzhen-yalta-
 [Foreign_Policy] ICJ Finds Myanmar Committed Genocide. What Comes Next?
 Published: 2026-11-20T15:57:04+00:00
 Link: https://foreignpolicy.com/2026/11/20/myanmar-genocide-icj-ruling-rohingya-muslims-ukraine-gaza-tom-andrews-un/
----
-[Foreign_Policy] The Other Summitry in Shenzhen
-Published: 2026-11-20T13:00:10+00:00
-Link: https://foreignpolicy.com/2026/11/20/apec-summit-chile-mexico-peru-china-xi/
----
-[New_Yorker_Magazine] “All of a Sudden” Exalts the Power of Talk
-Published: 2026-11-20T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/all-of-a-sudden-movie-review
----
-[Foreign_Affairs] Congress and the Coming Crises
-Published: 2026-11-20T09:00:00+00:00
-Link: https://www.foreignaffairs.com/united-states/congress-and-coming-crises
----
-[Foreign_Affairs] America’s Bad Bargain in Venezuela
-Published: 2026-11-20T09:00:00+00:00
-Link: https://www.foreignaffairs.com/venezuela/americas-bad-bargain-venezuela
 ---
