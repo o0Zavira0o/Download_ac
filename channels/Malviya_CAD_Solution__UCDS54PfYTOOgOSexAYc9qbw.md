@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
+_آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-11-24 05:28:16 (UTC)  
+  **مدت:** حدود 1.5 دقیقه  
+  **عنوان:** [Solidworks background scene 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=HU7Jamq4eKA)  
+  ![](https://i.ytimg.com/vi/HU7Jamq4eKA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-23 04:05:50 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
   **مدت:** حدود 49.5 دقیقه  
   **عنوان:** [Solidworks Advance Exercise Tutorial | Exercise35 | Solidworks tutorial 2025](https://www.youtube.com/watch?v=bN5u707Rvlk)  
   ![](https://i.ytimg.com/vi/bN5u707Rvlk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-21 03:33:34 (UTC)  
-  **مدت:** حدود 3.0 دقیقه  
-  **عنوان:** [Solidworks sheetmetal stamp feature 2025 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=fp4IaZ2ehhc)  
-  ![](https://i.ytimg.com/vi/fp4IaZ2ehhc/hqdefault.jpg)

@@ -1,11 +1,23 @@
 # آرشیو ویدیوهای کانال Professor Ted Diehl
 
-_آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
+_آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
 
 
 **لینک استاندارد کانال:** [Professor Ted Diehl](https://www.youtube.com/channel/UC5F_ikrUdshNVVwu4lsPIYw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/c/ProfessorTedDiehl  
+
+
+- **تاریخ انتشار:** 2026-11-24 16:29:26 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Two American Goldfinches](https://www.youtube.com/watch?v=abeS_oRvt10)  
+  ![](https://i.ytimg.com/vi/abeS_oRvt10/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-24 16:26:47 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [American Goldfinch](https://www.youtube.com/watch?v=y2xECFC9NrU)  
+  ![](https://i.ytimg.com/vi/y2xECFC9NrU/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-10-07 18:42:37 (UTC)  

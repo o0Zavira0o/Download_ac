@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
+_آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-24 15:42:46 (UTC)  
+  **مدت:** حدود 33.8 دقیقه  
+  **عنوان:** [Bench Vise Parts and Assembly in SolidWorks-Part2 (Movable jaw, Screw Shaft,Screw, Lip Guard,Square)](https://www.youtube.com/watch?v=Q5h5oOfNsVw)  
+  ![](https://i.ytimg.com/vi/Q5h5oOfNsVw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-24 03:30:15 (UTC)  
+  **مدت:** حدود 17.8 دقیقه  
+  **عنوان:** [Bench Vise Parts and Assembly in SolidWorks Part1-Clamp Base](https://www.youtube.com/watch?v=sFRNerKq7E8)  
+  ![](https://i.ytimg.com/vi/sFRNerKq7E8/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-23 03:30:38 (UTC)  
@@ -8992,15 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
   **مدت:** حدود 6.6 دقیقه  
   **عنوان:** [Solidworks tutorial | insert Bill of Materials (BOM) into a Drawing in Solidworks](https://www.youtube.com/watch?v=E0Mn1p7dC-g)  
   ![](https://i.ytimg.com/vi/E0Mn1p7dC-g/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-10 08:43:02 (UTC)  
-  **مدت:** حدود 3.5 دقیقه  
-  **عنوان:** [Solidworks tutorial | How to Set Standard Views in Command Manager](https://www.youtube.com/watch?v=ijTERzFkhXY)  
-  ![](https://i.ytimg.com/vi/ijTERzFkhXY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-09 18:02:52 (UTC)  
-  **مدت:** حدود 8.8 دقیقه  
-  **عنوان:** [Unboxing and Review of TeckNet M002 2.4G Wireless Mouse](https://www.youtube.com/watch?v=oZwqGiqhk-0)  
-  ![](https://i.ytimg.com/vi/oZwqGiqhk-0/hqdefault.jpg)

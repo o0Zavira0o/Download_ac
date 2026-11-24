@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
+_آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-24 19:34:48 (UTC)  
+  **مدت:** حدود 1.0 دقیقه  
+  **عنوان:** [Paketzustellung 📦](https://www.youtube.com/watch?v=jiFmWpY1Lm4)  
+  ![](https://i.ytimg.com/vi/jiFmWpY1Lm4/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-23 13:27:46 (UTC)  
@@ -14,7 +20,7 @@ _آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
 
 - **تاریخ انتشار:** 2026-11-22 18:00:03 (UTC)  
   **مدت:** حدود 14.9 دقیقه  
-  **عنوان:** [The Pro’s and Con’s of Living in Stuttgart](https://www.youtube.com/watch?v=VlACZMlkWCo)  
+  **عنوان:** [Is Stuttgart a Good Place to Live?](https://www.youtube.com/watch?v=VlACZMlkWCo)  
   ![](https://i.ytimg.com/vi/VlACZMlkWCo/hqdefault.jpg)
 
 
@@ -56,7 +62,7 @@ _آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
 
 - **تاریخ انتشار:** 2026-11-15 18:00:01 (UTC)  
   **مدت:** حدود 15.5 دقیقه  
-  **عنوان:** [Bregenz: Lake Life, Austrian Dialect & Local Food](https://www.youtube.com/watch?v=MN5GQvHMA5Y)  
+  **عنوان:** [Learn German from the Streets of 🇦🇹  Bregenz](https://www.youtube.com/watch?v=MN5GQvHMA5Y)  
   ![](https://i.ytimg.com/vi/MN5GQvHMA5Y/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
   **مدت:** حدود 11.2 دقیقه  
   **عنوان:** [Discrimination in Germany | Easy German 215](https://www.youtube.com/watch?v=3w6oirSV6Zw)  
   ![](https://i.ytimg.com/vi/3w6oirSV6Zw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-10-01 16:57:56 (UTC)  
-  **مدت:** حدود 8.5 دقیقه  
-  **عنوان:** [What are you reading? | Easy German 214](https://www.youtube.com/watch?v=Co-VwHBM1ZY)  
-  ![](https://i.ytimg.com/vi/Co-VwHBM1ZY/hqdefault.jpg)

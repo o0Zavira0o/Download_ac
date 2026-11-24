@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
+_آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-24 12:28:07 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Can You Measure This? 99% People Fail This Vernier Caliper Test! 🤯](https://www.youtube.com/watch?v=Qu3Cw30Zi4s)  
+  ![](https://i.ytimg.com/vi/Qu3Cw30Zi4s/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-24 06:21:51 (UTC)  
+  **مدت:** حدود 8.4 دقیقه  
+  **عنوان:** [How To Make Mounting Bracket In SolidWorks? | Step By Step Tutorial!](https://www.youtube.com/watch?v=9gEaIUM6B3k)  
+  ![](https://i.ytimg.com/vi/9gEaIUM6B3k/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-23 09:23:57 (UTC)  
@@ -22,6 +34,18 @@ _آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
   **مدت:** حدود 3.5 دقیقه  
   **عنوان:** [SolidWorks Advanced Exercise! 🤯 Can You Model This 6-Pipe Star Junction?](https://www.youtube.com/watch?v=pPQcfIaOZoQ)  
   ![](https://i.ytimg.com/vi/pPQcfIaOZoQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-20 03:12:51 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Stop Using Wrong Drill Bit! ❌ This Chart Will Save Your Drill!](https://www.youtube.com/watch?v=gjlpDhgp7zc)  
+  ![](https://i.ytimg.com/vi/gjlpDhgp7zc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-19 02:46:02 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How Engine Valve Mechanism Works? 🔥 | All Components Explained!](https://www.youtube.com/watch?v=tzJP7iyO_fY)  
+  ![](https://i.ytimg.com/vi/tzJP7iyO_fY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-18 12:11:59 (UTC)  
@@ -470,7 +494,7 @@ _آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
 
 - **تاریخ انتشار:** 2026-08-24 03:42:51 (UTC)  
   **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅CAD & Follower Simple Working 😀](https://www.youtube.com/watch?v=mQnCBAJnjLY)  
+  **عنوان:** [Why This Mechanism is Genius #shorts #engineering](https://www.youtube.com/watch?v=mQnCBAJnjLY)  
   ![](https://i.ytimg.com/vi/mQnCBAJnjLY/hqdefault.jpg)
 
 
@@ -880,27 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-23T21:09:12Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [How to Use Sweep+ Circular Profile Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=bxXG4zWjEno)  
   ![](https://i.ytimg.com/vi/bxXG4zWjEno/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-26 11:42:23 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [How to Use Revolve Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=9kXnYJEb5o4)  
-  ![](https://i.ytimg.com/vi/9kXnYJEb5o4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-25 14:28:38 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [How to Use Linear Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=UrWsuyFVjHU)  
-  ![](https://i.ytimg.com/vi/UrWsuyFVjHU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-23 12:37:31 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [✅How a Spring Latch Lock Works❓](https://www.youtube.com/watch?v=PMPKaPSZaq4)  
-  ![](https://i.ytimg.com/vi/PMPKaPSZaq4/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-17 12:07:47 (UTC)  
-  **مدت:** حدود 21.1 دقیقه  
-  **عنوان:** [Learn to Build a Helical Gear Box in SolidWorks: Full Assembly Tutorial](https://www.youtube.com/watch?v=p3UTzr5uMk0)  
-  ![](https://i.ytimg.com/vi/p3UTzr5uMk0/hqdefault.jpg)
