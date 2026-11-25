@@ -1,6 +1,42 @@
-# Last Run: 2026-11-25 11:00 UTC
+# Last Run: 2026-11-25 21:13 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] De Gaulle and the Art of European Defiance
+Published: 2026-11-25T20:00:29+00:00
+Link: https://foreignpolicy.com/2026/11/25/review-de-gaulle-film-resistance-liberte-world-war-ii/
+---
+[Foreign_Policy] Trump’s ‘Unprecedented Intervention’ in Nvidia
+Published: 2026-11-25T19:58:04+00:00
+Link: https://foreignpolicy.com/2026/11/25/jensen-huang-reinstated-nvidia-trump-pardon-ai-big-tech/
+---
+[Foreign_Policy] Do Democrats Disagree?
+Published: 2026-11-25T19:47:54+00:00
+Link: https://foreignpolicy.com/2026/11/25/democratic-congress-foreign-policy-party-divisions-matt-duss/
+---
+[Foreign_Policy] Nepal’s New Leader Reaffirms Ties With India
+Published: 2026-11-25T19:28:39+00:00
+Link: https://foreignpolicy.com/2026/11/25/bangladesh-india-china-modi-shah-visit-flood-reconstruction-aid/
+---
+[Foreign_Policy] Arms Control Pledges Are Hard to Keep, But Talking Helps
+Published: 2026-11-25T18:32:09+00:00
+Link: https://foreignpolicy.com/2026/11/25/shenzhen-summit-trump-xi-putin-nuclear/
+---
+[Foreign_Policy] Trump Is Desperate For a Ukraine Deal, but the Window Is Closing
+Published: 2026-11-25T16:47:32+00:00
+Link: https://foreignpolicy.com/2026/11/25/trump-putin-ukraine-russia-peace-deal-corruption-kushner-witkoff/
+---
+[Foreign_Policy] The Party Shaping Spain’s Election Isn’t Even on the Ballot
+Published: 2026-11-25T15:05:31+00:00
+Link: https://foreignpolicy.com/2026/11/25/spain-snap-elections-catalonia-far-right-junts-sanchez-alianca-catalana-housing-crisis-immigration/
+---
+[Foreign_Policy] Don’t Let China Hawks Exploit the Nvidia Scandal
+Published: 2026-11-25T14:55:59+00:00
+Link: https://foreignpolicy.com/2026/11/25/nvidia-jensen-huang-china-trump-chips-peace/
+---
+[Foreign_Policy] FP’s 2026 Holiday Gift Guide
+Published: 2026-11-25T11:00:20+00:00
+Link: https://foreignpolicy.com/2026/11/25/holiday-gift-guide-world-travel-art-games-drink/
+---
 [Foreign_Affairs] China Is Preparing for the End of Détente
 Published: 2026-11-25T09:00:00+00:00
 Link: https://www.foreignaffairs.com/china/china-preparing-end-detente-trump-yun-sun
