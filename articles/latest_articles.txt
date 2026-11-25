@@ -1,6 +1,38 @@
-# Last Run: 2026-11-24 14:39 UTC
+# Last Run: 2026-11-25 00:43 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Xi Knows How to Play Trump
+Published: 2026-11-24T22:44:55+00:00
+Link: https://foreignpolicy.com/2026/11/24/jensen-huang-nvidia-return-trump-xi-us-china-relations/
+---
+[Foreign_Policy] Armenia’s Pivot to Washington
+Published: 2026-11-24T22:27:32+00:00
+Link: https://foreignpolicy.com/2026/11/24/armenia-tripp-corridor-new-constitution-azerbaijan-pashinyan-ambassador/
+---
+[Foreign_Policy] What’s Holding Up Ukraine’s Air Defense?
+Published: 2026-11-24T22:00:34+00:00
+Link: https://foreignpolicy.com/2026/11/24/ukraine-patriot-missiles-trump-hegseth-delay-china-purge-chen-jining/
+---
+[Foreign_Policy] Tech Giants Are Effectively Ungovernable. Here’s How to Change That.
+Published: 2026-11-24T20:52:13+00:00
+Link: https://foreignpolicy.com/2026/11/24/nvidia-jensen-huang-return-tech-ai-industry-trump-us-corporate-oversight/
+---
+[Foreign_Policy] What Did Xi Jinping Get From the Shenzhen Summit?
+Published: 2026-11-24T20:42:25+00:00
+Link: https://foreignpolicy.com/2026/11/24/china-xi-trump-shenzhen-putin-summit/
+---
+[Foreign_Policy] Europe Steps Into the Breach on Ukraine
+Published: 2026-11-24T18:35:03+00:00
+Link: https://foreignpolicy.com/2026/11/24/ukraine-russia-war-frozen-assets-funding-trump/
+---
+[Foreign_Policy] Risk and Reward Along Africa’s Red Sea Littoral
+Published: 2026-11-24T17:15:00+00:00
+Link: https://foreignpolicy.com/2026/11/24/horn-africa-red-sea-littoral-eritrea-ethiopia-somalia-somaliland-puntland/
+---
+[Foreign_Policy] Spinning Genocide
+Published: 2026-11-24T15:20:55+00:00
+Link: https://foreignpolicy.com/2026/11/24/israel-gaza-genocide-biden-akbar-ahmed-assal-rad/
+---
 [Foreign_Affairs] The Real Nvidia Scandal
 Published: 2026-11-24T09:00:00+00:00
 Link: https://www.foreignaffairs.com/china/real-nvidia-scandal-kilcrease-chilukuri
