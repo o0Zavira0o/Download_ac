@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
+_آخرین به‌روزرسانی: 2026-11-25T19:05:57Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-25 06:35:31 (UTC)  
+  **مدت:** حدود 5.9 دقیقه  
+  **عنوان:** [Mounting Bracket Design In SolidWorks | Engineering Drawing To 3D Model!](https://www.youtube.com/watch?v=1hwpzGTqKZM)  
+  ![](https://i.ytimg.com/vi/1hwpzGTqKZM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-24 12:28:07 (UTC)  
@@ -26,7 +32,7 @@ _آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
 
 - **تاریخ انتشار:** 2026-11-22 11:35:42 (UTC)  
   **مدت:** حدود 22.1 دقیقه  
-  **عنوان:** [SolidWorks Weldments Structure Design! 🔥 Full Platform + Stairs | Step By Step Tutorial!](https://www.youtube.com/watch?v=82BJhUzX26M)  
+  **عنوان:** [The Secret to Perfect SolidWorks Weldments (Platform & Stairs)](https://www.youtube.com/watch?v=82BJhUzX26M)  
   ![](https://i.ytimg.com/vi/82BJhUzX26M/hqdefault.jpg)
 
 
@@ -34,18 +40,6 @@ _آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
   **مدت:** حدود 3.5 دقیقه  
   **عنوان:** [SolidWorks Advanced Exercise! 🤯 Can You Model This 6-Pipe Star Junction?](https://www.youtube.com/watch?v=pPQcfIaOZoQ)  
   ![](https://i.ytimg.com/vi/pPQcfIaOZoQ/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-11-20 03:12:51 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [Stop Using Wrong Drill Bit! ❌ This Chart Will Save Your Drill!](https://www.youtube.com/watch?v=gjlpDhgp7zc)  
-  ![](https://i.ytimg.com/vi/gjlpDhgp7zc/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-11-19 02:46:02 (UTC)  
-  **مدت:** حدود 0.1 دقیقه  
-  **عنوان:** [How Engine Valve Mechanism Works? 🔥 | All Components Explained!](https://www.youtube.com/watch?v=tzJP7iyO_fY)  
-  ![](https://i.ytimg.com/vi/tzJP7iyO_fY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-18 12:11:59 (UTC)  
@@ -904,3 +898,9 @@ _آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [How to Use Sweep+ Circular Profile Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=bxXG4zWjEno)  
   ![](https://i.ytimg.com/vi/bxXG4zWjEno/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-02-26 11:42:23 (UTC)  
+  **مدت:** حدود 0.4 دقیقه  
+  **عنوان:** [How to Use Revolve Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=9kXnYJEb5o4)  
+  ![](https://i.ytimg.com/vi/9kXnYJEb5o4/hqdefault.jpg)

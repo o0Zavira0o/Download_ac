@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
+_آخرین به‌روزرسانی: 2026-11-25T19:05:57Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-25 18:00:10 (UTC)  
+  **مدت:** حدود 11.0 دقیقه  
+  **عنوان:** [German Small Talk for Beginners](https://www.youtube.com/watch?v=Pb7N0IAGHvk)  
+  ![](https://i.ytimg.com/vi/Pb7N0IAGHvk/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-24 19:34:48 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
   **مدت:** حدود 2.9 دقیقه  
   **عنوان:** [Driving Vocabulary | Super Easy German (50)](https://www.youtube.com/watch?v=Dd05ijXQHFk)  
   ![](https://i.ytimg.com/vi/Dd05ijXQHFk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-10-08 16:58:11 (UTC)  
-  **مدت:** حدود 11.2 دقیقه  
-  **عنوان:** [Discrimination in Germany | Easy German 215](https://www.youtube.com/watch?v=3w6oirSV6Zw)  
-  ![](https://i.ytimg.com/vi/3w6oirSV6Zw/hqdefault.jpg)

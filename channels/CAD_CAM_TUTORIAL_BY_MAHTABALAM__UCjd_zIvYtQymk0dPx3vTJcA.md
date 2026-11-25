@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
+_آخرین به‌روزرسانی: 2026-11-25T19:05:57Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-25 03:30:11 (UTC)  
+  **مدت:** حدود 17.1 دقیقه  
+  **عنوان:** [Bench Vise Parts and Assembly in SolidWorks-Part3 (SolidWorks Assembly)](https://www.youtube.com/watch?v=sjvQhaA37mA)  
+  ![](https://i.ytimg.com/vi/sjvQhaA37mA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-24 15:42:46 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
   **مدت:** حدود 10.0 دقیقه  
   **عنوان:** [Laptop for CAD software's (SolidWorks) | Realview in Solidworks](https://www.youtube.com/watch?v=9HHdLuj675o)  
   ![](https://i.ytimg.com/vi/9HHdLuj675o/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-11 13:22:08 (UTC)  
-  **مدت:** حدود 6.6 دقیقه  
-  **عنوان:** [Solidworks tutorial | insert Bill of Materials (BOM) into a Drawing in Solidworks](https://www.youtube.com/watch?v=E0Mn1p7dC-g)  
-  ![](https://i.ytimg.com/vi/E0Mn1p7dC-g/hqdefault.jpg)

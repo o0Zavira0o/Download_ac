@@ -1,6 +1,6 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
+_آخرین به‌روزرسانی: 2026-11-25T19:05:57Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
@@ -10,7 +10,7 @@ _آخرین به‌روزرسانی: 2026-11-24T20:04:12Z_
 
 - **تاریخ انتشار:** 2026-11-22 17:13:08 (UTC)  
   **مدت:** حدود 1.1 دقیقه  
-  **عنوان:** [The #1 Workout Split (According To Influencers)](https://www.youtube.com/watch?v=OR7sDl9Psx8)  
+  **عنوان:** [What Workout Split Do Influencers ACTUALLY Use?](https://www.youtube.com/watch?v=OR7sDl9Psx8)  
   ![](https://i.ytimg.com/vi/OR7sDl9Psx8/hqdefault.jpg)
 
 
