@@ -1,6 +1,18 @@
-# Last Run: 2026-11-25 00:43 UTC
+# Last Run: 2026-11-25 11:00 UTC
 # Articles published in last 72 hours
 
+[Foreign_Affairs] China Is Preparing for the End of Détente
+Published: 2026-11-25T09:00:00+00:00
+Link: https://www.foreignaffairs.com/china/china-preparing-end-detente-trump-yun-sun
+---
+[Foreign_Affairs] The Global Antiauthoritarian Wave Is an Illusion
+Published: 2026-11-25T09:00:00+00:00
+Link: https://www.foreignaffairs.com/united-states/democracy-global-anti-authoritarian-wave-illusion
+---
+[Foreign_Policy] What Does the ICJ Ruling Mean for Myanmar?
+Published: 2026-11-25T06:00:40+00:00
+Link: https://foreignpolicy.com/2026/11/25/icj-myanmar-genocide-rohingya-trump/
+---
 [Foreign_Policy] Xi Knows How to Play Trump
 Published: 2026-11-24T22:44:55+00:00
 Link: https://foreignpolicy.com/2026/11/24/jensen-huang-nvidia-return-trump-xi-us-china-relations/
@@ -124,24 +136,4 @@ Link: https://www.foreignaffairs.com/ukraine/its-time-settle-russia
 [Foreign_Policy] The Democratic Party’s Three Conflicting Camps on AI
 Published: 2026-11-23T05:01:00+00:00
 Link: https://foreignpolicy.com/2026/11/23/democratic-party-ai-race-china-regulation-nvidia-data-centers/
----
-[New_Yorker_Magazine] Should the Democrats Impeach Pete Hegseth?
-Published: 2026-11-22T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/the-uses-of-impeachment
----
-[New_Yorker_Magazine] “No Prophet,” by Nasser Rabah
-Published: 2026-11-22T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/no-prophet-nasser-rabah-poem
----
-[New_Yorker_Magazine] “Chickenpox,” by Jane Shore
-Published: 2026-11-22T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/chickenpox-jane-shore-poem
----
-[New_Yorker_Magazine] “Out of Time,” by Mary Gaitskill
-Published: 2026-11-22T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/out-of-time-fiction-mary-gaitskill
----
-[Foreign_Policy] Ronald Reagan Changed His Chief of Staff After a Midterm Trouncing, Too
-Published: 2026-11-22T05:01:28+00:00
-Link: https://foreignpolicy.com/2026/11/22/reagan-chief-of-staff-change-midterms/
 ---
