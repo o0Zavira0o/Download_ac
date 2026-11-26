@@ -1,4 +1,256 @@
 ================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | IrGens
+Title  : Python Data Essentials: Python Introduction
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 29m | 232 MB
+Link   : http://zavat.pw/ebooks/python-introduction-data-essentials.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | IrGens
+Title  : AI-Augmented Social Engineering
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 46m | 245 MB
+Link   : http://zavat.pw/ebooks/ai-augmented-social-engineering.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | IrGens
+Title  : AI Ready: Introduction to AI-assisted Development
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 25m | 129 MB
+Link   : http://zavat.pw/ebooks/ai-ready-intro-ai-assisted-development.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | IrGens
+Title  : AI Ready: Advanced Claude Code
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 10m | 380 MB
+Link   : http://zavat.pw/ebooks/ai-ready-advanced-claude-code1.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | IrGens
+Title  : Evaluating and Validating AI Generated Code
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 56m | 499 MB
+Link   : http://zavat.pw/ebooks/evaluating-validating-ai-generated-code.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | IrGens
+Title  : Troubleshooting Difficult Problems and Using AI Tools in Windows 11
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 54m | 126 MB
+Link   : http://zavat.pw/ebooks/windows-11-troubleshooting-difficult-problems-ai-tools.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | IrGens
+Title  : Introduction to Developing AI Agents [Updated Nov 24, 2026]
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 51m | 218 MB
+Link   : http://zavat.pw/ebooks/ai-agents-developing-introduction.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | IrGens
+Title  : LLM Basics and Transformers with PyTorch [Updated Nov 24, 2026]
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 58m | 400 MB
+Link   : http://zavat.pw/ebooks/pytorch-llm-basics-transformers.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | IrGens
+Title  : Retrieval Augmented Generation Patterns for AWS
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 1h 26m | 227 MB
+Link   : http://zavat.pw/ebooks/aws-retrieval-augmented-generation-patterns.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | IrGens
+Title  : Social Engineering Explained
+Details: .MP4, AVC, 1920x1080, 30 fps | English, AAC, 2 Ch | 36m | 263 MB
+Link   : http://zavat.pw/ebooks/social-engineering-explained.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | IrGens
+Title  : Deploying and Operating Small Language Model Systems
+Details: .MP4, AVC, 1280x720, 30 fps | English, AAC, 2 Ch | 2h 43m | 1.19 GB
+Link   : http://zavat.pw/ebooks/deploying-operating-small-language-model-systems.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | IrGens
+Title  : The World of Chocolate: Everything You Need to Know
+Details: English | November 3, 2026 | ISBN: 164829300X, 9781648293023 | True EPUB | 224 pages | 177 MB
+Link   : http://zavat.pw/ebooks/164829300X.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : How to Successfully Conduct a Randomized Clinical Trial
+Details: English | 2027 | ISBN: 3032406099 | 376 Pages | PDF EPUB (True) | 87 MB
+Link   : http://zavat.pw/ebooks/3032406099.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : Proceedings of the International Conference on Artificial Intelligence and Sustainable Computing
+Details: English | 2027 | ISBN: 9819226376 | 563 Pages | PDF (True) | 34 MB
+Link   : http://zavat.pw/ebooks/9819226376.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : Analysis on Manifolds
+Details: English | 2027 | ISBN: 9819212340 | 366 Pages | PDF EPUB (True) | 25 MB
+Link   : http://zavat.pw/ebooks/9819212340.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : Neuroscience of Joy. How the Brain Constructs Happiness.
+Details: English | 2023 | ISBN: n/a | 45 Pages | EPUB (True) | 0.2 MB
+Link   : http://zavat.pw/ebooks/NeuroscienceofJoy.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : Outer Banks: A Keepsake
+Details: English | 2026 | ISBN: 0764372335 | 98 Pages | EPUB (True) | 9 MB
+Link   : http://zavat.pw/ebooks/0764372335.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : Linkerd: Up and Running (2nd Edition)
+Details: English | 2026 | ISBN: 1098142314 | 317 Pages | EPUB (True) | 7 MB
+Link   : http://zavat.pw/ebooks/1098142314E.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : Plotten mit dem CRICUT MAKER 5
+Details: Deutsch | 2026 | ISBN: 3747513123 | 341 Pages | EPUB (True) | 21 MB
+Link   : http://zavat.pw/ebooks/3747513123.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : Rough Guides Mini Cancun and Cozumel
+Details: English | 2026 | ISBN: 1835295487 | 169 Pages | EPUB (True) | 25 MB
+Link   : http://zavat.pw/ebooks/1835295487.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : Advances in Design, Music and Arts IV, Volume 2
+Details: English | 2026 | ISBN: 3032411165 | 694 Pages | PDF (True) | 57 MB
+Link   : http://zavat.pw/ebooks/3032411165.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : The Book of Debugging
+Details: English | 2027 | ISBN: 1718504063 | 212 Pages | PDF | 2 MB
+Link   : http://zavat.pw/ebooks/1718504063P.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : Learn Excel for Mac: Mastering Excel Essentials
+Details: English | 2026 | ASIN: B0HF3BSCXD | 282 Pages | PDF EPUB (True) | 20 MB
+Link   : http://zavat.pw/ebooks/B0HF3BSCXD.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : Faszination Unendlichkeit
+Details: Deutsch | 2026 | ISBN: 3662697084 | 188 Pages | PDF (True) | 3 MB
+Link   : http://zavat.pw/ebooks/3662697084.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : Darstellungsästhetiken in Games
+Details: Deutsch | 2026 | ISBN: 3658531010 | 250 Pages | PDF (True) | 16 MB
+Link   : http://zavat.pw/ebooks/3658531010.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : Kreativität in IT und Technik für Dummies
+Details: Deutsch | 2026 | ISBN: 352772172X | 485 Pages | EPUB (True) | 16 MB
+Link   : http://zavat.pw/ebooks/352772172X.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | hill0
+Title  : PowerShell Fundamentals
+Details: English | 2026 | ISBN: 9781808761393 | 318 Pages | PDF EPUB (True) | 22 MB
+Link   : http://zavat.pw/ebooks/9781808761393.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : F - 1 Dicembre 2026
+Details: Italiano | 148 pages | PDF | 267 MB
+Link   : http://zavat.pw/magazines/F1Dicembre2026-68836.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : Nuovo TV - 30 Novembre 2026
+Details: Italiano | 116 pages | PDF | 293 MB
+Link   : http://zavat.pw/magazines/NuovoTV30Novembre2026-44158.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : Der Spiegel - 27 November 2026
+Details: Deutsch | 164 pages | True PDF | 47 MB
+Link   : http://zavat.pw/magazines/DerSpiegel27November2026-58832.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : Spiegel Bestseller - Winter 2026
+Details: Deutsch | 32 pages | True PDF | 15 MB
+Link   : http://zavat.pw/magazines/SpiegelBestsellerWinter2026-71335.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : G Baby - Dicembre 2026
+Details: Italiano | 52 pages | True PDF | 46 MB
+Link   : http://zavat.pw/magazines/GBabyDicembre2026-26683.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : Toy Soldier Collector & Historical Figures - December 2026
+Details: English | 100 pages | True PDF | 38 MB
+Link   : http://zavat.pw/magazines/ToySoldierCollectorHistoricalFiguresDecember2026-89520.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : Famiglia Cristiana - 29 Novembre 2026
+Details: Italiano | 124 pages | True PDF | 27 MB
+Link   : http://zavat.pw/magazines/FamigliaCristiana29Novembre2026-78475.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : Railway Bylines - December 2026
+Details: English | 56 pages | True PDF | 25 MB
+Link   : http://zavat.pw/magazines/RailwayBylinesDecember2026-76848.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : Il Giornalino Scienza e scoperte - Novembre 2026
+Details: Italiano | 64 pages | True PDF | 33 MB
+Link   : http://zavat.pw/magazines/IlGiornalinoScienzaescoperteNovembre2026-41843.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : Internazionale - 27 Novembre 2026
+Details: Italiano | 124 pages | True PDF | 17 MB
+Link   : http://zavat.pw/magazines/Internazionale27Novembre2026-24648.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : Oggi - 3 Dicembre 2026
+Details: Italiano | 124 pages | True PDF | 21 MB
+Link   : http://zavat.pw/magazines/Oggi3Dicembre2026-49595.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : USA Today Sports Weekly - 25 November 2026
+Details: English | 32 pages | True PDF | 4 MB
+Link   : http://zavat.pw/newspapers/USATodaySportsWeekly25November2026-36908.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : Credere - 29 Novembre 2026
+Details: Italiano | 64 pages | True PDF | 14 MB
+Link   : http://zavat.pw/magazines/Credere29Novembre2026-57357.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : Salute Naturale - Dicembre 2026
+Details: Italiano | 100 pages | True PDF | 95 MB
+Link   : http://zavat.pw/magazines/SaluteNaturaleDicembre2026-68586.html
+
+================================================================================
+2026-11-26 19:02:33 (Asia/Tehran) | crazy-slim
+Title  : New Scientist Australian Edition - 28 November 2026
+Details: English | 52 pages | True PDF | 66 MB
+Link   : http://zavat.pw/magazines/NewScientistAustralianEdition28November2026-34784.html
+
+================================================================================
 2026-11-26 08:45:45 (Asia/Tehran) | IrGens
 Title  : Ingeborg Bachmann: The Complete Stories
 Details: English | 8 December 2026 | ISBN: 0811238792, 9780811238809 | True EPUB | 512 pages | 2.2 MB
