@@ -1,6 +1,18 @@
-# Last Run: 2026-11-26 04:00 UTC
+# Last Run: 2026-11-26 13:48 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Europe’s Economic Sovereignty Is All Talk and Little Action
+Published: 2026-11-26T12:33:15+00:00
+Link: https://foreignpolicy.com/2026/11/26/eu-europe-economic-security-sovereignty-derisking-decoupling-dependence-united-states-china/
+---
+[Foreign_Policy] Pedro Sánchez’s Big Bet
+Published: 2026-11-26T11:00:29+00:00
+Link: https://foreignpolicy.com/2026/11/26/spain-election-housing-crisis-sanchez-feijoo/
+---
+[Foreign_Affairs] How Europe Comes Apart
+Published: 2026-11-26T09:00:00+00:00
+Link: https://www.foreignaffairs.com/europe/elections-how-europe-comes-apart-mujtaba-rahman
+---
 [Foreign_Policy] Against an Axis of Anything
 Published: 2026-11-26T00:36:17+00:00
 Link: https://foreignpolicy.com/2026/11/25/against-axis-of-anything/
@@ -124,68 +136,4 @@ Link: https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-nation
 [Foreign_Policy] Ukraine’s Energy Plan Was Too Little, Too Late
 Published: 2026-11-23T17:25:53+00:00
 Link: https://foreignpolicy.com/2026/11/23/ukraine-winter-energy-renewables-russian-strikes-infrastructure/
----
-[New_Yorker_Magazine] The Great Wealth Transfer Is Causing Trust Issues
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/the-great-wealth-transfer-is-causing-trust-issues
----
-[New_Yorker_Magazine] Scott Bessent’s Economic Turnaround
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile
----
-[New_Yorker_Magazine] Letters from Our Readers
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/letters-from-the-november-30-and-december-7-2026-issue
----
-[New_Yorker_Magazine] Is Norway’s Oil Fund a Blessing or a Curse?
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/is-norways-oil-fund-a-blessing-or-a-curse
----
-[New_Yorker_Magazine] The Kings of Cocaine Are Masters of Stealth
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/the-kings-of-cocaine-are-masters-of-stealth
----
-[New_Yorker_Magazine] What Happens After We Flush?
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/after-the-flush-nick-kawa-book-review
----
-[New_Yorker_Magazine] Briefly Noted Book Reviews
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/all-the-presidents-wars-the-revolutionary-origins-of-language-enough-about-love-winter-song
----
-[New_Yorker_Magazine] Mary Gauthier Wants to Help You Heal
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/mary-gauthier-wants-to-help-you-heal
----
-[New_Yorker_Magazine] After a Record Loss, Leopold Aschenbrenner Is Still Betting Everything on A.I.
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/after-a-record-loss-leopold-aschenbrenner-is-still-betting-everything-on-ai
----
-[New_Yorker_Magazine] Our Agenda Is Not Scary at All
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/our-agenda-is-not-scary-at-all
----
-[New_Yorker_Magazine] The Middling State of the Sitcom
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/dig-tv-review-the-fall-and-rise-of-reggie-dinkins
----
-[New_Yorker_Magazine] One Man’s Quest to End Daylight Savings
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings
----
-[New_Yorker_Magazine] How Realistic Are Foreign-Policy Realists?
-Published: 2026-11-23T11:00:00+00:00
-Link: https://www.newyorker.com/magazine/2026/11/30/the-realist-david-m-sacks-book-review
----
-[Foreign_Policy] Is It Time for Kyiv to Compromise?
-Published: 2026-11-23T10:00:55+00:00
-Link: https://foreignpolicy.com/2026/11/23/oleksiy-goncharenko-interview-ukraine-russia-war-compromise-negotiations-trump-zelensky/
----
-[Foreign_Affairs] It’s Time to Settle With Russia
-Published: 2026-11-23T09:00:00+00:00
-Link: https://www.foreignaffairs.com/ukraine/its-time-settle-russia
----
-[Foreign_Policy] The Democratic Party’s Three Conflicting Camps on AI
-Published: 2026-11-23T05:01:00+00:00
-Link: https://foreignpolicy.com/2026/11/23/democratic-party-ai-race-china-regulation-nvidia-data-centers/
 ---
