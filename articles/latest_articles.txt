@@ -1,6 +1,14 @@
-# Last Run: 2026-11-26 13:48 UTC
+# Last Run: 2026-11-26 22:53 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] The Top 10 Reasons to Be Thankful in 2026
+Published: 2026-11-26T15:02:44+00:00
+Link: https://foreignpolicy.com/2026/11/26/thanksgiving-trump-thankful-list/
+---
+[Foreign_Policy] The Chaos Theory of International Relations
+Published: 2026-11-26T14:00:11+00:00
+Link: https://foreignpolicy.com/2026/11/26/the-chaos-theory-of-international-relations/
+---
 [Foreign_Policy] Europe’s Economic Sovereignty Is All Talk and Little Action
 Published: 2026-11-26T12:33:15+00:00
 Link: https://foreignpolicy.com/2026/11/26/eu-europe-economic-security-sovereignty-derisking-decoupling-dependence-united-states-china/
@@ -116,24 +124,4 @@ Link: https://www.foreignaffairs.com/china/real-nvidia-scandal-kilcrease-chiluku
 [Foreign_Affairs] The Paradox of Iranian Power
 Published: 2026-11-24T09:00:00+00:00
 Link: https://www.foreignaffairs.com/iran/paradox-iranian-power-sadjadpour
----
-[Foreign_Policy] Nvidia Is Now Too Big to Hold to Account
-Published: 2026-11-23T22:33:40+00:00
-Link: https://foreignpolicy.com/2026/11/23/nvidia-jensen-huang-return-us-china-ai-risk/
----
-[Foreign_Policy] Jensen Huang Is Back
-Published: 2026-11-23T20:43:20+00:00
-Link: https://foreignpolicy.com/2026/11/23/nvidia-reinstates-jensen-huang-ceo-trump-board/
----
-[Foreign_Policy] Democrats Want to Make Life More Affordable. They Could Begin With Permitting Reform.
-Published: 2026-11-23T19:29:24+00:00
-Link: https://foreignpolicy.com/2026/11/23/democrats-affordability-permitting-reform-baaja-energy-policy/
----
-[Foreign_Policy] Huang’s Return Is the Biggest National Security Scandal in U.S. History
-Published: 2026-11-23T19:06:14+00:00
-Link: https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/
----
-[Foreign_Policy] Ukraine’s Energy Plan Was Too Little, Too Late
-Published: 2026-11-23T17:25:53+00:00
-Link: https://foreignpolicy.com/2026/11/23/ukraine-winter-energy-renewables-russian-strikes-infrastructure/
 ---
