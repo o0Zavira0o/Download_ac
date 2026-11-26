@@ -1,14 +1,20 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-25T19:05:57Z_
+_آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
 
 
+- **تاریخ انتشار:** 2026-11-26 16:29:40 (UTC)  
+  **مدت:** حدود 0.9 دقیقه  
+  **عنوان:** [Chemnitz - Was machst du heute?](https://www.youtube.com/watch?v=PKf-ja8N00k)  
+  ![](https://i.ytimg.com/vi/PKf-ja8N00k/hqdefault.jpg)
+
+
 - **تاریخ انتشار:** 2026-11-25 18:00:10 (UTC)  
   **مدت:** حدود 11.0 دقیقه  
-  **عنوان:** [German Small Talk for Beginners](https://www.youtube.com/watch?v=Pb7N0IAGHvk)  
+  **عنوان:** [How to Make Small Talk in German](https://www.youtube.com/watch?v=Pb7N0IAGHvk)  
   ![](https://i.ytimg.com/vi/Pb7N0IAGHvk/hqdefault.jpg)
 
 
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-25T19:05:57Z_
   **مدت:** حدود 10.3 دقیقه  
   **عنوان:** [What's your name? | Easy German 216](https://www.youtube.com/watch?v=KTmnhwQA7xY)  
   ![](https://i.ytimg.com/vi/KTmnhwQA7xY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-10-18 17:03:00 (UTC)  
-  **مدت:** حدود 2.9 دقیقه  
-  **عنوان:** [Driving Vocabulary | Super Easy German (50)](https://www.youtube.com/watch?v=Dd05ijXQHFk)  
-  ![](https://i.ytimg.com/vi/Dd05ijXQHFk/hqdefault.jpg)

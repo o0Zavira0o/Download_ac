@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-25T19:05:57Z_
+_آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-26 09:30:35 (UTC)  
+  **مدت:** حدود 3.6 دقیقه  
+  **عنوان:** [SolidWorks Tutorial For Beginners | Drawing To 3D Model In Hindi | Step By Step!](https://www.youtube.com/watch?v=G7B3RKKzTcM)  
+  ![](https://i.ytimg.com/vi/G7B3RKKzTcM/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-26 03:24:24 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Sheet Metal Cone | SolidWorks Trick!](https://www.youtube.com/watch?v=qiKLIOn3W7I)  
+  ![](https://i.ytimg.com/vi/qiKLIOn3W7I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-25 06:35:31 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-25T19:05:57Z_
   **مدت:** حدود 0.4 دقیقه  
   **عنوان:** [How to Use Curve Driven Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=h1Keww1YaJ8)  
   ![](https://i.ytimg.com/vi/h1Keww1YaJ8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-27 11:44:25 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [How to Use Sweep+ Circular Profile Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=bxXG4zWjEno)  
-  ![](https://i.ytimg.com/vi/bxXG4zWjEno/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-26 11:42:23 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [How to Use Revolve Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=9kXnYJEb5o4)  
-  ![](https://i.ytimg.com/vi/9kXnYJEb5o4/hqdefault.jpg)

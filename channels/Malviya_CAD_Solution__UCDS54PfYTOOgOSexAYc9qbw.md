@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-11-25T19:05:57Z_
+_آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-11-26 03:13:36 (UTC)  
+  **مدت:** حدود 21.4 دقیقه  
+  **عنوان:** [Solidworks Sheetmetal tutorial | Mobile stand](https://www.youtube.com/watch?v=Kait_6bgMFA)  
+  ![](https://i.ytimg.com/vi/Kait_6bgMFA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-25 08:40:37 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-25T19:05:57Z_
   **مدت:** حدود 1.4 دقیقه  
   **عنوان:** [Learn about counterbore in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=H-fvC2MGKas)  
   ![](https://i.ytimg.com/vi/H-fvC2MGKas/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-23 03:10:42 (UTC)  
-  **مدت:** حدود 1.1 دقیقه  
-  **عنوان:** [3d modelling in solidworks 2025 😀 #solidworks #shorts #ytshorts #malviyacadsolution #cad](https://www.youtube.com/watch?v=dcnWJWNplss)  
-  ![](https://i.ytimg.com/vi/dcnWJWNplss/hqdefault.jpg)
