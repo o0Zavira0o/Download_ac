@@ -1,21 +1,39 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
+_آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-27 18:25:08 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Why Stronger Beam Bends MORE? 🤯 99% Engineers Don't Know!](https://www.youtube.com/watch?v=T4yKv7vTsbw)  
+  ![](https://i.ytimg.com/vi/T4yKv7vTsbw/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-27 10:00:11 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Can You Read This Micrometer? 🤔 99% Fail!](https://www.youtube.com/watch?v=7JDH8JPWTKc)  
+  ![](https://i.ytimg.com/vi/7JDH8JPWTKc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-27 04:56:22 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Types of Gears Explained🤔](https://www.youtube.com/watch?v=2S4Vp8ebjew)  
+  ![](https://i.ytimg.com/vi/2S4Vp8ebjew/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-27 02:17:44 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [How To Read Vernier Caliper? | Explained Step By Step!](https://www.youtube.com/watch?v=Jt__1AdJwzs)  
+  ![](https://i.ytimg.com/vi/Jt__1AdJwzs/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-26 09:30:35 (UTC)  
   **مدت:** حدود 3.6 دقیقه  
   **عنوان:** [SolidWorks Tutorial For Beginners | Drawing To 3D Model In Hindi | Step By Step!](https://www.youtube.com/watch?v=G7B3RKKzTcM)  
   ![](https://i.ytimg.com/vi/G7B3RKKzTcM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-11-26 03:24:24 (UTC)  
-  **مدت:** حدود 1.2 دقیقه  
-  **عنوان:** [Sheet Metal Cone | SolidWorks Trick!](https://www.youtube.com/watch?v=qiKLIOn3W7I)  
-  ![](https://i.ytimg.com/vi/qiKLIOn3W7I/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-25 06:35:31 (UTC)  
@@ -52,6 +70,18 @@ _آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
   **مدت:** حدود 3.5 دقیقه  
   **عنوان:** [SolidWorks Advanced Exercise! 🤯 Can You Model This 6-Pipe Star Junction?](https://www.youtube.com/watch?v=pPQcfIaOZoQ)  
   ![](https://i.ytimg.com/vi/pPQcfIaOZoQ/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-20 03:12:51 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [Stop Using Wrong Drill Bit! ❌ This Chart Will Save Your Drill!](https://www.youtube.com/watch?v=gjlpDhgp7zc)  
+  ![](https://i.ytimg.com/vi/gjlpDhgp7zc/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-19 02:46:02 (UTC)  
+  **مدت:** حدود 0.1 دقیقه  
+  **عنوان:** [How Engine Valve Mechanism Works? 🔥 | All Components Explained!](https://www.youtube.com/watch?v=tzJP7iyO_fY)  
+  ![](https://i.ytimg.com/vi/tzJP7iyO_fY/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-18 12:11:59 (UTC)  
@@ -874,33 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
   **مدت:** حدود 0.3 دقیقه  
   **عنوان:** [How to Add Weldments End Cap in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=31N9LiEW7Go)  
   ![](https://i.ytimg.com/vi/31N9LiEW7Go/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-03-04 11:08:40 (UTC)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [How to Use a Circular Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=CHcQazfgOOM)  
-  ![](https://i.ytimg.com/vi/CHcQazfgOOM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-03-03 14:33:18 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [How to Use a Lofted Boss/Base Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=UUBupeYSFWo)  
-  ![](https://i.ytimg.com/vi/UUBupeYSFWo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-03-02 11:41:58 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [How to Use Wrap Command in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=uyJiJqZbvPo)  
-  ![](https://i.ytimg.com/vi/uyJiJqZbvPo/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-03-01 02:51:19 (UTC)  
-  **مدت:** حدود 0.5 دقیقه  
-  **عنوان:** [How to Use a Metric Tap Thread in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=qhU63RZdA9s)  
-  ![](https://i.ytimg.com/vi/qhU63RZdA9s/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-02-28 02:53:41 (UTC)  
-  **مدت:** حدود 0.4 دقیقه  
-  **عنوان:** [How to Use Curve Driven Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=h1Keww1YaJ8)  
-  ![](https://i.ytimg.com/vi/h1Keww1YaJ8/hqdefault.jpg)

@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Andreu Medinger
 
-_آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
+_آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
 
 
 **لینک استاندارد کانال:** [Andreu Medinger](https://www.youtube.com/channel/UC7biUF9zCSHU_yXWbpCTE6Q)  
+
+
+- **تاریخ انتشار:** 2026-11-27 12:00:33 (UTC)  
+  **مدت:** حدود 103.8 دقیقه  
+  **عنوان:** [AULA 4 - DESCOMPLICA SOLIDWORKS SIMULATION](https://www.youtube.com/watch?v=DU8KyvnL7RA)  
+  ![](https://i.ytimg.com/vi/DU8KyvnL7RA/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-27 01:47:56 (UTC)  
+  **مدت:** حدود 2.2 دقیقه  
+  **عنوان:** [O CHASSI DO PATINETE MOTOTANQUE FICOU PRONTO.](https://www.youtube.com/watch?v=WbrGbW3bMjA)  
+  ![](https://i.ytimg.com/vi/WbrGbW3bMjA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-26 11:45:10 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
   **مدت:** حدود 37.3 دقیقه  
   **عنوان:** [AULA 58 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=OizDywrF4UY)  
   ![](https://i.ytimg.com/vi/OizDywrF4UY/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-11 22:30:08 (UTC)  
-  **مدت:** حدود 31.6 دقیقه  
-  **عنوان:** [AULA 57 | CURSO: SOLIDWORKS NA PRÁTICA | PROJETO: Ensacadora de Silagem Dupla #solidworks](https://www.youtube.com/watch?v=Fx9gjF3mDD0)  
-  ![](https://i.ytimg.com/vi/Fx9gjF3mDD0/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-07-08 23:11:51 (UTC)  
-  **مدت:** حدود 1.5 دقیقه  
-  **عنوان:** [Conteúdo Metalmecânico - Siga o perfil para receber mais conteúdos. #solidworks #solidworksbrasil](https://www.youtube.com/watch?v=l6-W-DFFK84)  
-  ![](https://i.ytimg.com/vi/l6-W-DFFK84/hqdefault.jpg)

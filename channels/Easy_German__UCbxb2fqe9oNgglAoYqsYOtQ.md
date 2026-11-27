@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
+_آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-27 08:58:29 (UTC)  
+  **مدت:** حدود 1.2 دقیقه  
+  **عنوان:** [Vorteile von Stuttgart](https://www.youtube.com/watch?v=7uBGs5qtZFA)  
+  ![](https://i.ytimg.com/vi/7uBGs5qtZFA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-26 16:29:40 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
   **مدت:** حدود 4.5 دقیقه  
   **عنوان:** [Komisch vs. witzig | Super Easy German (51)](https://www.youtube.com/watch?v=76wtF97To80)  
   ![](https://i.ytimg.com/vi/76wtF97To80/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-10-22 17:11:20 (UTC)  
-  **مدت:** حدود 10.3 دقیقه  
-  **عنوان:** [What's your name? | Easy German 216](https://www.youtube.com/watch?v=KTmnhwQA7xY)  
-  ![](https://i.ytimg.com/vi/KTmnhwQA7xY/hqdefault.jpg)

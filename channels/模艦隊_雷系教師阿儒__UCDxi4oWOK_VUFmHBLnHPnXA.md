@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال 模艦隊 雷系教師阿儒
 
-_آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
+_آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
 
 
 **لینک استاندارد کانال:** [模艦隊 雷系教師阿儒](https://www.youtube.com/channel/UCDxi4oWOK_VUFmHBLnHPnXA)  
+
+
+- **تاریخ انتشار:** 2026-11-27 11:00:06 (UTC)  
+  **مدت:** حدود 19.4 دقیقه  
+  **عنوان:** [【onshape】產品練習：塑膠椅｜超實用技巧 兩次薄殼](https://www.youtube.com/watch?v=6GvjPVZSfAM)  
+  ![](https://i.ytimg.com/vi/6GvjPVZSfAM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-25 11:00:23 (UTC)  
@@ -898,9 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
   **مدت:** حدود 10.9 دقیقه  
   **عنوان:** [【onshape】產品練習：湯匙(量匙)｜大量拔模｜父親節快樂](https://www.youtube.com/watch?v=Oo5oulAsNBg)  
   ![](https://i.ytimg.com/vi/Oo5oulAsNBg/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-08-06 11:01:29 (UTC)  
-  **مدت:** حدود 9.6 دقیقه  
-  **عنوان:** [【SolidWorks】必學建模combo技｜成為最帥的焦點｜分區處理](https://www.youtube.com/watch?v=iQcCQQFb1eA)  
-  ![](https://i.ytimg.com/vi/iQcCQQFb1eA/hqdefault.jpg)

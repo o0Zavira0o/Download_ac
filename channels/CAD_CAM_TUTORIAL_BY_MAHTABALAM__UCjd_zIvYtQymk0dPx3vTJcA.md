@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
+_آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-27 03:30:30 (UTC)  
+  **مدت:** حدود 62.4 دقیقه  
+  **عنوان:** [SolidWorks Complex Exercise-Suction End Housing (Centrifugal Pump)](https://www.youtube.com/watch?v=FCyXAUyhJjw)  
+  ![](https://i.ytimg.com/vi/FCyXAUyhJjw/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-25 03:30:11 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-26T18:56:27Z_
   **مدت:** حدود 103.0 دقیقه  
   **عنوان:** [Solidworks tutorial | Design of Butterfly Valve in Solidworks](https://www.youtube.com/watch?v=llzUqTaROHw)  
   ![](https://i.ytimg.com/vi/llzUqTaROHw/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-12 18:08:05 (UTC)  
-  **مدت:** حدود 10.0 دقیقه  
-  **عنوان:** [Laptop for CAD software's (SolidWorks) | Realview in Solidworks](https://www.youtube.com/watch?v=9HHdLuj675o)  
-  ![](https://i.ytimg.com/vi/9HHdLuj675o/hqdefault.jpg)
