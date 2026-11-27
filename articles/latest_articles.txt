@@ -1,6 +1,22 @@
-# Last Run: 2026-11-27 07:07 UTC
+# Last Run: 2026-11-27 17:56 UTC
 # Articles published in last 72 hours
 
+[Foreign_Policy] Big Tech Has Undermined Democracy. Here’s How to Reverse the Trend.
+Published: 2026-11-27T13:00:57+00:00
+Link: https://foreignpolicy.com/2026/11/27/big-tech-ai-democracy-erosion-public-trust-institutions-donald-trump/
+---
+[Foreign_Policy] FP’s Holiday Book List
+Published: 2026-11-27T13:00:14+00:00
+Link: https://foreignpolicy.com/2026/11/27/holiday-reading-list-international-book-recommendations-fiction-nonfiction-2/
+---
+[Foreign_Policy] Latin America’s ‘Orange Wave’ Is Not Spurning China
+Published: 2026-11-27T11:00:22+00:00
+Link: https://foreignpolicy.com/2026/11/27/latin-america-trump-china-right-wing-economics-orange-wave/
+---
+[Foreign_Affairs] The U.S.-China Endgame on AI
+Published: 2026-11-27T09:00:00+00:00
+Link: https://www.foreignaffairs.com/china/ai-us-china-endgame-tech-catastrophe-sheehan-singer
+---
 [Foreign_Policy] The Top 10 Reasons to Be Thankful in 2026
 Published: 2026-11-26T15:02:44+00:00
 Link: https://foreignpolicy.com/2026/11/26/thanksgiving-trump-thankful-list/
@@ -108,20 +124,4 @@ Link: https://foreignpolicy.com/2026/11/24/china-xi-trump-shenzhen-putin-summit/
 [Foreign_Policy] Europe Steps Into the Breach on Ukraine
 Published: 2026-11-24T18:35:03+00:00
 Link: https://foreignpolicy.com/2026/11/24/ukraine-russia-war-frozen-assets-funding-trump/
----
-[Foreign_Policy] Risk and Reward Along Africa’s Red Sea Littoral
-Published: 2026-11-24T17:15:00+00:00
-Link: https://foreignpolicy.com/2026/11/24/horn-africa-red-sea-littoral-eritrea-ethiopia-somalia-somaliland-puntland/
----
-[Foreign_Policy] Spinning Genocide
-Published: 2026-11-24T15:20:55+00:00
-Link: https://foreignpolicy.com/2026/11/24/israel-gaza-genocide-biden-akbar-ahmed-assal-rad/
----
-[Foreign_Affairs] The Real Nvidia Scandal
-Published: 2026-11-24T09:00:00+00:00
-Link: https://www.foreignaffairs.com/china/real-nvidia-scandal-kilcrease-chilukuri
----
-[Foreign_Affairs] The Paradox of Iranian Power
-Published: 2026-11-24T09:00:00+00:00
-Link: https://www.foreignaffairs.com/iran/paradox-iranian-power-sadjadpour
 ---
