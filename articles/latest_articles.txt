@@ -1,4 +1,4 @@
-# Last Run: 2026-11-27 17:56 UTC
+# Last Run: 2026-11-28 01:14 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Big Tech Has Undermined Democracy. Here’s How to Reverse the Trend.
@@ -100,28 +100,4 @@ Link: https://www.foreignaffairs.com/united-states/democracy-global-anti-authori
 [Foreign_Policy] What Does the ICJ Ruling Mean for Myanmar?
 Published: 2026-11-25T06:00:40+00:00
 Link: https://foreignpolicy.com/2026/11/25/icj-myanmar-genocide-rohingya-trump/
----
-[Foreign_Policy] Xi Knows How to Play Trump
-Published: 2026-11-24T22:44:55+00:00
-Link: https://foreignpolicy.com/2026/11/24/jensen-huang-nvidia-return-trump-xi-us-china-relations/
----
-[Foreign_Policy] Armenia’s Pivot to Washington
-Published: 2026-11-24T22:27:32+00:00
-Link: https://foreignpolicy.com/2026/11/24/armenia-tripp-corridor-new-constitution-azerbaijan-pashinyan-ambassador/
----
-[Foreign_Policy] What’s Holding Up Ukraine’s Air Defense?
-Published: 2026-11-24T22:00:34+00:00
-Link: https://foreignpolicy.com/2026/11/24/ukraine-patriot-missiles-trump-hegseth-delay-china-purge-chen-jining/
----
-[Foreign_Policy] Tech Giants Are Effectively Ungovernable. Here’s How to Change That.
-Published: 2026-11-24T20:52:13+00:00
-Link: https://foreignpolicy.com/2026/11/24/nvidia-jensen-huang-return-tech-ai-industry-trump-us-corporate-oversight/
----
-[Foreign_Policy] What Did Xi Jinping Get From the Shenzhen Summit?
-Published: 2026-11-24T20:42:25+00:00
-Link: https://foreignpolicy.com/2026/11/24/china-xi-trump-shenzhen-putin-summit/
----
-[Foreign_Policy] Europe Steps Into the Breach on Ukraine
-Published: 2026-11-24T18:35:03+00:00
-Link: https://foreignpolicy.com/2026/11/24/ukraine-russia-war-frozen-assets-funding-trump/
 ---
