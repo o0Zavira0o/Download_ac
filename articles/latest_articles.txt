@@ -1,4 +1,4 @@
-# Last Run: 2026-11-28 09:57 UTC
+# Last Run: 2026-11-28 18:01 UTC
 # Articles published in last 72 hours
 
 [Foreign_Policy] Big Tech Has Undermined Democracy. Here’s How to Reverse the Trend.
@@ -72,20 +72,4 @@ Link: https://foreignpolicy.com/2026/11/25/bangladesh-india-china-modi-shah-visi
 [Foreign_Policy] Arms Control Pledges Are Hard to Keep, But Talking Helps
 Published: 2026-11-25T18:32:09+00:00
 Link: https://foreignpolicy.com/2026/11/25/shenzhen-summit-trump-xi-putin-nuclear/
----
-[Foreign_Policy] Trump Is Desperate For a Ukraine Deal, but the Window Is Closing
-Published: 2026-11-25T16:47:32+00:00
-Link: https://foreignpolicy.com/2026/11/25/trump-putin-ukraine-russia-peace-deal-corruption-kushner-witkoff/
----
-[Foreign_Policy] The Party Shaping Spain’s Election Isn’t Even on the Ballot
-Published: 2026-11-25T15:05:31+00:00
-Link: https://foreignpolicy.com/2026/11/25/spain-snap-elections-catalonia-far-right-junts-sanchez-alianca-catalana-housing-crisis-immigration/
----
-[Foreign_Policy] Don’t Let China Hawks Exploit the Nvidia Scandal
-Published: 2026-11-25T14:55:59+00:00
-Link: https://foreignpolicy.com/2026/11/25/nvidia-jensen-huang-china-trump-chips-peace/
----
-[Foreign_Policy] FP’s 2026 Holiday Gift Guide
-Published: 2026-11-25T11:00:20+00:00
-Link: https://foreignpolicy.com/2026/11/25/holiday-gift-guide-world-travel-art-games-drink/
 ---
