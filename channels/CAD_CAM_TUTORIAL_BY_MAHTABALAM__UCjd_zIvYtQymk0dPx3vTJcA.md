@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال CAD CAM TUTORIAL BY MAHTABALAM
 
-_آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
+_آخرین به‌روزرسانی: 2026-11-28T17:28:09Z_
 
 
 **لینک استاندارد کانال:** [CAD CAM TUTORIAL BY MAHTABALAM](https://www.youtube.com/channel/UCjd_zIvYtQymk0dPx3vTJcA)  
+
+
+- **تاریخ انتشار:** 2026-11-28 03:30:05 (UTC)  
+  **مدت:** حدود 37.9 دقیقه  
+  **عنوان:** [SolidWorks Exercise-Spindle Support (Centrifugal Pump)](https://www.youtube.com/watch?v=-5BVuvuL5vQ)  
+  ![](https://i.ytimg.com/vi/-5BVuvuL5vQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-27 03:30:30 (UTC)  
@@ -8998,9 +9004,3 @@ _آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
   **مدت:** حدود 60.3 دقیقه  
   **عنوان:** [Solidworks Weldments tutorial | design of Steel ladder in Solidworks](https://www.youtube.com/watch?v=JNMmftpNpSM)  
   ![](https://i.ytimg.com/vi/JNMmftpNpSM/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-07-14 01:05:39 (UTC)  
-  **مدت:** حدود 103.0 دقیقه  
-  **عنوان:** [Solidworks tutorial | Design of Butterfly Valve in Solidworks](https://www.youtube.com/watch?v=llzUqTaROHw)  
-  ![](https://i.ytimg.com/vi/llzUqTaROHw/hqdefault.jpg)

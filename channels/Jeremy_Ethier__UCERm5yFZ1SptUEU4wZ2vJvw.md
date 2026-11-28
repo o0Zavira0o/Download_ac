@@ -1,11 +1,17 @@
 # آرشیو ویدیوهای کانال Jeremy Ethier
 
-_آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
+_آخرین به‌روزرسانی: 2026-11-28T17:28:09Z_
 
 
 **لینک استاندارد کانال:** [Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw)  
 
 **آدرسی که به بات دادی:** https://www.youtube.com/jeremyethier  
+
+
+- **تاریخ انتشار:** 2026-11-28 14:00:11 (UTC)  
+  **مدت:** حدود 20.8 دقیقه  
+  **عنوان:** [Should You Bulk Or Cut? (TWINS EXPERIMENT)](https://www.youtube.com/watch?v=XblH73bzh3g)  
+  ![](https://i.ytimg.com/vi/XblH73bzh3g/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-22 17:13:08 (UTC)  

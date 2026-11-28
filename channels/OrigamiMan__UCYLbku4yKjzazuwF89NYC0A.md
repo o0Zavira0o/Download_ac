@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Origami☆Man
 
-_آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
+_آخرین به‌روزرسانی: 2026-11-28T17:28:09Z_
 
 
 **لینک استاندارد کانال:** [Origami☆Man](https://www.youtube.com/channel/UCYLbku4yKjzazuwF89NYC0A)  
+
+
+- **تاریخ انتشار:** 2026-11-28 10:00:21 (UTC)  
+  **مدت:** حدود 38.6 دقیقه  
+  **عنوان:** [54,MANEKI NEKO | Lucky Cat Origami | 招き猫の折り紙【無言の折り紙】](https://www.youtube.com/watch?v=5Dd62xWRDFc)  
+  ![](https://i.ytimg.com/vi/5Dd62xWRDFc/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-21 10:00:05 (UTC)  

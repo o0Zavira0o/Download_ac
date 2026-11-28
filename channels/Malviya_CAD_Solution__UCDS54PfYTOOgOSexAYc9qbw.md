@@ -1,9 +1,21 @@
 # آرشیو ویدیوهای کانال Malviya CAD Solution
 
-_آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
+_آخرین به‌روزرسانی: 2026-11-28T17:28:09Z_
 
 
 **لینک استاندارد کانال:** [Malviya CAD Solution](https://www.youtube.com/channel/UCDS54PfYTOOgOSexAYc9qbw)  
+
+
+- **تاریخ انتشار:** 2026-11-28 10:20:36 (UTC)  
+  **مدت:** حدود 8.8 دقیقه  
+  **عنوان:** [Solidworks Beginners Exercise Tutorial | Advance Fillet and chamfer | Exercise 44](https://www.youtube.com/watch?v=4ytkeHlmf8U)  
+  ![](https://i.ytimg.com/vi/4ytkeHlmf8U/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-28 03:25:10 (UTC)  
+  **مدت:** حدود 2.0 دقیقه  
+  **عنوان:** [Jogg tool solidworks sheetmetal 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=ErcBEglFbcA)  
+  ![](https://i.ytimg.com/vi/ErcBEglFbcA/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-26 03:13:36 (UTC)  
@@ -892,15 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
   **مدت:** حدود 0.7 دقیقه  
   **عنوان:** [Delete face in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution #subscribe](https://www.youtube.com/watch?v=aBI_uaZo0fI)  
   ![](https://i.ytimg.com/vi/aBI_uaZo0fI/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-26 04:24:56 (UTC)  
-  **مدت:** حدود 2.1 دقیقه  
-  **عنوان:** [Magic tool in solidworks 😀 #shorts #ytshorts #solidworks #cad #malviyacadsolution](https://www.youtube.com/watch?v=QZt77ORq2W8)  
-  ![](https://i.ytimg.com/vi/QZt77ORq2W8/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2025-12-25 04:40:22 (UTC)  
-  **مدت:** حدود 1.4 دقیقه  
-  **عنوان:** [Learn about counterbore in solidworks 😀 #shorts #ytshorts #solidworks #malviyacadsolution](https://www.youtube.com/watch?v=H-fvC2MGKas)  
-  ![](https://i.ytimg.com/vi/H-fvC2MGKas/hqdefault.jpg)

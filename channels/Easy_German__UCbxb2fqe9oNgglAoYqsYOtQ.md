@@ -1,9 +1,15 @@
 # آرشیو ویدیوهای کانال Easy German
 
-_آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
+_آخرین به‌روزرسانی: 2026-11-28T17:28:09Z_
 
 
 **لینک استاندارد کانال:** [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)  
+
+
+- **تاریخ انتشار:** 2026-11-28 09:27:13 (UTC)  
+  **مدت:** حدود 1.9 دقیقه  
+  **عنوان:** [Mega 😃](https://www.youtube.com/watch?v=NtakHtVJdYQ)  
+  ![](https://i.ytimg.com/vi/NtakHtVJdYQ/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-27 08:58:29 (UTC)  
@@ -9598,9 +9604,3 @@ _آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
   **مدت:** حدود 8.5 دقیقه  
   **عنوان:** [How do Germans relax? | Easy German 217](https://www.youtube.com/watch?v=Cy4_jtJC1HU)  
   ![](https://i.ytimg.com/vi/Cy4_jtJC1HU/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2017-10-25 20:38:26 (UTC)  
-  **مدت:** حدود 4.5 دقیقه  
-  **عنوان:** [Komisch vs. witzig | Super Easy German (51)](https://www.youtube.com/watch?v=76wtF97To80)  
-  ![](https://i.ytimg.com/vi/76wtF97To80/hqdefault.jpg)

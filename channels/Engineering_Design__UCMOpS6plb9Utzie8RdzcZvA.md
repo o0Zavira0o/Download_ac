@@ -1,9 +1,27 @@
 # آرشیو ویدیوهای کانال Engineering Design
 
-_آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
+_آخرین به‌روزرسانی: 2026-11-28T17:28:09Z_
 
 
 **لینک استاندارد کانال:** [Engineering Design](https://www.youtube.com/channel/UCMOpS6plb9Utzie8RdzcZvA)  
+
+
+- **تاریخ انتشار:** 2026-11-28 13:53:38 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Set Ampere By Looking At Metal Plate! 🔥 Perfect Welding Chart](https://www.youtube.com/watch?v=nx2Q0qsuieE)  
+  ![](https://i.ytimg.com/vi/nx2Q0qsuieE/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-28 06:58:52 (UTC)  
+  **مدت:** حدود 0.5 دقیقه  
+  **عنوان:** [Closed Corner in SolidWorks | Sheet Metal Box Trick!](https://www.youtube.com/watch?v=wyG5DRUKXIs)  
+  ![](https://i.ytimg.com/vi/wyG5DRUKXIs/hqdefault.jpg)
+
+
+- **تاریخ انتشار:** 2026-11-28 04:04:11 (UTC)  
+  **مدت:** حدود 0.2 دقیقه  
+  **عنوان:** [Check This Letter On Your Tyre Or You Will Die! 😱](https://www.youtube.com/watch?v=cgwEuKO3WVM)  
+  ![](https://i.ytimg.com/vi/cgwEuKO3WVM/hqdefault.jpg)
 
 
 - **تاریخ انتشار:** 2026-11-27 18:25:08 (UTC)  
@@ -886,21 +904,3 @@ _آخرین به‌روزرسانی: 2026-11-27T18:48:12Z_
   **مدت:** حدود 0.2 دقیقه  
   **عنوان:** [How to Add Multiple Planes on Different Angles in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=NaswhJ8W1bk)  
   ![](https://i.ytimg.com/vi/NaswhJ8W1bk/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-03-07 11:54:26 (UTC)  
-  **مدت:** حدود 0.7 دقیقه  
-  **عنوان:** [How to Make a 3D Weldments Structure in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=8pNfhnwukUA)  
-  ![](https://i.ytimg.com/vi/8pNfhnwukUA/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-03-06 10:55:21 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [How to Use Sketch Driven Pattern in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=3zbqYfkckWs)  
-  ![](https://i.ytimg.com/vi/3zbqYfkckWs/hqdefault.jpg)
-
-
-- **تاریخ انتشار:** 2026-03-05 07:25:02 (UTC)  
-  **مدت:** حدود 0.3 دقیقه  
-  **عنوان:** [How to Add Weldments End Cap in Solidworks | Solidworks Tips](https://www.youtube.com/watch?v=31N9LiEW7Go)  
-  ![](https://i.ytimg.com/vi/31N9LiEW7Go/hqdefault.jpg)
